@@ -1,444 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/alba_photo_148">alba_photo_148</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the Children's Colonies Photograph Collection <num>ALBA.PHOTO.148</num></titleproper>
-        <author>Evan Daniel</author>
-      </titlestmt>
-      <editionstmt>
-        <p>This version was derived from children's colonies.doc</p>
-      </editionstmt>
-      <publicationstmt>
-        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
-        <p>
-          <date>2009</date>
-        </p>
-        <address>
-          <addressline>Elmer Holmes Bobst Library</addressline>
-          <addressline>70 Washington Square South</addressline>
-          <addressline>2nd Floor</addressline>
-          <addressline>New York, NY 10012</addressline>
-          <addressline>special.collections@nyu.edu</addressline>
-          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-11-22 16:50:09 -0500</date>.</creation>
-      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-      </repository>
-      <unittitle>Children's Colonies Photographs</unittitle>
-      <origination label="Creator">
-        <corpname role="col" source="naf">Abraham Lincoln Brigade Archives</corpname>
-      </origination>
-      <unitid>ALBA.PHOTO.148</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
-      </physdesc>
-      <unitdate datechar="creation" normal="1937/1938" type="inclusive">1937-1938</unitdate>
-      <abstract id="aspace_092d5b0d4496de5cc627b714f113c841">During the Spanish Civil War (1936-1939) Colonias Infantiles (children's colonies) were established in rural locales by the government of the Spanish Republic after fascist forces bombed Spanish cities, and many thousands of children were orphaned, driven from their homes or made destitute by war. Children's colonies were established in Spain, and individuals and groups of child refugees were also sent abroad for safety. Spanish children's colonies were founded in France and the United Kingdom at this time. The collection contains photographs of children eating, bathing, studying, doing chores, resting, and playing.</abstract>
-      <physdesc id="aspace_7b2fce192290df66b451458d3ae08a13" label="General Physical Description note">(1 box), 356 black and white photographs sized from 3 3/8 x 4 ½ inches to 9 ½ x 7 1/8 inches.</physdesc>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/alba_photo_148">alba_photo_148</eadid><filedesc><titlestmt><titleproper>Guide to the Children's Colonies Photograph Collection <num>ALBA.PHOTO.148</num></titleproper><author>Evan Daniel</author></titlestmt><editionstmt><p>This version was derived from children's colonies.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-12-12 19:47:08 -0500</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Children's Colonies Photographs</unittitle>
+    <origination label="Creator">
+      <corpname authfilenumber="(lccn)n88119968" role="col" source="naf">Abraham Lincoln Brigade Archives</corpname>
+    </origination>
+    <unitid>ALBA.PHOTO.148</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1937/1938" type="inclusive">1937-1938</unitdate>
+    <abstract id="aspace_092d5b0d4496de5cc627b714f113c841" label="Abstract">During the Spanish Civil War (1936-1939) Colonias Infantiles (children's colonies) were established in rural locales by the government of the Spanish Republic after fascist forces bombed Spanish cities, and many thousands of children were orphaned, driven from their homes or made destitute by war. Children's colonies were established in Spain, and individuals and groups of child refugees were also sent abroad for safety. Spanish children's colonies were founded in France and the United Kingdom at this time. The collection contains photographs of children eating, bathing, studying, doing chores, resting, and playing.</abstract>
+    <physdesc id="aspace_7b2fce192290df66b451458d3ae08a13" label="General Physical Description note">(1 box), 356 black and white photographs sized from 3 3/8 x 4 ½ inches to 9 ½ x 7 1/8 inches.</physdesc>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
 .    </langmaterial>
-    </did>
-    <custodhist id="aspace_f80b1ce64f7a337ee2a3446559916e23">
-      <head>Provenance</head>
-      <p>The Children's Colonies Photograph Collection came to New York University in January 2001 as part of the original acquisition of Abraham Lincoln Brigade Archives collections, formerly housed at Brandeis University.</p>
-    </custodhist>
-    <accessrestrict id="aspace_a645aa74f4d3443a5d2ce28a714a3dbe">
-      <head>Access Restrictions</head>
-      <p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>
-    </accessrestrict>
-    <bioghist id="aspace_00e068bbdce9a309302a35a8948f3b8f">
-      <head>Historical/Biographical Note</head>
-      <p>During the Spanish Civil War (1936-1939), roughly 200,000 of the 600,000 refugees seeking shelter from the armies of Generalissimo Franco and his fascist allies were children. Many children were orphaned or lost their homes. The bombing of large cities placed children at greatest risk, and many were moved to safer locations in the rural periphery. The government of the Spanish Republic established colonias infantiles (children's colonies), often in rural estates which had been abandoned by fascist sympathizers. Some parents and guardians sent children, individually or in groups, abroad for safety. Children's colonies were established in Spain, as well as in France and the United Kingdom, affording young refugees the opportunity to receive an education, medical care, and the company of other Spanish children. Photographs of children in these homes or colonies were taken for use in periodicals or publicity material, either produced by the Republic or produced and distributed by aid organizations in various countries.</p>
-    </bioghist>
-    <scopecontent id="aspace_450a29bb621bfbbd65ebe2819bc64e41">
-      <head>Scope and Content Note</head>
-      <p><emph render="bold">Series I: The Children's Colonies Photograph Collection</emph>consists of photographs related to the children's colonies in Spain and France. A number of the prints are stamped to indicate that they were taken for the Propaganda Section of the Republic's Children's Aid organization (Ajut Infantil de Reraguarda). The collection contains photographs of children eating, bathing, studying, doing chores, resting, and playing. Some images show teachers or other adult staff of the colonies. A number of files include exterior views of colony buildings, and interior shots of dormitories and dining halls. Of the total, 347 black and white prints are in files arranged alphabetically by either the name or the location of the colony. In addition to the images of children in identified colonies, there are ten images of children with donated toys and nine images of children in undesignated locations.</p>
-    </scopecontent>
-    <arrangement id="aspace_cae5abca3a899f565cd7990c01fb36d2">
-      <head>Arrangement</head>
-      <p>Folders are arranged alphabetically by topic. The photographic prints are identified by four numbers separated by colons. The first number refers to the collection number, the second to the box number, the third to the folder number, and the fourth to the individual print. For example, the first print in this collection is labeled 148:1:1:1.</p>
-      <p>The files are grouped into one series:</p>
-      <list type="ordered">
-        <head>Missing Title</head>
-        <item>I, Photographs</item>
-      </list>
-    </arrangement>
-    <userestrict id="aspace_fc4b78aed73094091b72742c02b4085b">
-      <head>Use Restrictions</head>
-      <p>The Tamiment Library &amp; Robert F. Wagner Labor Archives has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Copyrights held by original creators of individual items in the collection are expected to pass into the public domain 120 years after their creation.</p>
-    </userestrict>
-    <prefercite id="aspace_40cce5fe339869aff679576301021180">
-      <head>Preferred Citation</head>
-      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
-    </prefercite>
-    <controlaccess>
-      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Pictorial works</geogname>
-      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Children</geogname>
-      <genreform source="aat">Black-and-white photographs.</genreform>
-      <subject source="lcsh">Spain -- History -- Civil War, 1936-1939.</subject>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_ref13" level="series">
-        <did>
-          <unittitle>Series I: Photographs</unittitle>
-          <langmaterial><language langcode="eng">English</language>.</langmaterial>
-        </did>
-        <c id="aspace_ref14" level="file">
-          <did>
-            <unittitle>Children's Colony: Agen</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_ba1417c83340e1ea217d726d46cebd1c" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_423158f2d93f0efdc61ca355b0ec63de" parent="aspace_ba1417c83340e1ea217d726d46cebd1c" type="Folder">1</container>
-          </did>
-        </c>
-        <c id="aspace_ref15" level="file">
-          <did>
-            <unittitle>Children's Colony: Alborache</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_84c16e58300765c2f6ed1215bd569963" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_468682e03d5272f7f544102e972bffc1" parent="aspace_84c16e58300765c2f6ed1215bd569963" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_ref16" level="file">
-          <did>
-            <unittitle>Children's Colony: Antonio Coll</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_7d4000fedd26ad1f87cf6a5e10c93041" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_08cf56eeedc2a8a8e53b9c943fd88aeb" parent="aspace_7d4000fedd26ad1f87cf6a5e10c93041" type="Folder">3</container>
-          </did>
-        </c>
-        <c id="aspace_ref17" level="file">
-          <did>
-            <unittitle>Children's Colony: Bayona</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_5be2cfbb58881686bc4b5fc71a7dd39e" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_3b079088afd25c4b9d70b260033aab8c" parent="aspace_5be2cfbb58881686bc4b5fc71a7dd39e" type="Folder">5</container>
-          </did>
-        </c>
-        <c id="aspace_ref18" level="file">
-          <did>
-            <unittitle>Children's Colony: Benimamet</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_83b719b99d8db959191d410b64ef0cad" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_bb38a1d58d6c010d90fefe0ec8b5cc96" parent="aspace_83b719b99d8db959191d410b64ef0cad" type="Folder">6</container>
-          </did>
-        </c>
-        <c id="aspace_ref19" level="file">
-          <did>
-            <unittitle>Children's Colony: Bierres</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_096c3c8d244fb84da600434c7facd784" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_7870ccb15d5cdbfb8d08ef3c241b430c" parent="aspace_096c3c8d244fb84da600434c7facd784" type="Folder">7</container>
-          </did>
-        </c>
-        <c id="aspace_ref20" level="file">
-          <did>
-            <unittitle>Children's Colony: Breviere</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_190a421f84c247fbf5a1e40a554e76d8" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_4c74dcb31f77d0a04ba9a602fa6976f2" parent="aspace_190a421f84c247fbf5a1e40a554e76d8" type="Folder">8</container>
-          </did>
-        </c>
-        <c id="aspace_ref21" level="file">
-          <did>
-            <unittitle>Children's Colony: Brughés (Gara)</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_987425bedd42bd83b3ce3ac856d00a54" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_ed0be92a327cba29b94538d1d03d9bef" parent="aspace_987425bedd42bd83b3ce3ac856d00a54" type="Folder">9</container>
-          </did>
-        </c>
-        <c id="aspace_ref22" level="file">
-          <did>
-            <unittitle>Children's Colony: Buñol</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_9550da3fda99e57d73ecfff0ec2ddea1" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_632df3e768633a93875ae269a4fa13d2" parent="aspace_9550da3fda99e57d73ecfff0ec2ddea1" type="Folder">10</container>
-          </did>
-        </c>
-        <c id="aspace_ref23" level="file">
-          <did>
-            <unittitle>Children's Colony: Can Toni Gross</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_0f74bb2eedba3379fbbd55623dffff3e" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_a8618b614142464fd1dbfa7bdcedc806" parent="aspace_0f74bb2eedba3379fbbd55623dffff3e" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_ref24" level="file">
-          <did>
-            <unittitle>Children's Colony: Castillo de Alpina</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_f26cf8cba8a33ba87d6febf423634c9f" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_6827f3198df5160484525a1c37df0cf4" parent="aspace_f26cf8cba8a33ba87d6febf423634c9f" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_ref25" level="file">
-          <did>
-            <unittitle>Children's Colony: Cerbere</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_417449997539f4db184ae11c6512fee6" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_a664a3e567379c3b9040a74c5c6dec5a" parent="aspace_417449997539f4db184ae11c6512fee6" type="Folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_ref26" level="file">
-          <did>
-            <unittitle>Children's Colony: Chantilly</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_ecd2d07c61578b627141eb430f71f08c" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_312432befdf076abc1cfdf39527b3c4c" parent="aspace_ecd2d07c61578b627141eb430f71f08c" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_ref27" level="file">
-          <did>
-            <unittitle>Children's Colony: Clara Zetkin</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_9ebabf1f304a0a89394a8c52eb2dd6b0" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_3a600754de7dddc494b12838733993f7" parent="aspace_9ebabf1f304a0a89394a8c52eb2dd6b0" type="Folder">15</container>
-          </did>
-        </c>
-        <c id="aspace_ref28" level="file">
-          <did>
-            <unittitle>Children's Colony: Colonia de Ingleses (Puigcerda)</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_4dbdaeb6aa71d22d30099cc03c4c38d6" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_6ab64250abb236c9bdbc5dceb9dfbf82" parent="aspace_4dbdaeb6aa71d22d30099cc03c4c38d6" type="Folder">16</container>
-          </did>
-        </c>
-        <c id="aspace_ref29" level="file">
-          <did>
-            <unittitle>Children's Colony: Cuart de Poblet</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_cbd9fa754590ed71cfd7a133e6f6704a" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_c80177b4af42bdfb7e6c32ad3687c35e" parent="aspace_cbd9fa754590ed71cfd7a133e6f6704a" type="Folder">17</container>
-          </did>
-        </c>
-        <c id="aspace_ref30" level="file">
-          <did>
-            <unittitle>Children's Colony: Denia</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_99e03fc4a55ac2fb40caf2b863a0b7a5" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_a9c4c3f48ab62073e911274fe08a3288" parent="aspace_99e03fc4a55ac2fb40caf2b863a0b7a5" type="Folder">18</container>
-          </did>
-        </c>
-        <c id="aspace_ref31" level="file">
-          <did>
-            <unittitle>Children's Colony: Els Pins</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_bac88653048677dfcd4758d1ce09e923" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_1c16c29841476b789a63adef1bd8f6bd" parent="aspace_bac88653048677dfcd4758d1ce09e923" type="Folder">19</container>
-          </did>
-        </c>
-        <c id="aspace_ref32" level="file">
-          <did>
-            <unittitle>Children's Colony: Ferrer y Guardia</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_a4cd80b595658cfdf63d8b5dfa4540eb" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_9fad7405ba01dc17b178ae4369f95e40" parent="aspace_a4cd80b595658cfdf63d8b5dfa4540eb" type="Folder">20</container>
-          </did>
-        </c>
-        <c id="aspace_ref33" level="file">
-          <did>
-            <unittitle>Children's Colony: Francesc Macia (Vallflorida)</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_6ccadf65b61dcce3bd76783010a14dad" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_240ef7a5ea3850807efacc314eab3fa7" parent="aspace_6ccadf65b61dcce3bd76783010a14dad" type="Folder">21</container>
-          </did>
-        </c>
-        <c id="aspace_ref34" level="file">
-          <did>
-            <unittitle>Children's Colony: La Garriga</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_af985df214af15eb05bbab2fad614cbe" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_36d335d52d7ab60cf1e9c61fd98bbd4e" parent="aspace_af985df214af15eb05bbab2fad614cbe" type="Folder">22</container>
-          </did>
-        </c>
-        <c id="aspace_ref35" level="file">
-          <did>
-            <unittitle>Children's Colony: Luis Companys</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_aa62047c5e188b2f875990635ff373a7" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_45878e208b39d05f3a9a7eb45d075687" parent="aspace_aa62047c5e188b2f875990635ff373a7" type="Folder">23</container>
-          </did>
-        </c>
-        <c id="aspace_ref36" level="file">
-          <did>
-            <unittitle>Children's Colony: Macastre</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_4ce6d03e8b9f1b3ced8fd06917282f2f" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_7d8ede37594f6e9def0fb3a05d6d3b03" parent="aspace_4ce6d03e8b9f1b3ced8fd06917282f2f" type="Folder">24</container>
-          </did>
-        </c>
-        <c id="aspace_ref37" level="file">
-          <did>
-            <unittitle>Children's Colony: Masarrochos</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_7f78b63dffa1736d96eec9816d932302" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_f4a5962879e50bfadb722b2577dd4fa8" parent="aspace_7f78b63dffa1736d96eec9816d932302" type="Folder">25</container>
-          </did>
-        </c>
-        <c id="aspace_ref38" level="file">
-          <did>
-            <unittitle>Children's Colony: Olira</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_0449e411720a5f6bad6441ff71e26bb6" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_2de4055c2c890c1eb82257bcc47763c2" parent="aspace_0449e411720a5f6bad6441ff71e26bb6" type="Folder">26</container>
-          </did>
-        </c>
-        <c id="aspace_ref39" level="file">
-          <did>
-            <unittitle>Children's Colony: Pasionaria</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_af7dd7c7dfa085c64d0f59e239deb87e" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_f7b9215eba527c2dfd4ff836b22718b0" parent="aspace_af7dd7c7dfa085c64d0f59e239deb87e" type="Folder">27</container>
-          </did>
-        </c>
-        <c id="aspace_ref40" level="file">
-          <did>
-            <unittitle>Children's Colony: Perello</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_7e1b2d3742ed1c3c196852d2caef1e66" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_d2d9d4be93dd8cd10704d9cf30083aa3" parent="aspace_7e1b2d3742ed1c3c196852d2caef1e66" type="Folder">28</container>
-          </did>
-        </c>
-        <c id="aspace_ref41" level="file">
-          <did>
-            <unittitle>Children's Colony: Perpignan</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_c6279c1a09f3cb0e51a12fbf7dc45bef" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_70558f9ab7175442b0e85d7586b9739e" parent="aspace_c6279c1a09f3cb0e51a12fbf7dc45bef" type="Folder">29</container>
-          </did>
-        </c>
-        <c id="aspace_ref42" level="file">
-          <did>
-            <unittitle>Children's Colony: Petite-Synthe</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_8684cbf35200f00376f3aea2af42dd0a" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_8941073beca41495f1ed601ca297b7e9" parent="aspace_8684cbf35200f00376f3aea2af42dd0a" type="Folder">30</container>
-          </did>
-        </c>
-        <c id="aspace_ref43" level="file">
-          <did>
-            <unittitle>Children's Colony: Picaña No. 1</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_9a69af471c9be500d6cb0d5ad5a007e7" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_8fd0cef6361fab5f7054d0630a157061" parent="aspace_9a69af471c9be500d6cb0d5ad5a007e7" type="Folder">31</container>
-          </did>
-        </c>
-        <c id="aspace_ref44" level="file">
-          <did>
-            <unittitle>Children's Colony: Picaña No. 2</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_250290f31dde2ee22ef9300cb0c02628" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_0ecad56668759c0599fbfeb190b7da6e" parent="aspace_250290f31dde2ee22ef9300cb0c02628" type="Folder">32</container>
-          </did>
-        </c>
-        <c id="aspace_ref45" level="file">
-          <did>
-            <unittitle>Children's Colony: Picaña No. 3</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_04ba628bdf6bfa1e3c83e8984f1e007a" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_2d70c943c7bd13535c87eb3795da05b4" parent="aspace_04ba628bdf6bfa1e3c83e8984f1e007a" type="Folder">33</container>
-          </did>
-        </c>
-        <c id="aspace_ref46" level="file">
-          <did>
-            <unittitle>Children's Colony: Ribarroja</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_962996aa37239faf8ec3bee0fcca0cbb" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_5dafa2b89770f9121acbf42ee15daa93" parent="aspace_962996aa37239faf8ec3bee0fcca0cbb" type="Folder">34</container>
-          </did>
-        </c>
-        <c id="aspace_ref47" level="file">
-          <did>
-            <unittitle>Children's Colony: Rosa Luxemburgo</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_a66a80580b35dc8ed4d78ede7553d4f5" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_91b6670b9604e2343e5e47fa822d4da3" parent="aspace_a66a80580b35dc8ed4d78ede7553d4f5" type="Folder">35</container>
-          </did>
-        </c>
-        <c id="aspace_ref48" level="file">
-          <did>
-            <unittitle>Children's Colony: Saint-Hilaire</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_bc845e0c32f7a48fbc3204a258cf8f7d" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_5a97dcc6a97da5b0138b07ea4c23a379" parent="aspace_bc845e0c32f7a48fbc3204a258cf8f7d" type="Folder">36</container>
-          </did>
-        </c>
-        <c id="aspace_ref49" level="file">
-          <did>
-            <unittitle>Children's Colony: Sete</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_304b752a9245020a81c3edc1f66c51b9" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_78aa8a44fe5874b1527951ad93e3ce78" parent="aspace_304b752a9245020a81c3edc1f66c51b9" type="Folder">37</container>
-          </did>
-        </c>
-        <c id="aspace_ref50" level="file">
-          <did>
-            <unittitle>Children's Colony: Sitjes</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_e80dea6d9ad206c7e0413372e5b89e2a" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_c2f67525252cefaa5f3ddfb1cd18594b" parent="aspace_e80dea6d9ad206c7e0413372e5b89e2a" type="Folder">38</container>
-          </did>
-        </c>
-        <c id="aspace_ref51" level="file">
-          <did>
-            <unittitle>Children's Colony: Sueca</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_6637b606062143265bfe102c742e19f2" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_667d82661dec515cd3d173f84d23eba2" parent="aspace_6637b606062143265bfe102c742e19f2" type="Folder">39</container>
-          </did>
-        </c>
-        <c id="aspace_ref52" level="file">
-          <did>
-            <unittitle>Children's Colony: Torriente</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_4db838c88ee7d520d23205f6913444f7" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_74eb4649b3f548ed79ba20b7f3de9394" parent="aspace_4db838c88ee7d520d23205f6913444f7" type="Folder">40</container>
-          </did>
-        </c>
-        <c id="aspace_ref53" level="file">
-          <did>
-            <unittitle>Children's Colony: Valence</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_028bd0c65c9fb30502faf29be7563e81" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_e1b0e7d600ff3faac13190295b383bd6" parent="aspace_028bd0c65c9fb30502faf29be7563e81" type="Folder">41</container>
-          </did>
-        </c>
-        <c id="aspace_ref54" level="file">
-          <did>
-            <unittitle>Children's Colony: Villalgordo del Jucar</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_9a3bca533487308a862623bebf966248" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_ee9feb2b19b7959d1ef47cc54faeaa8e" parent="aspace_9a3bca533487308a862623bebf966248" type="Folder">42</container>
-          </did>
-        </c>
-        <c id="aspace_ref55" level="file">
-          <did>
-            <unittitle>Spanish Children</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_70edc4fdb46646bb143c9d1947cdee5d" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_d9f0d19ce3060a6b1f2430f5dac974e4" parent="aspace_70edc4fdb46646bb143c9d1947cdee5d" type="Folder">43</container>
-          </did>
-        </c>
-        <c id="aspace_ref56" level="file">
-          <did>
-            <unittitle>Spanish Children: Gifts for Children</unittitle>
-            <unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate>
-            <container altrender="Manuscript box - Legal" id="aspace_8605ede7fbf52ba5d9e6d48925711015" label="Mixed Materials [31142062767952]" type="Box">1</container>
-            <container id="aspace_4c328661c0222faca9b02ae21452f654" parent="aspace_8605ede7fbf52ba5d9e6d48925711015" type="Folder">44</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+  </did>
+  <custodhist id="aspace_f80b1ce64f7a337ee2a3446559916e23">
+    <head>Provenance</head>
+<p>The Children's Colonies Photograph Collection came to New York University in January 2001 as part of the original acquisition of Abraham Lincoln Brigade Archives collections, formerly housed at Brandeis University.</p>  </custodhist>
+  <accessrestrict id="aspace_a645aa74f4d3443a5d2ce28a714a3dbe">
+    <head>Access Restrictions</head>
+<p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>  </accessrestrict>
+  <bioghist id="aspace_00e068bbdce9a309302a35a8948f3b8f">
+    <head>Historical/Biographical Note</head>
+<p>During the Spanish Civil War (1936-1939), roughly 200,000 of the 600,000 refugees seeking shelter from the armies of Generalissimo Franco and his fascist allies were children. Many children were orphaned or lost their homes. The bombing of large cities placed children at greatest risk, and many were moved to safer locations in the rural periphery. The government of the Spanish Republic established colonias infantiles (children's colonies), often in rural estates which had been abandoned by fascist sympathizers. Some parents and guardians sent children, individually or in groups, abroad for safety. Children's colonies were established in Spain, as well as in France and the United Kingdom, affording young refugees the opportunity to receive an education, medical care, and the company of other Spanish children. Photographs of children in these homes or colonies were taken for use in periodicals or publicity material, either produced by the Republic or produced and distributed by aid organizations in various countries.</p>  </bioghist>
+  <scopecontent id="aspace_450a29bb621bfbbd65ebe2819bc64e41">
+    <head>Scope and Content Note</head>
+<p><emph render="bold">Series I: The Children's Colonies Photograph Collection</emph>consists of photographs related to the children's colonies in Spain and France. A number of the prints are stamped to indicate that they were taken for the Propaganda Section of the Republic's Children's Aid organization (Ajut Infantil de Reraguarda). The collection contains photographs of children eating, bathing, studying, doing chores, resting, and playing. Some images show teachers or other adult staff of the colonies. A number of files include exterior views of colony buildings, and interior shots of dormitories and dining halls. Of the total, 347 black and white prints are in files arranged alphabetically by either the name or the location of the colony. In addition to the images of children in identified colonies, there are ten images of children with donated toys and nine images of children in undesignated locations.</p>  </scopecontent>
+  <arrangement id="aspace_cae5abca3a899f565cd7990c01fb36d2">
+    <head>Arrangement</head>
+<p>Folders are arranged alphabetically by topic. The photographic prints are identified by four numbers separated by colons. The first number refers to the collection number, the second to the box number, the third to the folder number, and the fourth to the individual print. For example, the first print in this collection is labeled 148:1:1:1.</p><p>The files are grouped into one series:</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>I, Photographs</item>
+    </list>
+  </arrangement>
+  <userestrict id="aspace_fc4b78aed73094091b72742c02b4085b">
+    <head>Use Restrictions</head>
+<p>The Tamiment Library &amp; Robert F. Wagner Labor Archives has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Copyrights held by original creators of individual items in the collection are expected to pass into the public domain 120 years after their creation.</p>  </userestrict>
+  <prefercite id="aspace_40cce5fe339869aff679576301021180">
+    <head>Preferred Citation</head>
+<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
+  <controlaccess>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Pictorial works</geogname>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Children</geogname>
+    <genreform source="aat">Black-and-white photographs.</genreform>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939.</geogname>
+  </controlaccess>
+  <dsc><c id="aspace_ref13" level="series"><did><unittitle>Series I: Photographs</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref14" level="file"><did><unittitle>Children's Colony: Agen</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_31a4d4a881bb4f23aee670fab423ae47" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_8ef6fd81098c7455cf13868dde070901" parent="aspace_31a4d4a881bb4f23aee670fab423ae47" type="Folder">1</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Children's Colony: Alborache</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_b27d230f405882a220536482ca53d566" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_406c165757d4afe8fa25d447ddcc1b30" parent="aspace_b27d230f405882a220536482ca53d566" type="Folder">2</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Children's Colony: Antonio Coll</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_7f57a3f2d8484310bdbab2f350dfbc2f" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_392e1d909ce1664f9a72686bcafb7c54" parent="aspace_7f57a3f2d8484310bdbab2f350dfbc2f" type="Folder">3</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Children's Colony: Bayona</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_8816e14d8b733325b01891ce6f4a9ed8" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_2899bbbcad92b6e9536f17aa140c09cb" parent="aspace_8816e14d8b733325b01891ce6f4a9ed8" type="Folder">5</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Children's Colony: Benimamet</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_463ce7bd3578b78ef1420664165359a1" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_4bfe3be6a5f85d516d5037516a7eb801" parent="aspace_463ce7bd3578b78ef1420664165359a1" type="Folder">6</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Children's Colony: Bierres</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_838f315d3767ff506857a28115c1f602" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_41a2a7b1039fd0491fbc5889be34b818" parent="aspace_838f315d3767ff506857a28115c1f602" type="Folder">7</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Children's Colony: Breviere</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_21a5552d3b4296b6385a635ad88ec47a" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_4088e181277300680f6919844d5d07f4" parent="aspace_21a5552d3b4296b6385a635ad88ec47a" type="Folder">8</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Children's Colony: Brughés (Gara)</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_99b1616b5430a154a9bf12be82a4004d" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_5d35490bb343b004932687d2075bce50" parent="aspace_99b1616b5430a154a9bf12be82a4004d" type="Folder">9</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Children's Colony: Buñol</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_d4d2e5181bc6a94496ee6eca536b7593" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_dd8382d4bbcd02f054f3912103ca0779" parent="aspace_d4d2e5181bc6a94496ee6eca536b7593" type="Folder">10</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Children's Colony: Can Toni Gross</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_93c69547ee81fee3bac6b5e2d5734b22" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_8317e221db2446b2bb4b6c069648d8cb" parent="aspace_93c69547ee81fee3bac6b5e2d5734b22" type="Folder">11</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Children's Colony: Castillo de Alpina</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_c79e11d709b730e78aa2a87c362cfb50" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_35ff69a5a6ecee536042430170bc4b13" parent="aspace_c79e11d709b730e78aa2a87c362cfb50" type="Folder">12</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Children's Colony: Cerbere</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_c13ba54450aa87cbfb9558f4023ded6a" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_a426c2a6b238cc5eb1a06ca7f2411716" parent="aspace_c13ba54450aa87cbfb9558f4023ded6a" type="Folder">13</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Children's Colony: Chantilly</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_a555ff54b08da71cf4171ad48c173c3a" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_17a51cc5316dd631c9867fe8c40e9253" parent="aspace_a555ff54b08da71cf4171ad48c173c3a" type="Folder">14</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Children's Colony: Clara Zetkin</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_a7ba119204a2b50c666386c1ef33f6a3" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_b747ecc31eab6c4b93d6c9c3973d5102" parent="aspace_a7ba119204a2b50c666386c1ef33f6a3" type="Folder">15</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Children's Colony: Colonia de Ingleses (Puigcerda)</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_b345d03baee48f63cd554074ad14b736" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_f6644dddd7b25552a81e9b97e6337057" parent="aspace_b345d03baee48f63cd554074ad14b736" type="Folder">16</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Children's Colony: Cuart de Poblet</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_fe7455504eb7651ab540c99ebfabd4bb" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_683b2a47b7feffffa663fc24bc2ab259" parent="aspace_fe7455504eb7651ab540c99ebfabd4bb" type="Folder">17</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Children's Colony: Denia</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_d1cb7332469e90b0b6beec410f5e9e74" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_3b7ebf6357fff30d8a2091dca243a91f" parent="aspace_d1cb7332469e90b0b6beec410f5e9e74" type="Folder">18</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Children's Colony: Els Pins</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_e64c946be4e0bb3526f723e7ab00dd58" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_3ccd09f4b5eed42bf9233d8917483d0c" parent="aspace_e64c946be4e0bb3526f723e7ab00dd58" type="Folder">19</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Children's Colony: Ferrer y Guardia</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_d1e4f99969413a9769233ede3c7c2263" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_453a75dd55fdd991160d6973ad131f0c" parent="aspace_d1e4f99969413a9769233ede3c7c2263" type="Folder">20</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Children's Colony: Francesc Macia (Vallflorida)</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_9b014a4e4a4fa2ff9262519202fe5ed0" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_1fd932c156744b207da39b8c54fa0731" parent="aspace_9b014a4e4a4fa2ff9262519202fe5ed0" type="Folder">21</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Children's Colony: La Garriga</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_ec463317045ec88247be8b908b218f81" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_cb459a71bc5b809e103e6fdc59eae943" parent="aspace_ec463317045ec88247be8b908b218f81" type="Folder">22</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Children's Colony: Luis Companys</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_8d6e37d4901bc2a8374c1d986f134f16" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_68d6d208ecefef1e8af16f9f5bda34e3" parent="aspace_8d6e37d4901bc2a8374c1d986f134f16" type="Folder">23</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Children's Colony: Macastre</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_b1e8d7c4d878946403ba7e3b91755fd2" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_6df36d1cf1a061d80ffb935dddbcc4a9" parent="aspace_b1e8d7c4d878946403ba7e3b91755fd2" type="Folder">24</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Children's Colony: Masarrochos</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_4547c8df36cb3b22a819ff93500fc71d" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_24edeb530aeb3b0e65357bbd4e8ef5ba" parent="aspace_4547c8df36cb3b22a819ff93500fc71d" type="Folder">25</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Children's Colony: Olira</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_1413d76b1bd0c06161a200e51c7eabc0" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_992dbe7997d97d6a73e22be7bf268d58" parent="aspace_1413d76b1bd0c06161a200e51c7eabc0" type="Folder">26</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Children's Colony: Pasionaria</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_b12fcb8ce4ecb6e7dfd67787dfbd2401" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_35d651fead47e3d2098874cbed41d76c" parent="aspace_b12fcb8ce4ecb6e7dfd67787dfbd2401" type="Folder">27</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Children's Colony: Perello</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_eb172dc9cafbcc0836726e0041723218" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_a0f6a240fb9dbb1438fd271e1e56b120" parent="aspace_eb172dc9cafbcc0836726e0041723218" type="Folder">28</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Children's Colony: Perpignan</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_6b25eaedc7b5c19fb794799e13fb5d95" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_fdd47ff6164470dd822619aa4a6a557a" parent="aspace_6b25eaedc7b5c19fb794799e13fb5d95" type="Folder">29</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Children's Colony: Petite-Synthe</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_85ddd9c26d5b347f696ce856a599c389" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_29634f6ee8e574fa631c2fac8e2552b4" parent="aspace_85ddd9c26d5b347f696ce856a599c389" type="Folder">30</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Children's Colony: Picaña No. 1</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_17f8cd9828386fa8ff307980b8c2d953" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_ab67d4e87ed7ccee61be23fb39dee5f4" parent="aspace_17f8cd9828386fa8ff307980b8c2d953" type="Folder">31</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Children's Colony: Picaña No. 2</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_980cc19b5a3c927e2fba9dd25e941d09" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_8709699babc3f5475843b20efdace968" parent="aspace_980cc19b5a3c927e2fba9dd25e941d09" type="Folder">32</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Children's Colony: Picaña No. 3</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_548e8fc0810c38539c6d3e8c3cfec9e1" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_4021c032ece52f978127c52f54a8a36c" parent="aspace_548e8fc0810c38539c6d3e8c3cfec9e1" type="Folder">33</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Children's Colony: Ribarroja</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_36dd601199b475e7e9e936933073bf98" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_361d71e565383807fab0d68802cd2ae5" parent="aspace_36dd601199b475e7e9e936933073bf98" type="Folder">34</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Children's Colony: Rosa Luxemburgo</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_47c2f566b7fc09e6d023c7a07e728e25" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_5aa634d39953102f52bc7ec2d4184d13" parent="aspace_47c2f566b7fc09e6d023c7a07e728e25" type="Folder">35</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Children's Colony: Saint-Hilaire</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_f5a6403aef0166a0a604d95b0b4e79eb" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_b088d26bfafd2dc50206619a6e08b42e" parent="aspace_f5a6403aef0166a0a604d95b0b4e79eb" type="Folder">36</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Children's Colony: Sete</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_ab486f8af9c46e467b0f8ea7f9eaa361" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_f27d4656ac807dd4b070620804298531" parent="aspace_ab486f8af9c46e467b0f8ea7f9eaa361" type="Folder">37</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Children's Colony: Sitjes</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_007551c6d7401171a6abf0293419ca99" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_90dfcfdb1e102e6f3c69ef60651b789e" parent="aspace_007551c6d7401171a6abf0293419ca99" type="Folder">38</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Children's Colony: Sueca</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_2ef03e50d34cfd2eaec2170665fa5616" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_d05c99507822597cce78f860169f98d9" parent="aspace_2ef03e50d34cfd2eaec2170665fa5616" type="Folder">39</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Children's Colony: Torriente</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_89d26b4eb7aabb7668d6b8a9fbb01fa0" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_8c0988de364c4b50ad1b86aa070994ce" parent="aspace_89d26b4eb7aabb7668d6b8a9fbb01fa0" type="Folder">40</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Children's Colony: Valence</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_788b3fe45a13170b77431037f335fa98" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_20dd7ec80cbd4f653d9e44d4b735da3e" parent="aspace_788b3fe45a13170b77431037f335fa98" type="Folder">41</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Children's Colony: Villalgordo del Jucar</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_bd8aaef30105794fe290cdc5ffd562d6" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_894804045914a0c1c60a8eecdbaaf78d" parent="aspace_bd8aaef30105794fe290cdc5ffd562d6" type="Folder">42</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Spanish Children</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_795725b0d30ecbb9aef1bdde7ae960eb" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_1c3dce2ab87b42d0e1ee097a4ea5b587" parent="aspace_795725b0d30ecbb9aef1bdde7ae960eb" type="Folder">43</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Spanish Children: Gifts for Children</unittitle><unitdate datechar="creation" normal="1927/1948" type="inclusive">ca.1937-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_9b5bb698bfcc9f7fbc052c896ea40cdc" label="Mixed Materials [31142062767952]" type="Box">1</container><container id="aspace_d0f4a98edc1e4c4af80f7c58add8f73d" parent="aspace_9b5bb698bfcc9f7fbc052c896ea40cdc" type="Folder">44</container></did></c></c></dsc>
+</archdesc>
 </ead>
