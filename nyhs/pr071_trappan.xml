@@ -1,105 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NHi" url="http://dlib.nyu.edu/findingaids/html/nyhs/pr071_trappan/">pr071_trappan</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the John Judson Trappan Photographs<lb/>1888–1912, undated<lb/> <num>PR-071</num></titleproper>
-        <author>Julie Viggiano (2003); updated by Jenny Gotwals (2006); migrated to ArchivesSpace by Joseph Ditta (2020).</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>New-York Historical Society</publisher>
-        <address>
-          <addressline>170 Central Park West</addressline>
-          <addressline>New York, NY 10024</addressline>
-          <addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-04-12 14:17:57 -0400</date>.</creation>
-      <langusage>English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>New-York Historical Society</corpname>
-      </repository>
-      <unittitle>John Judson Trappan photographs</unittitle>
-      <origination label="Creator">
-        <persname source="local">Trappan, John Judson, 1867-1957</persname>
-      </origination>
-      <unitid>PR-071</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">10.3 Linear feet</extent>
-        <extent altrender="carrier">in 15 boxes.</extent>
-      </physdesc>
-      <unitdate type="inclusive">1888–1912, undated</unitdate>
-      <abstract id="aspace_ee267ecaf2f53450eb52c66421e7e10b">A record of the travels of bicycling and photography enthusiast John Judson Trappan (1867–1957), a Brooklyn, New York native whose trips took him to Long Island, upstate New York, Connecticut, and Massachusetts, during the late 19th and early 20th centuries. More distant visits found Trappan in Chicago for the World's Columbian Exposition (1893), in Buffalo for the Pan-American Exposition (1901), in Washington, D.C. for the inauguration of Theodore Roosevelt (1901), and in Philadelphia and Washington, D.C. for his honeymoon (1903), all of which are documented by photographs in the collection. Other scenes depict his family in Brooklyn, a church dinner, local outings, landmarks in various cities, and some of Trappan's coworkers at Bruce &amp; Cook, the Manhattan sheet metal firm where he was employed as a bookkeeper. Formats include 10 albums (containing 462 photographic prints), circa 290 loose and mounted prints, and 659 negatives (385 glass, mostly 4 x 5 inches, and 274 film). The collection is supplemented by the photographer's logbook, two handwritten journals, a few postcards, souvenir view books, clippings, bicycling ephemera, travel brochures, a painted canvas book cover, and material from Bruce &amp; Cook.</abstract>
-      <physloc id="aspace_394bda8f82a09b2ede5110d382708f42">Due to the possible combustibility of the nitrate negatives in Subseries II.D, that portion of the collection (Box 13) is kept in cold storage. Before requesting it, discuss the possibility of viewing this material with a staff member, keeping in mind that it requires at least two full days to thaw.</physloc>
-      <langmaterial><language langcode="eng">English</language>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi" url="http://dlib.nyu.edu/findingaids/html/nyhs/pr071_trappan/">pr071_trappan</eadid><filedesc><titlestmt><titleproper>Guide to the John Judson Trappan Photographs<lb/>1888–1912, undated<lb/> <num>PR 071</num></titleproper><author>Julie Viggiano (2003); updated by Jenny Gotwals (2006); migrated to ArchivesSpace by Joseph Ditta (2020).</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-02-28 14:14:48 -0500</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>John Judson Trappan photographs</unittitle>
+    <origination label="Creator">
+      <persname source="local">Trappan, John Judson, 1867-1957</persname>
+    </origination>
+    <unitid>PR 071</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">10.3 Linear feet</extent>
+      <extent altrender="carrier">in 15 boxes.</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">1888–1912, undated</unitdate>
+    <abstract id="aspace_ee267ecaf2f53450eb52c66421e7e10b">A record of the travels of bicycling and photography enthusiast John Judson Trappan (1867–1957), a Brooklyn, New York native whose trips took him to Long Island, upstate New York, Connecticut, and Massachusetts, during the late 19th and early 20th centuries. More distant visits found Trappan in Chicago for the World's Columbian Exposition (1893), in Buffalo for the Pan-American Exposition (1901), in Washington, D.C. for the inauguration of Theodore Roosevelt (1901), and in Philadelphia and Washington, D.C. for his honeymoon (1903), all of which are documented by photographs in the collection. Other scenes depict his family in Brooklyn, a church dinner, local outings, landmarks in various cities, and some of Trappan's coworkers at Bruce &amp; Cook, the Manhattan sheet metal firm where he was employed as a bookkeeper. Formats include 10 albums (containing 462 photographic prints), circa 290 loose and mounted prints, and 659 negatives (385 glass, mostly 4 x 5 inches, and 274 film). The collection is supplemented by the photographer's logbook, two handwritten journals, a few postcards, souvenir view books, clippings, bicycling ephemera, travel brochures, a painted canvas book cover, and material from Bruce &amp; Cook.</abstract>
+    <physloc id="aspace_394bda8f82a09b2ede5110d382708f42">Due to the possible combustibility of the nitrate negatives in Subseries II.D, that portion of the collection (Box 13) is kept in cold storage. Before requesting it, discuss the possibility of viewing this material with a staff member, keeping in mind that it requires at least two full days to thaw.</physloc>
+    <langmaterial>
+      <language langcode="eng">English</language>
 .    </langmaterial>
-    </did>
-    <arrangement id="aspace_47eb197e78bb67b2ca103609d89366a2">
-      <head>Arrangement</head>
-      <p>The collection is organized in three series:</p>
-      <list type="deflist">
-        <defitem>
-          <label>Series I.</label>
-          <item>Photographs, 1888–1909, undated</item>
-        </defitem>
-        <defitem>
-          <label>Series II.</label>
-          <item>Negatives, 1890–1903, undated</item>
-        </defitem>
-        <defitem>
-          <label>Series III.</label>
-          <item>Ephemera, 1888–1912, undated</item>
-        </defitem>
-      </list>
-    </arrangement>
-    <bioghist id="aspace_c8e22484b30d228bfc7521a83193f2c3">
-      <head>Biographical note</head>
-      <p>John Judson Trappan was born in 1867 in Williamsburg, Brooklyn, to John J. Trappan, a gasfitter, and Susanna Park. As a young man he was interested in boating and bicycling, and actively pursued both pastimes. Trappan took many bicycle trips, which often involved overnight camping. He journeyed, mainly by bicycle, to Connecticut, upstate New York, Massachusetts, and Washington, D.C., to attend religious conventions, see World's Fairs and presidential inaugurations, and to enjoy natural wonders and the company of his friends. He spent summers boating off the coasts of Queens and Long Island, and was active in the Tompkins Avenue Congregational Church.<lb/>
+  </did>
+  <arrangement id="aspace_47eb197e78bb67b2ca103609d89366a2">
+    <head>Arrangement</head>
+<p>The collection is organized in three series:</p>    <list type="deflist">
+      <defitem>
+        <label>Series I.</label>
+        <item>Photographs, 1888–1909, undated</item>
+      </defitem>
+      <defitem>
+        <label>Series II.</label>
+        <item>Negatives, 1890–1903, undated</item>
+      </defitem>
+      <defitem>
+        <label>Series III.</label>
+        <item>Ephemera, 1888–1912, undated</item>
+      </defitem>
+    </list>
+  </arrangement>
+  <bioghist id="aspace_c8e22484b30d228bfc7521a83193f2c3">
+    <head>Biographical note</head>
+<p>John Judson Trappan was born in 1867 in Williamsburg, Brooklyn, to John J. Trappan, a gasfitter, and Susanna Park. As a young man he was interested in boating and bicycling, and actively pursued both pastimes. Trappan took many bicycle trips, which often involved overnight camping. He journeyed, mainly by bicycle, to Connecticut, upstate New York, Massachusetts, and Washington, D.C., to attend religious conventions, see World's Fairs and presidential inaugurations, and to enjoy natural wonders and the company of his friends. He spent summers boating off the coasts of Queens and Long Island, and was active in the Tompkins Avenue Congregational Church.<lb/>
 <lb/>
 Trappan was employed as a bookkeeper for the firm of Bruce &amp; Cook, located on Water Street in Manhattan. After his father's death, John continued to live with his mother and two younger sisters, Ella and Caroline, and supported the family. Ella and Carrie both worked as schoolteachers, and accompanied John on many of his boating adventures.<lb/>
 <lb/>
-John Judson Trappan married Ada in 1903, and they moved to Ridgewood, New Jersey, where they raised four daughters: Ruth (1904–1997), Grace (1905–1998), Jean (1907–1998), and Elizabeth (1909–1996). Trappan died in 1957.</p>
-    </bioghist>
-    <accessrestrict id="aspace_b68bdfd8636de242ca5db2eca0fdffc6">
-      <head>Access Restrictions</head>
-      <p>Open to qualified researchers by appointment only. To schedule an appointment, contact the Print Room Librarian at printroom@nyhistory.org.</p>
-      <p>Due to the possible combustibility of the nitrate negatives in Subseries II.D, that portion of the collection (Box 13) is kept in cold storage. Before requesting it, discuss the possibility of viewing this material with a staff member, keeping in mind that it requires at least two full days to thaw.</p>
-    </accessrestrict>
-    <userestrict id="aspace_26ad67ff142e0da0a7c6c39f672b0d9f">
-      <head>Use Restrictions</head>
-      <p>Photocopying undertaken by staff only. Limited to 20 exposures of stable, unbound material per day.
+John Judson Trappan married Ada in 1903, and they moved to Ridgewood, New Jersey, where they raised four daughters: Ruth (1904–1997), Grace (1905–1998), Jean (1907–1998), and Elizabeth (1909–1996). Trappan died in 1957.</p>  </bioghist>
+  <accessrestrict id="aspace_b68bdfd8636de242ca5db2eca0fdffc6">
+    <head>Access Restrictions</head>
+<p>Open to qualified researchers by appointment only. To schedule an appointment, contact the Print Room Librarian at printroom@nyhistory.org.</p><p>Due to the possible combustibility of the nitrate negatives in Subseries II.D, that portion of the collection (Box 13) is kept in cold storage. Before requesting it, discuss the possibility of viewing this material with a staff member, keeping in mind that it requires at least two full days to thaw.</p>  </accessrestrict>
+  <userestrict id="aspace_26ad67ff142e0da0a7c6c39f672b0d9f">
+    <head>Use Restrictions</head>
+<p>Photocopying undertaken by staff only. Limited to 20 exposures of stable, unbound material per day.
   
-Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New-York Historical Society, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org. Phone: (212) 873-3400 ext. 282.</p>
-      <p>Copyrights and other proprietary rights may subsist in individuals and entities other than the New-York Historical Society, in which case the patron is responsible for securing permission from those parties. For fuller information about rights and reproductions from N-YHS visit: <extref xlink:actuate="onRequest" xlink:href="https://www.nyhistory.org/about/rights-reproductions">https://www.nyhistory.org/about/rights-reproductions</extref></p>
-    </userestrict>
-    <acqinfo id="aspace_5456663425886334f471773532443b65">
-      <head>Immediate Source of Acquisition</head>
-      <p>Gift of Ruth Trappan, 1984.</p>
-    </acqinfo>
-    <prefercite id="aspace_b5844bd72aefe1ed6aa97fd421ed0a2b">
-      <head>Preferred Citation</head>
-      <p>The collection should be cited as: John Judson Trappan Photographs, PR-071, Department of Prints, Photographs, and Architectural Collections, New-York Historical Society.</p>
-    </prefercite>
-    <processinfo id="aspace_801360b9828facd2f946bf860506b9c2">
-      <head>Processing Information</head>
-      <p>Julie Viggiano processed this collection in April 2003. Jenny Gotwals updated Viggiano's finding aid in October 2006. Archivist Joseph Ditta migrated that WORD document finding aid to ArchivesSpace in June 2020.</p>
-    </processinfo>
-    <relatedmaterial id="aspace_06243866241ca71ed1f256d5cfb8a1e1">
-      <head>Related Materials</head>
-      <p>Other photographs of 19th century bicyclists can be found in the <extref xlink:actuate="onRequest" xlink:href="http://dlib.nyu.edu/findingaids/html/nyhs/subject/">Subject File (PR 068)</extref> and the <extref xlink:actuate="onRequest" xlink:href="http://dlib.nyu.edu/findingaids/html/nyhs/geographic/">Geographic Images Collection (PR 020)</extref>.</p>
-      <p>Ruth Trappan, donor of the present collection, also gave the New-York Historical Society a significant portion of material in the <extref xlink:actuate="onRequest" xlink:href="http://dlib.nyu.edu/findingaids/html/nyhs/bracklow/">Robert L. Bracklow Photograph Collection (PR 008)</extref>.</p>
-    </relatedmaterial>
-    <scopecontent id="aspace_6a5645d320b4a79c2c21b54ac21afcad">
-      <head>Scope and Contents</head>
-      <p>The collection spans the period 1888–1912 and documents John Judson Trappan's interest in two popular turn-of-the-20th century American pastimes: bicycling and photography.<lb/>
+Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New-York Historical Society, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org. Phone: (212) 873-3400 ext. 282.</p><p>Copyrights and other proprietary rights may subsist in individuals and entities other than the New-York Historical Society, in which case the patron is responsible for securing permission from those parties. For fuller information about rights and reproductions from N-YHS visit: <extref xlink:actuate="onRequest" xlink:href="https://www.nyhistory.org/about/rights-reproductions">https://www.nyhistory.org/about/rights-reproductions</extref></p>  </userestrict>
+  <acqinfo id="aspace_5456663425886334f471773532443b65">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Ruth Trappan, 1984.</p>  </acqinfo>
+  <prefercite id="aspace_b5844bd72aefe1ed6aa97fd421ed0a2b">
+    <head>Preferred Citation</head>
+<p>The collection should be cited as: John Judson Trappan Photographs, PR-071, Department of Prints, Photographs, and Architectural Collections, New-York Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_801360b9828facd2f946bf860506b9c2">
+    <head>Processing Information</head>
+<p>Julie Viggiano processed this collection in April 2003. Jenny Gotwals updated Viggiano's finding aid in October 2006. Archivist Joseph Ditta migrated that WORD document finding aid to ArchivesSpace in June 2020.</p>  </processinfo>
+  <relatedmaterial id="aspace_06243866241ca71ed1f256d5cfb8a1e1">
+    <head>Related Materials</head>
+<p>Other photographs of 19th century bicyclists can be found in the <extref xlink:actuate="onRequest" xlink:href="http://dlib.nyu.edu/findingaids/html/nyhs/subject/">Subject File (PR 068)</extref> and the <extref xlink:actuate="onRequest" xlink:href="http://dlib.nyu.edu/findingaids/html/nyhs/geographic/">Geographic Images Collection (PR 020)</extref>.</p><p>Ruth Trappan, donor of the present collection, also gave the New-York Historical Society a significant portion of material in the <extref xlink:actuate="onRequest" xlink:href="http://dlib.nyu.edu/findingaids/html/nyhs/bracklow/">Robert L. Bracklow Photograph Collection (PR 008)</extref>.</p>  </relatedmaterial>
+  <scopecontent id="aspace_6a5645d320b4a79c2c21b54ac21afcad">
+    <head>Scope and Contents</head>
+<p>The collection spans the period 1888–1912 and documents John Judson Trappan's interest in two popular turn-of-the-20th century American pastimes: bicycling and photography.<lb/>
 <lb/>
 <emph render="underline">Series I. Photographs, 1888–1909, undated</emph> is divided in two subseries: Photographic Albums and Loose Photographs. Subseries I.A contains ten travel albums created by Trappan from photographs taken during trips and bicycle journeys in New York, New England, and Montreal, Canada. Two handwritten travel journals that correspond with the trips shown in the albums "A Coastwise Trip Awheel" and "Berkshire Hills Trip" are housed with those albums. In addition to photos, the albums also contain personal materials such as pressed flowers, poems, bars of music, and quotations. The eight titled albums are all arranged in bound, probably store-bought, album covers. Most of these are paper covers, but a few have more substantial vinyl or leather covers.<lb/>
 <lb/>
@@ -119,384 +86,33 @@ Subseries I.B. Loose Photographs, spans the years 1890–1893 and includes image
 <lb/>
 <emph render="underline">Series II. Negatives, 1890–1903, undated</emph> is organized in four subseries: Logbook, Glass Plate Negatives (4 x 5"), Glass Plate Negatives (5 x 8"), and Nitrate Film Negatives. The logbook (1890–1901) consists of photocopies of twenty handwritten pages that provide such details as negative number, date, subject, location, time of day, light, exposure, F-stop, plate size, plate maker, plate style, photographer, and remarks. The logbook corresponds to the glass negatives. All the negatives listed in the logbook do not appear in the collection. A list of negatives, with titles taken from the logbook, appears in the box and folder list. Within the series, unnumbered negatives are arranged by subject, while numbered negatives are arranged numerically. No attempt was made during processing to match prints to negatives. Due to the possible combustibility of the nitrate negatives in Subseries II.D, that portion of the collection (Box 13) is kept in cold storage. Before requesting it, discuss the possibility of viewing this material with a staff member, keeping in mind that it requires at least two full days to thaw.<lb/>
 <lb/>
-<emph render="underline">Series III. Ephemera, 1888–1912, undated</emph> includes material collected by Trappan relating to his interests. Photographic ephemera includes a copy of the July 20, 1888 issue of <emph render="italic">Photographic Times</emph>. Bicycling material includes two of Trappan's American Wheelmen Association membership cards and an 1897 catalog for Keating Bicycles. Included are several souvenir post cards, travel brochures, and a souvenir booklet from the 1893 Chicago World's Fair. Material from the steel-working firm Bruce &amp; Cook includes photographs of the firm (see Series II for a few negatives showing the basement of their Water Street office), the centennial celebration dinner (1912) program, and business cards. Also included in this series are two hand-painted covers for a book and photo portfolio.</p>
-    </scopecontent>
-    <controlaccess>
-      <genreform source="aat">Cyanotypes</genreform>
-      <genreform source="aat">Gelatin silver prints.</genreform>
-      <genreform source="aat">negatives (photographs)</genreform>
-      <genreform source="aat">Photographic prints.</genreform>
-      <genreform source="aat">Portraits.</genreform>
-      <genreform source="aat">Travel photography</genreform>
-      <subject source="lcsh">Bicycle touring -- Massachusetts</subject>
-      <subject source="lcsh">Bicycle touring -- New York (State)  -- Long Island</subject>
-      <subject source="lcsh">Church dinners -- New York (State)  -- New York</subject>
-      <subject source="lcsh">Cycling</subject>
-      <geogname source="lcsh">Brooklyn (New York, N.Y.) -- Photographs.</geogname>
-      <geogname source="lcsh">Long Island (N.Y.) -- Photographs.</geogname>
-      <geogname source="lcsh">Massachusetts -- Photographs</geogname>
-      <geogname source="lcsh">New York (State)  -- Photographs</geogname>
-      <geogname source="lcsh">Philadelphia (Pa.) -- Photographs</geogname>
-      <geogname source="lcsh">Washington (D.C.) -- Photographs.</geogname>
-      <famname rules="rda" source="local">Trappan (Family)</famname>
-      <persname source="ingest">Roosevelt, Theodore, 1858-1919 -- Inauguration -- Photographs</persname>
-      <corpname rules="rda" source="local">Bruce &amp; Cook</corpname>
-      <corpname rules="rda" source="local">Keating Wheel Company</corpname>
-      <corpname>Pan-American Exposition [611] (1901 : Buffalo, N.Y.) -- Photographs</corpname>
-      <corpname>World's Columbian Exposition (1893 : Chicago, Ill.) [111] -- Photographs</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="aspace_9ef8139d94525f58fbc9c23d283b9e09" level="series">
-        <did>
-          <unittitle>Series I. Photographs</unittitle>
-          <unitdate type="inclusive">1888–1909, undated</unitdate>
-        </did>
-        <arrangement id="aspace_b3f66e9e033c8131770895b7f5c2fb18">
-          <head>Arrangement</head>
-          <p>This series is arranged in two subseries: I.A. Photograph Albums, and I.B. Loose Photographs.</p>
-        </arrangement>
-        <c id="aspace_f73f0c7a8a9fd8dcc58e031e8af63ca9" level="subseries">
-          <did>
-            <unittitle>Subseries I.A. Photograph Albums</unittitle>
-            <unitdate type="inclusive">1892–1903, undated</unitdate>
-          </did>
-          <arrangement id="aspace_d3ed7737d55f6c874f13d99944373f63">
-            <head>Arrangement</head>
-            <p>Albums are arranged chronologically.</p>
-          </arrangement>
-          <c id="aspace_37c51b7b472ad636425c0a5221590b75" level="file">
-            <did>
-              <unittitle>"Haps and Snaps, Morris Cove, Conn."</unittitle>
-              <unitdate type="inclusive">1892 July</unitdate>
-              <container id="aspace_bf5e6affc272290833b971ebf77232e3" label="Graphic Materials" type="Box">1</container>
-              <container id="aspace_133d21902a5b87125849f0f20d6de8b5" parent="aspace_bf5e6affc272290833b971ebf77232e3" type="Folder">1</container>
-            </did>
-          </c>
-          <c id="aspace_6b6b1779a737bf85a74f78225839a0e0" level="file">
-            <did>
-              <unittitle>"Bits of Scattered Sunshine"</unittitle>
-              <unitdate type="inclusive">1895</unitdate>
-              <container id="aspace_d82823af1e0b8f3835b88368f2f8a792" label="Graphic Materials" type="Box">1</container>
-              <container id="aspace_0ea5cc5737e804ed1ce2cc3332914090" parent="aspace_d82823af1e0b8f3835b88368f2f8a792" type="Folder">2</container>
-            </did>
-          </c>
-          <c id="aspace_988e99f6bb9a643e4dcb9c41b78d5e3a" level="file">
-            <did>
-              <unittitle>"Berkshire Hills" (includes manuscript account of the trip)</unittitle>
-              <unitdate type="inclusive">1898 October 10–15</unitdate>
-              <container id="aspace_7c008f7f4478f9208fdc2f6925806cd3" label="Graphic Materials" type="Box">1</container>
-              <container id="aspace_4334b9a715d55644efa19be21a5394f7" parent="aspace_7c008f7f4478f9208fdc2f6925806cd3" type="Folder">3</container>
-            </did>
-          </c>
-          <c id="aspace_5a7ebfc6082123fb023c7cc623050ddc" level="file">
-            <did>
-              <unittitle>"A Coastwise Trip Awheel" (includes manuscript account of the trip)
-</unittitle>
-              <unitdate type="inclusive">1900 July 16</unitdate>
-              <container id="aspace_a707ee825382f7074d86d3981afe5a7f" label="Graphic Materials" type="Box">1</container>
-              <container id="aspace_f6f64354c3f44741cefdb4f13d9c0c36" parent="aspace_a707ee825382f7074d86d3981afe5a7f" type="Folder">4</container>
-            </did>
-          </c>
-          <c id="aspace_c8149da48ce8a5db083902c4dc21f269" level="file">
-            <did>
-              <unittitle>"Inauguration March 4th 1901"</unittitle>
-              <unitdate type="inclusive">1901 March 4</unitdate>
-              <container id="aspace_62f9dc59abbe27344640723ff5c3c765" label="Graphic Materials" type="Box">1</container>
-              <container id="aspace_ce1980a2b75480958feaa5ce35d28521" parent="aspace_62f9dc59abbe27344640723ff5c3c765" type="Folder">5</container>
-            </did>
-          </c>
-          <c id="aspace_78714bf77781258f7c41a32b3ceb23f7" level="file">
-            <did>
-              <unittitle>"Pan American Exposition"</unittitle>
-              <unitdate type="inclusive">1901 June</unitdate>
-              <container id="aspace_3059a24fe531b19b58e732b82e074d87" label="Graphic Materials" type="Box">1</container>
-              <container id="aspace_6e0164bf304ec7c88b53ad3220e04e63" parent="aspace_3059a24fe531b19b58e732b82e074d87" type="Folder">6</container>
-            </did>
-          </c>
-          <c id="aspace_379b855240e6f011b501c449f3c42baf" level="file">
-            <did>
-              <unittitle>"Wedding Trip"</unittitle>
-              <unitdate type="inclusive">1903</unitdate>
-              <container id="aspace_eacbcc75cdf12ccc156ef9dc363f26d8" label="Graphic Materials" type="Box">1</container>
-              <container id="aspace_1ecaf18ed5621dfa9cf69f44e10852f9" parent="aspace_eacbcc75cdf12ccc156ef9dc363f26d8" type="Folder">7</container>
-            </did>
-          </c>
-          <c id="aspace_0768f4adb0be4e512da36f322a3664f9" level="file">
-            <did>
-              <unittitle>Untitled [river and waterfall]</unittitle>
-              <unitdate type="inclusive">undated</unitdate>
-              <container id="aspace_abbb8eb13ca230bedd9e8b340353c6ab" label="Graphic Materials" type="Box">1</container>
-              <container id="aspace_54ba6e9afb3293bd7a117cd8137c0298" parent="aspace_abbb8eb13ca230bedd9e8b340353c6ab" type="Folder">8</container>
-            </did>
-          </c>
-          <c id="aspace_f88cab5b4ae89467d6beffde827cbd0d" level="file">
-            <did>
-              <unittitle>Untitled [bicycling and camping trip]</unittitle>
-              <unitdate type="inclusive">undated</unitdate>
-              <container id="aspace_e5eeb9144d55289ae480891cb8d42ebe" label="Graphic Materials" type="Box">1</container>
-              <container id="aspace_a252993d90ab420cd756dff11c683fc2" parent="aspace_e5eeb9144d55289ae480891cb8d42ebe" type="Folder">9</container>
-            </did>
-          </c>
-          <c id="aspace_071602eee90466efb2316dcfde699d26" level="file">
-            <did>
-              <unittitle>Mounted Photographs (24 boards)</unittitle>
-              <unitdate type="inclusive">1897–1899</unitdate>
-              <container id="aspace_8e5fa46af0a570d8cd9d02c6ea0b2c57" label="Graphic Materials" type="Box">2</container>
-            </did>
-          </c>
-        </c>
-        <c id="aspace_15c19cb5d3bf468514c9f3a0e4ff3e56" level="subseries">
-          <did>
-            <unittitle>Subseries I.B. Loose Photographs</unittitle>
-            <unitdate type="inclusive">1888–1909, undated</unitdate>
-          </did>
-          <arrangement id="aspace_b9a1a139223208f029839edf6aceef8f">
-            <head>Arrangement</head>
-            <p>Photographs are arranged geographically and then by subject.</p>
-          </arrangement>
-          <c id="aspace_d18432b282305df0c5c73503bff044a6" level="file">
-            <did>
-              <unittitle>Connecticut—East Haven</unittitle>
-              <unitdate type="inclusive">1891 July</unitdate>
-              <container id="aspace_a02ed4df8505b665915f20244d55f1c7" label="Graphic Materials" type="Box">3</container>
-              <container id="aspace_ddeed70c8fb965b7e3e7b8f2a34c36d8" parent="aspace_a02ed4df8505b665915f20244d55f1c7" type="Folder">10</container>
-            </did>
-          </c>
-          <c id="aspace_1fe9c09533e55e3b1e20b33539dc88dd" level="file">
-            <did>
-              <unittitle>Connecticut—Morris Cove</unittitle>
-              <unitdate type="inclusive">1890–1891</unitdate>
-              <container id="aspace_3b74f2e8667bc23c30d4770e21b26432" label="Graphic Materials" type="Box">3</container>
-              <container id="aspace_d2066755d5bc28b518fa622f8f0e5744" parent="aspace_3b74f2e8667bc23c30d4770e21b26432" type="Folder">11</container>
-            </did>
-          </c>
-          <c id="aspace_1b0286cb7a63616fed9a8153e04af913" level="file">
-            <did>
-              <unittitle>Connecticut—Newtown</unittitle>
-              <unitdate type="inclusive">undated</unitdate>
-              <container id="aspace_c62beb3d9aa3de117c15bbb19c88b0da" label="Graphic Materials" type="Box">3</container>
-              <container id="aspace_64265735061bf125d19870869727c9c1" parent="aspace_c62beb3d9aa3de117c15bbb19c88b0da" type="Folder">12</container>
-            </did>
-          </c>
-          <c id="aspace_664450766010fbc90f10f99fc38b2246" level="file">
-            <did>
-              <unittitle>Illinois—Chicago—World's Columbian Exposition</unittitle>
-              <unitdate type="inclusive">1893</unitdate>
-              <container id="aspace_77524d8bb89ec09f7b31213108fd24a0" label="Graphic Materials" type="Box">3</container>
-              <container id="aspace_8961b4fab6893fa3af902966298fe6f0" parent="aspace_77524d8bb89ec09f7b31213108fd24a0" type="Folder">13</container>
-            </did>
-          </c>
-          <c id="aspace_aef1043c3dcd01f226268edb3c9765ce" level="file">
-            <did>
-              <unittitle>Massachusetts—New Bedford</unittitle>
-              <unitdate type="inclusive">undated</unitdate>
-              <container id="aspace_fa4c5ff8cd302c9af6d880d8e15ae376" label="Graphic Materials" type="Box">3</container>
-              <container id="aspace_10781e1ce7c5348bafb7202a4cd010e9" parent="aspace_fa4c5ff8cd302c9af6d880d8e15ae376" type="Folder">14</container>
-            </did>
-          </c>
-          <c id="aspace_264c6b702228bf92901715453574cda4" level="file">
-            <did>
-              <unittitle>Massachusetts—North Adams</unittitle>
-              <unitdate type="inclusive">undated</unitdate>
-              <container id="aspace_2670ddd7da7333d0799857728af6f698" label="Graphic Materials" type="Box">3</container>
-              <container id="aspace_ba2f985575fd72796c281548308c67c3" parent="aspace_2670ddd7da7333d0799857728af6f698" type="Folder">14</container>
-            </did>
-          </c>
-          <c id="aspace_9a043d351d0f1b0e19abdb67cf5b9f08" level="file">
-            <did>
-              <unittitle>New York—Binghamton</unittitle>
-              <unitdate type="inclusive">1890</unitdate>
-              <container id="aspace_f6dc56b6ba22ed41ea803bd9cc601926" label="Graphic Materials" type="Box">3</container>
-              <container id="aspace_06947a2b53a3ba06876b81895d3c6404" parent="aspace_f6dc56b6ba22ed41ea803bd9cc601926" type="Folder">15</container>
-            </did>
-          </c>
-          <c id="aspace_0b1c577b78223f951958a3c4415c1808" level="file">
-            <did>
-              <unittitle>New York—Little Neck Bay (Long Island)</unittitle>
-              <unitdate type="inclusive">1891</unitdate>
-              <container id="aspace_8ed9e8d1b0626c44d88ad9830acded8d" label="Graphic Materials" type="Box">3</container>
-              <container id="aspace_10269a23c7cdaf473c2ba5554e6d438d" parent="aspace_8ed9e8d1b0626c44d88ad9830acded8d" type="Folder">16</container>
-            </did>
-          </c>
-          <c id="aspace_a8e6d1402c81611785085514dfb4e5d0" level="file">
-            <did>
-              <unittitle>New York City—Brooklyn—General</unittitle>
-              <unitdate type="inclusive">1890, undated</unitdate>
-              <container id="aspace_d51321ec996098fbeb057fc759cddd7d" label="Graphic Materials" type="Box">3</container>
-              <container id="aspace_5cbd865bfdef88762547ecd80422a566" parent="aspace_d51321ec996098fbeb057fc759cddd7d" type="Folder">17</container>
-            </did>
-          </c>
-          <c id="aspace_f7cd6e9a5214f74e370a3f86cf00b490" level="file">
-            <did>
-              <unittitle>New York City—Brooklyn—Prospect Park</unittitle>
-              <unitdate type="inclusive">1890, undated</unitdate>
-              <container id="aspace_a57a3aced6805b87ffae38b632f647c3" label="Graphic Materials" type="Box">3</container>
-              <container id="aspace_177be27cf720713f4d505c4ce0dad474" parent="aspace_a57a3aced6805b87ffae38b632f647c3" type="Folder">18</container>
-            </did>
-          </c>
-          <c id="aspace_eca00689f2b69c7d2cba7d1a5a651964" level="file">
-            <did>
-              <unittitle>New York City—Manhattan—General</unittitle>
-              <unitdate type="inclusive">1890–1891, undated</unitdate>
-              <container id="aspace_786f0940c72f615e1bc141622fbf6864" label="Graphic Materials" type="Box">4</container>
-              <container id="aspace_6e3a1c80ebda39832ac3ae1875907bd1" parent="aspace_786f0940c72f615e1bc141622fbf6864" type="Folder">19</container>
-            </did>
-          </c>
-          <c id="aspace_9ace2a3ae98899b209b527423b52afb8" level="file">
-            <did>
-              <unittitle>New York City—Manhattan—Central Park</unittitle>
-              <unitdate type="inclusive">1891</unitdate>
-              <container id="aspace_acb2562970b115a4cf2035829b7df2f5" label="Graphic Materials" type="Box">4</container>
-              <container id="aspace_37c72a7a8db738d1027e2ca23bf55df7" parent="aspace_acb2562970b115a4cf2035829b7df2f5" type="Folder">20</container>
-            </did>
-          </c>
-          <c id="aspace_ba6193c3d902d3cf671961c9c2f9d805" level="file">
-            <did>
-              <unittitle>New York City—Queens—College Point/Flushing Bay</unittitle>
-              <unitdate type="inclusive">1891</unitdate>
-              <container id="aspace_fb190ae8f00de514a2b4103afcbb5baa" label="Graphic Materials" type="Box">4</container>
-              <container id="aspace_7772b11bacf56206f48eb3d4df3d0cef" parent="aspace_fb190ae8f00de514a2b4103afcbb5baa" type="Folder">21</container>
-            </did>
-          </c>
-          <c id="aspace_16a875b4efc84214046cd9c01da9ac79" level="file">
-            <did>
-              <unittitle>New York City—Queens—Flushing</unittitle>
-              <unitdate type="inclusive">1891</unitdate>
-              <container id="aspace_70019a517f4695e2c3926f784002d8ec" label="Graphic Materials" type="Box">4</container>
-              <container id="aspace_789e8557d224e452f59c12613c61eab5" parent="aspace_70019a517f4695e2c3926f784002d8ec" type="Folder">22</container>
-            </did>
-          </c>
-          <c id="aspace_4f432b0513f08e0ddd0141d0ccec969c" level="file">
-            <did>
-              <unittitle>New York—Nanuet</unittitle>
-              <unitdate type="inclusive">1891</unitdate>
-              <container id="aspace_28af283c6b596ea2aefef75b513c9417" label="Graphic Materials" type="Box">4</container>
-              <container id="aspace_50e6c9cb91a20420f97b517efb016ac9" parent="aspace_28af283c6b596ea2aefef75b513c9417" type="Folder">23</container>
-            </did>
-          </c>
-          <c id="aspace_a2b2689e607589658e4afaa0a65dd298" level="file">
-            <did>
-              <unittitle>New York—Pelham Bay</unittitle>
-              <unitdate type="inclusive">1893</unitdate>
-              <container id="aspace_c235c5cf8981faebffa124653f9a89ca" label="Graphic Materials" type="Box">4</container>
-              <container id="aspace_c18618623e64152c814fc7ca6dfbd506" parent="aspace_c235c5cf8981faebffa124653f9a89ca" type="Folder">24</container>
-            </did>
-          </c>
-          <c id="aspace_ac13f6fe5e456fb18cb9fc1fc72c7930" level="file">
-            <did>
-              <unittitle>New York—Rockland County</unittitle>
-              <unitdate type="inclusive">1892</unitdate>
-              <container id="aspace_2dd069e1d1127ab57af070654f17e933" label="Graphic Materials" type="Box">4</container>
-              <container id="aspace_80bd5d8b56e2fb7a7e500f53262a0926" parent="aspace_2dd069e1d1127ab57af070654f17e933" type="Folder">25</container>
-            </did>
-          </c>
-          <c id="aspace_e3eb18b667d014bf80e97c832823ce56" level="file">
-            <did>
-              <unittitle>New York—Shady Glen</unittitle>
-              <unitdate type="inclusive">1894</unitdate>
-              <container id="aspace_00bd86873bc44ad824273b3f2a199d53" label="Graphic Materials" type="Box">4</container>
-              <container id="aspace_8c49e52c0779efe7124642830811b9ce" parent="aspace_00bd86873bc44ad824273b3f2a199d53" type="Folder">26</container>
-            </did>
-          </c>
-          <c id="aspace_b914025d805d305d519d731c46db0baf" level="file">
-            <did>
-              <unittitle>New York—Union</unittitle>
-              <unitdate type="inclusive">1892, 1909</unitdate>
-              <container id="aspace_4dc56c2aa8b2a2ca635bf55ce26607b8" label="Graphic Materials" type="Box">4</container>
-              <container id="aspace_e02412855c69641695ca41efab64b076" parent="aspace_4dc56c2aa8b2a2ca635bf55ce26607b8" type="Folder">27</container>
-            </did>
-          </c>
-          <c id="aspace_003576580ef777a533d93f5293495872" level="file">
-            <did>
-              <unittitle>Pennsylvania—Mt. Jefferson</unittitle>
-              <unitdate type="inclusive">undated</unitdate>
-              <container id="aspace_aad27a8cede8cc531886d0d873e024cf" label="Graphic Materials" type="Box">4</container>
-              <container id="aspace_626a65bb0c31122f2aabaf4fd6716a6f" parent="aspace_aad27a8cede8cc531886d0d873e024cf" type="Folder">28</container>
-            </did>
-          </c>
-          <c id="aspace_cf8a8081f5aa4d6a36c5df0aec403d1a" level="file">
-            <did>
-              <unittitle>Virginia—Mt. Vernon</unittitle>
-              <unitdate type="inclusive">undated</unitdate>
-              <container id="aspace_77bd29eb7478443d8a143924abab17d4" label="Graphic Materials" type="Box">4</container>
-              <container id="aspace_e8baa6588d3cdcbeb24c31179ebb0a06" parent="aspace_77bd29eb7478443d8a143924abab17d4" type="Folder">29</container>
-            </did>
-          </c>
-          <c id="aspace_5bef4894b6e87a358aa6a99f721ed3e6" level="file">
-            <did>
-              <unittitle>Unidentified locations—Outdoor views</unittitle>
-              <unitdate type="inclusive">undated</unitdate>
-              <container id="aspace_63a28550814f7cbb364fcd7c0d27fb4b" label="Graphic Materials" type="Box">4</container>
-              <container id="aspace_7f7f3fa63ca7d0f9e23ff13ad13082ad" parent="aspace_63a28550814f7cbb364fcd7c0d27fb4b" type="Folder">30</container>
-            </did>
-          </c>
-          <c id="aspace_02124ac56fd5d435a27834fb95d45356" level="file">
-            <did>
-              <unittitle>Unidentified locations—Portrait photographs</unittitle>
-              <unitdate type="inclusive">1891–1892, undated</unitdate>
-              <container id="aspace_c7cfd355a46848ecdbf4b370b00fb4b4" label="Graphic Materials" type="Box">5</container>
-              <container id="aspace_af96f63b150dd2e67873385225362682" parent="aspace_c7cfd355a46848ecdbf4b370b00fb4b4" type="Folder">31</container>
-            </did>
-          </c>
-          <c id="aspace_99d90d68682def3acaa27f0615ef7cfd" level="file">
-            <did>
-              <unittitle>Unidentified locations—Residences</unittitle>
-              <unitdate type="inclusive">1892, undated</unitdate>
-              <container id="aspace_4bc03d6079fae67a357f7eb679810446" label="Graphic Materials" type="Box">5</container>
-              <container id="aspace_85768ffb92f36461a59a6ea436792bb4" parent="aspace_4bc03d6079fae67a357f7eb679810446" type="Folder">32</container>
-            </did>
-          </c>
-          <c id="aspace_399b0f71f977bd00a27f72be390d6cb3" level="file">
-            <did>
-              <unittitle>Unidentified locations—Sailboats</unittitle>
-              <unitdate type="inclusive">1888, undated</unitdate>
-              <container id="aspace_6ca22dca291bec5b672e07ea0512f7c1" label="Graphic Materials" type="Box">5</container>
-              <container id="aspace_ba1ac20babc0940ca02b3cfd0a6a6206" parent="aspace_6ca22dca291bec5b672e07ea0512f7c1" type="Folder">33</container>
-            </did>
-          </c>
-        </c>
-      </c>
-      <c id="aspace_e84e9d27d509ccd18e6d4f24b286b12d" level="series">
-        <did>
-          <unittitle>Series II. Negatives</unittitle>
-          <unitdate type="inclusive">1890–1903, undated</unitdate>
-        </did>
-        <arrangement id="aspace_951eabb9f55593f692d8bfeb24b8941e">
-          <head>Arrangement</head>
-          <p>Series II is organized in four subseries: II.A. Logbook; II.B. Glass Plate Negatives (4 x 5"); II.C. Glass Plate Negatives (5 x 8"); and II.D. Nitrate Film Negatives.</p>
-        </arrangement>
-        <c id="aspace_321e39f25373b22dad5289399c7501fb" level="subseries">
-          <did>
-            <unittitle>Subseries II.A. Logbook</unittitle>
-            <unitdate type="inclusive">1890–1901</unitdate>
-          </did>
-          <c id="aspace_ee7225fe035c17f27ce8a5fb7ce7d186" level="file">
-            <did>
-              <unittitle>Logbook (photocopies)</unittitle>
-              <unitdate type="inclusive">1890–1901</unitdate>
-              <container id="aspace_a3005d7646ee5bc7adab77a7a0aab612" label="Graphic Materials" type="Box">5</container>
-              <container id="aspace_513d2ccfd594c06b8e2329f4fb2b8265" parent="aspace_a3005d7646ee5bc7adab77a7a0aab612" type="Folder">34</container>
-            </did>
-          </c>
-        </c>
-        <c id="aspace_09844f8c99bcd77fd97bdc49c9bf531b" level="subseries">
-          <did>
-            <unittitle>Subseries II.B. Glass Plate Negatives (4 x 5")</unittitle>
-            <unitdate type="inclusive">1890–1901, undated</unitdate>
-          </did>
-          <arrangement id="aspace_f56b6f67d7de364e189cae2a05777600">
-            <head>Arrangement</head>
-            <p>Numbered glass plate negatives are housed sequentially from 007 to 494; there are gaps in the series. The negatives correspond to the entries in the photographer's logbook (Subseries II.A). Unnumbered negatives follow the numbered negatives, and have been arranged by subject. The quantity of negatives in each subject grouping is listed in parentheses.</p>
-          </arrangement>
-          <c id="aspace_3bf6e798c863e249661d29c0271583d2" level="file">
-            <did>
-              <unittitle>Glass Plate Negatives (4 x 5")—numbered [part 1 of 5]</unittitle>
-              <unitdate type="inclusive">1890–1893</unitdate>
-              <container id="aspace_183f26a0eed79438868c4e7401f02c77" label="Graphic Materials" type="Box">6</container>
-            </did>
-            <scopecontent id="aspace_a0cce74093ab0114294d3890b4f03189">
-              <head>Scope and Contents</head>
-              <p>007—Group of office force, 1890 February 14<lb/>
+<emph render="underline">Series III. Ephemera, 1888–1912, undated</emph> includes material collected by Trappan relating to his interests. Photographic ephemera includes a copy of the July 20, 1888 issue of <emph render="italic">Photographic Times</emph>. Bicycling material includes two of Trappan's American Wheelmen Association membership cards and an 1897 catalog for Keating Bicycles. Included are several souvenir post cards, travel brochures, and a souvenir booklet from the 1893 Chicago World's Fair. Material from the steel-working firm Bruce &amp; Cook includes photographs of the firm (see Series II for a few negatives showing the basement of their Water Street office), the centennial celebration dinner (1912) program, and business cards. Also included in this series are two hand-painted covers for a book and photo portfolio.</p>  </scopecontent>
+  <controlaccess>
+    <genreform source="aat">Cyanotypes</genreform>
+    <genreform source="aat">Gelatin silver prints.</genreform>
+    <genreform source="aat">negatives (photographs)</genreform>
+    <genreform source="aat">Photographic prints.</genreform>
+    <genreform source="aat">Portraits.</genreform>
+    <genreform source="aat">Travel photography</genreform>
+    <subject source="lcsh">Bicycle touring -- Massachusetts</subject>
+    <subject source="lcsh">Bicycle touring -- New York (State)  -- Long Island</subject>
+    <subject source="lcsh">Church dinners -- New York (State)  -- New York</subject>
+    <subject source="lcsh">Cycling</subject>
+    <geogname source="lcsh">Brooklyn (New York, N.Y.) -- Photographs.</geogname>
+    <geogname source="lcsh">Long Island (N.Y.) -- Photographs.</geogname>
+    <geogname source="lcsh">Massachusetts -- Photographs</geogname>
+    <geogname source="lcsh">New York (State)  -- Photographs</geogname>
+    <geogname source="lcsh">Philadelphia (Pa.) -- Photographs</geogname>
+    <geogname source="lcsh">Washington (D.C.) -- Photographs.</geogname>
+    <famname rules="rda" source="local">Trappan (Family)</famname>
+    <persname rules="rda" source="naf">Roosevelt, Theodore, 1858-1919 -- Inauguration -- Photographs</persname>
+    <corpname rules="rda" source="local">Bruce &amp; Cook</corpname>
+    <corpname rules="rda" source="local">Keating Wheel Company</corpname>
+    <corpname>Pan-American Exposition [611] (1901 : Buffalo, N.Y.) -- Photographs</corpname>
+    <corpname>World's Columbian Exposition (1893 : Chicago, Ill.) [111] -- Photographs</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_9ef8139d94525f58fbc9c23d283b9e09" level="series"><did><unittitle>Series I. Photographs</unittitle><unitdate datechar="creation" type="inclusive">1888–1909, undated</unitdate></did><arrangement id="aspace_b3f66e9e033c8131770895b7f5c2fb18"><head>Arrangement</head><p>This series is arranged in two subseries: I.A. Photograph Albums, and I.B. Loose Photographs.</p></arrangement><c id="aspace_f73f0c7a8a9fd8dcc58e031e8af63ca9" level="subseries"><did><unittitle>Subseries I.A. Photograph Albums</unittitle><unitdate datechar="creation" type="inclusive">1892–1903, undated</unitdate></did><arrangement id="aspace_d3ed7737d55f6c874f13d99944373f63"><head>Arrangement</head><p>Albums are arranged chronologically.</p></arrangement><c id="aspace_37c51b7b472ad636425c0a5221590b75" level="file"><did><unittitle>"Haps and Snaps, Morris Cove, Conn."</unittitle><unitdate datechar="creation" type="inclusive">1892 July</unitdate><container id="aspace_88738ba5571133e8ebd633509134d88d" label="Graphic Materials" type="Box">1</container><container id="aspace_e43578425d7260b82b5e207883496174" parent="aspace_88738ba5571133e8ebd633509134d88d" type="Folder">1</container></did></c><c id="aspace_6b6b1779a737bf85a74f78225839a0e0" level="file"><did><unittitle>"Bits of Scattered Sunshine"</unittitle><unitdate datechar="creation" type="inclusive">1895</unitdate><container id="aspace_7b51565fb15b1483f60e27d0ced96f81" label="Graphic Materials" type="Box">1</container><container id="aspace_29049460929a7443cdc56c5d13b64219" parent="aspace_7b51565fb15b1483f60e27d0ced96f81" type="Folder">2</container></did></c><c id="aspace_988e99f6bb9a643e4dcb9c41b78d5e3a" level="file"><did><unittitle>"Berkshire Hills" (includes manuscript account of the trip)</unittitle><unitdate datechar="creation" type="inclusive">1898 October 10–15</unitdate><container id="aspace_a764018f96c07459fa6706f50f5e8fc5" label="Graphic Materials" type="Box">1</container><container id="aspace_615565dc28141a2bbae0d657a316a665" parent="aspace_a764018f96c07459fa6706f50f5e8fc5" type="Folder">3</container></did></c><c id="aspace_5a7ebfc6082123fb023c7cc623050ddc" level="file"><did><unittitle>"A Coastwise Trip Awheel" (includes manuscript account of the trip)
+</unittitle><unitdate datechar="creation" type="inclusive">1900 July 16</unitdate><container id="aspace_b79bd9222d20f0b39a02aa5655949e40" label="Graphic Materials" type="Box">1</container><container id="aspace_a60e2f50cddba80c0306720363aba0ee" parent="aspace_b79bd9222d20f0b39a02aa5655949e40" type="Folder">4</container></did></c><c id="aspace_c8149da48ce8a5db083902c4dc21f269" level="file"><did><unittitle>"Inauguration March 4th 1901"</unittitle><unitdate datechar="creation" type="inclusive">1901 March 4</unitdate><container id="aspace_27210e48f37b817f29ad33616d7d658e" label="Graphic Materials" type="Box">1</container><container id="aspace_b8b4fa8bc331850505b8c5c66d6e8267" parent="aspace_27210e48f37b817f29ad33616d7d658e" type="Folder">5</container></did></c><c id="aspace_78714bf77781258f7c41a32b3ceb23f7" level="file"><did><unittitle>"Pan American Exposition"</unittitle><unitdate datechar="creation" type="inclusive">1901 June</unitdate><container id="aspace_a3fbf33c2911950875c3d532a615dae8" label="Graphic Materials" type="Box">1</container><container id="aspace_81dab46bc642649850555aa3f36e9879" parent="aspace_a3fbf33c2911950875c3d532a615dae8" type="Folder">6</container></did></c><c id="aspace_379b855240e6f011b501c449f3c42baf" level="file"><did><unittitle>"Wedding Trip"</unittitle><unitdate datechar="creation" type="inclusive">1903</unitdate><container id="aspace_248051abcaf8d4ac8c07b34be5f9485b" label="Graphic Materials" type="Box">1</container><container id="aspace_9210c509708c6b943b9ff253867a2671" parent="aspace_248051abcaf8d4ac8c07b34be5f9485b" type="Folder">7</container></did></c><c id="aspace_0768f4adb0be4e512da36f322a3664f9" level="file"><did><unittitle>Untitled [river and waterfall]</unittitle><unitdate datechar="creation" type="inclusive">undated</unitdate><container id="aspace_d6c7824fe3b042c5c112c6a9d7b8902b" label="Graphic Materials" type="Box">1</container><container id="aspace_4ab5fea183558cf74770e3a6817ad8e4" parent="aspace_d6c7824fe3b042c5c112c6a9d7b8902b" type="Folder">8</container></did></c><c id="aspace_f88cab5b4ae89467d6beffde827cbd0d" level="file"><did><unittitle>Untitled [bicycling and camping trip]</unittitle><unitdate datechar="creation" type="inclusive">undated</unitdate><container id="aspace_d7f61fc6da9ae152333d6582139f08f6" label="Graphic Materials" type="Box">1</container><container id="aspace_76f1bfc4fe786949a3f9dfb4fbce5958" parent="aspace_d7f61fc6da9ae152333d6582139f08f6" type="Folder">9</container></did></c><c id="aspace_071602eee90466efb2316dcfde699d26" level="file"><did><unittitle>Mounted Photographs (24 boards)</unittitle><unitdate datechar="creation" type="inclusive">1897–1899</unitdate><container id="aspace_6b77b9d4ada4f2d87f575fe56d546a1d" label="Graphic Materials" type="Box">2</container></did></c></c><c id="aspace_15c19cb5d3bf468514c9f3a0e4ff3e56" level="subseries"><did><unittitle>Subseries I.B. Loose Photographs</unittitle><unitdate datechar="creation" type="inclusive">1888–1909, undated</unitdate></did><arrangement id="aspace_b9a1a139223208f029839edf6aceef8f"><head>Arrangement</head><p>Photographs are arranged geographically and then by subject.</p></arrangement><c id="aspace_d18432b282305df0c5c73503bff044a6" level="file"><did><unittitle>Connecticut—East Haven</unittitle><unitdate datechar="creation" type="inclusive">1891 July</unitdate><container id="aspace_80d1cf9a1bf93cac08cf515f150b6f18" label="Graphic Materials" type="Box">3</container><container id="aspace_79c57ce0c9fbba2133ab8d33d1aa7aee" parent="aspace_80d1cf9a1bf93cac08cf515f150b6f18" type="Folder">10</container></did></c><c id="aspace_1fe9c09533e55e3b1e20b33539dc88dd" level="file"><did><unittitle>Connecticut—Morris Cove</unittitle><unitdate datechar="creation" type="inclusive">1890–1891</unitdate><container id="aspace_1a628d6079f11f7eefc0ae1fbeffb49c" label="Graphic Materials" type="Box">3</container><container id="aspace_c52d15b93ef2a169f004e0caa0144b42" parent="aspace_1a628d6079f11f7eefc0ae1fbeffb49c" type="Folder">11</container></did></c><c id="aspace_1b0286cb7a63616fed9a8153e04af913" level="file"><did><unittitle>Connecticut—Newtown</unittitle><unitdate datechar="creation" type="inclusive">undated</unitdate><container id="aspace_25c2e275503e81375c84d367cffed3b1" label="Graphic Materials" type="Box">3</container><container id="aspace_e2211a2c3ccd1fcf1bfcbb701e95c6bc" parent="aspace_25c2e275503e81375c84d367cffed3b1" type="Folder">12</container></did></c><c id="aspace_664450766010fbc90f10f99fc38b2246" level="file"><did><unittitle>Illinois—Chicago—World's Columbian Exposition</unittitle><unitdate datechar="creation" type="inclusive">1893</unitdate><container id="aspace_db1b689c183fed169415ce867cb1736e" label="Graphic Materials" type="Box">3</container><container id="aspace_298dc18103c0536ffaa975dc0ad5a7ce" parent="aspace_db1b689c183fed169415ce867cb1736e" type="Folder">13</container></did></c><c id="aspace_aef1043c3dcd01f226268edb3c9765ce" level="file"><did><unittitle>Massachusetts—New Bedford</unittitle><unitdate datechar="creation" type="inclusive">undated</unitdate><container id="aspace_fe075dd4613a1dbe6e15daad9fa2a98b" label="Graphic Materials" type="Box">3</container><container id="aspace_d6fdfad6be3e5bd9d96562133ff2ba5e" parent="aspace_fe075dd4613a1dbe6e15daad9fa2a98b" type="Folder">14</container></did></c><c id="aspace_264c6b702228bf92901715453574cda4" level="file"><did><unittitle>Massachusetts—North Adams</unittitle><unitdate datechar="creation" type="inclusive">undated</unitdate><container id="aspace_3b899b57a7f23a32e3fb7b3cd795dad4" label="Graphic Materials" type="Box">3</container><container id="aspace_a2e3126313e2bfdfc696cfd5dccd6c54" parent="aspace_3b899b57a7f23a32e3fb7b3cd795dad4" type="Folder">14</container></did></c><c id="aspace_9a043d351d0f1b0e19abdb67cf5b9f08" level="file"><did><unittitle>New York—Binghamton</unittitle><unitdate datechar="creation" type="inclusive">1890</unitdate><container id="aspace_8b2c2fadd94d6870772bcbf97f505b26" label="Graphic Materials" type="Box">3</container><container id="aspace_f5bfa2461fff7bdeba9702b4685a9b10" parent="aspace_8b2c2fadd94d6870772bcbf97f505b26" type="Folder">15</container></did></c><c id="aspace_0b1c577b78223f951958a3c4415c1808" level="file"><did><unittitle>New York—Little Neck Bay (Long Island)</unittitle><unitdate datechar="creation" type="inclusive">1891</unitdate><container id="aspace_8991a4b9383eefb9e23c462304ade446" label="Graphic Materials" type="Box">3</container><container id="aspace_b24a8cf65575a7e99724399bff7a1f20" parent="aspace_8991a4b9383eefb9e23c462304ade446" type="Folder">16</container></did></c><c id="aspace_a8e6d1402c81611785085514dfb4e5d0" level="file"><did><unittitle>New York City—Brooklyn—General</unittitle><unitdate datechar="creation" type="inclusive">1890, undated</unitdate><container id="aspace_5ac721e6d16e1fa3f72bc90fc9ff87f1" label="Graphic Materials" type="Box">3</container><container id="aspace_250416b54c9241eaf98e762f54695479" parent="aspace_5ac721e6d16e1fa3f72bc90fc9ff87f1" type="Folder">17</container></did></c><c id="aspace_f7cd6e9a5214f74e370a3f86cf00b490" level="file"><did><unittitle>New York City—Brooklyn—Prospect Park</unittitle><unitdate datechar="creation" type="inclusive">1890, undated</unitdate><container id="aspace_80bfc58b4403b76dd35dd137d8a01e5e" label="Graphic Materials" type="Box">3</container><container id="aspace_7663447972bd1db2c25f3560800cad15" parent="aspace_80bfc58b4403b76dd35dd137d8a01e5e" type="Folder">18</container></did></c><c id="aspace_eca00689f2b69c7d2cba7d1a5a651964" level="file"><did><unittitle>New York City—Manhattan—General</unittitle><unitdate datechar="creation" type="inclusive">1890–1891, undated</unitdate><container id="aspace_4cbf0ac1f0693230c926bb79f9c94916" label="Graphic Materials" type="Box">4</container><container id="aspace_b379c7694e541d849989f30fe1021dec" parent="aspace_4cbf0ac1f0693230c926bb79f9c94916" type="Folder">19</container></did></c><c id="aspace_9ace2a3ae98899b209b527423b52afb8" level="file"><did><unittitle>New York City—Manhattan—Central Park</unittitle><unitdate datechar="creation" type="inclusive">1891</unitdate><container id="aspace_39705a288627df561e2d13f0b3712546" label="Graphic Materials" type="Box">4</container><container id="aspace_6fa584ae9e1c182560aba5755f3f3533" parent="aspace_39705a288627df561e2d13f0b3712546" type="Folder">20</container></did></c><c id="aspace_ba6193c3d902d3cf671961c9c2f9d805" level="file"><did><unittitle>New York City—Queens—College Point/Flushing Bay</unittitle><unitdate datechar="creation" type="inclusive">1891</unitdate><container id="aspace_752fe59253da04b1e628e663c2113fa3" label="Graphic Materials" type="Box">4</container><container id="aspace_ebdbd11cd441cc99297db02e1a9c76bd" parent="aspace_752fe59253da04b1e628e663c2113fa3" type="Folder">21</container></did></c><c id="aspace_16a875b4efc84214046cd9c01da9ac79" level="file"><did><unittitle>New York City—Queens—Flushing</unittitle><unitdate datechar="creation" type="inclusive">1891</unitdate><container id="aspace_903d6bf5d6cb2aa551d71e8c8464921b" label="Graphic Materials" type="Box">4</container><container id="aspace_efcfcad41efcbee39580a0070dce828b" parent="aspace_903d6bf5d6cb2aa551d71e8c8464921b" type="Folder">22</container></did></c><c id="aspace_4f432b0513f08e0ddd0141d0ccec969c" level="file"><did><unittitle>New York—Nanuet</unittitle><unitdate datechar="creation" type="inclusive">1891</unitdate><container id="aspace_6545fb23e8c581c0b1315a8a0d9a95e9" label="Graphic Materials" type="Box">4</container><container id="aspace_c77fca25b67f6111e3a5b46ad2dc40f2" parent="aspace_6545fb23e8c581c0b1315a8a0d9a95e9" type="Folder">23</container></did></c><c id="aspace_a2b2689e607589658e4afaa0a65dd298" level="file"><did><unittitle>New York—Pelham Bay</unittitle><unitdate datechar="creation" type="inclusive">1893</unitdate><container id="aspace_3174ecb6ca239fcd761f3cf745b5419d" label="Graphic Materials" type="Box">4</container><container id="aspace_80abade45d55d3302947c769d5f2fcc2" parent="aspace_3174ecb6ca239fcd761f3cf745b5419d" type="Folder">24</container></did></c><c id="aspace_ac13f6fe5e456fb18cb9fc1fc72c7930" level="file"><did><unittitle>New York—Rockland County</unittitle><unitdate datechar="creation" type="inclusive">1892</unitdate><container id="aspace_b91cbf9f69bebd41e016d2a92230368e" label="Graphic Materials" type="Box">4</container><container id="aspace_30ada60abb07a359c2140372c2dbcf24" parent="aspace_b91cbf9f69bebd41e016d2a92230368e" type="Folder">25</container></did></c><c id="aspace_e3eb18b667d014bf80e97c832823ce56" level="file"><did><unittitle>New York—Shady Glen</unittitle><unitdate datechar="creation" type="inclusive">1894</unitdate><container id="aspace_ad92ce58f2c9eea0834db9cec5394441" label="Graphic Materials" type="Box">4</container><container id="aspace_e15325794863c8523156066a2e4f9c1e" parent="aspace_ad92ce58f2c9eea0834db9cec5394441" type="Folder">26</container></did></c><c id="aspace_b914025d805d305d519d731c46db0baf" level="file"><did><unittitle>New York—Union</unittitle><unitdate datechar="creation" type="inclusive">1892, 1909</unitdate><container id="aspace_f952afc7327c064a54db58cecc878f14" label="Graphic Materials" type="Box">4</container><container id="aspace_c3f936067f1c247e85ffb46cdcc24f4e" parent="aspace_f952afc7327c064a54db58cecc878f14" type="Folder">27</container></did></c><c id="aspace_003576580ef777a533d93f5293495872" level="file"><did><unittitle>Pennsylvania—Mt. Jefferson</unittitle><unitdate datechar="creation" type="inclusive">undated</unitdate><container id="aspace_7090c670e43b38e1c95fc78da0da2115" label="Graphic Materials" type="Box">4</container><container id="aspace_ac2d28a3949f8be215b9236abe4a9fde" parent="aspace_7090c670e43b38e1c95fc78da0da2115" type="Folder">28</container></did></c><c id="aspace_cf8a8081f5aa4d6a36c5df0aec403d1a" level="file"><did><unittitle>Virginia—Mt. Vernon</unittitle><unitdate datechar="creation" type="inclusive">undated</unitdate><container id="aspace_d54ffcb83fd0ca8975cc5e2f37bbe607" label="Graphic Materials" type="Box">4</container><container id="aspace_606026b58c2934e50579dfc8a7957fa2" parent="aspace_d54ffcb83fd0ca8975cc5e2f37bbe607" type="Folder">29</container></did></c><c id="aspace_5bef4894b6e87a358aa6a99f721ed3e6" level="file"><did><unittitle>Unidentified locations—Outdoor views</unittitle><unitdate datechar="creation" type="inclusive">undated</unitdate><container id="aspace_28e95c8f83ee856421d7d4446fca13e3" label="Graphic Materials" type="Box">4</container><container id="aspace_579364d3d938e5a95a60cf8a8aae8466" parent="aspace_28e95c8f83ee856421d7d4446fca13e3" type="Folder">30</container></did></c><c id="aspace_02124ac56fd5d435a27834fb95d45356" level="file"><did><unittitle>Unidentified locations—Portrait photographs</unittitle><unitdate datechar="creation" type="inclusive">1891–1892, undated</unitdate><container id="aspace_fd3a249207683ee6fe77e4a5636eac80" label="Graphic Materials" type="Box">5</container><container id="aspace_ef3661ee3a193bbed426e63de6647138" parent="aspace_fd3a249207683ee6fe77e4a5636eac80" type="Folder">31</container></did></c><c id="aspace_99d90d68682def3acaa27f0615ef7cfd" level="file"><did><unittitle>Unidentified locations—Residences</unittitle><unitdate datechar="creation" type="inclusive">1892, undated</unitdate><container id="aspace_aeff5a629cd9dfd29d6b5e8f2b30dbc4" label="Graphic Materials" type="Box">5</container><container id="aspace_06ad6d1799222010b3842110f313d8ac" parent="aspace_aeff5a629cd9dfd29d6b5e8f2b30dbc4" type="Folder">32</container></did></c><c id="aspace_399b0f71f977bd00a27f72be390d6cb3" level="file"><did><unittitle>Unidentified locations—Sailboats</unittitle><unitdate datechar="creation" type="inclusive">1888, undated</unitdate><container id="aspace_070edbe943054fe780777fbf3ccd802e" label="Graphic Materials" type="Box">5</container><container id="aspace_6d9153bec997920570d8f1a7c137bf7d" parent="aspace_070edbe943054fe780777fbf3ccd802e" type="Folder">33</container></did></c></c></c><c id="aspace_e84e9d27d509ccd18e6d4f24b286b12d" level="series"><did><unittitle>Series II. Negatives</unittitle><unitdate datechar="creation" type="inclusive">1890–1903, undated</unitdate></did><arrangement id="aspace_951eabb9f55593f692d8bfeb24b8941e"><head>Arrangement</head><p>Series II is organized in four subseries: II.A. Logbook; II.B. Glass Plate Negatives (4 x 5"); II.C. Glass Plate Negatives (5 x 8"); and II.D. Nitrate Film Negatives.</p></arrangement><c id="aspace_321e39f25373b22dad5289399c7501fb" level="subseries"><did><unittitle>Subseries II.A. Logbook</unittitle><unitdate datechar="creation" type="inclusive">1890–1901</unitdate></did><c id="aspace_ee7225fe035c17f27ce8a5fb7ce7d186" level="file"><did><unittitle>Logbook (photocopies)</unittitle><unitdate datechar="creation" type="inclusive">1890–1901</unitdate><container id="aspace_594bc9ef6b4e3aa11cc9ec2b1cd17921" label="Graphic Materials" type="Box">5</container><container id="aspace_3a979162013459a785baf285dc6dd7d1" parent="aspace_594bc9ef6b4e3aa11cc9ec2b1cd17921" type="Folder">34</container></did></c></c><c id="aspace_09844f8c99bcd77fd97bdc49c9bf531b" level="subseries"><did><unittitle>Subseries II.B. Glass Plate Negatives (4 x 5")</unittitle><unitdate datechar="creation" type="inclusive">1890–1901, undated</unitdate></did><arrangement id="aspace_f56b6f67d7de364e189cae2a05777600"><head>Arrangement</head><p>Numbered glass plate negatives are housed sequentially from 007 to 494; there are gaps in the series. The negatives correspond to the entries in the photographer's logbook (Subseries II.A). Unnumbered negatives follow the numbered negatives, and have been arranged by subject. The quantity of negatives in each subject grouping is listed in parentheses.</p></arrangement><c id="aspace_3bf6e798c863e249661d29c0271583d2" level="file"><did><unittitle>Glass Plate Negatives (4 x 5")—numbered [part 1 of 5]</unittitle><unitdate datechar="creation" type="inclusive">1890–1893</unitdate><container id="aspace_5e694909b602a9fcc3c5e03ddc0abddd" label="Graphic Materials" type="Box">6</container></did><scopecontent id="aspace_a0cce74093ab0114294d3890b4f03189"><head>Scope and Contents</head><p>007—Group of office force, 1890 February 14<lb/>
 019—Group – School marms, PS #53, 1890 April 3<lb/>
 021—E. L. Tibbulo, 1890 April 10<lb/>
 027a—Group, Missus Schmidt, Miller &amp; Carrie, PS #53, 1890 May 9<lb/>
@@ -567,18 +183,7 @@ Subseries I.B. Loose Photographs, spans the years 1890–1893 and includes image
 149—Colonnade from bridge in court of Honor, 1893 July 20<lb/>
 151—Statue in Court of Honor "the Producer," 1893 July 20<lb/>
 152—Administration Bldg from Peristyle, 1893 July 20<lb/>
-153—Statue of Republic, 1893 July 20</p>
-            </scopecontent>
-          </c>
-          <c id="aspace_8e6a5c47211baa8098b2441b005c5a12" level="file">
-            <did>
-              <unittitle>Glass Plate Negatives (4 x 5")—numbered [part 2 of 5]</unittitle>
-              <unitdate type="inclusive">1893–1895</unitdate>
-              <container id="aspace_1a45b2785c0a19c04e926d39a6dd5651" label="Graphic Materials" type="Box">7</container>
-            </did>
-            <scopecontent id="aspace_f5f8c59df92714695dcd8e7d96765d2e">
-              <head>Scope and Contents</head>
-              <p>156—McMonnies fountain &amp; Mining Bldg., 1893 July 20<lb/>
+153—Statue of Republic, 1893 July 20</p></scopecontent></c><c id="aspace_8e6a5c47211baa8098b2441b005c5a12" level="file"><did><unittitle>Glass Plate Negatives (4 x 5")—numbered [part 2 of 5]</unittitle><unitdate datechar="creation" type="inclusive">1893–1895</unitdate><container id="aspace_d8b1b8b472f471ae7b42375a096dbfcd" label="Graphic Materials" type="Box">7</container></did><scopecontent id="aspace_f5f8c59df92714695dcd8e7d96765d2e"><head>Scope and Contents</head><p>156—McMonnies fountain &amp; Mining Bldg., 1893 July 20<lb/>
 157—In Midway going west, 1893 July 20<lb/>
 158—Lunch party on Mich. Piazza, 1893 July 20<lb/>
 159—57th St. entrance—looking east, 1893 July 20<lb/>
@@ -644,18 +249,7 @@ Subseries I.B. Loose Photographs, spans the years 1890–1893 and includes image
 252—Trinity Church, 1895 July 13<lb/>
 253—Decorations on Washington Street, 1895 July 13<lb/>
 254—Bridge in Public Gardens, 1895 July 15<lb/>
-255—C. E. Tents, 1895 July 15</p>
-            </scopecontent>
-          </c>
-          <c id="aspace_a18c77fa69e01195594c31c32415d983" level="file">
-            <did>
-              <unittitle>Glass Plate Negatives (4 x 5")—numbered [part 3 of 5]</unittitle>
-              <unitdate type="inclusive">1895–1896</unitdate>
-              <container id="aspace_7c2760a60d97fa353fe318d9ada860ca" label="Graphic Materials" type="Box">8</container>
-            </did>
-            <scopecontent id="aspace_16bdac24203fef0ac8833acaf1ad5f7d">
-              <head>Scope and Contents</head>
-              <p>256—Soldiers Monument on Common, 1895 July 15<lb/>
+255—C. E. Tents, 1895 July 15</p></scopecontent></c><c id="aspace_a18c77fa69e01195594c31c32415d983" level="file"><did><unittitle>Glass Plate Negatives (4 x 5")—numbered [part 3 of 5]</unittitle><unitdate datechar="creation" type="inclusive">1895–1896</unitdate><container id="aspace_6100cbb1a328e105e09277beb2886939" label="Graphic Materials" type="Box">8</container></did><scopecontent id="aspace_16bdac24203fef0ac8833acaf1ad5f7d"><head>Scope and Contents</head><p>256—Soldiers Monument on Common, 1895 July 15<lb/>
 257—State House, 1895 July 15<lb/>
 258—Congregational House, 1895 July 15<lb/>
 259—Emerson's House, Concord, 1895 July 15<lb/>
@@ -704,18 +298,7 @@ Subseries I.B. Loose Photographs, spans the years 1890–1893 and includes image
 313—Cooper's Sail—boys on deck, 1896 June 13<lb/>
 314—Cooper's Sail—boys on stern, 1896 June 13<lb/>
 315—Brenda, 1896 July 4<lb/>
-316—Sue with wheel on piazza, 1896 July 4</p>
-            </scopecontent>
-          </c>
-          <c id="aspace_e6ea28ec15b2cd66806b8807c5aeebc0" level="file">
-            <did>
-              <unittitle>Glass Plate Negatives (4 x 5")—numbered [part 4 of 5]</unittitle>
-              <unitdate type="inclusive">1896–1897</unitdate>
-              <container id="aspace_e6f9ea00b6c9c77f232a58d2b4dd6c76" label="Graphic Materials" type="Box">9</container>
-            </did>
-            <scopecontent id="aspace_376abc3d41d6cd4f0162c08b80a92e60">
-              <head>Scope and Contents</head>
-              <p>317—Sue with wheel on lawn, 1896 July 4<lb/>
+316—Sue with wheel on piazza, 1896 July 4</p></scopecontent></c><c id="aspace_e6ea28ec15b2cd66806b8807c5aeebc0" level="file"><did><unittitle>Glass Plate Negatives (4 x 5")—numbered [part 4 of 5]</unittitle><unitdate datechar="creation" type="inclusive">1896–1897</unitdate><container id="aspace_b02eb076b6b51046555f70482994523c" label="Graphic Materials" type="Box">9</container></did><scopecontent id="aspace_376abc3d41d6cd4f0162c08b80a92e60"><head>Scope and Contents</head><p>317—Sue with wheel on lawn, 1896 July 4<lb/>
 318—The "Susye," bow on, 1896 July 4<lb/>
 319—The "Susye," 1896 July 4<lb/>
 320—Cows &amp; calf, Binghamton, 1896 July 23<lb/>
@@ -770,18 +353,7 @@ Subseries I.B. Loose Photographs, spans the years 1890–1893 and includes image
 387—White House, people, 1897 July<lb/>
 388—White House, people, 1897 July<lb/>
 389—E.L.T. &amp; wheel, 1897 July<lb/>
-391—Viewdelieu, Hollyoak, Delaware, 1897 July</p>
-            </scopecontent>
-          </c>
-          <c id="aspace_172e3264a27174804c4db7325b5c80ad" level="file">
-            <did>
-              <unittitle>Glass Plate Negatives (4 x 5")—numbered [part 5 of 5]</unittitle>
-              <unitdate type="inclusive">1897–1901</unitdate>
-              <container id="aspace_baf05dc38150d6fc3bde72b12e79c88a" label="Graphic Materials" type="Box">10</container>
-            </did>
-            <scopecontent id="aspace_3b7e5c3b46f44b25a7b454e4de76707c">
-              <head>Scope and Contents</head>
-              <p>392—Mt. Vernon, 1897 July<lb/>
+391—Viewdelieu, Hollyoak, Delaware, 1897 July</p></scopecontent></c><c id="aspace_172e3264a27174804c4db7325b5c80ad" level="file"><did><unittitle>Glass Plate Negatives (4 x 5")—numbered [part 5 of 5]</unittitle><unitdate datechar="creation" type="inclusive">1897–1901</unitdate><container id="aspace_99a64beffb767e0515241367d9e93bcc" label="Graphic Materials" type="Box">10</container></did><scopecontent id="aspace_3b7e5c3b46f44b25a7b454e4de76707c"><head>Scope and Contents</head><p>392—Mt. Vernon, 1897 July<lb/>
 393—Capitol, 1897 July<lb/>
 394—Tomb of Washington, 1897 July<lb/>
 395—Wanamaker's, 1897 July<lb/>
@@ -839,18 +411,7 @@ Subseries I.B. Loose Photographs, spans the years 1890–1893 and includes image
 479—Road near Flushing, 1899 October<lb/>
 487—Scene in Prospect Park, 1900 September<lb/>
 489—Laying corner stone, 1901 January 1<lb/>
-494—</p>
-            </scopecontent>
-          </c>
-          <c id="aspace_73353c7b2aaa8962890ed38ec7c83af5" level="file">
-            <did>
-              <unittitle>Glass Plate Negatives (4 x 5")—unnumbered</unittitle>
-              <unitdate type="inclusive">1896, 1899, undated</unitdate>
-              <container id="aspace_a4d41355bae5d88a37daf1e0fb4bab48" label="Graphic Materials" type="Box">11</container>
-            </did>
-            <scopecontent id="aspace_3c2948a85a74d2075d2fb752ab844abc">
-              <head>Scope and Contents</head>
-              <p>Bennett House, Michigan (3), 1896<lb/>
+494—</p></scopecontent></c><c id="aspace_73353c7b2aaa8962890ed38ec7c83af5" level="file"><did><unittitle>Glass Plate Negatives (4 x 5")—unnumbered</unittitle><unitdate datechar="creation" type="inclusive">1896, 1899, undated</unitdate><container id="aspace_68e91f088e052581e9e2cfd3c997a562" label="Graphic Materials" type="Box">11</container></did><scopecontent id="aspace_3c2948a85a74d2075d2fb752ab844abc"><head>Scope and Contents</head><p>Bennett House, Michigan (3), 1896<lb/>
 Dewey Days (1), 1899<lb/>
 McKinley Decorations (5), 1896<lb/>
 Outdoor Views, undated<lb/>
@@ -861,28 +422,7 @@ Prospect Park (1), undated<lb/>
 Residences (3), undated<lb/>
 Rooftops (1), undated<lb/>
 Street Scenes (3), undated<lb/>
-Water Scenes (5), undated</p>
-            </scopecontent>
-          </c>
-        </c>
-        <c id="aspace_75d872d99351eece45c60aca03673c1e" level="subseries">
-          <did>
-            <unittitle>Subseries II.C. Glass Plate Negatives (5 x 8")</unittitle>
-            <unitdate type="inclusive">1890–1896, undated</unitdate>
-          </did>
-          <arrangement id="aspace_b720fb302e61451dc5e834aa9e45a8de">
-            <head>Arrangement</head>
-            <p>Numbered glass plate negatives are housed sequentially from 012 to 216; there are gaps in the series. The negatives correspond to the entries in the photographer's logbook (Subseries II.A). Unnumbered negatives follow the numbered negatives, and have been arranged by subject. The quantity of negatives in each subject grouping is listed in parentheses.</p>
-          </arrangement>
-          <c id="aspace_f85fb6a1946205f6303c5fb3d00660a7" level="file">
-            <did>
-              <unittitle>Glass Plate Negatives (5 x 8")—numbered</unittitle>
-              <unitdate type="inclusive">1890–1894</unitdate>
-              <container id="aspace_48c099efdad796a38f242f7dcf0f17ac" label="Graphic Materials" type="Box">12</container>
-            </did>
-            <scopecontent id="aspace_5b0d48820316f9bdf08668cbedbd1635">
-              <head>Scope and Contents</head>
-              <p>012—Rustic House and Bridge, Prospect Park, 1890 February 22<lb/>
+Water Scenes (5), undated</p></scopecontent></c></c><c id="aspace_75d872d99351eece45c60aca03673c1e" level="subseries"><did><unittitle>Subseries II.C. Glass Plate Negatives (5 x 8")</unittitle><unitdate datechar="creation" type="inclusive">1890–1896, undated</unitdate></did><arrangement id="aspace_b720fb302e61451dc5e834aa9e45a8de"><head>Arrangement</head><p>Numbered glass plate negatives are housed sequentially from 012 to 216; there are gaps in the series. The negatives correspond to the entries in the photographer's logbook (Subseries II.A). Unnumbered negatives follow the numbered negatives, and have been arranged by subject. The quantity of negatives in each subject grouping is listed in parentheses.</p></arrangement><c id="aspace_f85fb6a1946205f6303c5fb3d00660a7" level="file"><did><unittitle>Glass Plate Negatives (5 x 8")—numbered</unittitle><unitdate datechar="creation" type="inclusive">1890–1894</unitdate><container id="aspace_4c4bab69d9f08526ef77fbafda5c9e5f" label="Graphic Materials" type="Box">12</container></did><scopecontent id="aspace_5b0d48820316f9bdf08668cbedbd1635"><head>Scope and Contents</head><p>012—Rustic House and Bridge, Prospect Park, 1890 February 22<lb/>
 015—Group &amp; snow ball, Prospect Park, 1890 March 20<lb/>
 017—Elevated RR &amp; backyard, 210 Stockton, 1890 April 1<lb/>
 027b—<lb/>
@@ -905,120 +445,17 @@ Water Scenes (5), undated</p>
 210—Sayman's sheep, Shady Glen, Catskills, 1894 August<lb/>
 213—Group at falls, in glen, Shady Glen, Catskills, 1894 August<lb/>
 214—View from Piazza, Shady Glen, Catskills, 1894 August<lb/>
-216—Depth of Glen, Shady Glen, Catskills, 1894 August</p>
-            </scopecontent>
-          </c>
-          <c id="aspace_51ad45b7f62fb860cd83b7208aeedca9" level="file">
-            <did>
-              <unittitle>Glass Plate Negatives (5 x 8")—unnumbered</unittitle>
-              <unitdate type="inclusive">1890–1896, undated</unitdate>
-              <container id="aspace_1626cff5e804dd5388754ec434142345" label="Graphic Materials" type="Box">12</container>
-            </did>
-            <scopecontent id="aspace_12d48e1078dc35580ca641441f780e95">
-              <head>Scope and Contents</head>
-              <p>Bruce &amp; Cook Co. (3), undated<lb/>
+216—Depth of Glen, Shady Glen, Catskills, 1894 August</p></scopecontent></c><c id="aspace_51ad45b7f62fb860cd83b7208aeedca9" level="file"><did><unittitle>Glass Plate Negatives (5 x 8")—unnumbered</unittitle><unitdate datechar="creation" type="inclusive">1890–1896, undated</unitdate><container id="aspace_e1863df9f09a68e1bf94c2aafbbcf011" label="Graphic Materials" type="Box">12</container></did><scopecontent id="aspace_12d48e1078dc35580ca641441f780e95"><head>Scope and Contents</head><p>Bruce &amp; Cook Co. (3), undated<lb/>
 Morris Cove, Connecticut (1), 1890<lb/>
 "My Room" (5 x 7"), undated<lb/>
 New York State—Brooklyn (2), 1890, 1896<lb/>
 New York State—Shady Glen, Catskills (3), 1894<lb/>
-Outdoor Views (1), undated</p>
-            </scopecontent>
-          </c>
-        </c>
-        <c id="aspace_faf6416f075daba9c75ccb5b1cbab04d" level="subseries">
-          <did>
-            <unittitle>Subseries II.D. Nitrate Film Negatives</unittitle>
-            <unitdate type="inclusive">1898–1903, undated</unitdate>
-          </did>
-          <arrangement id="aspace_c55fde6e18eff1207a0fbc393208ec26">
-            <head>Arrangement</head>
-            <p>Negatives are arranged alphabetically by travel destinations. The quantity of negatives in each grouping is listed in parentheses after the subject description.</p>
-          </arrangement>
-          <accessrestrict id="aspace_c7fd1fc62fd940153f869c85a7329a71">
-            <head>Restricted</head>
-            <p>Due to the possible combustibility of the nitrate negatives in Subseries II.D, they are kept in cold storage. Before requesting items from Box 13, discuss the possibility of viewing this material with a staff member, keeping in mind that it requires at least two full days to thaw.</p>
-          </accessrestrict>
-          <c id="aspace_18b4436272a248d869c464f252b22947" level="file">
-            <did>
-              <unittitle>Nitrate Film Negatives</unittitle>
-              <unitdate type="inclusive">1898–1903, undated</unitdate>
-              <container id="aspace_9fb902039a50ff418ac50e7a7406c5a0" label="Graphic Materials" type="Box">13</container>
-            </did>
-            <scopecontent id="aspace_e9fb67879c8f0e96af152ca5120c3a65">
-              <head>Scope and Contents</head>
-              <p>Atlantic City, N.J. (8), undated<lb/>
+Outdoor Views (1), undated</p></scopecontent></c></c><c id="aspace_faf6416f075daba9c75ccb5b1cbab04d" level="subseries"><did><unittitle>Subseries II.D. Nitrate Film Negatives</unittitle><unitdate datechar="creation" type="inclusive">1898–1903, undated</unitdate></did><arrangement id="aspace_c55fde6e18eff1207a0fbc393208ec26"><head>Arrangement</head><p>Negatives are arranged alphabetically by travel destinations. The quantity of negatives in each grouping is listed in parentheses after the subject description.</p></arrangement><accessrestrict id="aspace_c7fd1fc62fd940153f869c85a7329a71"><head>Restricted</head><p>Due to the possible combustibility of the nitrate negatives in Subseries II.D, they are kept in cold storage. Before requesting items from Box 13, discuss the possibility of viewing this material with a staff member, keeping in mind that it requires at least two full days to thaw.</p></accessrestrict><c id="aspace_18b4436272a248d869c464f252b22947" level="file"><did><unittitle>Nitrate Film Negatives</unittitle><unitdate datechar="creation" type="inclusive">1898–1903, undated</unitdate><container id="aspace_04d0bddf6c67fc999a03a31fad6bb285" label="Graphic Materials" type="Box">13</container></did><scopecontent id="aspace_e9fb67879c8f0e96af152ca5120c3a65"><head>Scope and Contents</head><p>Atlantic City, N.J. (8), undated<lb/>
 Berkshire Hills, Mass. (10), 1898<lb/>
 Boston, Mass. (50), 1900<lb/>
 Buffalo, N.Y. (60), 1901<lb/>
 Quonocontaug, R.I. (2), undated<lb/>
 Washington, D.C. (14), 1903<lb/>
-Unidentified (152), undated</p>
-            </scopecontent>
-          </c>
-        </c>
-      </c>
-      <c id="aspace_39e114473d2124e69c68ce3fddb04d3f" level="series">
-        <did>
-          <unittitle>Series III. Ephemera</unittitle>
-          <unitdate type="inclusive">1888–1912, undated</unitdate>
-        </did>
-        <c id="aspace_5b49ff845ddea6e97402990ebb4f448b" level="file">
-          <did>
-            <unittitle>Bicycling ephemera</unittitle>
-            <unitdate type="inclusive">1897–1901</unitdate>
-            <container id="aspace_9c96fa107c6fe192108effd42ba05149" label="Mixed Materials" type="Box">14</container>
-            <container id="aspace_83835e273568b30fa6a27de9e4b3f9ef" parent="aspace_9c96fa107c6fe192108effd42ba05149" type="Folder">35</container>
-          </did>
-        </c>
-        <c id="aspace_11a7bbc780a4b29a2aa3d7abefb53c51" level="file">
-          <did>
-            <unittitle>Photographic ephemera</unittitle>
-            <unitdate type="inclusive">1888, undated</unitdate>
-            <container id="aspace_bcd8680a98e0dea6039cfeb3b6a760be" label="Mixed Materials" type="Box">14</container>
-            <container id="aspace_52d9a5be60322d601ee7879f7348d57b" parent="aspace_bcd8680a98e0dea6039cfeb3b6a760be" type="Folder">36</container>
-          </did>
-        </c>
-        <c id="aspace_e2b64818a14e7baf1357715a751dbf95" level="file">
-          <did>
-            <unittitle>Pamphlets</unittitle>
-            <unitdate type="inclusive">1899–1900</unitdate>
-            <container id="aspace_dc68ce9e73ad4d7a62180ddc29c0a29a" label="Mixed Materials" type="Box">14</container>
-            <container id="aspace_15546d57277c945e521cb4a0f71c3d58" parent="aspace_dc68ce9e73ad4d7a62180ddc29c0a29a" type="Folder">37</container>
-          </did>
-        </c>
-        <c id="aspace_a546bb7724d9f133d3e20fbe43de157c" level="file">
-          <did>
-            <unittitle>Travel souvenirs</unittitle>
-            <unitdate type="inclusive">1893–1900</unitdate>
-            <container id="aspace_9bdb9848df79540057cd0c899811f5c4" label="Mixed Materials" type="Box">14</container>
-            <container id="aspace_e9163647afb58201a085624270c395bb" parent="aspace_9bdb9848df79540057cd0c899811f5c4" type="Folder">38</container>
-          </did>
-        </c>
-        <c id="aspace_b188ed1fdc7e2bf571c4f55751350a6e" level="file">
-          <did>
-            <unittitle>Bruce &amp; Cook material—Print matter</unittitle>
-            <unitdate type="inclusive">1912, undated</unitdate>
-            <container id="aspace_a4fa2f31315280845866203964837c39" label="Mixed Materials" type="Box">14</container>
-            <container id="aspace_f7974b239988742463d60e9a9dcde6a4" parent="aspace_a4fa2f31315280845866203964837c39" type="Folder">39</container>
-          </did>
-        </c>
-        <c id="aspace_cbbde6f4c7648ff3c7e3be13cab7c319" level="file">
-          <did>
-            <unittitle>Bruce &amp; Cook material—Photographs</unittitle>
-            <unitdate type="inclusive">1912, undated</unitdate>
-            <container id="aspace_45808bf13a5a9c1154822a3e292eeabb" label="Graphic Materials" type="Box">15</container>
-            <container id="aspace_737a3eb85c8f11440fa97a2eef47d026" parent="aspace_45808bf13a5a9c1154822a3e292eeabb" type="Folder">40</container>
-          </did>
-        </c>
-        <c id="aspace_5cf280242f6477ebd4908d9902c5e722" level="file">
-          <did>
-            <unittitle>Hand-painted portfolio and book cover</unittitle>
-            <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_0dec81c2d4a5ab49ce6b88cce36c18cd" label="Mixed Materials" type="Box">15</container>
-            <container id="aspace_4d78a6da1000b74254f893b7005f8861" parent="aspace_0dec81c2d4a5ab49ce6b88cce36c18cd" type="Folder">41</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+Unidentified (152), undated</p></scopecontent></c></c></c><c id="aspace_39e114473d2124e69c68ce3fddb04d3f" level="series"><did><unittitle>Series III. Ephemera</unittitle><unitdate datechar="creation" type="inclusive">1888–1912, undated</unitdate></did><c id="aspace_5b49ff845ddea6e97402990ebb4f448b" level="file"><did><unittitle>Bicycling ephemera</unittitle><unitdate datechar="creation" type="inclusive">1897–1901</unitdate><container id="aspace_2e5fd394467561357dc332827c07f947" label="Mixed Materials" type="Box">14</container><container id="aspace_157fd763bc4ae2385c140800b320d728" parent="aspace_2e5fd394467561357dc332827c07f947" type="Folder">35</container></did></c><c id="aspace_11a7bbc780a4b29a2aa3d7abefb53c51" level="file"><did><unittitle>Photographic ephemera</unittitle><unitdate datechar="creation" type="inclusive">1888, undated</unitdate><container id="aspace_ca07a0c2c119ede04c8555eac5bc214c" label="Mixed Materials" type="Box">14</container><container id="aspace_b452491596d8a1633cddf826d24c86b8" parent="aspace_ca07a0c2c119ede04c8555eac5bc214c" type="Folder">36</container></did></c><c id="aspace_e2b64818a14e7baf1357715a751dbf95" level="file"><did><unittitle>Pamphlets</unittitle><unitdate datechar="creation" type="inclusive">1899–1900</unitdate><container id="aspace_be6f7f4cec56ab9ce1037c8751f16cb5" label="Mixed Materials" type="Box">14</container><container id="aspace_a832514bb79db5e4557f5545077da5a8" parent="aspace_be6f7f4cec56ab9ce1037c8751f16cb5" type="Folder">37</container></did></c><c id="aspace_a546bb7724d9f133d3e20fbe43de157c" level="file"><did><unittitle>Travel souvenirs</unittitle><unitdate datechar="creation" type="inclusive">1893–1900</unitdate><container id="aspace_8187ed14f4bde835b7e2b9c42cdd8e2d" label="Mixed Materials" type="Box">14</container><container id="aspace_47e2b4b6154f3150cd5b71a805050a04" parent="aspace_8187ed14f4bde835b7e2b9c42cdd8e2d" type="Folder">38</container></did></c><c id="aspace_b188ed1fdc7e2bf571c4f55751350a6e" level="file"><did><unittitle>Bruce &amp; Cook material—Print matter</unittitle><unitdate datechar="creation" type="inclusive">1912, undated</unitdate><container id="aspace_ef3289227e67fd871c33b65d63568058" label="Mixed Materials" type="Box">14</container><container id="aspace_1e0466b4a8337b73c300faf6a124e4ea" parent="aspace_ef3289227e67fd871c33b65d63568058" type="Folder">39</container></did></c><c id="aspace_cbbde6f4c7648ff3c7e3be13cab7c319" level="file"><did><unittitle>Bruce &amp; Cook material—Photographs</unittitle><unitdate datechar="creation" type="inclusive">1912, undated</unitdate><container id="aspace_8d3cfe3eefdabdb0969b12afc5e7ca6d" label="Graphic Materials" type="Box">15</container><container id="aspace_a9d082db8118351bca6182409cddbbbf" parent="aspace_8d3cfe3eefdabdb0969b12afc5e7ca6d" type="Folder">40</container></did></c><c id="aspace_5cf280242f6477ebd4908d9902c5e722" level="file"><did><unittitle>Hand-painted portfolio and book cover</unittitle><unitdate datechar="creation" type="inclusive">undated</unitdate><container id="aspace_4eb3fb107b3a640692ae655dd6ca34cf" label="Mixed Materials" type="Box">15</container><container id="aspace_d881afa8a98b8cd1ce3d50f9835125a3" parent="aspace_4eb3fb107b3a640692ae655dd6ca34cf" type="Folder">41</container></did></c></c></dsc>
+</archdesc>
 </ead>
