@@ -1,91 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid countrycode="US" mainagencycode="US-NHi">ms3186_archibald_murray</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper>Guide to the J. Archibald Murray Scrapbooks <lb/>1894-1898<lb/> <num>MS 3186</num></titleproper>
-        <author>Elise Winks</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>New-York Historical Society</publisher>
-        <p>
-          <date>June 2020</date>
-        </p>
-        <address>
-          <addressline>170 Central Park West</addressline>
-          <addressline>New York, NY 10024</addressline>
-          <addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-04-12 14:17:15 -0400</date>.</creation>
-      <langusage>Finding aid written in English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <repository>
-        <corpname>New-York Historical Society</corpname>
-      </repository>
-      <unittitle>J. Archibald Murray scrapbooks</unittitle>
-      <origination label="Creator">
-        <persname rules="rda" source="local">Murray, J. Archibald</persname>
-      </origination>
-      <unitid>MS 3186</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">24 Linear feet</extent>
-        <extent altrender="carrier">in 137 volumes, 1 envelope</extent>
-      </physdesc>
-      <unitdate type="inclusive">1894-1898</unitdate>
-      <abstract id="aspace_f305f623bf039fc61a3d433a9785761d">137 volumes of scrapbooks containing newspaper clippings, compiled by Murray. Many volumes have dates and volume numbers on spines.</abstract>
-      <langmaterial id="aspace_b43a418788ee86858495d2cde1e39737">The documents in the collection are in English.</langmaterial>
-    </did>
-    <accessrestrict id="aspace_6286bf5ab5f3c844d249ab7c56f9951e">
-      <head>Access Restrictions</head>
-      <p>Open to qualified researchers.</p>
-    </accessrestrict>
-    <userestrict id="aspace_68ed02f3b93081b7b2ec7507c92e7e6c">
-      <head>Use Restrictions</head>
-      <p>Photocopying undertaken by staff only. Limited to 20 exposures of stable, unbound material per day.
-  
-Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New-York Historical Society, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org. Phone: (212) 873-3400 ext. 282.</p>
-      <p>Copyrights and other proprietary rights may subsist in individuals and entities other than the New-York Historical Society, in which case the patron is responsible for securing permission from those parties. For fuller information about rights and reproductions from N-YHS visit: <extref xlink:actuate="onRequest" xlink:href="https://www.nyhistory.org/about/rights-reproductions">https://www.nyhistory.org/about/rights-reproductions</extref></p>
-    </userestrict>
-    <prefercite id="aspace_16c3efa1986ab1e98d779ef1d724e48d">
-      <head>Preferred Citation</head>
-      <p>The collection should be cited as: J. Archibald Murray scrapbooks, MS 3186, New-York Historical Society.</p>
-    </prefercite>
-    <processinfo id="aspace_6f28354f78612eb1fc536033d384dde6">
-      <head>Processing Information</head>
-      <p>The collection is not processed. As part of a project conducted in 2019-20, archivist Elise Winks performed a high level survey of the collection and described it broadly in this preliminary finding aid.</p>
-    </processinfo>
-    <arrangement id="aspace_d78d3f4417c80b2432aa95df4af6604c">
-      <head>Arrangement</head>
-      <p>TBD</p>
-    </arrangement>
-    <bioghist id="aspace_d2a186f53e412d1831917610ced0d088">
-      <head>Biographical / Historical</head>
-      <p>TBD</p>
-    </bioghist>
-    <acqinfo id="aspace_29680536cd1d5f02289f5a2f42246eb2">
-      <head>Immediate Source of Acquisition</head>
-      <p>TBD</p>
-    </acqinfo>
-    <relatedmaterial id="aspace_9b4a096b64ab410a5d43ba563f68399a">
-      <head>Related Materials</head>
-      <p>TBD</p>
-    </relatedmaterial>
-    <scopecontent id="aspace_daa6a57c6df39b6cdb411226183e53a2">
-      <head>Scope and Contents</head>
-      <p>TBD</p>
-    </scopecontent>
-    <controlaccess>
-      <genreform source="aat">Scrapbooks.</genreform>
-      <genreform source="aat">Newspaper clippings.</genreform>
-    </controlaccess>
-    <dsc/>
-  </archdesc>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi" url="https://dlib.nyu.edu/findingaids/html/nyhs/ms3186_archibald_murray/">ms3186_archibald_murray</eadid><filedesc><titlestmt><titleproper>Guide to the J. Archibald Murray Scrapbooks <lb/>1870s-1900 (bulk, 1893-1899<lb/> <num>MS 3186</num></titleproper><author>Elise Winks and Larry Weimer</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><p><date>December 2021</date></p><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-02-28 14:20:30 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>New-York Historical Society</corpname>
+    </repository>
+    <unittitle>J. Archibald Murray scrapbooks</unittitle>
+    <origination label="Creator">
+      <persname rules="rda" source="local">Murray, J. Archibald (John Archibald), 1857-1954</persname>
+    </origination>
+    <unitid>MS 3186</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">23 Linear feet</extent>
+      <extent altrender="carrier">in 23 record cartons (135 volumes + 1 envelope)</extent>
+    </physdesc>
+    <unitdate datechar="creation" type="inclusive">1870s-1900 (bulk, 1893-1899)</unitdate>
+    <abstract id="aspace_f305f623bf039fc61a3d433a9785761d">The collection holds 135 volumes of scrapbooks containing newspaper clippings. The bulk date from the 1890s. Most seem to be general news clippings, with some volumes having a thematic focus, principally "necrology."</abstract>
+    <physloc id="aspace_5f3cec232660ad445295c4cc2f7a503b">Materials are stored offsite and advance notice is required for use. Please contact manuscripts@nyhistory.org prior to your research visit to coordinate access. Keep in mind that it will take between two (2) and five (5) business days for collections to arrive, and you should plan your research accordingly.</physloc>
+    <langmaterial id="aspace_b43a418788ee86858495d2cde1e39737">The documents in the collection are in English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_6286bf5ab5f3c844d249ab7c56f9951e">
+    <head>Access Restrictions</head>
+<p>Open to qualified researchers. Materials are stored offsite and advance notice is required for use. Please contact manuscripts@nyhistory.org prior to your research visit to coordinate access. Keep in mind that it will take between two (2) and five (5) business days for collections to arrive, and you should plan your research accordingly.</p>  </accessrestrict>
+  <userestrict id="aspace_68ed02f3b93081b7b2ec7507c92e7e6c">
+    <head>Use Restrictions</head>
+<p>Taking images of documents from the library collections for reference purposes by using hand-held cameras and in accordance with the library's photography guidelines is encouraged. As an alternative, patrons may request up to 20 images per day from staff.</p><p>Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New-York Historical Society, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org. Phone: (212) 873-3400 ext. 282.</p><p>Copyrights and other proprietary rights may subsist in individuals and entities other than the New-York Historical Society, in which case the patron is responsible for securing permission from those parties. For fuller information about rights and reproductions from N-YHS visit: <extref xlink:actuate="onRequest" xlink:href="https://www.nyhistory.org/about/rights-reproductions">https://www.nyhistory.org/about/rights-reproductions</extref></p>  </userestrict>
+  <prefercite id="aspace_16c3efa1986ab1e98d779ef1d724e48d">
+    <head>Preferred Citation</head>
+<p>The collection should be cited as: J. Archibald Murray scrapbooks, MS 3186, New-York Historical Society.</p>  </prefercite>
+  <processinfo id="aspace_6f28354f78612eb1fc536033d384dde6">
+    <head>Processing Information</head>
+<p>The collection is not processed or arranged. As part of a project conducted in 2019-21, archivists Elise Winks and Larry Weimer performed a high level survey of the collection and described it broadly in this preliminary finding aid.</p>  </processinfo>
+  <arrangement id="aspace_d78d3f4417c80b2432aa95df4af6604c">
+    <head>Arrangement</head>
+<p>Although the scrapbooks as a whole have a thematic and chronological arrangement as set by Murray, the volumes are not sorted and boxed in any particular order.</p>  </arrangement>
+  <bioghist id="aspace_d2a186f53e412d1831917610ced0d088">
+    <head>Biographical / Historical</head>
+<p>J. Archibald Murray (1857-1954) became a member of N-YHS in 1885 and held a position on its Executive Committee from 1913-1932. In the 1920s, he was also a Vice-President of the organization.</p>  </bioghist>
+  <acqinfo id="aspace_29680536cd1d5f02289f5a2f42246eb2">
+    <head>Immediate Source of Acquisition</head>
+<p>Five of the volumes were a gift from J. Archibald Murray on June 16, 1937. The dates of donation of the other volumes have not been determined.</p>  </acqinfo>
+  <scopecontent id="aspace_daa6a57c6df39b6cdb411226183e53a2">
+    <head>Scope and Contents</head>
+<p>The collection holds 135 volumes of scrapbooks containing newspaper clippings compiled by J. Archibald Murray.  Perhaps most of the volumes have labels on the spines, but many have lost their labels (and the spine in some instances). This description is based largely on the labels; the contents of very few of the volumes were reviewed for this description. The bulk of the labels include the year (and sometimes month) of the clippings, with the general reference "newspaper cuttings" or "newspaper clippings." Some have volume numbers, but not all. At least eight of the volumes hold "necrology" (i.e., articles concerning deaths). Other small subsets are "Buffalo &amp; Pittsfield" (articles from the press in those cities) and "Education, etc." Although the absence of labels limits the description in this note, there were single volumes labeled "Science &amp; Fine Arts, 1896," "China &amp; Japan," "Union College, 1895," and "Clippings from English papers."</p><p>The bulk of the volumes date from the 1890s, ending in 1900. At least one volume extends back to the 1870s, but its format differs somewhat from the other volumes and may have gotten included in the collection over time by mistake.</p>  </scopecontent>
+  <controlaccess>
+    <genreform source="aat">Newspaper clippings.</genreform>
+    <genreform source="aat">Scrapbooks.</genreform>
+  </controlaccess>
+  <dsc><c id="aspace_30409322f9e5f3ae9bcf1fdcbecef32a" level="file"><did><unittitle>Clippings scrapbooks</unittitle><unitdate datechar="creation" type="inclusive">circa 1890s</unitdate><container id="aspace_378a6288b7f7a06e3c45c7ad3985b212" label="Mixed Materials [10170000018040]" type="Offsite-Box">1</container></did></c><c id="aspace_3a29e3b10d2aba7d2074e2f154218e14" level="file"><did><unittitle>Clippings scrapbooks</unittitle><unitdate datechar="creation" type="inclusive">circa 1890s</unitdate><container id="aspace_a991acd84e47cfffdd2cd339dc8107b8" label="Mixed Materials [10170000018041]" type="Offsite-Box">2</container></did></c><c id="aspace_29baa239d879c86ef4a0eb7c24c44c36" level="file"><did><unittitle>Clippings scrapbooks</unittitle><unitdate datechar="creation" type="inclusive">circa 1890s</unitdate><container id="aspace_04c9635692cb35e3b52e7ab26476fe32" label="Mixed Materials [10170000018042]" type="Offsite-Box">3</container></did></c><c id="aspace_afac11b7e6ee020365f8137d355e1b9b" level="file"><did><unittitle>Clippings scrapbooks</unittitle><unitdate datechar="creation" type="inclusive">circa 1890s</unitdate><container id="aspace_909d61f29280ebc50cb5eeb04eb61b34" label="Mixed Materials [10170000018043]" type="Offsite-Box">4</container></did></c><c id="aspace_a527143a191f300718963224b55e59ee" level="file"><did><unittitle>Clippings scrapbooks</unittitle><unitdate datechar="creation" type="inclusive">circa 1890s</unitdate><container id="aspace_7a704d0bfd92d1021f1fe3ac7032cc45" label="Mixed Materials [10170000018044]" type="Offsite-Box">5</container></did></c><c id="aspace_08c7d531eef2b1a0b2fd03c5c8fed09e" level="file"><did><unittitle>Clippings scrapbooks</unittitle><unitdate datechar="creation" type="inclusive">circa 1890s</unitdate><container id="aspace_9e2f12d057feba811fc181139cbb8eb4" label="Mixed Materials [10170000018045]" type="Offsite-Box">6</container></did></c><c id="aspace_caa9f2bc2fd6d5b02ea021daf231b82a" level="file"><did><unittitle>Clippings scrapbooks</unittitle><unitdate datechar="creation" type="inclusive">circa 1890s</unitdate><container id="aspace_2447bb433f3850e1160e2f37681653df" label="Mixed Materials [10170000018046]" type="Offsite-Box">7</container></did></c><c id="aspace_840fab0dd8eb2073a0c07fbaa5d70b4d" level="file"><did><unittitle>Clippings scrapbooks</unittitle><unitdate datechar="creation" type="inclusive">circa 1890s</unitdate><container id="aspace_300b48dc8242a7924963c12fd2147f80" label="Mixed Materials [10170000018047]" type="Offsite-Box">8</container></did></c><c id="aspace_0180936f6e0d492b49f62c8148090f89" level="file"><did><unittitle>Clippings scrapbooks</unittitle><unitdate datechar="creation" type="inclusive">circa 1890s</unitdate><container id="aspace_754fc566969d60e1d542fc62bd662e75" label="Mixed Materials [10170000018048]" type="Offsite-Box">9</container></did></c><c id="aspace_0be88a5696b0c0538f177df77a56337d" level="file"><did><unittitle>Clippings scrapbooks</unittitle><unitdate datechar="creation" type="inclusive">circa 1890s</unitdate><container id="aspace_75cca05e8eeebddb0f75b5208490779b" label="Mixed Materials [10170000018049]" type="Offsite-Box">10</container></did></c><c id="aspace_0158c90f4d6126f326de004329511628" level="file"><did><unittitle>Clippings scrapbooks</unittitle><unitdate datechar="creation" type="inclusive">circa 1890s</unitdate><container id="aspace_aa57b31c275a6fc41c3cb3b25e2221a5" label="Mixed Materials [10170000018050]" type="Offsite-Box">11</container></did></c><c id="aspace_b195216b7ec95c08dd5c51aab33b140b" level="file"><did><unittitle>Clippings scrapbooks</unittitle><unitdate datechar="creation" type="inclusive">circa 1890s</unitdate><container id="aspace_c1120667c1a6d32250cfe6b5729edf69" label="Mixed Materials [10170000018051]" type="Offsite-Box">12</container></did></c><c id="aspace_8bebf916dd56830207c0ce62a9f72725" level="file"><did><unittitle>Clippings scrapbooks</unittitle><unitdate datechar="creation" type="inclusive">circa 1890s</unitdate><container id="aspace_3c7f3637e1181c4f199e38725f935e09" label="Mixed Materials [10170000018052]" type="Offsite-Box">13</container></did></c><c id="aspace_d716cc6e6aa19be7f473e45921d1ffbb" level="file"><did><unittitle>Clippings scrapbooks</unittitle><unitdate datechar="creation" type="inclusive">circa 1890s</unitdate><container id="aspace_18105ec88f2dd4b484ffce0ea41a2a23" label="Mixed Materials [10170000018053]" type="Offsite-Box">14</container></did></c><c id="aspace_7f52e3d69f16a7a8da9eafd97a7637b7" level="file"><did><unittitle>Clippings scrapbooks</unittitle><unitdate datechar="creation" type="inclusive">circa 1890s</unitdate><container id="aspace_d255cf92fd462263da5c65f2190ed9b4" label="Mixed Materials [10170000018054]" type="Offsite-Box">15</container></did></c><c id="aspace_7cb5b99000de12fd4eee53ff3f87629c" level="file"><did><unittitle>Clippings scrapbooks</unittitle><unitdate datechar="creation" type="inclusive">circa 1890s</unitdate><container id="aspace_bd43e5f378edf5902e4f25b6edf5a56c" label="Mixed Materials [10170000018055]" type="Offsite-Box">16</container></did></c><c id="aspace_c105fb269742fcff74e2a7edeef463e3" level="file"><did><unittitle>Clippings scrapbooks</unittitle><unitdate datechar="creation" type="inclusive">circa 1890s</unitdate><container id="aspace_b4f19826c617618e397bd3d347381f87" label="Mixed Materials [10170000018056]" type="Offsite-Box">17</container></did></c><c id="aspace_9ce1753239c04fc4e6e66faf70d7e6f1" level="file"><did><unittitle>Clippings scrapbooks</unittitle><unitdate datechar="creation" type="inclusive">circa 1890s</unitdate><container id="aspace_d464e88c68fea50e63cd9897c1bc9626" label="Mixed Materials [10170000018057]" type="Offsite-Box">18</container></did></c><c id="aspace_73fbfe1f9df6cff59eaaa2010a47684c" level="file"><did><unittitle>Clippings scrapbooks</unittitle><unitdate datechar="creation" type="inclusive">circa 1890s</unitdate><container id="aspace_09b0e3cdc54003909d5bb3e5708b36b7" label="Mixed Materials [10170000018058]" type="Offsite-Box">19</container></did></c><c id="aspace_ae4ea20317a3979327fde4ad5a17cab3" level="file"><did><unittitle>Clippings scrapbooks</unittitle><unitdate datechar="creation" type="inclusive">circa 1890s</unitdate><container id="aspace_ca39480276fc4c3506952175944a11f5" label="Mixed Materials [10170000018059]" type="Offsite-Box">20</container></did></c><c id="aspace_0df3237f7a7e68ad8cada65067b2d649" level="file"><did><unittitle>Clippings scrapbooks</unittitle><unitdate datechar="creation" type="inclusive">circa 1890s</unitdate><container id="aspace_8b98cfd23b5ecf54dc881430ac3f8583" label="Mixed Materials [10170000018061]" type="Offsite-Box">21</container></did></c><c id="aspace_01cf6d995c063ff2655f5bd84df7fce3" level="file"><did><unittitle>Clippings scrapbooks</unittitle><unitdate datechar="creation" type="inclusive">circa 1890s</unitdate><container id="aspace_fcd57554a04c61c524b739e416b4cc3c" label="Mixed Materials [10170000018063]" type="Offsite-Box">22</container></did></c><c id="aspace_2483b4217e410c5c7d2e0791e65848e6" level="file"><did><unittitle>Clippings scrapbooks</unittitle><unitdate datechar="creation" type="inclusive">circa 1890s</unitdate><container id="aspace_561f2d90c711dca037478405caad3be9" label="Mixed Materials [10170000018062]" type="Offsite-Box">23</container></did></c></dsc>
+</archdesc>
 </ead>
