@@ -1,57 +1,615 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/nyuarchives/rg_4_0_2">rg_4_0_2</eadid><filedesc><titlestmt><titleproper type="filing">Guide to the Records of the Office of the Vice President and Secretary (Pollock, Thomas) 1959 - 1966</titleproper><titleproper>Guide to the Records of the Office of the Vice President and Secretary (Pollock, Thomas)  <num>RG.4.0.2</num></titleproper><author>Connor Gaudet.</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-12-12 19:11:25 -0500</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>New York University Archives</corpname>
-    </repository>
-    <unittitle>Records of the Office of the Vice President and Secretary (Pollock, Thomas)</unittitle>
-    <origination label="Creator">
-      <corpname rules="dacs" source="local">New York University. Office of the Vice President and Secretary</corpname>
-    </origination>
-    <origination label="Creator">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/nyuarchives/rg_4_0_2">rg_4_0_2</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Guide to the Records of the Office of the Vice President and Secretary (Pollock, Thomas) 1959 - 1966</titleproper>
+        <titleproper>Guide to the Records of the Office of the Vice President and Secretary (Pollock, Thomas)  <num>RG.4.0.2</num></titleproper>
+        <author>Connor Gaudet.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-12-12 19:11:25 -0500</date>.</creation>
+      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>Records of the Office of the Vice President and Secretary (Pollock, Thomas)</unittitle>
+      <origination label="Creator">
+        <corpname rules="dacs" source="local">New York University. Office of the Vice President and Secretary</corpname>
+      </origination>
+      <origination label="Creator">
+        <persname source="naf">Pollock, Thomas Clark, 1902-1988</persname>
+      </origination>
+      <unitid>RG.4.0.2</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.085 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1930/1967" type="inclusive">1930-1967</unitdate>
+      <unitdate datechar="creation" normal="1961/1966" type="bulk">1961-1966</unitdate>
+      <physloc id="aspace_a6cdf8e1100d04951826065dc1cf7513">This collection is located in offsite storage. Please contact the repository for access.</physloc>
+      <abstract id="aspace_a040e454e2a58b77b96f236b0f0c99be" label="Abstract">The collection comprises documents and correspondence originating from the Office of the Vice President and Secretary during the term of Thomas Pollock (1959-1966). The collection documents trips he took as a representative of that office to various other academic institutions; notes and documentation on various programs he supported or proposed, such as the British University Summer Schools and College of Independent Study; and documentation from boards and institutions of which he was a member, such as as the TIAA/CREF Board, and the Publishing Council of NYU Press.</abstract>
+      <langmaterial id="aspace_b0a9c9cafb346599075fb79ab98203ed">Materials are primarily in English.</langmaterial>
+    </did>
+    <bioghist id="aspace_0e71078ca0c742545ac143afc84f7de4">
+      <head>Biography of Thomas Pollock</head>
+      <p>Thomas Clark Pollock (1902-1988) served New York University in a number of capacities. From 1941 to 1943 and 1944 to 1947, he was Professor of Education and Chairman of the Department of English Education. He was Professor of English and Dean of the Washington Square College of Arts and Science 1947 to 1962. From 1951 to 1952 he took a leave of absence from his deanship to become acting Provost of the University. During that period he also served as Chief Administrator of the College of Dentistry. From 1958 to 1959 he was Dean of the Graduate School of Arts and Science as well as Washington Square College. In 1962 he was appointed Vice President and Secretary of the University. In September 1967 he was appointed Archivist of the University, a position he held until March 1969. He retired from NYU in 1970.</p>
+      <p>Pollock was awarded honorary degrees from Muskingum College and the Universities of Brazil and Bahia.</p>
+      <p>He wrote several books, including <emph render="italic">The Philadelphia Theatre in the Eighteenth Century</emph>, <emph render="italic">The Teaching of English Grammar in the Secondary Schools of New Jersey</emph>, <emph render="italic">The Nature of Literature</emph>, <emph render="italic">A Theory of Meaning Analyzed</emph>, <emph render="italic">The English Language in American Education</emph>, and  <emph render="italic">Thomas Wolfe at Washington Square</emph> (with Oscar Cargill). He was working on a 20th-century history of New York University at the time of his retirement.  He died of pneumonia May 12, 1988, at the age of 86.</p>
+    </bioghist>
+    <scopecontent id="aspace_6a9902fbab6ac63c724b0caf542834b2">
+      <head>Scope and Contents</head>
+      <p>This collection contain mostly administrative correspondence and program/department reports. There are extensive notes and minutes from meetings of the TIAA/CREF Board of Trustees (1962-1964), documentation of Dr. Pollock's trips to various academic institutions, records from the Publishing Council of NYU Press, of which Dr. Pollock was a member (1961-1966), and Proposals for the College of Independent Study (1959-1964). General correspondence, memoranda, and event invitations round out the collection.</p>
+    </scopecontent>
+    <custodhist id="aspace_85b0aa64300e732a73005111d8d69354">
+      <head>Custodial history</head>
+      <p>This collection was maintained by the office of the Vice President and Secretary under the care of Ernest Frederic Knauth, Assistant to the Vice President and Secretary, before it was transferred to the University Archives in 1977.</p>
+    </custodhist>
+    <arrangement id="aspace_716a5ce3468887e781353281a638b31f">
+      <head>Arrangement</head>
+      <p>The collection is arranged in a single series, alphabetically by theme and chronologically within those themes.</p>
+    </arrangement>
+    <relatedmaterial id="aspace_98af993d21b2ee130b7cb5e74233636c">
+      <head>Related Collection Materials</head>
+      <p>
+        <extref xlink:actuate="onRequest" xlink:href="http://dlib.nyu.edu/findingaids/html/archives/voorhis/voorhis.html">Records of the Office of the Vice President and Secretary (Harold O. Voorhis), RG 4.0.1.</extref>
+      </p>
+    </relatedmaterial>
+    <controlaccess>
+      <corpname authfilenumber="(lccn)n80020290" rules="aacr" source="naf">Clark University (Worcester, Mass.)</corpname>
+      <corpname authfilenumber="(lccn)n50057218" rules="aacr" source="naf">Indiana University of Pennsylvania</corpname>
+      <corpname authfilenumber="(lccn)n80020578" rules="aacr" source="naf">American Council on Education. Overseas Liaison Committee</corpname>
+      <persname rules="aacr" source="local">Nelson, Norton</persname>
+      <persname rules="aacr" source="naf">Hester, James M., 1924-</persname>
       <persname source="naf">Pollock, Thomas Clark, 1902-1988</persname>
-    </origination>
-    <unitid>RG.4.0.2</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">2.085 Linear Feet</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1930/1967" type="inclusive">1930-1967</unitdate>
-    <unitdate datechar="creation" normal="1961/1966" type="bulk">1961-1966</unitdate>
-    <physloc id="aspace_a6cdf8e1100d04951826065dc1cf7513">This collection is located in offsite storage. Please contact the repository for access.</physloc>
-    <abstract id="aspace_a040e454e2a58b77b96f236b0f0c99be" label="Abstract">The collection comprises documents and correspondence originating from the Office of the Vice President and Secretary during the term of Thomas Pollock (1959-1966). The collection documents trips he took as a representative of that office to various other academic institutions; notes and documentation on various programs he supported or proposed, such as the British University Summer Schools and College of Independent Study; and documentation from boards and institutions of which he was a member, such as as the TIAA/CREF Board, and the Publishing Council of NYU Press.</abstract>
-    <langmaterial id="aspace_b0a9c9cafb346599075fb79ab98203ed">Materials are primarily in English.</langmaterial>
-  </did>
-  <bioghist id="aspace_0e71078ca0c742545ac143afc84f7de4">
-    <head>Biography of Thomas Pollock</head>
-<p>Thomas Clark Pollock (1902-1988) served New York University in a number of capacities. From 1941 to 1943 and 1944 to 1947, he was Professor of Education and Chairman of the Department of English Education. He was Professor of English and Dean of the Washington Square College of Arts and Science 1947 to 1962. From 1951 to 1952 he took a leave of absence from his deanship to become acting Provost of the University. During that period he also served as Chief Administrator of the College of Dentistry. From 1958 to 1959 he was Dean of the Graduate School of Arts and Science as well as Washington Square College. In 1962 he was appointed Vice President and Secretary of the University. In September 1967 he was appointed Archivist of the University, a position he held until March 1969. He retired from NYU in 1970.</p><p>Pollock was awarded honorary degrees from Muskingum College and the Universities of Brazil and Bahia.</p><p>He wrote several books, including <emph render="italic">The Philadelphia Theatre in the Eighteenth Century</emph>, <emph render="italic">The Teaching of English Grammar in the Secondary Schools of New Jersey</emph>, <emph render="italic">The Nature of Literature</emph>, <emph render="italic">A Theory of Meaning Analyzed</emph>, <emph render="italic">The English Language in American Education</emph>, and  <emph render="italic">Thomas Wolfe at Washington Square</emph> (with Oscar Cargill). He was working on a 20th-century history of New York University at the time of his retirement.  He died of pneumonia May 12, 1988, at the age of 86.</p>  </bioghist>
-  <scopecontent id="aspace_6a9902fbab6ac63c724b0caf542834b2">
-    <head>Scope and Contents</head>
-<p>This collection contain mostly administrative correspondence and program/department reports. There are extensive notes and minutes from meetings of the TIAA/CREF Board of Trustees (1962-1964), documentation of Dr. Pollock's trips to various academic institutions, records from the Publishing Council of NYU Press, of which Dr. Pollock was a member (1961-1966), and Proposals for the College of Independent Study (1959-1964). General correspondence, memoranda, and event invitations round out the collection.</p>  </scopecontent>
-  <custodhist id="aspace_85b0aa64300e732a73005111d8d69354">
-    <head>Custodial history</head>
-<p>This collection was maintained by the office of the Vice President and Secretary under the care of Ernest Frederic Knauth, Assistant to the Vice President and Secretary, before it was transferred to the University Archives in 1977.</p>  </custodhist>
-  <arrangement id="aspace_716a5ce3468887e781353281a638b31f">
-    <head>Arrangement</head>
-<p>The collection is arranged in a single series, alphabetically by theme and chronologically within those themes.</p>  </arrangement>
-  <relatedmaterial id="aspace_98af993d21b2ee130b7cb5e74233636c">
-    <head>Related Collection Materials</head>
-<p><extref xlink:actuate="onRequest" xlink:href="http://dlib.nyu.edu/findingaids/html/archives/voorhis/voorhis.html">Records of the Office of the Vice President and Secretary (Harold O. Voorhis), RG 4.0.1.</extref></p>  </relatedmaterial>
-  <controlaccess>
-    <corpname authfilenumber="(lccn)n80020290" rules="aacr" source="naf">Clark University (Worcester, Mass.)</corpname>
-    <corpname authfilenumber="(lccn)n50057218" rules="aacr" source="naf">Indiana University of Pennsylvania</corpname>
-    <corpname authfilenumber="(lccn)n80020578" rules="aacr" source="naf">American Council on Education. Overseas Liaison Committee</corpname>
-    <persname rules="aacr" source="local">Nelson, Norton</persname>
-    <persname rules="aacr" source="naf">Hester, James M., 1924-</persname>
-    <persname source="naf">Pollock, Thomas Clark, 1902-1988</persname>
-    <persname rules="aacr" source="local">Munn, James Buell, 1890-1967</persname>
-    <persname rules="aacr" source="local">Kendall, James</persname>
-    <persname rules="aacr" source="naf">O'Brien, Conor Cruise, 1917-2008 -- Correspondence</persname>
-    <persname rules="dacs" source="local">Voorhis, Harold O.</persname>
-    <corpname rules="dacs" source="local">New York University. Office of the Vice President and Secretary</corpname>
-    <corpname authfilenumber="(lccn)nb2007012673" source="naf">NYU Press</corpname>
-    <persname rules="aacr" source="naf">Johnson, Philip, 1906-2005</persname>
-    <persname rules="aacr" source="local">Knauth, Ernest Frederic, 1902-</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref60" level="series"><did><unittitle>Series I</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref3" level="file"><did><unittitle>Asian Conservation Laboratory</unittitle><unitdate datechar="creation">1962-1966</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_12b20b6a571a7f74d3c1ac792bf024a0" label="Mixed Materials" type="Box">1</container><container id="aspace_1b0c9f45c59ff85048dd30029f7163e9" parent="aspace_12b20b6a571a7f74d3c1ac792bf024a0" type="Folder">2</container></did></c><c id="aspace_ref4" level="file"><did><unittitle>British University Summer Schools</unittitle><unitdate datechar="creation">1962-1963</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_fbd2b1a8f5348692ea74aa3476b45c63" label="Mixed Materials" type="Box">1</container><container id="aspace_fe93accda5416a377d9af9d5459b3ffc" parent="aspace_fbd2b1a8f5348692ea74aa3476b45c63" type="Folder">3</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>British University Summer Schools</unittitle><unitdate datechar="creation">1963-1964</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_80a3daadbcf86ff47eaf33121441b1aa" label="Mixed Materials" type="Box">1</container><container id="aspace_37c7a6170b41840ca326e783911f5c4e" parent="aspace_80a3daadbcf86ff47eaf33121441b1aa" type="Folder">4</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>British University Summer Schools</unittitle><unitdate datechar="creation">1965</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_f32575735fb9be670de8df35e7e9a469" label="Mixed Materials" type="Box">1</container><container id="aspace_5b75e6bf4bfcf7c327935fd45f6724ba" parent="aspace_f32575735fb9be670de8df35e7e9a469" type="Folder">5</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>College Retirement Equities Fund (CREF)/Teachers' Insurance and Annuity Association of America (TIAA) Records, Reports, Minutes</unittitle><unitdate datechar="creation">1962</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_4369812899873bf849638d97e6062406" label="Mixed Materials" type="Box">1</container><container id="aspace_2b4665ee0188a893ad47028001c6b365" parent="aspace_4369812899873bf849638d97e6062406" type="Folder">6</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>CREF/TIAA Records, Reports, Minutes</unittitle><unitdate datechar="creation">1962</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_53ecd7a08b652c371ac11e9d9c05c6ed" label="Mixed Materials" type="Box">1</container><container id="aspace_cbc90d7aee2ee94950ad9d081b5a56f5" parent="aspace_53ecd7a08b652c371ac11e9d9c05c6ed" type="Folder">7</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>CREF/TIAA Records, Reports, Minutes </unittitle><unitdate datechar="creation">January - May, 1963</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_19f2e6f1f8809ff8a17f991847624caf" label="Mixed Materials" type="Box">1</container><container id="aspace_15d70df067fea9c01c62320e73c6cba8" parent="aspace_19f2e6f1f8809ff8a17f991847624caf" type="Folder">8</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>CREF/TIAA Records, Reports, Minutes</unittitle><unitdate datechar="creation">May - December, 1963</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_7916dc30174e6e595c221a208dd5923b" label="Mixed Materials" type="Box">1</container><container id="aspace_f855a7871ef810b63f2ebd32c5d56f9a" parent="aspace_7916dc30174e6e595c221a208dd5923b" type="Folder">9</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>CREF/TIAA Records, Reports, Minutes</unittitle><unitdate datechar="creation">September - November, 1963</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_7e131cbdada67249fac8853aa0db7829" label="Mixed Materials [31142046894237]" type="Box">2</container><container id="aspace_e4eb209b8b71c8db8a9dfa20f30b35bb" parent="aspace_7e131cbdada67249fac8853aa0db7829" type="Folder">1</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>CREF/TIAA Records, Reports, Minutes</unittitle><unitdate datechar="creation">November - December, 1963</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_f5f0b38c99f28cab6ccf99eaec4b18da" label="Mixed Materials [31142046894237]" type="Box">2</container><container id="aspace_8a13829642fca25a71521e635eb19b9b" parent="aspace_f5f0b38c99f28cab6ccf99eaec4b18da" type="Folder">2</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>CREF/TIAA Records, Reports, Minutes</unittitle><unitdate datechar="creation">January - April, 1964</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_d8bec8c29648a5d04b2a6c8d7d2f098d" label="Mixed Materials [31142046894237]" type="Box">2</container><container id="aspace_dfc829c2117b7832ac19bbfc4cd1ee39" parent="aspace_d8bec8c29648a5d04b2a6c8d7d2f098d" type="Folder">3</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Directory of American Scholars</unittitle><unitdate datechar="creation">1963</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_f015780f3b3417c24d32f756c9632869" label="Mixed Materials [31142046894237]" type="Box">2</container><container id="aspace_ac2cb7d1011e14b04fd1a8d3f924e74a" parent="aspace_f015780f3b3417c24d32f756c9632869" type="Folder">5</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>General Office Memoranda</unittitle><unitdate datechar="creation">1962-1963</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_9f06fa459a9fbc3d7ba4ad4b69334041" label="Mixed Materials [31142046894237]" type="Box">2</container><container id="aspace_f06362dec74061eb443993af33186a9c" parent="aspace_9f06fa459a9fbc3d7ba4ad4b69334041" type="Folder">6</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Hampton Institute Speech</unittitle><unitdate datechar="creation">1964</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_52102db9a6b9e49efc48ee8e463f655a" label="Mixed Materials [31142046894237]" type="Box">2</container><container id="aspace_7ff00762f9bb6caf551bafdf08c66671" parent="aspace_52102db9a6b9e49efc48ee8e463f655a" type="Folder">7</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Installation of Officers in Other Universities</unittitle><unitdate datechar="creation">1961-1962</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_fd15774b8301c2694fa2a27b29fd6c22" label="Mixed Materials [31142046894237]" type="Box">2</container><container id="aspace_9b64bfac1e9df1e950ec682026a07937" parent="aspace_fd15774b8301c2694fa2a27b29fd6c22" type="Folder">8</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Invitations</unittitle><unitdate datechar="creation">1963-1964</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_aa05c0df5ffd5d0a6c6fbd9ab091d27d" label="Mixed Materials [31142046894237]" type="Box">2</container><container id="aspace_8a1b92d5eaf72e56b37928998099d6f9" parent="aspace_aa05c0df5ffd5d0a6c6fbd9ab091d27d" type="Folder">9</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Invitations</unittitle><unitdate datechar="creation">1965</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_fe54b947b3f77a95772a623110602b4c" label="Mixed Materials [31142046894237]" type="Box">2</container><container id="aspace_6709a6da1d887d8888f65255e35d7a86" parent="aspace_fe54b947b3f77a95772a623110602b4c" type="Folder">10</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Invitations</unittitle><unitdate datechar="creation">1966</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_724a8d516586839a9d257755510cde64" label="Mixed Materials [31142046894237]" type="Box">2</container><container id="aspace_574a47fbb57f2a5156b0119f2a741cdc" parent="aspace_724a8d516586839a9d257755510cde64" type="Folder">11</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Johnson, Philip - Washington Square Center Architect </unittitle><unitdate datechar="creation">1964</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_4d2ffe83f4500762d406c5b04c20576b" label="Mixed Materials [31142046894245]" type="Box">3</container><container id="aspace_2ab8ae0814bb5dc037685150a0d96573" parent="aspace_4d2ffe83f4500762d406c5b04c20576b" type="Folder">1</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Kendall, Dr. James C.</unittitle><unitdate datechar="creation">1930</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_71cd9c32c6dddff74b67ffdb3b63610b" label="Mixed Materials [31142046894245]" type="Box">3</container><container id="aspace_54a45e6834910825cc35887846b8052f" parent="aspace_71cd9c32c6dddff74b67ffdb3b63610b" type="Folder">2</container></did><scopecontent id="aspace_d56aa65b774ff2dd8cc3d5a65d544c2f"><head>Scope and Contents</head><p>Correspondence between Harold O. Voorhis, James B. Munn,  and James Kendall regarding a matter of starting a "Mandel scholarship prize" in honor of the late John A. Mandel, Chair of Chemistry.</p></scopecontent></c><c id="aspace_ref26" level="file"><did><unittitle>Miscellaneous Correspondence</unittitle><unitdate datechar="creation" normal="1948/1967" type="inclusive">1948-1967</unitdate><unitdate datechar="creation" normal="1965/1966" type="bulk">1965-1966</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_95294d8eb90483cde90532ca8dbc691b" label="Mixed Materials [31142046894245]" type="Box">3</container><container id="aspace_21fa2e6f5add7c5d5db084bf51571540" parent="aspace_95294d8eb90483cde90532ca8dbc691b" type="Folder">3</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Morton, W. Scott, Executive Director of University Christian Foundation</unittitle><unitdate datechar="creation">1962-1965</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_ffa14efcd0f80a903e512ebe522d4e5d" label="Mixed Materials [31142046894245]" type="Box">3</container><container id="aspace_a37e652da257162b32f60bf29a61b5bd" parent="aspace_ffa14efcd0f80a903e512ebe522d4e5d" type="Folder">4</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>O'Brien, Dr. Conor Cruise (holder of the A. Schweitzer Chair in the Humanities)</unittitle><unitdate datechar="creation">1965</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_502087ddd064b601d4411043712aa800" label="Mixed Materials [31142046894245]" type="Box">3</container><container id="aspace_3875bcebf3fc7969929819ed03872369" parent="aspace_502087ddd064b601d4411043712aa800" type="Folder">5</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>President's Reception for Faculty Members</unittitle><unitdate datechar="creation">1963-1965</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_b438ca3e948e8f636e9b40ae9146bbdc" label="Mixed Materials [31142046894245]" type="Box">3</container><container id="aspace_677d900a4b416493fa6e9a10eadfdae7" parent="aspace_b438ca3e948e8f636e9b40ae9146bbdc" type="Folder">6</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Nelson, Dr. Norton, Provost of University Heights </unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_2da8afde851ac2f063f6cdc24b83bc38" label="Mixed Materials [31142046894245]" type="Box">3</container><container id="aspace_d74b8be8daf94eda68c563e1f983b0b4" parent="aspace_2da8afde851ac2f063f6cdc24b83bc38" type="Folder">7</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Publishing Council of NYU Press (Dr. Pollock, member of council)</unittitle><unitdate datechar="creation">1961-1962</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_1a3e1908d6fa18b237ec5993ab401339" label="Mixed Materials [31142046894245]" type="Box">3</container><container id="aspace_9fc6b1af7d2a7269251693225d42add4" parent="aspace_1a3e1908d6fa18b237ec5993ab401339" type="Folder">8</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Publishing Council of NYU Press</unittitle><unitdate datechar="creation" normal="1963/1963" type="inclusive">January - September 1963</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_ae1bcc88ba4db997fc968a4c89f869f3" label="Mixed Materials [31142046894245]" type="Box">3</container><container id="aspace_261c4f1180bef68ae856703dd4de050a" parent="aspace_ae1bcc88ba4db997fc968a4c89f869f3" type="Folder">9</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Publishing Council of NYU Press</unittitle><unitdate datechar="creation" normal="1963/1963" type="inclusive">September - November 1963</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_1baf5dcc386c9858f9cd12d446f8cd6d" label="Mixed Materials [31142046894245]" type="Box">3</container><container id="aspace_639d09d7b57ee46bcf94e35a1c08cb4d" parent="aspace_1baf5dcc386c9858f9cd12d446f8cd6d" type="Folder">10</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Publishing Council of NYU Press</unittitle><unitdate datechar="creation">1964</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_f70b21694ca8057a170e716417510f70" label="Mixed Materials [31142046894245]" type="Box">3</container><container id="aspace_c3fc7924be5dffbcc0fb0f4137df9af0" parent="aspace_f70b21694ca8057a170e716417510f70" type="Folder">11</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Publishing Council of NYU Press</unittitle><unitdate datechar="creation">1965-1966</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_aed549f5b180ed5288a7f4ec1bee4675" label="Mixed Materials [31142046894245]" type="Box">3</container><container id="aspace_a40b2a4de6add7d1ffc63caf33e86f6b" parent="aspace_aed549f5b180ed5288a7f4ec1bee4675" type="Folder">12</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Puerto Rican Cultural Center</unittitle><unitdate datechar="creation">1962-1963</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_8ccd906f52c4e3051520675fc71d0cf4" label="Mixed Materials [31142046894252]" type="Box">4</container><container id="aspace_2dbadce21e1a34dbc97d16504e197147" parent="aspace_8ccd906f52c4e3051520675fc71d0cf4" type="Folder">1</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Saint Andrew's Society</unittitle><unitdate datechar="creation">1963-1964</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_21ec7fef10f5fde2b6607178fb16a3a6" label="Mixed Materials [31142046894252]" type="Box">4</container><container id="aspace_2ceb1d8d0c28ca4598f47616656aeb56" parent="aspace_21ec7fef10f5fde2b6607178fb16a3a6" type="Folder">2</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>St. Philip's Community Youth Center</unittitle><unitdate datechar="creation">1964</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_30a64d13177cf138d0c28b320cd1595f" label="Mixed Materials [31142046894252]" type="Box">4</container><container id="aspace_3228ee082fd12a40e6ff18b1648f9993" parent="aspace_30a64d13177cf138d0c28b320cd1595f" type="Folder">3</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Sao Paulo Foundation School</unittitle><unitdate datechar="creation">1964</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_1bd51a3f385e7080252aca66d10af9f5" label="Mixed Materials [31142046894252]" type="Box">4</container><container id="aspace_66af88a33091527e99e4fd8089fc5a35" parent="aspace_1bd51a3f385e7080252aca66d10af9f5" type="Folder">4</container></did><scopecontent id="aspace_4b013d3c89d8581115b4430bd7b12444"><head>Scope and Contents</head><p>Correspondence</p></scopecontent></c><c id="aspace_ref39" level="file"><did><unittitle>List of Departmental Secretaries</unittitle><unitdate datechar="creation">1962-1963</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_2734dcf5c98c50a179b1456a9e27d3ba" label="Mixed Materials [31142046894252]" type="Box">4</container><container id="aspace_e8d1d7c843f7b3cc70642f90716e12d0" parent="aspace_2734dcf5c98c50a179b1456a9e27d3ba" type="Folder">5</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Speeches</unittitle><unitdate datechar="creation">1964</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_2f7774eb23668e3fa5d81cc5a6964a09" label="Mixed Materials [31142046894252]" type="Box">4</container><container id="aspace_df49d82523091d5693517ea6cfcfc3a6" parent="aspace_2f7774eb23668e3fa5d81cc5a6964a09" type="Folder">6</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Systems Development Corporation</unittitle><unitdate datechar="creation">1964</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_8b1996d70cdac75959e175383d9281af" label="Mixed Materials [31142046894252]" type="Box">4</container><container id="aspace_b3447f3ce16747670f41c9090d9516a3" parent="aspace_8b1996d70cdac75959e175383d9281af" type="Folder">7</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Trip: 75th Anniversary of Clark University</unittitle><unitdate datechar="creation">1962</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_f7ebe7fd25cb0018999fc1ce2b500fae" label="Mixed Materials [31142046894252]" type="Box">4</container><container id="aspace_706b4dc474e59ed3acdc61ce32eaec96" parent="aspace_f7ebe7fd25cb0018999fc1ce2b500fae" type="Folder">8</container></did><scopecontent id="aspace_cc92acfab5a571b9f28f4a3d38565bf7"><head>Contents</head><p>Expense report.</p></scopecontent></c><c id="aspace_ref43" level="file"><did><unittitle>Trip: American Council on Education</unittitle><unitdate datechar="creation">1962</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_c326012a960b5640fc14e77ea14fd73f" label="Mixed Materials [31142046894252]" type="Box">4</container><container id="aspace_c6225c7447b4a527e5433d4ae5409280" parent="aspace_c326012a960b5640fc14e77ea14fd73f" type="Folder">9</container></did><scopecontent id="aspace_761633bf7eac157e374a0f0a916777cc"><head>Contents</head><p>Correspondence, conference program and several issues of "High Education and National Affairs" publication, brochures, expense report.</p></scopecontent></c><c id="aspace_ref45" level="file"><did><unittitle>Trip: National Instruction Television Laboratory</unittitle><unitdate datechar="creation">1962</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_c62ba396a9a6d26f0ca39f228e351b7e" label="Mixed Materials [31142046894252]" type="Box">4</container><container id="aspace_276c763695269c2c97b4815262fa5f45" parent="aspace_c62ba396a9a6d26f0ca39f228e351b7e" type="Folder">10</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Trip: Association of Colleges and Universities of the State of New York</unittitle><unitdate datechar="creation">1962</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_e6cbf2b86c6ea7d08002764f0d6a2858" label="Mixed Materials [31142046894252]" type="Box">4</container><container id="aspace_8ea642c2709c723b0ba5c13fc7ef8f0c" parent="aspace_e6cbf2b86c6ea7d08002764f0d6a2858" type="Folder">11</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Trip: University of Connecticut Inauguration</unittitle><unitdate datechar="creation">1962</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_fd16d32a4c0d3c1518bfe4ac0f02b3b1" label="Mixed Materials [31142046894252]" type="Box">4</container><container id="aspace_1689011d080de6d1be393c09c3c47613" parent="aspace_fd16d32a4c0d3c1518bfe4ac0f02b3b1" type="Folder">12</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Trip: Muskingum College Inauguration</unittitle><unitdate datechar="creation">1962</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_2cb9aa369b55e4f44614c334ac14a5c7" label="Mixed Materials [31142046894252]" type="Box">4</container><container id="aspace_8ade6ac22fe5186615c3732fc12d1e77" parent="aspace_2cb9aa369b55e4f44614c334ac14a5c7" type="Folder">13</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Trip: Association of Urban Universities Conference</unittitle><unitdate datechar="creation">1962</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_d3e4cd153c6260bc15086954da9f3f23" label="Mixed Materials [31142046894252]" type="Box">4</container><container id="aspace_aabe55001551140cecd0f14c26e3b607" parent="aspace_d3e4cd153c6260bc15086954da9f3f23" type="Folder">14</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Trip: Association of American Colleges Conference</unittitle><unitdate datechar="creation">1962</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_35ebdd0f2ba34db07992d63ff1ba6341" label="Mixed Materials [31142046894252]" type="Box">4</container><container id="aspace_2e756af38af7e2ab3bddfeaef9cdb5d7" parent="aspace_35ebdd0f2ba34db07992d63ff1ba6341" type="Folder">15</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Trip: Rochester-Cincinnati</unittitle><unitdate datechar="creation">1963</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_f6a2cbb637db9c3507fe048f2bbc39d9" label="Mixed Materials [31142046894252]" type="Box">4</container><container id="aspace_c83c388632f6bb2d0c4499897bdd7735" parent="aspace_f6a2cbb637db9c3507fe048f2bbc39d9" type="Folder">16</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Trip: University of Rochester Inauguration</unittitle><unitdate datechar="creation">1963</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_d79657b879ac9c35d9e404eef671640c" label="Mixed Materials [31142046894252]" type="Box">4</container><container id="aspace_335419f542dd459e25ee759b44a6287a" parent="aspace_d79657b879ac9c35d9e404eef671640c" type="Folder">17</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Trip: Indiana University</unittitle><unitdate datechar="creation">1963</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_1b70e35a0ed3016521ce15c8670c68ed" label="Mixed Materials [31142046894252]" type="Box">4</container><container id="aspace_f00e8d9fe825e36c26009bdc4864972c" parent="aspace_1b70e35a0ed3016521ce15c8670c68ed" type="Folder">18</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Trip: Wilton Park, England</unittitle><unitdate datechar="creation">1963</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_745698260f197bbf9f0c238aaf96abc9" label="Mixed Materials [31142046894252]" type="Box">4</container><container id="aspace_21aeced161c08d3920e5184667fd94e5" parent="aspace_745698260f197bbf9f0c238aaf96abc9" type="Folder">19</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Trip: Wroxton, England</unittitle><unitdate datechar="creation">1963</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_e9cd74ab60e85c5415d99e0d2da504b5" label="Mixed Materials [31142046894260]" type="Box">5</container><container id="aspace_005c71e7a6b23c3761db30b2a10318ea" parent="aspace_e9cd74ab60e85c5415d99e0d2da504b5" type="Folder">1</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>University Heights Presbyterian Church</unittitle><unitdate datechar="creation">1965-1966</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_dea81c4a24ff2acdb9f28f2f39b110a1" label="Mixed Materials [31142046894260]" type="Box">5</container><container id="aspace_3b8cccaa2bdacba01ca9dd2012dd75f4" parent="aspace_dea81c4a24ff2acdb9f28f2f39b110a1" type="Folder">2</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>College of Independent Study Proposals: 1959</unittitle><unitdate datechar="creation">December 1959</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_b5ca2718402ed087bedf0874becb3e8f" label="Mixed Materials [31142046894260]" type="Box">5</container><container id="aspace_17b5ad99ce535698e19b07877a9c99d3" parent="aspace_b5ca2718402ed087bedf0874becb3e8f" type="Folder">3</container></did><scopecontent id="aspace_ac1f4e4aed9a91b53cf20321695d5be7"><head>Contents</head><p>Brief correspondence and several copies of A Plan for the College for Independent Study dated December 16, 1959.</p></scopecontent></c><c id="aspace_ref57" level="file"><did><unittitle>College of Independent Study Proposals: 1960</unittitle><unitdate datechar="creation">March 1960</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_8523051d9fb439dd6234fc680179140c" label="Mixed Materials [31142046894245]" type="Box">3</container><container id="aspace_376cc21af5da92d94d8fb74a35aaaf54" parent="aspace_8523051d9fb439dd6234fc680179140c" type="Folder">4</container></did><scopecontent id="aspace_2f2d89c9763ad45d54e92d15f7d19765"><head>Contents</head><p>Policy questions and "Basis for Discussion of Policy Questions related to the Proposal of a College for Independent Study" in several parts.</p></scopecontent></c><c id="aspace_ref58" level="file"><did><unittitle>College of Independent Study Proposals: 1960 - 1964</unittitle><unitdate datechar="creation">1960 - 1964</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_78079ec9df9bcb62409e999f8d90e715" label="Mixed Materials [31142046894260]" type="Box">5</container><container id="aspace_88fb262970517a25604bf171a3a14467" parent="aspace_78079ec9df9bcb62409e999f8d90e715" type="Folder">5</container></did><scopecontent id="aspace_a91ebafb2e5fa1e098a4bf912522e248"><head>Contents</head><p>Correspondence and proposal draft, plus notes.</p></scopecontent></c><c id="aspace_ref14" level="file"><did><unittitle>CREF/TIAA Records, Reports, Minutes</unittitle><unitdate datechar="creation">April - August, 1964</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Letter" id="aspace_5cea1c2303e9b2750479a61df5ec7548" label="Mixed Materials [31142046894237]" type="Box">2</container><container id="aspace_76b149cc0be28c2dc45da7527a69c093" parent="aspace_5cea1c2303e9b2750479a61df5ec7548" type="Folder">4</container></did></c></c></dsc>
-</archdesc>
+      <persname rules="aacr" source="local">Munn, James Buell, 1890-1967</persname>
+      <persname rules="aacr" source="local">Kendall, James</persname>
+      <persname rules="aacr" source="naf">O'Brien, Conor Cruise, 1917-2008 -- Correspondence</persname>
+      <persname rules="dacs" source="local">Voorhis, Harold O.</persname>
+      <corpname rules="dacs" source="local">New York University. Office of the Vice President and Secretary</corpname>
+      <corpname authfilenumber="(lccn)nb2007012673" source="naf">NYU Press</corpname>
+      <persname rules="aacr" source="naf">Johnson, Philip, 1906-2005</persname>
+      <persname rules="aacr" source="local">Knauth, Ernest Frederic, 1902-</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref60" level="series">
+        <did>
+          <unittitle>Series I</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref3" level="file">
+          <did>
+            <unittitle>Asian Conservation Laboratory</unittitle>
+            <unitdate datechar="creation">1962-1966</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_12b20b6a571a7f74d3c1ac792bf024a0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1b0c9f45c59ff85048dd30029f7163e9" parent="aspace_12b20b6a571a7f74d3c1ac792bf024a0" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref4" level="file">
+          <did>
+            <unittitle>British University Summer Schools</unittitle>
+            <unitdate datechar="creation">1962-1963</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_fbd2b1a8f5348692ea74aa3476b45c63" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_fe93accda5416a377d9af9d5459b3ffc" parent="aspace_fbd2b1a8f5348692ea74aa3476b45c63" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref5" level="file">
+          <did>
+            <unittitle>British University Summer Schools</unittitle>
+            <unitdate datechar="creation">1963-1964</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_80a3daadbcf86ff47eaf33121441b1aa" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_37c7a6170b41840ca326e783911f5c4e" parent="aspace_80a3daadbcf86ff47eaf33121441b1aa" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref6" level="file">
+          <did>
+            <unittitle>British University Summer Schools</unittitle>
+            <unitdate datechar="creation">1965</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_f32575735fb9be670de8df35e7e9a469" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5b75e6bf4bfcf7c327935fd45f6724ba" parent="aspace_f32575735fb9be670de8df35e7e9a469" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref7" level="file">
+          <did>
+            <unittitle>College Retirement Equities Fund (CREF)/Teachers' Insurance and Annuity Association of America (TIAA) Records, Reports, Minutes</unittitle>
+            <unitdate datechar="creation">1962</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_4369812899873bf849638d97e6062406" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2b4665ee0188a893ad47028001c6b365" parent="aspace_4369812899873bf849638d97e6062406" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref8" level="file">
+          <did>
+            <unittitle>CREF/TIAA Records, Reports, Minutes</unittitle>
+            <unitdate datechar="creation">1962</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_53ecd7a08b652c371ac11e9d9c05c6ed" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_cbc90d7aee2ee94950ad9d081b5a56f5" parent="aspace_53ecd7a08b652c371ac11e9d9c05c6ed" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref9" level="file">
+          <did>
+            <unittitle>CREF/TIAA Records, Reports, Minutes </unittitle>
+            <unitdate datechar="creation">January - May, 1963</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_19f2e6f1f8809ff8a17f991847624caf" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_15d70df067fea9c01c62320e73c6cba8" parent="aspace_19f2e6f1f8809ff8a17f991847624caf" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>CREF/TIAA Records, Reports, Minutes</unittitle>
+            <unitdate datechar="creation">May - December, 1963</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_7916dc30174e6e595c221a208dd5923b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f855a7871ef810b63f2ebd32c5d56f9a" parent="aspace_7916dc30174e6e595c221a208dd5923b" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>CREF/TIAA Records, Reports, Minutes</unittitle>
+            <unitdate datechar="creation">September - November, 1963</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_7e131cbdada67249fac8853aa0db7829" label="Mixed Materials [31142046894237]" type="Box">2</container>
+            <container id="aspace_e4eb209b8b71c8db8a9dfa20f30b35bb" parent="aspace_7e131cbdada67249fac8853aa0db7829" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>CREF/TIAA Records, Reports, Minutes</unittitle>
+            <unitdate datechar="creation">November - December, 1963</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_f5f0b38c99f28cab6ccf99eaec4b18da" label="Mixed Materials [31142046894237]" type="Box">2</container>
+            <container id="aspace_8a13829642fca25a71521e635eb19b9b" parent="aspace_f5f0b38c99f28cab6ccf99eaec4b18da" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>CREF/TIAA Records, Reports, Minutes</unittitle>
+            <unitdate datechar="creation">January - April, 1964</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_d8bec8c29648a5d04b2a6c8d7d2f098d" label="Mixed Materials [31142046894237]" type="Box">2</container>
+            <container id="aspace_dfc829c2117b7832ac19bbfc4cd1ee39" parent="aspace_d8bec8c29648a5d04b2a6c8d7d2f098d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Directory of American Scholars</unittitle>
+            <unitdate datechar="creation">1963</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_f015780f3b3417c24d32f756c9632869" label="Mixed Materials [31142046894237]" type="Box">2</container>
+            <container id="aspace_ac2cb7d1011e14b04fd1a8d3f924e74a" parent="aspace_f015780f3b3417c24d32f756c9632869" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>General Office Memoranda</unittitle>
+            <unitdate datechar="creation">1962-1963</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_9f06fa459a9fbc3d7ba4ad4b69334041" label="Mixed Materials [31142046894237]" type="Box">2</container>
+            <container id="aspace_f06362dec74061eb443993af33186a9c" parent="aspace_9f06fa459a9fbc3d7ba4ad4b69334041" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Hampton Institute Speech</unittitle>
+            <unitdate datechar="creation">1964</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_52102db9a6b9e49efc48ee8e463f655a" label="Mixed Materials [31142046894237]" type="Box">2</container>
+            <container id="aspace_7ff00762f9bb6caf551bafdf08c66671" parent="aspace_52102db9a6b9e49efc48ee8e463f655a" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Installation of Officers in Other Universities</unittitle>
+            <unitdate datechar="creation">1961-1962</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_fd15774b8301c2694fa2a27b29fd6c22" label="Mixed Materials [31142046894237]" type="Box">2</container>
+            <container id="aspace_9b64bfac1e9df1e950ec682026a07937" parent="aspace_fd15774b8301c2694fa2a27b29fd6c22" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Invitations</unittitle>
+            <unitdate datechar="creation">1963-1964</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_aa05c0df5ffd5d0a6c6fbd9ab091d27d" label="Mixed Materials [31142046894237]" type="Box">2</container>
+            <container id="aspace_8a1b92d5eaf72e56b37928998099d6f9" parent="aspace_aa05c0df5ffd5d0a6c6fbd9ab091d27d" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Invitations</unittitle>
+            <unitdate datechar="creation">1965</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_fe54b947b3f77a95772a623110602b4c" label="Mixed Materials [31142046894237]" type="Box">2</container>
+            <container id="aspace_6709a6da1d887d8888f65255e35d7a86" parent="aspace_fe54b947b3f77a95772a623110602b4c" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Invitations</unittitle>
+            <unitdate datechar="creation">1966</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_724a8d516586839a9d257755510cde64" label="Mixed Materials [31142046894237]" type="Box">2</container>
+            <container id="aspace_574a47fbb57f2a5156b0119f2a741cdc" parent="aspace_724a8d516586839a9d257755510cde64" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Johnson, Philip - Washington Square Center Architect </unittitle>
+            <unitdate datechar="creation">1964</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_4d2ffe83f4500762d406c5b04c20576b" label="Mixed Materials [31142046894245]" type="Box">3</container>
+            <container id="aspace_2ab8ae0814bb5dc037685150a0d96573" parent="aspace_4d2ffe83f4500762d406c5b04c20576b" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Kendall, Dr. James C.</unittitle>
+            <unitdate datechar="creation">1930</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_71cd9c32c6dddff74b67ffdb3b63610b" label="Mixed Materials [31142046894245]" type="Box">3</container>
+            <container id="aspace_54a45e6834910825cc35887846b8052f" parent="aspace_71cd9c32c6dddff74b67ffdb3b63610b" type="Folder">2</container>
+          </did>
+          <scopecontent id="aspace_d56aa65b774ff2dd8cc3d5a65d544c2f">
+            <head>Scope and Contents</head>
+            <p>Correspondence between Harold O. Voorhis, James B. Munn,  and James Kendall regarding a matter of starting a "Mandel scholarship prize" in honor of the late John A. Mandel, Chair of Chemistry.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Miscellaneous Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1948/1967" type="inclusive">1948-1967</unitdate>
+            <unitdate datechar="creation" normal="1965/1966" type="bulk">1965-1966</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_95294d8eb90483cde90532ca8dbc691b" label="Mixed Materials [31142046894245]" type="Box">3</container>
+            <container id="aspace_21fa2e6f5add7c5d5db084bf51571540" parent="aspace_95294d8eb90483cde90532ca8dbc691b" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Morton, W. Scott, Executive Director of University Christian Foundation</unittitle>
+            <unitdate datechar="creation">1962-1965</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_ffa14efcd0f80a903e512ebe522d4e5d" label="Mixed Materials [31142046894245]" type="Box">3</container>
+            <container id="aspace_a37e652da257162b32f60bf29a61b5bd" parent="aspace_ffa14efcd0f80a903e512ebe522d4e5d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>O'Brien, Dr. Conor Cruise (holder of the A. Schweitzer Chair in the Humanities)</unittitle>
+            <unitdate datechar="creation">1965</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_502087ddd064b601d4411043712aa800" label="Mixed Materials [31142046894245]" type="Box">3</container>
+            <container id="aspace_3875bcebf3fc7969929819ed03872369" parent="aspace_502087ddd064b601d4411043712aa800" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>President's Reception for Faculty Members</unittitle>
+            <unitdate datechar="creation">1963-1965</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_b438ca3e948e8f636e9b40ae9146bbdc" label="Mixed Materials [31142046894245]" type="Box">3</container>
+            <container id="aspace_677d900a4b416493fa6e9a10eadfdae7" parent="aspace_b438ca3e948e8f636e9b40ae9146bbdc" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Nelson, Dr. Norton, Provost of University Heights </unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_2da8afde851ac2f063f6cdc24b83bc38" label="Mixed Materials [31142046894245]" type="Box">3</container>
+            <container id="aspace_d74b8be8daf94eda68c563e1f983b0b4" parent="aspace_2da8afde851ac2f063f6cdc24b83bc38" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Publishing Council of NYU Press (Dr. Pollock, member of council)</unittitle>
+            <unitdate datechar="creation">1961-1962</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_1a3e1908d6fa18b237ec5993ab401339" label="Mixed Materials [31142046894245]" type="Box">3</container>
+            <container id="aspace_9fc6b1af7d2a7269251693225d42add4" parent="aspace_1a3e1908d6fa18b237ec5993ab401339" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Publishing Council of NYU Press</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">January - September 1963</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_ae1bcc88ba4db997fc968a4c89f869f3" label="Mixed Materials [31142046894245]" type="Box">3</container>
+            <container id="aspace_261c4f1180bef68ae856703dd4de050a" parent="aspace_ae1bcc88ba4db997fc968a4c89f869f3" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Publishing Council of NYU Press</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">September - November 1963</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_1baf5dcc386c9858f9cd12d446f8cd6d" label="Mixed Materials [31142046894245]" type="Box">3</container>
+            <container id="aspace_639d09d7b57ee46bcf94e35a1c08cb4d" parent="aspace_1baf5dcc386c9858f9cd12d446f8cd6d" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Publishing Council of NYU Press</unittitle>
+            <unitdate datechar="creation">1964</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_f70b21694ca8057a170e716417510f70" label="Mixed Materials [31142046894245]" type="Box">3</container>
+            <container id="aspace_c3fc7924be5dffbcc0fb0f4137df9af0" parent="aspace_f70b21694ca8057a170e716417510f70" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Publishing Council of NYU Press</unittitle>
+            <unitdate datechar="creation">1965-1966</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_aed549f5b180ed5288a7f4ec1bee4675" label="Mixed Materials [31142046894245]" type="Box">3</container>
+            <container id="aspace_a40b2a4de6add7d1ffc63caf33e86f6b" parent="aspace_aed549f5b180ed5288a7f4ec1bee4675" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Puerto Rican Cultural Center</unittitle>
+            <unitdate datechar="creation">1962-1963</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_8ccd906f52c4e3051520675fc71d0cf4" label="Mixed Materials [31142046894252]" type="Box">4</container>
+            <container id="aspace_2dbadce21e1a34dbc97d16504e197147" parent="aspace_8ccd906f52c4e3051520675fc71d0cf4" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Saint Andrew's Society</unittitle>
+            <unitdate datechar="creation">1963-1964</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_21ec7fef10f5fde2b6607178fb16a3a6" label="Mixed Materials [31142046894252]" type="Box">4</container>
+            <container id="aspace_2ceb1d8d0c28ca4598f47616656aeb56" parent="aspace_21ec7fef10f5fde2b6607178fb16a3a6" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>St. Philip's Community Youth Center</unittitle>
+            <unitdate datechar="creation">1964</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_30a64d13177cf138d0c28b320cd1595f" label="Mixed Materials [31142046894252]" type="Box">4</container>
+            <container id="aspace_3228ee082fd12a40e6ff18b1648f9993" parent="aspace_30a64d13177cf138d0c28b320cd1595f" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Sao Paulo Foundation School</unittitle>
+            <unitdate datechar="creation">1964</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_1bd51a3f385e7080252aca66d10af9f5" label="Mixed Materials [31142046894252]" type="Box">4</container>
+            <container id="aspace_66af88a33091527e99e4fd8089fc5a35" parent="aspace_1bd51a3f385e7080252aca66d10af9f5" type="Folder">4</container>
+          </did>
+          <scopecontent id="aspace_4b013d3c89d8581115b4430bd7b12444">
+            <head>Scope and Contents</head>
+            <p>Correspondence</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>List of Departmental Secretaries</unittitle>
+            <unitdate datechar="creation">1962-1963</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_2734dcf5c98c50a179b1456a9e27d3ba" label="Mixed Materials [31142046894252]" type="Box">4</container>
+            <container id="aspace_e8d1d7c843f7b3cc70642f90716e12d0" parent="aspace_2734dcf5c98c50a179b1456a9e27d3ba" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Speeches</unittitle>
+            <unitdate datechar="creation">1964</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_2f7774eb23668e3fa5d81cc5a6964a09" label="Mixed Materials [31142046894252]" type="Box">4</container>
+            <container id="aspace_df49d82523091d5693517ea6cfcfc3a6" parent="aspace_2f7774eb23668e3fa5d81cc5a6964a09" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Systems Development Corporation</unittitle>
+            <unitdate datechar="creation">1964</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_8b1996d70cdac75959e175383d9281af" label="Mixed Materials [31142046894252]" type="Box">4</container>
+            <container id="aspace_b3447f3ce16747670f41c9090d9516a3" parent="aspace_8b1996d70cdac75959e175383d9281af" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Trip: 75th Anniversary of Clark University</unittitle>
+            <unitdate datechar="creation">1962</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_f7ebe7fd25cb0018999fc1ce2b500fae" label="Mixed Materials [31142046894252]" type="Box">4</container>
+            <container id="aspace_706b4dc474e59ed3acdc61ce32eaec96" parent="aspace_f7ebe7fd25cb0018999fc1ce2b500fae" type="Folder">8</container>
+          </did>
+          <scopecontent id="aspace_cc92acfab5a571b9f28f4a3d38565bf7">
+            <head>Contents</head>
+            <p>Expense report.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Trip: American Council on Education</unittitle>
+            <unitdate datechar="creation">1962</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_c326012a960b5640fc14e77ea14fd73f" label="Mixed Materials [31142046894252]" type="Box">4</container>
+            <container id="aspace_c6225c7447b4a527e5433d4ae5409280" parent="aspace_c326012a960b5640fc14e77ea14fd73f" type="Folder">9</container>
+          </did>
+          <scopecontent id="aspace_761633bf7eac157e374a0f0a916777cc">
+            <head>Contents</head>
+            <p>Correspondence, conference program and several issues of "High Education and National Affairs" publication, brochures, expense report.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Trip: National Instruction Television Laboratory</unittitle>
+            <unitdate datechar="creation">1962</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_c62ba396a9a6d26f0ca39f228e351b7e" label="Mixed Materials [31142046894252]" type="Box">4</container>
+            <container id="aspace_276c763695269c2c97b4815262fa5f45" parent="aspace_c62ba396a9a6d26f0ca39f228e351b7e" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Trip: Association of Colleges and Universities of the State of New York</unittitle>
+            <unitdate datechar="creation">1962</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_e6cbf2b86c6ea7d08002764f0d6a2858" label="Mixed Materials [31142046894252]" type="Box">4</container>
+            <container id="aspace_8ea642c2709c723b0ba5c13fc7ef8f0c" parent="aspace_e6cbf2b86c6ea7d08002764f0d6a2858" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Trip: University of Connecticut Inauguration</unittitle>
+            <unitdate datechar="creation">1962</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_fd16d32a4c0d3c1518bfe4ac0f02b3b1" label="Mixed Materials [31142046894252]" type="Box">4</container>
+            <container id="aspace_1689011d080de6d1be393c09c3c47613" parent="aspace_fd16d32a4c0d3c1518bfe4ac0f02b3b1" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Trip: Muskingum College Inauguration</unittitle>
+            <unitdate datechar="creation">1962</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_2cb9aa369b55e4f44614c334ac14a5c7" label="Mixed Materials [31142046894252]" type="Box">4</container>
+            <container id="aspace_8ade6ac22fe5186615c3732fc12d1e77" parent="aspace_2cb9aa369b55e4f44614c334ac14a5c7" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Trip: Association of Urban Universities Conference</unittitle>
+            <unitdate datechar="creation">1962</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_d3e4cd153c6260bc15086954da9f3f23" label="Mixed Materials [31142046894252]" type="Box">4</container>
+            <container id="aspace_aabe55001551140cecd0f14c26e3b607" parent="aspace_d3e4cd153c6260bc15086954da9f3f23" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Trip: Association of American Colleges Conference</unittitle>
+            <unitdate datechar="creation">1962</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_35ebdd0f2ba34db07992d63ff1ba6341" label="Mixed Materials [31142046894252]" type="Box">4</container>
+            <container id="aspace_2e756af38af7e2ab3bddfeaef9cdb5d7" parent="aspace_35ebdd0f2ba34db07992d63ff1ba6341" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Trip: Rochester-Cincinnati</unittitle>
+            <unitdate datechar="creation">1963</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_f6a2cbb637db9c3507fe048f2bbc39d9" label="Mixed Materials [31142046894252]" type="Box">4</container>
+            <container id="aspace_c83c388632f6bb2d0c4499897bdd7735" parent="aspace_f6a2cbb637db9c3507fe048f2bbc39d9" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Trip: University of Rochester Inauguration</unittitle>
+            <unitdate datechar="creation">1963</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_d79657b879ac9c35d9e404eef671640c" label="Mixed Materials [31142046894252]" type="Box">4</container>
+            <container id="aspace_335419f542dd459e25ee759b44a6287a" parent="aspace_d79657b879ac9c35d9e404eef671640c" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Trip: Indiana University</unittitle>
+            <unitdate datechar="creation">1963</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_1b70e35a0ed3016521ce15c8670c68ed" label="Mixed Materials [31142046894252]" type="Box">4</container>
+            <container id="aspace_f00e8d9fe825e36c26009bdc4864972c" parent="aspace_1b70e35a0ed3016521ce15c8670c68ed" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Trip: Wilton Park, England</unittitle>
+            <unitdate datechar="creation">1963</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_745698260f197bbf9f0c238aaf96abc9" label="Mixed Materials [31142046894252]" type="Box">4</container>
+            <container id="aspace_21aeced161c08d3920e5184667fd94e5" parent="aspace_745698260f197bbf9f0c238aaf96abc9" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Trip: Wroxton, England</unittitle>
+            <unitdate datechar="creation">1963</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_e9cd74ab60e85c5415d99e0d2da504b5" label="Mixed Materials [31142046894260]" type="Box">5</container>
+            <container id="aspace_005c71e7a6b23c3761db30b2a10318ea" parent="aspace_e9cd74ab60e85c5415d99e0d2da504b5" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>University Heights Presbyterian Church</unittitle>
+            <unitdate datechar="creation">1965-1966</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_dea81c4a24ff2acdb9f28f2f39b110a1" label="Mixed Materials [31142046894260]" type="Box">5</container>
+            <container id="aspace_3b8cccaa2bdacba01ca9dd2012dd75f4" parent="aspace_dea81c4a24ff2acdb9f28f2f39b110a1" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>College of Independent Study Proposals: 1959</unittitle>
+            <unitdate datechar="creation">December 1959</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_b5ca2718402ed087bedf0874becb3e8f" label="Mixed Materials [31142046894260]" type="Box">5</container>
+            <container id="aspace_17b5ad99ce535698e19b07877a9c99d3" parent="aspace_b5ca2718402ed087bedf0874becb3e8f" type="Folder">3</container>
+          </did>
+          <scopecontent id="aspace_ac1f4e4aed9a91b53cf20321695d5be7">
+            <head>Contents</head>
+            <p>Brief correspondence and several copies of A Plan for the College for Independent Study dated December 16, 1959.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>College of Independent Study Proposals: 1960</unittitle>
+            <unitdate datechar="creation">March 1960</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_8523051d9fb439dd6234fc680179140c" label="Mixed Materials [31142046894245]" type="Box">3</container>
+            <container id="aspace_376cc21af5da92d94d8fb74a35aaaf54" parent="aspace_8523051d9fb439dd6234fc680179140c" type="Folder">4</container>
+          </did>
+          <scopecontent id="aspace_2f2d89c9763ad45d54e92d15f7d19765">
+            <head>Contents</head>
+            <p>Policy questions and "Basis for Discussion of Policy Questions related to the Proposal of a College for Independent Study" in several parts.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>College of Independent Study Proposals: 1960 - 1964</unittitle>
+            <unitdate datechar="creation">1960 - 1964</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_78079ec9df9bcb62409e999f8d90e715" label="Mixed Materials [31142046894260]" type="Box">5</container>
+            <container id="aspace_88fb262970517a25604bf171a3a14467" parent="aspace_78079ec9df9bcb62409e999f8d90e715" type="Folder">5</container>
+          </did>
+          <scopecontent id="aspace_a91ebafb2e5fa1e098a4bf912522e248">
+            <head>Contents</head>
+            <p>Correspondence and proposal draft, plus notes.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>CREF/TIAA Records, Reports, Minutes</unittitle>
+            <unitdate datechar="creation">April - August, 1964</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_5cea1c2303e9b2750479a61df5ec7548" label="Mixed Materials [31142046894237]" type="Box">2</container>
+            <container id="aspace_76b149cc0be28c2dc45da7527a69c093" parent="aspace_5cea1c2303e9b2750479a61df5ec7548" type="Folder">4</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

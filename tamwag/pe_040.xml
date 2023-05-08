@@ -1,49 +1,1389 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/pe_040">pe_040</eadid><filedesc><titlestmt><titleproper>Guide to the Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection of Oversized Material <num>PE.040</num></titleproper><author>Adrien Hilton</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-12-12 19:47:31 -0500</date>.</creation><langusage>Description is in English</langusage></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection of Oversized Material</unittitle>
-    <origination label="Creator">
-      <corpname authfilenumber="(lccn)n50068362" source="naf">Tamiment Library</corpname>
-    </origination>
-    <origination label="source">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/pe_040">pe_040</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection of Oversized Material <num>PE.040</num></titleproper>
+        <author>Adrien Hilton</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-12-12 19:47:31 -0500</date>.</creation>
+      <langusage>Description is in English</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection of Oversized Material</unittitle>
+      <origination label="Creator">
+        <corpname authfilenumber="(lccn)n50068362" source="naf">Tamiment Library</corpname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" source="naf">Bernstein, Rachel Amelia, 1953-</persname>
+      </origination>
+      <unitid>PE.040</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4.75 Linear Feet</extent>
+        <extent altrender="carrier">in 4 oversize boxes and 2 flat-file drawers</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1889/2014" type="inclusive">1889-2014</unitdate>
+      <abstract id="aspace_a94810ab218a7a233cd86950b4a5c26f">The Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection of Oversized Material is an artificial collection, collected and assembled by the Tamiment Library over the course of several decades. It includes material related to other Printed Ephemera Collections at the Tamiment Library. Most of the material corresponds to organizations in PE 036, trade unions in PE 001, or individuals in PE 030.</abstract>
+      <langmaterial id="aspace_49c13750ca3360bc34f5b52a19a133fa">Materials are in English and Spanish</langmaterial>
+    </did>
+    <arrangement id="aspace_0f5d1896a6c956279250b31ae16e4540">
+      <head>Arrangement</head>
+      <p>Items are arranged alphabetically within folders.</p>
+    </arrangement>
+    <accessrestrict id="aspace_703e4734eec5f13b276b7dce9dbdf79d">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <userestrict id="aspace_7bcb9cca8803f449d969c0575edb9ef6">
+      <head>Conditions Governing Use</head>
+      <p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. Tamiment Library and Robert F. Wagner Archives is not authorized to grant permission to publish or reproduce materials from this collection.</p>
+    </userestrict>
+    <prefercite id="aspace_398ef23a99fce87d57de68424389ab42">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection of Oversized Material; PE 040; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <custodhist id="aspace_cc6d47efe3e9844da9af351af2beaa75">
+      <head>Custodial History</head>
+      <p>The provenance of the materials is varied. Items were obtained through purchases, donations, standing orders with publishers, arrangements with labor unions and other organizations, exchanges with other libraries, and through ongoing collecting by Tamiment staff.</p>
+    </custodhist>
+    <scopecontent id="aspace_50ca81dfef4fdfd4c695a323e6d596cd">
+      <head>Scope and Content Note</head>
+      <p>The Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection of Oversized Material consists of large-scale items, which relate to other Printed Ephemera Collections at the Tamiment Library. These items were separated from collections and housed in appropriate containers because of their size. There are fliers, leaflets, broadsides, pamphlets and other publications in the collection. Items correspond to organizations such as the American Labor Party, the Black Panther Party, the Labour Party of Great Britain, the Workers Defense Union and the Committee for Maritime Unity. There are also items published by unions, for instance, materials relating to the International Ladies' Garment Workers' Union, the United Federation of Teachers, and the International Brotherhood of Teamsters. The material ranges in date from the late 1880s to 2014.</p>
+    </scopecontent>
+    <acqinfo id="aspace_144d391ebeeff6a2918d2397c153066f">
+      <head>Immediate Source of Acquisition</head>
+      <p>Materials in this collection have been compiled by the Tamiment Library.</p>
+      <p>Some materials were donated by Rachel Bernstein. The accession number associated with this material is 2014.172.</p>
+    </acqinfo>
+    <controlaccess>
       <persname role="dnr" source="naf">Bernstein, Rachel Amelia, 1953-</persname>
-    </origination>
-    <unitid>PE.040</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">4.75 Linear Feet</extent>
-      <extent altrender="carrier">in 4 oversize boxes and 2 flat-file drawers</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1889/2014" type="inclusive">1889-2014</unitdate>
-    <abstract id="aspace_a94810ab218a7a233cd86950b4a5c26f">The Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection of Oversized Material is an artificial collection, collected and assembled by the Tamiment Library over the course of several decades. It includes material related to other Printed Ephemera Collections at the Tamiment Library. Most of the material corresponds to organizations in PE 036, trade unions in PE 001, or individuals in PE 030.</abstract>
-    <langmaterial id="aspace_49c13750ca3360bc34f5b52a19a133fa">Materials are in English and Spanish</langmaterial>
-  </did>
-  <arrangement id="aspace_0f5d1896a6c956279250b31ae16e4540">
-    <head>Arrangement</head>
-<p>Items are arranged alphabetically within folders.</p>  </arrangement>
-  <accessrestrict id="aspace_703e4734eec5f13b276b7dce9dbdf79d">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <userestrict id="aspace_7bcb9cca8803f449d969c0575edb9ef6">
-    <head>Conditions Governing Use</head>
-<p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. Tamiment Library and Robert F. Wagner Archives is not authorized to grant permission to publish or reproduce materials from this collection.</p>  </userestrict>
-  <prefercite id="aspace_398ef23a99fce87d57de68424389ab42">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection of Oversized Material; PE 040; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
-  <custodhist id="aspace_cc6d47efe3e9844da9af351af2beaa75">
-    <head>Custodial History</head>
-<p>The provenance of the materials is varied. Items were obtained through purchases, donations, standing orders with publishers, arrangements with labor unions and other organizations, exchanges with other libraries, and through ongoing collecting by Tamiment staff.</p>  </custodhist>
-  <scopecontent id="aspace_50ca81dfef4fdfd4c695a323e6d596cd">
-    <head>Scope and Content Note</head>
-<p>The Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection of Oversized Material consists of large-scale items, which relate to other Printed Ephemera Collections at the Tamiment Library. These items were separated from collections and housed in appropriate containers because of their size. There are fliers, leaflets, broadsides, pamphlets and other publications in the collection. Items correspond to organizations such as the American Labor Party, the Black Panther Party, the Labour Party of Great Britain, the Workers Defense Union and the Committee for Maritime Unity. There are also items published by unions, for instance, materials relating to the International Ladies' Garment Workers' Union, the United Federation of Teachers, and the International Brotherhood of Teamsters. The material ranges in date from the late 1880s to 2014.</p>  </scopecontent>
-  <acqinfo id="aspace_144d391ebeeff6a2918d2397c153066f">
-    <head>Immediate Source of Acquisition</head>
-<p>Materials in this collection have been compiled by the Tamiment Library.</p><p>Some materials were donated by Rachel Bernstein. The accession number associated with this material is 2014.172.</p>  </acqinfo>
-  <controlaccess>
-    <persname role="dnr" source="naf">Bernstein, Rachel Amelia, 1953-</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref143" level="item"><did><unittitle>1199: Strike, 1959 (40 years later) (brochure)</unittitle><unitdate datechar="creation">1999</unitdate><container altrender="Flat OS Box 17" id="aspace_3c0a034a89fbe9abbb75d35e17546fe5" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_1586fe4b630dcbfc513f75f603f429e9" parent="aspace_3c0a034a89fbe9abbb75d35e17546fe5" type="Folder">1</container></did></c><c id="aspace_ref74" level="item"><did><unittitle>A. Seehof and Co. Verlag (Berlin, Germany)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_3e015873f8b584417d66240683b33263" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_d0e488da25524c3d30c215678c4bcab0" parent="aspace_3e015873f8b584417d66240683b33263" type="Folder">1</container></did></c><c id="aspace_ref76" level="item"><did><unittitle>All-Russian Council of Peasant Disputes (leaflet)</unittitle><unitdate datechar="creation">1917</unitdate><container altrender="Flat OS Box 17" id="aspace_00096dc1f660557a8deb13ebc701b483" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_285782968a3ab0c52b40d2febce78afc" parent="aspace_00096dc1f660557a8deb13ebc701b483" type="Folder">1</container></did></c><c id="aspace_ref42" level="item"><did><unittitle>Amalgamated Clothing Workers of America (article)</unittitle><unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate><container altrender="Flat OS Box 17" id="aspace_7afa2fbff3de757a12e77f2b72858327" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_bfb7c02497f390e783008709a6bb6695" parent="aspace_7afa2fbff3de757a12e77f2b72858327" type="Folder">1</container></did></c><c id="aspace_ref150" level="item"><did><unittitle>Amalgamated Clothing Workers of America: Sydney Hillman (publication)</unittitle><unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate><container altrender="Flat OS Box 17" id="aspace_2cee076a686975e6fe0fe9a722905128" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_89b6dea4d6b90dc7467bc80c2613e4f9" parent="aspace_2cee076a686975e6fe0fe9a722905128" type="Folder">1</container></did></c><c id="aspace_ref43" level="item"><did><unittitle>Amalgamated Lithographers of America: Local 1 (New York, NY) (publication)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_417805c16839c8ec8be22e7044221520" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_752ecb2c0dbeb71070dd596f4387daf9" parent="aspace_417805c16839c8ec8be22e7044221520" type="Folder">2</container></did></c><c id="aspace_ref44" level="item"><did><unittitle>Amalgamated Meat Cutters and Butcher Workmen of North America: Local 1 (publication)</unittitle><unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Flat OS Box 17" id="aspace_c75d63a1a956a3e6287ff862dc8a01cd" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_8d0a372c69c9cd2e4c5be70ad18265d5" parent="aspace_c75d63a1a956a3e6287ff862dc8a01cd" type="Folder">2</container></did></c><c id="aspace_ref219" level="file"><did><unittitle>Amalgamated Clothing and Textile Wokers Union (ACTWU) (placard)</unittitle><unitdate datechar="creation" normal="1889/1999" type="inclusive">undated</unitdate><container altrender="Oversize Folder - Half Case" id="aspace_bd644c256dc5fd605714da3b10b865d4" label="Mixed Materials [31142062664993]" type="Flat-File-Folder">5 Right</container></did></c><c id="aspace_ref75" level="item"><did><unittitle>America First Committee (broadside)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_75b4bdaeb41cc41d4d2b20f0cb9dce2a" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_6579ba04f46afc78e76c629fa653dee2" parent="aspace_75b4bdaeb41cc41d4d2b20f0cb9dce2a" type="Folder">1</container></did></c><c id="aspace_ref222" level="file"><did><unittitle>American Civil Liberties Union 75th Anniversary Calendar</unittitle><unitdate datechar="creation">1995</unitdate><container altrender="Flat OS Box 17" id="aspace_4c01085cad5ac2de65a39e0366238f69" label="Mixed Materials [31142062759256]" type="Box">Shared Tamiment MSOS006</container></did></c><c id="aspace_ref77" level="item"><did><unittitle>American Committee on Africa (flier)</unittitle><unitdate datechar="creation">1967</unitdate><container altrender="Flat OS Box 17" id="aspace_aae4aed3ebe778a9d9f7c6aab88928bd" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_b97ca0fca7044e6287dc21c0b833a311" parent="aspace_aae4aed3ebe778a9d9f7c6aab88928bd" type="Folder">2</container></did></c><c id="aspace_ref208" level="file"><did><unittitle>American Federation of Labor - Congress of Industrial Organizations (7 items) (placards)</unittitle><unitdate datechar="creation" normal="1889/1999" type="inclusive">1960-1983; undated</unitdate><container altrender="Flat OS 21" id="aspace_f56a861d91a304775772c10465b5216a" label="Mixed Materials [31142062760007]" type="Box">Shared Tamiment MSXOS002</container><container id="aspace_1b68744ca4b4e0a89876097bbb6f40ac" parent="aspace_f56a861d91a304775772c10465b5216a" type="Folder">2</container></did></c><c id="aspace_ref45" level="item"><did><unittitle>American Federation of Teachers (educational packet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_99f82f865c4a549cb1c7631b3f9e276c" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_08519b3749af39e336e8b132193b63b2" parent="aspace_99f82f865c4a549cb1c7631b3f9e276c" type="Folder">2</container></did></c><c id="aspace_ref78" level="item"><did><unittitle>American Labor Party (3 items) (fliers)</unittitle><unitdate datechar="creation">1949, undated</unitdate><container altrender="Flat OS Box 17" id="aspace_919bbfd1790887e82db4a0616f87ff3c" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_b2f887cb50801929aef5b39a8084cbe0" parent="aspace_919bbfd1790887e82db4a0616f87ff3c" type="Folder">3</container></did></c><c id="aspace_ref122" level="item"><did><unittitle>American Labor Party (broadside)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_856ec3a1fa432199bebcadfacbaadb69" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_8845fd1e3f0e09a786315ce5de54cb39" parent="aspace_856ec3a1fa432199bebcadfacbaadb69" type="Folder">1</container></did></c><c id="aspace_ref154" level="item"><did><unittitle>American Labor Party (<emph render="italic">Railroad Workers Link</emph> special issue New York City Elections)</unittitle><unitdate datechar="creation">1949</unitdate><container altrender="Flat OS Box 17" id="aspace_042cd172acd6275b2e4ff7aefc168eb2" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_253a8927c9484630eada303a9954b44a" parent="aspace_042cd172acd6275b2e4ff7aefc168eb2" type="Folder">1</container></did></c><c id="aspace_ref166" level="item"><did><unittitle>American Labor Party: New York State (issue of <emph render="italic">Political Action</emph> newsletter)</unittitle><unitdate datechar="creation">1955</unitdate><container altrender="Flat OS Box 17" id="aspace_c7a0ab7c2cc1ed30f2c196cd78f16e69" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_2da0551e8b3f1886d6d51e72d268ff76" parent="aspace_c7a0ab7c2cc1ed30f2c196cd78f16e69" type="Folder">1</container></did></c><c id="aspace_ref79" level="item"><did><unittitle>American League Against War and Fascism (flier)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_c12019f0ccbad64f0f19b64e031ef05d" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_5562bbf4a6f096df3c7c8d0fa4f7b9f0" parent="aspace_c12019f0ccbad64f0f19b64e031ef05d" type="Folder">3</container></did></c><c id="aspace_ref80" level="item"><did><unittitle>American Lumberman (reprint)</unittitle><unitdate datechar="creation">1910</unitdate><container altrender="Oversize Folder - Half Case" id="aspace_eef19a3da03410ab2c6e9272be1350a4" label="Mixed Materials [31142062664993]" type="Flat-File-Folder">5 Right</container></did></c><c id="aspace_ref81" level="item"><did><unittitle>American Peace Mobilization (2 items) (leaflets)</unittitle><unitdate datechar="creation">1941</unitdate><container altrender="Flat OS Box 17" id="aspace_29b3bac367a8e637f6d0cdd9432fbc0b" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_58e4551a80873b65e069aba8e9faf7b6" parent="aspace_29b3bac367a8e637f6d0cdd9432fbc0b" type="Folder">1</container></did></c><c id="aspace_ref82" level="item"><did><unittitle>Americas Future, Inc. (leaflet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_56ce2dee54cdbef592e3ee09024a57ea" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_73aecf655b3405d379c6d667dd7891ed" parent="aspace_56ce2dee54cdbef592e3ee09024a57ea" type="Folder">3</container></did></c><c id="aspace_ref145" level="item"><did><unittitle>Anarchist Group of America and Canada: "Who Are the Real Enemies of the Working Class?" (leaflet)</unittitle><unitdate datechar="creation">1921</unitdate><container altrender="Flat OS Box 17" id="aspace_3465af0ee5ad484a66457a3abf723713" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_385f1de9fb8014c27ddb6946df9a0c57" parent="aspace_3465af0ee5ad484a66457a3abf723713" type="Folder">3</container></did></c><c id="aspace_ref167" level="item"><did><unittitle>Anti-Imperialist Activists (pamphlet) </unittitle><unitdate datechar="creation">1980</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_3171d0e36289f5eb9ddd263eef94a6d1" label="Mixed Materials [31142062671915]" type="Box">3</container><container id="aspace_af027b8c4b2873ad3788010de062d3ff" parent="aspace_3171d0e36289f5eb9ddd263eef94a6d1" type="Folder">1</container></did></c><c id="aspace_ref168" level="file"><did><unittitle>Basta Ya! (booklet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_69884410dd40ceec96d6a2d05e1f974b" label="Mixed Materials [31142062671915]" type="Box">3</container><container id="aspace_2980cd8791cd6157407526226d360316" parent="aspace_69884410dd40ceec96d6a2d05e1f974b" type="Folder">2</container></did></c><c id="aspace_ref57" level="item"><did><unittitle>Black Panthers: Committee to Defend the Panthers, Committee to Defend the Panther 21 (publication)</unittitle><unitdate datechar="creation">circa 1970s</unitdate><container altrender="Flat OS Box 17" id="aspace_7f4fde609221e3859d98c6d282cd9db6" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_6f4eeb1a1c85eb1651f16d9f436fe103" parent="aspace_7f4fde609221e3859d98c6d282cd9db6" type="Folder">2</container></did></c><c id="aspace_ref131" level="item"><did><unittitle>Black Workers Organizing Committee (publication)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_dcd1a0d47096d88ed81dbedf6197832a" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_6eb7069bea667ed33df6974a6a9f3f0b" parent="aspace_dcd1a0d47096d88ed81dbedf6197832a" type="Folder">1</container></did></c><c id="aspace_ref132" level="item"><did><unittitle>Bridges-Robertson-Schmidt Defense Committee (leaflet)</unittitle><unitdate datechar="creation">circa 1936</unitdate><container altrender="Flat OS Box 17" id="aspace_082a5c1a7cf7a024cb7607ee7356145d" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_93ab9726ea1856a0c2d4712d9dc3b430" parent="aspace_082a5c1a7cf7a024cb7607ee7356145d" type="Folder">1</container></did></c><c id="aspace_ref140" level="item"><did><unittitle>Bridges-Robertson-Schmidt Defense Committee (leaflet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Oversize Folder - Half Case" id="aspace_3ccc8ddadf938fe999de3a581b22064c" label="Mixed Materials [31142062664993]" type="Flat-File-Folder">5 Right</container></did></c><c id="aspace_ref133" level="item"><did><unittitle>Brookwood School (article)</unittitle><unitdate datechar="creation">1924</unitdate><container altrender="Flat OS Box 17" id="aspace_ec0e9078200868b33aaa1ea29849063f" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_327c115a0e9fd26495c6734f50835c18" parent="aspace_ec0e9078200868b33aaa1ea29849063f" type="Folder">1</container></did></c><c id="aspace_ref124" level="item"><did><unittitle>China Campaign Committee (flier)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_166f4e71639eebad6a986a8fcad0273a" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_c19b9bf1abd372044243080a357e4a0f" parent="aspace_166f4e71639eebad6a986a8fcad0273a" type="Folder">4</container></did></c><c id="aspace_ref160" level="item"><did><unittitle>Citizens' Committee for the Election of Elizabeth Gurley Flynn to Congress (Bronx, NY) (circular letter)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_3ba84182b9ebd98305e9d7e638d240d9" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_ca6c25ca6f1ca7f9e4462068f422a0ed" parent="aspace_3ba84182b9ebd98305e9d7e638d240d9" type="Folder">4</container></did></c><c id="aspace_ref134" level="item"><did><unittitle>Civil Rights Congress (2 items) (leaflets)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_6f6f7d9dd027b76a432b4998fe018628" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_81acbae9be8b2ef9efa54e17375e9317" parent="aspace_6f6f7d9dd027b76a432b4998fe018628" type="Folder">3</container></did></c><c id="aspace_ref155" level="item"><did><unittitle>Civil Rights Congress (<emph render="italic">Pittsburgh Freedom News</emph> edition)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_5ea011f79d0c4c472fbdbcae06cb8961" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_ac2f33bd1fac77f4ee1fad2d2a3212f8" parent="aspace_5ea011f79d0c4c472fbdbcae06cb8961" type="Folder">3</container></did></c><c id="aspace_ref210" level="file"><did><unittitle>Coalition of Labor Union Women (placard)</unittitle><unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate><container altrender="Oversize Folder - Half Case" id="aspace_1f5e522e0e97c40de25a6d3b2e2cb24a" label="Mixed Materials [31142062664993]" type="Flat-File-Folder">5 Right</container></did></c><c id="aspace_ref221" level="file"><did><unittitle>El Comite pro Huelga de Nueva York (poster in Spanish)</unittitle><unitdate datechar="creation" normal="1934/1939" type="inclusive">circa 1934-1939</unitdate><container altrender="Flat OS Box 17" id="aspace_74ced6396ae07425a63b1297729a6021" label="Mixed Materials [31142062759256]" type="Box">Shared Tamiment MSOS006</container></did></c><c id="aspace_ref125" level="item"><did><unittitle>Committee for Maritime Unity (flier)</unittitle><unitdate datechar="creation">1946</unitdate><container altrender="Flat OS Box 17" id="aspace_2bc4ebe8cfa014d7aceb30660381038e" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_18d3f6a3adcbc980e41a13c98086b08d" parent="aspace_2bc4ebe8cfa014d7aceb30660381038e" type="Folder">4</container></did></c><c id="aspace_ref135" level="item"><did><unittitle>Committee for Maritime Unity (<emph render="italic">Maritime Unity Bulletin</emph>, 2 items)</unittitle><unitdate datechar="creation">1946</unitdate><container altrender="Flat OS Box 17" id="aspace_1d8347323833213bdf3a5a798cc33f19" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_7afbc9c5a3a543fd342023f5bdecd4c7" parent="aspace_1d8347323833213bdf3a5a798cc33f19" type="Folder">3</container></did></c><c id="aspace_ref142" level="item"><did><unittitle>Committee for Maritime Unity (leaflet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Oversize Folder - Half Case" id="aspace_c1d97d67fd7999e1b625a4e2d6a8110e" label="Mixed Materials [31142062664993]" type="Flat-File-Folder">5 Right</container></did></c><c id="aspace_ref141" level="item"><did><unittitle>Committee of Martime Unions (broadside)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Oversize Folder - Half Case" id="aspace_1cde6c90533db8d4786a72dff4470f92" label="Mixed Materials [31142062664993]" type="Flat-File-Folder">5 Right</container></did></c><c id="aspace_ref136" level="item"><did><unittitle>Committee on Militarism in Education (leaflet)</unittitle><unitdate datechar="creation">1937</unitdate><container altrender="Flat OS Box 17" id="aspace_499a7664927b26625fd85f12a0f6e5e2" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_8afc7ce8e40486d9324488fe9729a22b" parent="aspace_499a7664927b26625fd85f12a0f6e5e2" type="Folder">3</container></did></c><c id="aspace_ref137" level="item"><did><unittitle>Commonwealth College (3 items) (leaflets)</unittitle><unitdate datechar="creation">1923, undated</unitdate><container altrender="Flat OS Box 17" id="aspace_583f7834e9f0398c44cf7b8dd73d42d1" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_2af7955428ad21310b503954be927ee3" parent="aspace_583f7834e9f0398c44cf7b8dd73d42d1" type="Folder">3</container></did></c><c id="aspace_ref138" level="item"><did><unittitle>Communist Party of Australia (publication)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_778e40cc0b59f51d3db69ca52162200f" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_239703b22d232413bf9799e888ba3812" parent="aspace_778e40cc0b59f51d3db69ca52162200f" type="Folder">3</container></did></c><c id="aspace_ref126" level="item"><did><unittitle>Communist Party of Great Britain (leaflet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_6b145c04396fdacd7fe87662444f8391" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_ded15baef94d28fb60175ebcb1a6d498" parent="aspace_6b145c04396fdacd7fe87662444f8391" type="Folder">4</container></did></c><c id="aspace_ref216" level="file"><did><unittitle>Compressed Air and Free Air, Shaft, Tunnel, Foundation, Caisson, Subway, Cofferdam, Sewer Construction Workers of New York &amp; New Jersey States &amp; Vicinity, Local 147 (Sandhogs) (placard)</unittitle><unitdate datechar="creation" normal="1889/1999" type="inclusive">undated</unitdate><container altrender="Oversize Folder - Half Case" id="aspace_4fbeffb65f4e539c37fc7df936d67fbb" label="Mixed Materials [31142062664993]" type="Flat-File-Folder">5 Right</container></did></c><c id="aspace_ref209" level="file"><did><unittitle>Congress of Racial Equality (placard)</unittitle><unitdate datechar="creation" normal="1889/1999" type="inclusive">undated</unitdate><container altrender="Flat OS 21" id="aspace_949c0a8ef4ae6c9e2dbfe8d5eb7c56ba" label="Mixed Materials [31142062760007]" type="Box">Shared Tamiment MSXOS002</container><container id="aspace_d2f2f786ae43ff5ecb7d6cc674b58adf" parent="aspace_949c0a8ef4ae6c9e2dbfe8d5eb7c56ba" type="Folder">3</container></did></c><c id="aspace_ref127" level="item"><did><unittitle>Co-operative Commonwealth Federation (Canada) (2 items) (fliers)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_f455d0558c8ba1c46c09aa87d2c8fb2a" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_aa716561ef686f4006d35b16d16ef70f" parent="aspace_f455d0558c8ba1c46c09aa87d2c8fb2a" type="Folder">4</container></did></c><c id="aspace_ref139" level="item"><did><unittitle>Co-operative Commonwealth Federation (Canada) (leaflet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_b16c4bbdcb8ce456eb686709aa909d5f" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_1768a0c7b9dcd1ef05f2ec0e6cb82061" parent="aspace_b16c4bbdcb8ce456eb686709aa909d5f" type="Folder">3</container></did></c><c id="aspace_ref211" level="file"><did><unittitle>Daily News Strike (placards)</unittitle><unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate><container altrender="Flat OS 21" id="aspace_3ba24d8107a15036df35fe03e2d8067b" label="Mixed Materials [31142062760007]" type="Box">Shared Tamiment MSXOS002</container><container id="aspace_ad992a348edd6b5a6ef135307e769e11" parent="aspace_3ba24d8107a15036df35fe03e2d8067b" type="Folder">4</container></did></c><c id="aspace_ref83" level="item"><did><unittitle>Debs Freedom Conference (leaflet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_f2fb6211e2a48451f39fd65ef772feed" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_96ee423d148c1f9ae4af969e6c8f9b2d" parent="aspace_f2fb6211e2a48451f39fd65ef772feed" type="Folder">5</container></did></c><c id="aspace_ref58" level="item"><did><unittitle>Defense Committee for the Prisoners of Texas (leaflet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_bf0a8722b31bbd9de7f93f9953f3ed49" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_cabf984026da6c7446b6266d668b555e" parent="aspace_bf0a8722b31bbd9de7f93f9953f3ed49" type="Folder">5</container></did></c><c id="aspace_ref84" level="item"><did><unittitle>Fabian Society (leaflet)</unittitle><unitdate datechar="creation">1920</unitdate><container id="aspace_d06ba09d37b990f68bf9bbcd52667413" label="Mixed Materials" type="flat-file">6</container><container id="aspace_f666ae5953fd00f96331bd6786155b2d" parent="aspace_d06ba09d37b990f68bf9bbcd52667413" type="drawer">14</container><container id="aspace_3bdaff04f3e8dbdba671a8e117dac191" parent="aspace_f666ae5953fd00f96331bd6786155b2d" type="Folder">A-M</container></did></c><c id="aspace_ref164" level="item"><did><unittitle>Farmers' Educational Fund (Denver, CO) (<emph render="italic">Unity Builds Democracy! Don't Plow it Under!</emph> pamphlet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_a49e5bffd677596867f5b446d1adfc68" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_3b1bed4bb2abec1a676e284f09b25086" parent="aspace_a49e5bffd677596867f5b446d1adfc68" type="Folder">4</container></did></c><c id="aspace_ref146" level="item"><did><unittitle>Feuilleton (publication)</unittitle><unitdate datechar="creation">1914</unitdate><container altrender="Flat OS Box 17" id="aspace_e8352f6df6b2c5158b231716595ce81d" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_daa4ce11ad0770d6b716a496d126ef6f" parent="aspace_e8352f6df6b2c5158b231716595ce81d" type="Folder">4</container></did></c><c id="aspace_ref85" level="item"><did><unittitle>Friends of Malatesta (publication)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_1bbd8925d539fc8f332b0c1c79543d26" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_29a3c119c16029ab5c76b4fe1d70c1e2" parent="aspace_1bbd8925d539fc8f332b0c1c79543d26" type="Folder">5</container></did></c><c id="aspace_ref70" level="item"><did><unittitle>Gompers, Samuel (2 items) (Samuel Gompers-Labor Memorial, souvenir brochures)</unittitle><unitdate datechar="creation">1933</unitdate><container altrender="Flat OS Box 17" id="aspace_812367e3bc25b5d13f771fdaff8e3e3e" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_e79ab94395ac4ab6538d07ce7049a99d" parent="aspace_812367e3bc25b5d13f771fdaff8e3e3e" type="Folder">5</container></did></c><c id="aspace_ref47" level="item"><did><unittitle>Industrial Workers of the World (2 items) (leaflets)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_7b5e52409b82a3e6093ab2f877eb14a8" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_a12f6128b1507f6e935a63f2c1e30a26" parent="aspace_7b5e52409b82a3e6093ab2f877eb14a8" type="Folder">6</container></did></c><c id="aspace_ref148" level="item"><did><unittitle>Industrial Workers of the World (2 items) (leaflets)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_8f071db453302643f3a46f931d75cdfc" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_28284c6d2cf235e2131cba88e5e492b0" parent="aspace_8f071db453302643f3a46f931d75cdfc" type="Folder">4</container></did></c><c id="aspace_ab6b95abab734e993b35d2c674360db5" level="file"><did><unittitle>Industrial Workers of the World: Informational calendars</unittitle><unitdate datechar="creation" normal="1972/1974" type="inclusive">1972-1974</unitdate><container altrender="Flat OS 21" id="aspace_779bb11f81ce1d78a06dcfac90d03e94" label="Mixed Materials [31142062882330]" type="Box">Shared Tamiment 016</container><container id="aspace_dfcfd565af1835dfa7cc14864cf21c23" parent="aspace_779bb11f81ce1d78a06dcfac90d03e94" type="Folder">8-10</container></did></c><c id="aspace_ref206" level="item"><did><unittitle>Institute for American Democracy (poster)</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_01c699edcd16b7105479c95c1b972f69" label="Mixed Materials" type="flat-file">6</container><container id="aspace_aae064cf45c48b3df4d01b43cdb6cfd7" parent="aspace_01c699edcd16b7105479c95c1b972f69" type="drawer">14</container></did></c><c id="aspace_ref48" level="item"><did><unittitle>International Brotherhood of Teamsters, Chauffeurs, Warehousemen and Helpers of America: Warehouse and Distribution Workers, Local 688 (commemorative publication)</unittitle><unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate><container altrender="Flat OS Box 17" id="aspace_109d356fcd25f5a6db2d9348ba8cd490" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_7df69d510c7abd9b9819929c97172a72" parent="aspace_109d356fcd25f5a6db2d9348ba8cd490" type="Folder">6</container></did></c><c id="aspace_ref163" level="item"><did><unittitle>International Committee of the Fourth International (London) (leaflet)</unittitle><unitdate datechar="creation">1976</unitdate><container altrender="Flat OS Box 17" id="aspace_dfcf31743f3bf5165c2cd8d317a2952e" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_eb91f8650f02fc65e27d5b7567e6776c" parent="aspace_dfcf31743f3bf5165c2cd8d317a2952e" type="Folder">4</container></did></c><c id="aspace_ref89" level="item"><did><unittitle>International Labor Defense (2 items) (fliers)</unittitle><unitdate datechar="creation">1938</unitdate><container altrender="Flat OS Box 17" id="aspace_3102e2bff05e06a12f7ae54a52dc5518" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_72c9e2594e56329bca834d601c9e222b" parent="aspace_3102e2bff05e06a12f7ae54a52dc5518" type="Folder">6</container></did></c><c id="aspace_ref49" level="item"><did><unittitle>International Ladies' Garment Workers' Union ("The Big Shot" ILGWU Super-Kid Convention Issue)</unittitle><unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate><container altrender="Flat OS Box 17" id="aspace_2524c179348219738ca8a2ffc0ae48f5" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_a2d1036fb4ca0db4a1c9846cd4ba7630" parent="aspace_2524c179348219738ca8a2ffc0ae48f5" type="Folder">5</container></did></c><c id="aspace_ref165" level="item"><did><unittitle>International Ladies' Garment Workers' Union (<emph render="italic">Daily News</emph> newspaper clipping)</unittitle><unitdate datechar="creation">1939</unitdate><container altrender="Flat OS Box 17" id="aspace_c52e3b4aea399bf75609dee28f426b26" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_0999702c6260cbb73cc49b2e579cedd7" parent="aspace_c52e3b4aea399bf75609dee28f426b26" type="Folder">5</container></did></c><c id="aspace_ref156" level="item"><did><unittitle>International Ladies' Garment Workers' Union (Pins and Needles publication)</unittitle><unitdate datechar="creation">1938</unitdate><container altrender="Flat OS Box 17" id="aspace_764be7ede80d3a88c794c55ba91da616" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_ecdd82985d03cfaaa7e1c07f6ae5b1c2" parent="aspace_764be7ede80d3a88c794c55ba91da616" type="Folder">5</container></did></c><c id="aspace_ref157" level="item"><did><unittitle>International Ladies' Garment Workers' Union ("The Triangle Fire" article)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_fe1dc8724d09039c4bad856da70aaa7e" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_a962ddd247ec1bd4218ac49676c37404" parent="aspace_fe1dc8724d09039c4bad856da70aaa7e" type="Folder">5</container></did></c><c id="aspace_ref162" level="item"><did><unittitle>International Ladies' Garment Workers' Union (Union Label advertisement)</unittitle><unitdate datechar="creation">circa 1975</unitdate><container altrender="Flat OS Box 17" id="aspace_0949636bfdc077f74416eccf2b0819de" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_99382fe2814d065f085e64c8931b080e" parent="aspace_0949636bfdc077f74416eccf2b0819de" type="Folder">5</container></did></c><c id="aspace_ref90" level="item"><did><unittitle>International Ladies' Garment Workers' Union: Local 89 (New York, NY) (leaflet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_761295769e38f3a17e5ebb3353b2018c" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_dea8786db10eeca68849381a93e06ac2" parent="aspace_761295769e38f3a17e5ebb3353b2018c" type="Folder">5</container></did></c><c id="aspace_ref60" level="item"><did><unittitle>Jewish Daily Forward (anniversary program)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_688e4638ec98270b98579a0ac77a6935" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_51eaa10d23d541aa9a076f734cdbb76c" parent="aspace_688e4638ec98270b98579a0ac77a6935" type="Folder">6</container></did></c><c id="aspace_ref86" level="item"><did><unittitle>Labor Committee for Peaceful Alternatives (flier)</unittitle><unitdate datechar="creation">circa 1955</unitdate><container altrender="Flat OS Box 17" id="aspace_7cd8ee89df1edd9c38be5139fc03f741" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_7ae4b1fe906d9fee02e2e1f4a4ee50e1" parent="aspace_7cd8ee89df1edd9c38be5139fc03f741" type="Folder">7</container></did></c><c id="aspace_ref87" level="item"><did><unittitle>Labor League  for Thomas and Nelson (leaflet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_ea79b7a869687dc0860111e0a930f5ed" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_5a637a69736ccc712a1ea790bf0ac2a5" parent="aspace_ea79b7a869687dc0860111e0a930f5ed" type="Folder">7</container></did></c><c id="aspace_ref158" level="item"><did><unittitle>Labour Party of Great Britain (13 items)</unittitle><unitdate datechar="creation">1937-1950, undated</unitdate><container altrender="Flat OS Box 17" id="aspace_5ef5ecb31feefda0fb853f79dd78cd5e" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_bcc0924f5366456c0bc593cf2eab09e2" parent="aspace_5ef5ecb31feefda0fb853f79dd78cd5e" type="Folder">8</container></did></c><c id="aspace_ref73" level="item"><did><unittitle>Labour Party of Great Britain (7 items)</unittitle><unitdate datechar="creation">1937-1950, undated</unitdate><container altrender="Oversize Folder - Half Case" id="aspace_2ac38b8d905eb07a7880cd23a1415f48" label="Mixed Materials [31142062665008]" type="Flat-File-Folder">9 Right</container><container id="aspace_12683250d8b9aff6d7ff712062b1f7ad" parent="aspace_2ac38b8d905eb07a7880cd23a1415f48" type="drawer">14</container></did></c><c id="aspace_ref59" level="item"><did><unittitle>"The Laurelled Chefs D'oeuvre D'art" (Paris Exhibition) (pamphlet)</unittitle><unitdate datechar="creation">1889</unitdate><container altrender="Flat OS Box 17" id="aspace_c1910991362c437054f26d8c3a0503a0" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_7c4bd42b3be7f408e4de0b33a9ec5eaa" parent="aspace_c1910991362c437054f26d8c3a0503a0" type="Folder">4</container></did></c><c id="aspace_ref91" level="item"><did><unittitle>League for Industrial Democracy (brochure)</unittitle><unitdate datechar="creation">circa 1937</unitdate><container altrender="Flat OS Box 17" id="aspace_a26b803b3416ba74ac7d87830ef6ba09" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_e50b4854107679cd517b73bb3d6363ee" parent="aspace_a26b803b3416ba74ac7d87830ef6ba09" type="Folder">7</container></did></c><c id="aspace_ref92" level="item"><did><unittitle>Liberal Party (brochure)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_8c1bc4a39f5b3c575d3a15174b67b63a" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_5b3978976f94be9b46b1cf8c918ee10b" parent="aspace_8c1bc4a39f5b3c575d3a15174b67b63a" type="Folder">7</container></did></c><c id="aspace_ref161" level="item"><did><unittitle>Liberal Party: Goldstein, Jonah J.<emph render="italic"> For a Better Living in a Greater City</emph> (comic book)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_222cec9600e09af41411176c17d26929" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_4efc42f03b754066bdecf42780f1e4a1" parent="aspace_222cec9600e09af41411176c17d26929" type="Folder">7</container></did></c><c id="aspace_ref93" level="item"><did><unittitle>Matteotti League (flier)</unittitle><unitdate datechar="creation">undated </unitdate><container altrender="Flat OS Box 17" id="aspace_cce146a76aee08477a12adc0eeb2bd5c" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_ba44202ed55da0d718cdb994e6e2adcf" parent="aspace_cce146a76aee08477a12adc0eeb2bd5c" type="Folder">7</container></did></c><c id="aspace_ref94" level="item"><did><unittitle>Medical Bureau and North American Committee to Aid Spanish Democracy (2 items) (fliers)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_abd2ad947dc49a40cdf565a82e7bd79d" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_2a953fcbd752fb039e11882fad544cf3" parent="aspace_abd2ad947dc49a40cdf565a82e7bd79d" type="Folder">7</container></did></c><c id="aspace_ref95" level="item"><did><unittitle>National Assembly of Democratic Rights (broadside)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_b24efe99489d7abe7df389f9a36b5352" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_fbba5bafe4ba03dc37872440ddad26b7" parent="aspace_b24efe99489d7abe7df389f9a36b5352" type="Folder">6</container></did></c><c id="aspace_ref65" level="item"><did><unittitle>National Child Labor Committee (leaflet)</unittitle><unitdate datechar="creation" normal="1928/1928" type="inclusive">1928</unitdate><container altrender="Flat OS Box 17" id="aspace_72397f40749d460137d39f5c6363cd93" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_03c4c33aabd2774e7b9cb66a2fa65ca3" parent="aspace_72397f40749d460137d39f5c6363cd93" type="Folder">9</container></did></c><c id="aspace_ref96" level="item"><did><unittitle>National Civil Liberties Bureau (2 items) (fliers)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_2e91d93701eb1ed22dc7c6a03a97877d" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_2d85e70e0be1cb60d0c451e6d6975806" parent="aspace_2e91d93701eb1ed22dc7c6a03a97877d" type="Folder">9</container></did></c><c id="aspace_ref169" level="item"><did><unittitle>National Committee Unemployed Councils of U.S. (leaflet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_a81b84cbbc91074dd12ec40cd76fd392" label="Mixed Materials [31142062671915]" type="Box">3</container><container id="aspace_564f41ac0b3c1815a53628cf80d3042e" parent="aspace_a81b84cbbc91074dd12ec40cd76fd392" type="Folder">3</container></did></c><c id="aspace_ref97" level="item"><did><unittitle>National Council for the Prevention of War (flier)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_294b147b06435d6e69d964311405fa43" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_2a881deac8c1bae5d36c8f1dfdea2507" parent="aspace_294b147b06435d6e69d964311405fa43" type="Folder">9</container></did></c><c id="aspace_ref151" level="item"><did><unittitle>National Council for the Prevention of War (leaflet)</unittitle><unitdate datechar="creation">1931</unitdate><container altrender="Flat OS Box 17" id="aspace_030d2393a5b454be6ef98d179c24245f" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_12c11b9987622ab0f1cb9971156a000e" parent="aspace_030d2393a5b454be6ef98d179c24245f" type="Folder">9</container></did></c><c id="aspace_ref98" level="item"><did><unittitle>National Council of Labour (flier)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_a18635def8a72d30a7df992005c1aa24" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_9c8d5fcadcdf57d44fd553b74c70a268" parent="aspace_a18635def8a72d30a7df992005c1aa24" type="Folder">9</container></did></c><c id="aspace_ref170" level="item"><did><unittitle>National Council for Universal and Unconditional Amnesty (leaflet)</unittitle><unitdate datechar="creation">circa 1976</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_1ca315f59f7ed32004c93113a1c7a4dc" label="Mixed Materials [31142062671915]" type="Box">3</container><container id="aspace_27c1380330351cfedb8d717563ca1ae8" parent="aspace_1ca315f59f7ed32004c93113a1c7a4dc" type="Folder">4</container></did></c><c id="aspace_ref99" level="item"><did><unittitle>National Federation for Constitutional Liberties (leaflet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_2b571a50662a0ceccba3f1aa19392c95" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_ad280cdcda15c2b9d0ebad8d1dfd5f11" parent="aspace_2b571a50662a0ceccba3f1aa19392c95" type="Folder">9</container></did></c><c id="aspace_ref152" level="item"><did><unittitle>National Federation for Constitutional Liberties (flier)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_d68e2f0aba3fb753a10fea76521d2f12" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_fd8e8856a05de43f928e9ace6e8d2526" parent="aspace_d68e2f0aba3fb753a10fea76521d2f12" type="Folder">9</container></did></c><c id="aspace_ref71" level="item"><did><unittitle>National Federation of Telephone Workers (<emph render="italic">The Telephone Worker</emph>)</unittitle><unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Flat OS Box 17" id="aspace_5f1dded8d69ab54534a3064d9009ac0d" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_f3ac2f5fc54187c06de79b16707750bf" parent="aspace_5f1dded8d69ab54534a3064d9009ac0d" type="Folder">6</container></did></c><c id="aspace_ref171" level="item"><did><unittitle>National Lawyers Guild (leaflet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_dde9991fd68dcd308b8c18b795fbc0c9" label="Mixed Materials [31142062671915]" type="Box">3</container><container id="aspace_a83d65f52b8a223a7055b3bc599c58fb" parent="aspace_dde9991fd68dcd308b8c18b795fbc0c9" type="Folder">5</container></did></c><c id="aspace_ref100" level="item"><did><unittitle>National Negro Congress (broadside)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_bf193b0a1f5eed886c4a03c2293a6be4" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_9a9896c36c7f1234217f9f3ef53ad13e" parent="aspace_bf193b0a1f5eed886c4a03c2293a6be4" type="Folder">6</container></did></c><c id="aspace_ref101" level="item"><did><unittitle>National Student League (flier)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_3ceece1eea3dca7271479ddf8e69f2d7" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_9956e0f64a1d94d1d183a062c739a701" parent="aspace_3ceece1eea3dca7271479ddf8e69f2d7" type="Folder">9</container></did></c><c id="aspace_bc66715f07c8787a300521aa42de0e78" level="file"><did><unittitle>Newspaper clippings, publications, prints: Labor, Mother Jones; The Coming Nation; der Triumph der Arbeit</unittitle><unitdate datechar="creation" normal="1892/1933" type="inclusive">1892-1933</unitdate><container altrender="Flat OS Box 17" id="aspace_94f4c0adc9a9193470fa97163ba38870" label="Mixed Materials [31142062882009]" type="Box">Shared Tamiment 010</container><container id="aspace_315f578425795a5b785aa75345ac27aa" parent="aspace_94f4c0adc9a9193470fa97163ba38870" type="Folder">1, 17</container></did></c><c id="aspace_ref173" level="item"><did><unittitle>New Haven Committee to Defend the Panthers (leaflet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_ed6930c0704e29eef6209941710af53b" label="Mixed Materials [31142062671915]" type="Box">3</container><container id="aspace_54363ad5af2c67794654f2b35d674bc2" parent="aspace_ed6930c0704e29eef6209941710af53b" type="Folder">6</container></did></c><c id="aspace_ref172" level="item"><did><unittitle>New Haven Panther Defense Committee (leaflet)</unittitle><unitdate datechar="creation">circa 1970</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_d75303fdc12177ef821e1fdff2efc439" label="Mixed Materials [31142062671915]" type="Box">3</container><container id="aspace_b533c62727e5f13e03cdf82e0445d266" parent="aspace_d75303fdc12177ef821e1fdff2efc439" type="Folder">7</container></did></c><c id="aspace_ref174" level="item"><did><unittitle>New Haven Panther Defense Committee (leaflet) I</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_e185e6da1fabe03f5195ee6e25cce3e1" label="Mixed Materials [31142062671915]" type="Box">3</container><container id="aspace_f03b2bc1e4f07ddb435d23f2b1ff21b7" parent="aspace_e185e6da1fabe03f5195ee6e25cce3e1" type="Folder">8</container></did></c><c id="aspace_ref175" level="item"><did><unittitle>New Haven Panther Defense Committee (leaflet) II</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_d7850a752068678a46c3ffce77947d89" label="Mixed Materials [31142062671915]" type="Box">3</container><container id="aspace_a26d354730316f6260e5ff237d5220cc" parent="aspace_d7850a752068678a46c3ffce77947d89" type="Folder">9</container></did></c><c id="aspace_ref176" level="item"><did><unittitle>New Mobilization Committee (brochure)</unittitle><unitdate datechar="creation">1969</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_ef3a7c213267175fd8f10d731ce4f5c9" label="Mixed Materials [31142062671915]" type="Box">3</container><container id="aspace_0a7a616436cba3000b583c7688539e20" parent="aspace_ef3a7c213267175fd8f10d731ce4f5c9" type="Folder">10</container></did></c><c id="aspace_ref102" level="item"><did><unittitle>New York Call (2 items) (commemorative checks)</unittitle><unitdate datechar="creation">1916</unitdate><container altrender="Flat OS Box 17" id="aspace_dbc800af27f7d108842eb00a7364d54e" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_7569ea8bbf5c1b9efef141e8128a64c6" parent="aspace_dbc800af27f7d108842eb00a7364d54e" type="Folder">9</container></did></c><c id="aspace_ref153" level="item"><did><unittitle>New York Call (leaflet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_390d265930adc600ce09fc6e47ffd9d1" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_12581570d547d527a9cd7e46864ff5ab" parent="aspace_390d265930adc600ce09fc6e47ffd9d1" type="Folder">9</container></did></c><c id="aspace_ref177" level="item"><did><unittitle>New York Call (publication)</unittitle><unitdate datechar="creation">1918</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_ec1306333f5bf38a96a0bc8369da8d54" label="Mixed Materials [31142062671915]" type="Box">3</container><container id="aspace_e1243015eddd214dd603f0f5130f2442" parent="aspace_ec1306333f5bf38a96a0bc8369da8d54" type="Folder">11</container></did></c><c id="aspace_ref103" level="item"><did><unittitle>New York Council for a Permanent FEPC (flier)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_8fc4de32a1b8c17234133888ac49546e" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_bd2bc76dc9d94ef1cf97428f15476d29" parent="aspace_8fc4de32a1b8c17234133888ac49546e" type="Folder">9</container></did></c><c id="aspace_ref129" level="item"><did><unittitle>New York Council for a Permanent FEPC (leaflet)</unittitle><unitdate datechar="creation">1946</unitdate><container altrender="Flat OS Box 17" id="aspace_ba740a4c8b3717101393c0f99761e255" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_06c47ee9b98cae7f59be6092aecbe327" parent="aspace_ba740a4c8b3717101393c0f99761e255" type="Folder">6</container></did></c><c id="aspace_ref201" level="file"><did><unittitle>New York Election Ballots: Assembly  Districts of New York (5 items)</unittitle><unitdate datechar="creation" normal="1895/1914" type="inclusive">1895-1914</unitdate><unitdate datechar="creation" normal="1895/1914" type="bulk">1895-1914</unitdate><container altrender="Flat OS Box 17" id="aspace_82f4767b53377b90e8a7643d8a5cd84b" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_2eaee84bd406435ede8dec1a89829820" parent="aspace_82f4767b53377b90e8a7643d8a5cd84b" type="Folder">9</container><container altrender="Oversize Folder - Half Case" id="aspace_68e8a064fcb407dea077ca8bca2032f2" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container></did></c><c id="aspace_ref203" level="file"><did><unittitle>New York Election Ballots: Borough of the Bronx: Calendar (1 item)</unittitle><unitdate datechar="creation" normal="1911/1911" type="inclusive">1911</unitdate><container altrender="Flat OS Box 17" id="aspace_9f61a9cfd1993c5094100fde822f5d30" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_20c8f9123623033afee14451e96e452d" parent="aspace_9f61a9cfd1993c5094100fde822f5d30" type="Folder">9</container><container altrender="Oversize Folder - Half Case" id="aspace_bfabc7f368dfb8c45429fc2ea69652b3" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container></did></c><c id="aspace_ref204" level="file"><did><unittitle>New York Election Ballots: County of Kings  (2 items)</unittitle><unitdate datechar="creation" normal="1908/1913" type="inclusive">1908-1913</unitdate><container altrender="Flat OS Box 17" id="aspace_f7daa9d7921cd836a918dec757535539" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_d90353508eabc6bdfad4279c1558fb5b" parent="aspace_f7daa9d7921cd836a918dec757535539" type="Folder">9</container><container altrender="Oversize Folder - Half Case" id="aspace_76cfe54e4b71703f71f90a1e434f3cd9" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container></did></c><c id="aspace_ref205" level="file"><did><unittitle>New York Election Ballots: County of Queens (2 items)</unittitle><unitdate datechar="creation" normal="1903/1904" type="inclusive">1903-1904</unitdate><container altrender="Flat OS Box 17" id="aspace_3c317d31b8fe4ede09e60ce20bf20da6" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_36974fb1e36f399c2c84fce7a4276dcb" parent="aspace_3c317d31b8fe4ede09e60ce20bf20da6" type="Folder">9</container><container altrender="Oversize Folder - Half Case" id="aspace_2ae775aa98952f6a171135b5ea3b5bc6" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container></did></c><c id="aspace_ref202" level="file"><did><unittitle>New York Election Ballots (no district)</unittitle><unitdate datechar="creation" normal="1908/1932" type="inclusive">1908-1932</unitdate><container altrender="Flat OS Box 17" id="aspace_30ac6a3bf6d4508d7d052a33471450a7" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_bd65ed9a2d5aee2780f479589751a695" parent="aspace_30ac6a3bf6d4508d7d052a33471450a7" type="Folder">9</container><container altrender="Oversize Folder - Half Case" id="aspace_11fa9e27368d8ef866016d98f66b4dbf" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container></did></c><c id="aspace_ref115" level="item"><did><unittitle>New York Labor Conference for Peace (leaflet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Oversize Folder - Half Case" id="aspace_e380e4a9675a0d6897d571e1189ea4df" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container></did></c><c id="aspace_ref217" level="file"><did><unittitle>New York SANE (Committee for a SANE Nuclear Policy) (placard)</unittitle><unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate><container altrender="Oversize Folder - Half Case" id="aspace_11a3e549a1e1b99274c5889967e4d0d3" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container></did></c><c id="aspace_ref116" level="item"><did><unittitle>November 4th Coalition (leaflet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Oversize Folder - Half Case" id="aspace_07220acc7f3a16c8f43e9bb7b6faac52" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container></did></c><c id="aspace_ref104" level="item"><did><unittitle>Oltrecortina (flier)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_5e587670fd1eaf37cc2e83aa0996a167" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_9d28d362b205cc6202dc0d8a74aa31c8" parent="aspace_5e587670fd1eaf37cc2e83aa0996a167" type="Folder">10</container></did></c><c id="aspace_ref105" level="item"><did><unittitle>Panther Defense Committee (flier)</unittitle><unitdate datechar="creation">circa 1970</unitdate><container altrender="Flat OS Box 17" id="aspace_9f5d2160b3e9c88d5baf2acdf3905de1" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_250f5902ee1198699be923c7a87f2bc3" parent="aspace_9f5d2160b3e9c88d5baf2acdf3905de1" type="Folder">10</container></did></c><c id="aspace_ref106" level="item"><did><unittitle>Parti Communiste Internationaliste (flier)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_0882f547663f48fde10cfa3370182498" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_be7722fcdb5187b2d086f84185f8b53f" parent="aspace_0882f547663f48fde10cfa3370182498" type="Folder">10</container></did></c><c id="aspace_ref178" level="item"><did><unittitle>Parti Communiste Internationaliste (leaflet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_9eceaf6069da257c41752d0f83be0116" label="Mixed Materials [31142062671915]" type="Box">3</container><container id="aspace_4e6ed76465bbf83c332b2fd7ba5311d3" parent="aspace_9eceaf6069da257c41752d0f83be0116" type="Folder">12</container></did></c><c id="aspace_ref117" level="item"><did><unittitle>Progressive Mine Workers of America: Women's Auxilary (leaflet)</unittitle><unitdate datechar="creation">1933</unitdate><container altrender="Oversize Folder - Half Case" id="aspace_9e7543327b96740c0975b0f25e996908" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container></did></c><c id="aspace_ref179" level="item"><did><unittitle>Progessive Party (leaflet)</unittitle><unitdate datechar="creation">circa 1952</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_ad5934f8886ddd627aa42c6f3c339d70" label="Mixed Materials [31142062671915]" type="Box">3</container><container id="aspace_caf453dd520c8321c9961af98de96fac" parent="aspace_ad5934f8886ddd627aa42c6f3c339d70" type="Folder">13</container></did></c><c id="aspace_ref180" level="item"><did><unittitle>Proletarian Unity League (booklet)</unittitle><unitdate datechar="creation">1975</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_ac9916c3759cce645fa83a613a83805c" label="Mixed Materials [31142062671915]" type="Box">3</container><container id="aspace_f3757347bc32e831af56418926d70b8a" parent="aspace_ac9916c3759cce645fa83a613a83805c" type="Folder">14</container></did></c><c id="aspace_ref107" level="item"><did><unittitle>Railway Labor Executives' Association (broadside)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_b01b0aa8223f4672c8e55f0a76392a1d" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_97c34baec0a4cca3fdfd95517120becf" parent="aspace_b01b0aa8223f4672c8e55f0a76392a1d" type="Folder">6</container></did></c><c id="aspace_ref118" level="item"><did><unittitle>Reichstag Fire Trial Anniversary Committee (advertisement)</unittitle><unitdate datechar="creation">1943</unitdate><container altrender="Oversize Folder - Half Case" id="aspace_50f01a67fe654107cd7e17079b30d9b4" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container></did></c><c id="aspace_ref223" level="item"><did><unittitle>Remember the Triangle Fire (posters)</unittitle><unitdate datechar="creation" normal="2011/2016" type="inclusive">2011-2016</unitdate><container altrender="Oversize Folder - Half Case" id="aspace_4a754739b8e82bc43418fdc9ee170672" label="Graphic Materials [31142062664985]" type="Flat-File-Folder">1 Left</container></did></c><c id="aspace_ref119" level="item"><did><unittitle>Resist (leaflet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Oversize Folder - Half Case" id="aspace_1cf4e4e5b2280b01cbd1697ea9c78794" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container></did></c><c id="aspace_ref181" level="item"><did><unittitle>Revolutionary Student Brigade (leaflet)</unittitle><unitdate datechar="creation">circa 1976</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_d56ff848fa16c2a66fe32ececc02c9f2" label="Mixed Materials [31142062671915]" type="Box">3</container><container id="aspace_21a53fd29bcf643cbf3783d1662a6a5b" parent="aspace_d56ff848fa16c2a66fe32ececc02c9f2" type="Folder">15</container></did></c><c id="aspace_ref182" level="item"><did><unittitle>Revolutionary Student Brigade (booklet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_17f05efa28844bf7c787db7e132410f3" label="Mixed Materials [31142062671915]" type="Box">3</container><container id="aspace_0048e30bc839f8c8b385687c93672bc0" parent="aspace_17f05efa28844bf7c787db7e132410f3" type="Folder">16</container></did></c><c id="aspace_ref183" level="item"><did><unittitle>Revolutionary Student Brigade (booklet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_5dafb296ca3e425953de1ede814c9ac5" label="Mixed Materials [31142062671915]" type="Box">3</container><container id="aspace_e0a8a733f6ad4d7de1e5e4e77c81059f" parent="aspace_5dafb296ca3e425953de1ede814c9ac5" type="Folder">17</container></did></c><c id="aspace_ref184" level="item"><did><unittitle>Revolutionary Student Brigade (pamphlet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_6c2e30078cc8d9276e1ee0845497f1e7" label="Mixed Materials [31142062671923]" type="Box">4</container><container id="aspace_60fa58d3abd3cca1d02293979574a4cb" parent="aspace_6c2e30078cc8d9276e1ee0845497f1e7" type="Folder">1</container></did></c><c id="aspace_ref185" level="item"><did><unittitle>Revolutionary Student Brigade/ Communist Youth Organization (leaflet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_5f15642d8054299e4925a724e097be14" label="Mixed Materials [31142062671923]" type="Box">4</container><container id="aspace_41f4e956bc05ea3db5fac7e8647cabbb" parent="aspace_5f15642d8054299e4925a724e097be14" type="Folder">2</container></did></c><c id="aspace_ref120" level="item"><did><unittitle>Revolutionary Union (leaflet)</unittitle><unitdate datechar="creation">1974</unitdate><container altrender="Oversize Folder - Half Case" id="aspace_b1f218830c88239596104640de9fa081" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container></did></c><c id="aspace_ref218" level="file"><did><unittitle>Sandanista National Liberation Front (banner)</unittitle><unitdate datechar="creation" normal="1889/1999" type="inclusive">undated</unitdate><container altrender="Oversize Folder - Full Case" id="aspace_59c7724043f9fe23a311132761b018cc" label="Mixed Materials [31142062665016]" type="Flat-File-Folder">10</container></did></c><c id="aspace_ref109" level="item"><did><unittitle>Scottish Socialist Summer School (leaflet)</unittitle><unitdate datechar="creation">1908</unitdate><container altrender="Flat OS Box 17" id="aspace_510dc89dc92aef569b893a9ff2105bec" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_200ae9e4a6b61e04b7d1a81ced959bb7" parent="aspace_510dc89dc92aef569b893a9ff2105bec" type="Folder">6</container></did></c><c id="aspace_ref215" level="file"><did><unittitle>Screen Actors Guild - American Federation of Television and Radio Artists (SAG-AFTRA) (placard)</unittitle><unitdate datechar="creation" normal="1889/1999" type="inclusive">undated</unitdate><container altrender="Oversize Folder - Half Case" id="aspace_ebd7f0786aabf1a0139062712474a940" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container></did></c><c id="aspace_ref68" level="item"><did><unittitle>Seeger, Pete (album jacket)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_0be0aa9e33e93700a19ad32dc47ce6e0" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_9856bf847a68b881512b6250b5945c63" parent="aspace_0be0aa9e33e93700a19ad32dc47ce6e0" type="Folder">10</container></did></c><c id="aspace_ref121" level="item"><did><unittitle>Self Defense Committee of the 17 Smith Act Victims (broadside)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Oversize Folder - Half Case" id="aspace_c2696a76f942e07d50e61673fd55a1a7" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container></did></c><c id="aspace_ref224" level="item"><did><unittitle>Social Service Employees Union, Local 371 (calendar)</unittitle><unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate><container altrender="Oversize Folder - Half Case" id="aspace_728c22ffca8a2890c4383a67fd2c574a" label="Graphic Materials [31142062664985]" type="Flat-File-Folder">1 Left</container></did></c><c id="aspace_ref186" level="item"><did><unittitle>Socialist Labour League (leaflet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_bf0fb6f4f937866f60ea5a15f3bfd5bd" label="Mixed Materials [31142062671923]" type="Box">4</container><container id="aspace_f8fc740b2ccc51f4fb645ef2bc1361b6" parent="aspace_bf0fb6f4f937866f60ea5a15f3bfd5bd" type="Folder">3</container></did></c><c id="aspace_ref187" level="item"><did><unittitle>Socialist Labour League (booklet)</unittitle><unitdate datechar="creation">1969</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_68c93befcef7fedc9d516b49c293d354" label="Mixed Materials [31142062671923]" type="Box">4</container><container id="aspace_187a4917b7650021cabbe55408a11a6e" parent="aspace_68c93befcef7fedc9d516b49c293d354" type="Folder">4</container></did></c><c id="aspace_ref188" level="item"><did><unittitle>Socialist Labour League (pamphlet)</unittitle><unitdate datechar="creation">circa 1965</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_bb5f54676e7a6af52671061ced81c1c0" label="Mixed Materials [31142062671923]" type="Box">4</container><container id="aspace_59c1242c50b783f1a2a468d3e529fc2a" parent="aspace_bb5f54676e7a6af52671061ced81c1c0" type="Folder">5</container></did></c><c id="aspace_ref189" level="item"><did><unittitle>Socialist Labor League (booklet)</unittitle><unitdate datechar="creation">1970</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_38d8fa5fc701508bd04b51d554f84066" label="Mixed Materials [31142062671923]" type="Box">4</container><container id="aspace_0717de9a45d1873c2b5cd68e33420ac4" parent="aspace_38d8fa5fc701508bd04b51d554f84066" type="Folder">6</container></did></c><c id="aspace_ref190" level="item"><did><unittitle>Socialist Labour League (pamphlet) I</unittitle><unitdate datechar="creation">1970</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_5fae9fdf3d512ff233c2957afd6d5962" label="Mixed Materials [31142062671923]" type="Box">4</container><container id="aspace_35573f1aa5a577356858e5962f5de63e" parent="aspace_5fae9fdf3d512ff233c2957afd6d5962" type="Folder">7</container></did></c><c id="aspace_ref191" level="item"><did><unittitle>Socialist Labour League (pamphlet) II</unittitle><unitdate datechar="creation">1970</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_b6ce44dbf3bfbba7b035e83a90396d51" label="Mixed Materials [31142062671923]" type="Box">4</container><container id="aspace_989395140930122640f1f44d0b57f990" parent="aspace_b6ce44dbf3bfbba7b035e83a90396d51" type="Folder">8</container></did></c><c id="aspace_ref108" level="item"><did><unittitle>Socialist Party (U.S.) (leaflet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_683a67e0e2238369136f876bd7388b4e" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_ee3c339d137e657a3f3c6723ee3f3a8d" parent="aspace_683a67e0e2238369136f876bd7388b4e" type="Folder">6</container></did></c><c id="aspace_ref207" level="file"><did><unittitle>Solidarity Day (24 items) (placards)</unittitle><unitdate datechar="creation" normal="1981/1981" type="inclusive">Sept 19 1981</unitdate><container altrender="Flat OS 21" id="aspace_7b9c963c64b6c0f4e8e13acf27abd2b3" label="Mixed Materials [31142062760007]" type="Box">Shared Tamiment MSXOS002</container><container id="aspace_fa4790ed3efdc6fbac21da38e4b2b159" parent="aspace_7b9c963c64b6c0f4e8e13acf27abd2b3" type="Folder">1</container><container altrender="Oversize Folder - Full Case" id="aspace_72a76ad8a400fb6e18fcb1c9c2b92efb" label="Mixed Materials [31142062665016]" type="Flat-File-Folder">10</container></did></c><c id="aspace_ref192" level="item"><did><unittitle>Solidarity London (brochure)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_3bf588c06259ea07ddc85b45240b4fde" label="Mixed Materials [31142062671923]" type="Box">4</container><container id="aspace_ca226284fcb30e97044290dce04451c4" parent="aspace_3bf588c06259ea07ddc85b45240b4fde" type="Folder">9</container></did></c><c id="aspace_ref110" level="item"><did><unittitle>Southern Summer School for Workers (2 items) (fliers)</unittitle><unitdate datechar="creation">1939-1941</unitdate><container altrender="Flat OS Box 17" id="aspace_11d0dd45ab41e010dd75b377f9b87ce3" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_acc2b28e56259443f214e19ea8643829" parent="aspace_11d0dd45ab41e010dd75b377f9b87ce3" type="Folder">10</container></did></c><c id="aspace_ref199" level="item"><did><unittitle>Springhill Mine Disaster: (<emph render="italic">The Springhill Record</emph>, publication)</unittitle><unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate><container altrender="Flat OS Box 17" id="aspace_79683246f9305069c2cda947ea75cab2" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_6a83fcb891980a803ca9ad574f566d21" parent="aspace_79683246f9305069c2cda947ea75cab2" type="Folder">8</container></did></c><c id="aspace_ref144" level="item"><did><unittitle>Syracuse Peace Council Bookstore (broadside)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_f8fb837c2937e521584fb8fd911d18c4" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_e923b4e6a18ff9c8f6a58578fee204c5" parent="aspace_f8fb837c2937e521584fb8fd911d18c4" type="Folder">6</container></did></c><c id="aspace_ref220" level="file"><did><unittitle>Tamiment Library for the Graduate Student Orgnaizing Committee (GSOC) (placard)</unittitle><unitdate datechar="creation" normal="2000/2009" type="inclusive">early 2000s</unitdate><container altrender="Oversize Folder - Half Case" id="aspace_be1ef7613629e191fd022fdecb22c537" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container></did></c><c id="aspace_ref193" level="item"><did><unittitle>Tribune (5 items) (pamphlets)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_355c34ffd7e88a27d269ded984fd6f91" label="Mixed Materials [31142062671923]" type="Box">4</container><container id="aspace_12a8f2b5217a463b55c2d94cc15f0824" parent="aspace_355c34ffd7e88a27d269ded984fd6f91" type="Folder">10</container></did></c><c id="aspace_ref54" level="item"><did><unittitle>United Automobile, Aerospace and Agricultural Implement Workers of America (UAW) (publication)</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container altrender="Flat OS Box 17" id="aspace_c2795392a10fb8692c176f65027754a0" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_63be328e8a83a938dedf1204bf45b35c" parent="aspace_c2795392a10fb8692c176f65027754a0" type="Folder">11</container></did></c><c id="aspace_ref213" level="file"><did><unittitle>United Automobile, Aerospace and Agricultural Implement Workers of America (UAW), District 65 (placard)</unittitle><unitdate datechar="creation" normal="1889/1999" type="inclusive">undated</unitdate><container altrender="Oversize Folder - Half Case" id="aspace_cbb2f73cb8621c9d754c93e763dbd3b4" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container></did></c><c id="aspace_ref149" level="item"><did><unittitle>United Federation of Teachers (publication)</unittitle><unitdate datechar="creation">1966</unitdate><container altrender="Flat OS Box 17" id="aspace_1b969c543ac742c63ca396f530e42765" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_e3ae739282a604c93a865560a04cdba1" parent="aspace_1b969c543ac742c63ca396f530e42765" type="Folder">11</container></did></c><c id="aspace_ref55" level="item"><did><unittitle>United Federation of Teachers (<emph render="italic">The United Teacher</emph>, photocopies)</unittitle><unitdate datechar="creation">1963</unitdate><container altrender="Flat OS Box 17" id="aspace_64e4878736fff41911cf5f0c581524d5" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_434dd32b931349a14e5430c7298b7770" parent="aspace_64e4878736fff41911cf5f0c581524d5" type="Folder">7</container></did></c><c id="aspace_ref194" level="item"><did><unittitle>United May Day Committee (leaflet)</unittitle><unitdate datechar="creation">circa 1976</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_4870e5f47d8386f33583502a78eec7e2" label="Mixed Materials [31142062671923]" type="Box">4</container><container id="aspace_1c4af67107a6b25a031761d8581d8565" parent="aspace_4870e5f47d8386f33583502a78eec7e2" type="Folder">11</container></did></c><c id="aspace_ref111" level="item"><did><unittitle>U.S.-China Frienship Association (flier)</unittitle><unitdate datechar="creation">circa 1971</unitdate><container altrender="Flat OS Box 17" id="aspace_4ec85c17f95db805762f35ba3ac51849" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_533ffb4c3307260da96c689c6fb9aba7" parent="aspace_4ec85c17f95db805762f35ba3ac51849" type="Folder">6</container></did></c><c id="aspace_ref112" level="item"><did><unittitle>Vietnam Solidarity Committee (flier)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_2c2484d12a2de6ca1af2f228582f5d3e" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_fdb993f131c2ad5321c875625e12a575" parent="aspace_2c2484d12a2de6ca1af2f228582f5d3e" type="Folder">11</container></did></c><c id="aspace_ref195" level="item"><did><unittitle>Vietnam Veterans Against the War (3 items) (leaflets)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_0ff0aa0d3dff858260672337d9213147" label="Mixed Materials [31142062671923]" type="Box">4</container><container id="aspace_202d30eea01b8a0c14e6496977a03d92" parent="aspace_0ff0aa0d3dff858260672337d9213147" type="Folder">12</container></did></c><c id="aspace_ref130" level="item"><did><unittitle>Woman's Trade Union League (leaflet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_97b93eab1b3fcc038104313dadd3e969" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_ddc12768f09b49374405625f13751932" parent="aspace_97b93eab1b3fcc038104313dadd3e969" type="Folder">12</container></did></c><c id="aspace_ref196" level="item"><did><unittitle>Workers' Committee Against Wage Controls (pamphlet)</unittitle><unitdate datechar="creation">1973</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_079cfddbeebce104100832ca471108ce" label="Mixed Materials [31142062671923]" type="Box">4</container><container id="aspace_782586d54b11e182830e52c46c38de75" parent="aspace_079cfddbeebce104100832ca471108ce" type="Folder">13</container></did></c><c id="aspace_ref113" level="item"><did><unittitle>Workers Defense Union (4 items) (leaflets)</unittitle><unitdate datechar="creation">circa 1919</unitdate><container altrender="Flat OS Box 17" id="aspace_ddebc0b9b241f58a0fc9f010de4d0803" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_06dbec23f63bd9ad52c4fdfcb564232f" parent="aspace_ddebc0b9b241f58a0fc9f010de4d0803" type="Folder">12</container></did></c><c id="aspace_ref61" level="item"><did><unittitle>World War Objectors (New York, NY) (leaflet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_aa3bae4023b4ef46468b617193e86f43" label="Mixed Materials [31142062671907]" type="Box">2</container><container id="aspace_2f1d44e1d0ef22627b57e25bbd46906c" parent="aspace_aa3bae4023b4ef46468b617193e86f43" type="Folder">6</container></did></c><c id="aspace_ref197" level="item"><did><unittitle>Young Lords Organization (leaflet)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_23d53abf941eeb453777afb88f2edfe7" label="Mixed Materials [31142062671923]" type="Box">4</container><container id="aspace_310c8a4ce7d04237f060fab59ed271b4" parent="aspace_23d53abf941eeb453777afb88f2edfe7" type="Folder">14</container></did></c><c id="aspace_ref198" level="item"><did><unittitle>Young Workers' Liberation League (4 items) (assorted leaflets)</unittitle><unitdate datechar="creation">1970</unitdate><container altrender="Box - 13.25 x 16.5" id="aspace_7f7f0f59a18423ca0f844774a384a3e5" label="Mixed Materials [31142062671923]" type="Box">4</container><container id="aspace_99d5c50a15ce1fef5ebd2cadffedaccc" parent="aspace_7f7f0f59a18423ca0f844774a384a3e5" type="Folder">15</container></did></c><c id="aspace_ref114" level="item"><did><unittitle>Young Worker on May Day (flier)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_64014f8682ac68e6d15f26d0824c6355" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_f02c61bdd1bb8ef8fc57c9e32831bf2a" parent="aspace_64014f8682ac68e6d15f26d0824c6355" type="Folder">12</container></did></c><c id="aspace_ref69" level="item"><did><unittitle>Zapata, Emiliano (publication)</unittitle><unitdate datechar="creation">1973</unitdate><container altrender="Flat OS Box 17" id="aspace_9ef93b9a6a017d3136109c64da2eb288" label="Mixed Materials [31142062734994]" type="Box">1</container><container id="aspace_9319df518fe2b8eccfd5aaa70e5a6589" parent="aspace_9ef93b9a6a017d3136109c64da2eb288" type="Folder">12</container></did></c></dsc>
-</archdesc>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref143" level="item">
+        <did>
+          <unittitle>1199: Strike, 1959 (40 years later) (brochure)</unittitle>
+          <unitdate datechar="creation">1999</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_3c0a034a89fbe9abbb75d35e17546fe5" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_1586fe4b630dcbfc513f75f603f429e9" parent="aspace_3c0a034a89fbe9abbb75d35e17546fe5" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref74" level="item">
+        <did>
+          <unittitle>A. Seehof and Co. Verlag (Berlin, Germany)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_3e015873f8b584417d66240683b33263" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_d0e488da25524c3d30c215678c4bcab0" parent="aspace_3e015873f8b584417d66240683b33263" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref76" level="item">
+        <did>
+          <unittitle>All-Russian Council of Peasant Disputes (leaflet)</unittitle>
+          <unitdate datechar="creation">1917</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_00096dc1f660557a8deb13ebc701b483" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_285782968a3ab0c52b40d2febce78afc" parent="aspace_00096dc1f660557a8deb13ebc701b483" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref42" level="item">
+        <did>
+          <unittitle>Amalgamated Clothing Workers of America (article)</unittitle>
+          <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_7afa2fbff3de757a12e77f2b72858327" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_bfb7c02497f390e783008709a6bb6695" parent="aspace_7afa2fbff3de757a12e77f2b72858327" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref150" level="item">
+        <did>
+          <unittitle>Amalgamated Clothing Workers of America: Sydney Hillman (publication)</unittitle>
+          <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_2cee076a686975e6fe0fe9a722905128" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_89b6dea4d6b90dc7467bc80c2613e4f9" parent="aspace_2cee076a686975e6fe0fe9a722905128" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref43" level="item">
+        <did>
+          <unittitle>Amalgamated Lithographers of America: Local 1 (New York, NY) (publication)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_417805c16839c8ec8be22e7044221520" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_752ecb2c0dbeb71070dd596f4387daf9" parent="aspace_417805c16839c8ec8be22e7044221520" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref44" level="item">
+        <did>
+          <unittitle>Amalgamated Meat Cutters and Butcher Workmen of North America: Local 1 (publication)</unittitle>
+          <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_c75d63a1a956a3e6287ff862dc8a01cd" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_8d0a372c69c9cd2e4c5be70ad18265d5" parent="aspace_c75d63a1a956a3e6287ff862dc8a01cd" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref219" level="file">
+        <did>
+          <unittitle>Amalgamated Clothing and Textile Wokers Union (ACTWU) (placard)</unittitle>
+          <unitdate datechar="creation" normal="1889/1999" type="inclusive">undated</unitdate>
+          <container altrender="Oversize Folder - Half Case" id="aspace_bd644c256dc5fd605714da3b10b865d4" label="Mixed Materials [31142062664993]" type="Flat-File-Folder">5 Right</container>
+        </did>
+      </c>
+      <c id="aspace_ref75" level="item">
+        <did>
+          <unittitle>America First Committee (broadside)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_75b4bdaeb41cc41d4d2b20f0cb9dce2a" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_6579ba04f46afc78e76c629fa653dee2" parent="aspace_75b4bdaeb41cc41d4d2b20f0cb9dce2a" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref222" level="file">
+        <did>
+          <unittitle>American Civil Liberties Union 75th Anniversary Calendar</unittitle>
+          <unitdate datechar="creation">1995</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_4c01085cad5ac2de65a39e0366238f69" label="Mixed Materials [31142062759256]" type="Box">Shared Tamiment MSOS006</container>
+        </did>
+      </c>
+      <c id="aspace_ref77" level="item">
+        <did>
+          <unittitle>American Committee on Africa (flier)</unittitle>
+          <unitdate datechar="creation">1967</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_aae4aed3ebe778a9d9f7c6aab88928bd" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_b97ca0fca7044e6287dc21c0b833a311" parent="aspace_aae4aed3ebe778a9d9f7c6aab88928bd" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref208" level="file">
+        <did>
+          <unittitle>American Federation of Labor - Congress of Industrial Organizations (7 items) (placards)</unittitle>
+          <unitdate datechar="creation" normal="1889/1999" type="inclusive">1960-1983; undated</unitdate>
+          <container altrender="Flat OS 21" id="aspace_f56a861d91a304775772c10465b5216a" label="Mixed Materials [31142062760007]" type="Box">Shared Tamiment MSXOS002</container>
+          <container id="aspace_1b68744ca4b4e0a89876097bbb6f40ac" parent="aspace_f56a861d91a304775772c10465b5216a" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref45" level="item">
+        <did>
+          <unittitle>American Federation of Teachers (educational packet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_99f82f865c4a549cb1c7631b3f9e276c" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_08519b3749af39e336e8b132193b63b2" parent="aspace_99f82f865c4a549cb1c7631b3f9e276c" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref78" level="item">
+        <did>
+          <unittitle>American Labor Party (3 items) (fliers)</unittitle>
+          <unitdate datechar="creation">1949, undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_919bbfd1790887e82db4a0616f87ff3c" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_b2f887cb50801929aef5b39a8084cbe0" parent="aspace_919bbfd1790887e82db4a0616f87ff3c" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref122" level="item">
+        <did>
+          <unittitle>American Labor Party (broadside)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_856ec3a1fa432199bebcadfacbaadb69" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_8845fd1e3f0e09a786315ce5de54cb39" parent="aspace_856ec3a1fa432199bebcadfacbaadb69" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref154" level="item">
+        <did>
+          <unittitle>American Labor Party (<emph render="italic">Railroad Workers Link</emph> special issue New York City Elections)</unittitle>
+          <unitdate datechar="creation">1949</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_042cd172acd6275b2e4ff7aefc168eb2" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_253a8927c9484630eada303a9954b44a" parent="aspace_042cd172acd6275b2e4ff7aefc168eb2" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref166" level="item">
+        <did>
+          <unittitle>American Labor Party: New York State (issue of <emph render="italic">Political Action</emph> newsletter)</unittitle>
+          <unitdate datechar="creation">1955</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_c7a0ab7c2cc1ed30f2c196cd78f16e69" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_2da0551e8b3f1886d6d51e72d268ff76" parent="aspace_c7a0ab7c2cc1ed30f2c196cd78f16e69" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref79" level="item">
+        <did>
+          <unittitle>American League Against War and Fascism (flier)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_c12019f0ccbad64f0f19b64e031ef05d" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_5562bbf4a6f096df3c7c8d0fa4f7b9f0" parent="aspace_c12019f0ccbad64f0f19b64e031ef05d" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref80" level="item">
+        <did>
+          <unittitle>American Lumberman (reprint)</unittitle>
+          <unitdate datechar="creation">1910</unitdate>
+          <container altrender="Oversize Folder - Half Case" id="aspace_eef19a3da03410ab2c6e9272be1350a4" label="Mixed Materials [31142062664993]" type="Flat-File-Folder">5 Right</container>
+        </did>
+      </c>
+      <c id="aspace_ref81" level="item">
+        <did>
+          <unittitle>American Peace Mobilization (2 items) (leaflets)</unittitle>
+          <unitdate datechar="creation">1941</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_29b3bac367a8e637f6d0cdd9432fbc0b" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_58e4551a80873b65e069aba8e9faf7b6" parent="aspace_29b3bac367a8e637f6d0cdd9432fbc0b" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref82" level="item">
+        <did>
+          <unittitle>Americas Future, Inc. (leaflet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_56ce2dee54cdbef592e3ee09024a57ea" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_73aecf655b3405d379c6d667dd7891ed" parent="aspace_56ce2dee54cdbef592e3ee09024a57ea" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref145" level="item">
+        <did>
+          <unittitle>Anarchist Group of America and Canada: "Who Are the Real Enemies of the Working Class?" (leaflet)</unittitle>
+          <unitdate datechar="creation">1921</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_3465af0ee5ad484a66457a3abf723713" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_385f1de9fb8014c27ddb6946df9a0c57" parent="aspace_3465af0ee5ad484a66457a3abf723713" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref167" level="item">
+        <did>
+          <unittitle>Anti-Imperialist Activists (pamphlet) </unittitle>
+          <unitdate datechar="creation">1980</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_3171d0e36289f5eb9ddd263eef94a6d1" label="Mixed Materials [31142062671915]" type="Box">3</container>
+          <container id="aspace_af027b8c4b2873ad3788010de062d3ff" parent="aspace_3171d0e36289f5eb9ddd263eef94a6d1" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref168" level="file">
+        <did>
+          <unittitle>Basta Ya! (booklet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_69884410dd40ceec96d6a2d05e1f974b" label="Mixed Materials [31142062671915]" type="Box">3</container>
+          <container id="aspace_2980cd8791cd6157407526226d360316" parent="aspace_69884410dd40ceec96d6a2d05e1f974b" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref57" level="item">
+        <did>
+          <unittitle>Black Panthers: Committee to Defend the Panthers, Committee to Defend the Panther 21 (publication)</unittitle>
+          <unitdate datechar="creation">circa 1970s</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_7f4fde609221e3859d98c6d282cd9db6" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_6f4eeb1a1c85eb1651f16d9f436fe103" parent="aspace_7f4fde609221e3859d98c6d282cd9db6" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref131" level="item">
+        <did>
+          <unittitle>Black Workers Organizing Committee (publication)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_dcd1a0d47096d88ed81dbedf6197832a" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_6eb7069bea667ed33df6974a6a9f3f0b" parent="aspace_dcd1a0d47096d88ed81dbedf6197832a" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref132" level="item">
+        <did>
+          <unittitle>Bridges-Robertson-Schmidt Defense Committee (leaflet)</unittitle>
+          <unitdate datechar="creation">circa 1936</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_082a5c1a7cf7a024cb7607ee7356145d" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_93ab9726ea1856a0c2d4712d9dc3b430" parent="aspace_082a5c1a7cf7a024cb7607ee7356145d" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref140" level="item">
+        <did>
+          <unittitle>Bridges-Robertson-Schmidt Defense Committee (leaflet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Oversize Folder - Half Case" id="aspace_3ccc8ddadf938fe999de3a581b22064c" label="Mixed Materials [31142062664993]" type="Flat-File-Folder">5 Right</container>
+        </did>
+      </c>
+      <c id="aspace_ref133" level="item">
+        <did>
+          <unittitle>Brookwood School (article)</unittitle>
+          <unitdate datechar="creation">1924</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_ec0e9078200868b33aaa1ea29849063f" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_327c115a0e9fd26495c6734f50835c18" parent="aspace_ec0e9078200868b33aaa1ea29849063f" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref124" level="item">
+        <did>
+          <unittitle>China Campaign Committee (flier)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_166f4e71639eebad6a986a8fcad0273a" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_c19b9bf1abd372044243080a357e4a0f" parent="aspace_166f4e71639eebad6a986a8fcad0273a" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref160" level="item">
+        <did>
+          <unittitle>Citizens' Committee for the Election of Elizabeth Gurley Flynn to Congress (Bronx, NY) (circular letter)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_3ba84182b9ebd98305e9d7e638d240d9" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_ca6c25ca6f1ca7f9e4462068f422a0ed" parent="aspace_3ba84182b9ebd98305e9d7e638d240d9" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref134" level="item">
+        <did>
+          <unittitle>Civil Rights Congress (2 items) (leaflets)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_6f6f7d9dd027b76a432b4998fe018628" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_81acbae9be8b2ef9efa54e17375e9317" parent="aspace_6f6f7d9dd027b76a432b4998fe018628" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref155" level="item">
+        <did>
+          <unittitle>Civil Rights Congress (<emph render="italic">Pittsburgh Freedom News</emph> edition)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_5ea011f79d0c4c472fbdbcae06cb8961" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_ac2f33bd1fac77f4ee1fad2d2a3212f8" parent="aspace_5ea011f79d0c4c472fbdbcae06cb8961" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref210" level="file">
+        <did>
+          <unittitle>Coalition of Labor Union Women (placard)</unittitle>
+          <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+          <container altrender="Oversize Folder - Half Case" id="aspace_1f5e522e0e97c40de25a6d3b2e2cb24a" label="Mixed Materials [31142062664993]" type="Flat-File-Folder">5 Right</container>
+        </did>
+      </c>
+      <c id="aspace_ref221" level="file">
+        <did>
+          <unittitle>El Comite pro Huelga de Nueva York (poster in Spanish)</unittitle>
+          <unitdate datechar="creation" normal="1934/1939" type="inclusive">circa 1934-1939</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_74ced6396ae07425a63b1297729a6021" label="Mixed Materials [31142062759256]" type="Box">Shared Tamiment MSOS006</container>
+        </did>
+      </c>
+      <c id="aspace_ref125" level="item">
+        <did>
+          <unittitle>Committee for Maritime Unity (flier)</unittitle>
+          <unitdate datechar="creation">1946</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_2bc4ebe8cfa014d7aceb30660381038e" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_18d3f6a3adcbc980e41a13c98086b08d" parent="aspace_2bc4ebe8cfa014d7aceb30660381038e" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref135" level="item">
+        <did>
+          <unittitle>Committee for Maritime Unity (<emph render="italic">Maritime Unity Bulletin</emph>, 2 items)</unittitle>
+          <unitdate datechar="creation">1946</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_1d8347323833213bdf3a5a798cc33f19" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_7afbc9c5a3a543fd342023f5bdecd4c7" parent="aspace_1d8347323833213bdf3a5a798cc33f19" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref142" level="item">
+        <did>
+          <unittitle>Committee for Maritime Unity (leaflet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Oversize Folder - Half Case" id="aspace_c1d97d67fd7999e1b625a4e2d6a8110e" label="Mixed Materials [31142062664993]" type="Flat-File-Folder">5 Right</container>
+        </did>
+      </c>
+      <c id="aspace_ref141" level="item">
+        <did>
+          <unittitle>Committee of Martime Unions (broadside)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Oversize Folder - Half Case" id="aspace_1cde6c90533db8d4786a72dff4470f92" label="Mixed Materials [31142062664993]" type="Flat-File-Folder">5 Right</container>
+        </did>
+      </c>
+      <c id="aspace_ref136" level="item">
+        <did>
+          <unittitle>Committee on Militarism in Education (leaflet)</unittitle>
+          <unitdate datechar="creation">1937</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_499a7664927b26625fd85f12a0f6e5e2" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_8afc7ce8e40486d9324488fe9729a22b" parent="aspace_499a7664927b26625fd85f12a0f6e5e2" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref137" level="item">
+        <did>
+          <unittitle>Commonwealth College (3 items) (leaflets)</unittitle>
+          <unitdate datechar="creation">1923, undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_583f7834e9f0398c44cf7b8dd73d42d1" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_2af7955428ad21310b503954be927ee3" parent="aspace_583f7834e9f0398c44cf7b8dd73d42d1" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref138" level="item">
+        <did>
+          <unittitle>Communist Party of Australia (publication)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_778e40cc0b59f51d3db69ca52162200f" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_239703b22d232413bf9799e888ba3812" parent="aspace_778e40cc0b59f51d3db69ca52162200f" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref126" level="item">
+        <did>
+          <unittitle>Communist Party of Great Britain (leaflet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_6b145c04396fdacd7fe87662444f8391" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_ded15baef94d28fb60175ebcb1a6d498" parent="aspace_6b145c04396fdacd7fe87662444f8391" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref216" level="file">
+        <did>
+          <unittitle>Compressed Air and Free Air, Shaft, Tunnel, Foundation, Caisson, Subway, Cofferdam, Sewer Construction Workers of New York &amp; New Jersey States &amp; Vicinity, Local 147 (Sandhogs) (placard)</unittitle>
+          <unitdate datechar="creation" normal="1889/1999" type="inclusive">undated</unitdate>
+          <container altrender="Oversize Folder - Half Case" id="aspace_4fbeffb65f4e539c37fc7df936d67fbb" label="Mixed Materials [31142062664993]" type="Flat-File-Folder">5 Right</container>
+        </did>
+      </c>
+      <c id="aspace_ref209" level="file">
+        <did>
+          <unittitle>Congress of Racial Equality (placard)</unittitle>
+          <unitdate datechar="creation" normal="1889/1999" type="inclusive">undated</unitdate>
+          <container altrender="Flat OS 21" id="aspace_949c0a8ef4ae6c9e2dbfe8d5eb7c56ba" label="Mixed Materials [31142062760007]" type="Box">Shared Tamiment MSXOS002</container>
+          <container id="aspace_d2f2f786ae43ff5ecb7d6cc674b58adf" parent="aspace_949c0a8ef4ae6c9e2dbfe8d5eb7c56ba" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref127" level="item">
+        <did>
+          <unittitle>Co-operative Commonwealth Federation (Canada) (2 items) (fliers)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_f455d0558c8ba1c46c09aa87d2c8fb2a" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_aa716561ef686f4006d35b16d16ef70f" parent="aspace_f455d0558c8ba1c46c09aa87d2c8fb2a" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref139" level="item">
+        <did>
+          <unittitle>Co-operative Commonwealth Federation (Canada) (leaflet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_b16c4bbdcb8ce456eb686709aa909d5f" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_1768a0c7b9dcd1ef05f2ec0e6cb82061" parent="aspace_b16c4bbdcb8ce456eb686709aa909d5f" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref211" level="file">
+        <did>
+          <unittitle>Daily News Strike (placards)</unittitle>
+          <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+          <container altrender="Flat OS 21" id="aspace_3ba24d8107a15036df35fe03e2d8067b" label="Mixed Materials [31142062760007]" type="Box">Shared Tamiment MSXOS002</container>
+          <container id="aspace_ad992a348edd6b5a6ef135307e769e11" parent="aspace_3ba24d8107a15036df35fe03e2d8067b" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref83" level="item">
+        <did>
+          <unittitle>Debs Freedom Conference (leaflet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_f2fb6211e2a48451f39fd65ef772feed" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_96ee423d148c1f9ae4af969e6c8f9b2d" parent="aspace_f2fb6211e2a48451f39fd65ef772feed" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref58" level="item">
+        <did>
+          <unittitle>Defense Committee for the Prisoners of Texas (leaflet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_bf0a8722b31bbd9de7f93f9953f3ed49" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_cabf984026da6c7446b6266d668b555e" parent="aspace_bf0a8722b31bbd9de7f93f9953f3ed49" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref84" level="item">
+        <did>
+          <unittitle>Fabian Society (leaflet)</unittitle>
+          <unitdate datechar="creation">1920</unitdate>
+          <container id="aspace_d06ba09d37b990f68bf9bbcd52667413" label="Mixed Materials" type="flat-file">6</container>
+          <container id="aspace_f666ae5953fd00f96331bd6786155b2d" parent="aspace_d06ba09d37b990f68bf9bbcd52667413" type="drawer">14</container>
+          <container id="aspace_3bdaff04f3e8dbdba671a8e117dac191" parent="aspace_f666ae5953fd00f96331bd6786155b2d" type="Folder">A-M</container>
+        </did>
+      </c>
+      <c id="aspace_ref164" level="item">
+        <did>
+          <unittitle>Farmers' Educational Fund (Denver, CO) (<emph render="italic">Unity Builds Democracy! Don't Plow it Under!</emph> pamphlet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_a49e5bffd677596867f5b446d1adfc68" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_3b1bed4bb2abec1a676e284f09b25086" parent="aspace_a49e5bffd677596867f5b446d1adfc68" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref146" level="item">
+        <did>
+          <unittitle>Feuilleton (publication)</unittitle>
+          <unitdate datechar="creation">1914</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_e8352f6df6b2c5158b231716595ce81d" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_daa4ce11ad0770d6b716a496d126ef6f" parent="aspace_e8352f6df6b2c5158b231716595ce81d" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref85" level="item">
+        <did>
+          <unittitle>Friends of Malatesta (publication)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_1bbd8925d539fc8f332b0c1c79543d26" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_29a3c119c16029ab5c76b4fe1d70c1e2" parent="aspace_1bbd8925d539fc8f332b0c1c79543d26" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref70" level="item">
+        <did>
+          <unittitle>Gompers, Samuel (2 items) (Samuel Gompers-Labor Memorial, souvenir brochures)</unittitle>
+          <unitdate datechar="creation">1933</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_812367e3bc25b5d13f771fdaff8e3e3e" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_e79ab94395ac4ab6538d07ce7049a99d" parent="aspace_812367e3bc25b5d13f771fdaff8e3e3e" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref47" level="item">
+        <did>
+          <unittitle>Industrial Workers of the World (2 items) (leaflets)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_7b5e52409b82a3e6093ab2f877eb14a8" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_a12f6128b1507f6e935a63f2c1e30a26" parent="aspace_7b5e52409b82a3e6093ab2f877eb14a8" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref148" level="item">
+        <did>
+          <unittitle>Industrial Workers of the World (2 items) (leaflets)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_8f071db453302643f3a46f931d75cdfc" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_28284c6d2cf235e2131cba88e5e492b0" parent="aspace_8f071db453302643f3a46f931d75cdfc" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ab6b95abab734e993b35d2c674360db5" level="file">
+        <did>
+          <unittitle>Industrial Workers of the World: Informational calendars</unittitle>
+          <unitdate datechar="creation" normal="1972/1974" type="inclusive">1972-1974</unitdate>
+          <container altrender="Flat OS 21" id="aspace_779bb11f81ce1d78a06dcfac90d03e94" label="Mixed Materials [31142062882330]" type="Box">Shared Tamiment 016</container>
+          <container id="aspace_dfcfd565af1835dfa7cc14864cf21c23" parent="aspace_779bb11f81ce1d78a06dcfac90d03e94" type="Folder">8-10</container>
+        </did>
+      </c>
+      <c id="aspace_ref206" level="item">
+        <did>
+          <unittitle>Institute for American Democracy (poster)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_01c699edcd16b7105479c95c1b972f69" label="Mixed Materials" type="flat-file">6</container>
+          <container id="aspace_aae064cf45c48b3df4d01b43cdb6cfd7" parent="aspace_01c699edcd16b7105479c95c1b972f69" type="drawer">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref48" level="item">
+        <did>
+          <unittitle>International Brotherhood of Teamsters, Chauffeurs, Warehousemen and Helpers of America: Warehouse and Distribution Workers, Local 688 (commemorative publication)</unittitle>
+          <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_109d356fcd25f5a6db2d9348ba8cd490" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_7df69d510c7abd9b9819929c97172a72" parent="aspace_109d356fcd25f5a6db2d9348ba8cd490" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref163" level="item">
+        <did>
+          <unittitle>International Committee of the Fourth International (London) (leaflet)</unittitle>
+          <unitdate datechar="creation">1976</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_dfcf31743f3bf5165c2cd8d317a2952e" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_eb91f8650f02fc65e27d5b7567e6776c" parent="aspace_dfcf31743f3bf5165c2cd8d317a2952e" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref89" level="item">
+        <did>
+          <unittitle>International Labor Defense (2 items) (fliers)</unittitle>
+          <unitdate datechar="creation">1938</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_3102e2bff05e06a12f7ae54a52dc5518" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_72c9e2594e56329bca834d601c9e222b" parent="aspace_3102e2bff05e06a12f7ae54a52dc5518" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref49" level="item">
+        <did>
+          <unittitle>International Ladies' Garment Workers' Union ("The Big Shot" ILGWU Super-Kid Convention Issue)</unittitle>
+          <unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_2524c179348219738ca8a2ffc0ae48f5" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_a2d1036fb4ca0db4a1c9846cd4ba7630" parent="aspace_2524c179348219738ca8a2ffc0ae48f5" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref165" level="item">
+        <did>
+          <unittitle>International Ladies' Garment Workers' Union (<emph render="italic">Daily News</emph> newspaper clipping)</unittitle>
+          <unitdate datechar="creation">1939</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_c52e3b4aea399bf75609dee28f426b26" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_0999702c6260cbb73cc49b2e579cedd7" parent="aspace_c52e3b4aea399bf75609dee28f426b26" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref156" level="item">
+        <did>
+          <unittitle>International Ladies' Garment Workers' Union (Pins and Needles publication)</unittitle>
+          <unitdate datechar="creation">1938</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_764be7ede80d3a88c794c55ba91da616" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_ecdd82985d03cfaaa7e1c07f6ae5b1c2" parent="aspace_764be7ede80d3a88c794c55ba91da616" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref157" level="item">
+        <did>
+          <unittitle>International Ladies' Garment Workers' Union ("The Triangle Fire" article)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_fe1dc8724d09039c4bad856da70aaa7e" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_a962ddd247ec1bd4218ac49676c37404" parent="aspace_fe1dc8724d09039c4bad856da70aaa7e" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref162" level="item">
+        <did>
+          <unittitle>International Ladies' Garment Workers' Union (Union Label advertisement)</unittitle>
+          <unitdate datechar="creation">circa 1975</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_0949636bfdc077f74416eccf2b0819de" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_99382fe2814d065f085e64c8931b080e" parent="aspace_0949636bfdc077f74416eccf2b0819de" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref90" level="item">
+        <did>
+          <unittitle>International Ladies' Garment Workers' Union: Local 89 (New York, NY) (leaflet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_761295769e38f3a17e5ebb3353b2018c" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_dea8786db10eeca68849381a93e06ac2" parent="aspace_761295769e38f3a17e5ebb3353b2018c" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref60" level="item">
+        <did>
+          <unittitle>Jewish Daily Forward (anniversary program)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_688e4638ec98270b98579a0ac77a6935" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_51eaa10d23d541aa9a076f734cdbb76c" parent="aspace_688e4638ec98270b98579a0ac77a6935" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref86" level="item">
+        <did>
+          <unittitle>Labor Committee for Peaceful Alternatives (flier)</unittitle>
+          <unitdate datechar="creation">circa 1955</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_7cd8ee89df1edd9c38be5139fc03f741" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_7ae4b1fe906d9fee02e2e1f4a4ee50e1" parent="aspace_7cd8ee89df1edd9c38be5139fc03f741" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref87" level="item">
+        <did>
+          <unittitle>Labor League  for Thomas and Nelson (leaflet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_ea79b7a869687dc0860111e0a930f5ed" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_5a637a69736ccc712a1ea790bf0ac2a5" parent="aspace_ea79b7a869687dc0860111e0a930f5ed" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref158" level="item">
+        <did>
+          <unittitle>Labour Party of Great Britain (13 items)</unittitle>
+          <unitdate datechar="creation">1937-1950, undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_5ef5ecb31feefda0fb853f79dd78cd5e" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_bcc0924f5366456c0bc593cf2eab09e2" parent="aspace_5ef5ecb31feefda0fb853f79dd78cd5e" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref73" level="item">
+        <did>
+          <unittitle>Labour Party of Great Britain (7 items)</unittitle>
+          <unitdate datechar="creation">1937-1950, undated</unitdate>
+          <container altrender="Oversize Folder - Half Case" id="aspace_2ac38b8d905eb07a7880cd23a1415f48" label="Mixed Materials [31142062665008]" type="Flat-File-Folder">9 Right</container>
+          <container id="aspace_12683250d8b9aff6d7ff712062b1f7ad" parent="aspace_2ac38b8d905eb07a7880cd23a1415f48" type="drawer">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref59" level="item">
+        <did>
+          <unittitle>"The Laurelled Chefs D'oeuvre D'art" (Paris Exhibition) (pamphlet)</unittitle>
+          <unitdate datechar="creation">1889</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_c1910991362c437054f26d8c3a0503a0" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_7c4bd42b3be7f408e4de0b33a9ec5eaa" parent="aspace_c1910991362c437054f26d8c3a0503a0" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref91" level="item">
+        <did>
+          <unittitle>League for Industrial Democracy (brochure)</unittitle>
+          <unitdate datechar="creation">circa 1937</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_a26b803b3416ba74ac7d87830ef6ba09" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_e50b4854107679cd517b73bb3d6363ee" parent="aspace_a26b803b3416ba74ac7d87830ef6ba09" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref92" level="item">
+        <did>
+          <unittitle>Liberal Party (brochure)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_8c1bc4a39f5b3c575d3a15174b67b63a" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_5b3978976f94be9b46b1cf8c918ee10b" parent="aspace_8c1bc4a39f5b3c575d3a15174b67b63a" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref161" level="item">
+        <did>
+          <unittitle>Liberal Party: Goldstein, Jonah J.<emph render="italic"> For a Better Living in a Greater City</emph> (comic book)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_222cec9600e09af41411176c17d26929" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_4efc42f03b754066bdecf42780f1e4a1" parent="aspace_222cec9600e09af41411176c17d26929" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref93" level="item">
+        <did>
+          <unittitle>Matteotti League (flier)</unittitle>
+          <unitdate datechar="creation">undated </unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_cce146a76aee08477a12adc0eeb2bd5c" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_ba44202ed55da0d718cdb994e6e2adcf" parent="aspace_cce146a76aee08477a12adc0eeb2bd5c" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref94" level="item">
+        <did>
+          <unittitle>Medical Bureau and North American Committee to Aid Spanish Democracy (2 items) (fliers)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_abd2ad947dc49a40cdf565a82e7bd79d" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_2a953fcbd752fb039e11882fad544cf3" parent="aspace_abd2ad947dc49a40cdf565a82e7bd79d" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref95" level="item">
+        <did>
+          <unittitle>National Assembly of Democratic Rights (broadside)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_b24efe99489d7abe7df389f9a36b5352" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_fbba5bafe4ba03dc37872440ddad26b7" parent="aspace_b24efe99489d7abe7df389f9a36b5352" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref65" level="item">
+        <did>
+          <unittitle>National Child Labor Committee (leaflet)</unittitle>
+          <unitdate datechar="creation" normal="1928/1928" type="inclusive">1928</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_72397f40749d460137d39f5c6363cd93" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_03c4c33aabd2774e7b9cb66a2fa65ca3" parent="aspace_72397f40749d460137d39f5c6363cd93" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref96" level="item">
+        <did>
+          <unittitle>National Civil Liberties Bureau (2 items) (fliers)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_2e91d93701eb1ed22dc7c6a03a97877d" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_2d85e70e0be1cb60d0c451e6d6975806" parent="aspace_2e91d93701eb1ed22dc7c6a03a97877d" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref169" level="item">
+        <did>
+          <unittitle>National Committee Unemployed Councils of U.S. (leaflet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_a81b84cbbc91074dd12ec40cd76fd392" label="Mixed Materials [31142062671915]" type="Box">3</container>
+          <container id="aspace_564f41ac0b3c1815a53628cf80d3042e" parent="aspace_a81b84cbbc91074dd12ec40cd76fd392" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref97" level="item">
+        <did>
+          <unittitle>National Council for the Prevention of War (flier)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_294b147b06435d6e69d964311405fa43" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_2a881deac8c1bae5d36c8f1dfdea2507" parent="aspace_294b147b06435d6e69d964311405fa43" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref151" level="item">
+        <did>
+          <unittitle>National Council for the Prevention of War (leaflet)</unittitle>
+          <unitdate datechar="creation">1931</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_030d2393a5b454be6ef98d179c24245f" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_12c11b9987622ab0f1cb9971156a000e" parent="aspace_030d2393a5b454be6ef98d179c24245f" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref98" level="item">
+        <did>
+          <unittitle>National Council of Labour (flier)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_a18635def8a72d30a7df992005c1aa24" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_9c8d5fcadcdf57d44fd553b74c70a268" parent="aspace_a18635def8a72d30a7df992005c1aa24" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref170" level="item">
+        <did>
+          <unittitle>National Council for Universal and Unconditional Amnesty (leaflet)</unittitle>
+          <unitdate datechar="creation">circa 1976</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_1ca315f59f7ed32004c93113a1c7a4dc" label="Mixed Materials [31142062671915]" type="Box">3</container>
+          <container id="aspace_27c1380330351cfedb8d717563ca1ae8" parent="aspace_1ca315f59f7ed32004c93113a1c7a4dc" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref99" level="item">
+        <did>
+          <unittitle>National Federation for Constitutional Liberties (leaflet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_2b571a50662a0ceccba3f1aa19392c95" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_ad280cdcda15c2b9d0ebad8d1dfd5f11" parent="aspace_2b571a50662a0ceccba3f1aa19392c95" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref152" level="item">
+        <did>
+          <unittitle>National Federation for Constitutional Liberties (flier)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_d68e2f0aba3fb753a10fea76521d2f12" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_fd8e8856a05de43f928e9ace6e8d2526" parent="aspace_d68e2f0aba3fb753a10fea76521d2f12" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref71" level="item">
+        <did>
+          <unittitle>National Federation of Telephone Workers (<emph render="italic">The Telephone Worker</emph>)</unittitle>
+          <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_5f1dded8d69ab54534a3064d9009ac0d" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_f3ac2f5fc54187c06de79b16707750bf" parent="aspace_5f1dded8d69ab54534a3064d9009ac0d" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref171" level="item">
+        <did>
+          <unittitle>National Lawyers Guild (leaflet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_dde9991fd68dcd308b8c18b795fbc0c9" label="Mixed Materials [31142062671915]" type="Box">3</container>
+          <container id="aspace_a83d65f52b8a223a7055b3bc599c58fb" parent="aspace_dde9991fd68dcd308b8c18b795fbc0c9" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref100" level="item">
+        <did>
+          <unittitle>National Negro Congress (broadside)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_bf193b0a1f5eed886c4a03c2293a6be4" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_9a9896c36c7f1234217f9f3ef53ad13e" parent="aspace_bf193b0a1f5eed886c4a03c2293a6be4" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref101" level="item">
+        <did>
+          <unittitle>National Student League (flier)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_3ceece1eea3dca7271479ddf8e69f2d7" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_9956e0f64a1d94d1d183a062c739a701" parent="aspace_3ceece1eea3dca7271479ddf8e69f2d7" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_bc66715f07c8787a300521aa42de0e78" level="file">
+        <did>
+          <unittitle>Newspaper clippings, publications, prints: Labor, Mother Jones; The Coming Nation; der Triumph der Arbeit</unittitle>
+          <unitdate datechar="creation" normal="1892/1933" type="inclusive">1892-1933</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_94f4c0adc9a9193470fa97163ba38870" label="Mixed Materials [31142062882009]" type="Box">Shared Tamiment 010</container>
+          <container id="aspace_315f578425795a5b785aa75345ac27aa" parent="aspace_94f4c0adc9a9193470fa97163ba38870" type="Folder">1, 17</container>
+        </did>
+      </c>
+      <c id="aspace_ref173" level="item">
+        <did>
+          <unittitle>New Haven Committee to Defend the Panthers (leaflet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_ed6930c0704e29eef6209941710af53b" label="Mixed Materials [31142062671915]" type="Box">3</container>
+          <container id="aspace_54363ad5af2c67794654f2b35d674bc2" parent="aspace_ed6930c0704e29eef6209941710af53b" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref172" level="item">
+        <did>
+          <unittitle>New Haven Panther Defense Committee (leaflet)</unittitle>
+          <unitdate datechar="creation">circa 1970</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_d75303fdc12177ef821e1fdff2efc439" label="Mixed Materials [31142062671915]" type="Box">3</container>
+          <container id="aspace_b533c62727e5f13e03cdf82e0445d266" parent="aspace_d75303fdc12177ef821e1fdff2efc439" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref174" level="item">
+        <did>
+          <unittitle>New Haven Panther Defense Committee (leaflet) I</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_e185e6da1fabe03f5195ee6e25cce3e1" label="Mixed Materials [31142062671915]" type="Box">3</container>
+          <container id="aspace_f03b2bc1e4f07ddb435d23f2b1ff21b7" parent="aspace_e185e6da1fabe03f5195ee6e25cce3e1" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref175" level="item">
+        <did>
+          <unittitle>New Haven Panther Defense Committee (leaflet) II</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_d7850a752068678a46c3ffce77947d89" label="Mixed Materials [31142062671915]" type="Box">3</container>
+          <container id="aspace_a26d354730316f6260e5ff237d5220cc" parent="aspace_d7850a752068678a46c3ffce77947d89" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref176" level="item">
+        <did>
+          <unittitle>New Mobilization Committee (brochure)</unittitle>
+          <unitdate datechar="creation">1969</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_ef3a7c213267175fd8f10d731ce4f5c9" label="Mixed Materials [31142062671915]" type="Box">3</container>
+          <container id="aspace_0a7a616436cba3000b583c7688539e20" parent="aspace_ef3a7c213267175fd8f10d731ce4f5c9" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref102" level="item">
+        <did>
+          <unittitle>New York Call (2 items) (commemorative checks)</unittitle>
+          <unitdate datechar="creation">1916</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_dbc800af27f7d108842eb00a7364d54e" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_7569ea8bbf5c1b9efef141e8128a64c6" parent="aspace_dbc800af27f7d108842eb00a7364d54e" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref153" level="item">
+        <did>
+          <unittitle>New York Call (leaflet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_390d265930adc600ce09fc6e47ffd9d1" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_12581570d547d527a9cd7e46864ff5ab" parent="aspace_390d265930adc600ce09fc6e47ffd9d1" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref177" level="item">
+        <did>
+          <unittitle>New York Call (publication)</unittitle>
+          <unitdate datechar="creation">1918</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_ec1306333f5bf38a96a0bc8369da8d54" label="Mixed Materials [31142062671915]" type="Box">3</container>
+          <container id="aspace_e1243015eddd214dd603f0f5130f2442" parent="aspace_ec1306333f5bf38a96a0bc8369da8d54" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref103" level="item">
+        <did>
+          <unittitle>New York Council for a Permanent FEPC (flier)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_8fc4de32a1b8c17234133888ac49546e" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_bd2bc76dc9d94ef1cf97428f15476d29" parent="aspace_8fc4de32a1b8c17234133888ac49546e" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref129" level="item">
+        <did>
+          <unittitle>New York Council for a Permanent FEPC (leaflet)</unittitle>
+          <unitdate datechar="creation">1946</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_ba740a4c8b3717101393c0f99761e255" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_06c47ee9b98cae7f59be6092aecbe327" parent="aspace_ba740a4c8b3717101393c0f99761e255" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref201" level="file">
+        <did>
+          <unittitle>New York Election Ballots: Assembly  Districts of New York (5 items)</unittitle>
+          <unitdate datechar="creation" normal="1895/1914" type="inclusive">1895-1914</unitdate>
+          <unitdate datechar="creation" normal="1895/1914" type="bulk">1895-1914</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_82f4767b53377b90e8a7643d8a5cd84b" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_2eaee84bd406435ede8dec1a89829820" parent="aspace_82f4767b53377b90e8a7643d8a5cd84b" type="Folder">9</container>
+          <container altrender="Oversize Folder - Half Case" id="aspace_68e8a064fcb407dea077ca8bca2032f2" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container>
+        </did>
+      </c>
+      <c id="aspace_ref203" level="file">
+        <did>
+          <unittitle>New York Election Ballots: Borough of the Bronx: Calendar (1 item)</unittitle>
+          <unitdate datechar="creation" normal="1911/1911" type="inclusive">1911</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_9f61a9cfd1993c5094100fde822f5d30" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_20c8f9123623033afee14451e96e452d" parent="aspace_9f61a9cfd1993c5094100fde822f5d30" type="Folder">9</container>
+          <container altrender="Oversize Folder - Half Case" id="aspace_bfabc7f368dfb8c45429fc2ea69652b3" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container>
+        </did>
+      </c>
+      <c id="aspace_ref204" level="file">
+        <did>
+          <unittitle>New York Election Ballots: County of Kings  (2 items)</unittitle>
+          <unitdate datechar="creation" normal="1908/1913" type="inclusive">1908-1913</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_f7daa9d7921cd836a918dec757535539" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_d90353508eabc6bdfad4279c1558fb5b" parent="aspace_f7daa9d7921cd836a918dec757535539" type="Folder">9</container>
+          <container altrender="Oversize Folder - Half Case" id="aspace_76cfe54e4b71703f71f90a1e434f3cd9" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container>
+        </did>
+      </c>
+      <c id="aspace_ref205" level="file">
+        <did>
+          <unittitle>New York Election Ballots: County of Queens (2 items)</unittitle>
+          <unitdate datechar="creation" normal="1903/1904" type="inclusive">1903-1904</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_3c317d31b8fe4ede09e60ce20bf20da6" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_36974fb1e36f399c2c84fce7a4276dcb" parent="aspace_3c317d31b8fe4ede09e60ce20bf20da6" type="Folder">9</container>
+          <container altrender="Oversize Folder - Half Case" id="aspace_2ae775aa98952f6a171135b5ea3b5bc6" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container>
+        </did>
+      </c>
+      <c id="aspace_ref202" level="file">
+        <did>
+          <unittitle>New York Election Ballots (no district)</unittitle>
+          <unitdate datechar="creation" normal="1908/1932" type="inclusive">1908-1932</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_30ac6a3bf6d4508d7d052a33471450a7" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_bd65ed9a2d5aee2780f479589751a695" parent="aspace_30ac6a3bf6d4508d7d052a33471450a7" type="Folder">9</container>
+          <container altrender="Oversize Folder - Half Case" id="aspace_11fa9e27368d8ef866016d98f66b4dbf" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container>
+        </did>
+      </c>
+      <c id="aspace_ref115" level="item">
+        <did>
+          <unittitle>New York Labor Conference for Peace (leaflet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Oversize Folder - Half Case" id="aspace_e380e4a9675a0d6897d571e1189ea4df" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container>
+        </did>
+      </c>
+      <c id="aspace_ref217" level="file">
+        <did>
+          <unittitle>New York SANE (Committee for a SANE Nuclear Policy) (placard)</unittitle>
+          <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+          <container altrender="Oversize Folder - Half Case" id="aspace_11a3e549a1e1b99274c5889967e4d0d3" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container>
+        </did>
+      </c>
+      <c id="aspace_ref116" level="item">
+        <did>
+          <unittitle>November 4th Coalition (leaflet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Oversize Folder - Half Case" id="aspace_07220acc7f3a16c8f43e9bb7b6faac52" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container>
+        </did>
+      </c>
+      <c id="aspace_ref104" level="item">
+        <did>
+          <unittitle>Oltrecortina (flier)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_5e587670fd1eaf37cc2e83aa0996a167" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_9d28d362b205cc6202dc0d8a74aa31c8" parent="aspace_5e587670fd1eaf37cc2e83aa0996a167" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref105" level="item">
+        <did>
+          <unittitle>Panther Defense Committee (flier)</unittitle>
+          <unitdate datechar="creation">circa 1970</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_9f5d2160b3e9c88d5baf2acdf3905de1" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_250f5902ee1198699be923c7a87f2bc3" parent="aspace_9f5d2160b3e9c88d5baf2acdf3905de1" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref106" level="item">
+        <did>
+          <unittitle>Parti Communiste Internationaliste (flier)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_0882f547663f48fde10cfa3370182498" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_be7722fcdb5187b2d086f84185f8b53f" parent="aspace_0882f547663f48fde10cfa3370182498" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref178" level="item">
+        <did>
+          <unittitle>Parti Communiste Internationaliste (leaflet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_9eceaf6069da257c41752d0f83be0116" label="Mixed Materials [31142062671915]" type="Box">3</container>
+          <container id="aspace_4e6ed76465bbf83c332b2fd7ba5311d3" parent="aspace_9eceaf6069da257c41752d0f83be0116" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref117" level="item">
+        <did>
+          <unittitle>Progressive Mine Workers of America: Women's Auxilary (leaflet)</unittitle>
+          <unitdate datechar="creation">1933</unitdate>
+          <container altrender="Oversize Folder - Half Case" id="aspace_9e7543327b96740c0975b0f25e996908" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container>
+        </did>
+      </c>
+      <c id="aspace_ref179" level="item">
+        <did>
+          <unittitle>Progessive Party (leaflet)</unittitle>
+          <unitdate datechar="creation">circa 1952</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_ad5934f8886ddd627aa42c6f3c339d70" label="Mixed Materials [31142062671915]" type="Box">3</container>
+          <container id="aspace_caf453dd520c8321c9961af98de96fac" parent="aspace_ad5934f8886ddd627aa42c6f3c339d70" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref180" level="item">
+        <did>
+          <unittitle>Proletarian Unity League (booklet)</unittitle>
+          <unitdate datechar="creation">1975</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_ac9916c3759cce645fa83a613a83805c" label="Mixed Materials [31142062671915]" type="Box">3</container>
+          <container id="aspace_f3757347bc32e831af56418926d70b8a" parent="aspace_ac9916c3759cce645fa83a613a83805c" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref107" level="item">
+        <did>
+          <unittitle>Railway Labor Executives' Association (broadside)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_b01b0aa8223f4672c8e55f0a76392a1d" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_97c34baec0a4cca3fdfd95517120becf" parent="aspace_b01b0aa8223f4672c8e55f0a76392a1d" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref118" level="item">
+        <did>
+          <unittitle>Reichstag Fire Trial Anniversary Committee (advertisement)</unittitle>
+          <unitdate datechar="creation">1943</unitdate>
+          <container altrender="Oversize Folder - Half Case" id="aspace_50f01a67fe654107cd7e17079b30d9b4" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container>
+        </did>
+      </c>
+      <c id="aspace_ref223" level="item">
+        <did>
+          <unittitle>Remember the Triangle Fire (posters)</unittitle>
+          <unitdate datechar="creation" normal="2011/2016" type="inclusive">2011-2016</unitdate>
+          <container altrender="Oversize Folder - Half Case" id="aspace_4a754739b8e82bc43418fdc9ee170672" label="Graphic Materials [31142062664985]" type="Flat-File-Folder">1 Left</container>
+        </did>
+      </c>
+      <c id="aspace_ref119" level="item">
+        <did>
+          <unittitle>Resist (leaflet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Oversize Folder - Half Case" id="aspace_1cf4e4e5b2280b01cbd1697ea9c78794" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container>
+        </did>
+      </c>
+      <c id="aspace_ref181" level="item">
+        <did>
+          <unittitle>Revolutionary Student Brigade (leaflet)</unittitle>
+          <unitdate datechar="creation">circa 1976</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_d56ff848fa16c2a66fe32ececc02c9f2" label="Mixed Materials [31142062671915]" type="Box">3</container>
+          <container id="aspace_21a53fd29bcf643cbf3783d1662a6a5b" parent="aspace_d56ff848fa16c2a66fe32ececc02c9f2" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref182" level="item">
+        <did>
+          <unittitle>Revolutionary Student Brigade (booklet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_17f05efa28844bf7c787db7e132410f3" label="Mixed Materials [31142062671915]" type="Box">3</container>
+          <container id="aspace_0048e30bc839f8c8b385687c93672bc0" parent="aspace_17f05efa28844bf7c787db7e132410f3" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref183" level="item">
+        <did>
+          <unittitle>Revolutionary Student Brigade (booklet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_5dafb296ca3e425953de1ede814c9ac5" label="Mixed Materials [31142062671915]" type="Box">3</container>
+          <container id="aspace_e0a8a733f6ad4d7de1e5e4e77c81059f" parent="aspace_5dafb296ca3e425953de1ede814c9ac5" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref184" level="item">
+        <did>
+          <unittitle>Revolutionary Student Brigade (pamphlet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_6c2e30078cc8d9276e1ee0845497f1e7" label="Mixed Materials [31142062671923]" type="Box">4</container>
+          <container id="aspace_60fa58d3abd3cca1d02293979574a4cb" parent="aspace_6c2e30078cc8d9276e1ee0845497f1e7" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref185" level="item">
+        <did>
+          <unittitle>Revolutionary Student Brigade/ Communist Youth Organization (leaflet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_5f15642d8054299e4925a724e097be14" label="Mixed Materials [31142062671923]" type="Box">4</container>
+          <container id="aspace_41f4e956bc05ea3db5fac7e8647cabbb" parent="aspace_5f15642d8054299e4925a724e097be14" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref120" level="item">
+        <did>
+          <unittitle>Revolutionary Union (leaflet)</unittitle>
+          <unitdate datechar="creation">1974</unitdate>
+          <container altrender="Oversize Folder - Half Case" id="aspace_b1f218830c88239596104640de9fa081" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container>
+        </did>
+      </c>
+      <c id="aspace_ref218" level="file">
+        <did>
+          <unittitle>Sandanista National Liberation Front (banner)</unittitle>
+          <unitdate datechar="creation" normal="1889/1999" type="inclusive">undated</unitdate>
+          <container altrender="Oversize Folder - Full Case" id="aspace_59c7724043f9fe23a311132761b018cc" label="Mixed Materials [31142062665016]" type="Flat-File-Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref109" level="item">
+        <did>
+          <unittitle>Scottish Socialist Summer School (leaflet)</unittitle>
+          <unitdate datechar="creation">1908</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_510dc89dc92aef569b893a9ff2105bec" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_200ae9e4a6b61e04b7d1a81ced959bb7" parent="aspace_510dc89dc92aef569b893a9ff2105bec" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref215" level="file">
+        <did>
+          <unittitle>Screen Actors Guild - American Federation of Television and Radio Artists (SAG-AFTRA) (placard)</unittitle>
+          <unitdate datechar="creation" normal="1889/1999" type="inclusive">undated</unitdate>
+          <container altrender="Oversize Folder - Half Case" id="aspace_ebd7f0786aabf1a0139062712474a940" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container>
+        </did>
+      </c>
+      <c id="aspace_ref68" level="item">
+        <did>
+          <unittitle>Seeger, Pete (album jacket)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_0be0aa9e33e93700a19ad32dc47ce6e0" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_9856bf847a68b881512b6250b5945c63" parent="aspace_0be0aa9e33e93700a19ad32dc47ce6e0" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref121" level="item">
+        <did>
+          <unittitle>Self Defense Committee of the 17 Smith Act Victims (broadside)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Oversize Folder - Half Case" id="aspace_c2696a76f942e07d50e61673fd55a1a7" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container>
+        </did>
+      </c>
+      <c id="aspace_ref224" level="item">
+        <did>
+          <unittitle>Social Service Employees Union, Local 371 (calendar)</unittitle>
+          <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+          <container altrender="Oversize Folder - Half Case" id="aspace_728c22ffca8a2890c4383a67fd2c574a" label="Graphic Materials [31142062664985]" type="Flat-File-Folder">1 Left</container>
+        </did>
+      </c>
+      <c id="aspace_ref186" level="item">
+        <did>
+          <unittitle>Socialist Labour League (leaflet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_bf0fb6f4f937866f60ea5a15f3bfd5bd" label="Mixed Materials [31142062671923]" type="Box">4</container>
+          <container id="aspace_f8fc740b2ccc51f4fb645ef2bc1361b6" parent="aspace_bf0fb6f4f937866f60ea5a15f3bfd5bd" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref187" level="item">
+        <did>
+          <unittitle>Socialist Labour League (booklet)</unittitle>
+          <unitdate datechar="creation">1969</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_68c93befcef7fedc9d516b49c293d354" label="Mixed Materials [31142062671923]" type="Box">4</container>
+          <container id="aspace_187a4917b7650021cabbe55408a11a6e" parent="aspace_68c93befcef7fedc9d516b49c293d354" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref188" level="item">
+        <did>
+          <unittitle>Socialist Labour League (pamphlet)</unittitle>
+          <unitdate datechar="creation">circa 1965</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_bb5f54676e7a6af52671061ced81c1c0" label="Mixed Materials [31142062671923]" type="Box">4</container>
+          <container id="aspace_59c1242c50b783f1a2a468d3e529fc2a" parent="aspace_bb5f54676e7a6af52671061ced81c1c0" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref189" level="item">
+        <did>
+          <unittitle>Socialist Labor League (booklet)</unittitle>
+          <unitdate datechar="creation">1970</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_38d8fa5fc701508bd04b51d554f84066" label="Mixed Materials [31142062671923]" type="Box">4</container>
+          <container id="aspace_0717de9a45d1873c2b5cd68e33420ac4" parent="aspace_38d8fa5fc701508bd04b51d554f84066" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref190" level="item">
+        <did>
+          <unittitle>Socialist Labour League (pamphlet) I</unittitle>
+          <unitdate datechar="creation">1970</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_5fae9fdf3d512ff233c2957afd6d5962" label="Mixed Materials [31142062671923]" type="Box">4</container>
+          <container id="aspace_35573f1aa5a577356858e5962f5de63e" parent="aspace_5fae9fdf3d512ff233c2957afd6d5962" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref191" level="item">
+        <did>
+          <unittitle>Socialist Labour League (pamphlet) II</unittitle>
+          <unitdate datechar="creation">1970</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_b6ce44dbf3bfbba7b035e83a90396d51" label="Mixed Materials [31142062671923]" type="Box">4</container>
+          <container id="aspace_989395140930122640f1f44d0b57f990" parent="aspace_b6ce44dbf3bfbba7b035e83a90396d51" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref108" level="item">
+        <did>
+          <unittitle>Socialist Party (U.S.) (leaflet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_683a67e0e2238369136f876bd7388b4e" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_ee3c339d137e657a3f3c6723ee3f3a8d" parent="aspace_683a67e0e2238369136f876bd7388b4e" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref207" level="file">
+        <did>
+          <unittitle>Solidarity Day (24 items) (placards)</unittitle>
+          <unitdate datechar="creation" normal="1981/1981" type="inclusive">Sept 19 1981</unitdate>
+          <container altrender="Flat OS 21" id="aspace_7b9c963c64b6c0f4e8e13acf27abd2b3" label="Mixed Materials [31142062760007]" type="Box">Shared Tamiment MSXOS002</container>
+          <container id="aspace_fa4790ed3efdc6fbac21da38e4b2b159" parent="aspace_7b9c963c64b6c0f4e8e13acf27abd2b3" type="Folder">1</container>
+          <container altrender="Oversize Folder - Full Case" id="aspace_72a76ad8a400fb6e18fcb1c9c2b92efb" label="Mixed Materials [31142062665016]" type="Flat-File-Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref192" level="item">
+        <did>
+          <unittitle>Solidarity London (brochure)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_3bf588c06259ea07ddc85b45240b4fde" label="Mixed Materials [31142062671923]" type="Box">4</container>
+          <container id="aspace_ca226284fcb30e97044290dce04451c4" parent="aspace_3bf588c06259ea07ddc85b45240b4fde" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref110" level="item">
+        <did>
+          <unittitle>Southern Summer School for Workers (2 items) (fliers)</unittitle>
+          <unitdate datechar="creation">1939-1941</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_11d0dd45ab41e010dd75b377f9b87ce3" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_acc2b28e56259443f214e19ea8643829" parent="aspace_11d0dd45ab41e010dd75b377f9b87ce3" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref199" level="item">
+        <did>
+          <unittitle>Springhill Mine Disaster: (<emph render="italic">The Springhill Record</emph>, publication)</unittitle>
+          <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_79683246f9305069c2cda947ea75cab2" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_6a83fcb891980a803ca9ad574f566d21" parent="aspace_79683246f9305069c2cda947ea75cab2" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref144" level="item">
+        <did>
+          <unittitle>Syracuse Peace Council Bookstore (broadside)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_f8fb837c2937e521584fb8fd911d18c4" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_e923b4e6a18ff9c8f6a58578fee204c5" parent="aspace_f8fb837c2937e521584fb8fd911d18c4" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref220" level="file">
+        <did>
+          <unittitle>Tamiment Library for the Graduate Student Orgnaizing Committee (GSOC) (placard)</unittitle>
+          <unitdate datechar="creation" normal="2000/2009" type="inclusive">early 2000s</unitdate>
+          <container altrender="Oversize Folder - Half Case" id="aspace_be1ef7613629e191fd022fdecb22c537" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container>
+        </did>
+      </c>
+      <c id="aspace_ref193" level="item">
+        <did>
+          <unittitle>Tribune (5 items) (pamphlets)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_355c34ffd7e88a27d269ded984fd6f91" label="Mixed Materials [31142062671923]" type="Box">4</container>
+          <container id="aspace_12a8f2b5217a463b55c2d94cc15f0824" parent="aspace_355c34ffd7e88a27d269ded984fd6f91" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref54" level="item">
+        <did>
+          <unittitle>United Automobile, Aerospace and Agricultural Implement Workers of America (UAW) (publication)</unittitle>
+          <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_c2795392a10fb8692c176f65027754a0" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_63be328e8a83a938dedf1204bf45b35c" parent="aspace_c2795392a10fb8692c176f65027754a0" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref213" level="file">
+        <did>
+          <unittitle>United Automobile, Aerospace and Agricultural Implement Workers of America (UAW), District 65 (placard)</unittitle>
+          <unitdate datechar="creation" normal="1889/1999" type="inclusive">undated</unitdate>
+          <container altrender="Oversize Folder - Half Case" id="aspace_cbb2f73cb8621c9d754c93e763dbd3b4" label="Mixed Materials [31142062664985]" type="Flat-File-Folder">1 Left</container>
+        </did>
+      </c>
+      <c id="aspace_ref149" level="item">
+        <did>
+          <unittitle>United Federation of Teachers (publication)</unittitle>
+          <unitdate datechar="creation">1966</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_1b969c543ac742c63ca396f530e42765" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_e3ae739282a604c93a865560a04cdba1" parent="aspace_1b969c543ac742c63ca396f530e42765" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref55" level="item">
+        <did>
+          <unittitle>United Federation of Teachers (<emph render="italic">The United Teacher</emph>, photocopies)</unittitle>
+          <unitdate datechar="creation">1963</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_64e4878736fff41911cf5f0c581524d5" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_434dd32b931349a14e5430c7298b7770" parent="aspace_64e4878736fff41911cf5f0c581524d5" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref194" level="item">
+        <did>
+          <unittitle>United May Day Committee (leaflet)</unittitle>
+          <unitdate datechar="creation">circa 1976</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_4870e5f47d8386f33583502a78eec7e2" label="Mixed Materials [31142062671923]" type="Box">4</container>
+          <container id="aspace_1c4af67107a6b25a031761d8581d8565" parent="aspace_4870e5f47d8386f33583502a78eec7e2" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref111" level="item">
+        <did>
+          <unittitle>U.S.-China Frienship Association (flier)</unittitle>
+          <unitdate datechar="creation">circa 1971</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_4ec85c17f95db805762f35ba3ac51849" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_533ffb4c3307260da96c689c6fb9aba7" parent="aspace_4ec85c17f95db805762f35ba3ac51849" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref112" level="item">
+        <did>
+          <unittitle>Vietnam Solidarity Committee (flier)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_2c2484d12a2de6ca1af2f228582f5d3e" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_fdb993f131c2ad5321c875625e12a575" parent="aspace_2c2484d12a2de6ca1af2f228582f5d3e" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref195" level="item">
+        <did>
+          <unittitle>Vietnam Veterans Against the War (3 items) (leaflets)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_0ff0aa0d3dff858260672337d9213147" label="Mixed Materials [31142062671923]" type="Box">4</container>
+          <container id="aspace_202d30eea01b8a0c14e6496977a03d92" parent="aspace_0ff0aa0d3dff858260672337d9213147" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref130" level="item">
+        <did>
+          <unittitle>Woman's Trade Union League (leaflet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_97b93eab1b3fcc038104313dadd3e969" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_ddc12768f09b49374405625f13751932" parent="aspace_97b93eab1b3fcc038104313dadd3e969" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref196" level="item">
+        <did>
+          <unittitle>Workers' Committee Against Wage Controls (pamphlet)</unittitle>
+          <unitdate datechar="creation">1973</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_079cfddbeebce104100832ca471108ce" label="Mixed Materials [31142062671923]" type="Box">4</container>
+          <container id="aspace_782586d54b11e182830e52c46c38de75" parent="aspace_079cfddbeebce104100832ca471108ce" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref113" level="item">
+        <did>
+          <unittitle>Workers Defense Union (4 items) (leaflets)</unittitle>
+          <unitdate datechar="creation">circa 1919</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_ddebc0b9b241f58a0fc9f010de4d0803" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_06dbec23f63bd9ad52c4fdfcb564232f" parent="aspace_ddebc0b9b241f58a0fc9f010de4d0803" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref61" level="item">
+        <did>
+          <unittitle>World War Objectors (New York, NY) (leaflet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_aa3bae4023b4ef46468b617193e86f43" label="Mixed Materials [31142062671907]" type="Box">2</container>
+          <container id="aspace_2f1d44e1d0ef22627b57e25bbd46906c" parent="aspace_aa3bae4023b4ef46468b617193e86f43" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref197" level="item">
+        <did>
+          <unittitle>Young Lords Organization (leaflet)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_23d53abf941eeb453777afb88f2edfe7" label="Mixed Materials [31142062671923]" type="Box">4</container>
+          <container id="aspace_310c8a4ce7d04237f060fab59ed271b4" parent="aspace_23d53abf941eeb453777afb88f2edfe7" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref198" level="item">
+        <did>
+          <unittitle>Young Workers' Liberation League (4 items) (assorted leaflets)</unittitle>
+          <unitdate datechar="creation">1970</unitdate>
+          <container altrender="Box - 13.25 x 16.5" id="aspace_7f7f0f59a18423ca0f844774a384a3e5" label="Mixed Materials [31142062671923]" type="Box">4</container>
+          <container id="aspace_99d5c50a15ce1fef5ebd2cadffedaccc" parent="aspace_7f7f0f59a18423ca0f844774a384a3e5" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref114" level="item">
+        <did>
+          <unittitle>Young Worker on May Day (flier)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_64014f8682ac68e6d15f26d0824c6355" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_f02c61bdd1bb8ef8fc57c9e32831bf2a" parent="aspace_64014f8682ac68e6d15f26d0824c6355" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref69" level="item">
+        <did>
+          <unittitle>Zapata, Emiliano (publication)</unittitle>
+          <unitdate datechar="creation">1973</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_9ef93b9a6a017d3136109c64da2eb288" label="Mixed Materials [31142062734994]" type="Box">1</container>
+          <container id="aspace_9319df518fe2b8eccfd5aaa70e5a6589" parent="aspace_9ef93b9a6a017d3136109c64da2eb288" type="Folder">12</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

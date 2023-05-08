@@ -1,94 +1,1339 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_196">mss_196</eadid><filedesc><titlestmt><titleproper>Guide to the Hal Sirowitz Papers <num>MSS.196</num></titleproper><author>Jennifer E. Neal</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>May 2018</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-12-12 21:30:16 -0500</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Fales Library and Special Collections</corpname>
-    </repository>
-    <unittitle>Hal Sirowitz Papers</unittitle>
-    <origination label="Creator">
-      <persname role="dnr" source="naf">Sirowitz, Hal</persname>
-    </origination>
-    <unitid>MSS.196</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">17 Linear Feet</extent>
-      <extent altrender="carrier">in 13 record cartons; 3 manuscript boxes; 2 half manuscript boxes, 3 oversize flat boxes, 1 oversize folder, and 1 CD box</extent>
-    </physdesc>
-    <physdesc altrender="part">
-      <extent altrender="materialtype spaceoccupied">5 audiocassettes</extent>
-    </physdesc>
-    <physdesc altrender="part">
-      <extent altrender="materialtype spaceoccupied">6 videocassettes (vhs)</extent>
-    </physdesc>
-    <physdesc altrender="part">
-      <extent altrender="materialtype spaceoccupied">16 sound discs (cd)</extent>
-    </physdesc>
-    <physdesc altrender="part">
-      <extent altrender="materialtype spaceoccupied">1 electronic discs (cd-rom)</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1943/2004" type="inclusive">1943-2004</unitdate>
-    <unitdate datechar="creation" normal="1990/2001" type="bulk">1990-2001</unitdate>
-    <abstract id="aspace_ce847012f95d4640e053572cd04338c7">Hal Sirowitz (born 1949), known as "the people's poet," is an internationally known American poet, author, and retired public school teacher. He is most known for his work, Mother Said, and was a frequent competitor in Nuyorican Poets Café's Friday Night Poetry Slam in the late 1980s and early 1990s. In 1994, Sirowitz was awarded a National Endowment for the Arts Fellowship and in 2004, a New York Foundation for the Arts fellowship. He became the second Poet Laureate of Queens, New York, a position he held for three years. In 2012, he was the co-winner of the Noir Con Poetry Contest. Sirowitz taught special education classes in the New York City public school system for twenty-three years.
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_196">mss_196</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Hal Sirowitz Papers <num>MSS.196</num></titleproper>
+        <author>Jennifer E. Neal</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+        <p>
+          <date>May 2018</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-12-12 21:30:16 -0500</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>Hal Sirowitz Papers</unittitle>
+      <origination label="Creator">
+        <persname role="dnr" source="naf">Sirowitz, Hal</persname>
+      </origination>
+      <unitid>MSS.196</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">17 Linear Feet</extent>
+        <extent altrender="carrier">in 13 record cartons; 3 manuscript boxes; 2 half manuscript boxes, 3 oversize flat boxes, 1 oversize folder, and 1 CD box</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">5 audiocassettes</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">6 videocassettes (vhs)</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">16 sound discs (cd)</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">1 electronic discs (cd-rom)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1943/2004" type="inclusive">1943-2004</unitdate>
+      <unitdate datechar="creation" normal="1990/2001" type="bulk">1990-2001</unitdate>
+      <abstract id="aspace_ce847012f95d4640e053572cd04338c7">Hal Sirowitz (born 1949), known as "the people's poet," is an internationally known American poet, author, and retired public school teacher. He is most known for his work, Mother Said, and was a frequent competitor in Nuyorican Poets Café's Friday Night Poetry Slam in the late 1980s and early 1990s. In 1994, Sirowitz was awarded a National Endowment for the Arts Fellowship and in 2004, a New York Foundation for the Arts fellowship. He became the second Poet Laureate of Queens, New York, a position he held for three years. In 2012, he was the co-winner of the Noir Con Poetry Contest. Sirowitz taught special education classes in the New York City public school system for twenty-three years.
 
 
 
 This collection dates between 1943 and 2002 (bulk 1990-2001) and consists of materials reflecting his career as a writer and public school teacher. Materials include print publications; original manuscripts; poems; plays; academic writings, clippings; teaching materials; newsletters; postcards; ephemera; photographs; receipts, address lists; author bios; correspondence; promotional materials and sales records; works by other authors; an award plaque; notebooks; an MTA Subway poster; and audiovisual materials documenting the spoken word.</abstract>
-    <physloc id="aspace_1db3728b09382cab7538d38c27165d52">Materials are stored offsite and advance notice is required for use. Please contact fales.library@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
-    <langmaterial id="aspace_8ddaf9d5074ee7a8fc123aa2794fe1b0">Materials are primarily in English, with some publicaitons in German, Hebrew, and Spanish.</langmaterial>
-  </did>
-  <accessrestrict id="aspace_554c675823c679cd77fadec4e82ef7a0">
-    <head>Conditions Governing Access</head>
-<p>Materials are open witout restsrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_477ed19846de39838c7e86142700c98a">
-    <head>Immediate Source of Acquisition</head>
-<p>Purchasaed from Hal Sirowitz in 2007; additional materials were donated by Sirowitz in 2010. The accession numbers related to this collection are 2007.196 and 2010.196.</p>  </acqinfo>
-  <arrangement id="aspace_df26a42780e867cc93c0e39bb9d56afa">
-    <head>Arrangement</head>
-<p>Materials are arranged by subject.</p>  </arrangement>
-  <bioghist id="aspace_89b1fd98b81e5881962ad8c6cf1a17e7">
-    <head>Biographical / Historical</head>
-<p>Hal Sirowitz (born 1949), known as "the people's poet," is an internationally known American poet, author, and retired public school teacher. Sirowitz first began to attract attention at the Nuyorican Poets Café Friday Night Poetry Slam in the late 1980's and early 1990's. He was on the 1993 Nuyorican Poetry Slam Team which competed in that year's National Poetry Slam in San Francisco. He has performed his poetry across the country and Europe and is known as the most popular translated poet in the history of Norway, where animated films and a play based on his poetry have been adapted. In 2007, he was a participant in the Jerusalem Conference of Writers and Poets. Sirowitz has performed and appeared on MTV's Spoken Word Unplugged; Lollapalooza; several international poetry festivals and public television programs; the Saint Mark's Church New Year's Day Poetry Marathon, NPR's All Things Considered and Fresh Air with Terry Gross; and PBS's Poetry Heaven and the United States of Poetry. He was awarded a National Endowment for the Arts Fellowship in 1994 and a New York Foundation for the Arts fellowship in 2004. In 2000, Sirowitz became the second Poet Laureate of Queens, New York, a position he held for three years. In 2012, he was the co-winner of the Noir Con Poetry Contest judged by Robert Polito.  Sirowitz taught special education classes in the New York City public school system for twenty-three years.</p><p>Source: http://www.halsirowitz.com/</p>  </bioghist>
-  <custodhist id="aspace_af85759edff994bf9bdcef44a3d3d2e6">
-    <head>Custodial History</head>
-<p>Materials were purchased from Hal  Sirowitz in 2007. In 2010 Sirowtiz moved from New York to Philadelphia and sent one large envelope of materials to Ron Kolm to be delivered to NYU and added to the collection.</p>  </custodhist>
-  <phystech id="aspace_b4e77a6b4a3376fb9d8dadd5368fb30b">
-    <head>Audiovisual Access Policies and Procedures</head>
-<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
-  <prefercite id="aspace_0d06cdcbef07b3b52015eff08cc45e3d">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Hal Sirowitz Papers; MSS 196; box number; folder number; Fales Library and Special Collections, New York University.</p>  </prefercite>
-  <processinfo id="aspace_bad303973a6f472d57750f96411af35f">
-    <head>Processing Information</head>
-<p>The bulk of the collectoin was previously placed in acid-free folders and boxes. Original folder titles were maintained and dates were added to folders without dates.  The remaining materials were refoldered and rehoused.  Any oversize print publications and clippings were moved to oversize flat boxes. Most of the print publications were housed together without folders, with the exception of Box 15 and Box 16. One audiocassette and one videocassette were rehoused in appropriate cases.</p>  </processinfo>
-  <relatedmaterial id="aspace_20cd2241f25d7e51b2a673f103e6c258">
-    <head>Related Materials</head>
-<p>Gathering of the Tribes Archive (MSS 198)</p><p>Bob Holman Audio/Video Poetry Collection (MSS 128)</p><p>Ron Kolm Papers (MSS 079)</p>  </relatedmaterial>
-  <scopecontent id="aspace_cb9c145a7f7c254e718a207765dc9545">
-    <head>Scope and Contents</head>
-<p>This collection consists of materials created and collected by Hal Sirowitz that document his career as an American poet, author, and educator with the bulk of the materials documenting his writing career. Materials include print publications; original manuscripts; poems; plays; academic writings; clippings; teaching materials; newsletters; postcards; ephemera; photographs; receipts, address lists; author bios; correspondence; promotional materials and sales records; works by other authors; an award plaque; notebooks;  an MTA Subway poster; 6 VHS tapes; 16 commercial CDs; 1 CDR; and 5 cassette tapes. The print publications from Sirowitz's personal library include magazines, literary journals, and books that he subscribed to or feature his works and works of his peers that he collected between 1974 and 2004.</p>  </scopecontent>
-  <separatedmaterial id="aspace_d259e47a97025a9dfa4cbe9298e7b01e">
-    <head>Separated Materials</head>
-<p>Two folders of student papers and one folder of financial records were removed for deaccession.</p>  </separatedmaterial>
-  <userestrict id="aspace_74ccdbc85cea2dcbc82c0097bfd86823">
-    <head>Conditions Governing Use</head>
-<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Hal Sirowitz, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
-  <controlaccess>
-    <subject source="lcsh">American poetry -- 20th century.</subject>
-    <subject source="lcsh">American poetry -- 21st century</subject>
-    <subject source="lcsh">Authors, American -- 20th century.</subject>
-    <subject source="lcsh">Authors, American -- 21st century.</subject>
-    <subject source="lcsh">Teaching -- United States</subject>
-    <subject source="lcsh">Teaching students with special needs</subject>
-    <genreform source="aat">Correspondence.</genreform>
-    <genreform source="aat">Poems.</genreform>
-    <genreform source="aat">Manuscripts (documents)</genreform>
-    <genreform source="aat">Publications (documents)</genreform>
-    <genreform source="aat">Sound recordings.</genreform>
-    <genreform source="aat">Video recordings.</genreform>
-    <genreform source="aat">Clippings (information artifacts)</genreform>
-    <genreform source="aat">Notebooks</genreform>
-    <genreform source="aat">Awards</genreform>
-    <persname source="naf">Sirowitz, Hal</persname>
-  </controlaccess>
-  <dsc><c id="aspace_09d06a5dde50f8346d32112e1b4f9e2a" level="file"><did><unittitle>Academic Writing</unittitle><unitdate datechar="creation" normal="1988/1988">1988, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_67690a4883eee983e0e7ffb68b5bb83a" label="Mixed Materials [31142063604576]" type="Box">1</container><container id="aspace_cfad5bd1f41645e96a48130d488ace57" parent="aspace_67690a4883eee983e0e7ffb68b5bb83a" type="Folder">1</container></did></c><c id="aspace_2a78f854e23b9fc8b350f9eff67d255b" level="file"><did><unittitle>At War Against Her Teeth</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_1e8dbb812c684e7a99ad0528fce2c6e6" label="Mixed Materials [31142063604576]" type="Box">1</container><container id="aspace_ebf7901d60dd8a316d178223cd39271c" parent="aspace_1e8dbb812c684e7a99ad0528fce2c6e6" type="Folder">2</container></did></c><c id="aspace_6a2d416fa2479769d76cc890e805ebcd" level="file"><did><unittitle>Awards</unittitle><unitdate datechar="creation" normal="1982/2000" type="inclusive">1982, 2000</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_2f7577954d45ad129d1a672d48eda53b" label="Mixed Materials [31142063604576]" type="Box">1</container><container id="aspace_564cda93c02f39044c2b8180c165daa2" parent="aspace_2f7577954d45ad129d1a672d48eda53b" type="Folder">3-4</container></did></c><c id="aspace_83b88a0ab0526acff178d0bc0c6690cf" level="file"><did><unittitle>"The Back Up" by Bonnie Walker</unittitle><unitdate datechar="creation" normal="1998/2000" type="inclusive">1998-2000</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_71b7ffe7801ce395ff74dd3fd5742156" label="Mixed Materials [31142063604576]" type="Box">1</container><container id="aspace_efa46423cf1aa9ab9d792136c8b9c4ef" parent="aspace_71b7ffe7801ce395ff74dd3fd5742156" type="Folder">5</container></did></c><c id="aspace_9793db75fa5d78fb2b2b1782ea134aa1" level="file"><did><unittitle>Big Fish: Council of All Beginnings Issue</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_2b0aa37e3812d67e21e8579162c49cf7" label="Mixed Materials [31142063604576]" type="Box">1</container><container id="aspace_32af784644b41265d352482f1fe5186c" parent="aspace_2b0aa37e3812d67e21e8579162c49cf7" type="Folder">6</container></did></c><c id="aspace_fd6dc656ace86e0694b8996bea2f9c56" level="file"><did><unittitle>Big Fish: Hal Sirowitz Tribute Issue</unittitle><unitdate datechar="creation" normal="1992/1992">1992, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_bd0af3a7a7a06e06e0075c8ce0dc1fac" label="Mixed Materials [31142063604576]" type="Box">1</container><container id="aspace_721a7f5f5a8b574f4679564665a897f3" parent="aspace_bd0af3a7a7a06e06e0075c8ce0dc1fac" type="Folder">7</container></did></c><c id="aspace_3ebc13e1443d01d7e815ebe815463677" level="file"><did><unittitle>"Changing the Color of Her Lipstick: A Play"</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_56df0a0bc8fb37484de08a93d4f06992" label="Mixed Materials [31142063604576]" type="Box">1</container><container id="aspace_0b26088c6215efdaf74a2340452959de" parent="aspace_56df0a0bc8fb37484de08a93d4f06992" type="Folder">8</container></did></c><c id="aspace_50eaa17cc9fe48307ea0897021f0bc78" level="file"><did><unittitle>Civil Service Rating for Estelle Vogel</unittitle><unitdate datechar="creation" normal="1943/1944" type="inclusive">1943-1944</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_a066c4f7ef30b7d7153334aad9cfba12" label="Mixed Materials [31142063604576]" type="Box">1</container><container id="aspace_979a40d41f5f027a5c4b0edbbc862346" parent="aspace_a066c4f7ef30b7d7153334aad9cfba12" type="Folder">9</container></did></c><c id="aspace_28b9677b0a41e849eb8bc5f2a51bd3b0" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation" normal="1993/2000" type="inclusive">1993-2000</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_c4b87d715faf656e00b029766eaf2675" label="Mixed Materials [31142063604576]" type="Box">1</container><container id="aspace_a428b0e25f4318369dcb25b91762b56d" parent="aspace_c4b87d715faf656e00b029766eaf2675" type="Folder">10-13</container></did></c><c id="aspace_5d75e3fd9dd3f60f6b704cfc3e219f36" level="file"><did><unittitle>A Collection of Short Plays</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_96362a816282ea9e281bc9098c4347b8" label="Mixed Materials [31142063604576]" type="Box">1</container><container id="aspace_9bd63c9393b373309320145500781e07" parent="aspace_96362a816282ea9e281bc9098c4347b8" type="Folder">14</container></did></c><c id="aspace_40ac0b304e888b1d06998bfbe8573c26" level="file"><did><unittitle>Contacts</unittitle><unitdate datechar="creation" normal="1995/2000" type="inclusive">1995-2000, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_845b1543543342594fa35c21a91d53c1" label="Mixed Materials [31142063604576]" type="Box">1</container><container id="aspace_af77b2ccab8f9ee28d1f19bb95df26bb" parent="aspace_845b1543543342594fa35c21a91d53c1" type="Folder">15-17</container></did></c><c id="aspace_13697a7b2dfa2502765d27a24fd936b5" level="file"><did><unittitle>Correspondence, personal</unittitle><unitdate datechar="creation" normal="1979/2001" type="inclusive">1979-2001, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_238be550b4225dd2a18070b460fa1911" label="Mixed Materials [31142063604576]" type="Box">1</container><container id="aspace_f7114d4934d05e378babc2379fde67ce" parent="aspace_238be550b4225dd2a18070b460fa1911" type="Folder">18-26</container></did></c><c id="aspace_03505ffb93341701208ee96e66e33684" level="file"><did><unittitle>Correspondence, professional</unittitle><unitdate datechar="creation" normal="1984/2003" type="inclusive">1984-2003, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_d4295ecfe327c801908eeaa8905ed894" label="Mixed Materials [31142063604576]" type="Box">1</container><container id="aspace_e8acab1505b9aaa67f9dd9179d1c4695" parent="aspace_d4295ecfe327c801908eeaa8905ed894" type="Folder">27-36</container></did></c><c id="aspace_e58ad3585eed137c2691044684626a3c" level="file"><did><unittitle>Curiculum vitae, author bios</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_2515731e8cb1b87571616b97003b48dd" label="Mixed Materials [31142063604584]" type="Box">2</container><container id="aspace_1eef7d64a75bcfee73396d711fd2dcde" parent="aspace_2515731e8cb1b87571616b97003b48dd" type="Folder">1</container></did></c><c id="aspace_48fde3c7d5a567f7e448884c25d5b03f" level="file"><did><unittitle>Damaged Body: poems</unittitle><unitdate datechar="creation" normal="1991/1992" type="inclusive">1991-1992</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_9a53a9fccf78a1d615e319352c2683a8" label="Mixed Materials [31142063604584]" type="Box">2</container><container id="aspace_bf2dde2903b4a59afb4a310b4482667a" parent="aspace_9a53a9fccf78a1d615e319352c2683a8" type="Folder">2</container></did></c><c id="aspace_ae2d33cacecb1e23b4e3f9b6f504c3a7" level="file"><did><unittitle>Deformed Finger</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_0cfa7faa799af174ebe77f87c1ad228a" label="Mixed Materials [31142063604584]" type="Box">2</container><container id="aspace_e03a612809e18d96829d4963c4c1cafe" parent="aspace_0cfa7faa799af174ebe77f87c1ad228a" type="Folder">3</container></did></c><c id="aspace_6a6832c9c75d2782f1d293b3f0579a19" level="file"><did><unittitle>Direct Mail</unittitle><unitdate datechar="creation" normal="1991/2001" type="inclusive">1991-2001, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_f60b0b5d30666f4314b900e5f32cccea" label="Mixed Materials [31142063604584]" type="Box">2</container><container id="aspace_1762cdd63e1eea40f1c960d80be57da6" parent="aspace_f60b0b5d30666f4314b900e5f32cccea" type="Folder">4-5</container></did></c><c id="aspace_a236c85914665ac9985b3601b9827644" level="file"><did><unittitle>"Disloyal to the Tribe: A Play"</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_d19537746a7131789760f802920474e2" label="Mixed Materials [31142063604584]" type="Box">2</container><container id="aspace_be358461513e5087759ce7f89ad24546" parent="aspace_d19537746a7131789760f802920474e2" type="Folder">6</container></did></c><c id="aspace_7c5ae0321023b475f26ba3db115261ae" level="file"><did><unittitle>Dodge Poetry Festival</unittitle><unitdate datechar="creation" normal="1996/1996">1996</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_02554d03e2c6b372fb463df163f94d67" label="Mixed Materials [31142063604584]" type="Box">2</container><container id="aspace_8d4030fbd1cd6722e9694c2b373ecbbb" parent="aspace_02554d03e2c6b372fb463df163f94d67" type="Folder">7</container></did></c><c id="aspace_a27a802ff0e4cf1319a6f937eeebeb42" level="file"><did><unittitle>"A Dog's Heart"</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_a5209b9e9e529571c6acc2cb9af53906" label="Mixed Materials [31142063604584]" type="Box">2</container><container id="aspace_7a26f6a28d6eaebb1ec33779e352c16a" parent="aspace_a5209b9e9e529571c6acc2cb9af53906" type="Folder">8</container></did></c><c id="aspace_2256debad5fe148fb6c0716b367e08b7" level="file"><did><unittitle>"Down with Rogers"</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_a291f9c45c86e90a6598d9b4aab587d1" label="Mixed Materials [31142063604584]" type="Box">2</container><container id="aspace_6db8e81027dde71fd7bc909fd756336d" parent="aspace_a291f9c45c86e90a6598d9b4aab587d1" type="Folder">9</container></did></c><c id="aspace_4be937a9d40b433a090604bbbeef2ac6" level="file"><did><unittitle>Father Said</unittitle><unitdate datechar="creation" normal="2004/2004">circa 2004</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_66c3812498ac64f89620ec824f90c74f" label="Mixed Materials [31142063604584]" type="Box">2</container><container id="aspace_538b95536acd485626c76c10c91d2414" parent="aspace_66c3812498ac64f89620ec824f90c74f" type="Folder">10-11</container></did></c><c id="aspace_6168681b3d8981e898709963e075fe0c" level="file"><did><unittitle>Finding Your Way Back Home</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_6f963a2f3067b1b62293357787ffb422" label="Mixed Materials [31142063604584]" type="Box">2</container><container id="aspace_f733723a104b73043ed1cb3dcfbc5cd4" parent="aspace_6f963a2f3067b1b62293357787ffb422" type="Folder">12-13</container></did></c><c id="aspace_34ef178416613ad1fe1a22f070f7c365" level="file"><did><unittitle>First Night Morris</unittitle><unitdate datechar="creation" normal="1996/1996">1996</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_8d09281d4369175adba8c9ec016d3d59" label="Mixed Materials [31142063604584]" type="Box">2</container><container id="aspace_129960707d19cf69f96289c2828b6ef5" parent="aspace_8d09281d4369175adba8c9ec016d3d59" type="Folder">14</container></did></c><c id="aspace_1e374cc0003dbba3131098740a58841d" level="file"><did><unittitle>Flyers, invitations, and ephemera</unittitle><unitdate datechar="creation" normal="1990/2001" type="inclusive">1990-2001</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_d914806f4a69a15757b053df401ec63a" label="Mixed Materials [31142063604584]" type="Box">2</container><container id="aspace_2412f469bcc54335a2b1f0db92d79474" parent="aspace_d914806f4a69a15757b053df401ec63a" type="Folder">15</container></did></c><c id="aspace_ee8cc163bbbc23c8b90f2e78e66a4990" level="file"><did><unittitle>Flyers, invitations, etc.</unittitle><unitdate datechar="creation" normal="1983/2002" type="inclusive">1983-2002, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_97a10c9477a8eba863f9e1f9dfc96dfb" label="Mixed Materials [31142063604584]" type="Box">2</container><container id="aspace_5b3f2f04df62270258ed4bb70e86385f" parent="aspace_97a10c9477a8eba863f9e1f9dfc96dfb" type="Folder">16-19</container></did></c><c id="aspace_6392f82b3ee81102f39e835b9ff70a02" level="file"><did><unittitle>"Former Lovers and the Ones In Between"</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_e765f2ef1642fb4aa5cd5f72a11889ad" label="Mixed Materials [31142063604584]" type="Box">2</container><container id="aspace_14f41780c12eb54e7e6390c22c9920c0" parent="aspace_e765f2ef1642fb4aa5cd5f72a11889ad" type="Folder">20-21</container></did></c><c id="aspace_aa4de8582b3d9d9528f0050200b6a510" level="file"><did><unittitle>Freeman, Dan</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_f24cf2407f0cbcead6291fdf31bba5c0" label="Mixed Materials [31142063604584]" type="Box">2</container><container id="aspace_7ecbb0ed841aa21d63efe6a7a8750f8b" parent="aspace_f24cf2407f0cbcead6291fdf31bba5c0" type="Folder">22</container></did></c><c id="aspace_3c59d0f9105b26b5b509747f326c75b1" level="file"><did><unittitle>"Getting to Know Each Other, My Dead Goldfish" with Blair Wilson</unittitle><unitdate datechar="creation" normal="1992/1992">circa 1992</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_7e293e7f7da29c4e49c8c32f5116810b" label="Mixed Materials [31142063604584]" type="Box">2</container><container id="aspace_e05840d8b4e61d1bd0bf98300b813025" parent="aspace_7e293e7f7da29c4e49c8c32f5116810b" type="Folder">23</container></did></c><c id="aspace_3303aa8b6db599f73330208b2e12f3ce" level="file"><did><unittitle>A Gradual Period of Disenchantment</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_888e846bda89fdb8ca5f8e6b7400ec04" label="Mixed Materials [31142063604584]" type="Box">2</container><container id="aspace_55b730a30e22d24016111eb92d3f7924" parent="aspace_888e846bda89fdb8ca5f8e6b7400ec04" type="Folder">24</container></did></c><c id="aspace_8de0fedf963a3b70d21ea5258e7006a6" level="file"><did><unittitle>Grant and Residency Applications</unittitle><unitdate datechar="creation" normal="1995/1998" type="inclusive">1995-1998</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_47b3ce7f5d994a53e36fd9126424130d" label="Mixed Materials [31142063604584]" type="Box">2</container><container id="aspace_f44ca2c7ee2cbf81db8769d8038445f3" parent="aspace_47b3ce7f5d994a53e36fd9126424130d" type="Folder">25</container></did></c><c id="aspace_a6712f3ce0352cd73b6a406caf9b55a6" level="file"><did><unittitle>Hal Almost Said</unittitle><unitdate datechar="creation" normal="2000/2000">2000</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_4a0762d572323fc48d3dcc665c0bc818" label="Mixed Materials [31142063604584]" type="Box">2</container><container id="aspace_0570c8e5738ce400a38ae2fab569ea17" parent="aspace_4a0762d572323fc48d3dcc665c0bc818" type="Folder">26</container></did></c><c id="aspace_365a8b375e264f000ff98bb45a644336" level="file"><did><unittitle>Hal Almost Said: A Memoir</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_9d4d9aae9424aa593a6bd75e7bccd346" label="Mixed Materials [31142063604584]" type="Box">2</container><container id="aspace_bc8b8e5935fee63070c59d2986c2272d" parent="aspace_9d4d9aae9424aa593a6bd75e7bccd346" type="Folder">27</container></did></c><c id="aspace_c63f3e24bae8e6e6d4612d4ca4449a2f" level="file"><did><unittitle>Hal Almost Said</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_376e2f5823a121d9717beacac7469bf0" label="Mixed Materials [31142063604584]" type="Box">2</container><container id="aspace_043c2baa918872989740eb2561f5cbc5" parent="aspace_376e2f5823a121d9717beacac7469bf0" type="Folder">28-47</container><container altrender="Record carton" id="aspace_f5a7f7f2dd36d42e2eec07451105cc37" label="Mixed Materials [31142063604592]" type="Box">3</container><container id="aspace_2f83eaabdaf39915fd43b7d114cf5ddb" parent="aspace_f5a7f7f2dd36d42e2eec07451105cc37" type="Folder">1-4</container></did></c><c id="aspace_80fa3c66ab57425abad39af6e2859259" level="file"><did><unittitle>Hal Almost Said: front matter and chapter one</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_cb5704a11c4df41f8a8e34b0f4e8793d" label="Mixed Materials [31142063604592]" type="Box">3</container><container id="aspace_4b899b8d47f463a2ea4bdf9433f41f0d" parent="aspace_cb5704a11c4df41f8a8e34b0f4e8793d" type="Folder">5</container></did></c><c id="aspace_957b7c4ae4b3982677ba97eeb7ca57c3" level="file"><did><unittitle>Hal Almost Said: chapter one</unittitle><unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_cb7841e9824563c7df9acacb1df82dad" label="Mixed Materials [31142063604592]" type="Box">3</container><container id="aspace_e57c5f7b4a6c209f55ff15cc0086def0" parent="aspace_cb7841e9824563c7df9acacb1df82dad" type="Folder">6</container></did></c><c id="aspace_5144f3122c222fecbbf35d52a9e4a62d" level="file"><did><unittitle>Hal Almost Said: chapter two</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_99cd5155969765b1dd2c121ee5a2bd98" label="Mixed Materials [31142063604592]" type="Box">3</container><container id="aspace_03c053686decca1bfd4b5f8be115a90b" parent="aspace_99cd5155969765b1dd2c121ee5a2bd98" type="Folder">7</container></did></c><c id="aspace_d4796339e3ed9e8eb4bce0cd45694865" level="file"><did><unittitle>Hal Almost Said: chapter three</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_adcafda49cfd4e6b4376e9ffe63321c4" label="Mixed Materials [31142063604592]" type="Box">3</container><container id="aspace_a66b58edac4b01b9d59df06232d50bd8" parent="aspace_adcafda49cfd4e6b4376e9ffe63321c4" type="Folder">8</container></did></c><c id="aspace_142e7228e2cc9ad54cb324c3df85cbf0" level="file"><did><unittitle>Hal Almost Said: chapter four</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_e8a8791ade5fad718bedacc0c67dfa96" label="Mixed Materials [31142063604592]" type="Box">3</container><container id="aspace_9b6351c2f6af7952c05c2a28b701f2d6" parent="aspace_e8a8791ade5fad718bedacc0c67dfa96" type="Folder">9-11</container></did></c><c id="aspace_32221ac20645bb38909caf13348305c7" level="file"><did><unittitle>Hal Almost Said: chapter five</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_f1ee548c4bde62d488ece589097ee336" label="Mixed Materials [31142063604592]" type="Box">3</container><container id="aspace_4c512d822e44b38510b2fa503ca35712" parent="aspace_f1ee548c4bde62d488ece589097ee336" type="Folder">12-14</container></did></c><c id="aspace_30a33b4b07a211a103a524150cc91ff1" level="file"><did><unittitle>Hal Almost Said: chapter six</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_2346d1769e2b637b3d476ccfdaef38ab" label="Mixed Materials [31142063604592]" type="Box">3</container><container id="aspace_f4be5d411c1d4bd65dae91c78a29c604" parent="aspace_2346d1769e2b637b3d476ccfdaef38ab" type="Folder">15</container></did></c><c id="aspace_275c56697ca587623cedee6a03f3c7e7" level="file"><did><unittitle>Hal Almost Said: chapter eight</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_111850b5dadd33934271a3ae4c726e60" label="Mixed Materials [31142063604592]" type="Box">3</container><container id="aspace_9511f1ec4ba8ebfd554923ad701177f2" parent="aspace_111850b5dadd33934271a3ae4c726e60" type="Folder">16</container></did></c><c id="aspace_81ba403edd524765365dc9eefb07623b" level="file"><did><unittitle>Hal Almost Said: fragments</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_52a830ceabf08fb6a479d0689157248a" label="Mixed Materials [31142063604592]" type="Box">3</container><container id="aspace_c38d0918f7abe349faac72b490f2fdd1" parent="aspace_52a830ceabf08fb6a479d0689157248a" type="Folder">17</container></did></c><c id="aspace_94f36e8987c2f97931d72ac8201b8c24" level="file"><did><unittitle>Hal Almost Said: A Memoir </unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_455ef6460ecae2a7862862a9977d10cf" label="Mixed Materials [31142063604592]" type="Box">3</container><container id="aspace_296116c9ab4e0999aa1131102b182f7e" parent="aspace_455ef6460ecae2a7862862a9977d10cf" type="Folder">18-19</container></did></c><c id="aspace_9fef46c13cf4de0b7e9675dbdb1610bf" level="file"><did><unittitle>Hal Almost Said, "Mother Said"</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_5689ee9d07b6676c0bdbf8b7750a67fb" label="Mixed Materials [31142063604592]" type="Box">3</container><container id="aspace_0969c97eb4f44cf58754503072e88773" parent="aspace_5689ee9d07b6676c0bdbf8b7750a67fb" type="Folder">20</container></did></c><c id="aspace_45fcea8a3815b79881f7d508b2af4a7a" level="file"><did><unittitle>Hal Said: A Memoir</unittitle><unitdate datechar="creation" normal="1997/1997">1997</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_3a2e123af5f36ec9c15b8ad20f4d1d23" label="Mixed Materials [31142063604592]" type="Box">3</container><container id="aspace_0c8f2ed94d86c08dbc39077b898435b0" parent="aspace_3a2e123af5f36ec9c15b8ad20f4d1d23" type="Folder">21</container></did></c><c id="aspace_4c93a9fd243bcc5faa572309b89eceff" level="file"><did><unittitle>Happy Baby</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_1c4c31f955371d1dcf2bd280854e4658" label="Mixed Materials [31142063604592]" type="Box">3</container><container id="aspace_b94f8b5553b42322d63e0678613159da" parent="aspace_1c4c31f955371d1dcf2bd280854e4658" type="Folder">22</container></did></c><c id="aspace_2b5ccb23af2bb3a271de02c764d0e3c6" level="file"><did><unittitle>He Said, She Said</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_5fe2dfe7bd30f5cb14162ef94f0ddf8c" label="Mixed Materials [31142063604592]" type="Box">3</container><container id="aspace_0b823e3235cefc9ecbe41933c7698e6d" parent="aspace_5fe2dfe7bd30f5cb14162ef94f0ddf8c" type="Folder">23</container></did></c><c id="aspace_7890275fdbaffee1a1a83375c2d75c27" level="file"><did><unittitle>Helsinki Festival</unittitle><unitdate datechar="creation" normal="1999/1999">1999</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_a2859b7e3f6a85900d43c43fc419dae2" label="Mixed Materials [31142063604592]" type="Box">3</container><container id="aspace_2aa47380345042a21d87e5a6f6548d40" parent="aspace_a2859b7e3f6a85900d43c43fc419dae2" type="Folder">24</container></did></c><c id="aspace_95d57ed1e69bdb8eb7d95dd1fc429b1a" level="file"><did><unittitle>Home Remedy</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_30b3269889e7048635dc32a7ba0548c9" label="Mixed Materials [31142063604592]" type="Box">3</container><container id="aspace_cf6186d375674767b39da1edfb3dc5e3" parent="aspace_30b3269889e7048635dc32a7ba0548c9" type="Folder">25</container></did></c><c id="aspace_e550ddae2af9a81981f9155cebc3cf60" level="file"><did><unittitle>I Liked You Better When You Were a Wolf</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_14900a9727b8f4a69ec7a7b060e38388" label="Mixed Materials [31142063604592]" type="Box">3</container><container id="aspace_78cce576f60e41354e3561c2ada93513" parent="aspace_14900a9727b8f4a69ec7a7b060e38388" type="Folder">26</container></did></c><c id="aspace_23f2538b23f8e0a983f35de84ecd9ad3" level="file"><did><unittitle>"I Said" III</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_c297106bf174a6e01f24f5fbf3a4c29a" label="Mixed Materials [31142063604592]" type="Box">3</container><container id="aspace_43ee6d194c0954d35ebcb7c79e7106a1" parent="aspace_c297106bf174a6e01f24f5fbf3a4c29a" type="Folder">27</container></did></c><c id="aspace_8b64cf928ec944dca2d6faa49fac90a1" level="file"><did><unittitle>Manuscripts</unittitle><unitdate datechar="creation" normal="1978/1996" type="inclusive">1978-1996, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_8a840982e8414e9b40e2ffa14c373abd" label="Mixed Materials [31142063604592]" type="Box">3</container><container id="aspace_e10e9ef64638269c1e07d7dfbaa3af4a" parent="aspace_8a840982e8414e9b40e2ffa14c373abd" type="Folder">28-37</container><container altrender="Record carton" id="aspace_b198c9f3db113cf8c55c3f833691bb50" label="Mixed Materials [31142063604600]" type="Box">4</container><container id="aspace_20b06d90063461a4d2d89a017b741651" parent="aspace_b198c9f3db113cf8c55c3f833691bb50" type="Folder">1-30</container><container altrender="Record carton" id="aspace_6b8a9956332b467d61b55f54ed1c9894" label="Mixed Materials [31142063604618]" type="Box">5</container><container id="aspace_910bc5a4bca4ec0069dd3f9b9e75a5e4" parent="aspace_6b8a9956332b467d61b55f54ed1c9894" type="Folder">1-26</container></did></c><c id="aspace_d8497ea8d1ec6a876bcc72edd9c357c2" level="file"><did><unittitle>Manuscripts by others</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_abba2e7d20f3951e9f2252e50187213e" label="Mixed Materials [31142063604618]" type="Box">5</container><container id="aspace_2e76c34c1012176bd941ef621bba9e9d" parent="aspace_abba2e7d20f3951e9f2252e50187213e" type="Folder">27</container></did></c><c id="aspace_386aada0094063e29b8a1f236c8a6229" level="file"><did><unittitle>Meeting A Mysterious Friend</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_14758c5cf581ae5a5a9e7739a4df0223" label="Mixed Materials [31142063604618]" type="Box">5</container><container id="aspace_83767c9272b0a687a26e363570eeb0c8" parent="aspace_14758c5cf581ae5a5a9e7739a4df0223" type="Folder">28</container></did></c><c id="aspace_9267cef36723197e4439b49561ed2466" level="file"><did><unittitle>Messages and memoranda</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_d5f7e7c38def5def18a28b83b34fcc39" label="Mixed Materials [31142063604618]" type="Box">5</container><container id="aspace_e17c3624b792a264e1c2c45ac31a49c5" parent="aspace_d5f7e7c38def5def18a28b83b34fcc39" type="Folder">29</container></did></c><c id="aspace_7203ba36eb07d3feb76983f5b767af1d" level="file"><did><unittitle>Mother Also Said</unittitle><unitdate datechar="creation" normal="1996/1996">1996, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_48e37182680b891003de4095e1f69cd6" label="Mixed Materials [31142063604618]" type="Box">5</container><container id="aspace_65154ab723d3b557e3105f401c33f28d" parent="aspace_48e37182680b891003de4095e1f69cd6" type="Folder">30-31</container></did></c><c id="aspace_462f31b154a60f0aa49ff2e365c5c1cf" level="file"><did><unittitle>Mother Said</unittitle><unitdate datechar="creation" normal="1996/1996">1996, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_6757acb423e10973553457a046f6bd8a" label="Mixed Materials [31142063604618]" type="Box">5</container><container id="aspace_ca2577088faaf2d033a23aeb8897f738" parent="aspace_6757acb423e10973553457a046f6bd8a" type="Folder">32-34</container></did></c><c id="aspace_a42ecc5eea216b388010839b5ac83f3f" level="file"><did><unittitle>Mother Said II</unittitle><unitdate datechar="creation" normal="2000/2000">2000</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_c465a861a5d48240eefa24de51d8a2e7" label="Mixed Materials [31142063604618]" type="Box">5</container><container id="aspace_4da809f8f3cfeca68366eb203f656341" parent="aspace_c465a861a5d48240eefa24de51d8a2e7" type="Folder">35</container></did></c><c id="aspace_20439de96364edad37f8e569537e3443" level="file"><did><unittitle>Mother Said: film treatment</unittitle><unitdate datechar="creation" normal="2018-05-17/2018-05-17">1999, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_a9ecbe0b5a3c8a3107524bd2bf67b740" label="Mixed Materials [31142063604618]" type="Box">5</container><container id="aspace_95bdb0962fc0bde872351458a587bacb" parent="aspace_a9ecbe0b5a3c8a3107524bd2bf67b740" type="Folder">36-37</container></did></c><c id="aspace_1faa664295b0ed3edab5931696dc9559" level="file"><did><unittitle>Mother Said: Finland tour</unittitle><unitdate datechar="creation" normal="1999/1999">1999</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_e266f108fce50821ae6e14c36680a194" label="Mixed Materials [31142063604618]" type="Box">5</container><container id="aspace_8a80ca18f05475f217865f1479d3576c" parent="aspace_e266f108fce50821ae6e14c36680a194" type="Folder">38</container></did></c><c id="aspace_2c99aca1505f90f295c51d9dec7d3a5e" level="file"><did><unittitle>Mother Said: Norwegian stage adaptation</unittitle><unitdate datechar="creation" normal="1999/1999">1999</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_e91afa55bec5c34754a6d22bc25d3742" label="Mixed Materials [31142063604626]" type="Box">6</container><container id="aspace_916fb25badf58dae7c8084638603ce7e" parent="aspace_e91afa55bec5c34754a6d22bc25d3742" type="Folder">1</container></did></c><c id="aspace_8a6040622be1fe09012b50b15ec4253c" level="file"><did><unittitle>Mother Said: proofs</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_9012ceb4d9d9d77b04aecfd73dd5df95" label="Mixed Materials [31142063604626]" type="Box">6</container><container id="aspace_bdde6be1db12eb7a52d4c1ab316949e5" parent="aspace_9012ceb4d9d9d77b04aecfd73dd5df95" type="Folder">2</container></did></c><c id="aspace_70a50394acddab21ef01f3ec4907c7a2" level="file"><did><unittitle>Mother Said: Spanish translations</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="spa">Spanish; Castilian</language>.</langmaterial><container altrender="Record carton" id="aspace_26be521a6b6e3cd926305ff49985d868" label="Mixed Materials [31142063604626]" type="Box">6</container><container id="aspace_21f8fd6aa556345b30c7e600c59a6149" parent="aspace_26be521a6b6e3cd926305ff49985d868" type="Folder">3</container></did></c><c id="aspace_7a19420324ccd8dba0ddfe24cbf9ce7b" level="file"><did><unittitle>Mother Said: tour</unittitle><unitdate datechar="creation" normal="1996/1996">1996</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_a74a7cb1ddcf564c5186b54da0c2496a" label="Mixed Materials [31142063604626]" type="Box">6</container><container id="aspace_64400d5112355bb47d8ae818386abe1d" parent="aspace_a74a7cb1ddcf564c5186b54da0c2496a" type="Folder">4</container></did></c><c id="aspace_866453357142540f5c1982797bf4c039" level="file"><did><unittitle>Mother Said: tour, west coast</unittitle><unitdate datechar="creation" normal="1996/1996">1996</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_76baf5d6637981276aba6908bf34b909" label="Mixed Materials [31142063604626]" type="Box">6</container><container id="aspace_6ef10680d58c412c648253b401d35feb" parent="aspace_76baf5d6637981276aba6908bf34b909" type="Folder">5</container></did></c><c id="aspace_37175d68fc4b8af322670500dff6afc0" level="file"><did><unittitle>My Therapist Said</unittitle><unitdate datechar="creation" normal="1998/1998">circa 1998</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_1cac69d0474345c5f199db0f947285d5" label="Mixed Materials [31142063604626]" type="Box">6</container><container id="aspace_8993a31f8c85c0143b4ebea04844c3e5" parent="aspace_1cac69d0474345c5f199db0f947285d5" type="Folder">6</container></did></c><c id="aspace_a0fb1f50e06a9f91a7e95164ec18ae8e" level="file"><did><unittitle>My Therapist Said: additional therapy poems</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_497b28c3493a6981549842aac5a20a8f" label="Mixed Materials [31142063604626]" type="Box">6</container><container id="aspace_9e617e204251ab2c410c4d228851e624" parent="aspace_497b28c3493a6981549842aac5a20a8f" type="Folder">7-9</container></did></c><c id="aspace_79371f831babce1a4995cc3862fae1e9" level="file"><did><unittitle>My Therapist Said: tour</unittitle><unitdate datechar="creation" normal="1998/1998">1998</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_7fde61018177868b25cd0a6432cf13f1" label="Mixed Materials [31142063604626]" type="Box">6</container><container id="aspace_ed7684e183a6e6cff7f41658e22e0ae3" parent="aspace_7fde61018177868b25cd0a6432cf13f1" type="Folder">10</container></did></c><c id="aspace_0ce522755b44dc73f08e10648de3adde" level="file"><did><unittitle>National Poetry Slam Championship</unittitle><unitdate datechar="creation" normal="1997/1997">1997</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_4cafba2e9a0d0a6c8daba99386bd6461" label="Mixed Materials [31142063604626]" type="Box">6</container><container id="aspace_f4dcad39aa47d48b6646c092b7beb5f9" parent="aspace_4cafba2e9a0d0a6c8daba99386bd6461" type="Folder">11</container></did></c><c id="aspace_db395d3815954c3f34990fb20bc21dbb" level="file"><did><unittitle>New Manuscript</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_a8d00175fa303f03e477f5f8a6e2792e" label="Mixed Materials [31142063604626]" type="Box">6</container><container id="aspace_20976d69bf499faf41088fe66c81388b" parent="aspace_a8d00175fa303f03e477f5f8a6e2792e" type="Folder">12</container></did></c><c id="aspace_72a5a80febda4be496d7727971a488d2" level="file"><did><unittitle>The Next Ancient World by Jennifer Michael Hecht</unittitle><unitdate datechar="creation" normal="2001/2001">circa 2001</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_aa265692c36a3170b68f8fe27a1d38a4" label="Mixed Materials [31142063604626]" type="Box">6</container><container id="aspace_41f28932ee0bfdc025c3bb0af10ae40a" parent="aspace_aa265692c36a3170b68f8fe27a1d38a4" type="Folder">13</container></did></c><c id="aspace_17cacb6f12cce0e7aac50ce262ccef0b" level="file"><did><unittitle>Notebook</unittitle><unitdate datechar="creation" normal="1986/2000" type="inclusive">1986-2000, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_7b299171ed0c83154d61dbd93a362015" label="Mixed Materials [31142063604626]" type="Box">6</container><container id="aspace_d42a1a5cc4c432e7fdfdfcd3d62a2b30" parent="aspace_7b299171ed0c83154d61dbd93a362015" type="Folder">14-34</container></did></c><c id="aspace_035b4da607dbd36d46f99049cea79628" level="file"><did><unittitle>Olso tour</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_ccacffac7baf5dbc4665104b9c2f97e6" label="Mixed Materials [31142063604626]" type="Box">6</container><container id="aspace_2a30d0a7c0821378f82c26c3a95dcc73" parent="aspace_ccacffac7baf5dbc4665104b9c2f97e6" type="Folder">35</container></did></c><c id="aspace_a960e6e342593f4b35d5e198496f1181" level="file"><did><unittitle>Performance notes</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_88aa2ea438d89980930579054089269b" label="Mixed Materials [31142063604626]" type="Box">6</container><container id="aspace_e94e676d815a3fc204715811cc6db4c1" parent="aspace_88aa2ea438d89980930579054089269b" type="Folder">36</container></did></c><c id="aspace_ddf449a95c6cfb8c80af2654388af358" level="file"><did><unittitle>Personal effects</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_b7b1cd60ff8755f0e7444357de251d45" label="Mixed Materials [31142063604626]" type="Box">6</container><container id="aspace_1287f0ebbde26ec61590a54ca0002726" parent="aspace_b7b1cd60ff8755f0e7444357de251d45" type="Folder">37</container></did></c><c id="aspace_dca77f62117c9bf78484c21270ab43db" level="file"><did><unittitle>Personal materials</unittitle><unitdate datechar="creation" normal="1964/1966" type="inclusive">1964-1966</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_2c5b74cf0feadb9a1871dbfb4db8db48" label="Mixed Materials [31142063604626]" type="Box">6</container><container id="aspace_fb4021d84f659f3d3904947b4eb68a8c" parent="aspace_2c5b74cf0feadb9a1871dbfb4db8db48" type="Folder">38</container></did></c><c id="aspace_c2e39a1bc2c517a26597b8a47cd96872" level="file"><did><unittitle>Photographs</unittitle><unitdate datechar="creation" normal="1997/1997">1997, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_344f0ff029265dacc709567f5eae8d7f" label="Mixed Materials [31142063604626]" type="Box">6</container><container id="aspace_eaf823490cf049b39da719f0f74460d6" parent="aspace_344f0ff029265dacc709567f5eae8d7f" type="Folder">39</container></did></c><c id="aspace_12bc5da1fd59f51916e1ecea9b96b851" level="file"><did><unittitle>Poems by Mia Hansford</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_7ec3501968da545902605efd1bbdc4ae" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_d84b0de5d1ca72eb83828a5d835c0f89" parent="aspace_7ec3501968da545902605efd1bbdc4ae" type="Folder">1</container></did></c><c id="aspace_d31f364130b21c1ad91b68a0924059f9" level="file"><did><unittitle>Poet Laureate of Queens Award</unittitle><unitdate datechar="creation" normal="1997/2001" type="inclusive">1997-2001</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_c1272e315d5971cf5376938015a154f9" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_b2bdb18e5741539bb7fc23ea400b216a" parent="aspace_c1272e315d5971cf5376938015a154f9" type="Folder">2</container></did></c><c id="aspace_b47c66d0fc788df250846d61058c2d02" level="file"><did><unittitle>Poets Against War</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_841dc3a71c68eeab4be89308cc72880e" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_a9c7bcb60bb7091e55517f1ab79ba659" parent="aspace_841dc3a71c68eeab4be89308cc72880e" type="Folder">3</container></did></c><c id="aspace_bf1a1bbd929398f2e7ac4b711e77eb8d" level="file"><did><unittitle>Poet's House: "Friends in the House"</unittitle><unitdate datechar="creation" normal="1997/1997">1997</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_f5770b17f89940bde24cfa357f86d56b" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_d4928e3a07ebc96ee7d58db24f46487e" parent="aspace_f5770b17f89940bde24cfa357f86d56b" type="Folder">4</container></did></c><c id="aspace_193d130c19567b2ca31c06bce200d40f" level="file"><did><unittitle>Promotional materials</unittitle><unitdate datechar="creation" normal="1989/2000" type="inclusive">1989-2000, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_cd5cd9015029873e357a653dbf36915a" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_0b0ed2c21b800e9ef925aa6223c2ac16" parent="aspace_cd5cd9015029873e357a653dbf36915a" type="Folder">5-7</container></did></c><c id="aspace_193c663d5667580793a16814f3de4553" level="file"><did><unittitle>Promotional writing</unittitle><unitdate datechar="creation" normal="1993/1997" type="inclusive">1993, 1997, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_0936f27ac609cfd32cbaa6c0086d2eab" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_e927a2852dd6b2b2b0acec33872255d8" parent="aspace_0936f27ac609cfd32cbaa6c0086d2eab" type="Folder">8</container></did></c><c id="aspace_f35c1d5e071dbbd3ef71781bb7e14a27" level="file"><did><unittitle>Prose poems</unittitle><unitdate datechar="creation" normal="2000/2000">2000, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_1096ee9deaaadc452c9c683830057839" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_7615caf4cdcb728d5b7d58c3038a451c" parent="aspace_1096ee9deaaadc452c9c683830057839" type="Folder">9</container></did></c><c id="aspace_1e1d655a90a78599c1a141492707d8de" level="file"><did><unittitle>Racing to Oblivion poems</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_6925ee916e75284d1c2cdca2383b0d1e" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_901b0e8d426c50637d42bb85cdaa2dd6" parent="aspace_6925ee916e75284d1c2cdca2383b0d1e" type="Folder">10</container></did></c><c id="aspace_e4ddb06e522491435f0a159659501832" level="file"><did><unittitle>Receipts</unittitle><unitdate datechar="creation" normal="2000/2000">2000</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_d6aa59684612dc41ff72539c7f006d60" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_84b9f305fa615d8732de8556cfc5c049" parent="aspace_d6aa59684612dc41ff72539c7f006d60" type="Folder">11</container></did></c><c id="aspace_8164e680cde5a6adc666cfef64022c4c" level="file"><did><unittitle>Sales records</unittitle><unitdate datechar="creation" normal="1993/1993">1993</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_bfd1d695eb04dd805ba9cf7290e8e168" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_9b6d35f81d8301215abadd99c2e30f0c" parent="aspace_bfd1d695eb04dd805ba9cf7290e8e168" type="Folder">12</container></did></c><c id="aspace_1d2c1492029cbc50a5083cc3f221fa16" level="file"><did><unittitle>The Same Blood</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_433446a1760106272aea1eab91c4aa72" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_37e3b8eaab35d1db83c9c1270204ab54" parent="aspace_433446a1760106272aea1eab91c4aa72" type="Folder">13</container></did></c><c id="aspace_46de9545d2abad09502ec9fb07c6ced0" level="file"><did><unittitle>Searching at the Door: A Play</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_33ba5a5d2470ab7bba3b43508cc1ad9f" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_201a7ebf0978178d72be1c7f142558fd" parent="aspace_33ba5a5d2470ab7bba3b43508cc1ad9f" type="Folder">14</container></did></c><c id="aspace_14e745e0b26cd60626e0b293a1f7d723" level="file"><did><unittitle>Sitting Around While the Neighbors are Fighting: A Play</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_e41e98b459f52161e748f1ecad4374ef" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_2741480fc883358625d2a87e452afbc1" parent="aspace_e41e98b459f52161e748f1ecad4374ef" type="Folder">15</container></did></c><c id="aspace_4ce3fcb087cdbc08669f556d574f4e81" level="file"><did><unittitle>Softic, Tanja</unittitle><unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_df59a2e68081a1890f78db82245c4331" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_6e06c0aa598e18df3f16ca5df146953a" parent="aspace_df59a2e68081a1890f78db82245c4331" type="Folder">16</container></did></c><c id="aspace_4182b4bd41fe9d5874ff20f14e6c7923" level="file"><did><unittitle>Teaching Materials</unittitle><unitdate datechar="creation" normal="1987/1996" type="inclusive">1987-1996, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_335ffd4743e6833aee3547e9ad3bcd6c" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_fc8ae4eff2685be646d4c105340e6b1f" parent="aspace_335ffd4743e6833aee3547e9ad3bcd6c" type="Folder">17-19</container></did></c><c id="aspace_260041e2afe2958dd3c0a940cbd8c7ad" level="file"><did><unittitle>These Are My Parents, and This Is My Girl</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_3c8fa4d1f36041ceb2eae0d787c0a292" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_df23eefe78113551c6c2f1f055ee58a7" parent="aspace_3c8fa4d1f36041ceb2eae0d787c0a292" type="Folder">20</container></did></c><c id="aspace_ead47483e3d78d1082416ec79e976e3b" level="file"><did><unittitle>Tobin, Juanita</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_dbd92d613835e9a811d94ededded3e14" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_1b5abbd94bd9dbefbd7ce1cb5fb00307" parent="aspace_dbd92d613835e9a811d94ededded3e14" type="Folder">21</container></did></c><c id="aspace_4d0146293a84303cacd9c00eec08ef0c" level="file"><did><unittitle>Torrez, Juliette</unittitle><unitdate datechar="creation" normal="1996/1996">1996, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_2da96e3951411180b98b577225a5ed0f" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_466f91ffdc50ba4eb556d9fefb444d9c" parent="aspace_2da96e3951411180b98b577225a5ed0f" type="Folder">22</container></did></c><c id="aspace_8582c4c386c6826eeed0620e2da1208f" level="file"><did><unittitle>Travel documentation</unittitle><unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_17872bd0f474e2354b167790f2a72fe5" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_48b4207f1933a0356caeab3cb68e6db9" parent="aspace_17872bd0f474e2354b167790f2a72fe5" type="Folder">23</container></did></c><c id="aspace_31e6b52332c89c9e51bfa82d6456da74" level="file"><did><unittitle>Two-Ton Santa, Issue 97</unittitle><unitdate datechar="creation" normal="1993/1993">1993</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_87f0780032eea6d469a5891659904e31" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_43cf9a6ff71585984e2c93074ae5417e" parent="aspace_87f0780032eea6d469a5891659904e31" type="Folder">24</container></did></c><c id="aspace_0ef5597d2000572dbda83a03d2e8839b" level="file"><did><unittitle>An Unbearable Assembling, Number Two</unittitle><unitdate datechar="creation" normal="1995/1995">1995</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_9a19badf1d4ec14f4557aece3183e39c" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_f61c2579b95bfbac594f866de9c63499" parent="aspace_9a19badf1d4ec14f4557aece3183e39c" type="Folder">25</container></did></c><c id="aspace_51b00cf0fdfcecbea8abc9a0dccc6676" level="file"><did><unittitle>Voices of Queens Festival</unittitle><unitdate datechar="creation" normal="2001/2001">2001</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_70278fb0aa6a07b631b3ac2730381def" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_59794d32f1403ee6d798eb30d12c4f82" parent="aspace_70278fb0aa6a07b631b3ac2730381def" type="Folder">26</container></did></c><c id="aspace_31ad094f3f50d302db24b5ecea0a4d0f" level="file"><did><unittitle>The Waiting Room Was Empty: A Play</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_58d85d9f0642f8c8d90c9faf11d578ae" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_920c15e5a94578db1eae0fe3aa100073" parent="aspace_58d85d9f0642f8c8d90c9faf11d578ae" type="Folder">27</container></did></c><c id="aspace_d9e87c11ee79447a49cef027c661871d" level="file"><did><unittitle>War Against Slime</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_ec435fc781f699f36cf1046964a3ad54" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_bddc16af9795c1be968f250b6c722339" parent="aspace_ec435fc781f699f36cf1046964a3ad54" type="Folder">28</container></did></c><c id="aspace_6b9059c8e73db2e0e47a2d14149be69b" level="file"><did><unittitle>We Could Have Been Better Dance Partners</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_0a5deadbbd6906d30c179f90bb9685f0" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_f649edd95dc981e7d323cecc9d79d95d" parent="aspace_0a5deadbbd6906d30c179f90bb9685f0" type="Folder">29-30</container></did></c><c id="aspace_aa8e300ca717c71216f3a25d4fbe672c" level="file"><did><unittitle>When Mother Stopped Speaking: A Memoir</unittitle><unitdate datechar="creation" normal="1997/1997">1997</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_c2957483958e88d3fd13f82582042fb2" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_354fdcadf070ca05ab26bd7536f2a683" parent="aspace_c2957483958e88d3fd13f82582042fb2" type="Folder">31</container></did></c><c id="aspace_d8d8df1f64a5903bc98b92923ec9abae" level="file"><did><unittitle>When Sex Gets Mixed Up With Love</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_92e562bb6b6bd51fad08f9729eeeddf3" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_dc9873a21b9e11e499b88361388deae1" parent="aspace_92e562bb6b6bd51fad08f9729eeeddf3" type="Folder">32</container></did></c><c id="aspace_1abe8479a145bf44dc5b4a7533cacfd5" level="file"><did><unittitle>Why Sparrow Should Be President</unittitle><unitdate datechar="creation" normal="1992/1992">circa 1992</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_3a743c3e023da786f2238f6353350a96" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_f3a259c017c96fe08d518d19c2295163" parent="aspace_3a743c3e023da786f2238f6353350a96" type="Folder">33</container></did></c><c id="aspace_c7de3fa92bdd388dcd40c0e511e05197" level="file"><did><unittitle>Wilson, Blair</unittitle><unitdate datechar="creation" normal="1992/1997" type="inclusive">1992-1997, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_8f94972dae3c8a43b74606a9903498bd" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_4b5ee95e35c53367b2b2a40fdf2817af" parent="aspace_8f94972dae3c8a43b74606a9903498bd" type="Folder">34-35</container></did></c><c id="aspace_c9d733a26815fabaefca2071ca624cc1" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation" normal="1982/1982">1982</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_47ff60c1410833b8f167f2bb83b819c1" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_a0a04a9d8468050cd8c0325c1e7c834b" parent="aspace_47ff60c1410833b8f167f2bb83b819c1" type="Folder">36</container></did></c><c id="aspace_6978e99c75714951081cdf7317c090c5" level="file"><did><unittitle>Correspondence: personal</unittitle><unitdate datechar="creation" normal="1982/1982">1982</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_5a2b07242dcc3b9352668fc2d903bd42" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_f12ec44c66677e5dfa3e669c640f271b" parent="aspace_5a2b07242dcc3b9352668fc2d903bd42" type="Folder">37</container></did></c><c id="aspace_25e104e918de7c92469fb2e82cf8a271" level="file"><did><unittitle>Correspondence: professional</unittitle><unitdate datechar="creation" normal="1998/1998">1998</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_65e1127c86b01296b53bdf1afc6b7e1f" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_945614e5a91ba15afc4655f803f9054e" parent="aspace_65e1127c86b01296b53bdf1afc6b7e1f" type="Folder">38</container></did></c><c id="aspace_5f919b8810e5be4f36c873c333335bc5" level="file"><did><unittitle>Direct Mail</unittitle><unitdate datechar="creation" normal="2002/2002">2002</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_55a04b0496702b317586f6e1d9b5c583" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_80e2b196707ccb540aebb833f3f91ee8" parent="aspace_55a04b0496702b317586f6e1d9b5c583" type="Folder">39</container></did></c><c id="aspace_e8dbcc9566c57f154e9b70312ca166de" level="file"><did><unittitle>Ephemera</unittitle><unitdate datechar="creation" normal="1981/2001" type="inclusive">1982-2001, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_9cf39081e3de4708aca7c10127f36c57" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_7ae17a80c3ca7e455689cb02a5208118" parent="aspace_9cf39081e3de4708aca7c10127f36c57" type="Folder">40-41</container></did></c><c id="aspace_b0268a9aaea9cae8bed8626a609bcce8" level="file"><did><unittitle>Kupferberg, Tuli</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_33b15b5d3f066757ebf7750dde4973ec" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_a5bc2f7a78d036ffb8405c32ea047ab8" parent="aspace_33b15b5d3f066757ebf7750dde4973ec" type="Folder">42</container></did></c><c id="aspace_85388c1e11a07cb9e37cf7e9d1c0a9d0" level="file"><did><unittitle>Manuscripts</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_1c8a969db87a47481e562a5a19afc603" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_a7f3a6373f1038733c553e715aab0efc" parent="aspace_1c8a969db87a47481e562a5a19afc603" type="Folder">43</container></did></c><c id="aspace_c7c6fb0d88808b99c23c4f8dc422186d" level="file"><did><unittitle>Promotional materials</unittitle><unitdate datechar="creation" normal="1982/2001" type="inclusive">1982-2001, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_ef1a822ef69615600b45920bc592e684" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_eef57817f182bac0d0722af4645c6697" parent="aspace_ef1a822ef69615600b45920bc592e684" type="Folder">44</container></did></c><c id="aspace_5da07da9dbea5140118e9fdd59675c80" level="file"><did><unittitle>Sales records</unittitle><unitdate datechar="creation" normal="1983/1983">1983</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_4e717bb24f76c0b9467a8d366f55845e" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_5d29494e030df8cebf7f1cbcde865991" parent="aspace_4e717bb24f76c0b9467a8d366f55845e" type="Folder">45</container></did></c><c id="aspace_551f4a5760e2e4d0d9b311646e1a9ca8" level="file"><did><unittitle>Submission research</unittitle><unitdate datechar="creation" normal="1986/1986">1986, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_4580145b983fe0011dfb235c389c334e" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_1c9c5d1b8ecfb76643ad1f5904628c84" parent="aspace_4580145b983fe0011dfb235c389c334e" type="Folder">46</container></did></c><c id="aspace_75e4195d4acf9226feb6c613be680834" level="file"><did><unittitle>Writings: unidentified authors</unittitle><unitdate datechar="creation" normal="2001/2001">2001, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_a165cb07ea337587b5c9c24cb78c0f3a" label="Mixed Materials [31142063604634]" type="Box">7</container><container id="aspace_1305664f2799803c2a3a3af52dd10935" parent="aspace_a165cb07ea337587b5c9c24cb78c0f3a" type="Folder">47</container></did></c><c id="aspace_ref4" level="file"><did><unittitle>"I Finally Managed to Speak to Her"</unittitle><unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate><container altrender="Oversize Folder - Full Case" id="aspace_c468e93b4496f1e5b420f648b7043c6c" label="Mixed Materials [31142062893352]" type="Folder">7</container></did><scopecontent id="aspace_3bc5d033aaf79dbb817e42e464c88d6e"><head>Scope and Contents</head><p>From the New York City Metropolitan Transit Authority "Poetry in Motion" series.</p></scopecontent></c><c id="aspace_bebbbd86723f9531bed44d8aae5826a4" level="file"><did><unittitle>Cover</unittitle><unitdate datechar="creation" normal="1986-10/1993-05" type="inclusive">1986-10-1993-05</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Flat OS Box - 16" id="aspace_d785efd62d8f13d404387de6f17f4746" label="Mixed Materials [31142063604667]" type="Box">8</container><container id="aspace_8c31a2437db224a6b12c31fc7dfdfc22" parent="aspace_d785efd62d8f13d404387de6f17f4746" type="Folder">1</container></did></c><c id="aspace_32b8743403f46acf66405b7ebd9e8f0d" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Flat OS Box - 16" id="aspace_59ba1aa6efe97feec02aef6bf0313a7f" label="Mixed Materials [31142063604667]" type="Box">8</container><container id="aspace_171d3291f244376f1b23fb02d5a70b1a" parent="aspace_59ba1aa6efe97feec02aef6bf0313a7f" type="Folder">2</container></did></c><c id="aspace_7ff8bfd678e03ecac41aeaf6e1035aa0" level="file"><did><unittitle>Avenue E</unittitle><unitdate datechar="creation" normal="1986/1986">1986</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Flat OS Box - 16" id="aspace_32546c1094760f1115541f32a51ffe20" label="Mixed Materials [31142063604667]" type="Box">8</container><container id="aspace_e9dd2c7fd7b3118c3d3532a881ec544d" parent="aspace_32546c1094760f1115541f32a51ffe20" type="Folder">3</container></did></c><c id="aspace_4542008f352d6fe1d4916256236d4731" level="file"><did><unittitle>Exquisite Corpse</unittitle><unitdate datechar="creation" normal="1994/1995" type="inclusive">1994-1995</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Flat OS Box - 16" id="aspace_dc7029f6e1ab6f389008e8e0a51c61d7" label="Mixed Materials [31142063604667]" type="Box">8</container><container id="aspace_924695e5be7c50b8edc831612cc303c6" parent="aspace_dc7029f6e1ab6f389008e8e0a51c61d7" type="Folder">4</container></did></c><c id="aspace_7b686d22113470920050389e57aecb23" level="file"><did><unittitle>Wallpaper Magazine</unittitle><unitdate datechar="creation" normal="1985/1991" type="inclusive">1985-1991</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Flat OS Box - 16" id="aspace_89f60f55b109abc0b157164810ba6406" label="Mixed Materials [31142063604667]" type="Box">8</container><container id="aspace_ff244b84db5394e1ced433b30804759f" parent="aspace_89f60f55b109abc0b157164810ba6406" type="Folder">5-7</container></did></c><c id="aspace_194ff6405cd118f13f73e1a1344e5683" level="file"><did><unittitle>Photographic print by Bob Witz</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Flat OS Box - 16" id="aspace_f3aeb10bfa74d3d4512d6522009be62d" label="Mixed Materials [31142063604667]" type="Box">8</container><container id="aspace_62e6311dbc67d10ad384a0fba98cde07" parent="aspace_f3aeb10bfa74d3d4512d6522009be62d" type="Folder">8</container></did></c><c id="aspace_8db4a5af64096ddf0822a55ad4e6dbc6" level="file"><did><unittitle>Correspondence: personal</unittitle><unitdate datechar="creation" normal="1997/1997">1997</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Flat OS Box - 16" id="aspace_cc3844f06409451eda6cad67956e36eb" label="Mixed Materials [31142063604667]" type="Box">8</container><container id="aspace_087b7fc54b11b6ff83043a161cb62ba8" parent="aspace_cc3844f06409451eda6cad67956e36eb" type="Folder">9</container></did></c><c id="aspace_9daffdaa4ee3e58f950d3d70ecd9db45" level="file"><did><unittitle>Downtown</unittitle><unitdate datechar="creation" normal="1986/1994" type="inclusive">1986-1994</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Flat OS Box 17" id="aspace_c1f6222b1197f55429f55a3fb7b71d1a" label="Mixed Materials [31142062771814]" type="Box">9</container><container id="aspace_54fc5f7a0d6c6233d147bae81aab3867" parent="aspace_c1f6222b1197f55429f55a3fb7b71d1a" type="Folder">1-5</container><container altrender="Flat OS Box 17" id="aspace_85940f4430b7b2dabd605eb4dedbf913" label="Mixed Materials [31142062771822]" type="Box">10</container><container id="aspace_f129d5dc236c01608717c76c23dfc493" parent="aspace_85940f4430b7b2dabd605eb4dedbf913" type="Folder">1-4</container></did></c><c id="aspace_fbf08ea322c2ab6746ca7b9a02ea99d2" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation" normal="1982/2002" type="inclusive">1982-2002</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_79d4202910919d9c2fdb6a0585683a18" label="Mixed Materials [31142062771830]" type="Box">11</container><container id="aspace_069c94727256f59bd88066783e6d2394" parent="aspace_79d4202910919d9c2fdb6a0585683a18" type="Folder">1-4</container><container altrender="Manuscript box - Legal - Half" id="aspace_27a34b4f405dc3655f6e9c2ae69ad95e" label="Mixed Materials [31142062771848]" type="Box">12</container><container id="aspace_b0999160cc45821c16cf5579c9e0eaba" parent="aspace_27a34b4f405dc3655f6e9c2ae69ad95e" type="Folder">1-3</container></did></c><c id="aspace_bfb2ca150c52eda1f4976cce177e95be" level="file"><did><unittitle>Poetry readings and plays [audiocassettes]</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_d6370d25a9f930a7c0807f9ad3de849c" label="Mixed Materials [31142062771855]" type="Box">13</container><container id="aspace_1861639bd4069ee01b0f1e90cf01c3b2" parent="aspace_d6370d25a9f930a7c0807f9ad3de849c" type="Folder">1-5</container></did></c><c id="aspace_c99a8a9e8bb88ba4c5cb027f5c65ed61" level="file"><did><unittitle>Poetry readings and plays [VHS]</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_193b52015c1d6b97b907729c242c7543" label="Mixed Materials [31142062771855]" type="Box">13</container><container id="aspace_ee5930a26a27b2f26e5e26fa953e17b5" parent="aspace_193b52015c1d6b97b907729c242c7543" type="Folder">6-11</container></did></c><c id="aspace_9ebd16d6b72d59f8c56ef4941c7a1b6b" level="file"><did><unittitle>Poetry and music  [CDs]</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="CD Box - 6  x 15" id="aspace_727c17bb6a93d82426a3e49f0fb4b567" label="Mixed Materials [31142062771863]" type="Box">Shared Fales 007</container><container id="aspace_97830f120d9c318fc03c75df9bcb34a8" parent="aspace_727c17bb6a93d82426a3e49f0fb4b567" type="Folder">1-17</container></did></c><c id="aspace_9521112bf5405f7caa7fe99ba5eb7f4e" level="file"><did><unittitle>Print publications</unittitle><unitdate datechar="creation" normal="1974/2004" type="inclusive">1974-2004</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_dce1673279ead6a71720982973b8c467" label="Mixed Materials [31142062771871]" type="Box">14</container><container altrender="Record carton" id="aspace_88d908a708f995bfb229c911a06810ce" label="Mixed Materials [31142063604717]" type="Box">15</container><container id="aspace_9a4f5be9c910bd2a724a4cf0ba667fae" parent="aspace_88d908a708f995bfb229c911a06810ce" type="Folder">1-4</container><container altrender="Manuscript box - Legal - Half" id="aspace_d43c12e8be52d27f66dbae16505dc637" label="Mixed Materials [31142062771889]" type="Box">16</container><container id="aspace_95e07eb034a51cb6e56b94baaab08c26" parent="aspace_d43c12e8be52d27f66dbae16505dc637" type="Folder">1-2</container><container altrender="Record carton" id="aspace_16aa7a497c0fb2369b4f5f233c1c893e" label="Mixed Materials [31142063604675]" type="Box">17</container><container altrender="Record carton" id="aspace_22e819bcbfe7acd5c03d1e225e1d5e65" label="Mixed Materials [31142063604683]" type="Box">18</container><container altrender="Record carton" id="aspace_98c4f993fc32685a29f658ee21c33668" label="Mixed Materials [31142063604691]" type="Box">19</container><container altrender="Record carton" id="aspace_17a2e157404c0516c7c4b73ca5a978c3" label="Mixed Materials [31142063604709]" type="Box">20</container><container altrender="Record carton" id="aspace_8bd9500d2fc455e5c4dd8a3d535fd1e6" label="Mixed Materials [31142063604733]" type="Box">21</container></did></c></dsc>
-</archdesc>
+      <physloc id="aspace_1db3728b09382cab7538d38c27165d52">Materials are stored offsite and advance notice is required for use. Please contact fales.library@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_8ddaf9d5074ee7a8fc123aa2794fe1b0">Materials are primarily in English, with some publicaitons in German, Hebrew, and Spanish.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_554c675823c679cd77fadec4e82ef7a0">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open witout restsrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_477ed19846de39838c7e86142700c98a">
+      <head>Immediate Source of Acquisition</head>
+      <p>Purchasaed from Hal Sirowitz in 2007; additional materials were donated by Sirowitz in 2010. The accession numbers related to this collection are 2007.196 and 2010.196.</p>
+    </acqinfo>
+    <arrangement id="aspace_df26a42780e867cc93c0e39bb9d56afa">
+      <head>Arrangement</head>
+      <p>Materials are arranged by subject.</p>
+    </arrangement>
+    <bioghist id="aspace_89b1fd98b81e5881962ad8c6cf1a17e7">
+      <head>Biographical / Historical</head>
+      <p>Hal Sirowitz (born 1949), known as "the people's poet," is an internationally known American poet, author, and retired public school teacher. Sirowitz first began to attract attention at the Nuyorican Poets Café Friday Night Poetry Slam in the late 1980's and early 1990's. He was on the 1993 Nuyorican Poetry Slam Team which competed in that year's National Poetry Slam in San Francisco. He has performed his poetry across the country and Europe and is known as the most popular translated poet in the history of Norway, where animated films and a play based on his poetry have been adapted. In 2007, he was a participant in the Jerusalem Conference of Writers and Poets. Sirowitz has performed and appeared on MTV's Spoken Word Unplugged; Lollapalooza; several international poetry festivals and public television programs; the Saint Mark's Church New Year's Day Poetry Marathon, NPR's All Things Considered and Fresh Air with Terry Gross; and PBS's Poetry Heaven and the United States of Poetry. He was awarded a National Endowment for the Arts Fellowship in 1994 and a New York Foundation for the Arts fellowship in 2004. In 2000, Sirowitz became the second Poet Laureate of Queens, New York, a position he held for three years. In 2012, he was the co-winner of the Noir Con Poetry Contest judged by Robert Polito.  Sirowitz taught special education classes in the New York City public school system for twenty-three years.</p>
+      <p>Source: http://www.halsirowitz.com/</p>
+    </bioghist>
+    <custodhist id="aspace_af85759edff994bf9bdcef44a3d3d2e6">
+      <head>Custodial History</head>
+      <p>Materials were purchased from Hal  Sirowitz in 2007. In 2010 Sirowtiz moved from New York to Philadelphia and sent one large envelope of materials to Ron Kolm to be delivered to NYU and added to the collection.</p>
+    </custodhist>
+    <phystech id="aspace_b4e77a6b4a3376fb9d8dadd5368fb30b">
+      <head>Audiovisual Access Policies and Procedures</head>
+      <p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
+    </phystech>
+    <prefercite id="aspace_0d06cdcbef07b3b52015eff08cc45e3d">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Hal Sirowitz Papers; MSS 196; box number; folder number; Fales Library and Special Collections, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_bad303973a6f472d57750f96411af35f">
+      <head>Processing Information</head>
+      <p>The bulk of the collectoin was previously placed in acid-free folders and boxes. Original folder titles were maintained and dates were added to folders without dates.  The remaining materials were refoldered and rehoused.  Any oversize print publications and clippings were moved to oversize flat boxes. Most of the print publications were housed together without folders, with the exception of Box 15 and Box 16. One audiocassette and one videocassette were rehoused in appropriate cases.</p>
+    </processinfo>
+    <relatedmaterial id="aspace_20cd2241f25d7e51b2a673f103e6c258">
+      <head>Related Materials</head>
+      <p>Gathering of the Tribes Archive (MSS 198)</p>
+      <p>Bob Holman Audio/Video Poetry Collection (MSS 128)</p>
+      <p>Ron Kolm Papers (MSS 079)</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_cb9c145a7f7c254e718a207765dc9545">
+      <head>Scope and Contents</head>
+      <p>This collection consists of materials created and collected by Hal Sirowitz that document his career as an American poet, author, and educator with the bulk of the materials documenting his writing career. Materials include print publications; original manuscripts; poems; plays; academic writings; clippings; teaching materials; newsletters; postcards; ephemera; photographs; receipts, address lists; author bios; correspondence; promotional materials and sales records; works by other authors; an award plaque; notebooks;  an MTA Subway poster; 6 VHS tapes; 16 commercial CDs; 1 CDR; and 5 cassette tapes. The print publications from Sirowitz's personal library include magazines, literary journals, and books that he subscribed to or feature his works and works of his peers that he collected between 1974 and 2004.</p>
+    </scopecontent>
+    <separatedmaterial id="aspace_d259e47a97025a9dfa4cbe9298e7b01e">
+      <head>Separated Materials</head>
+      <p>Two folders of student papers and one folder of financial records were removed for deaccession.</p>
+    </separatedmaterial>
+    <userestrict id="aspace_74ccdbc85cea2dcbc82c0097bfd86823">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Hal Sirowitz, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="lcsh">American poetry -- 20th century.</subject>
+      <subject source="lcsh">American poetry -- 21st century</subject>
+      <subject source="lcsh">Authors, American -- 20th century.</subject>
+      <subject source="lcsh">Authors, American -- 21st century.</subject>
+      <subject source="lcsh">Teaching -- United States</subject>
+      <subject source="lcsh">Teaching students with special needs</subject>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Poems.</genreform>
+      <genreform source="aat">Manuscripts (documents)</genreform>
+      <genreform source="aat">Publications (documents)</genreform>
+      <genreform source="aat">Sound recordings.</genreform>
+      <genreform source="aat">Video recordings.</genreform>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <genreform source="aat">Notebooks</genreform>
+      <genreform source="aat">Awards</genreform>
+      <persname source="naf">Sirowitz, Hal</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_09d06a5dde50f8346d32112e1b4f9e2a" level="file">
+        <did>
+          <unittitle>Academic Writing</unittitle>
+          <unitdate datechar="creation" normal="1988/1988">1988, undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_67690a4883eee983e0e7ffb68b5bb83a" label="Mixed Materials [31142063604576]" type="Box">1</container>
+          <container id="aspace_cfad5bd1f41645e96a48130d488ace57" parent="aspace_67690a4883eee983e0e7ffb68b5bb83a" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_2a78f854e23b9fc8b350f9eff67d255b" level="file">
+        <did>
+          <unittitle>At War Against Her Teeth</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_1e8dbb812c684e7a99ad0528fce2c6e6" label="Mixed Materials [31142063604576]" type="Box">1</container>
+          <container id="aspace_ebf7901d60dd8a316d178223cd39271c" parent="aspace_1e8dbb812c684e7a99ad0528fce2c6e6" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_6a2d416fa2479769d76cc890e805ebcd" level="file">
+        <did>
+          <unittitle>Awards</unittitle>
+          <unitdate datechar="creation" normal="1982/2000" type="inclusive">1982, 2000</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_2f7577954d45ad129d1a672d48eda53b" label="Mixed Materials [31142063604576]" type="Box">1</container>
+          <container id="aspace_564cda93c02f39044c2b8180c165daa2" parent="aspace_2f7577954d45ad129d1a672d48eda53b" type="Folder">3-4</container>
+        </did>
+      </c>
+      <c id="aspace_83b88a0ab0526acff178d0bc0c6690cf" level="file">
+        <did>
+          <unittitle>"The Back Up" by Bonnie Walker</unittitle>
+          <unitdate datechar="creation" normal="1998/2000" type="inclusive">1998-2000</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_71b7ffe7801ce395ff74dd3fd5742156" label="Mixed Materials [31142063604576]" type="Box">1</container>
+          <container id="aspace_efa46423cf1aa9ab9d792136c8b9c4ef" parent="aspace_71b7ffe7801ce395ff74dd3fd5742156" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_9793db75fa5d78fb2b2b1782ea134aa1" level="file">
+        <did>
+          <unittitle>Big Fish: Council of All Beginnings Issue</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_2b0aa37e3812d67e21e8579162c49cf7" label="Mixed Materials [31142063604576]" type="Box">1</container>
+          <container id="aspace_32af784644b41265d352482f1fe5186c" parent="aspace_2b0aa37e3812d67e21e8579162c49cf7" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_fd6dc656ace86e0694b8996bea2f9c56" level="file">
+        <did>
+          <unittitle>Big Fish: Hal Sirowitz Tribute Issue</unittitle>
+          <unitdate datechar="creation" normal="1992/1992">1992, undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_bd0af3a7a7a06e06e0075c8ce0dc1fac" label="Mixed Materials [31142063604576]" type="Box">1</container>
+          <container id="aspace_721a7f5f5a8b574f4679564665a897f3" parent="aspace_bd0af3a7a7a06e06e0075c8ce0dc1fac" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_3ebc13e1443d01d7e815ebe815463677" level="file">
+        <did>
+          <unittitle>"Changing the Color of Her Lipstick: A Play"</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_56df0a0bc8fb37484de08a93d4f06992" label="Mixed Materials [31142063604576]" type="Box">1</container>
+          <container id="aspace_0b26088c6215efdaf74a2340452959de" parent="aspace_56df0a0bc8fb37484de08a93d4f06992" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_50eaa17cc9fe48307ea0897021f0bc78" level="file">
+        <did>
+          <unittitle>Civil Service Rating for Estelle Vogel</unittitle>
+          <unitdate datechar="creation" normal="1943/1944" type="inclusive">1943-1944</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_a066c4f7ef30b7d7153334aad9cfba12" label="Mixed Materials [31142063604576]" type="Box">1</container>
+          <container id="aspace_979a40d41f5f027a5c4b0edbbc862346" parent="aspace_a066c4f7ef30b7d7153334aad9cfba12" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_28b9677b0a41e849eb8bc5f2a51bd3b0" level="file">
+        <did>
+          <unittitle>Clippings</unittitle>
+          <unitdate datechar="creation" normal="1993/2000" type="inclusive">1993-2000</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_c4b87d715faf656e00b029766eaf2675" label="Mixed Materials [31142063604576]" type="Box">1</container>
+          <container id="aspace_a428b0e25f4318369dcb25b91762b56d" parent="aspace_c4b87d715faf656e00b029766eaf2675" type="Folder">10-13</container>
+        </did>
+      </c>
+      <c id="aspace_5d75e3fd9dd3f60f6b704cfc3e219f36" level="file">
+        <did>
+          <unittitle>A Collection of Short Plays</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_96362a816282ea9e281bc9098c4347b8" label="Mixed Materials [31142063604576]" type="Box">1</container>
+          <container id="aspace_9bd63c9393b373309320145500781e07" parent="aspace_96362a816282ea9e281bc9098c4347b8" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_40ac0b304e888b1d06998bfbe8573c26" level="file">
+        <did>
+          <unittitle>Contacts</unittitle>
+          <unitdate datechar="creation" normal="1995/2000" type="inclusive">1995-2000, undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_845b1543543342594fa35c21a91d53c1" label="Mixed Materials [31142063604576]" type="Box">1</container>
+          <container id="aspace_af77b2ccab8f9ee28d1f19bb95df26bb" parent="aspace_845b1543543342594fa35c21a91d53c1" type="Folder">15-17</container>
+        </did>
+      </c>
+      <c id="aspace_13697a7b2dfa2502765d27a24fd936b5" level="file">
+        <did>
+          <unittitle>Correspondence, personal</unittitle>
+          <unitdate datechar="creation" normal="1979/2001" type="inclusive">1979-2001, undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_238be550b4225dd2a18070b460fa1911" label="Mixed Materials [31142063604576]" type="Box">1</container>
+          <container id="aspace_f7114d4934d05e378babc2379fde67ce" parent="aspace_238be550b4225dd2a18070b460fa1911" type="Folder">18-26</container>
+        </did>
+      </c>
+      <c id="aspace_03505ffb93341701208ee96e66e33684" level="file">
+        <did>
+          <unittitle>Correspondence, professional</unittitle>
+          <unitdate datechar="creation" normal="1984/2003" type="inclusive">1984-2003, undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_d4295ecfe327c801908eeaa8905ed894" label="Mixed Materials [31142063604576]" type="Box">1</container>
+          <container id="aspace_e8acab1505b9aaa67f9dd9179d1c4695" parent="aspace_d4295ecfe327c801908eeaa8905ed894" type="Folder">27-36</container>
+        </did>
+      </c>
+      <c id="aspace_e58ad3585eed137c2691044684626a3c" level="file">
+        <did>
+          <unittitle>Curiculum vitae, author bios</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_2515731e8cb1b87571616b97003b48dd" label="Mixed Materials [31142063604584]" type="Box">2</container>
+          <container id="aspace_1eef7d64a75bcfee73396d711fd2dcde" parent="aspace_2515731e8cb1b87571616b97003b48dd" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_48fde3c7d5a567f7e448884c25d5b03f" level="file">
+        <did>
+          <unittitle>Damaged Body: poems</unittitle>
+          <unitdate datechar="creation" normal="1991/1992" type="inclusive">1991-1992</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_9a53a9fccf78a1d615e319352c2683a8" label="Mixed Materials [31142063604584]" type="Box">2</container>
+          <container id="aspace_bf2dde2903b4a59afb4a310b4482667a" parent="aspace_9a53a9fccf78a1d615e319352c2683a8" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ae2d33cacecb1e23b4e3f9b6f504c3a7" level="file">
+        <did>
+          <unittitle>Deformed Finger</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_0cfa7faa799af174ebe77f87c1ad228a" label="Mixed Materials [31142063604584]" type="Box">2</container>
+          <container id="aspace_e03a612809e18d96829d4963c4c1cafe" parent="aspace_0cfa7faa799af174ebe77f87c1ad228a" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_6a6832c9c75d2782f1d293b3f0579a19" level="file">
+        <did>
+          <unittitle>Direct Mail</unittitle>
+          <unitdate datechar="creation" normal="1991/2001" type="inclusive">1991-2001, undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_f60b0b5d30666f4314b900e5f32cccea" label="Mixed Materials [31142063604584]" type="Box">2</container>
+          <container id="aspace_1762cdd63e1eea40f1c960d80be57da6" parent="aspace_f60b0b5d30666f4314b900e5f32cccea" type="Folder">4-5</container>
+        </did>
+      </c>
+      <c id="aspace_a236c85914665ac9985b3601b9827644" level="file">
+        <did>
+          <unittitle>"Disloyal to the Tribe: A Play"</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_d19537746a7131789760f802920474e2" label="Mixed Materials [31142063604584]" type="Box">2</container>
+          <container id="aspace_be358461513e5087759ce7f89ad24546" parent="aspace_d19537746a7131789760f802920474e2" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_7c5ae0321023b475f26ba3db115261ae" level="file">
+        <did>
+          <unittitle>Dodge Poetry Festival</unittitle>
+          <unitdate datechar="creation" normal="1996/1996">1996</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_02554d03e2c6b372fb463df163f94d67" label="Mixed Materials [31142063604584]" type="Box">2</container>
+          <container id="aspace_8d4030fbd1cd6722e9694c2b373ecbbb" parent="aspace_02554d03e2c6b372fb463df163f94d67" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_a27a802ff0e4cf1319a6f937eeebeb42" level="file">
+        <did>
+          <unittitle>"A Dog's Heart"</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_a5209b9e9e529571c6acc2cb9af53906" label="Mixed Materials [31142063604584]" type="Box">2</container>
+          <container id="aspace_7a26f6a28d6eaebb1ec33779e352c16a" parent="aspace_a5209b9e9e529571c6acc2cb9af53906" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_2256debad5fe148fb6c0716b367e08b7" level="file">
+        <did>
+          <unittitle>"Down with Rogers"</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_a291f9c45c86e90a6598d9b4aab587d1" label="Mixed Materials [31142063604584]" type="Box">2</container>
+          <container id="aspace_6db8e81027dde71fd7bc909fd756336d" parent="aspace_a291f9c45c86e90a6598d9b4aab587d1" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_4be937a9d40b433a090604bbbeef2ac6" level="file">
+        <did>
+          <unittitle>Father Said</unittitle>
+          <unitdate datechar="creation" normal="2004/2004">circa 2004</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_66c3812498ac64f89620ec824f90c74f" label="Mixed Materials [31142063604584]" type="Box">2</container>
+          <container id="aspace_538b95536acd485626c76c10c91d2414" parent="aspace_66c3812498ac64f89620ec824f90c74f" type="Folder">10-11</container>
+        </did>
+      </c>
+      <c id="aspace_6168681b3d8981e898709963e075fe0c" level="file">
+        <did>
+          <unittitle>Finding Your Way Back Home</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_6f963a2f3067b1b62293357787ffb422" label="Mixed Materials [31142063604584]" type="Box">2</container>
+          <container id="aspace_f733723a104b73043ed1cb3dcfbc5cd4" parent="aspace_6f963a2f3067b1b62293357787ffb422" type="Folder">12-13</container>
+        </did>
+      </c>
+      <c id="aspace_34ef178416613ad1fe1a22f070f7c365" level="file">
+        <did>
+          <unittitle>First Night Morris</unittitle>
+          <unitdate datechar="creation" normal="1996/1996">1996</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_8d09281d4369175adba8c9ec016d3d59" label="Mixed Materials [31142063604584]" type="Box">2</container>
+          <container id="aspace_129960707d19cf69f96289c2828b6ef5" parent="aspace_8d09281d4369175adba8c9ec016d3d59" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_1e374cc0003dbba3131098740a58841d" level="file">
+        <did>
+          <unittitle>Flyers, invitations, and ephemera</unittitle>
+          <unitdate datechar="creation" normal="1990/2001" type="inclusive">1990-2001</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_d914806f4a69a15757b053df401ec63a" label="Mixed Materials [31142063604584]" type="Box">2</container>
+          <container id="aspace_2412f469bcc54335a2b1f0db92d79474" parent="aspace_d914806f4a69a15757b053df401ec63a" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ee8cc163bbbc23c8b90f2e78e66a4990" level="file">
+        <did>
+          <unittitle>Flyers, invitations, etc.</unittitle>
+          <unitdate datechar="creation" normal="1983/2002" type="inclusive">1983-2002, undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_97a10c9477a8eba863f9e1f9dfc96dfb" label="Mixed Materials [31142063604584]" type="Box">2</container>
+          <container id="aspace_5b3f2f04df62270258ed4bb70e86385f" parent="aspace_97a10c9477a8eba863f9e1f9dfc96dfb" type="Folder">16-19</container>
+        </did>
+      </c>
+      <c id="aspace_6392f82b3ee81102f39e835b9ff70a02" level="file">
+        <did>
+          <unittitle>"Former Lovers and the Ones In Between"</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_e765f2ef1642fb4aa5cd5f72a11889ad" label="Mixed Materials [31142063604584]" type="Box">2</container>
+          <container id="aspace_14f41780c12eb54e7e6390c22c9920c0" parent="aspace_e765f2ef1642fb4aa5cd5f72a11889ad" type="Folder">20-21</container>
+        </did>
+      </c>
+      <c id="aspace_aa4de8582b3d9d9528f0050200b6a510" level="file">
+        <did>
+          <unittitle>Freeman, Dan</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_f24cf2407f0cbcead6291fdf31bba5c0" label="Mixed Materials [31142063604584]" type="Box">2</container>
+          <container id="aspace_7ecbb0ed841aa21d63efe6a7a8750f8b" parent="aspace_f24cf2407f0cbcead6291fdf31bba5c0" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_3c59d0f9105b26b5b509747f326c75b1" level="file">
+        <did>
+          <unittitle>"Getting to Know Each Other, My Dead Goldfish" with Blair Wilson</unittitle>
+          <unitdate datechar="creation" normal="1992/1992">circa 1992</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_7e293e7f7da29c4e49c8c32f5116810b" label="Mixed Materials [31142063604584]" type="Box">2</container>
+          <container id="aspace_e05840d8b4e61d1bd0bf98300b813025" parent="aspace_7e293e7f7da29c4e49c8c32f5116810b" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_3303aa8b6db599f73330208b2e12f3ce" level="file">
+        <did>
+          <unittitle>A Gradual Period of Disenchantment</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_888e846bda89fdb8ca5f8e6b7400ec04" label="Mixed Materials [31142063604584]" type="Box">2</container>
+          <container id="aspace_55b730a30e22d24016111eb92d3f7924" parent="aspace_888e846bda89fdb8ca5f8e6b7400ec04" type="Folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_8de0fedf963a3b70d21ea5258e7006a6" level="file">
+        <did>
+          <unittitle>Grant and Residency Applications</unittitle>
+          <unitdate datechar="creation" normal="1995/1998" type="inclusive">1995-1998</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_47b3ce7f5d994a53e36fd9126424130d" label="Mixed Materials [31142063604584]" type="Box">2</container>
+          <container id="aspace_f44ca2c7ee2cbf81db8769d8038445f3" parent="aspace_47b3ce7f5d994a53e36fd9126424130d" type="Folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_a6712f3ce0352cd73b6a406caf9b55a6" level="file">
+        <did>
+          <unittitle>Hal Almost Said</unittitle>
+          <unitdate datechar="creation" normal="2000/2000">2000</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_4a0762d572323fc48d3dcc665c0bc818" label="Mixed Materials [31142063604584]" type="Box">2</container>
+          <container id="aspace_0570c8e5738ce400a38ae2fab569ea17" parent="aspace_4a0762d572323fc48d3dcc665c0bc818" type="Folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_365a8b375e264f000ff98bb45a644336" level="file">
+        <did>
+          <unittitle>Hal Almost Said: A Memoir</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_9d4d9aae9424aa593a6bd75e7bccd346" label="Mixed Materials [31142063604584]" type="Box">2</container>
+          <container id="aspace_bc8b8e5935fee63070c59d2986c2272d" parent="aspace_9d4d9aae9424aa593a6bd75e7bccd346" type="Folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_c63f3e24bae8e6e6d4612d4ca4449a2f" level="file">
+        <did>
+          <unittitle>Hal Almost Said</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_376e2f5823a121d9717beacac7469bf0" label="Mixed Materials [31142063604584]" type="Box">2</container>
+          <container id="aspace_043c2baa918872989740eb2561f5cbc5" parent="aspace_376e2f5823a121d9717beacac7469bf0" type="Folder">28-47</container>
+          <container altrender="Record carton" id="aspace_f5a7f7f2dd36d42e2eec07451105cc37" label="Mixed Materials [31142063604592]" type="Box">3</container>
+          <container id="aspace_2f83eaabdaf39915fd43b7d114cf5ddb" parent="aspace_f5a7f7f2dd36d42e2eec07451105cc37" type="Folder">1-4</container>
+        </did>
+      </c>
+      <c id="aspace_80fa3c66ab57425abad39af6e2859259" level="file">
+        <did>
+          <unittitle>Hal Almost Said: front matter and chapter one</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_cb5704a11c4df41f8a8e34b0f4e8793d" label="Mixed Materials [31142063604592]" type="Box">3</container>
+          <container id="aspace_4b899b8d47f463a2ea4bdf9433f41f0d" parent="aspace_cb5704a11c4df41f8a8e34b0f4e8793d" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_957b7c4ae4b3982677ba97eeb7ca57c3" level="file">
+        <did>
+          <unittitle>Hal Almost Said: chapter one</unittitle>
+          <unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_cb7841e9824563c7df9acacb1df82dad" label="Mixed Materials [31142063604592]" type="Box">3</container>
+          <container id="aspace_e57c5f7b4a6c209f55ff15cc0086def0" parent="aspace_cb7841e9824563c7df9acacb1df82dad" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_5144f3122c222fecbbf35d52a9e4a62d" level="file">
+        <did>
+          <unittitle>Hal Almost Said: chapter two</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_99cd5155969765b1dd2c121ee5a2bd98" label="Mixed Materials [31142063604592]" type="Box">3</container>
+          <container id="aspace_03c053686decca1bfd4b5f8be115a90b" parent="aspace_99cd5155969765b1dd2c121ee5a2bd98" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_d4796339e3ed9e8eb4bce0cd45694865" level="file">
+        <did>
+          <unittitle>Hal Almost Said: chapter three</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_adcafda49cfd4e6b4376e9ffe63321c4" label="Mixed Materials [31142063604592]" type="Box">3</container>
+          <container id="aspace_a66b58edac4b01b9d59df06232d50bd8" parent="aspace_adcafda49cfd4e6b4376e9ffe63321c4" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_142e7228e2cc9ad54cb324c3df85cbf0" level="file">
+        <did>
+          <unittitle>Hal Almost Said: chapter four</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_e8a8791ade5fad718bedacc0c67dfa96" label="Mixed Materials [31142063604592]" type="Box">3</container>
+          <container id="aspace_9b6351c2f6af7952c05c2a28b701f2d6" parent="aspace_e8a8791ade5fad718bedacc0c67dfa96" type="Folder">9-11</container>
+        </did>
+      </c>
+      <c id="aspace_32221ac20645bb38909caf13348305c7" level="file">
+        <did>
+          <unittitle>Hal Almost Said: chapter five</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_f1ee548c4bde62d488ece589097ee336" label="Mixed Materials [31142063604592]" type="Box">3</container>
+          <container id="aspace_4c512d822e44b38510b2fa503ca35712" parent="aspace_f1ee548c4bde62d488ece589097ee336" type="Folder">12-14</container>
+        </did>
+      </c>
+      <c id="aspace_30a33b4b07a211a103a524150cc91ff1" level="file">
+        <did>
+          <unittitle>Hal Almost Said: chapter six</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_2346d1769e2b637b3d476ccfdaef38ab" label="Mixed Materials [31142063604592]" type="Box">3</container>
+          <container id="aspace_f4be5d411c1d4bd65dae91c78a29c604" parent="aspace_2346d1769e2b637b3d476ccfdaef38ab" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_275c56697ca587623cedee6a03f3c7e7" level="file">
+        <did>
+          <unittitle>Hal Almost Said: chapter eight</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_111850b5dadd33934271a3ae4c726e60" label="Mixed Materials [31142063604592]" type="Box">3</container>
+          <container id="aspace_9511f1ec4ba8ebfd554923ad701177f2" parent="aspace_111850b5dadd33934271a3ae4c726e60" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_81ba403edd524765365dc9eefb07623b" level="file">
+        <did>
+          <unittitle>Hal Almost Said: fragments</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_52a830ceabf08fb6a479d0689157248a" label="Mixed Materials [31142063604592]" type="Box">3</container>
+          <container id="aspace_c38d0918f7abe349faac72b490f2fdd1" parent="aspace_52a830ceabf08fb6a479d0689157248a" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_94f36e8987c2f97931d72ac8201b8c24" level="file">
+        <did>
+          <unittitle>Hal Almost Said: A Memoir </unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_455ef6460ecae2a7862862a9977d10cf" label="Mixed Materials [31142063604592]" type="Box">3</container>
+          <container id="aspace_296116c9ab4e0999aa1131102b182f7e" parent="aspace_455ef6460ecae2a7862862a9977d10cf" type="Folder">18-19</container>
+        </did>
+      </c>
+      <c id="aspace_9fef46c13cf4de0b7e9675dbdb1610bf" level="file">
+        <did>
+          <unittitle>Hal Almost Said, "Mother Said"</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_5689ee9d07b6676c0bdbf8b7750a67fb" label="Mixed Materials [31142063604592]" type="Box">3</container>
+          <container id="aspace_0969c97eb4f44cf58754503072e88773" parent="aspace_5689ee9d07b6676c0bdbf8b7750a67fb" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_45fcea8a3815b79881f7d508b2af4a7a" level="file">
+        <did>
+          <unittitle>Hal Said: A Memoir</unittitle>
+          <unitdate datechar="creation" normal="1997/1997">1997</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_3a2e123af5f36ec9c15b8ad20f4d1d23" label="Mixed Materials [31142063604592]" type="Box">3</container>
+          <container id="aspace_0c8f2ed94d86c08dbc39077b898435b0" parent="aspace_3a2e123af5f36ec9c15b8ad20f4d1d23" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_4c93a9fd243bcc5faa572309b89eceff" level="file">
+        <did>
+          <unittitle>Happy Baby</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_1c4c31f955371d1dcf2bd280854e4658" label="Mixed Materials [31142063604592]" type="Box">3</container>
+          <container id="aspace_b94f8b5553b42322d63e0678613159da" parent="aspace_1c4c31f955371d1dcf2bd280854e4658" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_2b5ccb23af2bb3a271de02c764d0e3c6" level="file">
+        <did>
+          <unittitle>He Said, She Said</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_5fe2dfe7bd30f5cb14162ef94f0ddf8c" label="Mixed Materials [31142063604592]" type="Box">3</container>
+          <container id="aspace_0b823e3235cefc9ecbe41933c7698e6d" parent="aspace_5fe2dfe7bd30f5cb14162ef94f0ddf8c" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_7890275fdbaffee1a1a83375c2d75c27" level="file">
+        <did>
+          <unittitle>Helsinki Festival</unittitle>
+          <unitdate datechar="creation" normal="1999/1999">1999</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_a2859b7e3f6a85900d43c43fc419dae2" label="Mixed Materials [31142063604592]" type="Box">3</container>
+          <container id="aspace_2aa47380345042a21d87e5a6f6548d40" parent="aspace_a2859b7e3f6a85900d43c43fc419dae2" type="Folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_95d57ed1e69bdb8eb7d95dd1fc429b1a" level="file">
+        <did>
+          <unittitle>Home Remedy</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_30b3269889e7048635dc32a7ba0548c9" label="Mixed Materials [31142063604592]" type="Box">3</container>
+          <container id="aspace_cf6186d375674767b39da1edfb3dc5e3" parent="aspace_30b3269889e7048635dc32a7ba0548c9" type="Folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_e550ddae2af9a81981f9155cebc3cf60" level="file">
+        <did>
+          <unittitle>I Liked You Better When You Were a Wolf</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_14900a9727b8f4a69ec7a7b060e38388" label="Mixed Materials [31142063604592]" type="Box">3</container>
+          <container id="aspace_78cce576f60e41354e3561c2ada93513" parent="aspace_14900a9727b8f4a69ec7a7b060e38388" type="Folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_23f2538b23f8e0a983f35de84ecd9ad3" level="file">
+        <did>
+          <unittitle>"I Said" III</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_c297106bf174a6e01f24f5fbf3a4c29a" label="Mixed Materials [31142063604592]" type="Box">3</container>
+          <container id="aspace_43ee6d194c0954d35ebcb7c79e7106a1" parent="aspace_c297106bf174a6e01f24f5fbf3a4c29a" type="Folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_8b64cf928ec944dca2d6faa49fac90a1" level="file">
+        <did>
+          <unittitle>Manuscripts</unittitle>
+          <unitdate datechar="creation" normal="1978/1996" type="inclusive">1978-1996, undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_8a840982e8414e9b40e2ffa14c373abd" label="Mixed Materials [31142063604592]" type="Box">3</container>
+          <container id="aspace_e10e9ef64638269c1e07d7dfbaa3af4a" parent="aspace_8a840982e8414e9b40e2ffa14c373abd" type="Folder">28-37</container>
+          <container altrender="Record carton" id="aspace_b198c9f3db113cf8c55c3f833691bb50" label="Mixed Materials [31142063604600]" type="Box">4</container>
+          <container id="aspace_20b06d90063461a4d2d89a017b741651" parent="aspace_b198c9f3db113cf8c55c3f833691bb50" type="Folder">1-30</container>
+          <container altrender="Record carton" id="aspace_6b8a9956332b467d61b55f54ed1c9894" label="Mixed Materials [31142063604618]" type="Box">5</container>
+          <container id="aspace_910bc5a4bca4ec0069dd3f9b9e75a5e4" parent="aspace_6b8a9956332b467d61b55f54ed1c9894" type="Folder">1-26</container>
+        </did>
+      </c>
+      <c id="aspace_d8497ea8d1ec6a876bcc72edd9c357c2" level="file">
+        <did>
+          <unittitle>Manuscripts by others</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_abba2e7d20f3951e9f2252e50187213e" label="Mixed Materials [31142063604618]" type="Box">5</container>
+          <container id="aspace_2e76c34c1012176bd941ef621bba9e9d" parent="aspace_abba2e7d20f3951e9f2252e50187213e" type="Folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_386aada0094063e29b8a1f236c8a6229" level="file">
+        <did>
+          <unittitle>Meeting A Mysterious Friend</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_14758c5cf581ae5a5a9e7739a4df0223" label="Mixed Materials [31142063604618]" type="Box">5</container>
+          <container id="aspace_83767c9272b0a687a26e363570eeb0c8" parent="aspace_14758c5cf581ae5a5a9e7739a4df0223" type="Folder">28</container>
+        </did>
+      </c>
+      <c id="aspace_9267cef36723197e4439b49561ed2466" level="file">
+        <did>
+          <unittitle>Messages and memoranda</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_d5f7e7c38def5def18a28b83b34fcc39" label="Mixed Materials [31142063604618]" type="Box">5</container>
+          <container id="aspace_e17c3624b792a264e1c2c45ac31a49c5" parent="aspace_d5f7e7c38def5def18a28b83b34fcc39" type="Folder">29</container>
+        </did>
+      </c>
+      <c id="aspace_7203ba36eb07d3feb76983f5b767af1d" level="file">
+        <did>
+          <unittitle>Mother Also Said</unittitle>
+          <unitdate datechar="creation" normal="1996/1996">1996, undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_48e37182680b891003de4095e1f69cd6" label="Mixed Materials [31142063604618]" type="Box">5</container>
+          <container id="aspace_65154ab723d3b557e3105f401c33f28d" parent="aspace_48e37182680b891003de4095e1f69cd6" type="Folder">30-31</container>
+        </did>
+      </c>
+      <c id="aspace_462f31b154a60f0aa49ff2e365c5c1cf" level="file">
+        <did>
+          <unittitle>Mother Said</unittitle>
+          <unitdate datechar="creation" normal="1996/1996">1996, undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_6757acb423e10973553457a046f6bd8a" label="Mixed Materials [31142063604618]" type="Box">5</container>
+          <container id="aspace_ca2577088faaf2d033a23aeb8897f738" parent="aspace_6757acb423e10973553457a046f6bd8a" type="Folder">32-34</container>
+        </did>
+      </c>
+      <c id="aspace_a42ecc5eea216b388010839b5ac83f3f" level="file">
+        <did>
+          <unittitle>Mother Said II</unittitle>
+          <unitdate datechar="creation" normal="2000/2000">2000</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_c465a861a5d48240eefa24de51d8a2e7" label="Mixed Materials [31142063604618]" type="Box">5</container>
+          <container id="aspace_4da809f8f3cfeca68366eb203f656341" parent="aspace_c465a861a5d48240eefa24de51d8a2e7" type="Folder">35</container>
+        </did>
+      </c>
+      <c id="aspace_20439de96364edad37f8e569537e3443" level="file">
+        <did>
+          <unittitle>Mother Said: film treatment</unittitle>
+          <unitdate datechar="creation" normal="2018-05-17/2018-05-17">1999, undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_a9ecbe0b5a3c8a3107524bd2bf67b740" label="Mixed Materials [31142063604618]" type="Box">5</container>
+          <container id="aspace_95bdb0962fc0bde872351458a587bacb" parent="aspace_a9ecbe0b5a3c8a3107524bd2bf67b740" type="Folder">36-37</container>
+        </did>
+      </c>
+      <c id="aspace_1faa664295b0ed3edab5931696dc9559" level="file">
+        <did>
+          <unittitle>Mother Said: Finland tour</unittitle>
+          <unitdate datechar="creation" normal="1999/1999">1999</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_e266f108fce50821ae6e14c36680a194" label="Mixed Materials [31142063604618]" type="Box">5</container>
+          <container id="aspace_8a80ca18f05475f217865f1479d3576c" parent="aspace_e266f108fce50821ae6e14c36680a194" type="Folder">38</container>
+        </did>
+      </c>
+      <c id="aspace_2c99aca1505f90f295c51d9dec7d3a5e" level="file">
+        <did>
+          <unittitle>Mother Said: Norwegian stage adaptation</unittitle>
+          <unitdate datechar="creation" normal="1999/1999">1999</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_e91afa55bec5c34754a6d22bc25d3742" label="Mixed Materials [31142063604626]" type="Box">6</container>
+          <container id="aspace_916fb25badf58dae7c8084638603ce7e" parent="aspace_e91afa55bec5c34754a6d22bc25d3742" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_8a6040622be1fe09012b50b15ec4253c" level="file">
+        <did>
+          <unittitle>Mother Said: proofs</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_9012ceb4d9d9d77b04aecfd73dd5df95" label="Mixed Materials [31142063604626]" type="Box">6</container>
+          <container id="aspace_bdde6be1db12eb7a52d4c1ab316949e5" parent="aspace_9012ceb4d9d9d77b04aecfd73dd5df95" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_70a50394acddab21ef01f3ec4907c7a2" level="file">
+        <did>
+          <unittitle>Mother Said: Spanish translations</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="spa">Spanish; Castilian</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_26be521a6b6e3cd926305ff49985d868" label="Mixed Materials [31142063604626]" type="Box">6</container>
+          <container id="aspace_21f8fd6aa556345b30c7e600c59a6149" parent="aspace_26be521a6b6e3cd926305ff49985d868" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_7a19420324ccd8dba0ddfe24cbf9ce7b" level="file">
+        <did>
+          <unittitle>Mother Said: tour</unittitle>
+          <unitdate datechar="creation" normal="1996/1996">1996</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_a74a7cb1ddcf564c5186b54da0c2496a" label="Mixed Materials [31142063604626]" type="Box">6</container>
+          <container id="aspace_64400d5112355bb47d8ae818386abe1d" parent="aspace_a74a7cb1ddcf564c5186b54da0c2496a" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_866453357142540f5c1982797bf4c039" level="file">
+        <did>
+          <unittitle>Mother Said: tour, west coast</unittitle>
+          <unitdate datechar="creation" normal="1996/1996">1996</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_76baf5d6637981276aba6908bf34b909" label="Mixed Materials [31142063604626]" type="Box">6</container>
+          <container id="aspace_6ef10680d58c412c648253b401d35feb" parent="aspace_76baf5d6637981276aba6908bf34b909" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_37175d68fc4b8af322670500dff6afc0" level="file">
+        <did>
+          <unittitle>My Therapist Said</unittitle>
+          <unitdate datechar="creation" normal="1998/1998">circa 1998</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_1cac69d0474345c5f199db0f947285d5" label="Mixed Materials [31142063604626]" type="Box">6</container>
+          <container id="aspace_8993a31f8c85c0143b4ebea04844c3e5" parent="aspace_1cac69d0474345c5f199db0f947285d5" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_a0fb1f50e06a9f91a7e95164ec18ae8e" level="file">
+        <did>
+          <unittitle>My Therapist Said: additional therapy poems</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_497b28c3493a6981549842aac5a20a8f" label="Mixed Materials [31142063604626]" type="Box">6</container>
+          <container id="aspace_9e617e204251ab2c410c4d228851e624" parent="aspace_497b28c3493a6981549842aac5a20a8f" type="Folder">7-9</container>
+        </did>
+      </c>
+      <c id="aspace_79371f831babce1a4995cc3862fae1e9" level="file">
+        <did>
+          <unittitle>My Therapist Said: tour</unittitle>
+          <unitdate datechar="creation" normal="1998/1998">1998</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_7fde61018177868b25cd0a6432cf13f1" label="Mixed Materials [31142063604626]" type="Box">6</container>
+          <container id="aspace_ed7684e183a6e6cff7f41658e22e0ae3" parent="aspace_7fde61018177868b25cd0a6432cf13f1" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_0ce522755b44dc73f08e10648de3adde" level="file">
+        <did>
+          <unittitle>National Poetry Slam Championship</unittitle>
+          <unitdate datechar="creation" normal="1997/1997">1997</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_4cafba2e9a0d0a6c8daba99386bd6461" label="Mixed Materials [31142063604626]" type="Box">6</container>
+          <container id="aspace_f4dcad39aa47d48b6646c092b7beb5f9" parent="aspace_4cafba2e9a0d0a6c8daba99386bd6461" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_db395d3815954c3f34990fb20bc21dbb" level="file">
+        <did>
+          <unittitle>New Manuscript</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_a8d00175fa303f03e477f5f8a6e2792e" label="Mixed Materials [31142063604626]" type="Box">6</container>
+          <container id="aspace_20976d69bf499faf41088fe66c81388b" parent="aspace_a8d00175fa303f03e477f5f8a6e2792e" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_72a5a80febda4be496d7727971a488d2" level="file">
+        <did>
+          <unittitle>The Next Ancient World by Jennifer Michael Hecht</unittitle>
+          <unitdate datechar="creation" normal="2001/2001">circa 2001</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_aa265692c36a3170b68f8fe27a1d38a4" label="Mixed Materials [31142063604626]" type="Box">6</container>
+          <container id="aspace_41f28932ee0bfdc025c3bb0af10ae40a" parent="aspace_aa265692c36a3170b68f8fe27a1d38a4" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_17cacb6f12cce0e7aac50ce262ccef0b" level="file">
+        <did>
+          <unittitle>Notebook</unittitle>
+          <unitdate datechar="creation" normal="1986/2000" type="inclusive">1986-2000, undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_7b299171ed0c83154d61dbd93a362015" label="Mixed Materials [31142063604626]" type="Box">6</container>
+          <container id="aspace_d42a1a5cc4c432e7fdfdfcd3d62a2b30" parent="aspace_7b299171ed0c83154d61dbd93a362015" type="Folder">14-34</container>
+        </did>
+      </c>
+      <c id="aspace_035b4da607dbd36d46f99049cea79628" level="file">
+        <did>
+          <unittitle>Olso tour</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_ccacffac7baf5dbc4665104b9c2f97e6" label="Mixed Materials [31142063604626]" type="Box">6</container>
+          <container id="aspace_2a30d0a7c0821378f82c26c3a95dcc73" parent="aspace_ccacffac7baf5dbc4665104b9c2f97e6" type="Folder">35</container>
+        </did>
+      </c>
+      <c id="aspace_a960e6e342593f4b35d5e198496f1181" level="file">
+        <did>
+          <unittitle>Performance notes</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_88aa2ea438d89980930579054089269b" label="Mixed Materials [31142063604626]" type="Box">6</container>
+          <container id="aspace_e94e676d815a3fc204715811cc6db4c1" parent="aspace_88aa2ea438d89980930579054089269b" type="Folder">36</container>
+        </did>
+      </c>
+      <c id="aspace_ddf449a95c6cfb8c80af2654388af358" level="file">
+        <did>
+          <unittitle>Personal effects</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_b7b1cd60ff8755f0e7444357de251d45" label="Mixed Materials [31142063604626]" type="Box">6</container>
+          <container id="aspace_1287f0ebbde26ec61590a54ca0002726" parent="aspace_b7b1cd60ff8755f0e7444357de251d45" type="Folder">37</container>
+        </did>
+      </c>
+      <c id="aspace_dca77f62117c9bf78484c21270ab43db" level="file">
+        <did>
+          <unittitle>Personal materials</unittitle>
+          <unitdate datechar="creation" normal="1964/1966" type="inclusive">1964-1966</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_2c5b74cf0feadb9a1871dbfb4db8db48" label="Mixed Materials [31142063604626]" type="Box">6</container>
+          <container id="aspace_fb4021d84f659f3d3904947b4eb68a8c" parent="aspace_2c5b74cf0feadb9a1871dbfb4db8db48" type="Folder">38</container>
+        </did>
+      </c>
+      <c id="aspace_c2e39a1bc2c517a26597b8a47cd96872" level="file">
+        <did>
+          <unittitle>Photographs</unittitle>
+          <unitdate datechar="creation" normal="1997/1997">1997, undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_344f0ff029265dacc709567f5eae8d7f" label="Mixed Materials [31142063604626]" type="Box">6</container>
+          <container id="aspace_eaf823490cf049b39da719f0f74460d6" parent="aspace_344f0ff029265dacc709567f5eae8d7f" type="Folder">39</container>
+        </did>
+      </c>
+      <c id="aspace_12bc5da1fd59f51916e1ecea9b96b851" level="file">
+        <did>
+          <unittitle>Poems by Mia Hansford</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_7ec3501968da545902605efd1bbdc4ae" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_d84b0de5d1ca72eb83828a5d835c0f89" parent="aspace_7ec3501968da545902605efd1bbdc4ae" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_d31f364130b21c1ad91b68a0924059f9" level="file">
+        <did>
+          <unittitle>Poet Laureate of Queens Award</unittitle>
+          <unitdate datechar="creation" normal="1997/2001" type="inclusive">1997-2001</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_c1272e315d5971cf5376938015a154f9" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_b2bdb18e5741539bb7fc23ea400b216a" parent="aspace_c1272e315d5971cf5376938015a154f9" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_b47c66d0fc788df250846d61058c2d02" level="file">
+        <did>
+          <unittitle>Poets Against War</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_841dc3a71c68eeab4be89308cc72880e" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_a9c7bcb60bb7091e55517f1ab79ba659" parent="aspace_841dc3a71c68eeab4be89308cc72880e" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_bf1a1bbd929398f2e7ac4b711e77eb8d" level="file">
+        <did>
+          <unittitle>Poet's House: "Friends in the House"</unittitle>
+          <unitdate datechar="creation" normal="1997/1997">1997</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_f5770b17f89940bde24cfa357f86d56b" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_d4928e3a07ebc96ee7d58db24f46487e" parent="aspace_f5770b17f89940bde24cfa357f86d56b" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_193d130c19567b2ca31c06bce200d40f" level="file">
+        <did>
+          <unittitle>Promotional materials</unittitle>
+          <unitdate datechar="creation" normal="1989/2000" type="inclusive">1989-2000, undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_cd5cd9015029873e357a653dbf36915a" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_0b0ed2c21b800e9ef925aa6223c2ac16" parent="aspace_cd5cd9015029873e357a653dbf36915a" type="Folder">5-7</container>
+        </did>
+      </c>
+      <c id="aspace_193c663d5667580793a16814f3de4553" level="file">
+        <did>
+          <unittitle>Promotional writing</unittitle>
+          <unitdate datechar="creation" normal="1993/1997" type="inclusive">1993, 1997, undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_0936f27ac609cfd32cbaa6c0086d2eab" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_e927a2852dd6b2b2b0acec33872255d8" parent="aspace_0936f27ac609cfd32cbaa6c0086d2eab" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_f35c1d5e071dbbd3ef71781bb7e14a27" level="file">
+        <did>
+          <unittitle>Prose poems</unittitle>
+          <unitdate datechar="creation" normal="2000/2000">2000, undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_1096ee9deaaadc452c9c683830057839" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_7615caf4cdcb728d5b7d58c3038a451c" parent="aspace_1096ee9deaaadc452c9c683830057839" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_1e1d655a90a78599c1a141492707d8de" level="file">
+        <did>
+          <unittitle>Racing to Oblivion poems</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_6925ee916e75284d1c2cdca2383b0d1e" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_901b0e8d426c50637d42bb85cdaa2dd6" parent="aspace_6925ee916e75284d1c2cdca2383b0d1e" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_e4ddb06e522491435f0a159659501832" level="file">
+        <did>
+          <unittitle>Receipts</unittitle>
+          <unitdate datechar="creation" normal="2000/2000">2000</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_d6aa59684612dc41ff72539c7f006d60" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_84b9f305fa615d8732de8556cfc5c049" parent="aspace_d6aa59684612dc41ff72539c7f006d60" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_8164e680cde5a6adc666cfef64022c4c" level="file">
+        <did>
+          <unittitle>Sales records</unittitle>
+          <unitdate datechar="creation" normal="1993/1993">1993</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_bfd1d695eb04dd805ba9cf7290e8e168" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_9b6d35f81d8301215abadd99c2e30f0c" parent="aspace_bfd1d695eb04dd805ba9cf7290e8e168" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_1d2c1492029cbc50a5083cc3f221fa16" level="file">
+        <did>
+          <unittitle>The Same Blood</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_433446a1760106272aea1eab91c4aa72" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_37e3b8eaab35d1db83c9c1270204ab54" parent="aspace_433446a1760106272aea1eab91c4aa72" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_46de9545d2abad09502ec9fb07c6ced0" level="file">
+        <did>
+          <unittitle>Searching at the Door: A Play</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_33ba5a5d2470ab7bba3b43508cc1ad9f" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_201a7ebf0978178d72be1c7f142558fd" parent="aspace_33ba5a5d2470ab7bba3b43508cc1ad9f" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_14e745e0b26cd60626e0b293a1f7d723" level="file">
+        <did>
+          <unittitle>Sitting Around While the Neighbors are Fighting: A Play</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_e41e98b459f52161e748f1ecad4374ef" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_2741480fc883358625d2a87e452afbc1" parent="aspace_e41e98b459f52161e748f1ecad4374ef" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_4ce3fcb087cdbc08669f556d574f4e81" level="file">
+        <did>
+          <unittitle>Softic, Tanja</unittitle>
+          <unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_df59a2e68081a1890f78db82245c4331" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_6e06c0aa598e18df3f16ca5df146953a" parent="aspace_df59a2e68081a1890f78db82245c4331" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_4182b4bd41fe9d5874ff20f14e6c7923" level="file">
+        <did>
+          <unittitle>Teaching Materials</unittitle>
+          <unitdate datechar="creation" normal="1987/1996" type="inclusive">1987-1996, undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_335ffd4743e6833aee3547e9ad3bcd6c" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_fc8ae4eff2685be646d4c105340e6b1f" parent="aspace_335ffd4743e6833aee3547e9ad3bcd6c" type="Folder">17-19</container>
+        </did>
+      </c>
+      <c id="aspace_260041e2afe2958dd3c0a940cbd8c7ad" level="file">
+        <did>
+          <unittitle>These Are My Parents, and This Is My Girl</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_3c8fa4d1f36041ceb2eae0d787c0a292" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_df23eefe78113551c6c2f1f055ee58a7" parent="aspace_3c8fa4d1f36041ceb2eae0d787c0a292" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_ead47483e3d78d1082416ec79e976e3b" level="file">
+        <did>
+          <unittitle>Tobin, Juanita</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_dbd92d613835e9a811d94ededded3e14" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_1b5abbd94bd9dbefbd7ce1cb5fb00307" parent="aspace_dbd92d613835e9a811d94ededded3e14" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_4d0146293a84303cacd9c00eec08ef0c" level="file">
+        <did>
+          <unittitle>Torrez, Juliette</unittitle>
+          <unitdate datechar="creation" normal="1996/1996">1996, undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_2da96e3951411180b98b577225a5ed0f" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_466f91ffdc50ba4eb556d9fefb444d9c" parent="aspace_2da96e3951411180b98b577225a5ed0f" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_8582c4c386c6826eeed0620e2da1208f" level="file">
+        <did>
+          <unittitle>Travel documentation</unittitle>
+          <unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_17872bd0f474e2354b167790f2a72fe5" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_48b4207f1933a0356caeab3cb68e6db9" parent="aspace_17872bd0f474e2354b167790f2a72fe5" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_31e6b52332c89c9e51bfa82d6456da74" level="file">
+        <did>
+          <unittitle>Two-Ton Santa, Issue 97</unittitle>
+          <unitdate datechar="creation" normal="1993/1993">1993</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_87f0780032eea6d469a5891659904e31" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_43cf9a6ff71585984e2c93074ae5417e" parent="aspace_87f0780032eea6d469a5891659904e31" type="Folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_0ef5597d2000572dbda83a03d2e8839b" level="file">
+        <did>
+          <unittitle>An Unbearable Assembling, Number Two</unittitle>
+          <unitdate datechar="creation" normal="1995/1995">1995</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_9a19badf1d4ec14f4557aece3183e39c" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_f61c2579b95bfbac594f866de9c63499" parent="aspace_9a19badf1d4ec14f4557aece3183e39c" type="Folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_51b00cf0fdfcecbea8abc9a0dccc6676" level="file">
+        <did>
+          <unittitle>Voices of Queens Festival</unittitle>
+          <unitdate datechar="creation" normal="2001/2001">2001</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_70278fb0aa6a07b631b3ac2730381def" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_59794d32f1403ee6d798eb30d12c4f82" parent="aspace_70278fb0aa6a07b631b3ac2730381def" type="Folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_31ad094f3f50d302db24b5ecea0a4d0f" level="file">
+        <did>
+          <unittitle>The Waiting Room Was Empty: A Play</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_58d85d9f0642f8c8d90c9faf11d578ae" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_920c15e5a94578db1eae0fe3aa100073" parent="aspace_58d85d9f0642f8c8d90c9faf11d578ae" type="Folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_d9e87c11ee79447a49cef027c661871d" level="file">
+        <did>
+          <unittitle>War Against Slime</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_ec435fc781f699f36cf1046964a3ad54" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_bddc16af9795c1be968f250b6c722339" parent="aspace_ec435fc781f699f36cf1046964a3ad54" type="Folder">28</container>
+        </did>
+      </c>
+      <c id="aspace_6b9059c8e73db2e0e47a2d14149be69b" level="file">
+        <did>
+          <unittitle>We Could Have Been Better Dance Partners</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_0a5deadbbd6906d30c179f90bb9685f0" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_f649edd95dc981e7d323cecc9d79d95d" parent="aspace_0a5deadbbd6906d30c179f90bb9685f0" type="Folder">29-30</container>
+        </did>
+      </c>
+      <c id="aspace_aa8e300ca717c71216f3a25d4fbe672c" level="file">
+        <did>
+          <unittitle>When Mother Stopped Speaking: A Memoir</unittitle>
+          <unitdate datechar="creation" normal="1997/1997">1997</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_c2957483958e88d3fd13f82582042fb2" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_354fdcadf070ca05ab26bd7536f2a683" parent="aspace_c2957483958e88d3fd13f82582042fb2" type="Folder">31</container>
+        </did>
+      </c>
+      <c id="aspace_d8d8df1f64a5903bc98b92923ec9abae" level="file">
+        <did>
+          <unittitle>When Sex Gets Mixed Up With Love</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_92e562bb6b6bd51fad08f9729eeeddf3" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_dc9873a21b9e11e499b88361388deae1" parent="aspace_92e562bb6b6bd51fad08f9729eeeddf3" type="Folder">32</container>
+        </did>
+      </c>
+      <c id="aspace_1abe8479a145bf44dc5b4a7533cacfd5" level="file">
+        <did>
+          <unittitle>Why Sparrow Should Be President</unittitle>
+          <unitdate datechar="creation" normal="1992/1992">circa 1992</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_3a743c3e023da786f2238f6353350a96" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_f3a259c017c96fe08d518d19c2295163" parent="aspace_3a743c3e023da786f2238f6353350a96" type="Folder">33</container>
+        </did>
+      </c>
+      <c id="aspace_c7de3fa92bdd388dcd40c0e511e05197" level="file">
+        <did>
+          <unittitle>Wilson, Blair</unittitle>
+          <unitdate datechar="creation" normal="1992/1997" type="inclusive">1992-1997, undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_8f94972dae3c8a43b74606a9903498bd" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_4b5ee95e35c53367b2b2a40fdf2817af" parent="aspace_8f94972dae3c8a43b74606a9903498bd" type="Folder">34-35</container>
+        </did>
+      </c>
+      <c id="aspace_c9d733a26815fabaefca2071ca624cc1" level="file">
+        <did>
+          <unittitle>Clippings</unittitle>
+          <unitdate datechar="creation" normal="1982/1982">1982</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_47ff60c1410833b8f167f2bb83b819c1" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_a0a04a9d8468050cd8c0325c1e7c834b" parent="aspace_47ff60c1410833b8f167f2bb83b819c1" type="Folder">36</container>
+        </did>
+      </c>
+      <c id="aspace_6978e99c75714951081cdf7317c090c5" level="file">
+        <did>
+          <unittitle>Correspondence: personal</unittitle>
+          <unitdate datechar="creation" normal="1982/1982">1982</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_5a2b07242dcc3b9352668fc2d903bd42" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_f12ec44c66677e5dfa3e669c640f271b" parent="aspace_5a2b07242dcc3b9352668fc2d903bd42" type="Folder">37</container>
+        </did>
+      </c>
+      <c id="aspace_25e104e918de7c92469fb2e82cf8a271" level="file">
+        <did>
+          <unittitle>Correspondence: professional</unittitle>
+          <unitdate datechar="creation" normal="1998/1998">1998</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_65e1127c86b01296b53bdf1afc6b7e1f" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_945614e5a91ba15afc4655f803f9054e" parent="aspace_65e1127c86b01296b53bdf1afc6b7e1f" type="Folder">38</container>
+        </did>
+      </c>
+      <c id="aspace_5f919b8810e5be4f36c873c333335bc5" level="file">
+        <did>
+          <unittitle>Direct Mail</unittitle>
+          <unitdate datechar="creation" normal="2002/2002">2002</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_55a04b0496702b317586f6e1d9b5c583" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_80e2b196707ccb540aebb833f3f91ee8" parent="aspace_55a04b0496702b317586f6e1d9b5c583" type="Folder">39</container>
+        </did>
+      </c>
+      <c id="aspace_e8dbcc9566c57f154e9b70312ca166de" level="file">
+        <did>
+          <unittitle>Ephemera</unittitle>
+          <unitdate datechar="creation" normal="1981/2001" type="inclusive">1982-2001, undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_9cf39081e3de4708aca7c10127f36c57" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_7ae17a80c3ca7e455689cb02a5208118" parent="aspace_9cf39081e3de4708aca7c10127f36c57" type="Folder">40-41</container>
+        </did>
+      </c>
+      <c id="aspace_b0268a9aaea9cae8bed8626a609bcce8" level="file">
+        <did>
+          <unittitle>Kupferberg, Tuli</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_33b15b5d3f066757ebf7750dde4973ec" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_a5bc2f7a78d036ffb8405c32ea047ab8" parent="aspace_33b15b5d3f066757ebf7750dde4973ec" type="Folder">42</container>
+        </did>
+      </c>
+      <c id="aspace_85388c1e11a07cb9e37cf7e9d1c0a9d0" level="file">
+        <did>
+          <unittitle>Manuscripts</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_1c8a969db87a47481e562a5a19afc603" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_a7f3a6373f1038733c553e715aab0efc" parent="aspace_1c8a969db87a47481e562a5a19afc603" type="Folder">43</container>
+        </did>
+      </c>
+      <c id="aspace_c7c6fb0d88808b99c23c4f8dc422186d" level="file">
+        <did>
+          <unittitle>Promotional materials</unittitle>
+          <unitdate datechar="creation" normal="1982/2001" type="inclusive">1982-2001, undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_ef1a822ef69615600b45920bc592e684" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_eef57817f182bac0d0722af4645c6697" parent="aspace_ef1a822ef69615600b45920bc592e684" type="Folder">44</container>
+        </did>
+      </c>
+      <c id="aspace_5da07da9dbea5140118e9fdd59675c80" level="file">
+        <did>
+          <unittitle>Sales records</unittitle>
+          <unitdate datechar="creation" normal="1983/1983">1983</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_4e717bb24f76c0b9467a8d366f55845e" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_5d29494e030df8cebf7f1cbcde865991" parent="aspace_4e717bb24f76c0b9467a8d366f55845e" type="Folder">45</container>
+        </did>
+      </c>
+      <c id="aspace_551f4a5760e2e4d0d9b311646e1a9ca8" level="file">
+        <did>
+          <unittitle>Submission research</unittitle>
+          <unitdate datechar="creation" normal="1986/1986">1986, undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_4580145b983fe0011dfb235c389c334e" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_1c9c5d1b8ecfb76643ad1f5904628c84" parent="aspace_4580145b983fe0011dfb235c389c334e" type="Folder">46</container>
+        </did>
+      </c>
+      <c id="aspace_75e4195d4acf9226feb6c613be680834" level="file">
+        <did>
+          <unittitle>Writings: unidentified authors</unittitle>
+          <unitdate datechar="creation" normal="2001/2001">2001, undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_a165cb07ea337587b5c9c24cb78c0f3a" label="Mixed Materials [31142063604634]" type="Box">7</container>
+          <container id="aspace_1305664f2799803c2a3a3af52dd10935" parent="aspace_a165cb07ea337587b5c9c24cb78c0f3a" type="Folder">47</container>
+        </did>
+      </c>
+      <c id="aspace_ref4" level="file">
+        <did>
+          <unittitle>"I Finally Managed to Speak to Her"</unittitle>
+          <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+          <container altrender="Oversize Folder - Full Case" id="aspace_c468e93b4496f1e5b420f648b7043c6c" label="Mixed Materials [31142062893352]" type="Folder">7</container>
+        </did>
+        <scopecontent id="aspace_3bc5d033aaf79dbb817e42e464c88d6e">
+          <head>Scope and Contents</head>
+          <p>From the New York City Metropolitan Transit Authority "Poetry in Motion" series.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_bebbbd86723f9531bed44d8aae5826a4" level="file">
+        <did>
+          <unittitle>Cover</unittitle>
+          <unitdate datechar="creation" normal="1986-10/1993-05" type="inclusive">1986-10-1993-05</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Flat OS Box - 16" id="aspace_d785efd62d8f13d404387de6f17f4746" label="Mixed Materials [31142063604667]" type="Box">8</container>
+          <container id="aspace_8c31a2437db224a6b12c31fc7dfdfc22" parent="aspace_d785efd62d8f13d404387de6f17f4746" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_32b8743403f46acf66405b7ebd9e8f0d" level="file">
+        <did>
+          <unittitle>Clippings</unittitle>
+          <unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Flat OS Box - 16" id="aspace_59ba1aa6efe97feec02aef6bf0313a7f" label="Mixed Materials [31142063604667]" type="Box">8</container>
+          <container id="aspace_171d3291f244376f1b23fb02d5a70b1a" parent="aspace_59ba1aa6efe97feec02aef6bf0313a7f" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_7ff8bfd678e03ecac41aeaf6e1035aa0" level="file">
+        <did>
+          <unittitle>Avenue E</unittitle>
+          <unitdate datechar="creation" normal="1986/1986">1986</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Flat OS Box - 16" id="aspace_32546c1094760f1115541f32a51ffe20" label="Mixed Materials [31142063604667]" type="Box">8</container>
+          <container id="aspace_e9dd2c7fd7b3118c3d3532a881ec544d" parent="aspace_32546c1094760f1115541f32a51ffe20" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_4542008f352d6fe1d4916256236d4731" level="file">
+        <did>
+          <unittitle>Exquisite Corpse</unittitle>
+          <unitdate datechar="creation" normal="1994/1995" type="inclusive">1994-1995</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Flat OS Box - 16" id="aspace_dc7029f6e1ab6f389008e8e0a51c61d7" label="Mixed Materials [31142063604667]" type="Box">8</container>
+          <container id="aspace_924695e5be7c50b8edc831612cc303c6" parent="aspace_dc7029f6e1ab6f389008e8e0a51c61d7" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_7b686d22113470920050389e57aecb23" level="file">
+        <did>
+          <unittitle>Wallpaper Magazine</unittitle>
+          <unitdate datechar="creation" normal="1985/1991" type="inclusive">1985-1991</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Flat OS Box - 16" id="aspace_89f60f55b109abc0b157164810ba6406" label="Mixed Materials [31142063604667]" type="Box">8</container>
+          <container id="aspace_ff244b84db5394e1ced433b30804759f" parent="aspace_89f60f55b109abc0b157164810ba6406" type="Folder">5-7</container>
+        </did>
+      </c>
+      <c id="aspace_194ff6405cd118f13f73e1a1344e5683" level="file">
+        <did>
+          <unittitle>Photographic print by Bob Witz</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Flat OS Box - 16" id="aspace_f3aeb10bfa74d3d4512d6522009be62d" label="Mixed Materials [31142063604667]" type="Box">8</container>
+          <container id="aspace_62e6311dbc67d10ad384a0fba98cde07" parent="aspace_f3aeb10bfa74d3d4512d6522009be62d" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_8db4a5af64096ddf0822a55ad4e6dbc6" level="file">
+        <did>
+          <unittitle>Correspondence: personal</unittitle>
+          <unitdate datechar="creation" normal="1997/1997">1997</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Flat OS Box - 16" id="aspace_cc3844f06409451eda6cad67956e36eb" label="Mixed Materials [31142063604667]" type="Box">8</container>
+          <container id="aspace_087b7fc54b11b6ff83043a161cb62ba8" parent="aspace_cc3844f06409451eda6cad67956e36eb" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_9daffdaa4ee3e58f950d3d70ecd9db45" level="file">
+        <did>
+          <unittitle>Downtown</unittitle>
+          <unitdate datechar="creation" normal="1986/1994" type="inclusive">1986-1994</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Flat OS Box 17" id="aspace_c1f6222b1197f55429f55a3fb7b71d1a" label="Mixed Materials [31142062771814]" type="Box">9</container>
+          <container id="aspace_54fc5f7a0d6c6233d147bae81aab3867" parent="aspace_c1f6222b1197f55429f55a3fb7b71d1a" type="Folder">1-5</container>
+          <container altrender="Flat OS Box 17" id="aspace_85940f4430b7b2dabd605eb4dedbf913" label="Mixed Materials [31142062771822]" type="Box">10</container>
+          <container id="aspace_f129d5dc236c01608717c76c23dfc493" parent="aspace_85940f4430b7b2dabd605eb4dedbf913" type="Folder">1-4</container>
+        </did>
+      </c>
+      <c id="aspace_fbf08ea322c2ab6746ca7b9a02ea99d2" level="file">
+        <did>
+          <unittitle>Clippings</unittitle>
+          <unitdate datechar="creation" normal="1982/2002" type="inclusive">1982-2002</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_79d4202910919d9c2fdb6a0585683a18" label="Mixed Materials [31142062771830]" type="Box">11</container>
+          <container id="aspace_069c94727256f59bd88066783e6d2394" parent="aspace_79d4202910919d9c2fdb6a0585683a18" type="Folder">1-4</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_27a34b4f405dc3655f6e9c2ae69ad95e" label="Mixed Materials [31142062771848]" type="Box">12</container>
+          <container id="aspace_b0999160cc45821c16cf5579c9e0eaba" parent="aspace_27a34b4f405dc3655f6e9c2ae69ad95e" type="Folder">1-3</container>
+        </did>
+      </c>
+      <c id="aspace_bfb2ca150c52eda1f4976cce177e95be" level="file">
+        <did>
+          <unittitle>Poetry readings and plays [audiocassettes]</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_d6370d25a9f930a7c0807f9ad3de849c" label="Mixed Materials [31142062771855]" type="Box">13</container>
+          <container id="aspace_1861639bd4069ee01b0f1e90cf01c3b2" parent="aspace_d6370d25a9f930a7c0807f9ad3de849c" type="Folder">1-5</container>
+        </did>
+      </c>
+      <c id="aspace_c99a8a9e8bb88ba4c5cb027f5c65ed61" level="file">
+        <did>
+          <unittitle>Poetry readings and plays [VHS]</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_193b52015c1d6b97b907729c242c7543" label="Mixed Materials [31142062771855]" type="Box">13</container>
+          <container id="aspace_ee5930a26a27b2f26e5e26fa953e17b5" parent="aspace_193b52015c1d6b97b907729c242c7543" type="Folder">6-11</container>
+        </did>
+      </c>
+      <c id="aspace_9ebd16d6b72d59f8c56ef4941c7a1b6b" level="file">
+        <did>
+          <unittitle>Poetry and music  [CDs]</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="CD Box - 6  x 15" id="aspace_727c17bb6a93d82426a3e49f0fb4b567" label="Mixed Materials [31142062771863]" type="Box">Shared Fales 007</container>
+          <container id="aspace_97830f120d9c318fc03c75df9bcb34a8" parent="aspace_727c17bb6a93d82426a3e49f0fb4b567" type="Folder">1-17</container>
+        </did>
+      </c>
+      <c id="aspace_9521112bf5405f7caa7fe99ba5eb7f4e" level="file">
+        <did>
+          <unittitle>Print publications</unittitle>
+          <unitdate datechar="creation" normal="1974/2004" type="inclusive">1974-2004</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_dce1673279ead6a71720982973b8c467" label="Mixed Materials [31142062771871]" type="Box">14</container>
+          <container altrender="Record carton" id="aspace_88d908a708f995bfb229c911a06810ce" label="Mixed Materials [31142063604717]" type="Box">15</container>
+          <container id="aspace_9a4f5be9c910bd2a724a4cf0ba667fae" parent="aspace_88d908a708f995bfb229c911a06810ce" type="Folder">1-4</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_d43c12e8be52d27f66dbae16505dc637" label="Mixed Materials [31142062771889]" type="Box">16</container>
+          <container id="aspace_95e07eb034a51cb6e56b94baaab08c26" parent="aspace_d43c12e8be52d27f66dbae16505dc637" type="Folder">1-2</container>
+          <container altrender="Record carton" id="aspace_16aa7a497c0fb2369b4f5f233c1c893e" label="Mixed Materials [31142063604675]" type="Box">17</container>
+          <container altrender="Record carton" id="aspace_22e819bcbfe7acd5c03d1e225e1d5e65" label="Mixed Materials [31142063604683]" type="Box">18</container>
+          <container altrender="Record carton" id="aspace_98c4f993fc32685a29f658ee21c33668" label="Mixed Materials [31142063604691]" type="Box">19</container>
+          <container altrender="Record carton" id="aspace_17a2e157404c0516c7c4b73ca5a978c3" label="Mixed Materials [31142063604709]" type="Box">20</container>
+          <container altrender="Record carton" id="aspace_8bd9500d2fc455e5c4dd8a3d535fd1e6" label="Mixed Materials [31142063604733]" type="Box">21</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

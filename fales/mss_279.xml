@@ -1,60 +1,958 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_279">mss_279</eadid><filedesc><titlestmt><titleproper>Guide to the New York Women's Culinary Alliance Archive<lb/>1982-2010 <num>MSS.279</num></titleproper><author>Laura Newsome, 2014.</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>2014</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-12-12 21:25:33 -0500</date>.</creation><langusage>Description is in English</langusage></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Fales Library and Special Collections</corpname>
-    </repository>
-    <unittitle>New York Women's Culinary Alliance Archive</unittitle>
-    <origination label="Creator">
-      <corpname rules="dacs" source="local">New York Women's Culinary Alliance</corpname>
-    </origination>
-    <unitid>MSS.279</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
-      <extent altrender="carrier">in 3 boxes</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1982/2010" type="inclusive">1982-2010</unitdate>
-    <abstract id="aspace_ac045213bf9ab62a1a1569366fafba5f">The New York Women's Culinary Alliance, founded in 1981, fosters networking, education, and cooperation for women in the culinary and beverage fields in the New York metro area. Early founders inlcude Sara Moulton and Maria Reuge, and right from the start its members included well known authors, caterers, chefs, cooking school teachers, editors, food writers, marketers, photographers, and stylists. The Archive includes records of the organization's founding, meeting notes, membership directories, newsletters, and reports on activities and events. There is also a video of "Moulton Visuals".</abstract>
-    <langmaterial id="aspace_6a735c9a27004ba6d5a558d4b80a43cc">Materials are in English.</langmaterial>
-  </did>
-  <accessrestrict id="aspace_954c9669ffcc599cd3b21521bc059597">
-    <head>Conditions Governing Access</head>
-<p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </accessrestrict>
-  <acqinfo id="aspace_4e2b1212430f2ad909fa2515ad2cf1ef">
-    <head>Provenance</head>
-<p>The New York Women's Culinary Alliance Archive was donated to NYU's Fales Library &amp; Special Collections in 2010.</p>  </acqinfo>
-  <arrangement id="aspace_5fcf203a94e5138d24041a7cf3738902">
-    <head>Arrangement</head>
-<p>The New York Women's Culinary Alliance Archive is sorted into two series:</p><p>Series I: Organizational Records
-The materials are arranged alphabetically. There is one video element, which is at the end of the series.</p><p>Series II: Oral Histories</p>  </arrangement>
-  <bioghist id="aspace_2aa17e327d643c6dbfa4a6fb7e489e60">
-    <head>Historical Note</head>
-<p>The New York Women's Culinary Alliance, founded in 1981, fosters networking, education, and cooperation for women in the culinary and beverage fields in the New York metro area. The Alliance provides members with continuing education opportunities by sponsoring ongoing food and wine tastings, hands-on workshops, field trips, and business-related seminars. They also support the preservation and sharing of culinary information through member-generated programs. The Alliance assumes a dynamic role in community affairs, particularly through outreach programs and fund-raising for women's health and nutrition issues, and work with adults and children in need to teach them the basics of nutrition, food buying, and healthful meal preparation.</p><p>The Alliance came into being as the food world was turning toward more sophisticated flavors, seasonal cooking, and artisanal foods. The Alliance quickly became a forum for dozens of women whose careers centered upon food and beverages, encouraging them to meet, share expertise, and drive new directions in the food world. Early founders inlcude Sara Moulton and Maria Reuge, and right from the start its members included well known authors, caterers, chefs, cooking school teachers, editors, food writers, marketers, photographers, and stylists. Members of the Alliance have produced dozens of best-selling cookbooks, hosted nationally televised cooking shows, and produced or edited content for the country's leading magazines and newspapers.
- </p><p>Sources:<lb/>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_279">mss_279</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the New York Women's Culinary Alliance Archive<lb/>1982-2010 <num>MSS.279</num></titleproper>
+        <author>Laura Newsome, 2014.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+        <p>
+          <date>2014</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-12-12 21:25:33 -0500</date>.</creation>
+      <langusage>Description is in English</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>New York Women's Culinary Alliance Archive</unittitle>
+      <origination label="Creator">
+        <corpname rules="dacs" source="local">New York Women's Culinary Alliance</corpname>
+      </origination>
+      <unitid>MSS.279</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
+        <extent altrender="carrier">in 3 boxes</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1982/2010" type="inclusive">1982-2010</unitdate>
+      <abstract id="aspace_ac045213bf9ab62a1a1569366fafba5f">The New York Women's Culinary Alliance, founded in 1981, fosters networking, education, and cooperation for women in the culinary and beverage fields in the New York metro area. Early founders inlcude Sara Moulton and Maria Reuge, and right from the start its members included well known authors, caterers, chefs, cooking school teachers, editors, food writers, marketers, photographers, and stylists. The Archive includes records of the organization's founding, meeting notes, membership directories, newsletters, and reports on activities and events. There is also a video of "Moulton Visuals".</abstract>
+      <langmaterial id="aspace_6a735c9a27004ba6d5a558d4b80a43cc">Materials are in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_954c9669ffcc599cd3b21521bc059597">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_4e2b1212430f2ad909fa2515ad2cf1ef">
+      <head>Provenance</head>
+      <p>The New York Women's Culinary Alliance Archive was donated to NYU's Fales Library &amp; Special Collections in 2010.</p>
+    </acqinfo>
+    <arrangement id="aspace_5fcf203a94e5138d24041a7cf3738902">
+      <head>Arrangement</head>
+      <p>The New York Women's Culinary Alliance Archive is sorted into two series:</p>
+      <p>Series I: Organizational Records
+The materials are arranged alphabetically. There is one video element, which is at the end of the series.</p>
+      <p>Series II: Oral Histories</p>
+    </arrangement>
+    <bioghist id="aspace_2aa17e327d643c6dbfa4a6fb7e489e60">
+      <head>Historical Note</head>
+      <p>The New York Women's Culinary Alliance, founded in 1981, fosters networking, education, and cooperation for women in the culinary and beverage fields in the New York metro area. The Alliance provides members with continuing education opportunities by sponsoring ongoing food and wine tastings, hands-on workshops, field trips, and business-related seminars. They also support the preservation and sharing of culinary information through member-generated programs. The Alliance assumes a dynamic role in community affairs, particularly through outreach programs and fund-raising for women's health and nutrition issues, and work with adults and children in need to teach them the basics of nutrition, food buying, and healthful meal preparation.</p>
+      <p>The Alliance came into being as the food world was turning toward more sophisticated flavors, seasonal cooking, and artisanal foods. The Alliance quickly became a forum for dozens of women whose careers centered upon food and beverages, encouraging them to meet, share expertise, and drive new directions in the food world. Early founders inlcude Sara Moulton and Maria Reuge, and right from the start its members included well known authors, caterers, chefs, cooking school teachers, editors, food writers, marketers, photographers, and stylists. Members of the Alliance have produced dozens of best-selling cookbooks, hosted nationally televised cooking shows, and produced or edited content for the country's leading magazines and newspapers.
+ </p>
+      <p>Sources:<lb/>
 Excerpt from press release of NYU's acquisition of the archive <lb/>
-New York Women's Culinary Alliance wesbite (www.nywca.org)</p>  </bioghist>
-  <phystech id="aspace_93d5834b089ef9653874cdd84afd9552">
-    <head>Physical Characteristics and Technical Requirements</head>
-<p>Audiovisual materials have not been preserved and may not be available to researchers.</p>  </phystech>
-  <prefercite id="aspace_a07068980710d3f55d2da945dbc54c3d">
-    <head>Preferred Citation</head>
-<p>Published citations should take the
+New York Women's Culinary Alliance wesbite (www.nywca.org)</p>
+    </bioghist>
+    <phystech id="aspace_93d5834b089ef9653874cdd84afd9552">
+      <head>Physical Characteristics and Technical Requirements</head>
+      <p>Audiovisual materials have not been preserved and may not be available to researchers.</p>
+    </phystech>
+    <prefercite id="aspace_a07068980710d3f55d2da945dbc54c3d">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the
 following form:<lb/><lb/>
-Identification of item,  date (if known); New York Women's Culinary Alliance Archive; MSS 279; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>  </prefercite>
-  <scopecontent id="aspace_d2d107d5665948401a5a252cecf5fdc7">
-    <head>Scope and Content</head>
-<p>This collection includes records of the organization's founding, meeting notes, membership directories, newsletters, and reports on activities and events. There is also a video of "Moulton Visuals".</p>  </scopecontent>
-  <userestrict id="aspace_4dce350b1522b5df54ace3bbea8c866b">
-    <head>Conditions Governing Use</head>
-<p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </userestrict>
-  <controlaccess>
-    <subject source="local">Culinary industry.</subject>
-    <subject source="lcsh">Food habits -- New York (State) -- New York</subject>
-    <subject source="lcsh">Women in the food industry.</subject>
-    <subject source="lcsh">Food industry and trade |z New York (State) |z New York</subject>
-    <corpname rules="dacs" source="local">New York Women's Culinary Alliance</corpname>
-    <persname rules="dacs" source="naf">Moulton, Sara, 1952-</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref1" level="series"><did><unittitle>Series I: Organizational Records</unittitle></did><c id="aspace_ref2" level="file"><did><unittitle>Alliance bylaw chances</unittitle><unitdate datechar="creation">2005</unitdate><container id="aspace_bada0d40b7be2f6c6fd90003ebc90ed2" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_698a6ccf3ad589a37060509ce2e1fa0f" parent="aspace_bada0d40b7be2f6c6fd90003ebc90ed2" type="Folder">1</container></did></c><c id="aspace_ref3" level="file"><did><unittitle>Anniversary Program</unittitle><unitdate datechar="creation">2001</unitdate><container id="aspace_dd2e12102c77ccf66aeb1ffb7ff126f5" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_8252fdc2b375badc10bfb7cf2fe87b2b" parent="aspace_dd2e12102c77ccf66aeb1ffb7ff126f5" type="Folder">2</container></did></c><c id="aspace_ref4" level="file"><did><unittitle>Beard Foundation</unittitle><unitdate datechar="creation">2002</unitdate><container id="aspace_50490a5a758ff3131614056015bdd807" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_05ca74eba6330555879f7e40482c3807" parent="aspace_50490a5a758ff3131614056015bdd807" type="Folder">3</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>Binders - newsletters, website, etc.</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_76dbec1c6b87270d421e7ed87b6b02d8" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_1278d7c9ba9f985f8e36f5bf30949b19" parent="aspace_76dbec1c6b87270d421e7ed87b6b02d8" type="Folder">4</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Board Meetings</unittitle><unitdate datechar="creation">1982</unitdate><container id="aspace_68070a2c62a69d7f4c41c7ae2a308f4b" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_cba6c6e86d6c9141a2114c27889f93e2" parent="aspace_68070a2c62a69d7f4c41c7ae2a308f4b" type="Folder">5</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Board Meetings</unittitle><unitdate datechar="creation">1983</unitdate><container id="aspace_436811ba26bc4bdb8ac6529b7d61e964" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_d5427bb156acf54de785c959a0033ba6" parent="aspace_436811ba26bc4bdb8ac6529b7d61e964" type="Folder">6</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Board Meetings</unittitle><unitdate datechar="creation">1984</unitdate><container id="aspace_8763bdaa504a73941b78a6d63234fdc6" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_f93c299a682638eec0c2e66e56ceca76" parent="aspace_8763bdaa504a73941b78a6d63234fdc6" type="Folder">7</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Board Meetings</unittitle><unitdate datechar="creation">1985</unitdate><container id="aspace_0cacd8fa5a677a10174988bd2d8b6863" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_c7386a4704b96c786ccc7aeea4c81359" parent="aspace_0cacd8fa5a677a10174988bd2d8b6863" type="Folder">8</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Board Meetings</unittitle><unitdate datechar="creation">1986</unitdate><container id="aspace_b5c5111f441ac201a001d025a9eb4ce1" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_9b0787544a0689729442feec47ad0ce0" parent="aspace_b5c5111f441ac201a001d025a9eb4ce1" type="Folder">9</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Board Meetings</unittitle><unitdate datechar="creation">1987</unitdate><container id="aspace_babfb59d4c8514962f2d741646a0496d" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_2f885e686965c53dfd359735457c0dcf" parent="aspace_babfb59d4c8514962f2d741646a0496d" type="Folder">10</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Board Meetings</unittitle><unitdate datechar="creation">1988</unitdate><container id="aspace_9498f5abe084c0c6477496ebe2d84112" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_3795bc073c320f4b0f000741e861db1e" parent="aspace_9498f5abe084c0c6477496ebe2d84112" type="Folder">11</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Board Meetings</unittitle><unitdate datechar="creation">1989</unitdate><container id="aspace_ce595de4b4795110a0a15e0fb0dcb9f4" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_c90169017c102f3c4de28f86fb7dae6d" parent="aspace_ce595de4b4795110a0a15e0fb0dcb9f4" type="Folder">12</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Board Meetings</unittitle><unitdate datechar="creation">1990</unitdate><container id="aspace_9883ebfc51998174b4948ea94c8f102d" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_62e7e9f22fff33bc182d946f92a5d9f3" parent="aspace_9883ebfc51998174b4948ea94c8f102d" type="Folder">13</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Board Meetings</unittitle><unitdate datechar="creation">1991</unitdate><container id="aspace_026d44fc7e8b62df88fc6924a0efd6f5" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_10f78ce1804888eb6ba838803f273c14" parent="aspace_026d44fc7e8b62df88fc6924a0efd6f5" type="Folder">14</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Board Meetings</unittitle><unitdate datechar="creation">1992</unitdate><container id="aspace_297431560e7a1b619c395636a4885506" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_c622c2e3b0bf099626669012cbbdfcfa" parent="aspace_297431560e7a1b619c395636a4885506" type="Folder">15</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Board Meetings</unittitle><unitdate datechar="creation">1993</unitdate><container id="aspace_827994f5d672763278f3556f088e9cc7" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_7e01737ae7d2a4f42b9becc848d2e265" parent="aspace_827994f5d672763278f3556f088e9cc7" type="Folder">16</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Board Meetings</unittitle><unitdate datechar="creation">1994</unitdate><container id="aspace_4fe260436a3799f5d0b82c42108a546b" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_82f5df8d8a72d4c64fbef0b5d0485865" parent="aspace_4fe260436a3799f5d0b82c42108a546b" type="Folder">17</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Board Meetings</unittitle><unitdate datechar="creation">1995</unitdate><container id="aspace_86cce51d76c92a1b973e1f12e63d1ae9" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_6c7ed00738622f2792ee18a6297a1b8a" parent="aspace_86cce51d76c92a1b973e1f12e63d1ae9" type="Folder">18</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Board Meetings</unittitle><unitdate datechar="creation">1996</unitdate><container id="aspace_d3a036b0f364448538f7aa29e5984b68" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_a93b7e944a48d971d1adf1fba8b8fb8b" parent="aspace_d3a036b0f364448538f7aa29e5984b68" type="Folder">19</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Board Meetings</unittitle><unitdate datechar="creation">1997</unitdate><container id="aspace_ea7bf7e4fabcb41b5792b41d4ea4266f" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_a77f9526be9630efbbdbd524c6b838f2" parent="aspace_ea7bf7e4fabcb41b5792b41d4ea4266f" type="Folder">20</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Budgets</unittitle><unitdate datechar="creation" normal="1998/2002" type="inclusive">1998-2002</unitdate><container id="aspace_2dd28dde71fe6ddaa56175484b724bed" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_43ac4e623f76d0eecc36810304fa1f05" parent="aspace_2dd28dde71fe6ddaa56175484b724bed" type="Folder">21</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>California Table Grape Commission - fundraiser</unittitle><unitdate datechar="creation">2002</unitdate><container id="aspace_155173bbd6968df87d30a2caa963e337" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_1269f91f6cce7bbb1aaaf2c93dafb8fa" parent="aspace_155173bbd6968df87d30a2caa963e337" type="Folder">22</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Cancer fighting Food - fundraiser</unittitle><unitdate datechar="creation">2000</unitdate><container id="aspace_425e22f5d912d571db577215a1a79a21" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_c2e550120c113d0091a58165b3367f84" parent="aspace_425e22f5d912d571db577215a1a79a21" type="Folder">23</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Contracts - space rental</unittitle><unitdate datechar="creation" normal="1993/2005" type="inclusive">1993-2005</unitdate><container id="aspace_f88040e1bcf3caa1deaab80241339c23" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_ee205476cfbd4786351d45451592b7aa" parent="aspace_f88040e1bcf3caa1deaab80241339c23" type="Folder">24</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Cooking with Kids - insert</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_ba2e1aa66a29b3cacf50e29097b9a81f" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_7227cc9ce80056ce5c55793afa4b1046" parent="aspace_ba2e1aa66a29b3cacf50e29097b9a81f" type="Folder">25</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Culinary Alliance - "Facts to File", "Provisionally Speaking"</unittitle><unitdate datechar="creation">1980's</unitdate><container id="aspace_75c99fd5888b72228f1a4f5387514071" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_969d4492feeac302467f379d830f9fe0" parent="aspace_75c99fd5888b72228f1a4f5387514071" type="Folder">26</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Days of Taste - Girls Give Back</unittitle><unitdate datechar="creation">2004</unitdate><container id="aspace_c56a6ce8a2c4283529554c66e19a1060" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_4850e02b74af7f3e26073565e7b90e69" parent="aspace_c56a6ce8a2c4283529554c66e19a1060" type="Folder">27</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Dinner Party Project (Days of Taste)</unittitle><unitdate datechar="creation">1999</unitdate><container id="aspace_b849c26604a59aa7b498f7b8a84e4565" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_2ff0d4bd1b26f44cef500709831f7789" parent="aspace_b849c26604a59aa7b498f7b8a84e4565" type="Folder">28</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Directory</unittitle><unitdate datechar="creation">1999</unitdate><container id="aspace_2e3e389cdee0ec2d73e931ad238dbcd5" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_25181bb4c7bd588fc39eaee443501092" parent="aspace_2e3e389cdee0ec2d73e931ad238dbcd5" type="Folder">29</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>For the Love of Chocolate (fundraiser for City Harvest) - Event Info</unittitle><unitdate datechar="creation">1996</unitdate><container id="aspace_0c3b60a2bab3dbcd85947e3c271344af" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_f3c23acf65548865b0ee5d67fe27ce25" parent="aspace_0c3b60a2bab3dbcd85947e3c271344af" type="Folder">30</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>For the Love of Chocolate (fundraiser for City Harvest) - Exhibitor responses</unittitle><unitdate datechar="creation">1996</unitdate><container id="aspace_7eac4eadcd3c9d9c125216fed15fca83" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_954b058ac63af211c73a587c85a403e9" parent="aspace_7eac4eadcd3c9d9c125216fed15fca83" type="Folder">31</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>For the Love of Chocolate (fundraiser for City Harvest) - loose items</unittitle><unitdate datechar="creation">1996</unitdate><container id="aspace_4623be90a11dca705b43c0bd3e871c0a" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_95eee921ee934d09881f8795c79629ed" parent="aspace_4623be90a11dca705b43c0bd3e871c0a" type="Folder">32</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>For the Love of Chocolate (fundraiser for City Harvest) - Silent Auction</unittitle><unitdate datechar="creation">1996</unitdate><container id="aspace_e3b710fd08ca3b6eaaba7f546d113124" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_5df64e010d7b444fffb2b61cb129b341" parent="aspace_e3b710fd08ca3b6eaaba7f546d113124" type="Folder">33</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>For the Love of Chocolate (fundraiser for City Harvest) - Sponsorship info</unittitle><unitdate datechar="creation">1996</unitdate><container id="aspace_547ddd1f49c84104bbaa4a789d93afa6" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_2b7c45d32e58b6bbcd27508bc87fb9ec" parent="aspace_547ddd1f49c84104bbaa4a789d93afa6" type="Folder">34</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Honey fundraiser</unittitle><unitdate datechar="creation">2003</unitdate><container id="aspace_153813fde06e1f6be14b27b12821c6c7" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_9b8e1873862b22e8415305ee87876cdd" parent="aspace_153813fde06e1f6be14b27b12821c6c7" type="Folder">35</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Invitations</unittitle><unitdate datechar="creation" normal="1999/2004" type="inclusive">1999-2004</unitdate><container id="aspace_9443c02be980fd1c0ceb983bd3263d04" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_4e3cc2c4974bcd2976986af85fb14315" parent="aspace_9443c02be980fd1c0ceb983bd3263d04" type="Folder">36</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Invitation - 20th Anniversary</unittitle><unitdate datechar="creation">2002</unitdate><container id="aspace_8e63addfdc5bc6e148f8ec7b51531146" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_fbe6e556b2efd8585e7e222435c59b05" parent="aspace_8e63addfdc5bc6e148f8ec7b51531146" type="Folder">37</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Loose items</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_e1064f79a7502770c809877df31da2d3" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_412dda69005c67f8310c4dc8425b7cbb" parent="aspace_e1064f79a7502770c809877df31da2d3" type="Folder">38</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Member Survey - Pranses Research Services report</unittitle><unitdate datechar="creation">2006</unitdate><container id="aspace_5619a4f04023ced5967d7a968c938a49" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_d0a9c57fba6cc9b3fa8aaea4c8326617" parent="aspace_5619a4f04023ced5967d7a968c938a49" type="Folder">39</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Member Survey - Pranses Research Services report</unittitle><unitdate datechar="creation">2006</unitdate><container id="aspace_724b427bf96b6bc6f0d0c6ed40ebe3de" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_1fbb85baf0532d5f9e412d5c83c03a2b" parent="aspace_724b427bf96b6bc6f0d0c6ed40ebe3de" type="Folder">40</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Member Survey - Pranses Research Services report</unittitle><unitdate datechar="creation">2006</unitdate><container id="aspace_41d3c4192b5787ba1ef76c9838ec100a" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_0d81714ba4081190f627966058c6375c" parent="aspace_41d3c4192b5787ba1ef76c9838ec100a" type="Folder">41</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Membership</unittitle><unitdate datechar="creation">1999</unitdate><container id="aspace_6f1ecbe53ae780b61aa6cdda929e4aac" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_9fa7a4407becbc3036bf25f4c380e668" parent="aspace_6f1ecbe53ae780b61aa6cdda929e4aac" type="Folder">42</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Membership Directories</unittitle><unitdate datechar="creation" normal="1987/1995" type="inclusive">1987-1995</unitdate><container id="aspace_bf307adbb2cd83200c47f9e027ea3d1d" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_828c916c09939b20dd99e0cb4781d91b" parent="aspace_bf307adbb2cd83200c47f9e027ea3d1d" type="Folder">43</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Membership Directories</unittitle><unitdate datechar="creation" normal="1995/2000" type="inclusive">1995-2000</unitdate><container id="aspace_40960f614ce48722539952927d11df97" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_9a798af79b166096cf4d25dcd1030392" parent="aspace_40960f614ce48722539952927d11df97" type="Folder">44</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Membership Directories</unittitle><unitdate datechar="creation" normal="2000/2005" type="inclusive">2000-2005</unitdate><container id="aspace_2faede273d3c2b0db908b4810176b1ca" label="Mixed Materials [31142054887255]" type="Box">1</container><container id="aspace_1b466f29b24b592bc25b5c58084ed21c" parent="aspace_2faede273d3c2b0db908b4810176b1ca" type="Folder">45</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Membership Directories</unittitle><unitdate datechar="creation" normal="2005/2009" type="inclusive">2005-2009</unitdate><container id="aspace_8d0b781139ab357f5c6e6da9e7101315" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_61fccc5ca9de427342bee614376082eb" parent="aspace_8d0b781139ab357f5c6e6da9e7101315" type="Folder">1</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Membership Directories</unittitle><unitdate datechar="creation" normal="2009/2010" type="inclusive">2009-2010</unitdate><container id="aspace_0d0987ba140af807644ac52de8487094" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_0dad6ecef73c1321c69818e2eef7dc68" parent="aspace_0d0987ba140af807644ac52de8487094" type="Folder">2</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Membership Renewal Set</unittitle><unitdate datechar="creation">2002</unitdate><container id="aspace_c353a5f518b213c721e6336144e3d011" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_4c26ffb7f2e9fed5da6c2c2cf595b0ad" parent="aspace_c353a5f518b213c721e6336144e3d011" type="Folder">3</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Nancy Jessup - tax letter</unittitle><unitdate datechar="creation">2001</unitdate><container id="aspace_ca095beac0cafb81d94ec60ad50b9f57" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_59bd234a6979ee39e0e674410461a909" parent="aspace_ca095beac0cafb81d94ec60ad50b9f57" type="Folder">4</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>National Potato Board - fundraiser</unittitle><unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate><container id="aspace_c786f576b216c32fb943cd0672b6ac6c" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_7d4f02621a348116a8aef3f7cc4f6caf" parent="aspace_c786f576b216c32fb943cd0672b6ac6c" type="Folder">5</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>New York Children's Health Project</unittitle><unitdate datechar="creation">2000</unitdate><container id="aspace_17e0a28bdc04d5fce6ad846b3c1490fe" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_6795003e92f6806af9dcb45984ac8d70" parent="aspace_17e0a28bdc04d5fce6ad846b3c1490fe" type="Folder">6</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Newsletter redesign</unittitle><unitdate datechar="creation">2001</unitdate><container id="aspace_ee4d6595552662914ec01c88b165b95d" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_568b3edbb0851617e77421dfd8865f78" parent="aspace_ee4d6595552662914ec01c88b165b95d" type="Folder">7</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Newsletters</unittitle><unitdate datechar="creation">1982</unitdate><container id="aspace_07a69465272b39ba044bc2500cd23822" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_6256bbc380cecaa223e4995b54e72fec" parent="aspace_07a69465272b39ba044bc2500cd23822" type="Folder">8</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Newsletters</unittitle><unitdate datechar="creation">1983</unitdate><container id="aspace_680dcdf97aa612544f563c69a99e9d93" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_eaff4619f2cbb47957829dd869f5b958" parent="aspace_680dcdf97aa612544f563c69a99e9d93" type="Folder">9</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Newsletters</unittitle><unitdate datechar="creation">1984</unitdate><container id="aspace_8f5005f9b05411575f094f1e4e86c796" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_57c29c8a4ffac7582dc627086a713d87" parent="aspace_8f5005f9b05411575f094f1e4e86c796" type="Folder">10</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Newsletters</unittitle><unitdate datechar="creation">1985</unitdate><container id="aspace_2f928dc005d82811d0f0566d298083c8" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_acd6dbd999733a462bd123ee4d09a6b7" parent="aspace_2f928dc005d82811d0f0566d298083c8" type="Folder">11</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Newsletters</unittitle><unitdate datechar="creation">1986</unitdate><container id="aspace_5569b0c35344d506b64ccca0f741c0f4" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_fe51be2d5406f7470478de9b64e79d6e" parent="aspace_5569b0c35344d506b64ccca0f741c0f4" type="Folder">12</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Newsletters</unittitle><unitdate datechar="creation">1987</unitdate><container id="aspace_40c509183f48c5bc0a49050199ed49e2" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_17fc236999abfe450c1656e194486a00" parent="aspace_40c509183f48c5bc0a49050199ed49e2" type="Folder">13</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Newsletters</unittitle><unitdate datechar="creation">1988</unitdate><container id="aspace_558c1bb6757ab6de20a469afcca9acf9" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_70d0ea3e589bb5afa77df50970bdba10" parent="aspace_558c1bb6757ab6de20a469afcca9acf9" type="Folder">14</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>Newsletters</unittitle><unitdate datechar="creation">1989</unitdate><container id="aspace_c3c53db2922eb9725ed87e3f8e0a3745" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_c83097c9a904c6c8627a261e8adb677c" parent="aspace_c3c53db2922eb9725ed87e3f8e0a3745" type="Folder">15</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>Newsletters</unittitle><unitdate datechar="creation">1990</unitdate><container id="aspace_5b16326e76e83d2898d421efe64dadb5" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_6ae07dda9df61bfb04f63cca567f679e" parent="aspace_5b16326e76e83d2898d421efe64dadb5" type="Folder">16</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>Newsletters</unittitle><unitdate datechar="creation">1991</unitdate><container id="aspace_3da1b369881847e2da5a4a39acc63307" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_c608c6c14a13ee02bff52dd45f130436" parent="aspace_3da1b369881847e2da5a4a39acc63307" type="Folder">17</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>Newsletters</unittitle><unitdate datechar="creation">1992</unitdate><container id="aspace_88686fcc142fa05ff23f96bcf22cb9e1" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_10727d5d5b0abd108848e6eaceb501a2" parent="aspace_88686fcc142fa05ff23f96bcf22cb9e1" type="Folder">18</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Newsletters</unittitle><unitdate datechar="creation">1993</unitdate><container id="aspace_aa6f9a2e274831fd944a5085f78ef8a4" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_fd16cfacca7a32d92a55d255ed88b4d8" parent="aspace_aa6f9a2e274831fd944a5085f78ef8a4" type="Folder">19</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>Newsletters</unittitle><unitdate datechar="creation">1994</unitdate><container id="aspace_7c60c782528c2edc1f8109c37e5ef3a3" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_84bbc6c95f786b847260ae73ef858585" parent="aspace_7c60c782528c2edc1f8109c37e5ef3a3" type="Folder">20</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>Newsletters</unittitle><unitdate datechar="creation">1995</unitdate><container id="aspace_8a1ecda5a99673547d72a493638f91ef" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_9f31a56e5039058749ec44f7cf0b0cc2" parent="aspace_8a1ecda5a99673547d72a493638f91ef" type="Folder">21</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>Newsletters</unittitle><unitdate datechar="creation">1996</unitdate><container id="aspace_f84079f166e8b9c3b0008351753f9181" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_a0e53247d54cc3b514e1a81db0762308" parent="aspace_f84079f166e8b9c3b0008351753f9181" type="Folder">22</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Newsletters</unittitle><unitdate datechar="creation">1997</unitdate><container id="aspace_ace93913f8139d10988af10b7b63a83a" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_7d858c4af0790e520cf362b3f0586502" parent="aspace_ace93913f8139d10988af10b7b63a83a" type="Folder">23</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Newsletters</unittitle><unitdate datechar="creation">1998</unitdate><container id="aspace_dc90dc0f08484fa6e14f829bda68918a" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_ed04a80766be3f546a4fba8ca863c697" parent="aspace_dc90dc0f08484fa6e14f829bda68918a" type="Folder">24</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Newsletters</unittitle><unitdate datechar="creation">1999</unitdate><container id="aspace_82df8b25dc59394ac310aa34e19fec32" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_94baa5c318ccac15988b3dbc50370108" parent="aspace_82df8b25dc59394ac310aa34e19fec32" type="Folder">25</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Newsletters</unittitle><unitdate datechar="creation">2000</unitdate><container id="aspace_333d337df4e40aa5f0890e794c66cc68" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_ca1160dfd503d75aa6ed9ba6916ca799" parent="aspace_333d337df4e40aa5f0890e794c66cc68" type="Folder">26</container></did></c><c id="aspace_ref73" level="file"><did><unittitle>Newsletters</unittitle><unitdate datechar="creation">2001</unitdate><container id="aspace_9e270444fc42bcbdd721495d620ec03a" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_d9a522959368cf463e516cb2726b8ee8" parent="aspace_9e270444fc42bcbdd721495d620ec03a" type="Folder">27</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>Newsletters</unittitle><unitdate datechar="creation">2002</unitdate><container id="aspace_18ba973aa46f3852f8c70e4f250340e4" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_1bc1aea37d2b5fbde3bb3d5607f1e1fc" parent="aspace_18ba973aa46f3852f8c70e4f250340e4" type="Folder">28</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>Newsletters</unittitle><unitdate datechar="creation">2003</unitdate><container id="aspace_a370e07e93ac027c3470002b491ce097" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_dd097a1bd18b09ec360d49c4661a7101" parent="aspace_a370e07e93ac027c3470002b491ce097" type="Folder">29</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>Newsletters</unittitle><unitdate datechar="creation">2004</unitdate><container id="aspace_3bc69b2f5b877d761c0f7b6d2bb97750" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_d46c70a5e131945fae79d11636e58b2c" parent="aspace_3bc69b2f5b877d761c0f7b6d2bb97750" type="Folder">30</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>Newsletters</unittitle><unitdate datechar="creation">2005</unitdate><container id="aspace_957e7fce44762ab4e94ec11e7db43921" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_58a633986cc00556d4584c6e11dae550" parent="aspace_957e7fce44762ab4e94ec11e7db43921" type="Folder">31</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>Newsletters - notes, etc.</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_39233f6c5ba03c2876eda4c19ad9e91e" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_9d59b5b4fb8e0fb7947e7534001dd3ed" parent="aspace_39233f6c5ba03c2876eda4c19ad9e91e" type="Folder">32</container></did></c><c id="aspace_ref79" level="file"><did><unittitle>Newsletters - c/o Shari Lyn Bayer</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_3ecfd5730d1725a92afa4ef9120a74db" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_f26705ee0669df19f3673bf8556d19fb" parent="aspace_3ecfd5730d1725a92afa4ef9120a74db" type="Folder">33</container></did></c><c id="aspace_ref80" level="file"><did><unittitle>Newsletters - c/o Suzanne Fass</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_0a963061a5705d9618ae0da5a8bb1fa0" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_cf45ffbd85cc1225e2b76dbb5e067596" parent="aspace_0a963061a5705d9618ae0da5a8bb1fa0" type="Folder">34</container></did></c><c id="aspace_ref81" level="file"><did><unittitle>NYWCA Artwork Logo</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_fa8491e9bba1de19b57096aa4946755e" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_7c46f190eab15f48c09d2fcf14036c61" parent="aspace_fa8491e9bba1de19b57096aa4946755e" type="Folder">35</container></did></c><c id="aspace_ref82" level="file"><did><unittitle>NYWCA Board elections</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_c2d381058e89ac01ed2f740ca8d56e2a" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_7096faade3451644ea02ff606a8b3a78" parent="aspace_c2d381058e89ac01ed2f740ca8d56e2a" type="Folder">36</container></did></c><c id="aspace_ref83" level="file"><did><unittitle>NYWCA Introduction</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_a8bfb5ec7ea26dda86d4a54782a52959" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_afdfa399725ad0ae257fa1ec9acf5f2c" parent="aspace_a8bfb5ec7ea26dda86d4a54782a52959" type="Folder">37</container></did></c><c id="aspace_ref84" level="file"><did><unittitle>Party Planning Kit and Invitations</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_7ea28e79559258192527c130f33b2754" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_8756938ca256153b6f1eedd82283af00" parent="aspace_7ea28e79559258192527c130f33b2754" type="Folder">38</container></did></c><c id="aspace_ref85" level="file"><did><unittitle>Potlucks</unittitle><unitdate datechar="creation">2001</unitdate><container id="aspace_896dd943fb910d10acf3b48f05c7105e" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_4a5316baae937463684ad730fa883267" parent="aspace_896dd943fb910d10acf3b48f05c7105e" type="Folder">39</container></did></c><c id="aspace_ref86" level="file"><did><unittitle>Potlucks</unittitle><unitdate datechar="creation">2002</unitdate><container id="aspace_605c29a15d5395e41c79d0433f428570" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_dd18895bb7340cf764876c294655b182" parent="aspace_605c29a15d5395e41c79d0433f428570" type="Folder">40</container></did></c><c id="aspace_ref87" level="file"><did><unittitle>Press Profile</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_b4384226326b745524c6cdcb7e3941d9" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_ad97b5f5d77ef48fe36b751a29fccae1" parent="aspace_b4384226326b745524c6cdcb7e3941d9" type="Folder">41</container></did></c><c id="aspace_ref88" level="file"><did><unittitle>Printing</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_2a2ac800d5deaaf413f40e402080cabb" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_063af17d6fb26d2e97bc9851a49ec1fb" parent="aspace_2a2ac800d5deaaf413f40e402080cabb" type="Folder">42</container></did></c><c id="aspace_ref89" level="file"><did><unittitle>Printing - Cara International</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_c71b2dc4a3f8ad3554f9650210277898" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_621dcd1e1d7bb8c06a3282a5144ebced" parent="aspace_c71b2dc4a3f8ad3554f9650210277898" type="Folder">43</container></did></c><c id="aspace_ref90" level="file"><did><unittitle>Program kit</unittitle><unitdate datechar="creation">2000</unitdate><container id="aspace_79e9720c6262b47c366d31154a0be14f" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_6d7c3698b8e42246d0c8d0ea73c8070f" parent="aspace_79e9720c6262b47c366d31154a0be14f" type="Folder">44</container></did></c><c id="aspace_ref91" level="file"><did><unittitle>Program kit</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_aa29b802ff34fff2e25d1c586ff681f9" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_75271998732b8526b62c9c3977c3b57a" parent="aspace_aa29b802ff34fff2e25d1c586ff681f9" type="Folder">45</container></did></c><c id="aspace_ref92" level="file"><did><unittitle>Program letters to members</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_df987449e4b0e880f7fb466b7e552082" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_866ade82f94b5c52bdc7a4ca02af2d61" parent="aspace_df987449e4b0e880f7fb466b7e552082" type="Folder">46</container></did></c><c id="aspace_ref93" level="file"><did><unittitle>Publicity and Tear sheets</unittitle><unitdate datechar="creation" normal="1992/1993" type="inclusive">1992-1993</unitdate><container id="aspace_fc65191eaf1563fb471350cd2c17dfaf" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_93410e7bbafe68c8a90f5fa051aa9acc" parent="aspace_fc65191eaf1563fb471350cd2c17dfaf" type="Folder">47</container></did></c><c id="aspace_ref94" level="file"><did><unittitle>Receipt books (carbon copies)</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_4b87f3005161cec77dbd0842532d38e9" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_d9ec422cab8842762b8b32b2bd2636d8" parent="aspace_4b87f3005161cec77dbd0842532d38e9" type="Folder">48</container></did></c><c id="aspace_ref95" level="file"><did><unittitle>Share-a-Walk</unittitle><unitdate datechar="creation">2001</unitdate><container id="aspace_b37cd1d1454324089d6388919044ad5c" label="Mixed Materials [31142054887263]" type="Box">2</container><container id="aspace_4a62b6919c2c90a6e288b9f3d4dc5fb5" parent="aspace_b37cd1d1454324089d6388919044ad5c" type="Folder">49</container></did></c><c id="aspace_ref96" level="file"><did><unittitle>Thank You and Fundraising letters</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_d08655c4264c62ae4e6cc3a75a3a590c" label="Mixed Materials [31142054887271]" type="Box">3</container><container id="aspace_b8d4efcf18d516e0b02e56e7c60b44bd" parent="aspace_d08655c4264c62ae4e6cc3a75a3a590c" type="Folder">1</container></did></c><c id="aspace_ref97" level="file"><did><unittitle>Treasurer's Reports</unittitle><unitdate datechar="creation">1993</unitdate><container id="aspace_ec5cfa83b88cd534fe4ea9adfd684444" label="Mixed Materials [31142054887271]" type="Box">3</container><container id="aspace_73ef4237ee0fdccbdcce9efddbb4d5cb" parent="aspace_ec5cfa83b88cd534fe4ea9adfd684444" type="Folder">2</container></did></c><c id="aspace_ref98" level="file"><did><unittitle>Treasurer's Report</unittitle><unitdate datechar="creation">1994</unitdate><container id="aspace_8c943aa386da36054cc07b553a20112c" label="Mixed Materials [31142054887271]" type="Box">3</container><container id="aspace_e14a229d2554c7edfb829222eaff6acf" parent="aspace_8c943aa386da36054cc07b553a20112c" type="Folder">3</container></did></c><c id="aspace_ref99" level="file"><did><unittitle>Treasurer's Report</unittitle><unitdate datechar="creation">1995</unitdate><container id="aspace_79a0b824205fa25490ad4344168ce427" label="Mixed Materials [31142054887271]" type="Box">3</container><container id="aspace_39abcbfa2788319a347057c75cb04ad0" parent="aspace_79a0b824205fa25490ad4344168ce427" type="Folder">4</container></did></c><c id="aspace_ref100" level="file"><did><unittitle>Treasurer's Report</unittitle><unitdate datechar="creation">1996</unitdate><container id="aspace_6844cf3dc42743b96b77029956d159af" label="Mixed Materials [31142054887271]" type="Box">3</container><container id="aspace_a26158248376ef35d6e869d16098605c" parent="aspace_6844cf3dc42743b96b77029956d159af" type="Folder">5</container></did></c><c id="aspace_ref101" level="file"><did><unittitle>Treasurer's Report</unittitle><unitdate datechar="creation">1997</unitdate><container id="aspace_19d1efbec43f9071fc818106bb59d289" label="Mixed Materials [31142054887271]" type="Box">3</container><container id="aspace_40ccf59cafe2df98e2c50ba1ec3909a3" parent="aspace_19d1efbec43f9071fc818106bb59d289" type="Folder">6</container></did></c><c id="aspace_ref102" level="file"><did><unittitle>Website</unittitle><unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate><container id="aspace_3f1aa791d957cb9bdd3426eb210aeff6" label="Mixed Materials [31142054887271]" type="Box">3</container><container id="aspace_1e6b13840745144f713a98945161e561" parent="aspace_3f1aa791d957cb9bdd3426eb210aeff6" type="Folder">7</container></did></c><c id="aspace_ref103" level="file"><did><unittitle>Website Alliance</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_927f1197a825fc0d5fba5290ce738e30" label="Mixed Materials [31142054887271]" type="Box">3</container><container id="aspace_3b79db5581b32066d5b48722bddfb5ac" parent="aspace_927f1197a825fc0d5fba5290ce738e30" type="Folder">8</container></did></c><c id="aspace_ref104" level="file"><did><unittitle>Wine Auction - Marion Gorman</unittitle><unitdate datechar="creation">1999</unitdate><container id="aspace_d281ee50d1e5ace86ce56598e26adbe1" label="Mixed Materials [31142054887271]" type="Box">3</container><container id="aspace_8a1a1c8843be638dbf48af3abf8aa9e3" parent="aspace_d281ee50d1e5ace86ce56598e26adbe1" type="Folder">9</container></did></c><c id="aspace_ref105" level="file"><did><unittitle>Wine and Ethnic Food Pairing with ICE</unittitle><unitdate datechar="creation">2004</unitdate><container id="aspace_6d22f961d00db713ae371f2caa6756ed" label="Mixed Materials [31142054887271]" type="Box">3</container><container id="aspace_e6b017c7c685bdae09f93353d298e5a9" parent="aspace_6d22f961d00db713ae371f2caa6756ed" type="Folder">10</container></did></c><c id="aspace_ref106" level="file"><did><unittitle>Women and Money survey</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_2ae4e17e2a2318d12d703686e968f168" label="Mixed Materials [31142054887271]" type="Box">3</container><container id="aspace_1e2f87c5310f2ce5ddfb6f4ba8ea4cd7" parent="aspace_2ae4e17e2a2318d12d703686e968f168" type="Folder">11</container></did></c><c id="aspace_ref107" level="file"><did><unittitle>Women and Money survey</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_971604396578207d0f9295b26a17a04d" label="Mixed Materials [31142054887271]" type="Box">3</container><container id="aspace_026cc095efd48dede5393042a2de1de4" parent="aspace_971604396578207d0f9295b26a17a04d" type="Folder">12</container></did></c><c id="aspace_ref108" level="item"><did><unittitle>Betacam Video - "Moulton Visuals"</unittitle><unitdate datechar="creation">c. 1980 - 1996</unitdate><container id="aspace_62a5d81e409c28cc8f9ee11ff1b3ca2a" label="Mixed Materials [31142054887271]" type="Box">3</container><container id="aspace_df320fb3783823323df2308afa74f4a2" parent="aspace_62a5d81e409c28cc8f9ee11ff1b3ca2a" type="Folder">13</container></did><accessrestrict id="aspace_e1bdc932e3ffcfe7105a67e6784ae917"><head>Conditions Governing Access</head><p>Audiovisual materials have not been preserved and may not be available to researchers.</p></accessrestrict></c></c></dsc>
-</archdesc>
+Identification of item,  date (if known); New York Women's Culinary Alliance Archive; MSS 279; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>
+    </prefercite>
+    <scopecontent id="aspace_d2d107d5665948401a5a252cecf5fdc7">
+      <head>Scope and Content</head>
+      <p>This collection includes records of the organization's founding, meeting notes, membership directories, newsletters, and reports on activities and events. There is also a video of "Moulton Visuals".</p>
+    </scopecontent>
+    <userestrict id="aspace_4dce350b1522b5df54ace3bbea8c866b">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="local">Culinary industry.</subject>
+      <subject source="lcsh">Food habits -- New York (State) -- New York</subject>
+      <subject source="lcsh">Women in the food industry.</subject>
+      <subject source="lcsh">Food industry and trade |z New York (State) |z New York</subject>
+      <corpname rules="dacs" source="local">New York Women's Culinary Alliance</corpname>
+      <persname rules="dacs" source="naf">Moulton, Sara, 1952-</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref1" level="series">
+        <did>
+          <unittitle>Series I: Organizational Records</unittitle>
+        </did>
+        <c id="aspace_ref2" level="file">
+          <did>
+            <unittitle>Alliance bylaw chances</unittitle>
+            <unitdate datechar="creation">2005</unitdate>
+            <container id="aspace_bada0d40b7be2f6c6fd90003ebc90ed2" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_698a6ccf3ad589a37060509ce2e1fa0f" parent="aspace_bada0d40b7be2f6c6fd90003ebc90ed2" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref3" level="file">
+          <did>
+            <unittitle>Anniversary Program</unittitle>
+            <unitdate datechar="creation">2001</unitdate>
+            <container id="aspace_dd2e12102c77ccf66aeb1ffb7ff126f5" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_8252fdc2b375badc10bfb7cf2fe87b2b" parent="aspace_dd2e12102c77ccf66aeb1ffb7ff126f5" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref4" level="file">
+          <did>
+            <unittitle>Beard Foundation</unittitle>
+            <unitdate datechar="creation">2002</unitdate>
+            <container id="aspace_50490a5a758ff3131614056015bdd807" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_05ca74eba6330555879f7e40482c3807" parent="aspace_50490a5a758ff3131614056015bdd807" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref5" level="file">
+          <did>
+            <unittitle>Binders - newsletters, website, etc.</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_76dbec1c6b87270d421e7ed87b6b02d8" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_1278d7c9ba9f985f8e36f5bf30949b19" parent="aspace_76dbec1c6b87270d421e7ed87b6b02d8" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref6" level="file">
+          <did>
+            <unittitle>Board Meetings</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container id="aspace_68070a2c62a69d7f4c41c7ae2a308f4b" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_cba6c6e86d6c9141a2114c27889f93e2" parent="aspace_68070a2c62a69d7f4c41c7ae2a308f4b" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref7" level="file">
+          <did>
+            <unittitle>Board Meetings</unittitle>
+            <unitdate datechar="creation">1983</unitdate>
+            <container id="aspace_436811ba26bc4bdb8ac6529b7d61e964" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_d5427bb156acf54de785c959a0033ba6" parent="aspace_436811ba26bc4bdb8ac6529b7d61e964" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref8" level="file">
+          <did>
+            <unittitle>Board Meetings</unittitle>
+            <unitdate datechar="creation">1984</unitdate>
+            <container id="aspace_8763bdaa504a73941b78a6d63234fdc6" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_f93c299a682638eec0c2e66e56ceca76" parent="aspace_8763bdaa504a73941b78a6d63234fdc6" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref9" level="file">
+          <did>
+            <unittitle>Board Meetings</unittitle>
+            <unitdate datechar="creation">1985</unitdate>
+            <container id="aspace_0cacd8fa5a677a10174988bd2d8b6863" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_c7386a4704b96c786ccc7aeea4c81359" parent="aspace_0cacd8fa5a677a10174988bd2d8b6863" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>Board Meetings</unittitle>
+            <unitdate datechar="creation">1986</unitdate>
+            <container id="aspace_b5c5111f441ac201a001d025a9eb4ce1" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_9b0787544a0689729442feec47ad0ce0" parent="aspace_b5c5111f441ac201a001d025a9eb4ce1" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>Board Meetings</unittitle>
+            <unitdate datechar="creation">1987</unitdate>
+            <container id="aspace_babfb59d4c8514962f2d741646a0496d" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_2f885e686965c53dfd359735457c0dcf" parent="aspace_babfb59d4c8514962f2d741646a0496d" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>Board Meetings</unittitle>
+            <unitdate datechar="creation">1988</unitdate>
+            <container id="aspace_9498f5abe084c0c6477496ebe2d84112" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_3795bc073c320f4b0f000741e861db1e" parent="aspace_9498f5abe084c0c6477496ebe2d84112" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>Board Meetings</unittitle>
+            <unitdate datechar="creation">1989</unitdate>
+            <container id="aspace_ce595de4b4795110a0a15e0fb0dcb9f4" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_c90169017c102f3c4de28f86fb7dae6d" parent="aspace_ce595de4b4795110a0a15e0fb0dcb9f4" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Board Meetings</unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container id="aspace_9883ebfc51998174b4948ea94c8f102d" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_62e7e9f22fff33bc182d946f92a5d9f3" parent="aspace_9883ebfc51998174b4948ea94c8f102d" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Board Meetings</unittitle>
+            <unitdate datechar="creation">1991</unitdate>
+            <container id="aspace_026d44fc7e8b62df88fc6924a0efd6f5" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_10f78ce1804888eb6ba838803f273c14" parent="aspace_026d44fc7e8b62df88fc6924a0efd6f5" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Board Meetings</unittitle>
+            <unitdate datechar="creation">1992</unitdate>
+            <container id="aspace_297431560e7a1b619c395636a4885506" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_c622c2e3b0bf099626669012cbbdfcfa" parent="aspace_297431560e7a1b619c395636a4885506" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Board Meetings</unittitle>
+            <unitdate datechar="creation">1993</unitdate>
+            <container id="aspace_827994f5d672763278f3556f088e9cc7" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_7e01737ae7d2a4f42b9becc848d2e265" parent="aspace_827994f5d672763278f3556f088e9cc7" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Board Meetings</unittitle>
+            <unitdate datechar="creation">1994</unitdate>
+            <container id="aspace_4fe260436a3799f5d0b82c42108a546b" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_82f5df8d8a72d4c64fbef0b5d0485865" parent="aspace_4fe260436a3799f5d0b82c42108a546b" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Board Meetings</unittitle>
+            <unitdate datechar="creation">1995</unitdate>
+            <container id="aspace_86cce51d76c92a1b973e1f12e63d1ae9" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_6c7ed00738622f2792ee18a6297a1b8a" parent="aspace_86cce51d76c92a1b973e1f12e63d1ae9" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Board Meetings</unittitle>
+            <unitdate datechar="creation">1996</unitdate>
+            <container id="aspace_d3a036b0f364448538f7aa29e5984b68" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_a93b7e944a48d971d1adf1fba8b8fb8b" parent="aspace_d3a036b0f364448538f7aa29e5984b68" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Board Meetings</unittitle>
+            <unitdate datechar="creation">1997</unitdate>
+            <container id="aspace_ea7bf7e4fabcb41b5792b41d4ea4266f" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_a77f9526be9630efbbdbd524c6b838f2" parent="aspace_ea7bf7e4fabcb41b5792b41d4ea4266f" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Budgets</unittitle>
+            <unitdate datechar="creation" normal="1998/2002" type="inclusive">1998-2002</unitdate>
+            <container id="aspace_2dd28dde71fe6ddaa56175484b724bed" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_43ac4e623f76d0eecc36810304fa1f05" parent="aspace_2dd28dde71fe6ddaa56175484b724bed" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>California Table Grape Commission - fundraiser</unittitle>
+            <unitdate datechar="creation">2002</unitdate>
+            <container id="aspace_155173bbd6968df87d30a2caa963e337" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_1269f91f6cce7bbb1aaaf2c93dafb8fa" parent="aspace_155173bbd6968df87d30a2caa963e337" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Cancer fighting Food - fundraiser</unittitle>
+            <unitdate datechar="creation">2000</unitdate>
+            <container id="aspace_425e22f5d912d571db577215a1a79a21" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_c2e550120c113d0091a58165b3367f84" parent="aspace_425e22f5d912d571db577215a1a79a21" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Contracts - space rental</unittitle>
+            <unitdate datechar="creation" normal="1993/2005" type="inclusive">1993-2005</unitdate>
+            <container id="aspace_f88040e1bcf3caa1deaab80241339c23" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_ee205476cfbd4786351d45451592b7aa" parent="aspace_f88040e1bcf3caa1deaab80241339c23" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Cooking with Kids - insert</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_ba2e1aa66a29b3cacf50e29097b9a81f" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_7227cc9ce80056ce5c55793afa4b1046" parent="aspace_ba2e1aa66a29b3cacf50e29097b9a81f" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Culinary Alliance - "Facts to File", "Provisionally Speaking"</unittitle>
+            <unitdate datechar="creation">1980's</unitdate>
+            <container id="aspace_75c99fd5888b72228f1a4f5387514071" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_969d4492feeac302467f379d830f9fe0" parent="aspace_75c99fd5888b72228f1a4f5387514071" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Days of Taste - Girls Give Back</unittitle>
+            <unitdate datechar="creation">2004</unitdate>
+            <container id="aspace_c56a6ce8a2c4283529554c66e19a1060" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_4850e02b74af7f3e26073565e7b90e69" parent="aspace_c56a6ce8a2c4283529554c66e19a1060" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Dinner Party Project (Days of Taste)</unittitle>
+            <unitdate datechar="creation">1999</unitdate>
+            <container id="aspace_b849c26604a59aa7b498f7b8a84e4565" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_2ff0d4bd1b26f44cef500709831f7789" parent="aspace_b849c26604a59aa7b498f7b8a84e4565" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Directory</unittitle>
+            <unitdate datechar="creation">1999</unitdate>
+            <container id="aspace_2e3e389cdee0ec2d73e931ad238dbcd5" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_25181bb4c7bd588fc39eaee443501092" parent="aspace_2e3e389cdee0ec2d73e931ad238dbcd5" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>For the Love of Chocolate (fundraiser for City Harvest) - Event Info</unittitle>
+            <unitdate datechar="creation">1996</unitdate>
+            <container id="aspace_0c3b60a2bab3dbcd85947e3c271344af" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_f3c23acf65548865b0ee5d67fe27ce25" parent="aspace_0c3b60a2bab3dbcd85947e3c271344af" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>For the Love of Chocolate (fundraiser for City Harvest) - Exhibitor responses</unittitle>
+            <unitdate datechar="creation">1996</unitdate>
+            <container id="aspace_7eac4eadcd3c9d9c125216fed15fca83" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_954b058ac63af211c73a587c85a403e9" parent="aspace_7eac4eadcd3c9d9c125216fed15fca83" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>For the Love of Chocolate (fundraiser for City Harvest) - loose items</unittitle>
+            <unitdate datechar="creation">1996</unitdate>
+            <container id="aspace_4623be90a11dca705b43c0bd3e871c0a" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_95eee921ee934d09881f8795c79629ed" parent="aspace_4623be90a11dca705b43c0bd3e871c0a" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>For the Love of Chocolate (fundraiser for City Harvest) - Silent Auction</unittitle>
+            <unitdate datechar="creation">1996</unitdate>
+            <container id="aspace_e3b710fd08ca3b6eaaba7f546d113124" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_5df64e010d7b444fffb2b61cb129b341" parent="aspace_e3b710fd08ca3b6eaaba7f546d113124" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>For the Love of Chocolate (fundraiser for City Harvest) - Sponsorship info</unittitle>
+            <unitdate datechar="creation">1996</unitdate>
+            <container id="aspace_547ddd1f49c84104bbaa4a789d93afa6" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_2b7c45d32e58b6bbcd27508bc87fb9ec" parent="aspace_547ddd1f49c84104bbaa4a789d93afa6" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Honey fundraiser</unittitle>
+            <unitdate datechar="creation">2003</unitdate>
+            <container id="aspace_153813fde06e1f6be14b27b12821c6c7" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_9b8e1873862b22e8415305ee87876cdd" parent="aspace_153813fde06e1f6be14b27b12821c6c7" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Invitations</unittitle>
+            <unitdate datechar="creation" normal="1999/2004" type="inclusive">1999-2004</unitdate>
+            <container id="aspace_9443c02be980fd1c0ceb983bd3263d04" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_4e3cc2c4974bcd2976986af85fb14315" parent="aspace_9443c02be980fd1c0ceb983bd3263d04" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Invitation - 20th Anniversary</unittitle>
+            <unitdate datechar="creation">2002</unitdate>
+            <container id="aspace_8e63addfdc5bc6e148f8ec7b51531146" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_fbe6e556b2efd8585e7e222435c59b05" parent="aspace_8e63addfdc5bc6e148f8ec7b51531146" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Loose items</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_e1064f79a7502770c809877df31da2d3" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_412dda69005c67f8310c4dc8425b7cbb" parent="aspace_e1064f79a7502770c809877df31da2d3" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Member Survey - Pranses Research Services report</unittitle>
+            <unitdate datechar="creation">2006</unitdate>
+            <container id="aspace_5619a4f04023ced5967d7a968c938a49" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_d0a9c57fba6cc9b3fa8aaea4c8326617" parent="aspace_5619a4f04023ced5967d7a968c938a49" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Member Survey - Pranses Research Services report</unittitle>
+            <unitdate datechar="creation">2006</unitdate>
+            <container id="aspace_724b427bf96b6bc6f0d0c6ed40ebe3de" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_1fbb85baf0532d5f9e412d5c83c03a2b" parent="aspace_724b427bf96b6bc6f0d0c6ed40ebe3de" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Member Survey - Pranses Research Services report</unittitle>
+            <unitdate datechar="creation">2006</unitdate>
+            <container id="aspace_41d3c4192b5787ba1ef76c9838ec100a" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_0d81714ba4081190f627966058c6375c" parent="aspace_41d3c4192b5787ba1ef76c9838ec100a" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Membership</unittitle>
+            <unitdate datechar="creation">1999</unitdate>
+            <container id="aspace_6f1ecbe53ae780b61aa6cdda929e4aac" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_9fa7a4407becbc3036bf25f4c380e668" parent="aspace_6f1ecbe53ae780b61aa6cdda929e4aac" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Membership Directories</unittitle>
+            <unitdate datechar="creation" normal="1987/1995" type="inclusive">1987-1995</unitdate>
+            <container id="aspace_bf307adbb2cd83200c47f9e027ea3d1d" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_828c916c09939b20dd99e0cb4781d91b" parent="aspace_bf307adbb2cd83200c47f9e027ea3d1d" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Membership Directories</unittitle>
+            <unitdate datechar="creation" normal="1995/2000" type="inclusive">1995-2000</unitdate>
+            <container id="aspace_40960f614ce48722539952927d11df97" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_9a798af79b166096cf4d25dcd1030392" parent="aspace_40960f614ce48722539952927d11df97" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Membership Directories</unittitle>
+            <unitdate datechar="creation" normal="2000/2005" type="inclusive">2000-2005</unitdate>
+            <container id="aspace_2faede273d3c2b0db908b4810176b1ca" label="Mixed Materials [31142054887255]" type="Box">1</container>
+            <container id="aspace_1b466f29b24b592bc25b5c58084ed21c" parent="aspace_2faede273d3c2b0db908b4810176b1ca" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Membership Directories</unittitle>
+            <unitdate datechar="creation" normal="2005/2009" type="inclusive">2005-2009</unitdate>
+            <container id="aspace_8d0b781139ab357f5c6e6da9e7101315" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_61fccc5ca9de427342bee614376082eb" parent="aspace_8d0b781139ab357f5c6e6da9e7101315" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Membership Directories</unittitle>
+            <unitdate datechar="creation" normal="2009/2010" type="inclusive">2009-2010</unitdate>
+            <container id="aspace_0d0987ba140af807644ac52de8487094" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_0dad6ecef73c1321c69818e2eef7dc68" parent="aspace_0d0987ba140af807644ac52de8487094" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Membership Renewal Set</unittitle>
+            <unitdate datechar="creation">2002</unitdate>
+            <container id="aspace_c353a5f518b213c721e6336144e3d011" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_4c26ffb7f2e9fed5da6c2c2cf595b0ad" parent="aspace_c353a5f518b213c721e6336144e3d011" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Nancy Jessup - tax letter</unittitle>
+            <unitdate datechar="creation">2001</unitdate>
+            <container id="aspace_ca095beac0cafb81d94ec60ad50b9f57" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_59bd234a6979ee39e0e674410461a909" parent="aspace_ca095beac0cafb81d94ec60ad50b9f57" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>National Potato Board - fundraiser</unittitle>
+            <unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate>
+            <container id="aspace_c786f576b216c32fb943cd0672b6ac6c" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_7d4f02621a348116a8aef3f7cc4f6caf" parent="aspace_c786f576b216c32fb943cd0672b6ac6c" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>New York Children's Health Project</unittitle>
+            <unitdate datechar="creation">2000</unitdate>
+            <container id="aspace_17e0a28bdc04d5fce6ad846b3c1490fe" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_6795003e92f6806af9dcb45984ac8d70" parent="aspace_17e0a28bdc04d5fce6ad846b3c1490fe" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Newsletter redesign</unittitle>
+            <unitdate datechar="creation">2001</unitdate>
+            <container id="aspace_ee4d6595552662914ec01c88b165b95d" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_568b3edbb0851617e77421dfd8865f78" parent="aspace_ee4d6595552662914ec01c88b165b95d" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container id="aspace_07a69465272b39ba044bc2500cd23822" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_6256bbc380cecaa223e4995b54e72fec" parent="aspace_07a69465272b39ba044bc2500cd23822" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate datechar="creation">1983</unitdate>
+            <container id="aspace_680dcdf97aa612544f563c69a99e9d93" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_eaff4619f2cbb47957829dd869f5b958" parent="aspace_680dcdf97aa612544f563c69a99e9d93" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate datechar="creation">1984</unitdate>
+            <container id="aspace_8f5005f9b05411575f094f1e4e86c796" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_57c29c8a4ffac7582dc627086a713d87" parent="aspace_8f5005f9b05411575f094f1e4e86c796" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate datechar="creation">1985</unitdate>
+            <container id="aspace_2f928dc005d82811d0f0566d298083c8" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_acd6dbd999733a462bd123ee4d09a6b7" parent="aspace_2f928dc005d82811d0f0566d298083c8" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate datechar="creation">1986</unitdate>
+            <container id="aspace_5569b0c35344d506b64ccca0f741c0f4" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_fe51be2d5406f7470478de9b64e79d6e" parent="aspace_5569b0c35344d506b64ccca0f741c0f4" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate datechar="creation">1987</unitdate>
+            <container id="aspace_40c509183f48c5bc0a49050199ed49e2" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_17fc236999abfe450c1656e194486a00" parent="aspace_40c509183f48c5bc0a49050199ed49e2" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate datechar="creation">1988</unitdate>
+            <container id="aspace_558c1bb6757ab6de20a469afcca9acf9" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_70d0ea3e589bb5afa77df50970bdba10" parent="aspace_558c1bb6757ab6de20a469afcca9acf9" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate datechar="creation">1989</unitdate>
+            <container id="aspace_c3c53db2922eb9725ed87e3f8e0a3745" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_c83097c9a904c6c8627a261e8adb677c" parent="aspace_c3c53db2922eb9725ed87e3f8e0a3745" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container id="aspace_5b16326e76e83d2898d421efe64dadb5" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_6ae07dda9df61bfb04f63cca567f679e" parent="aspace_5b16326e76e83d2898d421efe64dadb5" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate datechar="creation">1991</unitdate>
+            <container id="aspace_3da1b369881847e2da5a4a39acc63307" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_c608c6c14a13ee02bff52dd45f130436" parent="aspace_3da1b369881847e2da5a4a39acc63307" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate datechar="creation">1992</unitdate>
+            <container id="aspace_88686fcc142fa05ff23f96bcf22cb9e1" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_10727d5d5b0abd108848e6eaceb501a2" parent="aspace_88686fcc142fa05ff23f96bcf22cb9e1" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate datechar="creation">1993</unitdate>
+            <container id="aspace_aa6f9a2e274831fd944a5085f78ef8a4" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_fd16cfacca7a32d92a55d255ed88b4d8" parent="aspace_aa6f9a2e274831fd944a5085f78ef8a4" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate datechar="creation">1994</unitdate>
+            <container id="aspace_7c60c782528c2edc1f8109c37e5ef3a3" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_84bbc6c95f786b847260ae73ef858585" parent="aspace_7c60c782528c2edc1f8109c37e5ef3a3" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate datechar="creation">1995</unitdate>
+            <container id="aspace_8a1ecda5a99673547d72a493638f91ef" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_9f31a56e5039058749ec44f7cf0b0cc2" parent="aspace_8a1ecda5a99673547d72a493638f91ef" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate datechar="creation">1996</unitdate>
+            <container id="aspace_f84079f166e8b9c3b0008351753f9181" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_a0e53247d54cc3b514e1a81db0762308" parent="aspace_f84079f166e8b9c3b0008351753f9181" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate datechar="creation">1997</unitdate>
+            <container id="aspace_ace93913f8139d10988af10b7b63a83a" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_7d858c4af0790e520cf362b3f0586502" parent="aspace_ace93913f8139d10988af10b7b63a83a" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate datechar="creation">1998</unitdate>
+            <container id="aspace_dc90dc0f08484fa6e14f829bda68918a" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_ed04a80766be3f546a4fba8ca863c697" parent="aspace_dc90dc0f08484fa6e14f829bda68918a" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate datechar="creation">1999</unitdate>
+            <container id="aspace_82df8b25dc59394ac310aa34e19fec32" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_94baa5c318ccac15988b3dbc50370108" parent="aspace_82df8b25dc59394ac310aa34e19fec32" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate datechar="creation">2000</unitdate>
+            <container id="aspace_333d337df4e40aa5f0890e794c66cc68" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_ca1160dfd503d75aa6ed9ba6916ca799" parent="aspace_333d337df4e40aa5f0890e794c66cc68" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate datechar="creation">2001</unitdate>
+            <container id="aspace_9e270444fc42bcbdd721495d620ec03a" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_d9a522959368cf463e516cb2726b8ee8" parent="aspace_9e270444fc42bcbdd721495d620ec03a" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate datechar="creation">2002</unitdate>
+            <container id="aspace_18ba973aa46f3852f8c70e4f250340e4" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_1bc1aea37d2b5fbde3bb3d5607f1e1fc" parent="aspace_18ba973aa46f3852f8c70e4f250340e4" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate datechar="creation">2003</unitdate>
+            <container id="aspace_a370e07e93ac027c3470002b491ce097" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_dd097a1bd18b09ec360d49c4661a7101" parent="aspace_a370e07e93ac027c3470002b491ce097" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate datechar="creation">2004</unitdate>
+            <container id="aspace_3bc69b2f5b877d761c0f7b6d2bb97750" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_d46c70a5e131945fae79d11636e58b2c" parent="aspace_3bc69b2f5b877d761c0f7b6d2bb97750" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate datechar="creation">2005</unitdate>
+            <container id="aspace_957e7fce44762ab4e94ec11e7db43921" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_58a633986cc00556d4584c6e11dae550" parent="aspace_957e7fce44762ab4e94ec11e7db43921" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>Newsletters - notes, etc.</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_39233f6c5ba03c2876eda4c19ad9e91e" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_9d59b5b4fb8e0fb7947e7534001dd3ed" parent="aspace_39233f6c5ba03c2876eda4c19ad9e91e" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>Newsletters - c/o Shari Lyn Bayer</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_3ecfd5730d1725a92afa4ef9120a74db" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_f26705ee0669df19f3673bf8556d19fb" parent="aspace_3ecfd5730d1725a92afa4ef9120a74db" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>Newsletters - c/o Suzanne Fass</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_0a963061a5705d9618ae0da5a8bb1fa0" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_cf45ffbd85cc1225e2b76dbb5e067596" parent="aspace_0a963061a5705d9618ae0da5a8bb1fa0" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>NYWCA Artwork Logo</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_fa8491e9bba1de19b57096aa4946755e" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_7c46f190eab15f48c09d2fcf14036c61" parent="aspace_fa8491e9bba1de19b57096aa4946755e" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>NYWCA Board elections</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_c2d381058e89ac01ed2f740ca8d56e2a" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_7096faade3451644ea02ff606a8b3a78" parent="aspace_c2d381058e89ac01ed2f740ca8d56e2a" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>NYWCA Introduction</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_a8bfb5ec7ea26dda86d4a54782a52959" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_afdfa399725ad0ae257fa1ec9acf5f2c" parent="aspace_a8bfb5ec7ea26dda86d4a54782a52959" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Party Planning Kit and Invitations</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_7ea28e79559258192527c130f33b2754" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_8756938ca256153b6f1eedd82283af00" parent="aspace_7ea28e79559258192527c130f33b2754" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>Potlucks</unittitle>
+            <unitdate datechar="creation">2001</unitdate>
+            <container id="aspace_896dd943fb910d10acf3b48f05c7105e" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_4a5316baae937463684ad730fa883267" parent="aspace_896dd943fb910d10acf3b48f05c7105e" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Potlucks</unittitle>
+            <unitdate datechar="creation">2002</unitdate>
+            <container id="aspace_605c29a15d5395e41c79d0433f428570" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_dd18895bb7340cf764876c294655b182" parent="aspace_605c29a15d5395e41c79d0433f428570" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Press Profile</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_b4384226326b745524c6cdcb7e3941d9" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_ad97b5f5d77ef48fe36b751a29fccae1" parent="aspace_b4384226326b745524c6cdcb7e3941d9" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>Printing</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_2a2ac800d5deaaf413f40e402080cabb" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_063af17d6fb26d2e97bc9851a49ec1fb" parent="aspace_2a2ac800d5deaaf413f40e402080cabb" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Printing - Cara International</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_c71b2dc4a3f8ad3554f9650210277898" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_621dcd1e1d7bb8c06a3282a5144ebced" parent="aspace_c71b2dc4a3f8ad3554f9650210277898" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Program kit</unittitle>
+            <unitdate datechar="creation">2000</unitdate>
+            <container id="aspace_79e9720c6262b47c366d31154a0be14f" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_6d7c3698b8e42246d0c8d0ea73c8070f" parent="aspace_79e9720c6262b47c366d31154a0be14f" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Program kit</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_aa29b802ff34fff2e25d1c586ff681f9" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_75271998732b8526b62c9c3977c3b57a" parent="aspace_aa29b802ff34fff2e25d1c586ff681f9" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Program letters to members</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_df987449e4b0e880f7fb466b7e552082" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_866ade82f94b5c52bdc7a4ca02af2d61" parent="aspace_df987449e4b0e880f7fb466b7e552082" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>Publicity and Tear sheets</unittitle>
+            <unitdate datechar="creation" normal="1992/1993" type="inclusive">1992-1993</unitdate>
+            <container id="aspace_fc65191eaf1563fb471350cd2c17dfaf" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_93410e7bbafe68c8a90f5fa051aa9acc" parent="aspace_fc65191eaf1563fb471350cd2c17dfaf" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>Receipt books (carbon copies)</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_4b87f3005161cec77dbd0842532d38e9" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_d9ec422cab8842762b8b32b2bd2636d8" parent="aspace_4b87f3005161cec77dbd0842532d38e9" type="Folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>Share-a-Walk</unittitle>
+            <unitdate datechar="creation">2001</unitdate>
+            <container id="aspace_b37cd1d1454324089d6388919044ad5c" label="Mixed Materials [31142054887263]" type="Box">2</container>
+            <container id="aspace_4a62b6919c2c90a6e288b9f3d4dc5fb5" parent="aspace_b37cd1d1454324089d6388919044ad5c" type="Folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>Thank You and Fundraising letters</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_d08655c4264c62ae4e6cc3a75a3a590c" label="Mixed Materials [31142054887271]" type="Box">3</container>
+            <container id="aspace_b8d4efcf18d516e0b02e56e7c60b44bd" parent="aspace_d08655c4264c62ae4e6cc3a75a3a590c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>Treasurer's Reports</unittitle>
+            <unitdate datechar="creation">1993</unitdate>
+            <container id="aspace_ec5cfa83b88cd534fe4ea9adfd684444" label="Mixed Materials [31142054887271]" type="Box">3</container>
+            <container id="aspace_73ef4237ee0fdccbdcce9efddbb4d5cb" parent="aspace_ec5cfa83b88cd534fe4ea9adfd684444" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>Treasurer's Report</unittitle>
+            <unitdate datechar="creation">1994</unitdate>
+            <container id="aspace_8c943aa386da36054cc07b553a20112c" label="Mixed Materials [31142054887271]" type="Box">3</container>
+            <container id="aspace_e14a229d2554c7edfb829222eaff6acf" parent="aspace_8c943aa386da36054cc07b553a20112c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>Treasurer's Report</unittitle>
+            <unitdate datechar="creation">1995</unitdate>
+            <container id="aspace_79a0b824205fa25490ad4344168ce427" label="Mixed Materials [31142054887271]" type="Box">3</container>
+            <container id="aspace_39abcbfa2788319a347057c75cb04ad0" parent="aspace_79a0b824205fa25490ad4344168ce427" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>Treasurer's Report</unittitle>
+            <unitdate datechar="creation">1996</unitdate>
+            <container id="aspace_6844cf3dc42743b96b77029956d159af" label="Mixed Materials [31142054887271]" type="Box">3</container>
+            <container id="aspace_a26158248376ef35d6e869d16098605c" parent="aspace_6844cf3dc42743b96b77029956d159af" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>Treasurer's Report</unittitle>
+            <unitdate datechar="creation">1997</unitdate>
+            <container id="aspace_19d1efbec43f9071fc818106bb59d289" label="Mixed Materials [31142054887271]" type="Box">3</container>
+            <container id="aspace_40ccf59cafe2df98e2c50ba1ec3909a3" parent="aspace_19d1efbec43f9071fc818106bb59d289" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="file">
+          <did>
+            <unittitle>Website</unittitle>
+            <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate>
+            <container id="aspace_3f1aa791d957cb9bdd3426eb210aeff6" label="Mixed Materials [31142054887271]" type="Box">3</container>
+            <container id="aspace_1e6b13840745144f713a98945161e561" parent="aspace_3f1aa791d957cb9bdd3426eb210aeff6" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="file">
+          <did>
+            <unittitle>Website Alliance</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_927f1197a825fc0d5fba5290ce738e30" label="Mixed Materials [31142054887271]" type="Box">3</container>
+            <container id="aspace_3b79db5581b32066d5b48722bddfb5ac" parent="aspace_927f1197a825fc0d5fba5290ce738e30" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref104" level="file">
+          <did>
+            <unittitle>Wine Auction - Marion Gorman</unittitle>
+            <unitdate datechar="creation">1999</unitdate>
+            <container id="aspace_d281ee50d1e5ace86ce56598e26adbe1" label="Mixed Materials [31142054887271]" type="Box">3</container>
+            <container id="aspace_8a1a1c8843be638dbf48af3abf8aa9e3" parent="aspace_d281ee50d1e5ace86ce56598e26adbe1" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>Wine and Ethnic Food Pairing with ICE</unittitle>
+            <unitdate datechar="creation">2004</unitdate>
+            <container id="aspace_6d22f961d00db713ae371f2caa6756ed" label="Mixed Materials [31142054887271]" type="Box">3</container>
+            <container id="aspace_e6b017c7c685bdae09f93353d298e5a9" parent="aspace_6d22f961d00db713ae371f2caa6756ed" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="file">
+          <did>
+            <unittitle>Women and Money survey</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_2ae4e17e2a2318d12d703686e968f168" label="Mixed Materials [31142054887271]" type="Box">3</container>
+            <container id="aspace_1e2f87c5310f2ce5ddfb6f4ba8ea4cd7" parent="aspace_2ae4e17e2a2318d12d703686e968f168" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref107" level="file">
+          <did>
+            <unittitle>Women and Money survey</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_971604396578207d0f9295b26a17a04d" label="Mixed Materials [31142054887271]" type="Box">3</container>
+            <container id="aspace_026cc095efd48dede5393042a2de1de4" parent="aspace_971604396578207d0f9295b26a17a04d" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="item">
+          <did>
+            <unittitle>Betacam Video - "Moulton Visuals"</unittitle>
+            <unitdate datechar="creation">c. 1980 - 1996</unitdate>
+            <container id="aspace_62a5d81e409c28cc8f9ee11ff1b3ca2a" label="Mixed Materials [31142054887271]" type="Box">3</container>
+            <container id="aspace_df320fb3783823323df2308afa74f4a2" parent="aspace_62a5d81e409c28cc8f9ee11ff1b3ca2a" type="Folder">13</container>
+          </did>
+          <accessrestrict id="aspace_e1bdc932e3ffcfe7105a67e6784ae917">
+            <head>Conditions Governing Access</head>
+            <p>Audiovisual materials have not been preserved and may not be available to researchers.</p>
+          </accessrestrict>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

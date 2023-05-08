@@ -1,67 +1,583 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/wag_042">wag_042</eadid><filedesc><titlestmt><titleproper>Guide to the International Brotherhood of Painters and Allied Trades, Local 490 Records <num>WAG.042</num></titleproper><author>Jane Latour, circa 1985; Nicole Greenhouse, 2013</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>After 1985</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-12-12 19:51:17 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>International Brotherhood of Painters and Allied Trades, Local 490 Records</unittitle>
-    <origination label="Creator">
-      <corpname rules="dacs" source="local">International Brotherhood of Painters and Allied Trades. Local 490</corpname>
-    </origination>
-    <origination label="source">
-      <corpname role="dnr" rules="dacs" source="local">International Brotherhood of Painters and Allied Trades. Local 490</corpname>
-    </origination>
-    <unitid>WAG.042</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">12 Linear Feet</extent>
-      <extent altrender="carrier">in 3 manuscript boxes and 11 oversize flat boxes.</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1884/1979" type="inclusive">1884-1979</unitdate>
-    <abstract id="aspace_ce6218b76d5f96cfae07ed50f9356bef">The International Brotherhood of Painters, Local 490 (more commonly known as the Paperhangers Local), were established in 1864, located in New York City. The union was most active in the first half of the 20th century. The collection is made up of ledgers, minute books, financial records, and other related materials.</abstract>
-    <langmaterial id="aspace_a557714f129b750a26196f124220dfcf">Materials are mostly in English.</langmaterial>
-  </did>
-  <acqinfo id="aspace_25617c9f8a30c1eb2fd749d59e6c216b">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Robert Eckersdorff, president of the local union, in 1986. The accession numbers associated with this gift are 1986.039 and 1986.040.</p>  </acqinfo>
-  <bioghist id="aspace_1e969512eed2538317cc903a0933dd89">
-    <head>Historical/Biographical Note</head>
-<p>The International Brotherhood of Painters, Local 490 (more commonly known as the Paperhangers), were established as a single exclusive local since 1864, located in New York City. The were originally known as section 70: Paperhangers Local Union of America and joined the Knights of Labor in 1886. In 1902, they joined the National Brotherhood of Painters, Decorators, and Paperhangers of America as Local 585. For a short time, the local preferred to affiliate with the independent Amalgamated Society of Painters (1904-1906). Since 1906, the paperhangers have been organized as Local 490 of District Council 9 of the International Brotherhood of Painters and Allied Trades.  During the 19th century, membership included a large number of German and English. In 1903, a large influx of Jewish paperhangers joined the union; total membership was between 60 and 120 men. As of 1980, membership was roughly 40 percent Jewish, with a strong presence of Italian and Puerto Rican members. As of 1984, there were about 300 members.</p>  </bioghist>
-  <arrangement id="aspace_092b0e7e28aa4bb77bdc7b0198f4d651">
-    <head>Arrangement</head>
-<p>This collection is arranged into two series:</p><p>Series I: Records<lb/>
-Series II: Photographs<lb/></p><p>Materials are alphabetically in each series.</p>  </arrangement>
-  <relatedmaterial id="aspace_81d181c4ad56d71189fafd4c199c0f5c">
-    <head>Related Archival Materials</head>
-<p>Carl Blum Papers (WAG 100)<lb/>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/wag_042">wag_042</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the International Brotherhood of Painters and Allied Trades, Local 490 Records <num>WAG.042</num></titleproper>
+        <author>Jane Latour, circa 1985; Nicole Greenhouse, 2013</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>After 1985</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-12-12 19:51:17 -0500</date>.</creation>
+      <langusage>Description is in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>International Brotherhood of Painters and Allied Trades, Local 490 Records</unittitle>
+      <origination label="Creator">
+        <corpname rules="dacs" source="local">International Brotherhood of Painters and Allied Trades. Local 490</corpname>
+      </origination>
+      <origination label="source">
+        <corpname role="dnr" rules="dacs" source="local">International Brotherhood of Painters and Allied Trades. Local 490</corpname>
+      </origination>
+      <unitid>WAG.042</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">12 Linear Feet</extent>
+        <extent altrender="carrier">in 3 manuscript boxes and 11 oversize flat boxes.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1884/1979" type="inclusive">1884-1979</unitdate>
+      <abstract id="aspace_ce6218b76d5f96cfae07ed50f9356bef">The International Brotherhood of Painters, Local 490 (more commonly known as the Paperhangers Local), were established in 1864, located in New York City. The union was most active in the first half of the 20th century. The collection is made up of ledgers, minute books, financial records, and other related materials.</abstract>
+      <langmaterial id="aspace_a557714f129b750a26196f124220dfcf">Materials are mostly in English.</langmaterial>
+    </did>
+    <acqinfo id="aspace_25617c9f8a30c1eb2fd749d59e6c216b">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Robert Eckersdorff, president of the local union, in 1986. The accession numbers associated with this gift are 1986.039 and 1986.040.</p>
+    </acqinfo>
+    <bioghist id="aspace_1e969512eed2538317cc903a0933dd89">
+      <head>Historical/Biographical Note</head>
+      <p>The International Brotherhood of Painters, Local 490 (more commonly known as the Paperhangers), were established as a single exclusive local since 1864, located in New York City. The were originally known as section 70: Paperhangers Local Union of America and joined the Knights of Labor in 1886. In 1902, they joined the National Brotherhood of Painters, Decorators, and Paperhangers of America as Local 585. For a short time, the local preferred to affiliate with the independent Amalgamated Society of Painters (1904-1906). Since 1906, the paperhangers have been organized as Local 490 of District Council 9 of the International Brotherhood of Painters and Allied Trades.  During the 19th century, membership included a large number of German and English. In 1903, a large influx of Jewish paperhangers joined the union; total membership was between 60 and 120 men. As of 1980, membership was roughly 40 percent Jewish, with a strong presence of Italian and Puerto Rican members. As of 1984, there were about 300 members.</p>
+    </bioghist>
+    <arrangement id="aspace_092b0e7e28aa4bb77bdc7b0198f4d651">
+      <head>Arrangement</head>
+      <p>This collection is arranged into two series:</p>
+      <p>Series I: Records<lb/>
+Series II: Photographs<lb/></p>
+      <p>Materials are alphabetically in each series.</p>
+    </arrangement>
+    <relatedmaterial id="aspace_81d181c4ad56d71189fafd4c199c0f5c">
+      <head>Related Archival Materials</head>
+      <p>Carl Blum Papers (WAG 100)<lb/>
 Daniel French (WAG 101)<lb/>
-Sam Winn Papers (WAG 203)<lb/></p>  </relatedmaterial>
-  <processinfo id="aspace_acb25dadd5e06c2ab898c7aa639964d2">
-    <head>Processing Information</head>
-<p>In 2013, the photographs were rehoused. Photographs were separated from this collection in 2000 and were established as a separate collection, the International Brotherhood of Painters and Allied Trades, Local 490 Photographs (PHOTOS 150). In 2013, the photograph collection was reincorporated into the International Brotherhood of Painters and Allied Trades, Local 490 Records.</p>  </processinfo>
-  <scopecontent id="aspace_5fe592840477e3f1cc4786e24b712b47">
-    <head>Scope and Content Note</head>
-<p>This collection contains the records of the International Brotherhood of Painters and Allied Trades, Local 490, also known as the Paperhangers union, from the late 1800s to first half of the 20th century in New York City. The collection is made up of membership ledgers, financial records, minute books, by-laws, photographs, correspondence, convention materials, and other ephemera. The collection is rich in demonstrating the demographics of the union from the early 20th century, as well as information and the paperhangers industry.</p>  </scopecontent>
-  <phystech id="aspace_3a780836cd25235d812677a4979888dc">
-    <head>Physical Characteristics and Technical Requirements</head>
-<p>Materials in boxes 3-13 are extremely fragile. Materials must be looked at using a book cradle.</p>  </phystech>
-  <userestrict id="aspace_6443c0b64547756a71d21bb26878bd29">
-    <head>Conditions Governing Use</head>
-<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by the International Brotherhood of Painters and Allied Trades, Local 490 was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
-  <accessrestrict id="aspace_ce45dfb42ff9ac7932c9858b4082591e">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <prefercite id="aspace_7b0c57fefc5f44f08e2d1e413ba6ce3f">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; International Brotherhood of Painters and Allied Trades, Local 490 Records; WAG 042; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <controlaccess>
-    <subject source="lcsh">Labor unions -- New York (State) -- New York.</subject>
-    <genreform source="aat">Ledgers (account books)</genreform>
-    <subject source="lcsh">Painters, Industrial -- Labor unions -- New York (State) -- New York.</subject>
-    <subject source="lcsh">Painters, Industrial -- New York (State) -- New York.</subject>
-    <genreform source="aat">Minute books.</genreform>
-    <corpname authfilenumber="(lccn)n81120055" source="naf">International Brotherhood of Painters and Allied Trades. Painters District Council 9 of New York City</corpname>
-    <corpname role="dnr" rules="dacs" source="local">International Brotherhood of Painters and Allied Trades. Local 490</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_ref26" level="series"><did><unittitle>Series I: Records</unittitle><unitdate datechar="creation" normal="1905/1962" type="inclusive">1905-1962</unitdate></did><scopecontent id="aspace_22d571eb76b81addbf7f02ec02cc50be"><head>Scope and Content Note</head><p>This series contains the records of the Paperhangers union. The majority of this series is made up of ledgers, minute books, and financial records of the union, dating from 1800s to the middle of the century. Other types of material in the series include materials related to their Annual Eastern Seaboard Conference, flyers, correspondence, election materials, membership materials, and other ephemera. The series documents not only the day to day maintenance of the union, but also documents the union's support of other causes, including raising money for the State of Israel, and protesting in solidarity with other unions.</p></scopecontent><c id="aspace_ref43" level="file"><did><unittitle>Application for Membership</unittitle><unitdate datechar="creation" normal="1906/1939" type="inclusive">1906, 1930-1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_0ff8feb218103f7564d5adc89a8471b1" label="Mixed Materials [31142062722056]" type="Box">1</container><container id="aspace_26386720262f6a034d7b95deb0d709e3" parent="aspace_0ff8feb218103f7564d5adc89a8471b1" type="Folder">1</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>By-Laws and Amendments</unittitle><unitdate datechar="creation" normal="1916/1952" type="inclusive">1916-1952</unitdate><container altrender="Manuscript box - Legal" id="aspace_ad1324075b9df696439a915f2df46124" label="Mixed Materials [31142062722056]" type="Box">1</container><container id="aspace_fd057bed913a841b8a122ab12abcf47d" parent="aspace_ad1324075b9df696439a915f2df46124" type="Folder">2</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Correspondence to Local 490</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_e9c63f88b4a4b2335519abe55fe21a91" label="Mixed Materials [31142062722056]" type="Box">1</container><container id="aspace_ec19831e59f16a7f6a38a84a6d65e5f8" parent="aspace_e9c63f88b4a4b2335519abe55fe21a91" type="Folder">3</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Correspondence to Local 490</unittitle><unitdate datechar="creation" normal="1910/1957" type="inclusive">1910-1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_d9382bc9722d8710f4e92ba6373b30a3" label="Mixed Materials [31142062722056]" type="Box">1</container><container id="aspace_9857e0dd070da70567b1c1b06c07e0a3" parent="aspace_d9382bc9722d8710f4e92ba6373b30a3" type="Folder">4</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Election Documents</unittitle><unitdate datechar="creation" normal="1933/1957" type="inclusive">undated, 1933-1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_6c2807ca193ee1244a036728bf6c0ec3" label="Mixed Materials [31142062722056]" type="Box">1</container><container id="aspace_0a39ac241a612183ac83ae9a70cb9bd0" parent="aspace_6c2807ca193ee1244a036728bf6c0ec3" type="Folder">5</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Envelopes</unittitle><unitdate datechar="creation" normal="1904/1952" type="inclusive">1904-1952</unitdate><container altrender="Manuscript box - Legal" id="aspace_ba7430a0d618ae7dd7383ba9bd6eb99c" label="Mixed Materials [31142062722056]" type="Box">1</container><container id="aspace_a5af35b5192baa1650178b92151b76dd" parent="aspace_ba7430a0d618ae7dd7383ba9bd6eb99c" type="Folder">6</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Executive Board Correspondence</unittitle><unitdate datechar="creation" normal="1910/1957" type="inclusive">undated, 1910-1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_9a8e276f67e02d462607ad4077676a02" label="Mixed Materials [31142062722056]" type="Box">1</container><container id="aspace_1abee4eed4aff6547e852fb0a40af059" parent="aspace_9a8e276f67e02d462607ad4077676a02" type="Folder">7</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Executive Board Trial Information</unittitle><unitdate datechar="creation" normal="1905/1948" type="inclusive">1905-1948</unitdate><container altrender="Manuscript box - Legal" id="aspace_68fb7bf4a45cca12665134c17d0c7839" label="Mixed Materials [31142062722056]" type="Box">1</container><container id="aspace_805109e8fb58dcbf9543f831f25cf402" parent="aspace_68fb7bf4a45cca12665134c17d0c7839" type="Folder">8</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Executive Board Trial Information</unittitle><unitdate datechar="creation" normal="1949/1951" type="inclusive">1949-1951</unitdate><container altrender="Manuscript box - Legal" id="aspace_d1903111c2a3892095b4118f3e1fe87d" label="Mixed Materials [31142062722056]" type="Box">1</container><container id="aspace_0cf47fe8202df297b8b5614536a0d61b" parent="aspace_d1903111c2a3892095b4118f3e1fe87d" type="Folder">9</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Executive Board Trial Information</unittitle><unitdate datechar="creation" normal="1952/1957" type="inclusive">1952-1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_36629677a5e16ea7ad3996b5b054c817" label="Mixed Materials [31142062722056]" type="Box">1</container><container id="aspace_c9f84da3a7f017e967819e4c2d026446" parent="aspace_36629677a5e16ea7ad3996b5b054c817" type="Folder">10</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Financial Records of Paperhangers Local Union 490</unittitle><unitdate datechar="creation" normal="1906/1957" type="inclusive">1906-1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_b58ddde7fa18437b1bb1987fdbeef4e8" label="Mixed Materials [31142062722056]" type="Box">1</container><container id="aspace_e54a1b018528f40a5f3faf366ed0f036" parent="aspace_b58ddde7fa18437b1bb1987fdbeef4e8" type="Folder">11</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Financial Reports</unittitle><unitdate datechar="creation" normal="1927/1939" type="inclusive">1927-1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_1b06789d754dc5bc7fab39e8650c0931" label="Mixed Materials [31142062722056]" type="Box">1</container><container id="aspace_395c9919ab84b1409872da773d4279a9" parent="aspace_1b06789d754dc5bc7fab39e8650c0931" type="Folder">12</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Flyers, Notices, and Invitations</unittitle><unitdate datechar="creation" normal="1930/1957" type="inclusive">1930-1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_9270ab2aaba05343935f3fcedbeba1e8" label="Mixed Materials [31142062722056]" type="Box">1</container><container id="aspace_01ddf2da82eeed1c3ac8c82277c2004a" parent="aspace_9270ab2aaba05343935f3fcedbeba1e8" type="Folder">13</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Membership Information</unittitle><unitdate datechar="creation" normal="1937/1955" type="inclusive">1937-1955</unitdate><container altrender="Manuscript box - Legal" id="aspace_16e354880ebc7703a4fe0156b0a0f483" label="Mixed Materials [31142062722056]" type="Box">1</container><container id="aspace_7af35a7cd0885e543ec744441ca5f967" parent="aspace_16e354880ebc7703a4fe0156b0a0f483" type="Folder">14</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Miscellaneous Documents</unittitle><unitdate datechar="creation" normal="1910/1962" type="inclusive">1910-1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_e5c52021c0ca37ee7662cd92e5854788" label="Mixed Materials [31142062722056]" type="Box">1</container><container id="aspace_e31c1e02d5513adaa097abe7bf9cb818" parent="aspace_e5c52021c0ca37ee7662cd92e5854788" type="Folder">15</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1940/1952" type="inclusive">1940s-1952</unitdate><container altrender="Manuscript box - Legal" id="aspace_b88638daf322ab2fe91e43c016cb2146" label="Mixed Materials [31142062722056]" type="Box">1</container><container id="aspace_589c5d0fac469f581d91683be8e1f961" parent="aspace_b88638daf322ab2fe91e43c016cb2146" type="Folder">16</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Monthly Report of Financial Secretary</unittitle><unitdate datechar="creation" normal="1916/1916" type="inclusive">Jan-Dec 1916</unitdate><container altrender="Manuscript box - Legal" id="aspace_d4ed58e0bdb91d981c912f76bc1f43d8" label="Mixed Materials [31142062722056]" type="Box">1</container><container id="aspace_60cf53708f736f83ef38aa84d64f2671" parent="aspace_d4ed58e0bdb91d981c912f76bc1f43d8" type="Folder">17</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Monthly Report of Financial Secretary</unittitle><unitdate datechar="creation" normal="1917/1917" type="inclusive">Jan-Dec 1917</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_ab830890679c991a1afe58997e9366b6" label="Mixed Materials [31142062722064]" type="Box">2</container><container id="aspace_5565d381e26a5b6b0d9cb3779bb30345" parent="aspace_ab830890679c991a1afe58997e9366b6" type="Folder">1</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Monthly Report of Financial Secretary</unittitle><unitdate datechar="creation" normal="1918/1918" type="inclusive">Jan 1918</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_d4b206401062cb481500ba65a5a029cc" label="Mixed Materials [31142062722064]" type="Box">2</container><container id="aspace_baaa8eec7e60a27c4c0dfaaa6ab5f845" parent="aspace_d4b206401062cb481500ba65a5a029cc" type="Folder">2</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Paperhangers Union Local 490 Awards</unittitle><unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_e9dfc502d9db30894a481b41fada0bc7" label="Mixed Materials [31142062722064]" type="Box">2</container><container id="aspace_80279b1fa774f25ddc550d8bdc39fa13" parent="aspace_e9dfc502d9db30894a481b41fada0bc7" type="Folder">3</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Postage Receipts</unittitle><unitdate datechar="creation" normal="1947/1957" type="inclusive">1947-1957</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_dd56e3afdf75910d19aac7d99856dea7" label="Mixed Materials [31142062722064]" type="Box">2</container><container id="aspace_8163aecfde8287c38d71b73a10849b58" parent="aspace_dd56e3afdf75910d19aac7d99856dea7" type="Folder">4</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Receipts</unittitle><unitdate datechar="creation" normal="1930/1956" type="inclusive">1930-1956</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_b27dbceeeb3be5c36bbf3e3d71131f36" label="Mixed Materials [31142062722064]" type="Box">2</container><container id="aspace_4285ed1b190f3bd74c50d92864c79f34" parent="aspace_b27dbceeeb3be5c36bbf3e3d71131f36" type="Folder">5</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Registration Cards for the Fourth Paperhangers Eastern Seaboard Conference</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_51be640d07d8e47ace4cb09d9078aa6a" label="Mixed Materials [31142062722064]" type="Box">2</container><container id="aspace_e3a0efa5a3434b938a4c1e190a59cbad" parent="aspace_51be640d07d8e47ace4cb09d9078aa6a" type="Folder">6</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>State of Israel Dollar Bonds and Raffle Tickets</unittitle><unitdate datechar="creation" normal="1950/1959" type="inclusive">1950s</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f8f238586d91aece2080b12b07bc3d55" label="Mixed Materials [31142062722064]" type="Box">2</container><container id="aspace_364a357373ede53c124e19ab10eba61c" parent="aspace_f8f238586d91aece2080b12b07bc3d55" type="Folder">7</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Trade Union Committee for the Support of Westinghouse Strikers: Contribution List Local 490</unittitle><unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_b4f843857499714e9dafe23021f3cef9" label="Mixed Materials [31142062722064]" type="Box">2</container><container id="aspace_5d3c8c1e9a8c44bcd1b93570821c9864" parent="aspace_b4f843857499714e9dafe23021f3cef9" type="Folder">8</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Minute Book and Ledgers</unittitle><unitdate datechar="creation" normal="1884/1909" type="inclusive">1884-1909</unitdate><container altrender="Flat Box - 12 x 16" id="aspace_a0548f740bdfd84bf8a4c6e9d7a54d2b" label="Mixed Materials [31142062727832]" type="Box">3</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Record Books</unittitle><unitdate datechar="creation" normal="1901/1908" type="inclusive">1901, 1904, 1908</unitdate><container altrender="Flat Box - 12 x 16" id="aspace_acc2c640889e9d01d225f769f3ec4b96" label="Mixed Materials [31142062727840]" type="Box">4</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Minute Books</unittitle><unitdate datechar="creation" normal="1913/1915" type="inclusive">1913, 1915</unitdate><container altrender="Flat Box - 12 x 16" id="aspace_1b7537b7e76be7d32956ad2e8929a182" label="Mixed Materials [31142062727857]" type="Box">5</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Ledger</unittitle><unitdate datechar="creation" normal="1932/1933" type="inclusive">1932-1933</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_41039178d6ad7a7e8988daa54276a077" label="Mixed Materials [31142062766319]" type="Box">6</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Record Books</unittitle><unitdate datechar="creation" normal="1932/1937" type="inclusive">1932, 1937</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_5ac3c1ae01732be20e694fb89fea97ad" label="Mixed Materials [31142062766327]" type="Box">7</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Record Books</unittitle><unitdate datechar="creation" normal="1941/1944" type="inclusive">1941-1944</unitdate><container altrender="Flat Box - 12 x 15.25" id="aspace_d07b72c3b5546ea2d937a9bd10237e37" label="Mixed Materials [31142062727899]" type="Box">8</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Ledgers</unittitle><unitdate datechar="creation" normal="1906/1936" type="inclusive">1906-1936</unitdate><container altrender="Flat Box - 12.5 x 16 - lengthwise" id="aspace_05a39b27a674b3c8e56bfa3eb678843e" label="Mixed Materials [31142062727881]" type="Box">9</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>Minute Books</unittitle><unitdate datechar="creation" normal="1916/1929" type="inclusive">1916, 1925, 1929</unitdate><container altrender="Flat Box - 12.5 x 16 - lengthwise" id="aspace_6877ca1c58da1e942a2807320b1a0f42" label="Mixed Materials [31142062727873]" type="Box">10</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>Ledger</unittitle><unitdate datechar="creation" normal="1934/1935" type="inclusive">1934-1935</unitdate><container altrender="Flat Box - 12.5 x 16 - lengthwise" id="aspace_55bc21e99fadde7ed5bce288d34a3cbb" label="Mixed Materials [31142062727865]" type="Box">11</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>Minute Book and Bookkeeping</unittitle><unitdate datechar="creation" normal="1903/1904" type="inclusive">1903-1904</unitdate><container altrender="Custom Box - 10.75 x 14.25" id="aspace_88582e96c7a57d4fea450d2c31cef639" label="Mixed Materials [31142062758563]" type="Box">12</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>Bookkeeping and Addresses</unittitle><unitdate datechar="creation" normal="1921/1921" type="inclusive">1921</unitdate><container altrender="Custom Drop Spine Box (2.75&quot; height, any dimensions up to 8&quot; x 20&quot;)" id="aspace_eac242873a68b3ca07dd262e7818a087" label="Mixed Materials [31142062758571]" type="Box">13</container></did></c></c><c id="aspace_ref27" level="series"><did><unittitle>Series II: Photographs</unittitle><unitdate datechar="creation" normal="1937/1979" type="inclusive">1937-1970s</unitdate></did><scopecontent id="aspace_c57505df65b23eb83da875201c41e0ed"><head>Scope and Content Note</head><p>This series contains mostly black-and-white photographs, with some color photographs and negatives, depicting the Paperhangers union. Many deal with their annual Eastern Seaboard Conference. A portion of the black-and-white photographs were originally bound by a photo album. The photo album was photocopied and disassembled for preservation purposes. Other photographs depict portraits and other images of union members and protest photographs.</p></scopecontent><c id="aspace_ref65" level="file"><did><unittitle>2nd Annual Paper Hangers Eastern Seaboard Conference</unittitle><unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_30c113fb01d90aaf7d09c285b427465b" label="Mixed Materials [31142062722072]" type="Box">14</container><container id="aspace_4522426da6b7c9603b4f80839fde1d73" parent="aspace_30c113fb01d90aaf7d09c285b427465b" type="Folder">1</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>2nd Annual Paper Hangers Eastern Seaboard Conference: Photo Album [1 of 2]</unittitle><unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_6818687b5cb967ba42b1c46cbc151c55" label="Mixed Materials [31142062722072]" type="Box">14</container><container id="aspace_4947de09bd8aebea6369f716ca428a84" parent="aspace_6818687b5cb967ba42b1c46cbc151c55" type="Folder">2</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>2nd Annual Paper Hangers Eastern Seaboard Conference: Photo Album [2 of 2]</unittitle><unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_7e52822fd9ae934b87cffe783f95b5d5" label="Mixed Materials [31142062722072]" type="Box">14</container><container id="aspace_3186f4dc0e7d7154d522b3eeb4ca096f" parent="aspace_7e52822fd9ae934b87cffe783f95b5d5" type="Folder">3</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>3rd Annual Paper Hangers Eastern seaboard Conference and Wall Covering Exhibit</unittitle><unitdate datechar="creation" normal="1959/1959" type="inclusive">Jun 1959</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_92a0179d172c12696fd5edcac7737693" label="Mixed Materials [31142062722072]" type="Box">14</container><container id="aspace_9236fb0e17f221f9d642e5f1ba1e6841" parent="aspace_92a0179d172c12696fd5edcac7737693" type="Folder">4</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>4th Annual Paper Hangers Eastern Seaboard Conference and Wall Covering Exhibit</unittitle><unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_40960d1b4d7ebb55d7d08e98f4f5fc51" label="Mixed Materials [31142062722072]" type="Box">14</container><container id="aspace_a02e811bcdf80fe4b3a642cbe8b5ed11" parent="aspace_40960d1b4d7ebb55d7d08e98f4f5fc51" type="Folder">5</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>5th Annual Paper Hangers Eastern Seaboard Conference and Wall Covering Exhibit: Negatives</unittitle><unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_7eb6221e5caca026850bf1ec6544c2f4" label="Mixed Materials [31142062722072]" type="Box">14</container><container id="aspace_70b10d31d184c070adbc94d282a334eb" parent="aspace_7eb6221e5caca026850bf1ec6544c2f4" type="Folder">6</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>5th Annual Paper Hangers Eastern Seaboard Conference and Wall Covering Exhibit: Photographs</unittitle><unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_504021ad0d9d6302870688f31980b20e" label="Mixed Materials [31142062722072]" type="Box">14</container><container id="aspace_72bd938c2c44fd7920e87a5d94e87bba" parent="aspace_504021ad0d9d6302870688f31980b20e" type="Folder">7</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>53rd Anniversary Affair</unittitle><unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_687920e0d0df21e1ae080cb10c8d3582" label="Mixed Materials [31142062722072]" type="Box">14</container><container id="aspace_328a8f500fd6674486eb35eace2a1055" parent="aspace_687920e0d0df21e1ae080cb10c8d3582" type="Folder">8</container></did></c><c id="aspace_ref73" level="file"><did><unittitle>Annual Paper Hangers Eastern Seaboard conference and Wall Covering Exhibit</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_60b6d98ace8544a4319a922625e0d0b2" label="Mixed Materials [31142062722072]" type="Box">14</container><container id="aspace_2d8d3a9285feb818079cad55542b72c0" parent="aspace_60b6d98ace8544a4319a922625e0d0b2" type="Folder">9</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>Brennan, Peter; French, Danny; and DiSilvestro, Mike</unittitle><unitdate datechar="creation" normal="1970/1979" type="inclusive">1970s</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_5b885fcc3afc09fedb38bdb3f8448a89" label="Mixed Materials [31142062722072]" type="Box">14</container><container id="aspace_2d90a5352660534752cd648bb02cd5f4" parent="aspace_5b885fcc3afc09fedb38bdb3f8448a89" type="Folder">10</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>J.I.B. Protest Photo</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_3618d1817f6bbdae9d88dc6035000f0d" label="Mixed Materials [31142062722072]" type="Box">14</container><container id="aspace_e32399d868ba5690b922b49fed825e59" parent="aspace_3618d1817f6bbdae9d88dc6035000f0d" type="Folder">11</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>Miscellaneous</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_cb4d88606210d24eaa55d1c266632a1b" label="Mixed Materials [31142062722072]" type="Box">14</container><container id="aspace_dec0da29abaf0553d058c0548fdc3f8d" parent="aspace_cb4d88606210d24eaa55d1c266632a1b" type="Folder">12</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>Miscellaneous</unittitle><unitdate datechar="creation" normal="1958/1958" type="inclusive">Oct 1958</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_82f54b7f8e821e4eafb45cb5d600decb" label="Mixed Materials [31142062722072]" type="Box">14</container><container id="aspace_b3963645407f8e7f85052729f79eec99" parent="aspace_82f54b7f8e821e4eafb45cb5d600decb" type="Folder">13</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>Miscellaneous</unittitle><unitdate datechar="creation" normal="1959/1959" type="inclusive">Nov 1959</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_7ba6bffd2d038213d3d8acd8f431a051" label="Mixed Materials [31142062722072]" type="Box">14</container><container id="aspace_5cde0580c1c7727bda37a1d3f059a927" parent="aspace_7ba6bffd2d038213d3d8acd8f431a051" type="Folder">14</container></did></c><c id="aspace_ref79" level="file"><did><unittitle>Miscellaneous</unittitle><unitdate datechar="creation" normal="1960/1960" type="inclusive">Dec 1960</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_5a3a26310e059a62c0d339b2cf45c264" label="Mixed Materials [31142062722072]" type="Box">14</container><container id="aspace_1c1322c5f637b0fa38f5ebab9c34ec18" parent="aspace_5a3a26310e059a62c0d339b2cf45c264" type="Folder">15</container></did></c><c id="aspace_ref80" level="file"><did><unittitle>Office Photos (Sam Winn)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_77a99889d76272cfad68384545e3b45d" label="Mixed Materials [31142062722072]" type="Box">14</container><container id="aspace_7b9dfa07a40f1d2307ee0118f4a3b042" parent="aspace_77a99889d76272cfad68384545e3b45d" type="Folder">16</container></did></c><c id="aspace_ref81" level="file"><did><unittitle>Paper Hangers Work Shop</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_4985627f9f1f38ad06f13d14c6bf028e" label="Mixed Materials [31142062722072]" type="Box">14</container><container id="aspace_6fc58550c1504a5be751299f13b870a7" parent="aspace_4985627f9f1f38ad06f13d14c6bf028e" type="Folder">17</container></did></c><c id="aspace_ref82" level="file"><did><unittitle>Raftery, Frank S.: Portrait</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_e5308c50f8d82f5ad73be92e7830ca54" label="Mixed Materials [31142062722072]" type="Box">14</container><container id="aspace_92b7933a1c5c51120dffe2fc781a2279" parent="aspace_e5308c50f8d82f5ad73be92e7830ca54" type="Folder">18</container></did></c><c id="aspace_ref83" level="file"><did><unittitle>Weinstock, Louis: May Day Parade, Negative</unittitle><unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_b8dae17612c6211425ee05fc540b001e" label="Mixed Materials [31142062722072]" type="Box">14</container><container id="aspace_452356bbcd31a9ccc2660aba65c24e6a" parent="aspace_b8dae17612c6211425ee05fc540b001e" type="Folder">19</container></did></c><c id="aspace_ref84" level="file"><did><unittitle>Weinstock, Louis: May Day Parade, Photo</unittitle><unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_433d39f36e00d6ab7a490dc15148149c" label="Mixed Materials [31142062722072]" type="Box">14</container><container id="aspace_cc284a4bfe8cd842e03a13e56263f8f9" parent="aspace_433d39f36e00d6ab7a490dc15148149c" type="Folder">20</container></did></c><c id="aspace_ref85" level="file"><did><unittitle>Weinstock, Louis: On a Boat with Others</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_57176d402e2969fb5d70215990f6f4d7" label="Mixed Materials [31142062722072]" type="Box">14</container><container id="aspace_6940ef992c702d3c0cdfc5edde7de2f3" parent="aspace_57176d402e2969fb5d70215990f6f4d7" type="Folder">21</container></did></c><c id="aspace_ref86" level="file"><did><unittitle>Wolford, James: Portrait</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_563e091069980467c072ba84ebbae0c3" label="Mixed Materials [31142062722072]" type="Box">14</container><container id="aspace_685757e3e8db657117e357f87d0ef03a" parent="aspace_563e091069980467c072ba84ebbae0c3" type="Folder">22</container></did></c></c></dsc>
-</archdesc>
+Sam Winn Papers (WAG 203)<lb/></p>
+    </relatedmaterial>
+    <processinfo id="aspace_acb25dadd5e06c2ab898c7aa639964d2">
+      <head>Processing Information</head>
+      <p>In 2013, the photographs were rehoused. Photographs were separated from this collection in 2000 and were established as a separate collection, the International Brotherhood of Painters and Allied Trades, Local 490 Photographs (PHOTOS 150). In 2013, the photograph collection was reincorporated into the International Brotherhood of Painters and Allied Trades, Local 490 Records.</p>
+    </processinfo>
+    <scopecontent id="aspace_5fe592840477e3f1cc4786e24b712b47">
+      <head>Scope and Content Note</head>
+      <p>This collection contains the records of the International Brotherhood of Painters and Allied Trades, Local 490, also known as the Paperhangers union, from the late 1800s to first half of the 20th century in New York City. The collection is made up of membership ledgers, financial records, minute books, by-laws, photographs, correspondence, convention materials, and other ephemera. The collection is rich in demonstrating the demographics of the union from the early 20th century, as well as information and the paperhangers industry.</p>
+    </scopecontent>
+    <phystech id="aspace_3a780836cd25235d812677a4979888dc">
+      <head>Physical Characteristics and Technical Requirements</head>
+      <p>Materials in boxes 3-13 are extremely fragile. Materials must be looked at using a book cradle.</p>
+    </phystech>
+    <userestrict id="aspace_6443c0b64547756a71d21bb26878bd29">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by the International Brotherhood of Painters and Allied Trades, Local 490 was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <accessrestrict id="aspace_ce45dfb42ff9ac7932c9858b4082591e">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <prefercite id="aspace_7b0c57fefc5f44f08e2d1e413ba6ce3f">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; International Brotherhood of Painters and Allied Trades, Local 490 Records; WAG 042; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <controlaccess>
+      <subject source="lcsh">Labor unions -- New York (State) -- New York.</subject>
+      <genreform source="aat">Ledgers (account books)</genreform>
+      <subject source="lcsh">Painters, Industrial -- Labor unions -- New York (State) -- New York.</subject>
+      <subject source="lcsh">Painters, Industrial -- New York (State) -- New York.</subject>
+      <genreform source="aat">Minute books.</genreform>
+      <corpname authfilenumber="(lccn)n81120055" source="naf">International Brotherhood of Painters and Allied Trades. Painters District Council 9 of New York City</corpname>
+      <corpname role="dnr" rules="dacs" source="local">International Brotherhood of Painters and Allied Trades. Local 490</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref26" level="series">
+        <did>
+          <unittitle>Series I: Records</unittitle>
+          <unitdate datechar="creation" normal="1905/1962" type="inclusive">1905-1962</unitdate>
+        </did>
+        <scopecontent id="aspace_22d571eb76b81addbf7f02ec02cc50be">
+          <head>Scope and Content Note</head>
+          <p>This series contains the records of the Paperhangers union. The majority of this series is made up of ledgers, minute books, and financial records of the union, dating from 1800s to the middle of the century. Other types of material in the series include materials related to their Annual Eastern Seaboard Conference, flyers, correspondence, election materials, membership materials, and other ephemera. The series documents not only the day to day maintenance of the union, but also documents the union's support of other causes, including raising money for the State of Israel, and protesting in solidarity with other unions.</p>
+        </scopecontent>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Application for Membership</unittitle>
+            <unitdate datechar="creation" normal="1906/1939" type="inclusive">1906, 1930-1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0ff8feb218103f7564d5adc89a8471b1" label="Mixed Materials [31142062722056]" type="Box">1</container>
+            <container id="aspace_26386720262f6a034d7b95deb0d709e3" parent="aspace_0ff8feb218103f7564d5adc89a8471b1" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>By-Laws and Amendments</unittitle>
+            <unitdate datechar="creation" normal="1916/1952" type="inclusive">1916-1952</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ad1324075b9df696439a915f2df46124" label="Mixed Materials [31142062722056]" type="Box">1</container>
+            <container id="aspace_fd057bed913a841b8a122ab12abcf47d" parent="aspace_ad1324075b9df696439a915f2df46124" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Correspondence to Local 490</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e9c63f88b4a4b2335519abe55fe21a91" label="Mixed Materials [31142062722056]" type="Box">1</container>
+            <container id="aspace_ec19831e59f16a7f6a38a84a6d65e5f8" parent="aspace_e9c63f88b4a4b2335519abe55fe21a91" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Correspondence to Local 490</unittitle>
+            <unitdate datechar="creation" normal="1910/1957" type="inclusive">1910-1957</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d9382bc9722d8710f4e92ba6373b30a3" label="Mixed Materials [31142062722056]" type="Box">1</container>
+            <container id="aspace_9857e0dd070da70567b1c1b06c07e0a3" parent="aspace_d9382bc9722d8710f4e92ba6373b30a3" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Election Documents</unittitle>
+            <unitdate datechar="creation" normal="1933/1957" type="inclusive">undated, 1933-1957</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6c2807ca193ee1244a036728bf6c0ec3" label="Mixed Materials [31142062722056]" type="Box">1</container>
+            <container id="aspace_0a39ac241a612183ac83ae9a70cb9bd0" parent="aspace_6c2807ca193ee1244a036728bf6c0ec3" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Envelopes</unittitle>
+            <unitdate datechar="creation" normal="1904/1952" type="inclusive">1904-1952</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ba7430a0d618ae7dd7383ba9bd6eb99c" label="Mixed Materials [31142062722056]" type="Box">1</container>
+            <container id="aspace_a5af35b5192baa1650178b92151b76dd" parent="aspace_ba7430a0d618ae7dd7383ba9bd6eb99c" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Executive Board Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1910/1957" type="inclusive">undated, 1910-1957</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9a8e276f67e02d462607ad4077676a02" label="Mixed Materials [31142062722056]" type="Box">1</container>
+            <container id="aspace_1abee4eed4aff6547e852fb0a40af059" parent="aspace_9a8e276f67e02d462607ad4077676a02" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Executive Board Trial Information</unittitle>
+            <unitdate datechar="creation" normal="1905/1948" type="inclusive">1905-1948</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_68fb7bf4a45cca12665134c17d0c7839" label="Mixed Materials [31142062722056]" type="Box">1</container>
+            <container id="aspace_805109e8fb58dcbf9543f831f25cf402" parent="aspace_68fb7bf4a45cca12665134c17d0c7839" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Executive Board Trial Information</unittitle>
+            <unitdate datechar="creation" normal="1949/1951" type="inclusive">1949-1951</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d1903111c2a3892095b4118f3e1fe87d" label="Mixed Materials [31142062722056]" type="Box">1</container>
+            <container id="aspace_0cf47fe8202df297b8b5614536a0d61b" parent="aspace_d1903111c2a3892095b4118f3e1fe87d" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Executive Board Trial Information</unittitle>
+            <unitdate datechar="creation" normal="1952/1957" type="inclusive">1952-1957</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_36629677a5e16ea7ad3996b5b054c817" label="Mixed Materials [31142062722056]" type="Box">1</container>
+            <container id="aspace_c9f84da3a7f017e967819e4c2d026446" parent="aspace_36629677a5e16ea7ad3996b5b054c817" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Financial Records of Paperhangers Local Union 490</unittitle>
+            <unitdate datechar="creation" normal="1906/1957" type="inclusive">1906-1957</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b58ddde7fa18437b1bb1987fdbeef4e8" label="Mixed Materials [31142062722056]" type="Box">1</container>
+            <container id="aspace_e54a1b018528f40a5f3faf366ed0f036" parent="aspace_b58ddde7fa18437b1bb1987fdbeef4e8" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Financial Reports</unittitle>
+            <unitdate datechar="creation" normal="1927/1939" type="inclusive">1927-1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1b06789d754dc5bc7fab39e8650c0931" label="Mixed Materials [31142062722056]" type="Box">1</container>
+            <container id="aspace_395c9919ab84b1409872da773d4279a9" parent="aspace_1b06789d754dc5bc7fab39e8650c0931" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Flyers, Notices, and Invitations</unittitle>
+            <unitdate datechar="creation" normal="1930/1957" type="inclusive">1930-1957</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9270ab2aaba05343935f3fcedbeba1e8" label="Mixed Materials [31142062722056]" type="Box">1</container>
+            <container id="aspace_01ddf2da82eeed1c3ac8c82277c2004a" parent="aspace_9270ab2aaba05343935f3fcedbeba1e8" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Membership Information</unittitle>
+            <unitdate datechar="creation" normal="1937/1955" type="inclusive">1937-1955</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_16e354880ebc7703a4fe0156b0a0f483" label="Mixed Materials [31142062722056]" type="Box">1</container>
+            <container id="aspace_7af35a7cd0885e543ec744441ca5f967" parent="aspace_16e354880ebc7703a4fe0156b0a0f483" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Miscellaneous Documents</unittitle>
+            <unitdate datechar="creation" normal="1910/1962" type="inclusive">1910-1962</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e5c52021c0ca37ee7662cd92e5854788" label="Mixed Materials [31142062722056]" type="Box">1</container>
+            <container id="aspace_e31c1e02d5513adaa097abe7bf9cb818" parent="aspace_e5c52021c0ca37ee7662cd92e5854788" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1940/1952" type="inclusive">1940s-1952</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b88638daf322ab2fe91e43c016cb2146" label="Mixed Materials [31142062722056]" type="Box">1</container>
+            <container id="aspace_589c5d0fac469f581d91683be8e1f961" parent="aspace_b88638daf322ab2fe91e43c016cb2146" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Monthly Report of Financial Secretary</unittitle>
+            <unitdate datechar="creation" normal="1916/1916" type="inclusive">Jan-Dec 1916</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d4ed58e0bdb91d981c912f76bc1f43d8" label="Mixed Materials [31142062722056]" type="Box">1</container>
+            <container id="aspace_60cf53708f736f83ef38aa84d64f2671" parent="aspace_d4ed58e0bdb91d981c912f76bc1f43d8" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Monthly Report of Financial Secretary</unittitle>
+            <unitdate datechar="creation" normal="1917/1917" type="inclusive">Jan-Dec 1917</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_ab830890679c991a1afe58997e9366b6" label="Mixed Materials [31142062722064]" type="Box">2</container>
+            <container id="aspace_5565d381e26a5b6b0d9cb3779bb30345" parent="aspace_ab830890679c991a1afe58997e9366b6" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Monthly Report of Financial Secretary</unittitle>
+            <unitdate datechar="creation" normal="1918/1918" type="inclusive">Jan 1918</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_d4b206401062cb481500ba65a5a029cc" label="Mixed Materials [31142062722064]" type="Box">2</container>
+            <container id="aspace_baaa8eec7e60a27c4c0dfaaa6ab5f845" parent="aspace_d4b206401062cb481500ba65a5a029cc" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Paperhangers Union Local 490 Awards</unittitle>
+            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_e9dfc502d9db30894a481b41fada0bc7" label="Mixed Materials [31142062722064]" type="Box">2</container>
+            <container id="aspace_80279b1fa774f25ddc550d8bdc39fa13" parent="aspace_e9dfc502d9db30894a481b41fada0bc7" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Postage Receipts</unittitle>
+            <unitdate datechar="creation" normal="1947/1957" type="inclusive">1947-1957</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_dd56e3afdf75910d19aac7d99856dea7" label="Mixed Materials [31142062722064]" type="Box">2</container>
+            <container id="aspace_8163aecfde8287c38d71b73a10849b58" parent="aspace_dd56e3afdf75910d19aac7d99856dea7" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Receipts</unittitle>
+            <unitdate datechar="creation" normal="1930/1956" type="inclusive">1930-1956</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_b27dbceeeb3be5c36bbf3e3d71131f36" label="Mixed Materials [31142062722064]" type="Box">2</container>
+            <container id="aspace_4285ed1b190f3bd74c50d92864c79f34" parent="aspace_b27dbceeeb3be5c36bbf3e3d71131f36" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Registration Cards for the Fourth Paperhangers Eastern Seaboard Conference</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_51be640d07d8e47ace4cb09d9078aa6a" label="Mixed Materials [31142062722064]" type="Box">2</container>
+            <container id="aspace_e3a0efa5a3434b938a4c1e190a59cbad" parent="aspace_51be640d07d8e47ace4cb09d9078aa6a" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>State of Israel Dollar Bonds and Raffle Tickets</unittitle>
+            <unitdate datechar="creation" normal="1950/1959" type="inclusive">1950s</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_f8f238586d91aece2080b12b07bc3d55" label="Mixed Materials [31142062722064]" type="Box">2</container>
+            <container id="aspace_364a357373ede53c124e19ab10eba61c" parent="aspace_f8f238586d91aece2080b12b07bc3d55" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Trade Union Committee for the Support of Westinghouse Strikers: Contribution List Local 490</unittitle>
+            <unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_b4f843857499714e9dafe23021f3cef9" label="Mixed Materials [31142062722064]" type="Box">2</container>
+            <container id="aspace_5d3c8c1e9a8c44bcd1b93570821c9864" parent="aspace_b4f843857499714e9dafe23021f3cef9" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Minute Book and Ledgers</unittitle>
+            <unitdate datechar="creation" normal="1884/1909" type="inclusive">1884-1909</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_a0548f740bdfd84bf8a4c6e9d7a54d2b" label="Mixed Materials [31142062727832]" type="Box">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Record Books</unittitle>
+            <unitdate datechar="creation" normal="1901/1908" type="inclusive">1901, 1904, 1908</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_acc2c640889e9d01d225f769f3ec4b96" label="Mixed Materials [31142062727840]" type="Box">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Minute Books</unittitle>
+            <unitdate datechar="creation" normal="1913/1915" type="inclusive">1913, 1915</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_1b7537b7e76be7d32956ad2e8929a182" label="Mixed Materials [31142062727857]" type="Box">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Ledger</unittitle>
+            <unitdate datechar="creation" normal="1932/1933" type="inclusive">1932-1933</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_41039178d6ad7a7e8988daa54276a077" label="Mixed Materials [31142062766319]" type="Box">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Record Books</unittitle>
+            <unitdate datechar="creation" normal="1932/1937" type="inclusive">1932, 1937</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_5ac3c1ae01732be20e694fb89fea97ad" label="Mixed Materials [31142062766327]" type="Box">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Record Books</unittitle>
+            <unitdate datechar="creation" normal="1941/1944" type="inclusive">1941-1944</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_d07b72c3b5546ea2d937a9bd10237e37" label="Mixed Materials [31142062727899]" type="Box">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Ledgers</unittitle>
+            <unitdate datechar="creation" normal="1906/1936" type="inclusive">1906-1936</unitdate>
+            <container altrender="Flat Box - 12.5 x 16 - lengthwise" id="aspace_05a39b27a674b3c8e56bfa3eb678843e" label="Mixed Materials [31142062727881]" type="Box">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Minute Books</unittitle>
+            <unitdate datechar="creation" normal="1916/1929" type="inclusive">1916, 1925, 1929</unitdate>
+            <container altrender="Flat Box - 12.5 x 16 - lengthwise" id="aspace_6877ca1c58da1e942a2807320b1a0f42" label="Mixed Materials [31142062727873]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Ledger</unittitle>
+            <unitdate datechar="creation" normal="1934/1935" type="inclusive">1934-1935</unitdate>
+            <container altrender="Flat Box - 12.5 x 16 - lengthwise" id="aspace_55bc21e99fadde7ed5bce288d34a3cbb" label="Mixed Materials [31142062727865]" type="Box">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Minute Book and Bookkeeping</unittitle>
+            <unitdate datechar="creation" normal="1903/1904" type="inclusive">1903-1904</unitdate>
+            <container altrender="Custom Box - 10.75 x 14.25" id="aspace_88582e96c7a57d4fea450d2c31cef639" label="Mixed Materials [31142062758563]" type="Box">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Bookkeeping and Addresses</unittitle>
+            <unitdate datechar="creation" normal="1921/1921" type="inclusive">1921</unitdate>
+            <container altrender="Custom Drop Spine Box (2.75&quot; height, any dimensions up to 8&quot; x 20&quot;)" id="aspace_eac242873a68b3ca07dd262e7818a087" label="Mixed Materials [31142062758571]" type="Box">13</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref27" level="series">
+        <did>
+          <unittitle>Series II: Photographs</unittitle>
+          <unitdate datechar="creation" normal="1937/1979" type="inclusive">1937-1970s</unitdate>
+        </did>
+        <scopecontent id="aspace_c57505df65b23eb83da875201c41e0ed">
+          <head>Scope and Content Note</head>
+          <p>This series contains mostly black-and-white photographs, with some color photographs and negatives, depicting the Paperhangers union. Many deal with their annual Eastern Seaboard Conference. A portion of the black-and-white photographs were originally bound by a photo album. The photo album was photocopied and disassembled for preservation purposes. Other photographs depict portraits and other images of union members and protest photographs.</p>
+        </scopecontent>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>2nd Annual Paper Hangers Eastern Seaboard Conference</unittitle>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_30c113fb01d90aaf7d09c285b427465b" label="Mixed Materials [31142062722072]" type="Box">14</container>
+            <container id="aspace_4522426da6b7c9603b4f80839fde1d73" parent="aspace_30c113fb01d90aaf7d09c285b427465b" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>2nd Annual Paper Hangers Eastern Seaboard Conference: Photo Album [1 of 2]</unittitle>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_6818687b5cb967ba42b1c46cbc151c55" label="Mixed Materials [31142062722072]" type="Box">14</container>
+            <container id="aspace_4947de09bd8aebea6369f716ca428a84" parent="aspace_6818687b5cb967ba42b1c46cbc151c55" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>2nd Annual Paper Hangers Eastern Seaboard Conference: Photo Album [2 of 2]</unittitle>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_7e52822fd9ae934b87cffe783f95b5d5" label="Mixed Materials [31142062722072]" type="Box">14</container>
+            <container id="aspace_3186f4dc0e7d7154d522b3eeb4ca096f" parent="aspace_7e52822fd9ae934b87cffe783f95b5d5" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>3rd Annual Paper Hangers Eastern seaboard Conference and Wall Covering Exhibit</unittitle>
+            <unitdate datechar="creation" normal="1959/1959" type="inclusive">Jun 1959</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_92a0179d172c12696fd5edcac7737693" label="Mixed Materials [31142062722072]" type="Box">14</container>
+            <container id="aspace_9236fb0e17f221f9d642e5f1ba1e6841" parent="aspace_92a0179d172c12696fd5edcac7737693" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>4th Annual Paper Hangers Eastern Seaboard Conference and Wall Covering Exhibit</unittitle>
+            <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_40960d1b4d7ebb55d7d08e98f4f5fc51" label="Mixed Materials [31142062722072]" type="Box">14</container>
+            <container id="aspace_a02e811bcdf80fe4b3a642cbe8b5ed11" parent="aspace_40960d1b4d7ebb55d7d08e98f4f5fc51" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>5th Annual Paper Hangers Eastern Seaboard Conference and Wall Covering Exhibit: Negatives</unittitle>
+            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_7eb6221e5caca026850bf1ec6544c2f4" label="Mixed Materials [31142062722072]" type="Box">14</container>
+            <container id="aspace_70b10d31d184c070adbc94d282a334eb" parent="aspace_7eb6221e5caca026850bf1ec6544c2f4" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>5th Annual Paper Hangers Eastern Seaboard Conference and Wall Covering Exhibit: Photographs</unittitle>
+            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_504021ad0d9d6302870688f31980b20e" label="Mixed Materials [31142062722072]" type="Box">14</container>
+            <container id="aspace_72bd938c2c44fd7920e87a5d94e87bba" parent="aspace_504021ad0d9d6302870688f31980b20e" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>53rd Anniversary Affair</unittitle>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_687920e0d0df21e1ae080cb10c8d3582" label="Mixed Materials [31142062722072]" type="Box">14</container>
+            <container id="aspace_328a8f500fd6674486eb35eace2a1055" parent="aspace_687920e0d0df21e1ae080cb10c8d3582" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Annual Paper Hangers Eastern Seaboard conference and Wall Covering Exhibit</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_60b6d98ace8544a4319a922625e0d0b2" label="Mixed Materials [31142062722072]" type="Box">14</container>
+            <container id="aspace_2d8d3a9285feb818079cad55542b72c0" parent="aspace_60b6d98ace8544a4319a922625e0d0b2" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>Brennan, Peter; French, Danny; and DiSilvestro, Mike</unittitle>
+            <unitdate datechar="creation" normal="1970/1979" type="inclusive">1970s</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_5b885fcc3afc09fedb38bdb3f8448a89" label="Mixed Materials [31142062722072]" type="Box">14</container>
+            <container id="aspace_2d90a5352660534752cd648bb02cd5f4" parent="aspace_5b885fcc3afc09fedb38bdb3f8448a89" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>J.I.B. Protest Photo</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_3618d1817f6bbdae9d88dc6035000f0d" label="Mixed Materials [31142062722072]" type="Box">14</container>
+            <container id="aspace_e32399d868ba5690b922b49fed825e59" parent="aspace_3618d1817f6bbdae9d88dc6035000f0d" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_cb4d88606210d24eaa55d1c266632a1b" label="Mixed Materials [31142062722072]" type="Box">14</container>
+            <container id="aspace_dec0da29abaf0553d058c0548fdc3f8d" parent="aspace_cb4d88606210d24eaa55d1c266632a1b" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">Oct 1958</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_82f54b7f8e821e4eafb45cb5d600decb" label="Mixed Materials [31142062722072]" type="Box">14</container>
+            <container id="aspace_b3963645407f8e7f85052729f79eec99" parent="aspace_82f54b7f8e821e4eafb45cb5d600decb" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate datechar="creation" normal="1959/1959" type="inclusive">Nov 1959</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_7ba6bffd2d038213d3d8acd8f431a051" label="Mixed Materials [31142062722072]" type="Box">14</container>
+            <container id="aspace_5cde0580c1c7727bda37a1d3f059a927" parent="aspace_7ba6bffd2d038213d3d8acd8f431a051" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate datechar="creation" normal="1960/1960" type="inclusive">Dec 1960</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_5a3a26310e059a62c0d339b2cf45c264" label="Mixed Materials [31142062722072]" type="Box">14</container>
+            <container id="aspace_1c1322c5f637b0fa38f5ebab9c34ec18" parent="aspace_5a3a26310e059a62c0d339b2cf45c264" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>Office Photos (Sam Winn)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_77a99889d76272cfad68384545e3b45d" label="Mixed Materials [31142062722072]" type="Box">14</container>
+            <container id="aspace_7b9dfa07a40f1d2307ee0118f4a3b042" parent="aspace_77a99889d76272cfad68384545e3b45d" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>Paper Hangers Work Shop</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_4985627f9f1f38ad06f13d14c6bf028e" label="Mixed Materials [31142062722072]" type="Box">14</container>
+            <container id="aspace_6fc58550c1504a5be751299f13b870a7" parent="aspace_4985627f9f1f38ad06f13d14c6bf028e" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>Raftery, Frank S.: Portrait</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_e5308c50f8d82f5ad73be92e7830ca54" label="Mixed Materials [31142062722072]" type="Box">14</container>
+            <container id="aspace_92b7933a1c5c51120dffe2fc781a2279" parent="aspace_e5308c50f8d82f5ad73be92e7830ca54" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Weinstock, Louis: May Day Parade, Negative</unittitle>
+            <unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_b8dae17612c6211425ee05fc540b001e" label="Mixed Materials [31142062722072]" type="Box">14</container>
+            <container id="aspace_452356bbcd31a9ccc2660aba65c24e6a" parent="aspace_b8dae17612c6211425ee05fc540b001e" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Weinstock, Louis: May Day Parade, Photo</unittitle>
+            <unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_433d39f36e00d6ab7a490dc15148149c" label="Mixed Materials [31142062722072]" type="Box">14</container>
+            <container id="aspace_cc284a4bfe8cd842e03a13e56263f8f9" parent="aspace_433d39f36e00d6ab7a490dc15148149c" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>Weinstock, Louis: On a Boat with Others</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_57176d402e2969fb5d70215990f6f4d7" label="Mixed Materials [31142062722072]" type="Box">14</container>
+            <container id="aspace_6940ef992c702d3c0cdfc5edde7de2f3" parent="aspace_57176d402e2969fb5d70215990f6f4d7" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Wolford, James: Portrait</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_563e091069980467c072ba84ebbae0c3" label="Mixed Materials [31142062722072]" type="Box">14</container>
+            <container id="aspace_685757e3e8db657117e357f87d0ef03a" parent="aspace_563e091069980467c072ba84ebbae0c3" type="Folder">22</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

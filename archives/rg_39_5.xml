@@ -1,83 +1,804 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/nyuarchives/rg_39_5">rg_39_5</eadid><filedesc><titlestmt><titleproper>Guide to the Records of WNYU (Radio Station: New York, N.Y.)  <num>RG.39.5</num></titleproper><author>University Archives staff in 2000. Revised by Katie Senft in 2003.</author></titlestmt><editionstmt><p>This version wasderived from wnyu02KS.xml</p></editionstmt><publicationstmt><publisher>New York University Archives</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-12-12 19:10:48 -0500</date>.</creation><langusage>Finding aid written in English</langusage></profiledesc><revisiondesc><change><date>November 2016</date><item>Record edited by Rachel Searcy to reflect 2015 accretion</item></change></revisiondesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>New York University Archives</corpname>
-    </repository>
-    <unittitle>Records of WNYU</unittitle>
-    <origination label="Creator">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/nyuarchives/rg_39_5">rg_39_5</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Records of WNYU (Radio Station: New York, N.Y.)  <num>RG.39.5</num></titleproper>
+        <author>University Archives staff in 2000. Revised by Katie Senft in 2003.</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version wasderived from wnyu02KS.xml</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-12-12 19:10:48 -0500</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>November 2016</date>
+        <item>Record edited by Rachel Searcy to reflect 2015 accretion</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>Records of WNYU</unittitle>
+      <origination label="Creator">
+        <corpname authfilenumber="(lccn)n2019021512" source="naf">WNYU (Radio station : New York, N.Y.)</corpname>
+      </origination>
+      <unitid>RG.39.5</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4.5 Linear Feet</extent>
+        <extent altrender="carrier">in 9 boxes</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1949/1985" type="inclusive">1949-1985</unitdate>
+      <abstract id="aspace_a5c12f2cdc3eb3e9c1c6fc2b00107f9c" label="Abstract">WNYU was formed in 1949 on the University Heights campus of New York University by a group of engineers. The records of WNYU Radio Station were transferred to the New York University Archives when the radio station was moved from Gould Memorial Library at the University Heights campus to Loeb Student Center on Washington Square in June 1973. The records cover the years 1949-1969 and deal with the activities of WNYU radio station and the efforts and persistence of WNYU's staff to build up an AM-FM radio station and maintain its broadcasting as one of the best educational radio stations in the New York metropolitan area. The collection is predominantly composed of correspondence between WNYU's staff and other constituent parts of the University. Other correspondence relates to the broader media and metropolitan community.</abstract>
+      <langmaterial id="aspace_922f3b1b12920199ac395a49783eaf2d">Materials primarily in English.</langmaterial>
+    </did>
+    <arrangement id="aspace_9296affbfab66a541a0641ca4fbdc5f9">
+      <head>Arrangement</head>
+      <p>Series I is arranged chronologically; series II is arranged alphabetically by subject; and series III is arranged alphabetically by type of material. Series V has not been arranged by an archivist.</p>
+      <p>This collection has been organized into five series: </p>
+      <list numeration="upperroman" type="ordered">
+        <head>Series:</head>
+        <item>Correspondence, minutes, legal documents, memoranda</item>
+        <item>Drawings</item>
+        <item>Publications</item>
+        <item>Subject Files</item>
+        <item>2015 Accretion</item>
+      </list>
+    </arrangement>
+    <scopecontent id="aspace_bcc030256dd56d4f59a795c083226e8f">
+      <head>Scope and Contents</head>
+      <p>The records include correspondence of Joseph Steinberg, the station's manager during the 1960s with University offices; the Inter-Colligiate Broadcasting System; and Miller, Montgomery &amp; Spanding concerning construction for WNYU facilities. There also exists within the collection correspondence of Larry J. Hollander, the faculty advisor to the WYNU staff, with Steinberg; correspondence of the staff with fellow radio stations including the Columbia University station, concerning such topics as the election of 1964, Ray Nelson, and a Senator Claiborne Pell interview about youth legislation; letters from <emph render="italic">The New York Times</emph> to Arnold Rosner, Director of Classical Music at WNYU; letters from the Police Department of New York City; and letters from United Press International. Also included are minutes of meetings of the WNYU Board of Directors, budget reports and operating expense estimates of WNYU members, log forms, schedules, applications, architectural drawings, certificates from Manufacturers Hanover Trust Company, advertising brochures, programs, newsletters, and printed promotional material.</p>
+    </scopecontent>
+    <bioghist id="aspace_4d55b970ef2e999f059d708ad619881c">
+      <head>History of WNYU</head>
+      <p>WNYU was formed in 1949 on the University Heights campus of New York University by a group of engineers. Initially, the station only broadcast to the University Heights cafeteria. Well established by 1956, WNYU became a member of the Inter-Collegiate Broadcasting System (IBS). In 1955 the radio division of the Television, Motion Picture and Radio Department of the Communications Arts Group started a closed circuit station, WCAG, at the Washington Square Campus. In 1963 WNYU (Heights Station) and WCAG (Washington Square Station) merged into one closed circuit radio station through the use of a telephone cable. It was decided that WCAG would broadcast to both campuses during the day while WNYU would take over in the evenings. This continued until 1973, when NYU sold the University Heights campus. At that time the equipment was brought to Loeb Student Center on Washington Square. During the period of 1965-1973 the station worked to acquire an FM frequency. In 1965 NYU made an agreement with the United Nations to use their channel, "206." NYU submitted their first application to the Federal Communication Commission (FCC) in 1965. After three years the FCC decided that channel "206" should be shared by NYU and Fairleigh Dickinson University of New Jersey. WNYU broadcast from 4 p.m. to 1 a.m. on weekdays.</p>
+    </bioghist>
+    <prefercite id="aspace_1b28ef3ad3f18a9550337f8c89587a5b">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: Identification of item, date (if known); Records of WNYU (Radio Station: New York, N.Y.); RG 39.5; box number; folder number; New York University Archives, New York University Libraries.</p>
+    </prefercite>
+    <userestrict id="aspace_2628f6faeac68857fac5af7c4f0ce075">
+      <head>Use Restrictions</head>
+      <p>There may be some restrictions on the use of the collection. For more information, contact <lb/><address><addressline>New York University Archives<lb/> </addressline><addressline>Elmer Holmes Bobst Library<lb/> </addressline><addressline>70 Washington Square South<lb/> </addressline><addressline>New York, NY 10012</addressline></address></p>
+    </userestrict>
+    <accessrestrict id="aspace_0079fff8247e1dcecdbfafd61af9719c">
+      <head>Access Restrictions</head>
+      <p>Open to researchers. This collection contains audiovisual materials that have not been digitized. Please contact the University Archives if you wish to access these materials.</p>
+    </accessrestrict>
+    <custodhist id="aspace_12d15914a2e4360b1698ce1ec2245289">
+      <head>Custodial History</head>
+      <p>The records of WNYU Radio Station were transferred to the New York University Archives when the radio station was moved from Gould Memorial Library at the University Heights campus to Loeb Student Center on Washington Square in June 1973. Further accretions to the collection have been added in the intervening years.</p>
+    </custodhist>
+    <controlaccess>
+      <genreform source="aat">Architectural drawings (visual works)</genreform>
+      <genreform source="aat">Job applications.</genreform>
+      <genreform source="aat">Newsletters.</genreform>
+      <genreform source="aat">Minutes (administrative records)</genreform>
+      <genreform source="aat">Petitions.</genreform>
+      <subject source="lcsh">Radio in education.</subject>
+      <genreform source="aat">Advertisements.</genreform>
+      <subject source="lcsh">Radio broadcasting |x Rules and regulations.</subject>
+      <subject source="lcsh">Radio broadcasting |x Management.</subject>
+      <subject source="lcsh">Radio broadcasting -- History</subject>
+      <subject source="lcsh">Radio broadcasting |v Archival resources.</subject>
+      <subject source="lcsh">Radio |x Equipment and supplies.</subject>
+      <persname rules="dacs" source="local">Hollander, Larry J.</persname>
+      <corpname authfilenumber="(lccn)n80069059" source="naf">Fairleigh Dickinson University -- Radio broadcasting</corpname>
+      <corpname authfilenumber="(lccn)n81024714" source="naf">Columbia University -- Radio broadcasting</corpname>
+      <persname rules="dacs" source="local">Nelson, Ray</persname>
+      <corpname rules="dacs" source="local">Miller, Montgomery &amp; Spanding</corpname>
+      <corpname authfilenumber="(lccn)n80051400" source="naf">Manufacturers Hanover Trust Company</corpname>
+      <corpname rules="dacs" source="local">Inter-Collegiate Broadcasting System</corpname>
+      <corpname authfilenumber="(lccn)n79058487" source="naf">New York University -- Radio broadcasting</corpname>
+      <corpname rules="dacs" source="local">New York University. Communication Arts Group</corpname>
+      <corpname authfilenumber="(lccn)n79078131" source="naf">New York (N.Y.). Police Department</corpname>
+      <corpname authfilenumber="(lccn)n81050013" source="naf">New York Times Company</corpname>
+      <persname source="naf">Steinberg, Joseph</persname>
+      <corpname authfilenumber="(lccn)n79021345" source="naf">United Nations</corpname>
+      <persname source="naf">Pell, Claiborne, 1918-2009</persname>
+      <persname source="naf">Rosner, Arnold, 1945-</persname>
       <corpname authfilenumber="(lccn)n2019021512" source="naf">WNYU (Radio station : New York, N.Y.)</corpname>
-    </origination>
-    <unitid>RG.39.5</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">4.5 Linear Feet</extent>
-      <extent altrender="carrier">in 9 boxes</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1949/1985" type="inclusive">1949-1985</unitdate>
-    <abstract id="aspace_a5c12f2cdc3eb3e9c1c6fc2b00107f9c" label="Abstract">WNYU was formed in 1949 on the University Heights campus of New York University by a group of engineers. The records of WNYU Radio Station were transferred to the New York University Archives when the radio station was moved from Gould Memorial Library at the University Heights campus to Loeb Student Center on Washington Square in June 1973. The records cover the years 1949-1969 and deal with the activities of WNYU radio station and the efforts and persistence of WNYU's staff to build up an AM-FM radio station and maintain its broadcasting as one of the best educational radio stations in the New York metropolitan area. The collection is predominantly composed of correspondence between WNYU's staff and other constituent parts of the University. Other correspondence relates to the broader media and metropolitan community.</abstract>
-    <langmaterial id="aspace_922f3b1b12920199ac395a49783eaf2d">Materials primarily in English.</langmaterial>
-  </did>
-  <arrangement id="aspace_9296affbfab66a541a0641ca4fbdc5f9">
-    <head>Arrangement</head>
-<p>Series I is arranged chronologically; series II is arranged alphabetically by subject; and series III is arranged alphabetically by type of material. Series V has not been arranged by an archivist.</p><p>This collection has been organized into five series: </p>    <list numeration="upperroman" type="ordered">
-      <head>Series:</head>
-      <item>Correspondence, minutes, legal documents, memoranda</item>
-      <item>Drawings</item>
-      <item>Publications</item>
-      <item>Subject Files</item>
-      <item>2015 Accretion</item>
-    </list>
-  </arrangement>
-  <scopecontent id="aspace_bcc030256dd56d4f59a795c083226e8f">
-    <head>Scope and Contents</head>
-<p>The records include correspondence of Joseph Steinberg, the station's manager during the 1960s with University offices; the Inter-Colligiate Broadcasting System; and Miller, Montgomery &amp; Spanding concerning construction for WNYU facilities. There also exists within the collection correspondence of Larry J. Hollander, the faculty advisor to the WYNU staff, with Steinberg; correspondence of the staff with fellow radio stations including the Columbia University station, concerning such topics as the election of 1964, Ray Nelson, and a Senator Claiborne Pell interview about youth legislation; letters from <emph render="italic">The New York Times</emph> to Arnold Rosner, Director of Classical Music at WNYU; letters from the Police Department of New York City; and letters from United Press International. Also included are minutes of meetings of the WNYU Board of Directors, budget reports and operating expense estimates of WNYU members, log forms, schedules, applications, architectural drawings, certificates from Manufacturers Hanover Trust Company, advertising brochures, programs, newsletters, and printed promotional material.</p>  </scopecontent>
-  <bioghist id="aspace_4d55b970ef2e999f059d708ad619881c">
-    <head>History of WNYU</head>
-<p>WNYU was formed in 1949 on the University Heights campus of New York University by a group of engineers. Initially, the station only broadcast to the University Heights cafeteria. Well established by 1956, WNYU became a member of the Inter-Collegiate Broadcasting System (IBS). In 1955 the radio division of the Television, Motion Picture and Radio Department of the Communications Arts Group started a closed circuit station, WCAG, at the Washington Square Campus. In 1963 WNYU (Heights Station) and WCAG (Washington Square Station) merged into one closed circuit radio station through the use of a telephone cable. It was decided that WCAG would broadcast to both campuses during the day while WNYU would take over in the evenings. This continued until 1973, when NYU sold the University Heights campus. At that time the equipment was brought to Loeb Student Center on Washington Square. During the period of 1965-1973 the station worked to acquire an FM frequency. In 1965 NYU made an agreement with the United Nations to use their channel, "206." NYU submitted their first application to the Federal Communication Commission (FCC) in 1965. After three years the FCC decided that channel "206" should be shared by NYU and Fairleigh Dickinson University of New Jersey. WNYU broadcast from 4 p.m. to 1 a.m. on weekdays.</p>  </bioghist>
-  <prefercite id="aspace_1b28ef3ad3f18a9550337f8c89587a5b">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: Identification of item, date (if known); Records of WNYU (Radio Station: New York, N.Y.); RG 39.5; box number; folder number; New York University Archives, New York University Libraries.</p>  </prefercite>
-  <userestrict id="aspace_2628f6faeac68857fac5af7c4f0ce075">
-    <head>Use Restrictions</head>
-<p>There may be some restrictions on the use of the collection. For more information, contact <lb/><address><addressline>New York University Archives<lb/> </addressline><addressline>Elmer Holmes Bobst Library<lb/> </addressline><addressline>70 Washington Square South<lb/> </addressline><addressline>New York, NY 10012</addressline></address></p>  </userestrict>
-  <accessrestrict id="aspace_0079fff8247e1dcecdbfafd61af9719c">
-    <head>Access Restrictions</head>
-<p>Open to researchers. This collection contains audiovisual materials that have not been digitized. Please contact the University Archives if you wish to access these materials.</p>  </accessrestrict>
-  <custodhist id="aspace_12d15914a2e4360b1698ce1ec2245289">
-    <head>Custodial History</head>
-<p>The records of WNYU Radio Station were transferred to the New York University Archives when the radio station was moved from Gould Memorial Library at the University Heights campus to Loeb Student Center on Washington Square in June 1973. Further accretions to the collection have been added in the intervening years.</p>  </custodhist>
-  <controlaccess>
-    <genreform source="aat">Architectural drawings (visual works)</genreform>
-    <genreform source="aat">Job applications.</genreform>
-    <genreform source="aat">Newsletters.</genreform>
-    <genreform source="aat">Minutes (administrative records)</genreform>
-    <genreform source="aat">Petitions.</genreform>
-    <subject source="lcsh">Radio in education.</subject>
-    <genreform source="aat">Advertisements.</genreform>
-    <subject source="lcsh">Radio broadcasting |x Rules and regulations.</subject>
-    <subject source="lcsh">Radio broadcasting |x Management.</subject>
-    <subject source="lcsh">Radio broadcasting -- History</subject>
-    <subject source="lcsh">Radio broadcasting |v Archival resources.</subject>
-    <subject source="lcsh">Radio |x Equipment and supplies.</subject>
-    <persname rules="dacs" source="local">Hollander, Larry J.</persname>
-    <corpname authfilenumber="(lccn)n80069059" source="naf">Fairleigh Dickinson University -- Radio broadcasting</corpname>
-    <corpname authfilenumber="(lccn)n81024714" source="naf">Columbia University -- Radio broadcasting</corpname>
-    <persname rules="dacs" source="local">Nelson, Ray</persname>
-    <corpname rules="dacs" source="local">Miller, Montgomery &amp; Spanding</corpname>
-    <corpname authfilenumber="(lccn)n80051400" source="naf">Manufacturers Hanover Trust Company</corpname>
-    <corpname rules="dacs" source="local">Inter-Collegiate Broadcasting System</corpname>
-    <corpname authfilenumber="(lccn)n79058487" source="naf">New York University -- Radio broadcasting</corpname>
-    <corpname rules="dacs" source="local">New York University. Communication Arts Group</corpname>
-    <corpname authfilenumber="(lccn)n79078131" source="naf">New York (N.Y.). Police Department</corpname>
-    <corpname authfilenumber="(lccn)n81050013" source="naf">New York Times Company</corpname>
-    <persname source="naf">Steinberg, Joseph</persname>
-    <corpname authfilenumber="(lccn)n79021345" source="naf">United Nations</corpname>
-    <persname source="naf">Pell, Claiborne, 1918-2009</persname>
-    <persname source="naf">Rosner, Arnold, 1945-</persname>
-    <corpname authfilenumber="(lccn)n2019021512" source="naf">WNYU (Radio station : New York, N.Y.)</corpname>
-    <corpname authfilenumber="(lccn)n50057803" source="naf">United Press International</corpname>
-    <corpname rules="dacs" source="local">WCAG (Radio station : New York, N.Y.)</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_ref18" level="series"><did><unittitle>Series I: Correspondence, minutes, legal documents, memoranda: 1949-1969.</unittitle></did><c id="aspace_ref19" level="file"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">Nov. 29, 1949 -April 8, 1950</unitdate><container altrender="Manuscript box - Legal" id="aspace_f086c246b8cf0cd1234e139be8d87761" label="Mixed Materials [31142063001062]" type="Box">1</container><container id="aspace_ee1150d50463463c732d68f59a86af25" parent="aspace_f086c246b8cf0cd1234e139be8d87761" type="Folder">1</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">Feb. 17, 1955 -Dec. 27, 1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_d756debcb67910c34fc426c754ed45e1" label="Mixed Materials [31142063001062]" type="Box">1</container><container id="aspace_c067974fda653c7f637fb50610806c42" parent="aspace_d756debcb67910c34fc426c754ed45e1" type="Folder">2</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">1955-1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_648b7e0faed004262f09734268dc17fa" label="Mixed Materials [31142063001062]" type="Box">1</container><container id="aspace_4eee2b69b59cc3490cd5b3352e98462d" parent="aspace_648b7e0faed004262f09734268dc17fa" type="Folder">3</container></did></c><c id="aspace_ref22" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">Nov. 28, 1956 -May 7, 1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_e1394a3a59d8c27ae53f01d92cbe7fd0" label="Mixed Materials [31142063001062]" type="Box">1</container><container id="aspace_9d777ed74a1e2f6af2cd5858b361f31c" parent="aspace_e1394a3a59d8c27ae53f01d92cbe7fd0" type="Folder">4</container></did></c><c id="aspace_ref23" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">Dec. 9, 1957 -Sept. 23, 1968</unitdate><container altrender="Manuscript box - Legal" id="aspace_ac30dd8b289f27f01555b3aec7eb9748" label="Mixed Materials [31142063001062]" type="Box">1</container><container id="aspace_a0bee754b8ad3ee70582806d5a9c71b9" parent="aspace_ac30dd8b289f27f01555b3aec7eb9748" type="Folder">5</container></did></c><c id="aspace_ref24" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">Jan. 5, 1958 -Mar. 18, 1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_c735265e79c9b5c55a3265cfe639c376" label="Mixed Materials [31142063001062]" type="Box">1</container><container id="aspace_64714b0c58ad524bdeafa0e475fa1ad9" parent="aspace_c735265e79c9b5c55a3265cfe639c376" type="Folder">6</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">Jan. 29, 1960 -Nov. 15, 1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_d609f482d16dd39a034aa20899710509" label="Mixed Materials [31142063001062]" type="Box">1</container><container id="aspace_c5faca2a470b410a76403784d22a0ff6" parent="aspace_d609f482d16dd39a034aa20899710509" type="Folder">7</container></did><c id="aspace_ref100" level="item"><did><unittitle>Oral history interview by Blair Schomaker</unittitle><origination label="Creator"><persname role="ivr" rules="dacs" source="local">Schomaker, Blair</persname></origination><unitdate datechar="creation">Undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_3423f80dd03d5004a5768bcac843c961" label="Audio [31142063001062]" type="Box">1</container><container id="aspace_c94cb0f3f3a8309291be1a6145a5ca06" parent="aspace_3423f80dd03d5004a5768bcac843c961" type="Folder">7</container><container id="aspace_6e45e1826b74a4c1b7042041e5d0baa5" parent="aspace_c94cb0f3f3a8309291be1a6145a5ca06" type="Cassette">1</container></did><scopecontent id="aspace_29ecf0a775ec471c8d08554a5151da49"><head>Scope and contents</head><p>This recording contains an interview with an unnamed male, made for the NYU Archives, about the history and establishment of WNYU.</p></scopecontent><phystech id="aspace_0355c5ef82d502ba310dd85fcf8cbd1a"><head>Original format</head><p>90-minute Memorex audio cassette</p></phystech></c></c><c id="aspace_ref26" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">Apr. 20, 1960 -Feb. 27, 1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_abaf4a38038320f451f845223a9a5a9e" label="Mixed Materials [31142063001062]" type="Box">1</container><container id="aspace_688268b2d62eb507368e5518c9c26200" parent="aspace_abaf4a38038320f451f845223a9a5a9e" type="Folder">8</container></did></c><c id="aspace_ref27" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">Jan. 8, 1962 -Nov. 12, 1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_08c0d4241ee80d917badddd897f2282c" label="Mixed Materials [31142063001062]" type="Box">1</container><container id="aspace_f432d7003f0e9bf6321dc7c1baa93e26" parent="aspace_08c0d4241ee80d917badddd897f2282c" type="Folder">9</container></did></c><c id="aspace_ref28" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">Mar. 1, 1963 -Dec. 6, 1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_b6d0a01cc09f57e84154b02f18138d11" label="Mixed Materials [31142063001062]" type="Box">1</container><container id="aspace_d66f012696ef9a86ab5178146d557508" parent="aspace_b6d0a01cc09f57e84154b02f18138d11" type="Folder">10</container></did></c><c id="aspace_ref29" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">Mar. 1, 1963 -Dec. 6, 1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_6cacc4b7e153cf693f83ee69f4de8a0e" label="Mixed Materials [31142063001062]" type="Box">1</container><container id="aspace_940c2709b9781011054d5ef721049824" parent="aspace_6cacc4b7e153cf693f83ee69f4de8a0e" type="Folder">11</container></did></c><c id="aspace_ref30" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">Apr. 3, 1963 -May 14, 1964</unitdate><container altrender="Manuscript box - Legal" id="aspace_8744c041203c664b3aa2286c835e5d75" label="Mixed Materials [31142063001062]" type="Box">1</container><container id="aspace_3f4080567df375f8075e92159b5b789e" parent="aspace_8744c041203c664b3aa2286c835e5d75" type="Folder">12</container></did></c><c id="aspace_ref31" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">Oct. 7, 1963 -Dec. 6, 1964</unitdate><container altrender="Manuscript box - Legal" id="aspace_58cca3793e2252ad2eb3084cd8755bf8" label="Mixed Materials [31142063001070]" type="Box">2</container><container id="aspace_e9b4e73261713fd53d7394274335b32e" parent="aspace_58cca3793e2252ad2eb3084cd8755bf8" type="Folder">1</container></did></c><c id="aspace_ref32" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">Aug. 10, 1964-May 25, 1965</unitdate><container altrender="Manuscript box - Legal" id="aspace_7c9add8bc3d3184b8ed7f567b0cceac5" label="Mixed Materials [31142063001070]" type="Box">2</container><container id="aspace_48f389f680109c536248361962693904" parent="aspace_7c9add8bc3d3184b8ed7f567b0cceac5" type="Folder">2</container></did></c><c id="aspace_ref33" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">Oct. 11, 1964 -May 12, 1965</unitdate><container altrender="Manuscript box - Legal" id="aspace_f97e2c5303b2b2a34280c7732d178f90" label="Mixed Materials [31142063001070]" type="Box">2</container><container id="aspace_d7676d377befe40bba21b61b6441dfca" parent="aspace_f97e2c5303b2b2a34280c7732d178f90" type="Folder">3</container></did></c><c id="aspace_ref34" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">Nov. 5, 1964 -Mar. 11, 1965</unitdate><container altrender="Manuscript box - Legal" id="aspace_6db9ef32e7dae7875be1c2730c1cc35e" label="Mixed Materials [31142063001070]" type="Box">2</container><container id="aspace_9a85275856a383f7401fb4e69d51feb6" parent="aspace_6db9ef32e7dae7875be1c2730c1cc35e" type="Folder">4</container></did></c><c id="aspace_ref35" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">Dec. 14, 1964 -Apr. 18, 1966</unitdate><container altrender="Manuscript box - Legal" id="aspace_bb6caf8d0cbc1ff1790bd59b7ff35fef" label="Mixed Materials [31142063001070]" type="Box">2</container><container id="aspace_402c57dea5252dafcd5ebe39a5b3b461" parent="aspace_bb6caf8d0cbc1ff1790bd59b7ff35fef" type="Folder">5</container></did></c><c id="aspace_ref36" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">Feb. 21, 1964 -Jun. 15, 1967</unitdate><container altrender="Manuscript box - Legal" id="aspace_e29f191c1925ba4697ff479bc13c513e" label="Mixed Materials [31142063001070]" type="Box">2</container><container id="aspace_8d36163ead6147e1a0865741d0b58251" parent="aspace_e29f191c1925ba4697ff479bc13c513e" type="Folder">6</container></did></c><c id="aspace_ref37" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">Jan. 12, 1965 -Dec. 18, 1965</unitdate><container altrender="Manuscript box - Legal" id="aspace_40a78d2e278c0048b126b2740c171924" label="Mixed Materials [31142063001070]" type="Box">2</container><container id="aspace_1872a185c5c15b0c880e20f327650830" parent="aspace_40a78d2e278c0048b126b2740c171924" type="Folder">7</container></did></c><c id="aspace_ref38" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">Apr. 29, 1965 -Sept. 22, 1965</unitdate><container altrender="Manuscript box - Legal" id="aspace_23f1d679924c59a27a7b935aa1a0f453" label="Mixed Materials [31142063001070]" type="Box">2</container><container id="aspace_f974a52091e15954dd4f7d0703d13680" parent="aspace_23f1d679924c59a27a7b935aa1a0f453" type="Folder">8</container></did></c><c id="aspace_ref39" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">Aug. 31, 1965 -May 16, 1966</unitdate><container altrender="Manuscript box - Legal" id="aspace_5bded25a18122027e179fa3ff652b709" label="Mixed Materials [31142063001070]" type="Box">2</container><container id="aspace_ccaef052b603cda77e9c179f42e1a9e6" parent="aspace_5bded25a18122027e179fa3ff652b709" type="Folder">9</container></did></c><c id="aspace_ref40" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">Oct. 14, 1965 -Oct. 19, 1967</unitdate><container altrender="Manuscript box - Legal" id="aspace_3ccc7d44799639cb6b0e115aac0df360" label="Mixed Materials [31142063001070]" type="Box">2</container><container id="aspace_90947c4dd6387139f7907e0ba7d2cc3c" parent="aspace_3ccc7d44799639cb6b0e115aac0df360" type="Folder">10</container></did></c><c id="aspace_ref41" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">Nov. 18, 1965 -Apr. 19, 1966</unitdate><container altrender="Manuscript box - Legal" id="aspace_3637a53013491444fd0a6027df9e7dde" label="Mixed Materials [31142063001070]" type="Box">2</container><container id="aspace_247428f1ae69bbe7cd7f79c575c0846a" parent="aspace_3637a53013491444fd0a6027df9e7dde" type="Folder">11</container></did></c><c id="aspace_ref42" level="otherlevel" otherlevel="unspecified"><did><unittitle>Radio Station WFDU</unittitle><unitdate datechar="creation">1965 -1966</unitdate><container altrender="Manuscript box - Legal" id="aspace_e6de2a085873220ee9776d383f49a71c" label="Mixed Materials [31142063001070]" type="Box">2</container><container id="aspace_11edc4e098c2f7aaeeacf0a28f89b24b" parent="aspace_e6de2a085873220ee9776d383f49a71c" type="Folder">12</container></did></c><c id="aspace_ref43" level="otherlevel" otherlevel="unspecified"><did><unittitle>Convention</unittitle><unitdate datechar="creation">1965 -1967</unitdate><container altrender="Manuscript box - Legal" id="aspace_9494a479e8862b02a81fb94855018bba" label="Mixed Materials [31142063001070]" type="Box">2</container><container id="aspace_acc78d14765561f41b1cd91b1e03c9d5" parent="aspace_9494a479e8862b02a81fb94855018bba" type="Folder">13</container></did></c><c id="aspace_ref44" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">Jan. 17, 1966-Aug. 15, 1966</unitdate><container altrender="Manuscript box - Legal" id="aspace_60aef4185b2e2b2441b3beeca49101a0" label="Mixed Materials [31142063001088]" type="Box">3</container><container id="aspace_47e41e13b2667db608ef45009d440553" parent="aspace_60aef4185b2e2b2441b3beeca49101a0" type="Folder">1</container></did></c><c id="aspace_ref45" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">Feb. 21, 1966 -Oct. 31, 1966</unitdate><container altrender="Manuscript box - Legal" id="aspace_ec435c0eec1291df5e6826d5dd9ce8f7" label="Mixed Materials [31142063001088]" type="Box">3</container><container id="aspace_4903627aaed85e9131e9dadfe3866a69" parent="aspace_ec435c0eec1291df5e6826d5dd9ce8f7" type="Folder">2</container></did></c><c id="aspace_ref46" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">Nov. 22, 1966 -Apr. 18, 1967</unitdate><container altrender="Manuscript box - Legal" id="aspace_1b8015c94a2f535aeaedf45d24a30611" label="Mixed Materials [31142063001088]" type="Box">3</container><container id="aspace_3636ca3b86511b89922fafe0cc8442fb" parent="aspace_1b8015c94a2f535aeaedf45d24a30611" type="Folder">3</container></did></c><c id="aspace_ref47" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">Jan. 17, 1967 -Dec. 4, 1967</unitdate><container altrender="Manuscript box - Legal" id="aspace_7be229fe8ea57562842a76bf0055c25c" label="Mixed Materials [31142063001088]" type="Box">3</container><container id="aspace_5ca2d43c62c3b22b13d1e346641eb862" parent="aspace_7be229fe8ea57562842a76bf0055c25c" type="Folder">4</container></did></c><c id="aspace_ref48" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">Apr. 6, 1967 -Jun. 6, 1967</unitdate><container altrender="Manuscript box - Legal" id="aspace_cbd4619b8b7417172a6971f9b4e6e679" label="Mixed Materials [31142063001088]" type="Box">3</container><container id="aspace_0b9ca1d5e81457565df931d17122c81a" parent="aspace_cbd4619b8b7417172a6971f9b4e6e679" type="Folder">5</container></did></c><c id="aspace_ref49" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">Jun. 17, 1968 -Dec. 20, 1968</unitdate><container altrender="Manuscript box - Legal" id="aspace_137f2de2618804d546d9bc191180f316" label="Mixed Materials [31142063001088]" type="Box">3</container><container id="aspace_eaabc94fafb7aead48b8d6ae2340907e" parent="aspace_137f2de2618804d546d9bc191180f316" type="Folder">6</container></did></c><c id="aspace_ref50" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence, minutes, legal documents, memoranda</unittitle><unitdate datechar="creation">Jan. 6, 1969 -Feb. 6, 1969</unitdate><container altrender="Manuscript box - Legal" id="aspace_655eaa9b5b3740f63cd8119a81987999" label="Mixed Materials [31142063001088]" type="Box">3</container><container id="aspace_1cfb3c9460ad0a49608796bfcb664296" parent="aspace_655eaa9b5b3740f63cd8119a81987999" type="Folder">7</container></did></c><c id="aspace_ref51" level="otherlevel" otherlevel="unspecified"><did><unittitle>Reports</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_f4991499977ada2ccd7de0aef2413bdd" label="Mixed Materials [31142063001088]" type="Box">3</container><container id="aspace_ae3d05b269b679c6bdf5ae180c404103" parent="aspace_f4991499977ada2ccd7de0aef2413bdd" type="Folder">8</container></did></c><c id="aspace_ref52" level="otherlevel" otherlevel="unspecified"><did><unittitle>WNYU log forms</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_f6cffae780eae2b92aeca0f1f7941376" label="Mixed Materials [31142063001088]" type="Box">3</container><container id="aspace_09fe219f2f34849a5ae6043b0b58caa9" parent="aspace_f6cffae780eae2b92aeca0f1f7941376" type="Folder">9</container></did></c></c><c id="aspace_ref53" level="series"><did><unittitle>Series II: Drawings</unittitle></did><c id="aspace_ref54" level="otherlevel" otherlevel="unspecified"><did><unittitle>Drawings of WNYU radio station</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_abcca3b8b663f047ed2e3e8b3d4952e7" label="Mixed Materials [31142063001096]" type="Box">4</container><container id="aspace_23e357078feed42b77b5f5642d180d79" parent="aspace_abcca3b8b663f047ed2e3e8b3d4952e7" type="Folder">1</container></did></c><c id="aspace_ref55" level="otherlevel" otherlevel="unspecified"><did><unittitle>Drawings of WNYU radio station</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_dc8d22110032f019376f10dce4745072" label="Mixed Materials [31142063001096]" type="Box">4</container><container id="aspace_fc11f8d235d43a1207dd28f38a78fc1d" parent="aspace_dc8d22110032f019376f10dce4745072" type="Folder">2</container></did></c></c><c id="aspace_ref56" level="series"><did><unittitle>Series III: Publications</unittitle></did><c id="aspace_ref57" level="otherlevel" otherlevel="unspecified"><did><unittitle>Newspapers</unittitle><unitdate datechar="creation">Feb. 1967 -May 1973</unitdate><container altrender="Manuscript box - Legal" id="aspace_508e6d7598808880abd0664f187b4f29" label="Mixed Materials [31142063001096]" type="Box">4</container><container id="aspace_ee5e0565c635898c33d40e77890744cf" parent="aspace_508e6d7598808880abd0664f187b4f29" type="Folder">3</container></did></c><c id="aspace_ref58" level="otherlevel" otherlevel="unspecified"><did><unittitle>Newspapers</unittitle><unitdate datechar="creation">Jan. 1957 -Oct. 1966</unitdate><container altrender="Manuscript box - Legal" id="aspace_17978d2e6b6b368a8ef7430efa248c31" label="Mixed Materials [31142063001096]" type="Box">4</container><container id="aspace_4d1b57332de4c27d55d55eb1080c402b" parent="aspace_17978d2e6b6b368a8ef7430efa248c31" type="Folder">4</container></did></c><c id="aspace_ref59" level="otherlevel" otherlevel="unspecified"><did><unittitle>Printed material</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_13e798f9117cd624edf014deb550fb59" label="Mixed Materials [31142063001096]" type="Box">4</container><container id="aspace_39c546c0ad32c6450ce4157aa1df3c46" parent="aspace_13e798f9117cd624edf014deb550fb59" type="Folder">5</container></did></c><c id="aspace_ref60" level="otherlevel" otherlevel="unspecified"><did><unittitle>Printed material</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_c8547f5667c938f4b9640a9d0ffb1583" label="Mixed Materials [31142063001096]" type="Box">4</container><container id="aspace_7535af80f0b76d53031faafc3c2ce2cc" parent="aspace_c8547f5667c938f4b9640a9d0ffb1583" type="Folder">6</container></did></c></c><c id="aspace_ref63" level="series"><did><unittitle>Series IV: Subject Files</unittitle><unitdate datechar="creation">1967-1981</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref64" level="file"><did><unittitle>Advisors</unittitle><unitdate datechar="creation">1975</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_123fd821383489a91ef5dbee108daadb" label="Mixed Materials [31142063001104]" type="Box">5</container><container id="aspace_a8c22940ea63f15d61072dd3985de17b" parent="aspace_123fd821383489a91ef5dbee108daadb" type="Folder">1</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Annual Report</unittitle><unitdate datechar="creation">1979-1980</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_e9b759710c557ce17bdf633ed3cfa84b" label="Mixed Materials [31142063001104]" type="Box">5</container><container id="aspace_9020bfb9da2bc429c8b696eb9ec73b3e" parent="aspace_e9b759710c557ce17bdf633ed3cfa84b" type="Folder">2</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>Arbitron</unittitle><unitdate datechar="creation">1975</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_4ce8bec3a34cf060fff1a18166fb0d31" label="Mixed Materials [31142063001104]" type="Box">5</container><container id="aspace_f85f823a09e28fb305e60bdb5401978d" parent="aspace_4ce8bec3a34cf060fff1a18166fb0d31" type="Folder">3</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>(FCC) Docket No. 17454 File No. BPED-742, Docket No. 17455 File No. BPED-751 - Vol. I</unittitle><unitdate datechar="creation">1967</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_bf35de36057dba6bfdfa2799dbf6a162" label="Mixed Materials [31142063001104]" type="Box">5</container><container id="aspace_a032ece501b2653f36737ed7bfab6fe7" parent="aspace_bf35de36057dba6bfdfa2799dbf6a162" type="Folder">4</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>(FCC) Docket No. 17454 File No. BPED-742, Docket No. 17455 File No. BPED-751 - Vol. II</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_c9e1a0c3081320668f4046ff1c4ff6e2" label="Mixed Materials [31142063001104]" type="Box">5</container><container id="aspace_7ec0182b3631c0ceaf8cb29fae61b6d5" parent="aspace_c9e1a0c3081320668f4046ff1c4ff6e2" type="Folder">5</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>(FCC) Docket No. 17454 File No. BPED-742, Docket No. 17455 File No. BPED-751 - Reply</unittitle><unitdate datechar="creation">1968</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_2ab1d56b25084eb5d937fa2ea5cb3b00" label="Mixed Materials [31142063001104]" type="Box">5</container><container id="aspace_6aa401cbfea236cc5c56688e9f99e2e2" parent="aspace_2ab1d56b25084eb5d937fa2ea5cb3b00" type="Folder">6</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Engineering</unittitle><unitdate datechar="creation">1975-1976</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_ef6b3c9849ce4835d3c8ec748b998ef7" label="Mixed Materials [31142063001104]" type="Box">5</container><container id="aspace_aa2db0721d8eb1fba9c0a2ba753c9e49" parent="aspace_ef6b3c9849ce4835d3c8ec748b998ef7" type="Folder">7</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>FCC Permit &amp; License Copies</unittitle><unitdate datechar="creation">1975-1977</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_516d240ed8ff3f5ecda48c442dd4cc02" label="Mixed Materials [31142063001104]" type="Box">5</container><container id="aspace_b0d57f856df5da374510c7bf92b9d3cf" parent="aspace_516d240ed8ff3f5ecda48c442dd4cc02" type="Folder">8</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Fundraising</unittitle><unitdate datechar="creation">1975-1976</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_b284f9901c0c0587ed7068bbf680566b" label="Mixed Materials [31142063001104]" type="Box">5</container><container id="aspace_ad0cf3be4a05c458e0cbeca68d23f1a7" parent="aspace_b284f9901c0c0587ed7068bbf680566b" type="Folder">9</container></did></c><c id="aspace_ref73" level="file"><did><unittitle>Graduates: Personnel Questionnaires</unittitle><unitdate datechar="creation">1974</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_07854d18ad1938deba1a39277603f03e" label="Mixed Materials [31142063001104]" type="Box">5</container><container id="aspace_4ad87c8aed8344fd364e8a2526452f0a" parent="aspace_07854d18ad1938deba1a39277603f03e" type="Folder">10</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>Inactive Personnel</unittitle><unitdate datechar="creation">1974</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_399d4c335eac8744bc39399f8384d9fc" label="Mixed Materials [31142063001112]" type="Box">6</container><container id="aspace_536d2815de4c505bc14e54d2eff0b516" parent="aspace_399d4c335eac8744bc39399f8384d9fc" type="Folder">1</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>Legal- Wilner &amp; Scheiner</unittitle><unitdate datechar="creation">1971-1978</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_6bb465f38a89ae291440f57962d7aa5a" label="Mixed Materials [31142063001112]" type="Box">6</container><container id="aspace_95ea4617fd31515c5cd3240187fca886" parent="aspace_6bb465f38a89ae291440f57962d7aa5a" type="Folder">2</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>Legal-FCC agreement with FDU</unittitle><unitdate datechar="creation">1972-1977</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_d6413e852859524d4246a733db44bc95" label="Mixed Materials [31142063001112]" type="Box">6</container><container id="aspace_32d202bb4d6f6733a0a45e86f4bff4ed" parent="aspace_d6413e852859524d4246a733db44bc95" type="Folder">3</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>Maggin, Jane (Director of Student Affairs, WNYU Advisor)</unittitle><unitdate datechar="creation">1973-1975</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_d61a71c4c2ec78d47337365b5d7d5aa3" label="Mixed Materials [31142063001112]" type="Box">6</container><container id="aspace_6b584575b983ebe04e03f7c4ea600095" parent="aspace_d61a71c4c2ec78d47337365b5d7d5aa3" type="Folder">4</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>Management Committee Meeting Minutes</unittitle><unitdate datechar="creation">1977</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_fd99bb3c957e8b040fc353f67e978966" label="Mixed Materials [31142063001112]" type="Box">6</container><container id="aspace_c2696edb569ecb5e22a9618bdbcdaccd" parent="aspace_fd99bb3c957e8b040fc353f67e978966" type="Folder">5</container></did></c><c id="aspace_ref79" level="file"><did><unittitle>Management &amp; Staff Meetings</unittitle><unitdate datechar="creation">1974</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_82f040f1d0f3db4dc19baf0b91547af6" label="Mixed Materials [31142063001112]" type="Box">6</container><container id="aspace_d732b0be110e209ec81d472c644e344b" parent="aspace_82f040f1d0f3db4dc19baf0b91547af6" type="Folder">6</container></did></c><c id="aspace_ref80" level="file"><did><unittitle>News Stylebook</unittitle><unitdate datechar="creation">1975</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_783a4f852192d66950b474c5c9db7e57" label="Mixed Materials [31142063001112]" type="Box">6</container><container id="aspace_944b5c3e4b0d1e0443f8db7d81fe4eb0" parent="aspace_783a4f852192d66950b474c5c9db7e57" type="Folder">7</container></did></c><c id="aspace_ref81" level="file"><did><unittitle>Operations</unittitle><unitdate datechar="creation">1971-1975</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_78e104c2f635ec5efa9c565aaa5f23bd" label="Mixed Materials [31142063001112]" type="Box">6</container><container id="aspace_93d336a1f4399a77c0ef9bcf81f8c284" parent="aspace_78e104c2f635ec5efa9c565aaa5f23bd" type="Folder">8</container></did></c><c id="aspace_ref82" level="file"><did><unittitle>Policy (By Laws)- Folder 1 of 2</unittitle><unitdate datechar="creation">1967-1974</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_cdf0e3b3330b9c4eef450dbab4aa59d3" label="Mixed Materials [31142063001112]" type="Box">6</container><container id="aspace_9a298c5dfc26ab4228d95cace4a440a9" parent="aspace_cdf0e3b3330b9c4eef450dbab4aa59d3" type="Folder">9</container></did></c><c id="aspace_ref83" level="file"><did><unittitle>Policy (By Laws)- Folder 2 of 2</unittitle><unitdate datechar="creation">1967-1974</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_88fc46a90420384df8f150b3572866ab" label="Mixed Materials [31142063001112]" type="Box">6</container><container id="aspace_e5caa1b4382d0e57e46617eaa05b28f0" parent="aspace_88fc46a90420384df8f150b3572866ab" type="Folder">10</container></did></c><c id="aspace_ref84" level="file"><did><unittitle>Press</unittitle><unitdate datechar="creation">1973-1977</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_48fcc1ed34cba6fb76ff943de703f62e" label="Mixed Materials [31142063001112]" type="Box">6</container><container id="aspace_b744dda20f4460badfc9258e08b72ad8" parent="aspace_48fcc1ed34cba6fb76ff943de703f62e" type="Folder">11</container></did></c><c id="aspace_ref85" level="file"><did><unittitle>Press Releases</unittitle><unitdate datechar="creation">1974-1978</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_1b586b0fa94f92df2735d0849b484b6c" label="Mixed Materials [31142063001120]" type="Box">7</container><container id="aspace_f4626e48477e51a291d9297d9fa4ee4e" parent="aspace_1b586b0fa94f92df2735d0849b484b6c" type="Folder">1</container></did></c><c id="aspace_ref86" level="file"><did><unittitle>Program Highlights</unittitle><unitdate datechar="creation">1974-1977</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_4a009f4ef04e480acadce055329d8e99" label="Mixed Materials [31142063001120]" type="Box">7</container><container id="aspace_f739400aac3b994b3f5b2396dbd7054c" parent="aspace_4a009f4ef04e480acadce055329d8e99" type="Folder">2</container></did></c><c id="aspace_ref87" level="file"><did><unittitle>Program Highlights</unittitle><unitdate datechar="creation">1974-1981</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_6ad4f5091a66d18ded25102ac6fd805f" label="Mixed Materials [31142063001120]" type="Box">7</container><container id="aspace_79354f78d159e45241447dfe3ee1b8c6" parent="aspace_6ad4f5091a66d18ded25102ac6fd805f" type="Folder">3</container></did></c><c id="aspace_ref88" level="file"><did><unittitle>Program Material</unittitle><unitdate datechar="creation">1974-1975</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_7d366d0a894e601af4d9721810cb4539" label="Mixed Materials [31142063001120]" type="Box">7</container><container id="aspace_f59c9a83cf1cee6d5f1f614b76975eef" parent="aspace_7d366d0a894e601af4d9721810cb4539" type="Folder">4</container></did></c><c id="aspace_ref89" level="file"><did><unittitle>Programming- Folder 1 of 2</unittitle><unitdate datechar="creation">1973-1974</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_9def0f0b6f98dad08e6f04d095141c26" label="Mixed Materials [31142063001120]" type="Box">7</container><container id="aspace_9fc2ad717ee03ac7a141bd6c7a75a248" parent="aspace_9def0f0b6f98dad08e6f04d095141c26" type="Folder">5</container></did></c><c id="aspace_ref90" level="file"><did><unittitle>Programming- Folder 2 of 2</unittitle><unitdate datechar="creation">1973-1974</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_5e5347289ffa6a60849090e682dcb538" label="Mixed Materials [31142063001120]" type="Box">7</container><container id="aspace_ab987a96fea677de514dd13d8c99ee5c" parent="aspace_5e5347289ffa6a60849090e682dcb538" type="Folder">6</container></did></c><c id="aspace_ref91" level="file"><did><unittitle>Programming</unittitle><unitdate datechar="creation">1974-1977</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_28ce21d8d3f311f2a1d955bdc26df804" label="Mixed Materials [31142063001138]" type="Box">8</container><container id="aspace_1772fb14e43e45ec87c6cc00fbf4a0e4" parent="aspace_28ce21d8d3f311f2a1d955bdc26df804" type="Folder">1</container></did></c><c id="aspace_ref92" level="file"><did><unittitle>Programming</unittitle><unitdate datechar="creation">1977-1982</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_f43e23746c3de391816ba2f9103cc526" label="Mixed Materials [31142063001138]" type="Box">8</container><container id="aspace_9e28d7f406fc5ae8e0f0cd3f78bfd41a" parent="aspace_f43e23746c3de391816ba2f9103cc526" type="Folder">2</container></did></c><c id="aspace_ref93" level="file"><did><unittitle>Publicity &amp; Promotion- Folder 1 of 2</unittitle><unitdate datechar="creation">1974-1975</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_6e6d7752f4164c539b27a0d4cb75c8e6" label="Mixed Materials [31142063001120]" type="Box">7</container><container id="aspace_06be2f4c726d27e38facde4b2f1f8b4e" parent="aspace_6e6d7752f4164c539b27a0d4cb75c8e6" type="Folder">3</container></did></c><c id="aspace_ref94" level="file"><did><unittitle>Publicity &amp; Promotion- Folder 2 of 2</unittitle><unitdate datechar="creation">1974-1975</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_073a68e6342f21bf623a8c46df0ffecf" label="Mixed Materials [31142063001138]" type="Box">8</container><container id="aspace_fe4512742aced43acb28a1dbcb7544a3" parent="aspace_073a68e6342f21bf623a8c46df0ffecf" type="Folder">4</container></did></c><c id="aspace_ref95" level="file"><did><unittitle>Reports, Agenda, Staff Questionnaires</unittitle><unitdate datechar="creation">1973-1976</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_3fd9fd701160b9953aa5e3584a21e1b5" label="Mixed Materials [31142063001138]" type="Box">8</container><container id="aspace_5c7215a18fe5db78d5a669a825daa229" parent="aspace_3fd9fd701160b9953aa5e3584a21e1b5" type="Folder">5</container></did></c><c id="aspace_ref96" level="file"><did><unittitle>Share-Time Agreement WFDU/WNYU</unittitle><unitdate datechar="creation">1973-1974</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_d0eb058b33936053e24f328a8ee2ba9e" label="Mixed Materials [31142063001138]" type="Box">8</container><container id="aspace_0f0041e0786670ff7cd554349baa31b1" parent="aspace_d0eb058b33936053e24f328a8ee2ba9e" type="Folder">6</container></did></c><c id="aspace_ref97" level="file"><did><unittitle>Staff Questionnaire</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_c055d3c32a367f30a542e72deb298021" label="Mixed Materials [31142063001138]" type="Box">8</container><container id="aspace_c429cae912cf03a8a117ddd6aa6b56e1" parent="aspace_c055d3c32a367f30a542e72deb298021" type="Folder">7</container></did></c><c id="aspace_ref98" level="file"><did><unittitle>STL (Studio-Transmitter Link)</unittitle><unitdate datechar="creation">1974-1977</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_029b510e4338e661ee9058840d409e61" label="Mixed Materials [31142063001138]" type="Box">8</container><container id="aspace_622f1c01724b4e2acc581e38c3f83d50" parent="aspace_029b510e4338e661ee9058840d409e61" type="Folder">8</container></did></c><c id="aspace_ref99" level="file"><did><unittitle>Ultra-Violet</unittitle><unitdate datechar="creation">1980</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Manuscript box - Legal" id="aspace_6ac475c5b654bbb68435bf187b198de1" label="Mixed Materials [31142063001138]" type="Box">8</container><container id="aspace_68ed8273ad48ccaaea63a4b91998614f" parent="aspace_6ac475c5b654bbb68435bf187b198de1" type="Folder">9</container></did></c></c></dsc>
-</archdesc>
+      <corpname authfilenumber="(lccn)n50057803" source="naf">United Press International</corpname>
+      <corpname rules="dacs" source="local">WCAG (Radio station : New York, N.Y.)</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref18" level="series">
+        <did>
+          <unittitle>Series I: Correspondence, minutes, legal documents, memoranda: 1949-1969.</unittitle>
+        </did>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">Nov. 29, 1949 -April 8, 1950</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f086c246b8cf0cd1234e139be8d87761" label="Mixed Materials [31142063001062]" type="Box">1</container>
+            <container id="aspace_ee1150d50463463c732d68f59a86af25" parent="aspace_f086c246b8cf0cd1234e139be8d87761" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">Feb. 17, 1955 -Dec. 27, 1957</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d756debcb67910c34fc426c754ed45e1" label="Mixed Materials [31142063001062]" type="Box">1</container>
+            <container id="aspace_c067974fda653c7f637fb50610806c42" parent="aspace_d756debcb67910c34fc426c754ed45e1" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">1955-1963</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_648b7e0faed004262f09734268dc17fa" label="Mixed Materials [31142063001062]" type="Box">1</container>
+            <container id="aspace_4eee2b69b59cc3490cd5b3352e98462d" parent="aspace_648b7e0faed004262f09734268dc17fa" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">Nov. 28, 1956 -May 7, 1962</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e1394a3a59d8c27ae53f01d92cbe7fd0" label="Mixed Materials [31142063001062]" type="Box">1</container>
+            <container id="aspace_9d777ed74a1e2f6af2cd5858b361f31c" parent="aspace_e1394a3a59d8c27ae53f01d92cbe7fd0" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">Dec. 9, 1957 -Sept. 23, 1968</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ac30dd8b289f27f01555b3aec7eb9748" label="Mixed Materials [31142063001062]" type="Box">1</container>
+            <container id="aspace_a0bee754b8ad3ee70582806d5a9c71b9" parent="aspace_ac30dd8b289f27f01555b3aec7eb9748" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">Jan. 5, 1958 -Mar. 18, 1963</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c735265e79c9b5c55a3265cfe639c376" label="Mixed Materials [31142063001062]" type="Box">1</container>
+            <container id="aspace_64714b0c58ad524bdeafa0e475fa1ad9" parent="aspace_c735265e79c9b5c55a3265cfe639c376" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">Jan. 29, 1960 -Nov. 15, 1962</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d609f482d16dd39a034aa20899710509" label="Mixed Materials [31142063001062]" type="Box">1</container>
+            <container id="aspace_c5faca2a470b410a76403784d22a0ff6" parent="aspace_d609f482d16dd39a034aa20899710509" type="Folder">7</container>
+          </did>
+          <c id="aspace_ref100" level="item">
+            <did>
+              <unittitle>Oral history interview by Blair Schomaker</unittitle>
+              <origination label="Creator">
+                <persname role="ivr" rules="dacs" source="local">Schomaker, Blair</persname>
+              </origination>
+              <unitdate datechar="creation">Undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_3423f80dd03d5004a5768bcac843c961" label="Audio [31142063001062]" type="Box">1</container>
+              <container id="aspace_c94cb0f3f3a8309291be1a6145a5ca06" parent="aspace_3423f80dd03d5004a5768bcac843c961" type="Folder">7</container>
+              <container id="aspace_6e45e1826b74a4c1b7042041e5d0baa5" parent="aspace_c94cb0f3f3a8309291be1a6145a5ca06" type="Cassette">1</container>
+            </did>
+            <scopecontent id="aspace_29ecf0a775ec471c8d08554a5151da49">
+              <head>Scope and contents</head>
+              <p>This recording contains an interview with an unnamed male, made for the NYU Archives, about the history and establishment of WNYU.</p>
+            </scopecontent>
+            <phystech id="aspace_0355c5ef82d502ba310dd85fcf8cbd1a">
+              <head>Original format</head>
+              <p>90-minute Memorex audio cassette</p>
+            </phystech>
+          </c>
+        </c>
+        <c id="aspace_ref26" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">Apr. 20, 1960 -Feb. 27, 1962</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_abaf4a38038320f451f845223a9a5a9e" label="Mixed Materials [31142063001062]" type="Box">1</container>
+            <container id="aspace_688268b2d62eb507368e5518c9c26200" parent="aspace_abaf4a38038320f451f845223a9a5a9e" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">Jan. 8, 1962 -Nov. 12, 1963</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_08c0d4241ee80d917badddd897f2282c" label="Mixed Materials [31142063001062]" type="Box">1</container>
+            <container id="aspace_f432d7003f0e9bf6321dc7c1baa93e26" parent="aspace_08c0d4241ee80d917badddd897f2282c" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">Mar. 1, 1963 -Dec. 6, 1963</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b6d0a01cc09f57e84154b02f18138d11" label="Mixed Materials [31142063001062]" type="Box">1</container>
+            <container id="aspace_d66f012696ef9a86ab5178146d557508" parent="aspace_b6d0a01cc09f57e84154b02f18138d11" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">Mar. 1, 1963 -Dec. 6, 1963</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6cacc4b7e153cf693f83ee69f4de8a0e" label="Mixed Materials [31142063001062]" type="Box">1</container>
+            <container id="aspace_940c2709b9781011054d5ef721049824" parent="aspace_6cacc4b7e153cf693f83ee69f4de8a0e" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">Apr. 3, 1963 -May 14, 1964</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8744c041203c664b3aa2286c835e5d75" label="Mixed Materials [31142063001062]" type="Box">1</container>
+            <container id="aspace_3f4080567df375f8075e92159b5b789e" parent="aspace_8744c041203c664b3aa2286c835e5d75" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">Oct. 7, 1963 -Dec. 6, 1964</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_58cca3793e2252ad2eb3084cd8755bf8" label="Mixed Materials [31142063001070]" type="Box">2</container>
+            <container id="aspace_e9b4e73261713fd53d7394274335b32e" parent="aspace_58cca3793e2252ad2eb3084cd8755bf8" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">Aug. 10, 1964-May 25, 1965</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7c9add8bc3d3184b8ed7f567b0cceac5" label="Mixed Materials [31142063001070]" type="Box">2</container>
+            <container id="aspace_48f389f680109c536248361962693904" parent="aspace_7c9add8bc3d3184b8ed7f567b0cceac5" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">Oct. 11, 1964 -May 12, 1965</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f97e2c5303b2b2a34280c7732d178f90" label="Mixed Materials [31142063001070]" type="Box">2</container>
+            <container id="aspace_d7676d377befe40bba21b61b6441dfca" parent="aspace_f97e2c5303b2b2a34280c7732d178f90" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">Nov. 5, 1964 -Mar. 11, 1965</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6db9ef32e7dae7875be1c2730c1cc35e" label="Mixed Materials [31142063001070]" type="Box">2</container>
+            <container id="aspace_9a85275856a383f7401fb4e69d51feb6" parent="aspace_6db9ef32e7dae7875be1c2730c1cc35e" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">Dec. 14, 1964 -Apr. 18, 1966</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bb6caf8d0cbc1ff1790bd59b7ff35fef" label="Mixed Materials [31142063001070]" type="Box">2</container>
+            <container id="aspace_402c57dea5252dafcd5ebe39a5b3b461" parent="aspace_bb6caf8d0cbc1ff1790bd59b7ff35fef" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">Feb. 21, 1964 -Jun. 15, 1967</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e29f191c1925ba4697ff479bc13c513e" label="Mixed Materials [31142063001070]" type="Box">2</container>
+            <container id="aspace_8d36163ead6147e1a0865741d0b58251" parent="aspace_e29f191c1925ba4697ff479bc13c513e" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">Jan. 12, 1965 -Dec. 18, 1965</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_40a78d2e278c0048b126b2740c171924" label="Mixed Materials [31142063001070]" type="Box">2</container>
+            <container id="aspace_1872a185c5c15b0c880e20f327650830" parent="aspace_40a78d2e278c0048b126b2740c171924" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">Apr. 29, 1965 -Sept. 22, 1965</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_23f1d679924c59a27a7b935aa1a0f453" label="Mixed Materials [31142063001070]" type="Box">2</container>
+            <container id="aspace_f974a52091e15954dd4f7d0703d13680" parent="aspace_23f1d679924c59a27a7b935aa1a0f453" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">Aug. 31, 1965 -May 16, 1966</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5bded25a18122027e179fa3ff652b709" label="Mixed Materials [31142063001070]" type="Box">2</container>
+            <container id="aspace_ccaef052b603cda77e9c179f42e1a9e6" parent="aspace_5bded25a18122027e179fa3ff652b709" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">Oct. 14, 1965 -Oct. 19, 1967</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3ccc7d44799639cb6b0e115aac0df360" label="Mixed Materials [31142063001070]" type="Box">2</container>
+            <container id="aspace_90947c4dd6387139f7907e0ba7d2cc3c" parent="aspace_3ccc7d44799639cb6b0e115aac0df360" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">Nov. 18, 1965 -Apr. 19, 1966</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3637a53013491444fd0a6027df9e7dde" label="Mixed Materials [31142063001070]" type="Box">2</container>
+            <container id="aspace_247428f1ae69bbe7cd7f79c575c0846a" parent="aspace_3637a53013491444fd0a6027df9e7dde" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Radio Station WFDU</unittitle>
+            <unitdate datechar="creation">1965 -1966</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e6de2a085873220ee9776d383f49a71c" label="Mixed Materials [31142063001070]" type="Box">2</container>
+            <container id="aspace_11edc4e098c2f7aaeeacf0a28f89b24b" parent="aspace_e6de2a085873220ee9776d383f49a71c" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Convention</unittitle>
+            <unitdate datechar="creation">1965 -1967</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9494a479e8862b02a81fb94855018bba" label="Mixed Materials [31142063001070]" type="Box">2</container>
+            <container id="aspace_acc78d14765561f41b1cd91b1e03c9d5" parent="aspace_9494a479e8862b02a81fb94855018bba" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">Jan. 17, 1966-Aug. 15, 1966</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_60aef4185b2e2b2441b3beeca49101a0" label="Mixed Materials [31142063001088]" type="Box">3</container>
+            <container id="aspace_47e41e13b2667db608ef45009d440553" parent="aspace_60aef4185b2e2b2441b3beeca49101a0" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">Feb. 21, 1966 -Oct. 31, 1966</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ec435c0eec1291df5e6826d5dd9ce8f7" label="Mixed Materials [31142063001088]" type="Box">3</container>
+            <container id="aspace_4903627aaed85e9131e9dadfe3866a69" parent="aspace_ec435c0eec1291df5e6826d5dd9ce8f7" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">Nov. 22, 1966 -Apr. 18, 1967</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1b8015c94a2f535aeaedf45d24a30611" label="Mixed Materials [31142063001088]" type="Box">3</container>
+            <container id="aspace_3636ca3b86511b89922fafe0cc8442fb" parent="aspace_1b8015c94a2f535aeaedf45d24a30611" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">Jan. 17, 1967 -Dec. 4, 1967</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7be229fe8ea57562842a76bf0055c25c" label="Mixed Materials [31142063001088]" type="Box">3</container>
+            <container id="aspace_5ca2d43c62c3b22b13d1e346641eb862" parent="aspace_7be229fe8ea57562842a76bf0055c25c" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">Apr. 6, 1967 -Jun. 6, 1967</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cbd4619b8b7417172a6971f9b4e6e679" label="Mixed Materials [31142063001088]" type="Box">3</container>
+            <container id="aspace_0b9ca1d5e81457565df931d17122c81a" parent="aspace_cbd4619b8b7417172a6971f9b4e6e679" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">Jun. 17, 1968 -Dec. 20, 1968</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_137f2de2618804d546d9bc191180f316" label="Mixed Materials [31142063001088]" type="Box">3</container>
+            <container id="aspace_eaabc94fafb7aead48b8d6ae2340907e" parent="aspace_137f2de2618804d546d9bc191180f316" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence, minutes, legal documents, memoranda</unittitle>
+            <unitdate datechar="creation">Jan. 6, 1969 -Feb. 6, 1969</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_655eaa9b5b3740f63cd8119a81987999" label="Mixed Materials [31142063001088]" type="Box">3</container>
+            <container id="aspace_1cfb3c9460ad0a49608796bfcb664296" parent="aspace_655eaa9b5b3740f63cd8119a81987999" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Reports</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f4991499977ada2ccd7de0aef2413bdd" label="Mixed Materials [31142063001088]" type="Box">3</container>
+            <container id="aspace_ae3d05b269b679c6bdf5ae180c404103" parent="aspace_f4991499977ada2ccd7de0aef2413bdd" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>WNYU log forms</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f6cffae780eae2b92aeca0f1f7941376" label="Mixed Materials [31142063001088]" type="Box">3</container>
+            <container id="aspace_09fe219f2f34849a5ae6043b0b58caa9" parent="aspace_f6cffae780eae2b92aeca0f1f7941376" type="Folder">9</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref53" level="series">
+        <did>
+          <unittitle>Series II: Drawings</unittitle>
+        </did>
+        <c id="aspace_ref54" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Drawings of WNYU radio station</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_abcca3b8b663f047ed2e3e8b3d4952e7" label="Mixed Materials [31142063001096]" type="Box">4</container>
+            <container id="aspace_23e357078feed42b77b5f5642d180d79" parent="aspace_abcca3b8b663f047ed2e3e8b3d4952e7" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Drawings of WNYU radio station</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dc8d22110032f019376f10dce4745072" label="Mixed Materials [31142063001096]" type="Box">4</container>
+            <container id="aspace_fc11f8d235d43a1207dd28f38a78fc1d" parent="aspace_dc8d22110032f019376f10dce4745072" type="Folder">2</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref56" level="series">
+        <did>
+          <unittitle>Series III: Publications</unittitle>
+        </did>
+        <c id="aspace_ref57" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Newspapers</unittitle>
+            <unitdate datechar="creation">Feb. 1967 -May 1973</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_508e6d7598808880abd0664f187b4f29" label="Mixed Materials [31142063001096]" type="Box">4</container>
+            <container id="aspace_ee5e0565c635898c33d40e77890744cf" parent="aspace_508e6d7598808880abd0664f187b4f29" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Newspapers</unittitle>
+            <unitdate datechar="creation">Jan. 1957 -Oct. 1966</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_17978d2e6b6b368a8ef7430efa248c31" label="Mixed Materials [31142063001096]" type="Box">4</container>
+            <container id="aspace_4d1b57332de4c27d55d55eb1080c402b" parent="aspace_17978d2e6b6b368a8ef7430efa248c31" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Printed material</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_13e798f9117cd624edf014deb550fb59" label="Mixed Materials [31142063001096]" type="Box">4</container>
+            <container id="aspace_39c546c0ad32c6450ce4157aa1df3c46" parent="aspace_13e798f9117cd624edf014deb550fb59" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Printed material</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c8547f5667c938f4b9640a9d0ffb1583" label="Mixed Materials [31142063001096]" type="Box">4</container>
+            <container id="aspace_7535af80f0b76d53031faafc3c2ce2cc" parent="aspace_c8547f5667c938f4b9640a9d0ffb1583" type="Folder">6</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref63" level="series">
+        <did>
+          <unittitle>Series IV: Subject Files</unittitle>
+          <unitdate datechar="creation">1967-1981</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Advisors</unittitle>
+            <unitdate datechar="creation">1975</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_123fd821383489a91ef5dbee108daadb" label="Mixed Materials [31142063001104]" type="Box">5</container>
+            <container id="aspace_a8c22940ea63f15d61072dd3985de17b" parent="aspace_123fd821383489a91ef5dbee108daadb" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Annual Report</unittitle>
+            <unitdate datechar="creation">1979-1980</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_e9b759710c557ce17bdf633ed3cfa84b" label="Mixed Materials [31142063001104]" type="Box">5</container>
+            <container id="aspace_9020bfb9da2bc429c8b696eb9ec73b3e" parent="aspace_e9b759710c557ce17bdf633ed3cfa84b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Arbitron</unittitle>
+            <unitdate datechar="creation">1975</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_4ce8bec3a34cf060fff1a18166fb0d31" label="Mixed Materials [31142063001104]" type="Box">5</container>
+            <container id="aspace_f85f823a09e28fb305e60bdb5401978d" parent="aspace_4ce8bec3a34cf060fff1a18166fb0d31" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>(FCC) Docket No. 17454 File No. BPED-742, Docket No. 17455 File No. BPED-751 - Vol. I</unittitle>
+            <unitdate datechar="creation">1967</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_bf35de36057dba6bfdfa2799dbf6a162" label="Mixed Materials [31142063001104]" type="Box">5</container>
+            <container id="aspace_a032ece501b2653f36737ed7bfab6fe7" parent="aspace_bf35de36057dba6bfdfa2799dbf6a162" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>(FCC) Docket No. 17454 File No. BPED-742, Docket No. 17455 File No. BPED-751 - Vol. II</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_c9e1a0c3081320668f4046ff1c4ff6e2" label="Mixed Materials [31142063001104]" type="Box">5</container>
+            <container id="aspace_7ec0182b3631c0ceaf8cb29fae61b6d5" parent="aspace_c9e1a0c3081320668f4046ff1c4ff6e2" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>(FCC) Docket No. 17454 File No. BPED-742, Docket No. 17455 File No. BPED-751 - Reply</unittitle>
+            <unitdate datechar="creation">1968</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_2ab1d56b25084eb5d937fa2ea5cb3b00" label="Mixed Materials [31142063001104]" type="Box">5</container>
+            <container id="aspace_6aa401cbfea236cc5c56688e9f99e2e2" parent="aspace_2ab1d56b25084eb5d937fa2ea5cb3b00" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Engineering</unittitle>
+            <unitdate datechar="creation">1975-1976</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_ef6b3c9849ce4835d3c8ec748b998ef7" label="Mixed Materials [31142063001104]" type="Box">5</container>
+            <container id="aspace_aa2db0721d8eb1fba9c0a2ba753c9e49" parent="aspace_ef6b3c9849ce4835d3c8ec748b998ef7" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>FCC Permit &amp; License Copies</unittitle>
+            <unitdate datechar="creation">1975-1977</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_516d240ed8ff3f5ecda48c442dd4cc02" label="Mixed Materials [31142063001104]" type="Box">5</container>
+            <container id="aspace_b0d57f856df5da374510c7bf92b9d3cf" parent="aspace_516d240ed8ff3f5ecda48c442dd4cc02" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Fundraising</unittitle>
+            <unitdate datechar="creation">1975-1976</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_b284f9901c0c0587ed7068bbf680566b" label="Mixed Materials [31142063001104]" type="Box">5</container>
+            <container id="aspace_ad0cf3be4a05c458e0cbeca68d23f1a7" parent="aspace_b284f9901c0c0587ed7068bbf680566b" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Graduates: Personnel Questionnaires</unittitle>
+            <unitdate datechar="creation">1974</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_07854d18ad1938deba1a39277603f03e" label="Mixed Materials [31142063001104]" type="Box">5</container>
+            <container id="aspace_4ad87c8aed8344fd364e8a2526452f0a" parent="aspace_07854d18ad1938deba1a39277603f03e" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>Inactive Personnel</unittitle>
+            <unitdate datechar="creation">1974</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_399d4c335eac8744bc39399f8384d9fc" label="Mixed Materials [31142063001112]" type="Box">6</container>
+            <container id="aspace_536d2815de4c505bc14e54d2eff0b516" parent="aspace_399d4c335eac8744bc39399f8384d9fc" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Legal- Wilner &amp; Scheiner</unittitle>
+            <unitdate datechar="creation">1971-1978</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_6bb465f38a89ae291440f57962d7aa5a" label="Mixed Materials [31142063001112]" type="Box">6</container>
+            <container id="aspace_95ea4617fd31515c5cd3240187fca886" parent="aspace_6bb465f38a89ae291440f57962d7aa5a" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Legal-FCC agreement with FDU</unittitle>
+            <unitdate datechar="creation">1972-1977</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_d6413e852859524d4246a733db44bc95" label="Mixed Materials [31142063001112]" type="Box">6</container>
+            <container id="aspace_32d202bb4d6f6733a0a45e86f4bff4ed" parent="aspace_d6413e852859524d4246a733db44bc95" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Maggin, Jane (Director of Student Affairs, WNYU Advisor)</unittitle>
+            <unitdate datechar="creation">1973-1975</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_d61a71c4c2ec78d47337365b5d7d5aa3" label="Mixed Materials [31142063001112]" type="Box">6</container>
+            <container id="aspace_6b584575b983ebe04e03f7c4ea600095" parent="aspace_d61a71c4c2ec78d47337365b5d7d5aa3" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>Management Committee Meeting Minutes</unittitle>
+            <unitdate datechar="creation">1977</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_fd99bb3c957e8b040fc353f67e978966" label="Mixed Materials [31142063001112]" type="Box">6</container>
+            <container id="aspace_c2696edb569ecb5e22a9618bdbcdaccd" parent="aspace_fd99bb3c957e8b040fc353f67e978966" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>Management &amp; Staff Meetings</unittitle>
+            <unitdate datechar="creation">1974</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_82f040f1d0f3db4dc19baf0b91547af6" label="Mixed Materials [31142063001112]" type="Box">6</container>
+            <container id="aspace_d732b0be110e209ec81d472c644e344b" parent="aspace_82f040f1d0f3db4dc19baf0b91547af6" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>News Stylebook</unittitle>
+            <unitdate datechar="creation">1975</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_783a4f852192d66950b474c5c9db7e57" label="Mixed Materials [31142063001112]" type="Box">6</container>
+            <container id="aspace_944b5c3e4b0d1e0443f8db7d81fe4eb0" parent="aspace_783a4f852192d66950b474c5c9db7e57" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>Operations</unittitle>
+            <unitdate datechar="creation">1971-1975</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_78e104c2f635ec5efa9c565aaa5f23bd" label="Mixed Materials [31142063001112]" type="Box">6</container>
+            <container id="aspace_93d336a1f4399a77c0ef9bcf81f8c284" parent="aspace_78e104c2f635ec5efa9c565aaa5f23bd" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>Policy (By Laws)- Folder 1 of 2</unittitle>
+            <unitdate datechar="creation">1967-1974</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_cdf0e3b3330b9c4eef450dbab4aa59d3" label="Mixed Materials [31142063001112]" type="Box">6</container>
+            <container id="aspace_9a298c5dfc26ab4228d95cace4a440a9" parent="aspace_cdf0e3b3330b9c4eef450dbab4aa59d3" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Policy (By Laws)- Folder 2 of 2</unittitle>
+            <unitdate datechar="creation">1967-1974</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_88fc46a90420384df8f150b3572866ab" label="Mixed Materials [31142063001112]" type="Box">6</container>
+            <container id="aspace_e5caa1b4382d0e57e46617eaa05b28f0" parent="aspace_88fc46a90420384df8f150b3572866ab" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Press</unittitle>
+            <unitdate datechar="creation">1973-1977</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_48fcc1ed34cba6fb76ff943de703f62e" label="Mixed Materials [31142063001112]" type="Box">6</container>
+            <container id="aspace_b744dda20f4460badfc9258e08b72ad8" parent="aspace_48fcc1ed34cba6fb76ff943de703f62e" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>Press Releases</unittitle>
+            <unitdate datechar="creation">1974-1978</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_1b586b0fa94f92df2735d0849b484b6c" label="Mixed Materials [31142063001120]" type="Box">7</container>
+            <container id="aspace_f4626e48477e51a291d9297d9fa4ee4e" parent="aspace_1b586b0fa94f92df2735d0849b484b6c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Program Highlights</unittitle>
+            <unitdate datechar="creation">1974-1977</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_4a009f4ef04e480acadce055329d8e99" label="Mixed Materials [31142063001120]" type="Box">7</container>
+            <container id="aspace_f739400aac3b994b3f5b2396dbd7054c" parent="aspace_4a009f4ef04e480acadce055329d8e99" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Program Highlights</unittitle>
+            <unitdate datechar="creation">1974-1981</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_6ad4f5091a66d18ded25102ac6fd805f" label="Mixed Materials [31142063001120]" type="Box">7</container>
+            <container id="aspace_79354f78d159e45241447dfe3ee1b8c6" parent="aspace_6ad4f5091a66d18ded25102ac6fd805f" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>Program Material</unittitle>
+            <unitdate datechar="creation">1974-1975</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_7d366d0a894e601af4d9721810cb4539" label="Mixed Materials [31142063001120]" type="Box">7</container>
+            <container id="aspace_f59c9a83cf1cee6d5f1f614b76975eef" parent="aspace_7d366d0a894e601af4d9721810cb4539" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Programming- Folder 1 of 2</unittitle>
+            <unitdate datechar="creation">1973-1974</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_9def0f0b6f98dad08e6f04d095141c26" label="Mixed Materials [31142063001120]" type="Box">7</container>
+            <container id="aspace_9fc2ad717ee03ac7a141bd6c7a75a248" parent="aspace_9def0f0b6f98dad08e6f04d095141c26" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Programming- Folder 2 of 2</unittitle>
+            <unitdate datechar="creation">1973-1974</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_5e5347289ffa6a60849090e682dcb538" label="Mixed Materials [31142063001120]" type="Box">7</container>
+            <container id="aspace_ab987a96fea677de514dd13d8c99ee5c" parent="aspace_5e5347289ffa6a60849090e682dcb538" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Programming</unittitle>
+            <unitdate datechar="creation">1974-1977</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_28ce21d8d3f311f2a1d955bdc26df804" label="Mixed Materials [31142063001138]" type="Box">8</container>
+            <container id="aspace_1772fb14e43e45ec87c6cc00fbf4a0e4" parent="aspace_28ce21d8d3f311f2a1d955bdc26df804" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Programming</unittitle>
+            <unitdate datechar="creation">1977-1982</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_f43e23746c3de391816ba2f9103cc526" label="Mixed Materials [31142063001138]" type="Box">8</container>
+            <container id="aspace_9e28d7f406fc5ae8e0f0cd3f78bfd41a" parent="aspace_f43e23746c3de391816ba2f9103cc526" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>Publicity &amp; Promotion- Folder 1 of 2</unittitle>
+            <unitdate datechar="creation">1974-1975</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_6e6d7752f4164c539b27a0d4cb75c8e6" label="Mixed Materials [31142063001120]" type="Box">7</container>
+            <container id="aspace_06be2f4c726d27e38facde4b2f1f8b4e" parent="aspace_6e6d7752f4164c539b27a0d4cb75c8e6" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>Publicity &amp; Promotion- Folder 2 of 2</unittitle>
+            <unitdate datechar="creation">1974-1975</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_073a68e6342f21bf623a8c46df0ffecf" label="Mixed Materials [31142063001138]" type="Box">8</container>
+            <container id="aspace_fe4512742aced43acb28a1dbcb7544a3" parent="aspace_073a68e6342f21bf623a8c46df0ffecf" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>Reports, Agenda, Staff Questionnaires</unittitle>
+            <unitdate datechar="creation">1973-1976</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_3fd9fd701160b9953aa5e3584a21e1b5" label="Mixed Materials [31142063001138]" type="Box">8</container>
+            <container id="aspace_5c7215a18fe5db78d5a669a825daa229" parent="aspace_3fd9fd701160b9953aa5e3584a21e1b5" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>Share-Time Agreement WFDU/WNYU</unittitle>
+            <unitdate datechar="creation">1973-1974</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_d0eb058b33936053e24f328a8ee2ba9e" label="Mixed Materials [31142063001138]" type="Box">8</container>
+            <container id="aspace_0f0041e0786670ff7cd554349baa31b1" parent="aspace_d0eb058b33936053e24f328a8ee2ba9e" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>Staff Questionnaire</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_c055d3c32a367f30a542e72deb298021" label="Mixed Materials [31142063001138]" type="Box">8</container>
+            <container id="aspace_c429cae912cf03a8a117ddd6aa6b56e1" parent="aspace_c055d3c32a367f30a542e72deb298021" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>STL (Studio-Transmitter Link)</unittitle>
+            <unitdate datechar="creation">1974-1977</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_029b510e4338e661ee9058840d409e61" label="Mixed Materials [31142063001138]" type="Box">8</container>
+            <container id="aspace_622f1c01724b4e2acc581e38c3f83d50" parent="aspace_029b510e4338e661ee9058840d409e61" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>Ultra-Violet</unittitle>
+            <unitdate datechar="creation">1980</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_6ac475c5b654bbb68435bf187b198de1" label="Mixed Materials [31142063001138]" type="Box">8</container>
+            <container id="aspace_68ed8273ad48ccaaea63a4b91998614f" parent="aspace_6ac475c5b654bbb68435bf187b198de1" type="Folder">9</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

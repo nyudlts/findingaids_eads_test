@@ -1,78 +1,1211 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_158">tam_158</eadid><filedesc><titlestmt><titleproper>Guide to the Myra Tanner Weiss Papers <num>TAM.158</num></titleproper><author>Natasha Simon, 1998. Edited by Nicole Greenhouse in compliance with DACS and Tamiment Required Elements for Archival Description, July 2013.</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>February 28, 1998</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-12-12 19:52:37 -0500</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Myra Tanner Weiss Papers</unittitle>
-    <origination label="Creator">
-      <persname source="naf">Weiss, Myra Tanner</persname>
-    </origination>
-    <origination label="source">
-      <persname role="dnr" rules="dacs" source="local">Nagel, Shirley</persname>
-    </origination>
-    <unitid>TAM.158</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">2.5 Linear Feet</extent>
-      <extent altrender="carrier">in five manuscript boxes.</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1933/1997" type="inclusive">1933-1997</unitdate>
-    <unitdate datechar="creation" normal="1952/1963" type="bulk">1952-1963</unitdate>
-    <abstract id="aspace_6a852f0760718899882759947f51b818">Myra Tanner Weiss (1916-1997) was a socialist, feminist, and the Socialist Workers Party's vice-presidential candidate in 1952, 1956, and 1960. Together with her husband Murry she organized the School for Marxist Education in New York. The papers contain correspondence, speeches and writings and Socialist Workers Party internal documents.</abstract>
-    <langmaterial id="aspace_4c0c44cfbdc699017307c4a59bfd9a5b">Materials are in English.</langmaterial>
-  </did>
-  <accessrestrict id="aspace_50387e7677b2b8c1f19eea3ebf0c49da">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_367a660911cbf2dc16c92f0f2c8e9538">
-    <head>Immediate Source of Acquisition</head>
-<p>Materials were donated by Myra Tanner Weiss and her sister, Shirley Nagel, in 1994. The accession numbers associated with this gift are 1994.015, 1994.016 and NPA.1998.028.</p>  </acqinfo>
-  <arrangement id="aspace_2839ddab7fac682cd80720754bee384e">
-    <head>Arrangement</head>
-<p>This collection is arranged into five series: </p><p>Series I: Personal<lb/>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/tam_158">tam_158</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Myra Tanner Weiss Papers <num>TAM.158</num></titleproper>
+        <author>Natasha Simon, 1998. Edited by Nicole Greenhouse in compliance with DACS and Tamiment Required Elements for Archival Description, July 2013.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>February 28, 1998</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-12-12 19:52:37 -0500</date>.</creation>
+      <langusage>Description is in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Myra Tanner Weiss Papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Weiss, Myra Tanner</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Nagel, Shirley</persname>
+      </origination>
+      <unitid>TAM.158</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.5 Linear Feet</extent>
+        <extent altrender="carrier">in five manuscript boxes.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1933/1997" type="inclusive">1933-1997</unitdate>
+      <unitdate datechar="creation" normal="1952/1963" type="bulk">1952-1963</unitdate>
+      <abstract id="aspace_6a852f0760718899882759947f51b818">Myra Tanner Weiss (1916-1997) was a socialist, feminist, and the Socialist Workers Party's vice-presidential candidate in 1952, 1956, and 1960. Together with her husband Murry she organized the School for Marxist Education in New York. The papers contain correspondence, speeches and writings and Socialist Workers Party internal documents.</abstract>
+      <langmaterial id="aspace_4c0c44cfbdc699017307c4a59bfd9a5b">Materials are in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_50387e7677b2b8c1f19eea3ebf0c49da">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_367a660911cbf2dc16c92f0f2c8e9538">
+      <head>Immediate Source of Acquisition</head>
+      <p>Materials were donated by Myra Tanner Weiss and her sister, Shirley Nagel, in 1994. The accession numbers associated with this gift are 1994.015, 1994.016 and NPA.1998.028.</p>
+    </acqinfo>
+    <arrangement id="aspace_2839ddab7fac682cd80720754bee384e">
+      <head>Arrangement</head>
+      <p>This collection is arranged into five series: </p>
+      <p>Series I: Personal<lb/>
 Series II: Correspondence<lb/> 
 Series III: Socialist Workers Party<lb/>
 Series IV: Committee for a Revolutionary Socialist Party (CRSP)<lb/>
-Series V: Speeches and Writings<lb/> </p>  </arrangement>
-  <bioghist id="aspace_d0f94293e1e7a1b1c1c4856eb9700ce4">
-    <head>Historical/Biographical Note</head>
-<p>Myra Tanner Weiss was born May 17, 1916.  She joined the Socialist Workers Party in 1935 while attending the University of Utah.  She moved to Los Angeles in the 1940s, at which time she organized agricultural and cannery workers.  She also helped establish the SWP in Los Angeles where she met another party organizer, Murry Weiss [born Morris, in Chicago, September 9, 1915, son of Joseph and Freida; died December 26, 1981] whom she later married. Tanner Weiss ran for mayor of Los Angeles in 1945 and 1949. The Weisses moved to New York City in 1953 where Murry Weiss edited the Socialist Workers Party's newspaper <emph render="italic">The Militant</emph>.  Running with Presidential candidate Farrell Dobbs, Myra Tanner Weiss was the Socialist Workers Party's Vice Presidential candidate in 1952, 1956, and 1960.  Together with her husband she organized the School for Marxist Education in New York. Tanner Weiss left the SWP in the early 1960's because she thought the party had undergone a 'gross bureaucratization'.  According to records of the New York local branch of the SWP Myra Tanner Weiss would no longer be considered a member of the Party as of October 1966.  She did however remain politically active and became involved with the New York Socialist Feminists and the Committee for a Revolutionary Socialist Party (CRSP). Tanner Weiss received a masters degree in political science from New York University in 1972.  She subsequently worked as a proof reader. She died on September 13, 1997.</p>  </bioghist>
-  <prefercite id="aspace_cb1bd0da5d29a21ace63218c69699e83">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Myra Tanner Weiss Papers; TAM 158; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <processinfo id="aspace_ba427316eebac94bca5d7c1c301dbab5">
-    <head>Processing Information</head>
-<p>Photographs were separated from this collection during initial processing and were established as a separate collection, the Myra Tanner Weiss Photographs (PHOTOS 085). In 2013, the photograph collection was reincorporated into the Myra Tanner Weiss Papers.</p>  </processinfo>
-  <relatedmaterial id="aspace_63f781ee615d5955557269303fd0e533">
-    <head>Related Archival Materials</head>
-<p>Tamiment's Oral History of the American Left (OH 002) contains an interview with Myra Tanner Weiss. 
+Series V: Speeches and Writings<lb/> </p>
+    </arrangement>
+    <bioghist id="aspace_d0f94293e1e7a1b1c1c4856eb9700ce4">
+      <head>Historical/Biographical Note</head>
+      <p>Myra Tanner Weiss was born May 17, 1916.  She joined the Socialist Workers Party in 1935 while attending the University of Utah.  She moved to Los Angeles in the 1940s, at which time she organized agricultural and cannery workers.  She also helped establish the SWP in Los Angeles where she met another party organizer, Murry Weiss [born Morris, in Chicago, September 9, 1915, son of Joseph and Freida; died December 26, 1981] whom she later married. Tanner Weiss ran for mayor of Los Angeles in 1945 and 1949. The Weisses moved to New York City in 1953 where Murry Weiss edited the Socialist Workers Party's newspaper <emph render="italic">The Militant</emph>.  Running with Presidential candidate Farrell Dobbs, Myra Tanner Weiss was the Socialist Workers Party's Vice Presidential candidate in 1952, 1956, and 1960.  Together with her husband she organized the School for Marxist Education in New York. Tanner Weiss left the SWP in the early 1960's because she thought the party had undergone a 'gross bureaucratization'.  According to records of the New York local branch of the SWP Myra Tanner Weiss would no longer be considered a member of the Party as of October 1966.  She did however remain politically active and became involved with the New York Socialist Feminists and the Committee for a Revolutionary Socialist Party (CRSP). Tanner Weiss received a masters degree in political science from New York University in 1972.  She subsequently worked as a proof reader. She died on September 13, 1997.</p>
+    </bioghist>
+    <prefercite id="aspace_cb1bd0da5d29a21ace63218c69699e83">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Myra Tanner Weiss Papers; TAM 158; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_ba427316eebac94bca5d7c1c301dbab5">
+      <head>Processing Information</head>
+      <p>Photographs were separated from this collection during initial processing and were established as a separate collection, the Myra Tanner Weiss Photographs (PHOTOS 085). In 2013, the photograph collection was reincorporated into the Myra Tanner Weiss Papers.</p>
+    </processinfo>
+    <relatedmaterial id="aspace_63f781ee615d5955557269303fd0e533">
+      <head>Related Archival Materials</head>
+      <p>Tamiment's Oral History of the American Left (OH 002) contains an interview with Myra Tanner Weiss. 
  
-Other institutions hold materials related to Tanner Weiss, including oral history recordings in Prometheus Research Library, New York (Myra Tanner Weiss interview 12/20/77; 2 cassettes) and Tanner Weiss's campaign literature in the Bob Chester Papers at the State Historical Society of Wisconsin, Madison, Wisconsin.</p>  </relatedmaterial>
-  <scopecontent id="aspace_0ae58c3d5859ac5a8403a77278775840">
-    <head>Scope and Content Note</head>
-<p>The collection consists primarily of correspondence and Socialist Workers Party (SWP) internal documents, dating mostly from the 1940s-1970s. The correspondence is mostly by Tanner Weiss and her husband, Murry, related to the SWP and family correspondence. The collection contains a significant amount of SWP internal working materials, including draft resolutions, minutes, correspondence, articles, circulars, reports, flyers, convention materials, and other ephemera documenting the SWP's politics and activities, as well as the Party's responses to splits and the formation of factions. The collection also contains internal papers and correspondence which document Murry and Myra Tanner Weiss' involvement with the Committee for a Revolutionary Socialist Party (CRSP). The collection also contains speeches and writings written by Murry and Myra Tanner Weiss. Important in the collection is the letter to Tanner Weiss from Natalie Sedova-Trotsky concerning a purported meeting between Leon Trotsky and Jack Soble in Turkey in 1931-1932.</p>  </scopecontent>
-  <separatedmaterial id="aspace_3c368cef87517d1d3178eca8ac47312e">
-    <head>Separated Materials</head>
-<p>A set of <emph render="italic">Discussion Bulletin</emph>s published by the Committee for a Revolutionary Socialist from 1978-1980 were separated to the library collection.</p>  </separatedmaterial>
-  <userestrict id="aspace_4ba4fa3aaf2f694702033f89ad7eaadc">
-    <head>Conditions Governing Use</head>
-<p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Myra Tanner Weiss was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
-  <controlaccess>
-    <subject source="lcsh">Women socialists -- United States.</subject>
-    <subject source="lcsh">Women and socialism -- United States.</subject>
-    <subject source="local">Trotskyists  -- United States.</subject>
-    <subject source="local">Trotskyism -- United States.</subject>
-    <corpname authfilenumber="(lccn)n88057383" source="naf">Young People's Socialist League</corpname>
-    <corpname authfilenumber="(lccn)n79063200" source="naf">Socialist Workers Party</corpname>
-    <corpname authfilenumber="(lccn)n86071883" source="naf">Young Socialist Alliance (U.S.)</corpname>
-    <persname source="naf">Swabeck, Arne</persname>
-    <persname source="naf">Dobbs, Farrell</persname>
-    <persname source="local">Weiss, Murry</persname>
-    <persname source="naf">Trotskaia, Nataliia Ivanovna, 1882-1962</persname>
-    <persname source="naf">Breitman, George</persname>
-    <persname source="naf">Cannon, James Patrick, 1890-1974</persname>
-    <persname role="dnr" rules="dacs" source="local">Nagel, Shirley</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref19" level="series"><did><unittitle>Series I: Personal</unittitle><unitid>1</unitid><unitdate datechar="creation">1912, 1981-1997</unitdate></did><arrangement id="aspace_8e2f087feeb0afcd01a471811951e368"><head>Arrangement</head><p>Arranged alphabetically.</p></arrangement><scopecontent id="aspace_8e9289026d193964cdcd80ba3d017445"><head>Scope and Content Note</head><p>This series contains obituaries, photographs, and other personal and biographical materials related to Tanner Weiss.</p></scopecontent><c id="aspace_ref20" level="file"><did><unittitle>Biography</unittitle><unitdate datechar="creation">1981-1997</unitdate><container altrender="Manuscript box - Legal" id="aspace_e4d040b923f22dbac93c3d02bc3e8180" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_e5a6182fe1f56352a110fa2fa877d7b7" parent="aspace_e4d040b923f22dbac93c3d02bc3e8180" type="Folder">1</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Photographs</unittitle><unitdate datechar="creation">1912, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_b9126eb7cccd9718926168b97ca6922f" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_d4d512683053e3bdb2c40580c4ae62af" parent="aspace_b9126eb7cccd9718926168b97ca6922f" type="Folder">1a</container></did></c></c><c id="aspace_ref22" level="series"><did><unittitle>Series II: Correspondence</unittitle><unitid>2</unitid><unitdate datechar="creation">1933-1987</unitdate></did><scopecontent id="aspace_f31d47e99866e070283398c4987c3a68"><head>Scope and Content Note</head><p>This series contains correspondence by Myra Tanner Weiss and Murry Weiss, mostly to other correspondents. The bulk of the correspondence dates from the 1940s-1970s. There is also the correspondence of Myra Tanner Weiss' husband, Murry Weiss, much of which concerns his tenure as editor of the Socialist Workers Party (SWP) newspaper,<emph render="italic"> The Militant</emph>. Tanner Weiss' letters and correspondence concern her speaking tours and political campaigns as SWP Vice Presidential candidate in 1952, 1956, and 1960, as well as personal correspondence with her husband and family. Correspondents include: Shane Mage, Tim Wohlforth, James Cannon, Sam Marcy, Natalie [Natalia] Sedova-Trotsky (Leon Trotsky's widow), Bert Deck, Farrell Dobbs, William Warde, George Breitman, George Clarke, Arne Swabeck, Harry Braverman, Clara Fraser, James Robertson.</p></scopecontent><arrangement id="aspace_6f9ae93f2a2152ecdb5446da08429032"><head>Arrangement</head><p>Arranged alphabetically and then chronologically.</p></arrangement><c id="aspace_ref23" level="file"><did><unittitle>Weiss Family Letters</unittitle><unitdate datechar="creation">1959</unitdate><container altrender="Manuscript box - Legal" id="aspace_b5ff1accec88a4e8ba566b6022858322" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_c2f1deef6443f746452fe6466fe0ae31" parent="aspace_b5ff1accec88a4e8ba566b6022858322" type="Folder">2</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Murry Weiss / Myra Tanner Weiss Correspondence</unittitle><unitdate datechar="creation">1948-1958</unitdate><container altrender="Manuscript box - Legal" id="aspace_637e53912bdc5acb782868b15cc47bf5" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_f0b59a4b096b4e4dc53399dd1460aa13" parent="aspace_637e53912bdc5acb782868b15cc47bf5" type="Folder">3</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Murry Weiss / Myra Tanner Weiss Correspondence</unittitle><unitdate datechar="creation">1960-1980</unitdate><container altrender="Manuscript box - Legal" id="aspace_5fb8e1f70913abdef0b266a473225531" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_71c24b44caae1061856793decfa64d9e" parent="aspace_5fb8e1f70913abdef0b266a473225531" type="Folder">4</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Murry Weiss - Letters</unittitle><unitdate datechar="creation">1933-1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_6d4de0954740c9165e0c4498571149c4" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_9cc1f6687d8df5a2ef8c5fdad5bb9df3" parent="aspace_6d4de0954740c9165e0c4498571149c4" type="Folder">5</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Murry Weiss - Letters</unittitle><unitdate datechar="creation">1942</unitdate><container altrender="Manuscript box - Legal" id="aspace_fdd72dff89b77cf0484a2f06d8ccd65a" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_b9b8d9fb0881d076e8bbea77715a6fa3" parent="aspace_fdd72dff89b77cf0484a2f06d8ccd65a" type="Folder">6</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Murry Weiss - Letters</unittitle><unitdate datechar="creation">1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_f97f135ee69d41e1817e926812e55547" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_72bc570a630574f9c4c612efbb020f82" parent="aspace_f97f135ee69d41e1817e926812e55547" type="Folder">7</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Murry Weiss - Letters</unittitle><unitdate datechar="creation">1945</unitdate><container altrender="Manuscript box - Legal" id="aspace_6559ee5faf0f91e5f454f0b23522d404" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_41e014a7fb3b8219f9ed37482b78eb69" parent="aspace_6559ee5faf0f91e5f454f0b23522d404" type="Folder">8</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Murry Weiss - Letters</unittitle><unitdate datechar="creation">1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_7bcfcb7de7a194978d774b020b2d43ae" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_55c6da15655994aa41e5ecc579f457fc" parent="aspace_7bcfcb7de7a194978d774b020b2d43ae" type="Folder">9</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Correspondence: Murry Weiss/California Third Party Movement</unittitle><unitdate datechar="creation">1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_1d3631ff4dcaa9fcbdfd10ffa42011e1" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_920e7f8cdea4817c4fae6a3d9a27d1f5" parent="aspace_1d3631ff4dcaa9fcbdfd10ffa42011e1" type="Folder">10</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Murry Weiss - Letters</unittitle><unitdate datechar="creation">1948</unitdate><container altrender="Manuscript box - Legal" id="aspace_aedb289dcc6e395f88427db2db602618" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_fcbc0f375281dc66528d3bc68d4f356e" parent="aspace_aedb289dcc6e395f88427db2db602618" type="Folder">11</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Murry Weiss - Letters</unittitle><unitdate datechar="creation">1949</unitdate><container altrender="Manuscript box - Legal" id="aspace_647dbf81f3299db9b08b35fc0109cf7c" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_2d0e70b99ed29c28c3f94e4762101efe" parent="aspace_647dbf81f3299db9b08b35fc0109cf7c" type="Folder">12</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Murry Weiss/Trotsky School Spring Mountain Camp - Correspondence</unittitle><unitdate datechar="creation">1950</unitdate><container altrender="Manuscript box - Legal" id="aspace_db2e1e56ee996c2b8a93224caed2fd34" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_2e1d5f494ebece4aad14a60b778b1d21" parent="aspace_db2e1e56ee996c2b8a93224caed2fd34" type="Folder">13</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Murry Weiss - Letters</unittitle><unitdate datechar="creation">1951</unitdate><container altrender="Manuscript box - Legal" id="aspace_2968df7d8afd9b89064de0c537d509a6" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_8a805c9c7e04011a4d0479a4577155a3" parent="aspace_2968df7d8afd9b89064de0c537d509a6" type="Folder">14</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Murry Weiss - Letters</unittitle><unitdate datechar="creation">1952</unitdate><container altrender="Manuscript box - Legal" id="aspace_1f8d6f8678b69d4e78b562f21cc2fde1" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_1a99d27b00f835228c915700033ef87a" parent="aspace_1f8d6f8678b69d4e78b562f21cc2fde1" type="Folder">15</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Murry Weiss - Letters</unittitle><unitdate datechar="creation">1953</unitdate><container altrender="Manuscript box - Legal" id="aspace_faed5e6c83daf17bdb798c7515a71df1" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_6d609d7871b707a25c51495e4331e1c6" parent="aspace_faed5e6c83daf17bdb798c7515a71df1" type="Folder">16</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Murry Weiss - Letters</unittitle><unitdate datechar="creation">1954</unitdate><container altrender="Manuscript box - Legal" id="aspace_af6f9464f9c6ce81f8a91f5904b8d04a" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_258ff5f9b257794f21996ce13de2cefc" parent="aspace_af6f9464f9c6ce81f8a91f5904b8d04a" type="Folder">17</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Murry Weiss - Letters</unittitle><unitdate datechar="creation">1955</unitdate><container altrender="Manuscript box - Legal" id="aspace_1835a452feb909040ec1b5607bae5d6b" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_1530a09caf132605fc007ced2df00a80" parent="aspace_1835a452feb909040ec1b5607bae5d6b" type="Folder">18</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Murry Weiss - Letters</unittitle><unitdate datechar="creation">Jan-Jun 1956</unitdate><container altrender="Manuscript box - Legal" id="aspace_30b7c68c315b528248073c1d9d493203" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_74526e9a4bb75ce3e7f9850025e85006" parent="aspace_30b7c68c315b528248073c1d9d493203" type="Folder">19</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Murry Weiss - Letters</unittitle><unitdate datechar="creation">Jul-Dec 1956</unitdate><container altrender="Manuscript box - Legal" id="aspace_2621e735c74eb43c6956738a958d935b" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_bd020d1d3ab3e4d751703c608393c3bc" parent="aspace_2621e735c74eb43c6956738a958d935b" type="Folder">20</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Murry Weiss - Letters</unittitle><unitdate datechar="creation">Jan-May 1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_1706be444ec76ab297584ec355aad21b" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_ebb41628756b142fba4c1a0d11fef0f1" parent="aspace_1706be444ec76ab297584ec355aad21b" type="Folder">21</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Murry Weiss - Letters</unittitle><unitdate datechar="creation">Jun-Dec 1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_c211b025aa87bb8f0c8ca8d5cb7b64ed" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_a0ed22363957448d57dcce26969c09fe" parent="aspace_c211b025aa87bb8f0c8ca8d5cb7b64ed" type="Folder">22</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Murry Weiss - Letters</unittitle><unitdate datechar="creation">1958</unitdate><container altrender="Manuscript box - Legal" id="aspace_ffc34fdf3ac54f3cc120fa92b74a000d" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_9ab3d0cbab78156a2ceb49550d9136c0" parent="aspace_ffc34fdf3ac54f3cc120fa92b74a000d" type="Folder">23</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Murry Weiss - Letters</unittitle><unitdate datechar="creation">1959</unitdate><container altrender="Manuscript box - Legal" id="aspace_1b46bd59d43ede20eb4bb2b82e24ea1d" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_e1addd502255292d10e81e19c72c0f80" parent="aspace_1b46bd59d43ede20eb4bb2b82e24ea1d" type="Folder">24</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Murry Weiss - Letters</unittitle><unitdate datechar="creation">1960</unitdate><container altrender="Manuscript box - Legal" id="aspace_a4b8bd526f0220eff706bb06c3c4b4b9" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_33beab9684a2d81551fbf1941e54ff53" parent="aspace_a4b8bd526f0220eff706bb06c3c4b4b9" type="Folder">25</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Murry Weiss - Letters</unittitle><unitdate datechar="creation">1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_078e4c188011d80202245813efc75cfc" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_b2643d5f4f059a6663e4befcffe1c914" parent="aspace_078e4c188011d80202245813efc75cfc" type="Folder">26</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Murry Weiss - Letters</unittitle><unitdate datechar="creation">1963-1964</unitdate><container altrender="Manuscript box - Legal" id="aspace_e1185c22deb302d485e19f8afabca468" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_e3541f636592242dca7cafad1f4613b8" parent="aspace_e1185c22deb302d485e19f8afabca468" type="Folder">27</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Murry Weiss - Letters/Socialist Workers Party Membership</unittitle><unitdate datechar="creation">1966</unitdate><container altrender="Manuscript box - Legal" id="aspace_6e5c6000ed1f577f807e4d6d2c2ee882" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_ced6caede21e04a740a4e0eb4780fbee" parent="aspace_6e5c6000ed1f577f807e4d6d2c2ee882" type="Folder">28</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Murry Weiss - Letters</unittitle><unitdate datechar="creation">1976 -1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_4356a5e33b2f5820377a543ed536ab0a" label="Mixed Materials [31142062718385]" type="Box">1</container><container id="aspace_501866a47018e1db00c408a44e3ce433" parent="aspace_4356a5e33b2f5820377a543ed536ab0a" type="Folder">29</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Myra Tanner Weiss - Letters</unittitle><unitdate datechar="creation">1946-1949</unitdate><container altrender="Manuscript box - Legal" id="aspace_7223ba3d28f80d85aa798cb95971a068" label="Mixed Materials [31142062718393]" type="Box">2</container><container id="aspace_3bd40b5028325858dbd155c4c1012450" parent="aspace_7223ba3d28f80d85aa798cb95971a068" type="Folder">1</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Myra Tanner Weiss - Letters</unittitle><unitdate datechar="creation">1951</unitdate><container altrender="Manuscript box - Legal" id="aspace_83b9ff26b49096adef29d150d6bb5d71" label="Mixed Materials [31142062718393]" type="Box">2</container><container id="aspace_c79d6c203e50e3c60714755cd93c9c8f" parent="aspace_83b9ff26b49096adef29d150d6bb5d71" type="Folder">2</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Myra Tanner Weiss - Letters</unittitle><unitdate datechar="creation">1952</unitdate><container altrender="Manuscript box - Legal" id="aspace_7401746fd1564b08f48d95f21839f8da" label="Mixed Materials [31142062718393]" type="Box">2</container><container id="aspace_f356946ec4848c25efea2a31819f4242" parent="aspace_7401746fd1564b08f48d95f21839f8da" type="Folder">3</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Myra Tanner Weiss - Letters</unittitle><unitdate datechar="creation">1953</unitdate><container altrender="Manuscript box - Legal" id="aspace_04c33c4764296ae5e2b58cceda01d5a0" label="Mixed Materials [31142062718393]" type="Box">2</container><container id="aspace_34c03bb58731666f46cf6a84f08c9c1c" parent="aspace_04c33c4764296ae5e2b58cceda01d5a0" type="Folder">4</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Myra Tanner Weiss - Letters</unittitle><unitdate datechar="creation">1954-1955</unitdate><container altrender="Manuscript box - Legal" id="aspace_4aa2f470ef149a58aac77c01cc05ec42" label="Mixed Materials [31142062718393]" type="Box">2</container><container id="aspace_7d8a2eeafd110da28d4e953cb6b2f3bf" parent="aspace_4aa2f470ef149a58aac77c01cc05ec42" type="Folder">5</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Myra Tanner Weiss - Letters</unittitle><unitdate datechar="creation">Jan-Jun 1956</unitdate><container altrender="Manuscript box - Legal" id="aspace_b7e65886c3aeb1271d9a95f018b2ed06" label="Mixed Materials [31142062718393]" type="Box">2</container><container id="aspace_b5917fdbaad183a5ac87f8001e69e605" parent="aspace_b7e65886c3aeb1271d9a95f018b2ed06" type="Folder">6</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Myra Tanner Weiss - Letters</unittitle><unitdate datechar="creation">Jul-Dec 1956</unitdate><container altrender="Manuscript box - Legal" id="aspace_d82bd1d88e09ed06053589f1c82b2290" label="Mixed Materials [31142062718393]" type="Box">2</container><container id="aspace_a49bbe219cfb754a3cb0851a07923a38" parent="aspace_d82bd1d88e09ed06053589f1c82b2290" type="Folder">7</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Myra Tanner Weiss - Letters</unittitle><unitdate datechar="creation">1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_57a46508fefe6bdad2ad121a7f7c21bb" label="Mixed Materials [31142062718393]" type="Box">2</container><container id="aspace_87a69fa28477cd26194e0354c2ebe5ac" parent="aspace_57a46508fefe6bdad2ad121a7f7c21bb" type="Folder">8</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Correspondence: Myra Tanner Weiss/Natalie Sedova-Trotsky</unittitle><unitdate datechar="creation">1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_6a5581f607b4a28b4e4ab2e1642b599d" label="Mixed Materials [31142062718393]" type="Box">2</container><container id="aspace_e7740e17cf94bda59b0b0d999ecd17b4" parent="aspace_6a5581f607b4a28b4e4ab2e1642b599d" type="Folder">9</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Myra Tanner Weiss - Letters</unittitle><unitdate datechar="creation">1958 -1959</unitdate><container altrender="Manuscript box - Legal" id="aspace_ddb23f5057c6781b875f6bd378511c41" label="Mixed Materials [31142062718393]" type="Box">2</container><container id="aspace_a122f1c9c236377e534b88fa99a86ffc" parent="aspace_ddb23f5057c6781b875f6bd378511c41" type="Folder">10</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>Myra Tanner Weiss - Letters</unittitle><unitdate datechar="creation">1960-1966</unitdate><container altrender="Manuscript box - Legal" id="aspace_965e9628803dacb3b86e55d37fe7206e" label="Mixed Materials [31142062718393]" type="Box">2</container><container id="aspace_444bc50a1899ff14fc70ec262ce00533" parent="aspace_965e9628803dacb3b86e55d37fe7206e" type="Folder">11</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>Myra Tanner Weiss - Letters/Socialist Workers Party Membership</unittitle><unitdate datechar="creation">1966</unitdate><container altrender="Manuscript box - Legal" id="aspace_398f5597d65f12924c81a0b5b40df6ac" label="Mixed Materials [31142062718393]" type="Box">2</container><container id="aspace_da34ac7745f366250a145fa9a9e2fed6" parent="aspace_398f5597d65f12924c81a0b5b40df6ac" type="Folder">12</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>Myra Tanner Weiss - Letters</unittitle><unitdate datechar="creation">1969-1975</unitdate><container altrender="Manuscript box - Legal" id="aspace_8299585cd5cf186c5316a9aa464c7fa7" label="Mixed Materials [31142062718393]" type="Box">2</container><container id="aspace_b8529ba107873e07cd6522bf9adffbd7" parent="aspace_8299585cd5cf186c5316a9aa464c7fa7" type="Folder">13</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>Myra Tanner Weiss - Letters</unittitle><unitdate datechar="creation">1977-1980</unitdate><container altrender="Manuscript box - Legal" id="aspace_5cc985ac2ed93cba7b474edb4256a945" label="Mixed Materials [31142062718393]" type="Box">2</container><container id="aspace_9a6932aa5ff3f9c2367406722f8c24f9" parent="aspace_5cc985ac2ed93cba7b474edb4256a945" type="Folder">14</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Myra Tanner Weiss - Letters: An Open Letter to the Socialist Workers Party</unittitle><unitdate datechar="creation">1980</unitdate><container altrender="Manuscript box - Legal" id="aspace_bc7a2c2968e1f3f72bd82e7f0e3c691b" label="Mixed Materials [31142062718393]" type="Box">2</container><container id="aspace_cca12fe0a43652cb894b376a3b5a1984" parent="aspace_bc7a2c2968e1f3f72bd82e7f0e3c691b" type="Folder">15</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>Myra Tanner Weiss - Letters</unittitle><unitdate datechar="creation">1981</unitdate><container altrender="Manuscript box - Legal" id="aspace_8263e65f7ca554e887d15155b7bed65c" label="Mixed Materials [31142062718393]" type="Box">2</container><container id="aspace_a5874104ac7b7ca71c3955ae5b890f1c" parent="aspace_8263e65f7ca554e887d15155b7bed65c" type="Folder">16</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>Myra Tanner Weiss - Letters</unittitle><unitdate datechar="creation">1982</unitdate><container altrender="Manuscript box - Legal" id="aspace_59960a8631524d4fbb855308b5439542" label="Mixed Materials [31142062718393]" type="Box">2</container><container id="aspace_2838ceae7982c108fdfdf2f141ad693a" parent="aspace_59960a8631524d4fbb855308b5439542" type="Folder">17</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>Myra Tanner Weiss - Letters</unittitle><unitdate datechar="creation">1983-1985</unitdate><container altrender="Manuscript box - Legal" id="aspace_feb907efe9dd075c2fbb4d38497c0597" label="Mixed Materials [31142062718393]" type="Box">2</container><container id="aspace_dc237a9eed44b408978eeacb91d9dad3" parent="aspace_feb907efe9dd075c2fbb4d38497c0597" type="Folder">18</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Myra Tanner Weiss - Letters</unittitle><unitdate datechar="creation">1986-1987</unitdate><container altrender="Manuscript box - Legal" id="aspace_82b22124c3b826996db4dfdec319093d" label="Mixed Materials [31142062718393]" type="Box">2</container><container id="aspace_3f368e0cbbe272a1c618d6268c25f3e7" parent="aspace_82b22124c3b826996db4dfdec319093d" type="Folder">19</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Letters: individuals</unittitle><unitdate datechar="creation">1939-1953</unitdate><container altrender="Manuscript box - Legal" id="aspace_077d3e1b1052ad69f303edfa0bd164c7" label="Mixed Materials [31142062718393]" type="Box">2</container><container id="aspace_6f476e87ea8046aea63caaa578e4450b" parent="aspace_077d3e1b1052ad69f303edfa0bd164c7" type="Folder">20</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Letters: individuals</unittitle><unitdate datechar="creation">1955</unitdate><container altrender="Manuscript box - Legal" id="aspace_0018155983d3cb580fe611fe0e4dd2b0" label="Mixed Materials [31142062718393]" type="Box">2</container><container id="aspace_5d2875ebf95704896e640858abcc93f3" parent="aspace_0018155983d3cb580fe611fe0e4dd2b0" type="Folder">21</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Letters: individuals</unittitle><unitdate datechar="creation">1956-1985</unitdate><container altrender="Manuscript box - Legal" id="aspace_d2904123464fc3d4440e2832022a83ad" label="Mixed Materials [31142062718393]" type="Box">2</container><container id="aspace_809013d15d2021a219cf992041c37ba0" parent="aspace_d2904123464fc3d4440e2832022a83ad" type="Folder">22</container></did></c><c id="aspace_ref73" level="file"><did><unittitle>Letters</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_123c5ba1ee3e74ebde2ada1d481111a4" label="Mixed Materials [31142062718393]" type="Box">2</container><container id="aspace_c19398a729fcfb9530639ea83e2dd130" parent="aspace_123c5ba1ee3e74ebde2ada1d481111a4" type="Folder">23</container></did></c></c><c id="aspace_ref74" level="series"><did><unittitle>Series III: Socialist Workers Party</unittitle><unitid>3</unitid><unitdate datechar="creation">1944-1983</unitdate></did><arrangement id="aspace_6e9004641d83437e9cf22e2133a4a921"><head>Arrangement</head><p>Arranged chronologically.</p></arrangement><scopecontent id="aspace_75ad13b1023cccae76834aa04d984d33"><head>Scope and Content Note</head><p>This series documents Weiss's activities within the Socialist Workers Party; the documents, correspondence, minutes, flyers, and other ephemera chronicle the Cochranite split, discussions and debates concerning Pabloism (Michael Pablo, Michael Raptis: head of the International Secretariat), the Party's response to the 20th Congress of the Soviet Communist Party and its effect on the Communist Party USA, and consideration of the 1956 uprisings in Poland and Hungary. SWP policy and activity is also chronicled concerning the "regroupment campaign" of 1956-1958, as well as the Party's relationship to the Young Socialist League (YSL), the Young People's Socialist League (YPSL), the Young Socialist Alliance (YSA) and the Workers World Party. In addition, there is material and correspondence concerning the opposition group the Revolutionary Tendency (TR) and the expulsion from the SWP of Lynne Harper, Laurence Ireland, Shane Mage, James Robertson, and Geoffrey White in 1963.</p></scopecontent><c id="aspace_ref75" level="file"><did><unittitle>Martin (Cannon): Comments on the Selection of the National Committee</unittitle><unitdate datechar="creation">1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_55b44b112cff0417a968cdeb505ecfdc" label="Mixed Materials [31142062718401]" type="Box">3</container><container id="aspace_2ecf2ad97c0be1295f195a385d9f2d24" parent="aspace_55b44b112cff0417a968cdeb505ecfdc" type="Folder">1</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>Felix Morrow: Where I Stand</unittitle><unitdate datechar="creation">1945</unitdate><container altrender="Manuscript box - Legal" id="aspace_56905302062084ece3fba1103cc129fe" label="Mixed Materials [31142062718401]" type="Box">3</container><container id="aspace_c731dd0ddac8ff9b322f0380ba9f7a6c" parent="aspace_56905302062084ece3fba1103cc129fe" type="Folder">2</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>Myra Tanner Weiss v Los Angeles Broadcasting, Inc...</unittitle><unitdate datechar="creation">1946</unitdate><container altrender="Manuscript box - Legal" id="aspace_e6270eecbdc3065fd02c3bce86a8f0cb" label="Mixed Materials [31142062718401]" type="Box">3</container><container id="aspace_a0ecde74b138e617b8a15087ade78834" parent="aspace_e6270eecbdc3065fd02c3bce86a8f0cb" type="Folder">2a</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>Socialist Workers Party Internal Documents</unittitle><unitdate datechar="creation">1949</unitdate><container altrender="Manuscript box - Legal" id="aspace_5db581eaafde8a18f1ca78b7a05791a1" label="Mixed Materials [31142062718401]" type="Box">3</container><container id="aspace_c15c5cf2fbe54182bc29e242c5a5cc24" parent="aspace_5db581eaafde8a18f1ca78b7a05791a1" type="Folder">3</container></did></c><c id="aspace_ref79" level="file"><did><unittitle>Natalia Trotsky: letter re break with Fourth International and Socialist Workers Party</unittitle><unitdate datechar="creation">1951</unitdate><container altrender="Manuscript box - Legal" id="aspace_e1674d2094e48096c9f227339a09409a" label="Mixed Materials [31142062718401]" type="Box">3</container><container id="aspace_e4d365d24ab4014f19aad92e19b5c085" parent="aspace_e1674d2094e48096c9f227339a09409a" type="Folder">4</container></did></c><c id="aspace_ref80" level="file"><did><unittitle>Johnson-Forest: What We Are Leaving Behind</unittitle><unitdate datechar="creation">1951</unitdate><container altrender="Manuscript box - Legal" id="aspace_7421dc63952beb19a23df6b139e221aa" label="Mixed Materials [31142062718401]" type="Box">3</container><container id="aspace_86c141d803dfa77bcf0c46108c3b1533" parent="aspace_7421dc63952beb19a23df6b139e221aa" type="Folder">5</container></did></c><c id="aspace_ref81" level="file"><did><unittitle>M. Pablo: The Building of the Revolutionary Party</unittitle><unitdate datechar="creation">1952</unitdate><container altrender="Manuscript box - Legal" id="aspace_61db55b6fa86d640b29a7f904731175d" label="Mixed Materials [31142062718401]" type="Box">3</container><container id="aspace_1f25747fdb3bbb497e303d2c4d0e347d" parent="aspace_61db55b6fa86d640b29a7f904731175d" type="Folder">6</container></did></c><c id="aspace_ref82" level="file"><did><unittitle>Internal Documents</unittitle><unitdate datechar="creation">1953</unitdate><container altrender="Manuscript box - Legal" id="aspace_ce2a7b88053f85b43bcf2cb54d11e3c5" label="Mixed Materials [31142062718401]" type="Box">3</container><container id="aspace_4203a78497b278ac6987f75b3820932b" parent="aspace_ce2a7b88053f85b43bcf2cb54d11e3c5" type="Folder">7</container></did></c><c id="aspace_ref83" level="file"><did><unittitle>Internal Documents</unittitle><unitdate datechar="creation">1954</unitdate><container altrender="Manuscript box - Legal" id="aspace_d6cf51f7240efc583d3c6a2e25959276" label="Mixed Materials [31142062718401]" type="Box">3</container><container id="aspace_96c0a7b0500bc21a9034af11474126b2" parent="aspace_d6cf51f7240efc583d3c6a2e25959276" type="Folder">8</container></did></c><c id="aspace_ref84" level="file"><did><unittitle>Club Executive Minutes</unittitle><unitdate datechar="creation">1954</unitdate><container altrender="Manuscript box - Legal" id="aspace_a672c6e09a0b0a2da67ccc3c17aecfd0" label="Mixed Materials [31142062718401]" type="Box">3</container><container id="aspace_3bc64d74ef1a9fa1ac426bb0bfbb707e" parent="aspace_a672c6e09a0b0a2da67ccc3c17aecfd0" type="Folder">9</container></did></c><c id="aspace_ref85" level="file"><did><unittitle>Internal Documents</unittitle><unitdate datechar="creation">1955</unitdate><container altrender="Manuscript box - Legal" id="aspace_a30cbafd9a0d4dc7b173c75ea8779027" label="Mixed Materials [31142062718401]" type="Box">3</container><container id="aspace_883d99bbd125db4bb052ec6547e328ca" parent="aspace_a30cbafd9a0d4dc7b173c75ea8779027" type="Folder">10</container></did></c><c id="aspace_ref86" level="file"><did><unittitle>Peng: Pabloism Reviewed</unittitle><unitdate datechar="creation">1955</unitdate><container altrender="Manuscript box - Legal" id="aspace_dba3eb4456bc2fab5da52d55ee47f92f" label="Mixed Materials [31142062718401]" type="Box">3</container><container id="aspace_9afc6fd50c1f3d4eff1f064929789646" parent="aspace_dba3eb4456bc2fab5da52d55ee47f92f" type="Folder">11</container></did></c><c id="aspace_ref87" level="file"><did><unittitle>Draft Resolutions: The Soviet Union Today [sect iv]; The Third Chinese Revolution and Its Aftermath [sect ii]; The Rise of the Colonial Bourgeoise [sect iii]; includes correspondence</unittitle><unitdate datechar="creation">1955</unitdate><container altrender="Manuscript box - Legal" id="aspace_0ad72f08b06770765991d74db5312c47" label="Mixed Materials [31142062718401]" type="Box">3</container><container id="aspace_4b49dde5fdf5f062c9ba8d06f4c2b90b" parent="aspace_0ad72f08b06770765991d74db5312c47" type="Folder">12</container></did></c><c id="aspace_ref88" level="file"><did><unittitle>Digest of 1949 U.S. White Paper on China</unittitle><unitdate datechar="creation">1955</unitdate><container altrender="Manuscript box - Legal" id="aspace_299d0508c25d01024730529c2501925c" label="Mixed Materials [31142062718401]" type="Box">3</container><container id="aspace_4f64b111cd539640ca793cef63297e1e" parent="aspace_299d0508c25d01024730529c2501925c" type="Folder">13</container></did></c><c id="aspace_ref89" level="file"><did><unittitle>Club Executive Minutes</unittitle><unitdate datechar="creation">1955</unitdate><container altrender="Manuscript box - Legal" id="aspace_1b0c569ba9a2391fa72693eccd6e76ac" label="Mixed Materials [31142062718401]" type="Box">3</container><container id="aspace_dad089a905e1da986c7abc7e9e0a3461" parent="aspace_1b0c569ba9a2391fa72693eccd6e76ac" type="Folder">14</container></did></c><c id="aspace_ref90" level="file"><did><unittitle>Internal Documents</unittitle><unitdate datechar="creation">1956</unitdate><container altrender="Manuscript box - Legal" id="aspace_dccf658864eb7efb5cb405a59d087549" label="Mixed Materials [31142062718401]" type="Box">3</container><container id="aspace_0d7fedd36a8054921952573ed53dacc7" parent="aspace_dccf658864eb7efb5cb405a59d087549" type="Folder">15</container></did></c><c id="aspace_ref91" level="file"><did><unittitle>Communications to National Committee Members</unittitle><unitdate datechar="creation">1956</unitdate><container altrender="Manuscript box - Legal" id="aspace_68fe2cca55b5fe035fb66d621db65902" label="Mixed Materials [31142062718401]" type="Box">3</container><container id="aspace_4cbefe85d5cc771b516d1a2b835c4363" parent="aspace_68fe2cca55b5fe035fb66d621db65902" type="Folder">16</container></did></c><c id="aspace_ref92" level="file"><did><unittitle>On the CPUSA</unittitle><unitdate datechar="creation">1956</unitdate><container altrender="Manuscript box - Legal" id="aspace_a9d659f7998b49e1b85244e9325b1325" label="Mixed Materials [31142062718401]" type="Box">3</container><container id="aspace_9e9fdac56b7ee3a9736b8883c07024f6" parent="aspace_a9d659f7998b49e1b85244e9325b1325" type="Folder">17</container></did></c><c id="aspace_ref93" level="file"><did><unittitle>Joseph Hansen: Report on the Trotsky School</unittitle><unitdate datechar="creation">1956</unitdate><container altrender="Manuscript box - Legal" id="aspace_e7806100632039636d3b3a330e803a19" label="Mixed Materials [31142062718401]" type="Box">3</container><container id="aspace_a0363217fd1edd3808ec5fbdf20921c1" parent="aspace_e7806100632039636d3b3a330e803a19" type="Folder">18</container></did></c><c id="aspace_ref94" level="file"><did><unittitle>Draft Resolution: The World Today</unittitle><unitdate datechar="creation">1956</unitdate><container altrender="Manuscript box - Legal" id="aspace_6e982b5dd152b479074327f551f9d565" label="Mixed Materials [31142062718401]" type="Box">3</container><container id="aspace_195af6c6267b4c3d939f019ee69ae7a1" parent="aspace_6e982b5dd152b479074327f551f9d565" type="Folder">19</container></did></c><c id="aspace_ref95" level="file"><did><unittitle>Draft Resolution on Stalinism</unittitle><unitdate datechar="creation">1956</unitdate><container altrender="Manuscript box - Legal" id="aspace_90acda94234c29bdc0a08c2d7ca84864" label="Mixed Materials [31142062718401]" type="Box">3</container><container id="aspace_04e19acd5105bb7aca72cb85f5851caf" parent="aspace_90acda94234c29bdc0a08c2d7ca84864" type="Folder">20</container></did></c><c id="aspace_ref96" level="file"><did><unittitle>Draft Resolution: The Crisis of Stalinism</unittitle><unitdate datechar="creation">1956</unitdate><container altrender="Manuscript box - Legal" id="aspace_8a08b01b655da2268a1f8ede5d206703" label="Mixed Materials [31142062718401]" type="Box">3</container><container id="aspace_ea4519748f27a0c79e64e77f7244636e" parent="aspace_8a08b01b655da2268a1f8ede5d206703" type="Folder">21</container></did></c><c id="aspace_ref97" level="file"><did><unittitle>Draft Resolution on Middle East</unittitle><unitdate datechar="creation">1956</unitdate><container altrender="Manuscript box - Legal" id="aspace_9b5558ac40c65383c67f4438324ac989" label="Mixed Materials [31142062718401]" type="Box">3</container><container id="aspace_db6a09132456a76e9b01f93b818b74cf" parent="aspace_9b5558ac40c65383c67f4438324ac989" type="Folder">22</container></did></c><c id="aspace_ref98" level="file"><did><unittitle>re slogan, Federal Troops to Mississippi</unittitle><unitdate datechar="creation">1956</unitdate><container altrender="Manuscript box - Legal" id="aspace_60b12b17af62dfad8a48983fd1394f6b" label="Mixed Materials [31142062718401]" type="Box">3</container><container id="aspace_412a86d310d60c343ffe878d74101aa9" parent="aspace_60b12b17af62dfad8a48983fd1394f6b" type="Folder">23</container></did></c><c id="aspace_ref99" level="file"><did><unittitle>Internal Documents</unittitle><unitdate datechar="creation">1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_7d75c7b6cf2c38af479c9d0c5f74be0d" label="Mixed Materials [31142062718401]" type="Box">3</container><container id="aspace_b854384da1d70b8bb550aa162dd1956d" parent="aspace_7d75c7b6cf2c38af479c9d0c5f74be0d" type="Folder">24</container></did></c><c id="aspace_ref100" level="file"><did><unittitle>Tentative Outline for Political Report to Convention</unittitle><unitdate datechar="creation">1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_128442acf0393e34605033bfcaceea9e" label="Mixed Materials [31142062718401]" type="Box">3</container><container id="aspace_83b379593ba1fd704204e8e1cab2b054" parent="aspace_128442acf0393e34605033bfcaceea9e" type="Folder">25</container></did></c><c id="aspace_ref101" level="file"><did><unittitle>Young Socialist League (YSL): correspondence and reports</unittitle><unitdate datechar="creation">1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_d6e66646e9d2bf5b5f929956f25134b8" label="Mixed Materials [31142062718401]" type="Box">3</container><container id="aspace_11d0c3d6bdf999272d2f51fe6a67d1c9" parent="aspace_d6e66646e9d2bf5b5f929956f25134b8" type="Folder">26</container></did></c><c id="aspace_ref102" level="file"><did><unittitle>Draft Resolution: Towards a Revolutionary Party in Britain; Suez and its Aftermath</unittitle><unitdate datechar="creation">1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_3b5b99806c725b2abb0a2bf31c1aa8ad" label="Mixed Materials [31142062718401]" type="Box">3</container><container id="aspace_d98dc00f2944e399e212d1f3a6c52aea" parent="aspace_3b5b99806c725b2abb0a2bf31c1aa8ad" type="Folder">27</container></did></c><c id="aspace_ref103" level="file"><did><unittitle>Club Executive Minutes</unittitle><unitdate datechar="creation">1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_a9f35e332c49d9820caec04390255eed" label="Mixed Materials [31142062718401]" type="Box">3</container><container id="aspace_f4b6e8661e7c1f3f00d6999576b77621" parent="aspace_a9f35e332c49d9820caec04390255eed" type="Folder">28</container></did></c><c id="aspace_ref104" level="file"><did><unittitle>Internal Documents</unittitle><unitdate datechar="creation">1958</unitdate><container altrender="Manuscript box - Legal" id="aspace_9e9e0624b787585aaf2ce4bd94f2dd53" label="Mixed Materials [31142062718419]" type="Box">4</container><container id="aspace_ce8b624c3760ee81477b0d7211cd4b6b" parent="aspace_9e9e0624b787585aaf2ce4bd94f2dd53" type="Folder">1</container></did></c><c id="aspace_ref105" level="file"><did><unittitle>Internal Documents</unittitle><unitdate datechar="creation">1959</unitdate><container altrender="Manuscript box - Legal" id="aspace_0b3bdfaf8cb19cbacf896eaa5da4eb59" label="Mixed Materials [31142062718419]" type="Box">4</container><container id="aspace_b5ec1ebf883ecc759b2273e393ae36d2" parent="aspace_0b3bdfaf8cb19cbacf896eaa5da4eb59" type="Folder">2</container></did></c><c id="aspace_ref106" level="file"><did><unittitle>Club Executive Minutes</unittitle><unitdate datechar="creation">1959</unitdate><container altrender="Manuscript box - Legal" id="aspace_dc61c7ce454692cb8cc721d793127bbd" label="Mixed Materials [31142062718419]" type="Box">4</container><container id="aspace_82d144427ba4d771715b3540e26612eb" parent="aspace_dc61c7ce454692cb8cc721d793127bbd" type="Folder">3</container></did></c><c id="aspace_ref107" level="file"><did><unittitle>Revised Draft Political Resolution - regroupment</unittitle><unitdate datechar="creation">1959</unitdate><container altrender="Manuscript box - Legal" id="aspace_f35dcdb88f452a5188c7958eddeebc45" label="Mixed Materials [31142062718419]" type="Box">4</container><container id="aspace_5374e67a4bee62d395a726d3b2be9a3f" parent="aspace_f35dcdb88f452a5188c7958eddeebc45" type="Folder">4</container></did></c><c id="aspace_ref108" level="file"><did><unittitle>Internal Documents</unittitle><unitdate datechar="creation">1960</unitdate><container altrender="Manuscript box - Legal" id="aspace_a5278b8546a98d60cc0518398d732b12" label="Mixed Materials [31142062718419]" type="Box">4</container><container id="aspace_acef6a4ca9e7f12ac2bace3c2862fdc2" parent="aspace_a5278b8546a98d60cc0518398d732b12" type="Folder">5</container></did></c><c id="aspace_ref109" level="file"><did><unittitle>James Cannon: letter with 1945 "On The Party Press"</unittitle><unitdate datechar="creation">1960</unitdate><container altrender="Manuscript box - Legal" id="aspace_785af561c018c9af56abb2c5bbf9b67a" label="Mixed Materials [31142062718419]" type="Box">4</container><container id="aspace_591e79f521d85e70075b033d8644658c" parent="aspace_785af561c018c9af56abb2c5bbf9b67a" type="Folder">6</container></did></c><c id="aspace_ref110" level="file"><did><unittitle>Raj Narain Arya: statements</unittitle><unitdate datechar="creation">1960</unitdate><container altrender="Manuscript box - Legal" id="aspace_bb935b81f8a2d902d50ab4ea8aac0654" label="Mixed Materials [31142062718419]" type="Box">4</container><container id="aspace_43787e9958a943a4567ccb84b26ba8dd" parent="aspace_bb935b81f8a2d902d50ab4ea8aac0654" type="Folder">7</container></did></c><c id="aspace_ref111" level="file"><did><unittitle>Political Committee Minutes</unittitle><unitdate datechar="creation">1960</unitdate><container altrender="Manuscript box - Legal" id="aspace_b8b5d6767f557429d4cd24c3600aaa1d" label="Mixed Materials [31142062718419]" type="Box">4</container><container id="aspace_416ca2a045e38cfa578eaa8564c2f362" parent="aspace_b8b5d6767f557429d4cd24c3600aaa1d" type="Folder">8</container></did></c><c id="aspace_ref112" level="file"><did><unittitle>Draft: Tasks and Perspectives Resolution; Tasks and Perspectives Resolution</unittitle><unitdate datechar="creation">1960</unitdate><container altrender="Manuscript box - Legal" id="aspace_9bf3cceed46fd3fd0cdb57d3930d94bb" label="Mixed Materials [31142062718419]" type="Box">4</container><container id="aspace_258bcfe6b387dc8c36704ad198f78817" parent="aspace_9bf3cceed46fd3fd0cdb57d3930d94bb" type="Folder">9</container></did></c><c id="aspace_ref113" level="file"><did><unittitle>Murry Weiss: Memorandum on the Principled Groundwork of Our Tactics and Slogans in the Struggle Against Imperialist War</unittitle><unitdate datechar="creation">1960</unitdate><container altrender="Manuscript box - Legal" id="aspace_e0814274d5eae814c745f4fd03f32bc9" label="Mixed Materials [31142062718419]" type="Box">4</container><container id="aspace_c9421871755308ee8a421a847bb9c661" parent="aspace_e0814274d5eae814c745f4fd03f32bc9" type="Folder">10</container></did></c><c id="aspace_ref114" level="file"><did><unittitle>Concerning Cuba</unittitle><unitdate datechar="creation">1960</unitdate><container altrender="Manuscript box - Legal" id="aspace_0d11fd394a0433293ddb49140e697a91" label="Mixed Materials [31142062718419]" type="Box">4</container><container id="aspace_894faac8dee12c83bcd59d3b6b320885" parent="aspace_0d11fd394a0433293ddb49140e697a91" type="Folder">11</container></did></c><c id="aspace_ref115" level="file"><did><unittitle>Internal Documents</unittitle><unitdate datechar="creation">1961</unitdate><container altrender="Manuscript box - Legal" id="aspace_89a3104b6a81015a3973641f8c3ca5f2" label="Mixed Materials [31142062718419]" type="Box">4</container><container id="aspace_2d42be908e678d79120b873763509fe2" parent="aspace_89a3104b6a81015a3973641f8c3ca5f2" type="Folder">12</container></did></c><c id="aspace_ref116" level="file"><did><unittitle>Political Committee Minutes</unittitle><unitdate datechar="creation">1961</unitdate><container altrender="Manuscript box - Legal" id="aspace_d12dc9c9ca32d015b4f38ab1760ed11d" label="Mixed Materials [31142062718419]" type="Box">4</container><container id="aspace_ed0211790c4ea5ef13311b165c57ec37" parent="aspace_d12dc9c9ca32d015b4f38ab1760ed11d" type="Folder">13</container></did></c><c id="aspace_ref117" level="file"><did><unittitle>Pre Convention and 19th National Convention Minutes</unittitle><unitdate datechar="creation">1961</unitdate><container altrender="Manuscript box - Legal" id="aspace_5cafded498dc37bc13e4878698c7e96c" label="Mixed Materials [31142062718419]" type="Box">4</container><container id="aspace_c1f2ad2610b439edfd44f70aa3f6a51c" parent="aspace_5cafded498dc37bc13e4878698c7e96c" type="Folder">14</container></did></c><c id="aspace_ref118" level="file"><did><unittitle>National Executive Committee Minutes (with attached correspondence)</unittitle><unitdate datechar="creation">1961</unitdate><container altrender="Manuscript box - Legal" id="aspace_1801fd85b3a743d7f29d19aa49117546" label="Mixed Materials [31142062718419]" type="Box">4</container><container id="aspace_8274011e51c4b4da119e92e40741fd23" parent="aspace_1801fd85b3a743d7f29d19aa49117546" type="Folder">15</container></did></c><c id="aspace_ref119" level="file"><did><unittitle>Monroe Defense Movement</unittitle><unitdate datechar="creation">1961</unitdate><container altrender="Manuscript box - Legal" id="aspace_d7adcc88255247bb238d143d5f3222f1" label="Mixed Materials [31142062718419]" type="Box">4</container><container id="aspace_aa6a80090d4b6831297f525f8f4da148" parent="aspace_d7adcc88255247bb238d143d5f3222f1" type="Folder">16</container></did></c><c id="aspace_ref120" level="file"><did><unittitle>Internal Documents</unittitle><unitdate datechar="creation">1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_e452d34567295677f52e8ff393a41e08" label="Mixed Materials [31142062718419]" type="Box">4</container><container id="aspace_2d593bbdee55609beae1c2bd73432f9e" parent="aspace_e452d34567295677f52e8ff393a41e08" type="Folder">17</container></did></c><c id="aspace_ref121" level="file"><did><unittitle>Political Committee Draft: Problems of the Fourth International And the Next Steps</unittitle><unitdate datechar="creation">1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_f525a3aa6b197ea43c48b9f52df04dac" label="Mixed Materials [31142062718419]" type="Box">4</container><container id="aspace_29df8b6be9dc393e63d7c51c3b21599c" parent="aspace_f525a3aa6b197ea43c48b9f52df04dac" type="Folder">18</container></did></c><c id="aspace_ref122" level="file"><did><unittitle>Draft Resolution: The Chinese Revolution: Its Character and Development</unittitle><unitdate datechar="creation">1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_fbea16ad289d13596ce9ab890cfd2a84" label="Mixed Materials [31142062718419]" type="Box">4</container><container id="aspace_a8a0975710cfe114b025232d56605f21" parent="aspace_fbea16ad289d13596ce9ab890cfd2a84" type="Folder">19</container></did></c><c id="aspace_ref123" level="file"><did><unittitle>Political Committee Minutes</unittitle><unitdate datechar="creation">1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_3e5f0dd0cb803e2ee0596a65a025bdb4" label="Mixed Materials [31142062718419]" type="Box">4</container><container id="aspace_e50d71b3483873c55e6f8eda22458af5" parent="aspace_3e5f0dd0cb803e2ee0596a65a025bdb4" type="Folder">20</container></did></c><c id="aspace_ref124" level="file"><did><unittitle>Internal Documents</unittitle><unitdate datechar="creation">1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_63aa1eb0153c0eef76628b9edca6ee7f" label="Mixed Materials [31142062718419]" type="Box">4</container><container id="aspace_e2571674283ff25a8688b58b360b4aba" parent="aspace_63aa1eb0153c0eef76628b9edca6ee7f" type="Folder">21</container></did></c><c id="aspace_ref125" level="file"><did><unittitle>Political Committee Minutes</unittitle><unitdate datechar="creation">1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_34dbc5c53973e7df058711052f06c199" label="Mixed Materials [31142062718419]" type="Box">4</container><container id="aspace_22d795ad7581471c3b82aeb58722a1f1" parent="aspace_34dbc5c53973e7df058711052f06c199" type="Folder">22</container></did></c><c id="aspace_ref126" level="file"><did><unittitle>National Committee Plenum</unittitle><unitdate datechar="creation">1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_40fa16723e9393a6dd99c606b06a522c" label="Mixed Materials [31142062718419]" type="Box">4</container><container id="aspace_32d4495d0cccfac4f41a1f299723f0c9" parent="aspace_40fa16723e9393a6dd99c606b06a522c" type="Folder">23</container></did></c><c id="aspace_ref127" level="file"><did><unittitle>Myra Tanner Weiss: Plenum Speech</unittitle><unitdate datechar="creation">1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_4a2fd3aec8b3abc697e930164781df66" label="Mixed Materials [31142062718419]" type="Box">4</container><container id="aspace_44a469c5f752b20e8b2572e8cc1b2abe" parent="aspace_4a2fd3aec8b3abc697e930164781df66" type="Folder">24</container></did></c><c id="aspace_ref128" level="file"><did><unittitle>Draft of Convention Resolution: Freedom Now</unittitle><unitdate datechar="creation">1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_1a08736dd0a0ce23bcd7f5646a3b40b1" label="Mixed Materials [31142062718427]" type="Box">5</container><container id="aspace_66b2b763c617a1074ff03671faec28bd" parent="aspace_1a08736dd0a0ce23bcd7f5646a3b40b1" type="Folder">1</container></did></c><c id="aspace_ref129" level="file"><did><unittitle>Draft Resolution on the Organizational Character of the SWP</unittitle><unitdate datechar="creation">1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_980aa211f9bb4b9efaebc90c20388442" label="Mixed Materials [31142062718427]" type="Box">5</container><container id="aspace_449d5eb2a7ad0d9ba074f7626abc158b" parent="aspace_980aa211f9bb4b9efaebc90c20388442" type="Folder">2</container></did></c><c id="aspace_ref130" level="file"><did><unittitle>Suspension of Robertson-Mage-White Minority Tendency: statements and correspondence</unittitle><unitdate datechar="creation">1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_8c87e7d8cfc4f6c298a77dad0b92b1b4" label="Mixed Materials [31142062718427]" type="Box">5</container><container id="aspace_26d0f29bdb58947db1ed7ae4d8121875" parent="aspace_8c87e7d8cfc4f6c298a77dad0b92b1b4" type="Folder">3</container></did></c><c id="aspace_ref131" level="file"><did><unittitle>Statement of the Reorganized Minority Tendency: The Decline of American Imperialism and the Tasks of the SWP</unittitle><unitdate datechar="creation">1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_b9dad8e71d98edcbd7cd9d5e4acb6382" label="Mixed Materials [31142062718427]" type="Box">5</container><container id="aspace_14044054d7c02d486b217bbc9cdabce6" parent="aspace_b9dad8e71d98edcbd7cd9d5e4acb6382" type="Folder">4</container></did></c><c id="aspace_ref132" level="file"><did><unittitle>Draft Resolution: Preparing for the Next Wave of Radicalism in the United States</unittitle><unitdate datechar="creation">1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_83b3960735e01369eda1a801ff9e0927" label="Mixed Materials [31142062718427]" type="Box">5</container><container id="aspace_7bfae649b831cd3171cf991e4406c6d2" parent="aspace_83b3960735e01369eda1a801ff9e0927" type="Folder">5</container></did></c><c id="aspace_ref133" level="file"><did><unittitle>Draft Resolution: The SWP Position on China (May); The SWP Position on China with Wohlforth amendment (June)</unittitle><unitdate datechar="creation">1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_8fe9537c5c2445fc90c1d2fedd2e3e85" label="Mixed Materials [31142062718427]" type="Box">5</container><container id="aspace_af45745e4c1e7a84efa3d524b026856d" parent="aspace_8fe9537c5c2445fc90c1d2fedd2e3e85" type="Folder">6</container></did></c><c id="aspace_ref134" level="file"><did><unittitle>Draft Resolution: The Sino-Soviet Dispute; Marxist Policy in the Sino-Soviet Dispute</unittitle><unitdate datechar="creation">1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_098712b2871a4e8b414c7572a5ca8bf8" label="Mixed Materials [31142062718427]" type="Box">5</container><container id="aspace_4ffd6560fde01c9445141a4948e472fd" parent="aspace_098712b2871a4e8b414c7572a5ca8bf8" type="Folder">7</container></did></c><c id="aspace_ref135" level="file"><did><unittitle>Internal Documents</unittitle><unitdate datechar="creation">1964</unitdate><container altrender="Manuscript box - Legal" id="aspace_37a1afd290b282a1b5054d2646cf74c0" label="Mixed Materials [31142062718427]" type="Box">5</container><container id="aspace_cc1610443cad4fa1bb214988579b424c" parent="aspace_37a1afd290b282a1b5054d2646cf74c0" type="Folder">8</container></did></c><c id="aspace_ref136" level="file"><did><unittitle>Political Committee Minutes</unittitle><unitdate datechar="creation">1964</unitdate><container altrender="Manuscript box - Legal" id="aspace_defe75c7f0c7bc4e8e25a82e9894c287" label="Mixed Materials [31142062718427]" type="Box">5</container><container id="aspace_abf855b25952f9fad0f7f7925dfe3b6a" parent="aspace_defe75c7f0c7bc4e8e25a82e9894c287" type="Folder">9</container></did></c><c id="aspace_ref137" level="file"><did><unittitle>National Executive Committee Minutes</unittitle><unitdate datechar="creation">1964</unitdate><container altrender="Manuscript box - Legal" id="aspace_e914502898029976177c13746cc5ce26" label="Mixed Materials [31142062718427]" type="Box">5</container><container id="aspace_e38a97936017356af67395abd2d06697" parent="aspace_e914502898029976177c13746cc5ce26" type="Folder">10</container></did></c><c id="aspace_ref138" level="file"><did><unittitle>21st National Convention Minutes</unittitle><unitdate datechar="creation">1965</unitdate><container altrender="Manuscript box - Legal" id="aspace_99b77158b073851d6cc9f4edc6820d01" label="Mixed Materials [31142062718427]" type="Box">5</container><container id="aspace_1b74005d43ab2562724520286d1245d7" parent="aspace_99b77158b073851d6cc9f4edc6820d01" type="Folder">11</container></did></c><c id="aspace_ref139" level="file"><did><unittitle>Internal Documents</unittitle><unitdate datechar="creation">1966</unitdate><container altrender="Manuscript box - Legal" id="aspace_02f3710ea4a489e652d38be59799daa0" label="Mixed Materials [31142062718427]" type="Box">5</container><container id="aspace_031e1f9cbe7ace4bf47679556b2184cd" parent="aspace_02f3710ea4a489e652d38be59799daa0" type="Folder">12</container></did></c><c id="aspace_ref140" level="file"><did><unittitle>Internal Documents</unittitle><unitdate datechar="creation">circa 1967</unitdate><container altrender="Manuscript box - Legal" id="aspace_ab6d237318f6a452965ee45e92ae68cb" label="Mixed Materials [31142062718427]" type="Box">5</container><container id="aspace_9db2880f10ec2ce665fe9320fa8627f0" parent="aspace_ab6d237318f6a452965ee45e92ae68cb" type="Folder">13</container></did></c><c id="aspace_ref141" level="file"><did><unittitle>Hildegarde Swabeck: resignation letter</unittitle><unitdate datechar="creation">circa 1967</unitdate><container altrender="Manuscript box - Legal" id="aspace_ea7b5f4b2ec0bcb59485502c443e6dbe" label="Mixed Materials [31142062718427]" type="Box">5</container><container id="aspace_94151652040a67913c95376b9b81d671" parent="aspace_ea7b5f4b2ec0bcb59485502c443e6dbe" type="Folder">14</container></did></c><c id="aspace_ref142" level="file"><did><unittitle>Internal Documents</unittitle><unitdate datechar="creation">1982-1983</unitdate><container altrender="Manuscript box - Legal" id="aspace_c69925b37d55f602b69e9bdcd17fa465" label="Mixed Materials [31142062718427]" type="Box">5</container><container id="aspace_fc7b38b105fbf9973d4298a529d3a78f" parent="aspace_c69925b37d55f602b69e9bdcd17fa465" type="Folder">15</container></did></c><c id="aspace_ref143" level="file"><did><unittitle>Internal Documents</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_def7788c81f46774e12f8deffaaadddb" label="Mixed Materials [31142062718427]" type="Box">5</container><container id="aspace_54895925397dc5eab39304992c1684f5" parent="aspace_def7788c81f46774e12f8deffaaadddb" type="Folder">16</container></did></c></c><c id="aspace_ref144" level="series"><did><unittitle>Series IV: Committee for a Revolutionary Socialist Party (CRSP)</unittitle><unitid>4</unitid><unitdate datechar="creation">1978-1981</unitdate></did><scopecontent id="aspace_470b060da6349b07c47eefbcfacefb0d"><head>Scope and Content Note</head><p>This series documents Tanner Weiss's involvement with and the activities of the Committee for a Revolutionary Socialist Party (CRSP) in 1978-1981. It consists of meeting minutes, articles, circulars, and conference proceedings. CRSP was dedicated to reinstituting American Trotskyism.</p></scopecontent><arrangement id="aspace_7332ae7287a14928a81876b7ba1e3ab4"><head>Arrangement</head><p>Arranged chronologically.</p></arrangement><c id="aspace_ref145" level="file"><did><unittitle>Internal Documents</unittitle><unitdate datechar="creation">1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_8926eb5566f7b712473aa3446185152f" label="Mixed Materials [31142062718427]" type="Box">5</container><container id="aspace_5e8bd98d45a7011926ee58657c679cfd" parent="aspace_8926eb5566f7b712473aa3446185152f" type="Folder">17</container></did></c><c id="aspace_ref146" level="file"><did><unittitle>Internal Documents</unittitle><unitdate datechar="creation">1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_b149c3053edb5488799737b77cc8b446" label="Mixed Materials [31142062718427]" type="Box">5</container><container id="aspace_6d562a1cc2a6e55a1cb3cbc6fd37859e" parent="aspace_b149c3053edb5488799737b77cc8b446" type="Folder">18</container></did></c><c id="aspace_ref147" level="file"><did><unittitle>Internal Documents</unittitle><unitdate datechar="creation">1980-1981</unitdate><container altrender="Manuscript box - Legal" id="aspace_65e8f94c2ae15ea77b8102db7ece2efb" label="Mixed Materials [31142062718427]" type="Box">5</container><container id="aspace_7f1c392e586a149b1aba108e3f587c12" parent="aspace_65e8f94c2ae15ea77b8102db7ece2efb" type="Folder">19</container></did></c></c><c id="aspace_ref148" level="series"><did><unittitle>Series V: Speeches and Writings</unittitle><unitid>5</unitid><unitdate datechar="creation">undated, 1955-1978</unitdate></did><scopecontent id="aspace_65ad8a0fa8590f7c3e80f7bd522274d9"><head>Scope and Content Note</head><p>This series contains speeches and other writings by Murry Weiss and Myra Tanner Weiss. Murry's speeches are related to radical political upheaval in the 1950s-1970s and often include handwritten notes. Myra's speech is related to living under FBI surveillance.</p></scopecontent><arrangement id="aspace_937976e2f4f78d43e5da0c57de623aa3"><head>Arrangement</head><p>Arranged alphabetically.</p></arrangement><c id="aspace_ref149" level="file"><did><unittitle>Murry Weiss</unittitle><unitdate datechar="creation">1955-1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_9ccd7c5bcd2c0e5a79dd1874f8b85a9e" label="Mixed Materials [31142062718427]" type="Box">5</container><container id="aspace_c6e68c1ec0233126e292cb94bfa27f0a" parent="aspace_9ccd7c5bcd2c0e5a79dd1874f8b85a9e" type="Folder">20</container></did></c><c id="aspace_ref150" level="file"><did><unittitle>Myra Tanner Weiss</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_62150735130fe84f76bc53e0637d66ff" label="Mixed Materials [31142062718427]" type="Box">5</container><container id="aspace_21afce0509399886fec03e1b399636cc" parent="aspace_62150735130fe84f76bc53e0637d66ff" type="Folder">21</container></did></c></c></dsc>
-</archdesc>
+Other institutions hold materials related to Tanner Weiss, including oral history recordings in Prometheus Research Library, New York (Myra Tanner Weiss interview 12/20/77; 2 cassettes) and Tanner Weiss's campaign literature in the Bob Chester Papers at the State Historical Society of Wisconsin, Madison, Wisconsin.</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_0ae58c3d5859ac5a8403a77278775840">
+      <head>Scope and Content Note</head>
+      <p>The collection consists primarily of correspondence and Socialist Workers Party (SWP) internal documents, dating mostly from the 1940s-1970s. The correspondence is mostly by Tanner Weiss and her husband, Murry, related to the SWP and family correspondence. The collection contains a significant amount of SWP internal working materials, including draft resolutions, minutes, correspondence, articles, circulars, reports, flyers, convention materials, and other ephemera documenting the SWP's politics and activities, as well as the Party's responses to splits and the formation of factions. The collection also contains internal papers and correspondence which document Murry and Myra Tanner Weiss' involvement with the Committee for a Revolutionary Socialist Party (CRSP). The collection also contains speeches and writings written by Murry and Myra Tanner Weiss. Important in the collection is the letter to Tanner Weiss from Natalie Sedova-Trotsky concerning a purported meeting between Leon Trotsky and Jack Soble in Turkey in 1931-1932.</p>
+    </scopecontent>
+    <separatedmaterial id="aspace_3c368cef87517d1d3178eca8ac47312e">
+      <head>Separated Materials</head>
+      <p>A set of <emph render="italic">Discussion Bulletin</emph>s published by the Committee for a Revolutionary Socialist from 1978-1980 were separated to the library collection.</p>
+    </separatedmaterial>
+    <userestrict id="aspace_4ba4fa3aaf2f694702033f89ad7eaadc">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Myra Tanner Weiss was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="lcsh">Women socialists -- United States.</subject>
+      <subject source="lcsh">Women and socialism -- United States.</subject>
+      <subject source="local">Trotskyists  -- United States.</subject>
+      <subject source="local">Trotskyism -- United States.</subject>
+      <corpname authfilenumber="(lccn)n88057383" source="naf">Young People's Socialist League</corpname>
+      <corpname authfilenumber="(lccn)n79063200" source="naf">Socialist Workers Party</corpname>
+      <corpname authfilenumber="(lccn)n86071883" source="naf">Young Socialist Alliance (U.S.)</corpname>
+      <persname source="naf">Swabeck, Arne</persname>
+      <persname source="naf">Dobbs, Farrell</persname>
+      <persname source="local">Weiss, Murry</persname>
+      <persname source="naf">Trotskaia, Nataliia Ivanovna, 1882-1962</persname>
+      <persname source="naf">Breitman, George</persname>
+      <persname source="naf">Cannon, James Patrick, 1890-1974</persname>
+      <persname role="dnr" rules="dacs" source="local">Nagel, Shirley</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref19" level="series">
+        <did>
+          <unittitle>Series I: Personal</unittitle>
+          <unitid>1</unitid>
+          <unitdate datechar="creation">1912, 1981-1997</unitdate>
+        </did>
+        <arrangement id="aspace_8e2f087feeb0afcd01a471811951e368">
+          <head>Arrangement</head>
+          <p>Arranged alphabetically.</p>
+        </arrangement>
+        <scopecontent id="aspace_8e9289026d193964cdcd80ba3d017445">
+          <head>Scope and Content Note</head>
+          <p>This series contains obituaries, photographs, and other personal and biographical materials related to Tanner Weiss.</p>
+        </scopecontent>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Biography</unittitle>
+            <unitdate datechar="creation">1981-1997</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e4d040b923f22dbac93c3d02bc3e8180" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_e5a6182fe1f56352a110fa2fa877d7b7" parent="aspace_e4d040b923f22dbac93c3d02bc3e8180" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation">1912, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b9126eb7cccd9718926168b97ca6922f" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_d4d512683053e3bdb2c40580c4ae62af" parent="aspace_b9126eb7cccd9718926168b97ca6922f" type="Folder">1a</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref22" level="series">
+        <did>
+          <unittitle>Series II: Correspondence</unittitle>
+          <unitid>2</unitid>
+          <unitdate datechar="creation">1933-1987</unitdate>
+        </did>
+        <scopecontent id="aspace_f31d47e99866e070283398c4987c3a68">
+          <head>Scope and Content Note</head>
+          <p>This series contains correspondence by Myra Tanner Weiss and Murry Weiss, mostly to other correspondents. The bulk of the correspondence dates from the 1940s-1970s. There is also the correspondence of Myra Tanner Weiss' husband, Murry Weiss, much of which concerns his tenure as editor of the Socialist Workers Party (SWP) newspaper,<emph render="italic"> The Militant</emph>. Tanner Weiss' letters and correspondence concern her speaking tours and political campaigns as SWP Vice Presidential candidate in 1952, 1956, and 1960, as well as personal correspondence with her husband and family. Correspondents include: Shane Mage, Tim Wohlforth, James Cannon, Sam Marcy, Natalie [Natalia] Sedova-Trotsky (Leon Trotsky's widow), Bert Deck, Farrell Dobbs, William Warde, George Breitman, George Clarke, Arne Swabeck, Harry Braverman, Clara Fraser, James Robertson.</p>
+        </scopecontent>
+        <arrangement id="aspace_6f9ae93f2a2152ecdb5446da08429032">
+          <head>Arrangement</head>
+          <p>Arranged alphabetically and then chronologically.</p>
+        </arrangement>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Weiss Family Letters</unittitle>
+            <unitdate datechar="creation">1959</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b5ff1accec88a4e8ba566b6022858322" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_c2f1deef6443f746452fe6466fe0ae31" parent="aspace_b5ff1accec88a4e8ba566b6022858322" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Murry Weiss / Myra Tanner Weiss Correspondence</unittitle>
+            <unitdate datechar="creation">1948-1958</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_637e53912bdc5acb782868b15cc47bf5" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_f0b59a4b096b4e4dc53399dd1460aa13" parent="aspace_637e53912bdc5acb782868b15cc47bf5" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Murry Weiss / Myra Tanner Weiss Correspondence</unittitle>
+            <unitdate datechar="creation">1960-1980</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5fb8e1f70913abdef0b266a473225531" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_71c24b44caae1061856793decfa64d9e" parent="aspace_5fb8e1f70913abdef0b266a473225531" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Murry Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1933-1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6d4de0954740c9165e0c4498571149c4" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_9cc1f6687d8df5a2ef8c5fdad5bb9df3" parent="aspace_6d4de0954740c9165e0c4498571149c4" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Murry Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1942</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fdd72dff89b77cf0484a2f06d8ccd65a" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_b9b8d9fb0881d076e8bbea77715a6fa3" parent="aspace_fdd72dff89b77cf0484a2f06d8ccd65a" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Murry Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1944</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f97f135ee69d41e1817e926812e55547" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_72bc570a630574f9c4c612efbb020f82" parent="aspace_f97f135ee69d41e1817e926812e55547" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Murry Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1945</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6559ee5faf0f91e5f454f0b23522d404" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_41e014a7fb3b8219f9ed37482b78eb69" parent="aspace_6559ee5faf0f91e5f454f0b23522d404" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Murry Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1947</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7bcfcb7de7a194978d774b020b2d43ae" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_55c6da15655994aa41e5ecc579f457fc" parent="aspace_7bcfcb7de7a194978d774b020b2d43ae" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Correspondence: Murry Weiss/California Third Party Movement</unittitle>
+            <unitdate datechar="creation">1947</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1d3631ff4dcaa9fcbdfd10ffa42011e1" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_920e7f8cdea4817c4fae6a3d9a27d1f5" parent="aspace_1d3631ff4dcaa9fcbdfd10ffa42011e1" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Murry Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1948</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_aedb289dcc6e395f88427db2db602618" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_fcbc0f375281dc66528d3bc68d4f356e" parent="aspace_aedb289dcc6e395f88427db2db602618" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Murry Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1949</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_647dbf81f3299db9b08b35fc0109cf7c" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_2d0e70b99ed29c28c3f94e4762101efe" parent="aspace_647dbf81f3299db9b08b35fc0109cf7c" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Murry Weiss/Trotsky School Spring Mountain Camp - Correspondence</unittitle>
+            <unitdate datechar="creation">1950</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_db2e1e56ee996c2b8a93224caed2fd34" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_2e1d5f494ebece4aad14a60b778b1d21" parent="aspace_db2e1e56ee996c2b8a93224caed2fd34" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Murry Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1951</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2968df7d8afd9b89064de0c537d509a6" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_8a805c9c7e04011a4d0479a4577155a3" parent="aspace_2968df7d8afd9b89064de0c537d509a6" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Murry Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1952</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1f8d6f8678b69d4e78b562f21cc2fde1" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_1a99d27b00f835228c915700033ef87a" parent="aspace_1f8d6f8678b69d4e78b562f21cc2fde1" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Murry Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1953</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_faed5e6c83daf17bdb798c7515a71df1" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_6d609d7871b707a25c51495e4331e1c6" parent="aspace_faed5e6c83daf17bdb798c7515a71df1" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Murry Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1954</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_af6f9464f9c6ce81f8a91f5904b8d04a" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_258ff5f9b257794f21996ce13de2cefc" parent="aspace_af6f9464f9c6ce81f8a91f5904b8d04a" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Murry Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1955</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1835a452feb909040ec1b5607bae5d6b" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_1530a09caf132605fc007ced2df00a80" parent="aspace_1835a452feb909040ec1b5607bae5d6b" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Murry Weiss - Letters</unittitle>
+            <unitdate datechar="creation">Jan-Jun 1956</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_30b7c68c315b528248073c1d9d493203" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_74526e9a4bb75ce3e7f9850025e85006" parent="aspace_30b7c68c315b528248073c1d9d493203" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Murry Weiss - Letters</unittitle>
+            <unitdate datechar="creation">Jul-Dec 1956</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2621e735c74eb43c6956738a958d935b" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_bd020d1d3ab3e4d751703c608393c3bc" parent="aspace_2621e735c74eb43c6956738a958d935b" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Murry Weiss - Letters</unittitle>
+            <unitdate datechar="creation">Jan-May 1957</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1706be444ec76ab297584ec355aad21b" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_ebb41628756b142fba4c1a0d11fef0f1" parent="aspace_1706be444ec76ab297584ec355aad21b" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Murry Weiss - Letters</unittitle>
+            <unitdate datechar="creation">Jun-Dec 1957</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c211b025aa87bb8f0c8ca8d5cb7b64ed" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_a0ed22363957448d57dcce26969c09fe" parent="aspace_c211b025aa87bb8f0c8ca8d5cb7b64ed" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Murry Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1958</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ffc34fdf3ac54f3cc120fa92b74a000d" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_9ab3d0cbab78156a2ceb49550d9136c0" parent="aspace_ffc34fdf3ac54f3cc120fa92b74a000d" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Murry Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1959</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1b46bd59d43ede20eb4bb2b82e24ea1d" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_e1addd502255292d10e81e19c72c0f80" parent="aspace_1b46bd59d43ede20eb4bb2b82e24ea1d" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Murry Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1960</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a4b8bd526f0220eff706bb06c3c4b4b9" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_33beab9684a2d81551fbf1941e54ff53" parent="aspace_a4b8bd526f0220eff706bb06c3c4b4b9" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Murry Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1962</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_078e4c188011d80202245813efc75cfc" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_b2643d5f4f059a6663e4befcffe1c914" parent="aspace_078e4c188011d80202245813efc75cfc" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Murry Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1963-1964</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e1185c22deb302d485e19f8afabca468" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_e3541f636592242dca7cafad1f4613b8" parent="aspace_e1185c22deb302d485e19f8afabca468" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Murry Weiss - Letters/Socialist Workers Party Membership</unittitle>
+            <unitdate datechar="creation">1966</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6e5c6000ed1f577f807e4d6d2c2ee882" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_ced6caede21e04a740a4e0eb4780fbee" parent="aspace_6e5c6000ed1f577f807e4d6d2c2ee882" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Murry Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1976 -1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4356a5e33b2f5820377a543ed536ab0a" label="Mixed Materials [31142062718385]" type="Box">1</container>
+            <container id="aspace_501866a47018e1db00c408a44e3ce433" parent="aspace_4356a5e33b2f5820377a543ed536ab0a" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Myra Tanner Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1946-1949</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7223ba3d28f80d85aa798cb95971a068" label="Mixed Materials [31142062718393]" type="Box">2</container>
+            <container id="aspace_3bd40b5028325858dbd155c4c1012450" parent="aspace_7223ba3d28f80d85aa798cb95971a068" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Myra Tanner Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1951</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_83b9ff26b49096adef29d150d6bb5d71" label="Mixed Materials [31142062718393]" type="Box">2</container>
+            <container id="aspace_c79d6c203e50e3c60714755cd93c9c8f" parent="aspace_83b9ff26b49096adef29d150d6bb5d71" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Myra Tanner Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1952</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7401746fd1564b08f48d95f21839f8da" label="Mixed Materials [31142062718393]" type="Box">2</container>
+            <container id="aspace_f356946ec4848c25efea2a31819f4242" parent="aspace_7401746fd1564b08f48d95f21839f8da" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Myra Tanner Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1953</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_04c33c4764296ae5e2b58cceda01d5a0" label="Mixed Materials [31142062718393]" type="Box">2</container>
+            <container id="aspace_34c03bb58731666f46cf6a84f08c9c1c" parent="aspace_04c33c4764296ae5e2b58cceda01d5a0" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Myra Tanner Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1954-1955</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4aa2f470ef149a58aac77c01cc05ec42" label="Mixed Materials [31142062718393]" type="Box">2</container>
+            <container id="aspace_7d8a2eeafd110da28d4e953cb6b2f3bf" parent="aspace_4aa2f470ef149a58aac77c01cc05ec42" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Myra Tanner Weiss - Letters</unittitle>
+            <unitdate datechar="creation">Jan-Jun 1956</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b7e65886c3aeb1271d9a95f018b2ed06" label="Mixed Materials [31142062718393]" type="Box">2</container>
+            <container id="aspace_b5917fdbaad183a5ac87f8001e69e605" parent="aspace_b7e65886c3aeb1271d9a95f018b2ed06" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Myra Tanner Weiss - Letters</unittitle>
+            <unitdate datechar="creation">Jul-Dec 1956</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d82bd1d88e09ed06053589f1c82b2290" label="Mixed Materials [31142062718393]" type="Box">2</container>
+            <container id="aspace_a49bbe219cfb754a3cb0851a07923a38" parent="aspace_d82bd1d88e09ed06053589f1c82b2290" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Myra Tanner Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1957</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_57a46508fefe6bdad2ad121a7f7c21bb" label="Mixed Materials [31142062718393]" type="Box">2</container>
+            <container id="aspace_87a69fa28477cd26194e0354c2ebe5ac" parent="aspace_57a46508fefe6bdad2ad121a7f7c21bb" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Correspondence: Myra Tanner Weiss/Natalie Sedova-Trotsky</unittitle>
+            <unitdate datechar="creation">1957</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6a5581f607b4a28b4e4ab2e1642b599d" label="Mixed Materials [31142062718393]" type="Box">2</container>
+            <container id="aspace_e7740e17cf94bda59b0b0d999ecd17b4" parent="aspace_6a5581f607b4a28b4e4ab2e1642b599d" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Myra Tanner Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1958 -1959</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ddb23f5057c6781b875f6bd378511c41" label="Mixed Materials [31142062718393]" type="Box">2</container>
+            <container id="aspace_a122f1c9c236377e534b88fa99a86ffc" parent="aspace_ddb23f5057c6781b875f6bd378511c41" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Myra Tanner Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1960-1966</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_965e9628803dacb3b86e55d37fe7206e" label="Mixed Materials [31142062718393]" type="Box">2</container>
+            <container id="aspace_444bc50a1899ff14fc70ec262ce00533" parent="aspace_965e9628803dacb3b86e55d37fe7206e" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Myra Tanner Weiss - Letters/Socialist Workers Party Membership</unittitle>
+            <unitdate datechar="creation">1966</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_398f5597d65f12924c81a0b5b40df6ac" label="Mixed Materials [31142062718393]" type="Box">2</container>
+            <container id="aspace_da34ac7745f366250a145fa9a9e2fed6" parent="aspace_398f5597d65f12924c81a0b5b40df6ac" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Myra Tanner Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1969-1975</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8299585cd5cf186c5316a9aa464c7fa7" label="Mixed Materials [31142062718393]" type="Box">2</container>
+            <container id="aspace_b8529ba107873e07cd6522bf9adffbd7" parent="aspace_8299585cd5cf186c5316a9aa464c7fa7" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Myra Tanner Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1977-1980</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5cc985ac2ed93cba7b474edb4256a945" label="Mixed Materials [31142062718393]" type="Box">2</container>
+            <container id="aspace_9a6932aa5ff3f9c2367406722f8c24f9" parent="aspace_5cc985ac2ed93cba7b474edb4256a945" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Myra Tanner Weiss - Letters: An Open Letter to the Socialist Workers Party</unittitle>
+            <unitdate datechar="creation">1980</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bc7a2c2968e1f3f72bd82e7f0e3c691b" label="Mixed Materials [31142062718393]" type="Box">2</container>
+            <container id="aspace_cca12fe0a43652cb894b376a3b5a1984" parent="aspace_bc7a2c2968e1f3f72bd82e7f0e3c691b" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Myra Tanner Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1981</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8263e65f7ca554e887d15155b7bed65c" label="Mixed Materials [31142062718393]" type="Box">2</container>
+            <container id="aspace_a5874104ac7b7ca71c3955ae5b890f1c" parent="aspace_8263e65f7ca554e887d15155b7bed65c" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Myra Tanner Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_59960a8631524d4fbb855308b5439542" label="Mixed Materials [31142062718393]" type="Box">2</container>
+            <container id="aspace_2838ceae7982c108fdfdf2f141ad693a" parent="aspace_59960a8631524d4fbb855308b5439542" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Myra Tanner Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1983-1985</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_feb907efe9dd075c2fbb4d38497c0597" label="Mixed Materials [31142062718393]" type="Box">2</container>
+            <container id="aspace_dc237a9eed44b408978eeacb91d9dad3" parent="aspace_feb907efe9dd075c2fbb4d38497c0597" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Myra Tanner Weiss - Letters</unittitle>
+            <unitdate datechar="creation">1986-1987</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_82b22124c3b826996db4dfdec319093d" label="Mixed Materials [31142062718393]" type="Box">2</container>
+            <container id="aspace_3f368e0cbbe272a1c618d6268c25f3e7" parent="aspace_82b22124c3b826996db4dfdec319093d" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Letters: individuals</unittitle>
+            <unitdate datechar="creation">1939-1953</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_077d3e1b1052ad69f303edfa0bd164c7" label="Mixed Materials [31142062718393]" type="Box">2</container>
+            <container id="aspace_6f476e87ea8046aea63caaa578e4450b" parent="aspace_077d3e1b1052ad69f303edfa0bd164c7" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Letters: individuals</unittitle>
+            <unitdate datechar="creation">1955</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0018155983d3cb580fe611fe0e4dd2b0" label="Mixed Materials [31142062718393]" type="Box">2</container>
+            <container id="aspace_5d2875ebf95704896e640858abcc93f3" parent="aspace_0018155983d3cb580fe611fe0e4dd2b0" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Letters: individuals</unittitle>
+            <unitdate datechar="creation">1956-1985</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d2904123464fc3d4440e2832022a83ad" label="Mixed Materials [31142062718393]" type="Box">2</container>
+            <container id="aspace_809013d15d2021a219cf992041c37ba0" parent="aspace_d2904123464fc3d4440e2832022a83ad" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Letters</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_123c5ba1ee3e74ebde2ada1d481111a4" label="Mixed Materials [31142062718393]" type="Box">2</container>
+            <container id="aspace_c19398a729fcfb9530639ea83e2dd130" parent="aspace_123c5ba1ee3e74ebde2ada1d481111a4" type="Folder">23</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref74" level="series">
+        <did>
+          <unittitle>Series III: Socialist Workers Party</unittitle>
+          <unitid>3</unitid>
+          <unitdate datechar="creation">1944-1983</unitdate>
+        </did>
+        <arrangement id="aspace_6e9004641d83437e9cf22e2133a4a921">
+          <head>Arrangement</head>
+          <p>Arranged chronologically.</p>
+        </arrangement>
+        <scopecontent id="aspace_75ad13b1023cccae76834aa04d984d33">
+          <head>Scope and Content Note</head>
+          <p>This series documents Weiss's activities within the Socialist Workers Party; the documents, correspondence, minutes, flyers, and other ephemera chronicle the Cochranite split, discussions and debates concerning Pabloism (Michael Pablo, Michael Raptis: head of the International Secretariat), the Party's response to the 20th Congress of the Soviet Communist Party and its effect on the Communist Party USA, and consideration of the 1956 uprisings in Poland and Hungary. SWP policy and activity is also chronicled concerning the "regroupment campaign" of 1956-1958, as well as the Party's relationship to the Young Socialist League (YSL), the Young People's Socialist League (YPSL), the Young Socialist Alliance (YSA) and the Workers World Party. In addition, there is material and correspondence concerning the opposition group the Revolutionary Tendency (TR) and the expulsion from the SWP of Lynne Harper, Laurence Ireland, Shane Mage, James Robertson, and Geoffrey White in 1963.</p>
+        </scopecontent>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Martin (Cannon): Comments on the Selection of the National Committee</unittitle>
+            <unitdate datechar="creation">1944</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_55b44b112cff0417a968cdeb505ecfdc" label="Mixed Materials [31142062718401]" type="Box">3</container>
+            <container id="aspace_2ecf2ad97c0be1295f195a385d9f2d24" parent="aspace_55b44b112cff0417a968cdeb505ecfdc" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Felix Morrow: Where I Stand</unittitle>
+            <unitdate datechar="creation">1945</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_56905302062084ece3fba1103cc129fe" label="Mixed Materials [31142062718401]" type="Box">3</container>
+            <container id="aspace_c731dd0ddac8ff9b322f0380ba9f7a6c" parent="aspace_56905302062084ece3fba1103cc129fe" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Myra Tanner Weiss v Los Angeles Broadcasting, Inc...</unittitle>
+            <unitdate datechar="creation">1946</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e6270eecbdc3065fd02c3bce86a8f0cb" label="Mixed Materials [31142062718401]" type="Box">3</container>
+            <container id="aspace_a0ecde74b138e617b8a15087ade78834" parent="aspace_e6270eecbdc3065fd02c3bce86a8f0cb" type="Folder">2a</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>Socialist Workers Party Internal Documents</unittitle>
+            <unitdate datechar="creation">1949</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5db581eaafde8a18f1ca78b7a05791a1" label="Mixed Materials [31142062718401]" type="Box">3</container>
+            <container id="aspace_c15c5cf2fbe54182bc29e242c5a5cc24" parent="aspace_5db581eaafde8a18f1ca78b7a05791a1" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>Natalia Trotsky: letter re break with Fourth International and Socialist Workers Party</unittitle>
+            <unitdate datechar="creation">1951</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e1674d2094e48096c9f227339a09409a" label="Mixed Materials [31142062718401]" type="Box">3</container>
+            <container id="aspace_e4d365d24ab4014f19aad92e19b5c085" parent="aspace_e1674d2094e48096c9f227339a09409a" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>Johnson-Forest: What We Are Leaving Behind</unittitle>
+            <unitdate datechar="creation">1951</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7421dc63952beb19a23df6b139e221aa" label="Mixed Materials [31142062718401]" type="Box">3</container>
+            <container id="aspace_86c141d803dfa77bcf0c46108c3b1533" parent="aspace_7421dc63952beb19a23df6b139e221aa" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>M. Pablo: The Building of the Revolutionary Party</unittitle>
+            <unitdate datechar="creation">1952</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_61db55b6fa86d640b29a7f904731175d" label="Mixed Materials [31142062718401]" type="Box">3</container>
+            <container id="aspace_1f25747fdb3bbb497e303d2c4d0e347d" parent="aspace_61db55b6fa86d640b29a7f904731175d" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>Internal Documents</unittitle>
+            <unitdate datechar="creation">1953</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ce2a7b88053f85b43bcf2cb54d11e3c5" label="Mixed Materials [31142062718401]" type="Box">3</container>
+            <container id="aspace_4203a78497b278ac6987f75b3820932b" parent="aspace_ce2a7b88053f85b43bcf2cb54d11e3c5" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Internal Documents</unittitle>
+            <unitdate datechar="creation">1954</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d6cf51f7240efc583d3c6a2e25959276" label="Mixed Materials [31142062718401]" type="Box">3</container>
+            <container id="aspace_96c0a7b0500bc21a9034af11474126b2" parent="aspace_d6cf51f7240efc583d3c6a2e25959276" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Club Executive Minutes</unittitle>
+            <unitdate datechar="creation">1954</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a672c6e09a0b0a2da67ccc3c17aecfd0" label="Mixed Materials [31142062718401]" type="Box">3</container>
+            <container id="aspace_3bc64d74ef1a9fa1ac426bb0bfbb707e" parent="aspace_a672c6e09a0b0a2da67ccc3c17aecfd0" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>Internal Documents</unittitle>
+            <unitdate datechar="creation">1955</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a30cbafd9a0d4dc7b173c75ea8779027" label="Mixed Materials [31142062718401]" type="Box">3</container>
+            <container id="aspace_883d99bbd125db4bb052ec6547e328ca" parent="aspace_a30cbafd9a0d4dc7b173c75ea8779027" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Peng: Pabloism Reviewed</unittitle>
+            <unitdate datechar="creation">1955</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dba3eb4456bc2fab5da52d55ee47f92f" label="Mixed Materials [31142062718401]" type="Box">3</container>
+            <container id="aspace_9afc6fd50c1f3d4eff1f064929789646" parent="aspace_dba3eb4456bc2fab5da52d55ee47f92f" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Draft Resolutions: The Soviet Union Today [sect iv]; The Third Chinese Revolution and Its Aftermath [sect ii]; The Rise of the Colonial Bourgeoise [sect iii]; includes correspondence</unittitle>
+            <unitdate datechar="creation">1955</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0ad72f08b06770765991d74db5312c47" label="Mixed Materials [31142062718401]" type="Box">3</container>
+            <container id="aspace_4b49dde5fdf5f062c9ba8d06f4c2b90b" parent="aspace_0ad72f08b06770765991d74db5312c47" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>Digest of 1949 U.S. White Paper on China</unittitle>
+            <unitdate datechar="creation">1955</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_299d0508c25d01024730529c2501925c" label="Mixed Materials [31142062718401]" type="Box">3</container>
+            <container id="aspace_4f64b111cd539640ca793cef63297e1e" parent="aspace_299d0508c25d01024730529c2501925c" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Club Executive Minutes</unittitle>
+            <unitdate datechar="creation">1955</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1b0c569ba9a2391fa72693eccd6e76ac" label="Mixed Materials [31142062718401]" type="Box">3</container>
+            <container id="aspace_dad089a905e1da986c7abc7e9e0a3461" parent="aspace_1b0c569ba9a2391fa72693eccd6e76ac" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Internal Documents</unittitle>
+            <unitdate datechar="creation">1956</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dccf658864eb7efb5cb405a59d087549" label="Mixed Materials [31142062718401]" type="Box">3</container>
+            <container id="aspace_0d7fedd36a8054921952573ed53dacc7" parent="aspace_dccf658864eb7efb5cb405a59d087549" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Communications to National Committee Members</unittitle>
+            <unitdate datechar="creation">1956</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_68fe2cca55b5fe035fb66d621db65902" label="Mixed Materials [31142062718401]" type="Box">3</container>
+            <container id="aspace_4cbefe85d5cc771b516d1a2b835c4363" parent="aspace_68fe2cca55b5fe035fb66d621db65902" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>On the CPUSA</unittitle>
+            <unitdate datechar="creation">1956</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a9d659f7998b49e1b85244e9325b1325" label="Mixed Materials [31142062718401]" type="Box">3</container>
+            <container id="aspace_9e9fdac56b7ee3a9736b8883c07024f6" parent="aspace_a9d659f7998b49e1b85244e9325b1325" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>Joseph Hansen: Report on the Trotsky School</unittitle>
+            <unitdate datechar="creation">1956</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e7806100632039636d3b3a330e803a19" label="Mixed Materials [31142062718401]" type="Box">3</container>
+            <container id="aspace_a0363217fd1edd3808ec5fbdf20921c1" parent="aspace_e7806100632039636d3b3a330e803a19" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>Draft Resolution: The World Today</unittitle>
+            <unitdate datechar="creation">1956</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6e982b5dd152b479074327f551f9d565" label="Mixed Materials [31142062718401]" type="Box">3</container>
+            <container id="aspace_195af6c6267b4c3d939f019ee69ae7a1" parent="aspace_6e982b5dd152b479074327f551f9d565" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>Draft Resolution on Stalinism</unittitle>
+            <unitdate datechar="creation">1956</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_90acda94234c29bdc0a08c2d7ca84864" label="Mixed Materials [31142062718401]" type="Box">3</container>
+            <container id="aspace_04e19acd5105bb7aca72cb85f5851caf" parent="aspace_90acda94234c29bdc0a08c2d7ca84864" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>Draft Resolution: The Crisis of Stalinism</unittitle>
+            <unitdate datechar="creation">1956</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8a08b01b655da2268a1f8ede5d206703" label="Mixed Materials [31142062718401]" type="Box">3</container>
+            <container id="aspace_ea4519748f27a0c79e64e77f7244636e" parent="aspace_8a08b01b655da2268a1f8ede5d206703" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>Draft Resolution on Middle East</unittitle>
+            <unitdate datechar="creation">1956</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9b5558ac40c65383c67f4438324ac989" label="Mixed Materials [31142062718401]" type="Box">3</container>
+            <container id="aspace_db6a09132456a76e9b01f93b818b74cf" parent="aspace_9b5558ac40c65383c67f4438324ac989" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>re slogan, Federal Troops to Mississippi</unittitle>
+            <unitdate datechar="creation">1956</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_60b12b17af62dfad8a48983fd1394f6b" label="Mixed Materials [31142062718401]" type="Box">3</container>
+            <container id="aspace_412a86d310d60c343ffe878d74101aa9" parent="aspace_60b12b17af62dfad8a48983fd1394f6b" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>Internal Documents</unittitle>
+            <unitdate datechar="creation">1957</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7d75c7b6cf2c38af479c9d0c5f74be0d" label="Mixed Materials [31142062718401]" type="Box">3</container>
+            <container id="aspace_b854384da1d70b8bb550aa162dd1956d" parent="aspace_7d75c7b6cf2c38af479c9d0c5f74be0d" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>Tentative Outline for Political Report to Convention</unittitle>
+            <unitdate datechar="creation">1957</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_128442acf0393e34605033bfcaceea9e" label="Mixed Materials [31142062718401]" type="Box">3</container>
+            <container id="aspace_83b379593ba1fd704204e8e1cab2b054" parent="aspace_128442acf0393e34605033bfcaceea9e" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>Young Socialist League (YSL): correspondence and reports</unittitle>
+            <unitdate datechar="creation">1957</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d6e66646e9d2bf5b5f929956f25134b8" label="Mixed Materials [31142062718401]" type="Box">3</container>
+            <container id="aspace_11d0c3d6bdf999272d2f51fe6a67d1c9" parent="aspace_d6e66646e9d2bf5b5f929956f25134b8" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="file">
+          <did>
+            <unittitle>Draft Resolution: Towards a Revolutionary Party in Britain; Suez and its Aftermath</unittitle>
+            <unitdate datechar="creation">1957</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3b5b99806c725b2abb0a2bf31c1aa8ad" label="Mixed Materials [31142062718401]" type="Box">3</container>
+            <container id="aspace_d98dc00f2944e399e212d1f3a6c52aea" parent="aspace_3b5b99806c725b2abb0a2bf31c1aa8ad" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="file">
+          <did>
+            <unittitle>Club Executive Minutes</unittitle>
+            <unitdate datechar="creation">1957</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a9f35e332c49d9820caec04390255eed" label="Mixed Materials [31142062718401]" type="Box">3</container>
+            <container id="aspace_f4b6e8661e7c1f3f00d6999576b77621" parent="aspace_a9f35e332c49d9820caec04390255eed" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref104" level="file">
+          <did>
+            <unittitle>Internal Documents</unittitle>
+            <unitdate datechar="creation">1958</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9e9e0624b787585aaf2ce4bd94f2dd53" label="Mixed Materials [31142062718419]" type="Box">4</container>
+            <container id="aspace_ce8b624c3760ee81477b0d7211cd4b6b" parent="aspace_9e9e0624b787585aaf2ce4bd94f2dd53" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>Internal Documents</unittitle>
+            <unitdate datechar="creation">1959</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0b3bdfaf8cb19cbacf896eaa5da4eb59" label="Mixed Materials [31142062718419]" type="Box">4</container>
+            <container id="aspace_b5ec1ebf883ecc759b2273e393ae36d2" parent="aspace_0b3bdfaf8cb19cbacf896eaa5da4eb59" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="file">
+          <did>
+            <unittitle>Club Executive Minutes</unittitle>
+            <unitdate datechar="creation">1959</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dc61c7ce454692cb8cc721d793127bbd" label="Mixed Materials [31142062718419]" type="Box">4</container>
+            <container id="aspace_82d144427ba4d771715b3540e26612eb" parent="aspace_dc61c7ce454692cb8cc721d793127bbd" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref107" level="file">
+          <did>
+            <unittitle>Revised Draft Political Resolution - regroupment</unittitle>
+            <unitdate datechar="creation">1959</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f35dcdb88f452a5188c7958eddeebc45" label="Mixed Materials [31142062718419]" type="Box">4</container>
+            <container id="aspace_5374e67a4bee62d395a726d3b2be9a3f" parent="aspace_f35dcdb88f452a5188c7958eddeebc45" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="file">
+          <did>
+            <unittitle>Internal Documents</unittitle>
+            <unitdate datechar="creation">1960</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a5278b8546a98d60cc0518398d732b12" label="Mixed Materials [31142062718419]" type="Box">4</container>
+            <container id="aspace_acef6a4ca9e7f12ac2bace3c2862fdc2" parent="aspace_a5278b8546a98d60cc0518398d732b12" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>James Cannon: letter with 1945 "On The Party Press"</unittitle>
+            <unitdate datechar="creation">1960</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_785af561c018c9af56abb2c5bbf9b67a" label="Mixed Materials [31142062718419]" type="Box">4</container>
+            <container id="aspace_591e79f521d85e70075b033d8644658c" parent="aspace_785af561c018c9af56abb2c5bbf9b67a" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="file">
+          <did>
+            <unittitle>Raj Narain Arya: statements</unittitle>
+            <unitdate datechar="creation">1960</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bb935b81f8a2d902d50ab4ea8aac0654" label="Mixed Materials [31142062718419]" type="Box">4</container>
+            <container id="aspace_43787e9958a943a4567ccb84b26ba8dd" parent="aspace_bb935b81f8a2d902d50ab4ea8aac0654" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>Political Committee Minutes</unittitle>
+            <unitdate datechar="creation">1960</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b8b5d6767f557429d4cd24c3600aaa1d" label="Mixed Materials [31142062718419]" type="Box">4</container>
+            <container id="aspace_416ca2a045e38cfa578eaa8564c2f362" parent="aspace_b8b5d6767f557429d4cd24c3600aaa1d" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="file">
+          <did>
+            <unittitle>Draft: Tasks and Perspectives Resolution; Tasks and Perspectives Resolution</unittitle>
+            <unitdate datechar="creation">1960</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9bf3cceed46fd3fd0cdb57d3930d94bb" label="Mixed Materials [31142062718419]" type="Box">4</container>
+            <container id="aspace_258bcfe6b387dc8c36704ad198f78817" parent="aspace_9bf3cceed46fd3fd0cdb57d3930d94bb" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref113" level="file">
+          <did>
+            <unittitle>Murry Weiss: Memorandum on the Principled Groundwork of Our Tactics and Slogans in the Struggle Against Imperialist War</unittitle>
+            <unitdate datechar="creation">1960</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e0814274d5eae814c745f4fd03f32bc9" label="Mixed Materials [31142062718419]" type="Box">4</container>
+            <container id="aspace_c9421871755308ee8a421a847bb9c661" parent="aspace_e0814274d5eae814c745f4fd03f32bc9" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="file">
+          <did>
+            <unittitle>Concerning Cuba</unittitle>
+            <unitdate datechar="creation">1960</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0d11fd394a0433293ddb49140e697a91" label="Mixed Materials [31142062718419]" type="Box">4</container>
+            <container id="aspace_894faac8dee12c83bcd59d3b6b320885" parent="aspace_0d11fd394a0433293ddb49140e697a91" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="file">
+          <did>
+            <unittitle>Internal Documents</unittitle>
+            <unitdate datechar="creation">1961</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_89a3104b6a81015a3973641f8c3ca5f2" label="Mixed Materials [31142062718419]" type="Box">4</container>
+            <container id="aspace_2d42be908e678d79120b873763509fe2" parent="aspace_89a3104b6a81015a3973641f8c3ca5f2" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref116" level="file">
+          <did>
+            <unittitle>Political Committee Minutes</unittitle>
+            <unitdate datechar="creation">1961</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d12dc9c9ca32d015b4f38ab1760ed11d" label="Mixed Materials [31142062718419]" type="Box">4</container>
+            <container id="aspace_ed0211790c4ea5ef13311b165c57ec37" parent="aspace_d12dc9c9ca32d015b4f38ab1760ed11d" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref117" level="file">
+          <did>
+            <unittitle>Pre Convention and 19th National Convention Minutes</unittitle>
+            <unitdate datechar="creation">1961</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5cafded498dc37bc13e4878698c7e96c" label="Mixed Materials [31142062718419]" type="Box">4</container>
+            <container id="aspace_c1f2ad2610b439edfd44f70aa3f6a51c" parent="aspace_5cafded498dc37bc13e4878698c7e96c" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref118" level="file">
+          <did>
+            <unittitle>National Executive Committee Minutes (with attached correspondence)</unittitle>
+            <unitdate datechar="creation">1961</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1801fd85b3a743d7f29d19aa49117546" label="Mixed Materials [31142062718419]" type="Box">4</container>
+            <container id="aspace_8274011e51c4b4da119e92e40741fd23" parent="aspace_1801fd85b3a743d7f29d19aa49117546" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref119" level="file">
+          <did>
+            <unittitle>Monroe Defense Movement</unittitle>
+            <unitdate datechar="creation">1961</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d7adcc88255247bb238d143d5f3222f1" label="Mixed Materials [31142062718419]" type="Box">4</container>
+            <container id="aspace_aa6a80090d4b6831297f525f8f4da148" parent="aspace_d7adcc88255247bb238d143d5f3222f1" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref120" level="file">
+          <did>
+            <unittitle>Internal Documents</unittitle>
+            <unitdate datechar="creation">1962</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e452d34567295677f52e8ff393a41e08" label="Mixed Materials [31142062718419]" type="Box">4</container>
+            <container id="aspace_2d593bbdee55609beae1c2bd73432f9e" parent="aspace_e452d34567295677f52e8ff393a41e08" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref121" level="file">
+          <did>
+            <unittitle>Political Committee Draft: Problems of the Fourth International And the Next Steps</unittitle>
+            <unitdate datechar="creation">1962</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f525a3aa6b197ea43c48b9f52df04dac" label="Mixed Materials [31142062718419]" type="Box">4</container>
+            <container id="aspace_29df8b6be9dc393e63d7c51c3b21599c" parent="aspace_f525a3aa6b197ea43c48b9f52df04dac" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref122" level="file">
+          <did>
+            <unittitle>Draft Resolution: The Chinese Revolution: Its Character and Development</unittitle>
+            <unitdate datechar="creation">1962</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fbea16ad289d13596ce9ab890cfd2a84" label="Mixed Materials [31142062718419]" type="Box">4</container>
+            <container id="aspace_a8a0975710cfe114b025232d56605f21" parent="aspace_fbea16ad289d13596ce9ab890cfd2a84" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref123" level="file">
+          <did>
+            <unittitle>Political Committee Minutes</unittitle>
+            <unitdate datechar="creation">1962</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3e5f0dd0cb803e2ee0596a65a025bdb4" label="Mixed Materials [31142062718419]" type="Box">4</container>
+            <container id="aspace_e50d71b3483873c55e6f8eda22458af5" parent="aspace_3e5f0dd0cb803e2ee0596a65a025bdb4" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref124" level="file">
+          <did>
+            <unittitle>Internal Documents</unittitle>
+            <unitdate datechar="creation">1963</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_63aa1eb0153c0eef76628b9edca6ee7f" label="Mixed Materials [31142062718419]" type="Box">4</container>
+            <container id="aspace_e2571674283ff25a8688b58b360b4aba" parent="aspace_63aa1eb0153c0eef76628b9edca6ee7f" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref125" level="file">
+          <did>
+            <unittitle>Political Committee Minutes</unittitle>
+            <unitdate datechar="creation">1963</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_34dbc5c53973e7df058711052f06c199" label="Mixed Materials [31142062718419]" type="Box">4</container>
+            <container id="aspace_22d795ad7581471c3b82aeb58722a1f1" parent="aspace_34dbc5c53973e7df058711052f06c199" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref126" level="file">
+          <did>
+            <unittitle>National Committee Plenum</unittitle>
+            <unitdate datechar="creation">1963</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_40fa16723e9393a6dd99c606b06a522c" label="Mixed Materials [31142062718419]" type="Box">4</container>
+            <container id="aspace_32d4495d0cccfac4f41a1f299723f0c9" parent="aspace_40fa16723e9393a6dd99c606b06a522c" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref127" level="file">
+          <did>
+            <unittitle>Myra Tanner Weiss: Plenum Speech</unittitle>
+            <unitdate datechar="creation">1963</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4a2fd3aec8b3abc697e930164781df66" label="Mixed Materials [31142062718419]" type="Box">4</container>
+            <container id="aspace_44a469c5f752b20e8b2572e8cc1b2abe" parent="aspace_4a2fd3aec8b3abc697e930164781df66" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref128" level="file">
+          <did>
+            <unittitle>Draft of Convention Resolution: Freedom Now</unittitle>
+            <unitdate datechar="creation">1963</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1a08736dd0a0ce23bcd7f5646a3b40b1" label="Mixed Materials [31142062718427]" type="Box">5</container>
+            <container id="aspace_66b2b763c617a1074ff03671faec28bd" parent="aspace_1a08736dd0a0ce23bcd7f5646a3b40b1" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref129" level="file">
+          <did>
+            <unittitle>Draft Resolution on the Organizational Character of the SWP</unittitle>
+            <unitdate datechar="creation">1963</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_980aa211f9bb4b9efaebc90c20388442" label="Mixed Materials [31142062718427]" type="Box">5</container>
+            <container id="aspace_449d5eb2a7ad0d9ba074f7626abc158b" parent="aspace_980aa211f9bb4b9efaebc90c20388442" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref130" level="file">
+          <did>
+            <unittitle>Suspension of Robertson-Mage-White Minority Tendency: statements and correspondence</unittitle>
+            <unitdate datechar="creation">1963</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8c87e7d8cfc4f6c298a77dad0b92b1b4" label="Mixed Materials [31142062718427]" type="Box">5</container>
+            <container id="aspace_26d0f29bdb58947db1ed7ae4d8121875" parent="aspace_8c87e7d8cfc4f6c298a77dad0b92b1b4" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref131" level="file">
+          <did>
+            <unittitle>Statement of the Reorganized Minority Tendency: The Decline of American Imperialism and the Tasks of the SWP</unittitle>
+            <unitdate datechar="creation">1963</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b9dad8e71d98edcbd7cd9d5e4acb6382" label="Mixed Materials [31142062718427]" type="Box">5</container>
+            <container id="aspace_14044054d7c02d486b217bbc9cdabce6" parent="aspace_b9dad8e71d98edcbd7cd9d5e4acb6382" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref132" level="file">
+          <did>
+            <unittitle>Draft Resolution: Preparing for the Next Wave of Radicalism in the United States</unittitle>
+            <unitdate datechar="creation">1963</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_83b3960735e01369eda1a801ff9e0927" label="Mixed Materials [31142062718427]" type="Box">5</container>
+            <container id="aspace_7bfae649b831cd3171cf991e4406c6d2" parent="aspace_83b3960735e01369eda1a801ff9e0927" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref133" level="file">
+          <did>
+            <unittitle>Draft Resolution: The SWP Position on China (May); The SWP Position on China with Wohlforth amendment (June)</unittitle>
+            <unitdate datechar="creation">1963</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8fe9537c5c2445fc90c1d2fedd2e3e85" label="Mixed Materials [31142062718427]" type="Box">5</container>
+            <container id="aspace_af45745e4c1e7a84efa3d524b026856d" parent="aspace_8fe9537c5c2445fc90c1d2fedd2e3e85" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref134" level="file">
+          <did>
+            <unittitle>Draft Resolution: The Sino-Soviet Dispute; Marxist Policy in the Sino-Soviet Dispute</unittitle>
+            <unitdate datechar="creation">1963</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_098712b2871a4e8b414c7572a5ca8bf8" label="Mixed Materials [31142062718427]" type="Box">5</container>
+            <container id="aspace_4ffd6560fde01c9445141a4948e472fd" parent="aspace_098712b2871a4e8b414c7572a5ca8bf8" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref135" level="file">
+          <did>
+            <unittitle>Internal Documents</unittitle>
+            <unitdate datechar="creation">1964</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_37a1afd290b282a1b5054d2646cf74c0" label="Mixed Materials [31142062718427]" type="Box">5</container>
+            <container id="aspace_cc1610443cad4fa1bb214988579b424c" parent="aspace_37a1afd290b282a1b5054d2646cf74c0" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref136" level="file">
+          <did>
+            <unittitle>Political Committee Minutes</unittitle>
+            <unitdate datechar="creation">1964</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_defe75c7f0c7bc4e8e25a82e9894c287" label="Mixed Materials [31142062718427]" type="Box">5</container>
+            <container id="aspace_abf855b25952f9fad0f7f7925dfe3b6a" parent="aspace_defe75c7f0c7bc4e8e25a82e9894c287" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref137" level="file">
+          <did>
+            <unittitle>National Executive Committee Minutes</unittitle>
+            <unitdate datechar="creation">1964</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e914502898029976177c13746cc5ce26" label="Mixed Materials [31142062718427]" type="Box">5</container>
+            <container id="aspace_e38a97936017356af67395abd2d06697" parent="aspace_e914502898029976177c13746cc5ce26" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref138" level="file">
+          <did>
+            <unittitle>21st National Convention Minutes</unittitle>
+            <unitdate datechar="creation">1965</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_99b77158b073851d6cc9f4edc6820d01" label="Mixed Materials [31142062718427]" type="Box">5</container>
+            <container id="aspace_1b74005d43ab2562724520286d1245d7" parent="aspace_99b77158b073851d6cc9f4edc6820d01" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref139" level="file">
+          <did>
+            <unittitle>Internal Documents</unittitle>
+            <unitdate datechar="creation">1966</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_02f3710ea4a489e652d38be59799daa0" label="Mixed Materials [31142062718427]" type="Box">5</container>
+            <container id="aspace_031e1f9cbe7ace4bf47679556b2184cd" parent="aspace_02f3710ea4a489e652d38be59799daa0" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref140" level="file">
+          <did>
+            <unittitle>Internal Documents</unittitle>
+            <unitdate datechar="creation">circa 1967</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ab6d237318f6a452965ee45e92ae68cb" label="Mixed Materials [31142062718427]" type="Box">5</container>
+            <container id="aspace_9db2880f10ec2ce665fe9320fa8627f0" parent="aspace_ab6d237318f6a452965ee45e92ae68cb" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref141" level="file">
+          <did>
+            <unittitle>Hildegarde Swabeck: resignation letter</unittitle>
+            <unitdate datechar="creation">circa 1967</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ea7b5f4b2ec0bcb59485502c443e6dbe" label="Mixed Materials [31142062718427]" type="Box">5</container>
+            <container id="aspace_94151652040a67913c95376b9b81d671" parent="aspace_ea7b5f4b2ec0bcb59485502c443e6dbe" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref142" level="file">
+          <did>
+            <unittitle>Internal Documents</unittitle>
+            <unitdate datechar="creation">1982-1983</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c69925b37d55f602b69e9bdcd17fa465" label="Mixed Materials [31142062718427]" type="Box">5</container>
+            <container id="aspace_fc7b38b105fbf9973d4298a529d3a78f" parent="aspace_c69925b37d55f602b69e9bdcd17fa465" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref143" level="file">
+          <did>
+            <unittitle>Internal Documents</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_def7788c81f46774e12f8deffaaadddb" label="Mixed Materials [31142062718427]" type="Box">5</container>
+            <container id="aspace_54895925397dc5eab39304992c1684f5" parent="aspace_def7788c81f46774e12f8deffaaadddb" type="Folder">16</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref144" level="series">
+        <did>
+          <unittitle>Series IV: Committee for a Revolutionary Socialist Party (CRSP)</unittitle>
+          <unitid>4</unitid>
+          <unitdate datechar="creation">1978-1981</unitdate>
+        </did>
+        <scopecontent id="aspace_470b060da6349b07c47eefbcfacefb0d">
+          <head>Scope and Content Note</head>
+          <p>This series documents Tanner Weiss's involvement with and the activities of the Committee for a Revolutionary Socialist Party (CRSP) in 1978-1981. It consists of meeting minutes, articles, circulars, and conference proceedings. CRSP was dedicated to reinstituting American Trotskyism.</p>
+        </scopecontent>
+        <arrangement id="aspace_7332ae7287a14928a81876b7ba1e3ab4">
+          <head>Arrangement</head>
+          <p>Arranged chronologically.</p>
+        </arrangement>
+        <c id="aspace_ref145" level="file">
+          <did>
+            <unittitle>Internal Documents</unittitle>
+            <unitdate datechar="creation">1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8926eb5566f7b712473aa3446185152f" label="Mixed Materials [31142062718427]" type="Box">5</container>
+            <container id="aspace_5e8bd98d45a7011926ee58657c679cfd" parent="aspace_8926eb5566f7b712473aa3446185152f" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref146" level="file">
+          <did>
+            <unittitle>Internal Documents</unittitle>
+            <unitdate datechar="creation">1979</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b149c3053edb5488799737b77cc8b446" label="Mixed Materials [31142062718427]" type="Box">5</container>
+            <container id="aspace_6d562a1cc2a6e55a1cb3cbc6fd37859e" parent="aspace_b149c3053edb5488799737b77cc8b446" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref147" level="file">
+          <did>
+            <unittitle>Internal Documents</unittitle>
+            <unitdate datechar="creation">1980-1981</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_65e8f94c2ae15ea77b8102db7ece2efb" label="Mixed Materials [31142062718427]" type="Box">5</container>
+            <container id="aspace_7f1c392e586a149b1aba108e3f587c12" parent="aspace_65e8f94c2ae15ea77b8102db7ece2efb" type="Folder">19</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref148" level="series">
+        <did>
+          <unittitle>Series V: Speeches and Writings</unittitle>
+          <unitid>5</unitid>
+          <unitdate datechar="creation">undated, 1955-1978</unitdate>
+        </did>
+        <scopecontent id="aspace_65ad8a0fa8590f7c3e80f7bd522274d9">
+          <head>Scope and Content Note</head>
+          <p>This series contains speeches and other writings by Murry Weiss and Myra Tanner Weiss. Murry's speeches are related to radical political upheaval in the 1950s-1970s and often include handwritten notes. Myra's speech is related to living under FBI surveillance.</p>
+        </scopecontent>
+        <arrangement id="aspace_937976e2f4f78d43e5da0c57de623aa3">
+          <head>Arrangement</head>
+          <p>Arranged alphabetically.</p>
+        </arrangement>
+        <c id="aspace_ref149" level="file">
+          <did>
+            <unittitle>Murry Weiss</unittitle>
+            <unitdate datechar="creation">1955-1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9ccd7c5bcd2c0e5a79dd1874f8b85a9e" label="Mixed Materials [31142062718427]" type="Box">5</container>
+            <container id="aspace_c6e68c1ec0233126e292cb94bfa27f0a" parent="aspace_9ccd7c5bcd2c0e5a79dd1874f8b85a9e" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref150" level="file">
+          <did>
+            <unittitle>Myra Tanner Weiss</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_62150735130fe84f76bc53e0637d66ff" label="Mixed Materials [31142062718427]" type="Box">5</container>
+            <container id="aspace_21afce0509399886fec03e1b399636cc" parent="aspace_62150735130fe84f76bc53e0637d66ff" type="Folder">21</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

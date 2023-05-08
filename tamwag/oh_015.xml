@@ -1,65 +1,534 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/oh_015">oh_015</eadid><filedesc><titlestmt><titleproper>Guide to the Camp Midvale / Nature Friends of America Oral History Collection  <num>OH.015</num></titleproper><author>David Olson</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>Feb 2, 1994</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-12-12 19:35:01 -0500</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Camp Midvale/Nature Friends of America Oral History Collection</unittitle>
-    <origination label="Creator">
-      <persname rules="dacs" source="local">Lanset, Andy</persname>
-    </origination>
-    <unitid>OH.015</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">2.25 Linear Feet</extent>
-      <extent altrender="carrier">In 1 manuscript box, 1 compact disk box, 3 card catalog drawers.</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1987/1988" type="inclusive">1987-1988</unitdate>
-    <abstract id="aspace_591d4d3f37e9434d554892ab131afb6a" label="Abstract">Camp Midvale, located near Ringwood, New Jersey, was purchased by the Nature Friends of America in 1930. The U.S. branch of this organization was founded by German-American socialists and trade unionists in 1910 to provide workers with outdoor recreational opportunities. Interviewees describe life at the camp, hiking and other activities, the immigrant experience, and political activities. The collection's thirty-five interviews were conducted by Andy Lanset and were used to create the radio documentary "Camp Midvale: An Oral History," which is also included in the collection. Indexes are available for many interviews.</abstract>
-    <langmaterial id="aspace_46070c3efcb4a6a1482cc2bda153173f">Materials are in English</langmaterial>
-  </did>
-  <userestrict id="aspace_cf1589ed1e177727b8825575cc845e7d">
-    <head>Use Restrictions</head>
-<p>Copyright held by Tamiment Library and Robert F. Wagner Labor Archives<lb/><lb/></p><p>Permission to publish materials must be obtained in writing from the: <lb/>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/oh_015">oh_015</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Camp Midvale / Nature Friends of America Oral History Collection  <num>OH.015</num></titleproper>
+        <author>David Olson</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>Feb 2, 1994</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-12-12 19:35:01 -0500</date>.</creation>
+      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Camp Midvale/Nature Friends of America Oral History Collection</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Lanset, Andy</persname>
+      </origination>
+      <unitid>OH.015</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.25 Linear Feet</extent>
+        <extent altrender="carrier">In 1 manuscript box, 1 compact disk box, 3 card catalog drawers.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1987/1988" type="inclusive">1987-1988</unitdate>
+      <abstract id="aspace_591d4d3f37e9434d554892ab131afb6a" label="Abstract">Camp Midvale, located near Ringwood, New Jersey, was purchased by the Nature Friends of America in 1930. The U.S. branch of this organization was founded by German-American socialists and trade unionists in 1910 to provide workers with outdoor recreational opportunities. Interviewees describe life at the camp, hiking and other activities, the immigrant experience, and political activities. The collection's thirty-five interviews were conducted by Andy Lanset and were used to create the radio documentary "Camp Midvale: An Oral History," which is also included in the collection. Indexes are available for many interviews.</abstract>
+      <langmaterial id="aspace_46070c3efcb4a6a1482cc2bda153173f">Materials are in English</langmaterial>
+    </did>
+    <userestrict id="aspace_cf1589ed1e177727b8825575cc845e7d">
+      <head>Use Restrictions</head>
+      <p>Copyright held by Tamiment Library and Robert F. Wagner Labor Archives<lb/><lb/></p>
+      <p>Permission to publish materials must be obtained in writing from the: <lb/>
 Tamiment Library/Robert F. Wagner Labor Archives <lb/>
 Elmer Holmes Bobst Library <lb/>
 70 Washington Square South <lb/>
 New York, NY 10012 <lb/>
 Phone: (212) 998-2630 <lb/>
 Fax: (212) 995-4225 <lb/>
-E-mail: tamiment.wagner@nyu.edu <lb/></p>  </userestrict>
-  <accessrestrict id="aspace_5bb13e7a6d07c376ef6aa7f82cba6682">
-    <head>Access Restrictions</head>
-<p>Content open to users without restriction. Entire collection has been digitized. Researchers must use access compact disks.</p>  </accessrestrict>
-  <bioghist id="aspace_76f7ca101ee86beb0de061598f5bdb82">
-    <head>Historical/Biographical Note</head>
-<p>Camp Midvale, located in Ringwood, New Jersey, was one of 400 camps worldwide established by the Nature Friends, whose U.S. branch had been founded in 1910 by German-American socialists and trade unionists. The organization's goals were to preserve wildlife and to provide workers with affordable outdoor recreation. Camp Midvale's 150 acres, with a clubhouse and hiking trails, was purchased in 1930 and served as a hub for Nature Friends' activities on the East Coast.</p><p>Nature Friends offered a political perspective, combining ecological "nature love" with progressive sympathies. "Fascist convictions" were outlawed in their by-laws. Hikers raised funds for such causes as the Scottsboro Boys, the Abraham Lincoln Brigade, the Committee for the Protection of the Foreign Born, the Committee to Release the Rosenbergs, and the civil rights movement. Placed on the Attorney General's list of subversive organizations in 1947, Nature Friends saw its members severely harassed. Camp Midvale was given to the Ethical Culture Society in 1968 in hope that it would be preserved as an ecological retreat.</p><p>Camp Midvale, located in Ringwood, New Jersey, was one of 400 camps worldwide established by the Nature Friends whose U.S. branch had been founded in 1910 by German-American socialists and trade unionists. The organization's goals were to preserve wildlife and to provide workers with affordable outdoor recreation. Camp Midvale's 150 acres, with a clubhouse and hiking trails, was purchased in 1930 and served as a hub for Nature Friends' activities on the East Coast.</p><p>Nature Friends offered a political perspective, combining ecological "nature love" with progressive sympathies. "Fascist convictions" were outlawed in their by-laws. Hikers raised funds for such causes as the "Scottsboro Boys", the Abraham Lincoln Brigade, the Committee for the Protection of the Foreign Born, the Committee to Release the Rosenbergs, and the civil rights movement. Placed on the Attorney General's list of "subversive organizations" in 1947, Nature Friends saw its members severely harassed. Camp Midvale was given to the Ethical Culture Society in 1968 in hope that it would be preserved as an ecological retreat.</p>  </bioghist>
-  <arrangement id="aspace_73368b5fca0b242171f4c4d1a8428375">
-    <head>Arrangement</head>
-<p>Collection arranged alphabetically by interviewee surname.</p>  </arrangement>
-  <scopecontent id="aspace_fa6716aae53f5a18017c58ed2a3786e5">
-    <head>Scope and Contents note</head>
-<p>Oral history interviews conducted by Andy Lanset, freelance radio producer and oral historian, with funding from the New Jersey Historical Commission in 1987 and 1988. Interviews document the scope of Nature Friends' activities. The resulting one hour documentary program was broadcast on WBAI, WFMU, WFUV in 1988, entitiled "Camp Midvale: An Oral History", which is also included. All interviews are open for research and many have indexes.</p>  </scopecontent>
-  <acqinfo id="aspace_04dc10440ae87d49b780384c9753f39f">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Andy Lanset.</p>  </acqinfo>
-  <processinfo id="aspace_de58ce52cbf6605403c30489cc03cd7f">
-    <head>Processing information</head>
-<p>Interviews originally recorded on cassette. Entire collection digitzed in 2011-2012 to create digital preservation masters and access compact disks.</p>  </processinfo>
-  <prefercite id="aspace_6b12298c2165f9abb778c3bb44524197">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Camp Midvale/Nature Friends of America Oral History Collection; OH015; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <relatedmaterial id="aspace_2fdd5dd28154c7ed43ff4941a0174369">
-    <head>Related Archival Materials</head>
-<p>Another collection, Camp Midvale/Nature Friends of America: FOIA Files (TAM.089), contains documents of FBI investigations into the activities of the camp, Nature Friends Incorporated, The Labor Lyceum and other related organizations, obtained through a Freedom of Information Act request.</p>  </relatedmaterial>
-  <controlaccess>
-    <subject source="lcsh">Ecology movement |z United States</subject>
-    <subject source="lcsh">Working class |x Recreation |z United States</subject>
-    <subject source="lcsh">Radicalism -- United States.</subject>
-    <subject source="lcsh">Camps |z New Jersey.</subject>
-    <subject source="lcsh">Socialism -- United States.</subject>
-    <subject source="lcsh">Socialism and youth -- United States.</subject>
-    <corpname source="local">Camp Midvale (Ringwood, N.J.)</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_ref25" level="file"><did><unittitle><emph render="italic">Camp Midvale: An Oral History </emph>radio program</unittitle><unitdate datechar="creation" normal="1988/1988" type="inclusive">Oct 3, 1988</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_403e7733cafcb7a739c3d2a0e9b669d3" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_31aade1ded6838cc7fa3a161fed1b896" parent="aspace_403e7733cafcb7a739c3d2a0e9b669d3" type="Cassette">1A-1B</container><container altrender="Card Box - 6.5 - long" id="aspace_1121273bb785221a8151fb8cdd3562e0" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_017786f0175f8e89a5907575b5bd743a" parent="aspace_1121273bb785221a8151fb8cdd3562e0" type="CD">Camp Midavle: An Oral History 1-2</container></did></c><c id="aspace_ref2" level="file"><did><unittitle>Theresa &amp; Irwin Adametz</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Jun 20, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_cb4714dbeb17c53ed061a904fa40f10c" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_32fa9a9ab168180537788722d2aeb1a9" parent="aspace_cb4714dbeb17c53ed061a904fa40f10c" type="Cassette">2A</container><container altrender="Manuscript box - Legal - Half" id="aspace_5931a5cd2b62b19221d815c1e05b3ffc" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_516c6038250584106ebba133e3e9c0a0" parent="aspace_5931a5cd2b62b19221d815c1e05b3ffc" type="Folder">1</container><container altrender="Card Box - 6.5 - long" id="aspace_162fa6c32f20cacf19400f65e2e89547" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_654d7cca1b1f7bec8dd2b57a7fea13f2" parent="aspace_162fa6c32f20cacf19400f65e2e89547" type="CD">Adametz 1</container></did></c><c id="aspace_ref3" level="file"><did><unittitle>Norma Allen</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Dec 11, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_1cdf89f42c66e7ef6a0da47bcacaf150" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_1826268a9bc6b2f649f83760c7b4eafe" parent="aspace_1cdf89f42c66e7ef6a0da47bcacaf150" type="Cassette">3A</container><container altrender="Manuscript box - Legal - Half" id="aspace_6d7a794ac094d760ca758e28eb4e217a" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_a59372f8213f5d514829fb0cfb59a6f7" parent="aspace_6d7a794ac094d760ca758e28eb4e217a" type="Folder">2</container><container altrender="Card Box - 6.5 - long" id="aspace_bbe43743e0c64543e4f361717e95e1b2" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_0b80d1fc4dea0aeb2c98ab3039069058" parent="aspace_bbe43743e0c64543e4f361717e95e1b2" type="CD">Allen 1</container></did></c><c id="aspace_ref4" level="file"><did><unittitle>Bertha Bloksberg</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Aug 4, 1987</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_cb98f8d8c8e826193a354ff4b33c675b" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_fd9005a57a643c79edc7b208ea6df7ee" parent="aspace_cb98f8d8c8e826193a354ff4b33c675b" type="Folder">3</container><container altrender="Card Box - 6.5 - long" id="aspace_2a74773acdd91787640fe45fe2de2dea" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_94245c2f0ad3abc2cb4969d62ddd6c89" parent="aspace_2a74773acdd91787640fe45fe2de2dea" type="CD">Bloksberg 1-2</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_211090a9607624b866f79537fd825b1a" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_3dc69599fa256037fb4a56d2315abe33" parent="aspace_211090a9607624b866f79537fd825b1a" type="Cassette">4A</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>Esther &amp; Fred Buchthal</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Oct 11, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_540851eeffc723559d49a6f9b937f16a" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_c6d77cc78c6529e392438752666c5372" parent="aspace_540851eeffc723559d49a6f9b937f16a" type="Cassette">5A</container><container altrender="Card Box - 6.5 - long" id="aspace_f24b4e903e9783a40dcc43fb31e9b394" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_681f6157b2b7385bd383db9deb037e1b" parent="aspace_f24b4e903e9783a40dcc43fb31e9b394" type="CD">Buchtal 1</container><container altrender="Manuscript box - Legal - Half" id="aspace_7c60519bbd7792edaf9655ef8055c474" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_523e013840e6ee429b1a55c03ae8f212" parent="aspace_7c60519bbd7792edaf9655ef8055c474" type="Folder">4</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>August Danielsson</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Aug 15, 1987</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_20aa397c0366ce745b0515ca0f9f6929" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_43ed89421ce473574b3558ac6b9ea386" parent="aspace_20aa397c0366ce745b0515ca0f9f6929" type="Folder">5</container><container altrender="Card Box - 6.5 - long" id="aspace_fd9ffe3b732cedc62958624eb15da183" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_ebd6b5bcf88ec32589b98b03b3949949" parent="aspace_fd9ffe3b732cedc62958624eb15da183" type="CD">A. Danielsson 1</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_49510b9f078b3a2c5eed59bec7db19f6" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_5cbae01ebbee8a736defca48b19943ed" parent="aspace_49510b9f078b3a2c5eed59bec7db19f6" type="Cassette">6A</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Claire Danielsson</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Aug 15, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_9a5554dde6201b21b01dbabe87a0b128" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_586eefd881af662159f20c97b8ede2ac" parent="aspace_9a5554dde6201b21b01dbabe87a0b128" type="Cassette">7A</container><container altrender="Card Box - 6.5 - long" id="aspace_31077cd08e04621c86ec1cd6f02ee891" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_c735fe84d03db7a8b57819dcaa9242b3" parent="aspace_31077cd08e04621c86ec1cd6f02ee891" type="CD">C. Danielsson 1</container><container altrender="Manuscript box - Legal - Half" id="aspace_da6b696d946c610a888783a480a650eb" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_d30a8a2ad7b0b577ef3bcb62fca715ac" parent="aspace_da6b696d946c610a888783a480a650eb" type="Folder">6</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Hanni Duffy</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Nov 15, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_7020a85deee60b26573da7e97e4ecefd" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_aa51f7bd974d7d1e05323e4c538eae35" parent="aspace_7020a85deee60b26573da7e97e4ecefd" type="Cassette">8A</container><container altrender="Card Box - 6.5 - long" id="aspace_bbd967cf5c2eaa4750f3c0c87396f492" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_de37de06180eef169940db311b637b91" parent="aspace_bbd967cf5c2eaa4750f3c0c87396f492" type="CD">Duffy 1</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Robert &amp; Kornelia Ehrlich</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Jun 6, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_4b7b4eb34186fffcb007e1ea88ad58bb" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_cb8a86b4b0b3f5dee8ecc392eb200fab" parent="aspace_4b7b4eb34186fffcb007e1ea88ad58bb" type="Cassette">9A</container><container altrender="Card Box - 6.5 - long" id="aspace_cb4bac92c0f5d14714d4f0ce93f7ea2e" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_a919f710c93630a8bec025bf5a556809" parent="aspace_cb4bac92c0f5d14714d4f0ce93f7ea2e" type="CD">R. &amp; K. Erlich 1-2</container><container altrender="Manuscript box - Legal - Half" id="aspace_3e5410dd826bc0d643375fab81a8517c" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_4a4a81c72b606a9a5c36a37ba68b7bf2" parent="aspace_3e5410dd826bc0d643375fab81a8517c" type="Folder">7</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Saul Ehrlich</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Nov 8, 1987</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_7cfcc6c76ca5c485ef739611234ad14c" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_259422c0c163a91841b082ee563f35f7" parent="aspace_7cfcc6c76ca5c485ef739611234ad14c" type="Folder">8</container><container altrender="Card Box - 6.5 - long" id="aspace_bb0cf4b750a35c1d1c570f8d93ee973e" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_87f094ae9ed167d18fc8c48b23bc83ec" parent="aspace_bb0cf4b750a35c1d1c570f8d93ee973e" type="CD">S. Erlich 1</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_f83d092b7281c21820e57e8e62ca719e" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_19320e2bc97d463e1a5efa236006b1a4" parent="aspace_f83d092b7281c21820e57e8e62ca719e" type="Cassette">10A</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Max &amp; Estelle Halle</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Dec 30, 1987</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_5b8c5bdc7605e0fe57a9e5ef51e7c73e" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_11a8e81aeae46388a92d8cb99d658298" parent="aspace_5b8c5bdc7605e0fe57a9e5ef51e7c73e" type="Folder">9</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_ee7fa59ac684db0dca6342743b6090d0" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_f63296ecf7570a14256a0d943af2d894" parent="aspace_ee7fa59ac684db0dca6342743b6090d0" type="Cassette">11A</container><container altrender="Card Box - 6.5 - long" id="aspace_cd6b42b267383439f24d6c558f041b61" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_77c574b89c6ea52f74ea9d012086b829" parent="aspace_cd6b42b267383439f24d6c558f041b61" type="CD">Halle 1</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Al &amp; Judy Hodges</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Aug 7, 1987</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_019280dbaa2602a6f25ccef405190990" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_af9f1d72dac8151da76ebbff9c56e491" parent="aspace_019280dbaa2602a6f25ccef405190990" type="Folder">10</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_3fde010976a120989ee8fea41ed215ad" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_61b562a2e0f6b57b664ccfe24b5731ec" parent="aspace_3fde010976a120989ee8fea41ed215ad" type="Cassette">12A</container><container altrender="Card Box - 6.5 - long" id="aspace_8eb1450f4c1929cdb2090c32bc55cb4d" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_684cb19ec202512e3cb33455dcb35da9" parent="aspace_8eb1450f4c1929cdb2090c32bc55cb4d" type="CD">Hodges 1</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Werner Jurow</unittitle><unitdate datechar="creation" normal="1988/1988" type="inclusive">May 12, 1988</unitdate><container altrender="Card Box - 6.5 - long" id="aspace_8293fa0542ecfcee3e9b26691d5cc9a6" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_aa966d29c630850df1384c5c6ece5c94" parent="aspace_8293fa0542ecfcee3e9b26691d5cc9a6" type="CD">Jurow 1-2</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_1b9801925a435cfb4482c6b108ebd892" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_0f4ca54ef36b47fd6a37d0f76213566e" parent="aspace_1b9801925a435cfb4482c6b108ebd892" type="Cassette">13A-13B</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Otto &amp; Lillian Karsch</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Dec 10, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_38980dc631f414eb979e8aedb13ec423" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_d6ab8883e49d38e70783d9661614ab0f" parent="aspace_38980dc631f414eb979e8aedb13ec423" type="Cassette">14A-14B</container><container altrender="Card Box - 6.5 - long" id="aspace_4ed88616156ce42c82c388d80a390d69" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_9368dc9bfeb1e70b87cdb4402a2054c5" parent="aspace_4ed88616156ce42c82c388d80a390d69" type="CD">Karsch 1-3</container><container altrender="Manuscript box - Legal - Half" id="aspace_32fdd966fc4b6b9cceb283c437eee437" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_d5cc5c3831186315edcd291b3f1cdd37" parent="aspace_32fdd966fc4b6b9cceb283c437eee437" type="Folder">11</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Carl Kirschner</unittitle><unitdate datechar="creation" normal="1988/1988" type="inclusive">Jan 21, 1988</unitdate><container altrender="Card Box - 6.5 - long" id="aspace_44958a365bdfd7b85f53f6b9eaab0131" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_cbcb4fd145100e6fde82a2708e662daf" parent="aspace_44958a365bdfd7b85f53f6b9eaab0131" type="CD">C. Kirschner 1</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_9e7f2bee7ad0fe4d60884729b1b721f7" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_57ae29243f4da6e3ddf67981442b035a" parent="aspace_9e7f2bee7ad0fe4d60884729b1b721f7" type="Cassette">15A</container><container altrender="Manuscript box - Legal - Half" id="aspace_c7de22e01336454726acecaa18fdcd12" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_753e45ab7024e5badfcf095a59db7d63" parent="aspace_c7de22e01336454726acecaa18fdcd12" type="Folder">12</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Ethyl Kirschner</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Dec 19, 1987</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_88467e3c0b811d3b3680ee5131545d21" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_696d37f36c504e2aaceae7e93660770e" parent="aspace_88467e3c0b811d3b3680ee5131545d21" type="Folder">13</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_f83ebc56b1423a4bab85495d7810b24a" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_90de24582d9d2180259376e7f0c0033e" parent="aspace_f83ebc56b1423a4bab85495d7810b24a" type="Cassette">16A</container><container altrender="Card Box - 6.5 - long" id="aspace_93316ad834c6894471b27df917b6dd5c" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_8612e300011ad81b3d53fea07ac70052" parent="aspace_93316ad834c6894471b27df917b6dd5c" type="CD">E. Kirschner 1-2</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>George Kirschner</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Nov 7, 1987</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_2ef4346edf70f7be0c934e93d5bc1456" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_7abd6d22fbbee572b78bde523f6816d6" parent="aspace_2ef4346edf70f7be0c934e93d5bc1456" type="Folder">14</container><container altrender="Card Box - 6.5 - long" id="aspace_50fd7caef93b41532bb4f28eae58e2b5" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_bb9b1a8a9d70c4246cb39db31f814210" parent="aspace_50fd7caef93b41532bb4f28eae58e2b5" type="CD">G. Kirschner 1-3</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_9a9cfb8f16396c641bf760c9de83412e" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_91a985ff8d5983efe6f515c003647ccd" parent="aspace_9a9cfb8f16396c641bf760c9de83412e" type="Cassette">17A-17B</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Leon Kuhl</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Aug 29, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_7374ee18052e6cdf87795caf70bc0b8e" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_6fe60904c3473a98a064d454f39e6d77" parent="aspace_7374ee18052e6cdf87795caf70bc0b8e" type="Cassette">18A</container><container altrender="Card Box - 6.5 - long" id="aspace_bcd9c54228638b4160f6991f3143e9ea" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_c3a0a3bf953c7ad45e00f4afbd765364" parent="aspace_bcd9c54228638b4160f6991f3143e9ea" type="CD">Kuhl 1-2</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Meyer Kukle</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Jul 9, 1987</unitdate><container altrender="Card Box - 6.5 - long" id="aspace_4940325b31db492fbc5349641a27126c" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_fd8169ea374e41f60380e749e70959e9" parent="aspace_4940325b31db492fbc5349641a27126c" type="CD">Kukle 1-2</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_9c7f4d548413ae272c7552514290abae" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_419f7e6950b8cb4b29ec6e03e75dd71d" parent="aspace_9c7f4d548413ae272c7552514290abae" type="Cassette">19A</container><container altrender="Manuscript box - Legal - Half" id="aspace_e360718e0a2b93d2891ef2895594e4ed" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_e0b752e3da6210bebd2ec69ea18b8ccc" parent="aspace_e360718e0a2b93d2891ef2895594e4ed" type="Folder">15</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>George Levine</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Sep 17, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_fc1e02269e6326b63902a352fdbefe95" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_828747506dac627d623c19f7ba7a8378" parent="aspace_fc1e02269e6326b63902a352fdbefe95" type="Cassette">20A</container><container altrender="Card Box - 6.5 - long" id="aspace_cab473e0170740bca372364c4e5cb592" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_71db3ff314830beeec9799881337566d" parent="aspace_cab473e0170740bca372364c4e5cb592" type="CD">Levine 1</container><container altrender="Manuscript box - Legal - Half" id="aspace_44842d696ec1e27f5b43c427b0f6a653" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_b154e102666b36636a18565c8790de4a" parent="aspace_44842d696ec1e27f5b43c427b0f6a653" type="Folder">16</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Virginia Marson</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Jul 11, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_59118e9722c29db56264a9b7e824a3c9" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_b51c2956fbecb27b58e0ef8138f7c875" parent="aspace_59118e9722c29db56264a9b7e824a3c9" type="Cassette">21A</container><container altrender="Card Box - 6.5 - long" id="aspace_626af17e05e01f64f4d1307013e8334c" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_b9bc4c6a3993236978c9711a72300e58" parent="aspace_626af17e05e01f64f4d1307013e8334c" type="CD">Marson 1</container><container altrender="Manuscript box - Legal - Half" id="aspace_a7aae34829166e16a25b4c765fe89e13" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_f18debd1070f107aa03aa9838b220add" parent="aspace_a7aae34829166e16a25b4c765fe89e13" type="Folder">17</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Louis Merkel</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Jul 10, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_b0e0ee1299991189ebca69b709bb16e2" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_864a9a4a60da88135069dce1c200f64b" parent="aspace_b0e0ee1299991189ebca69b709bb16e2" type="Cassette">22A</container><container altrender="Card Box - 6.5 - long" id="aspace_77166ca1844c018dd499785378e80feb" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_74b57e852eda9a6c3765e05086e75310" parent="aspace_77166ca1844c018dd499785378e80feb" type="CD">Merkel 1</container><container altrender="Manuscript box - Legal - Half" id="aspace_441e8aee9ec7e2b0928314dbd1b8ca60" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_80679095558fd475413685fe6fd97869" parent="aspace_441e8aee9ec7e2b0928314dbd1b8ca60" type="Folder">18</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Benaldo Montenegro &amp; Rose</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Aug 29, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_b33d838cdca462a806d1d4e960c68386" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_54523d619c1babc586d71cd932332a44" parent="aspace_b33d838cdca462a806d1d4e960c68386" type="Cassette">23A-23B</container><container altrender="Card Box - 6.5 - long" id="aspace_4640b1c9153cd15e1519d2063eae50ba" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_26978f99928fee986eef0bf4d8ebcfe5" parent="aspace_4640b1c9153cd15e1519d2063eae50ba" type="CD">Montenegro 1-3</container><container altrender="Manuscript box - Legal - Half" id="aspace_0c989b9657b9f3da9dddba18e4d9ce30" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_ba8dc17ac9208dba70bee72fd81cba88" parent="aspace_0c989b9657b9f3da9dddba18e4d9ce30" type="Folder">19</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>George Nieswand</unittitle><unitdate datechar="creation" normal="1988/1988" type="inclusive">Jan 21, 1988</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_3f46ef845c8fe0b96dcf2e13200dfa56" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_4a6532585453d144df836a6be1148445" parent="aspace_3f46ef845c8fe0b96dcf2e13200dfa56" type="Folder">20</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_0db95dd26cab7a28e201cafbacfd9709" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_7836acf291840ca77c67f640c53ac1a7" parent="aspace_0db95dd26cab7a28e201cafbacfd9709" type="Cassette">24A</container><container altrender="Card Box - 6.5 - long" id="aspace_761b00600fa8cef38cf317d78882f981" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_b7ec558fb9430ea991c76ff317edf508" parent="aspace_761b00600fa8cef38cf317d78882f981" type="CD">Nieswand 1</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Elsa Powitz</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Jun 14, 1987</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_79af3bea0bd1e808548bcc9c1b6ecff7" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_dfb6a14a2cb7e5420a05a74f1b1feaa7" parent="aspace_79af3bea0bd1e808548bcc9c1b6ecff7" type="Folder">21</container><container altrender="Card Box - 6.5 - long" id="aspace_cf34c7c3212aa75e50a4b02bd47d2d7d" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_fbac6f0f25e891607b8cffba0c8bd9d1" parent="aspace_cf34c7c3212aa75e50a4b02bd47d2d7d" type="CD">Powitz 1</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_bcd37e5c350a5d47bf7c8a37b5041a61" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_2f56f6b0713e0b88075985847069cf20" parent="aspace_bcd37e5c350a5d47bf7c8a37b5041a61" type="Cassette">25A</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Harry Rabinowitz</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Aug 22, 1987</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_b902613a3f47b85c7815b3c5cac30b70" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_40c179d23c17ed154693855c27a00add" parent="aspace_b902613a3f47b85c7815b3c5cac30b70" type="Folder">22</container><container altrender="Card Box - 6.5 - long" id="aspace_0450dad9eaeedcb931e64223fec11f13" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_970b7fcf482bd1bd0e5c400a535f768b" parent="aspace_0450dad9eaeedcb931e64223fec11f13" type="CD">Rabinowitz 1-2</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_b40a6f05759f126a953a59a824ff27f5" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_1fa3fea261b8d06c397f5faaaf5b6d6c" parent="aspace_b40a6f05759f126a953a59a824ff27f5" type="Cassette">26A-26B</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Reinhard Richter</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Jun 19, 1987</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_3ffb20752dea89730cb7a5fa30ff2fb1" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_e11db25187ecd75b9e7fadf6352de731" parent="aspace_3ffb20752dea89730cb7a5fa30ff2fb1" type="Folder">23</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_9767a5a0f16f468018d8cc5195550d65" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_fe638e9c0286e2038e35e24f00b49019" parent="aspace_9767a5a0f16f468018d8cc5195550d65" type="Cassette">27A</container><container altrender="Card Box - 6.5 - long" id="aspace_f3a6418806aa38335611210252914835" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_9cb1f958ae71d111e0a27ce13ae96f13" parent="aspace_f3a6418806aa38335611210252914835" type="CD">Richter 1</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Fritz Schmucker</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_dcdc75cb44dd1ece70d5014b95f7fbf3" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_d3ca384105918822beecda1bc1736d2f" parent="aspace_dcdc75cb44dd1ece70d5014b95f7fbf3" type="Cassette">34B</container><container altrender="Card Box - 6.5 - long" id="aspace_1f8b7b1aa0bd18507dddda0c606e0987" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_d9c7ff3fdfb6e0be2dd7040274656302" parent="aspace_1f8b7b1aa0bd18507dddda0c606e0987" type="CD">Schmucker 1-2</container><container altrender="Manuscript box - Legal - Half" id="aspace_66e4e0f7e9817340d1c958f84dbb8059" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_6f0c82cfd1ea77a18e18c16141674be6" parent="aspace_66e4e0f7e9817340d1c958f84dbb8059" type="Folder">30</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Edith Segal</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Jun 23, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_7e2938c35e71f2947f8b90b4a14c4276" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_434aa797413a6a59c2d1f41af26cef87" parent="aspace_7e2938c35e71f2947f8b90b4a14c4276" type="Cassette">28A</container><container altrender="Manuscript box - Legal - Half" id="aspace_6961caf4d7969b0f03feb55608540613" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_a5360d41e9a7c002b0719fb73bbad793" parent="aspace_6961caf4d7969b0f03feb55608540613" type="Folder">24</container><container altrender="Card Box - 6.5 - long" id="aspace_87711a67b113e16d77198e98c8f6023e" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_12777a233d9838ce81a261a0e5440795" parent="aspace_87711a67b113e16d77198e98c8f6023e" type="CD">Segel 1-2</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Emanuel Sterne</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Jun 6, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_5be1a9a81faae3182bbbf10faa85186f" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_59fe6ac71d264ef846b3476d6a473a4e" parent="aspace_5be1a9a81faae3182bbbf10faa85186f" type="Cassette">29A</container><container altrender="Manuscript box - Legal - Half" id="aspace_ddad6e53b87b5968932fc6c7add20471" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_f542c05672af3ff3f820d73e2e3af4a4" parent="aspace_ddad6e53b87b5968932fc6c7add20471" type="Folder">25</container><container altrender="Card Box - 6.5 - long" id="aspace_7645d96c17c75b8b6cbbd615d93848e7" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_fac5f327870817c78126683d86c0785d" parent="aspace_7645d96c17c75b8b6cbbd615d93848e7" type="CD">Sterne 1</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Louis Sutherland</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Aug 20, 1987</unitdate><container altrender="Card Box - 6.5 - long" id="aspace_61d7a0e028c5583d3da74b5c9e0d45b5" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_ad6e093ad43384b3864cbaaaa2f1a803" parent="aspace_61d7a0e028c5583d3da74b5c9e0d45b5" type="CD">Sutherland 1</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_58efa5e0e7a9db9b6c4e1fe1ec2e835f" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_57451a873ab0edbad538590af7c0580e" parent="aspace_58efa5e0e7a9db9b6c4e1fe1ec2e835f" type="Cassette">30A</container><container altrender="Manuscript box - Legal - Half" id="aspace_17c1ee4c86ebb2543bcbb0303f6e265a" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_14b9eae3ef14fafc09f2c57359b6bb68" parent="aspace_17c1ee4c86ebb2543bcbb0303f6e265a" type="Folder">26</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Walter Tanzer</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Aug 25, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_89233e5cedca0fa110a57288d47b2428" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_720b83bb7e53ef03db39e8a93aa6f955" parent="aspace_89233e5cedca0fa110a57288d47b2428" type="Cassette">31A</container><container altrender="Card Box - 6.5 - long" id="aspace_33e0d36e246cb5d6cd5fba2854bef170" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_989a81b2a5bf1ac9d19bd84a9c1f4793" parent="aspace_33e0d36e246cb5d6cd5fba2854bef170" type="CD">Tanzer 1</container><container altrender="Manuscript box - Legal - Half" id="aspace_9010963c56042586d2bcd6f4f4db27c6" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_072ca7207a18e5663b24f489e210c956" parent="aspace_9010963c56042586d2bcd6f4f4db27c6" type="Folder">27</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Sonia Vieth</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Jul 11, 1987</unitdate><container altrender="Hollinger Cassette Box 9.5" id="aspace_4e5f305157c899746314f750aeb718c3" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_481dc8b376c89f241877ee5488b87efc" parent="aspace_4e5f305157c899746314f750aeb718c3" type="Cassette">32A</container><container altrender="Manuscript box - Legal - Half" id="aspace_b7aff6837f8060cc9453c43df5de3170" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_d3629ff6b57408988f96fc3699d6f7fc" parent="aspace_b7aff6837f8060cc9453c43df5de3170" type="Folder">28</container><container altrender="Card Box - 6.5 - long" id="aspace_7907372a24f8afd1d034be213251b422" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_3071723b9ca6ebc3d53229b8f18cd899" parent="aspace_7907372a24f8afd1d034be213251b422" type="CD">Vieth 1</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>William Voelkel</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Jun 27, 1987</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_13b79b443e747d016444df367e6bbb48" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_6789c0da1b2684ae59d9e7875f5244d3" parent="aspace_13b79b443e747d016444df367e6bbb48" type="Folder">29</container><container altrender="Card Box - 6.5 - long" id="aspace_78aab3a24a537cfb93b8aac950f8ce96" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_54e973cef383646ebad6208b62c7a558" parent="aspace_78aab3a24a537cfb93b8aac950f8ce96" type="CD">Voelkel 1</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_bd691c125b9cf22951833c263b7ae3e0" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_4c4ae9930b873977931ee3fd33c0989a" parent="aspace_bd691c125b9cf22951833c263b7ae3e0" type="Cassette">33A</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Hans Wittich</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Dec 28, 1987</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_4875d5d51b15868f5d9d134b6d9b6f3b" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_93416e1158e4dc9460fad0e5cddf2ed8" parent="aspace_4875d5d51b15868f5d9d134b6d9b6f3b" type="Folder">30</container><container altrender="Card Box - 6.5 - long" id="aspace_d58ab20d4cd61bb0a39432564b57a685" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_d2c2e3db37e80eb2f787a42663ac8c05" parent="aspace_d58ab20d4cd61bb0a39432564b57a685" type="CD">Wittich 1-5</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_04e3705701236e9cf122ee4d963143b0" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_09ad9b092bfd85c6f19496f550b8b9ef" parent="aspace_04e3705701236e9cf122ee4d963143b0" type="Cassette">34A-C</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Hans Wittich, Gerhardt Zwilling &amp; Henrietta Zwilling</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Dec 28, 1987</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Card Box - 6.5 - long" id="aspace_7bfd4cdac78ecb0c749da914a59f3b99" label="Audio [31142062759090]" type="Box">2</container><container id="aspace_dfdd35f7c9de51045e4b31eacead651f" parent="aspace_7bfd4cdac78ecb0c749da914a59f3b99" type="CD">Zwilling &amp; Wittich 1-3</container><container altrender="Hollinger Cassette Box 9.5" id="aspace_c86ecbcdd5f95b883bc112fb640b8510" label="Audio [31142054612430]" type="Box">3</container><container id="aspace_3ed1e7bc9b9e2d0d5005ef9e67ae7969" parent="aspace_c86ecbcdd5f95b883bc112fb640b8510" type="Cassette">35A-B</container><container altrender="Manuscript box - Legal - Half" id="aspace_6573ebfa3dcf8edda60d0acb45b21173" label="Mixed Materials [31142062671956]" type="Box">1</container><container id="aspace_656ad5816cda7919bdbd41f0c7815d03" parent="aspace_6573ebfa3dcf8edda60d0acb45b21173" type="Folder">31</container></did></c></dsc>
-</archdesc>
+E-mail: tamiment.wagner@nyu.edu <lb/></p>
+    </userestrict>
+    <accessrestrict id="aspace_5bb13e7a6d07c376ef6aa7f82cba6682">
+      <head>Access Restrictions</head>
+      <p>Content open to users without restriction. Entire collection has been digitized. Researchers must use access compact disks.</p>
+    </accessrestrict>
+    <bioghist id="aspace_76f7ca101ee86beb0de061598f5bdb82">
+      <head>Historical/Biographical Note</head>
+      <p>Camp Midvale, located in Ringwood, New Jersey, was one of 400 camps worldwide established by the Nature Friends, whose U.S. branch had been founded in 1910 by German-American socialists and trade unionists. The organization's goals were to preserve wildlife and to provide workers with affordable outdoor recreation. Camp Midvale's 150 acres, with a clubhouse and hiking trails, was purchased in 1930 and served as a hub for Nature Friends' activities on the East Coast.</p>
+      <p>Nature Friends offered a political perspective, combining ecological "nature love" with progressive sympathies. "Fascist convictions" were outlawed in their by-laws. Hikers raised funds for such causes as the Scottsboro Boys, the Abraham Lincoln Brigade, the Committee for the Protection of the Foreign Born, the Committee to Release the Rosenbergs, and the civil rights movement. Placed on the Attorney General's list of subversive organizations in 1947, Nature Friends saw its members severely harassed. Camp Midvale was given to the Ethical Culture Society in 1968 in hope that it would be preserved as an ecological retreat.</p>
+      <p>Camp Midvale, located in Ringwood, New Jersey, was one of 400 camps worldwide established by the Nature Friends whose U.S. branch had been founded in 1910 by German-American socialists and trade unionists. The organization's goals were to preserve wildlife and to provide workers with affordable outdoor recreation. Camp Midvale's 150 acres, with a clubhouse and hiking trails, was purchased in 1930 and served as a hub for Nature Friends' activities on the East Coast.</p>
+      <p>Nature Friends offered a political perspective, combining ecological "nature love" with progressive sympathies. "Fascist convictions" were outlawed in their by-laws. Hikers raised funds for such causes as the "Scottsboro Boys", the Abraham Lincoln Brigade, the Committee for the Protection of the Foreign Born, the Committee to Release the Rosenbergs, and the civil rights movement. Placed on the Attorney General's list of "subversive organizations" in 1947, Nature Friends saw its members severely harassed. Camp Midvale was given to the Ethical Culture Society in 1968 in hope that it would be preserved as an ecological retreat.</p>
+    </bioghist>
+    <arrangement id="aspace_73368b5fca0b242171f4c4d1a8428375">
+      <head>Arrangement</head>
+      <p>Collection arranged alphabetically by interviewee surname.</p>
+    </arrangement>
+    <scopecontent id="aspace_fa6716aae53f5a18017c58ed2a3786e5">
+      <head>Scope and Contents note</head>
+      <p>Oral history interviews conducted by Andy Lanset, freelance radio producer and oral historian, with funding from the New Jersey Historical Commission in 1987 and 1988. Interviews document the scope of Nature Friends' activities. The resulting one hour documentary program was broadcast on WBAI, WFMU, WFUV in 1988, entitiled "Camp Midvale: An Oral History", which is also included. All interviews are open for research and many have indexes.</p>
+    </scopecontent>
+    <acqinfo id="aspace_04dc10440ae87d49b780384c9753f39f">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Andy Lanset.</p>
+    </acqinfo>
+    <processinfo id="aspace_de58ce52cbf6605403c30489cc03cd7f">
+      <head>Processing information</head>
+      <p>Interviews originally recorded on cassette. Entire collection digitzed in 2011-2012 to create digital preservation masters and access compact disks.</p>
+    </processinfo>
+    <prefercite id="aspace_6b12298c2165f9abb778c3bb44524197">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Camp Midvale/Nature Friends of America Oral History Collection; OH015; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <relatedmaterial id="aspace_2fdd5dd28154c7ed43ff4941a0174369">
+      <head>Related Archival Materials</head>
+      <p>Another collection, Camp Midvale/Nature Friends of America: FOIA Files (TAM.089), contains documents of FBI investigations into the activities of the camp, Nature Friends Incorporated, The Labor Lyceum and other related organizations, obtained through a Freedom of Information Act request.</p>
+    </relatedmaterial>
+    <controlaccess>
+      <subject source="lcsh">Ecology movement |z United States</subject>
+      <subject source="lcsh">Working class |x Recreation |z United States</subject>
+      <subject source="lcsh">Radicalism -- United States.</subject>
+      <subject source="lcsh">Camps |z New Jersey.</subject>
+      <subject source="lcsh">Socialism -- United States.</subject>
+      <subject source="lcsh">Socialism and youth -- United States.</subject>
+      <corpname source="local">Camp Midvale (Ringwood, N.J.)</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref25" level="file">
+        <did>
+          <unittitle><emph render="italic">Camp Midvale: An Oral History </emph>radio program</unittitle>
+          <unitdate datechar="creation" normal="1988/1988" type="inclusive">Oct 3, 1988</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_403e7733cafcb7a739c3d2a0e9b669d3" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_31aade1ded6838cc7fa3a161fed1b896" parent="aspace_403e7733cafcb7a739c3d2a0e9b669d3" type="Cassette">1A-1B</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_1121273bb785221a8151fb8cdd3562e0" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_017786f0175f8e89a5907575b5bd743a" parent="aspace_1121273bb785221a8151fb8cdd3562e0" type="CD">Camp Midavle: An Oral History 1-2</container>
+        </did>
+      </c>
+      <c id="aspace_ref2" level="file">
+        <did>
+          <unittitle>Theresa &amp; Irwin Adametz</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Jun 20, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_cb4714dbeb17c53ed061a904fa40f10c" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_32fa9a9ab168180537788722d2aeb1a9" parent="aspace_cb4714dbeb17c53ed061a904fa40f10c" type="Cassette">2A</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_5931a5cd2b62b19221d815c1e05b3ffc" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_516c6038250584106ebba133e3e9c0a0" parent="aspace_5931a5cd2b62b19221d815c1e05b3ffc" type="Folder">1</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_162fa6c32f20cacf19400f65e2e89547" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_654d7cca1b1f7bec8dd2b57a7fea13f2" parent="aspace_162fa6c32f20cacf19400f65e2e89547" type="CD">Adametz 1</container>
+        </did>
+      </c>
+      <c id="aspace_ref3" level="file">
+        <did>
+          <unittitle>Norma Allen</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Dec 11, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_1cdf89f42c66e7ef6a0da47bcacaf150" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_1826268a9bc6b2f649f83760c7b4eafe" parent="aspace_1cdf89f42c66e7ef6a0da47bcacaf150" type="Cassette">3A</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_6d7a794ac094d760ca758e28eb4e217a" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_a59372f8213f5d514829fb0cfb59a6f7" parent="aspace_6d7a794ac094d760ca758e28eb4e217a" type="Folder">2</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_bbe43743e0c64543e4f361717e95e1b2" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_0b80d1fc4dea0aeb2c98ab3039069058" parent="aspace_bbe43743e0c64543e4f361717e95e1b2" type="CD">Allen 1</container>
+        </did>
+      </c>
+      <c id="aspace_ref4" level="file">
+        <did>
+          <unittitle>Bertha Bloksberg</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Aug 4, 1987</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_cb98f8d8c8e826193a354ff4b33c675b" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_fd9005a57a643c79edc7b208ea6df7ee" parent="aspace_cb98f8d8c8e826193a354ff4b33c675b" type="Folder">3</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_2a74773acdd91787640fe45fe2de2dea" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_94245c2f0ad3abc2cb4969d62ddd6c89" parent="aspace_2a74773acdd91787640fe45fe2de2dea" type="CD">Bloksberg 1-2</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_211090a9607624b866f79537fd825b1a" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_3dc69599fa256037fb4a56d2315abe33" parent="aspace_211090a9607624b866f79537fd825b1a" type="Cassette">4A</container>
+        </did>
+      </c>
+      <c id="aspace_ref5" level="file">
+        <did>
+          <unittitle>Esther &amp; Fred Buchthal</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Oct 11, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_540851eeffc723559d49a6f9b937f16a" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_c6d77cc78c6529e392438752666c5372" parent="aspace_540851eeffc723559d49a6f9b937f16a" type="Cassette">5A</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_f24b4e903e9783a40dcc43fb31e9b394" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_681f6157b2b7385bd383db9deb037e1b" parent="aspace_f24b4e903e9783a40dcc43fb31e9b394" type="CD">Buchtal 1</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_7c60519bbd7792edaf9655ef8055c474" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_523e013840e6ee429b1a55c03ae8f212" parent="aspace_7c60519bbd7792edaf9655ef8055c474" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref6" level="file">
+        <did>
+          <unittitle>August Danielsson</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Aug 15, 1987</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_20aa397c0366ce745b0515ca0f9f6929" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_43ed89421ce473574b3558ac6b9ea386" parent="aspace_20aa397c0366ce745b0515ca0f9f6929" type="Folder">5</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_fd9ffe3b732cedc62958624eb15da183" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_ebd6b5bcf88ec32589b98b03b3949949" parent="aspace_fd9ffe3b732cedc62958624eb15da183" type="CD">A. Danielsson 1</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_49510b9f078b3a2c5eed59bec7db19f6" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_5cbae01ebbee8a736defca48b19943ed" parent="aspace_49510b9f078b3a2c5eed59bec7db19f6" type="Cassette">6A</container>
+        </did>
+      </c>
+      <c id="aspace_ref7" level="file">
+        <did>
+          <unittitle>Claire Danielsson</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Aug 15, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_9a5554dde6201b21b01dbabe87a0b128" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_586eefd881af662159f20c97b8ede2ac" parent="aspace_9a5554dde6201b21b01dbabe87a0b128" type="Cassette">7A</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_31077cd08e04621c86ec1cd6f02ee891" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_c735fe84d03db7a8b57819dcaa9242b3" parent="aspace_31077cd08e04621c86ec1cd6f02ee891" type="CD">C. Danielsson 1</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_da6b696d946c610a888783a480a650eb" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_d30a8a2ad7b0b577ef3bcb62fca715ac" parent="aspace_da6b696d946c610a888783a480a650eb" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref8" level="file">
+        <did>
+          <unittitle>Hanni Duffy</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Nov 15, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_7020a85deee60b26573da7e97e4ecefd" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_aa51f7bd974d7d1e05323e4c538eae35" parent="aspace_7020a85deee60b26573da7e97e4ecefd" type="Cassette">8A</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_bbd967cf5c2eaa4750f3c0c87396f492" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_de37de06180eef169940db311b637b91" parent="aspace_bbd967cf5c2eaa4750f3c0c87396f492" type="CD">Duffy 1</container>
+        </did>
+      </c>
+      <c id="aspace_ref9" level="file">
+        <did>
+          <unittitle>Robert &amp; Kornelia Ehrlich</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Jun 6, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_4b7b4eb34186fffcb007e1ea88ad58bb" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_cb8a86b4b0b3f5dee8ecc392eb200fab" parent="aspace_4b7b4eb34186fffcb007e1ea88ad58bb" type="Cassette">9A</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_cb4bac92c0f5d14714d4f0ce93f7ea2e" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_a919f710c93630a8bec025bf5a556809" parent="aspace_cb4bac92c0f5d14714d4f0ce93f7ea2e" type="CD">R. &amp; K. Erlich 1-2</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_3e5410dd826bc0d643375fab81a8517c" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_4a4a81c72b606a9a5c36a37ba68b7bf2" parent="aspace_3e5410dd826bc0d643375fab81a8517c" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref10" level="file">
+        <did>
+          <unittitle>Saul Ehrlich</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Nov 8, 1987</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_7cfcc6c76ca5c485ef739611234ad14c" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_259422c0c163a91841b082ee563f35f7" parent="aspace_7cfcc6c76ca5c485ef739611234ad14c" type="Folder">8</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_bb0cf4b750a35c1d1c570f8d93ee973e" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_87f094ae9ed167d18fc8c48b23bc83ec" parent="aspace_bb0cf4b750a35c1d1c570f8d93ee973e" type="CD">S. Erlich 1</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_f83d092b7281c21820e57e8e62ca719e" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_19320e2bc97d463e1a5efa236006b1a4" parent="aspace_f83d092b7281c21820e57e8e62ca719e" type="Cassette">10A</container>
+        </did>
+      </c>
+      <c id="aspace_ref11" level="file">
+        <did>
+          <unittitle>Max &amp; Estelle Halle</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Dec 30, 1987</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_5b8c5bdc7605e0fe57a9e5ef51e7c73e" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_11a8e81aeae46388a92d8cb99d658298" parent="aspace_5b8c5bdc7605e0fe57a9e5ef51e7c73e" type="Folder">9</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_ee7fa59ac684db0dca6342743b6090d0" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_f63296ecf7570a14256a0d943af2d894" parent="aspace_ee7fa59ac684db0dca6342743b6090d0" type="Cassette">11A</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_cd6b42b267383439f24d6c558f041b61" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_77c574b89c6ea52f74ea9d012086b829" parent="aspace_cd6b42b267383439f24d6c558f041b61" type="CD">Halle 1</container>
+        </did>
+      </c>
+      <c id="aspace_ref12" level="file">
+        <did>
+          <unittitle>Al &amp; Judy Hodges</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Aug 7, 1987</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_019280dbaa2602a6f25ccef405190990" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_af9f1d72dac8151da76ebbff9c56e491" parent="aspace_019280dbaa2602a6f25ccef405190990" type="Folder">10</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_3fde010976a120989ee8fea41ed215ad" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_61b562a2e0f6b57b664ccfe24b5731ec" parent="aspace_3fde010976a120989ee8fea41ed215ad" type="Cassette">12A</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_8eb1450f4c1929cdb2090c32bc55cb4d" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_684cb19ec202512e3cb33455dcb35da9" parent="aspace_8eb1450f4c1929cdb2090c32bc55cb4d" type="CD">Hodges 1</container>
+        </did>
+      </c>
+      <c id="aspace_ref13" level="file">
+        <did>
+          <unittitle>Werner Jurow</unittitle>
+          <unitdate datechar="creation" normal="1988/1988" type="inclusive">May 12, 1988</unitdate>
+          <container altrender="Card Box - 6.5 - long" id="aspace_8293fa0542ecfcee3e9b26691d5cc9a6" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_aa966d29c630850df1384c5c6ece5c94" parent="aspace_8293fa0542ecfcee3e9b26691d5cc9a6" type="CD">Jurow 1-2</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_1b9801925a435cfb4482c6b108ebd892" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_0f4ca54ef36b47fd6a37d0f76213566e" parent="aspace_1b9801925a435cfb4482c6b108ebd892" type="Cassette">13A-13B</container>
+        </did>
+      </c>
+      <c id="aspace_ref14" level="file">
+        <did>
+          <unittitle>Otto &amp; Lillian Karsch</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Dec 10, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_38980dc631f414eb979e8aedb13ec423" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_d6ab8883e49d38e70783d9661614ab0f" parent="aspace_38980dc631f414eb979e8aedb13ec423" type="Cassette">14A-14B</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_4ed88616156ce42c82c388d80a390d69" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_9368dc9bfeb1e70b87cdb4402a2054c5" parent="aspace_4ed88616156ce42c82c388d80a390d69" type="CD">Karsch 1-3</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_32fdd966fc4b6b9cceb283c437eee437" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_d5cc5c3831186315edcd291b3f1cdd37" parent="aspace_32fdd966fc4b6b9cceb283c437eee437" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref15" level="file">
+        <did>
+          <unittitle>Carl Kirschner</unittitle>
+          <unitdate datechar="creation" normal="1988/1988" type="inclusive">Jan 21, 1988</unitdate>
+          <container altrender="Card Box - 6.5 - long" id="aspace_44958a365bdfd7b85f53f6b9eaab0131" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_cbcb4fd145100e6fde82a2708e662daf" parent="aspace_44958a365bdfd7b85f53f6b9eaab0131" type="CD">C. Kirschner 1</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_9e7f2bee7ad0fe4d60884729b1b721f7" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_57ae29243f4da6e3ddf67981442b035a" parent="aspace_9e7f2bee7ad0fe4d60884729b1b721f7" type="Cassette">15A</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_c7de22e01336454726acecaa18fdcd12" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_753e45ab7024e5badfcf095a59db7d63" parent="aspace_c7de22e01336454726acecaa18fdcd12" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref16" level="file">
+        <did>
+          <unittitle>Ethyl Kirschner</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Dec 19, 1987</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_88467e3c0b811d3b3680ee5131545d21" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_696d37f36c504e2aaceae7e93660770e" parent="aspace_88467e3c0b811d3b3680ee5131545d21" type="Folder">13</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_f83ebc56b1423a4bab85495d7810b24a" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_90de24582d9d2180259376e7f0c0033e" parent="aspace_f83ebc56b1423a4bab85495d7810b24a" type="Cassette">16A</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_93316ad834c6894471b27df917b6dd5c" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_8612e300011ad81b3d53fea07ac70052" parent="aspace_93316ad834c6894471b27df917b6dd5c" type="CD">E. Kirschner 1-2</container>
+        </did>
+      </c>
+      <c id="aspace_ref17" level="file">
+        <did>
+          <unittitle>George Kirschner</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Nov 7, 1987</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_2ef4346edf70f7be0c934e93d5bc1456" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_7abd6d22fbbee572b78bde523f6816d6" parent="aspace_2ef4346edf70f7be0c934e93d5bc1456" type="Folder">14</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_50fd7caef93b41532bb4f28eae58e2b5" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_bb9b1a8a9d70c4246cb39db31f814210" parent="aspace_50fd7caef93b41532bb4f28eae58e2b5" type="CD">G. Kirschner 1-3</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_9a9cfb8f16396c641bf760c9de83412e" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_91a985ff8d5983efe6f515c003647ccd" parent="aspace_9a9cfb8f16396c641bf760c9de83412e" type="Cassette">17A-17B</container>
+        </did>
+      </c>
+      <c id="aspace_ref18" level="file">
+        <did>
+          <unittitle>Leon Kuhl</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Aug 29, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_7374ee18052e6cdf87795caf70bc0b8e" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_6fe60904c3473a98a064d454f39e6d77" parent="aspace_7374ee18052e6cdf87795caf70bc0b8e" type="Cassette">18A</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_bcd9c54228638b4160f6991f3143e9ea" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_c3a0a3bf953c7ad45e00f4afbd765364" parent="aspace_bcd9c54228638b4160f6991f3143e9ea" type="CD">Kuhl 1-2</container>
+        </did>
+      </c>
+      <c id="aspace_ref19" level="file">
+        <did>
+          <unittitle>Meyer Kukle</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Jul 9, 1987</unitdate>
+          <container altrender="Card Box - 6.5 - long" id="aspace_4940325b31db492fbc5349641a27126c" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_fd8169ea374e41f60380e749e70959e9" parent="aspace_4940325b31db492fbc5349641a27126c" type="CD">Kukle 1-2</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_9c7f4d548413ae272c7552514290abae" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_419f7e6950b8cb4b29ec6e03e75dd71d" parent="aspace_9c7f4d548413ae272c7552514290abae" type="Cassette">19A</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_e360718e0a2b93d2891ef2895594e4ed" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_e0b752e3da6210bebd2ec69ea18b8ccc" parent="aspace_e360718e0a2b93d2891ef2895594e4ed" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref20" level="file">
+        <did>
+          <unittitle>George Levine</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Sep 17, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_fc1e02269e6326b63902a352fdbefe95" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_828747506dac627d623c19f7ba7a8378" parent="aspace_fc1e02269e6326b63902a352fdbefe95" type="Cassette">20A</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_cab473e0170740bca372364c4e5cb592" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_71db3ff314830beeec9799881337566d" parent="aspace_cab473e0170740bca372364c4e5cb592" type="CD">Levine 1</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_44842d696ec1e27f5b43c427b0f6a653" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_b154e102666b36636a18565c8790de4a" parent="aspace_44842d696ec1e27f5b43c427b0f6a653" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref21" level="file">
+        <did>
+          <unittitle>Virginia Marson</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Jul 11, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_59118e9722c29db56264a9b7e824a3c9" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_b51c2956fbecb27b58e0ef8138f7c875" parent="aspace_59118e9722c29db56264a9b7e824a3c9" type="Cassette">21A</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_626af17e05e01f64f4d1307013e8334c" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_b9bc4c6a3993236978c9711a72300e58" parent="aspace_626af17e05e01f64f4d1307013e8334c" type="CD">Marson 1</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_a7aae34829166e16a25b4c765fe89e13" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_f18debd1070f107aa03aa9838b220add" parent="aspace_a7aae34829166e16a25b4c765fe89e13" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref22" level="file">
+        <did>
+          <unittitle>Louis Merkel</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Jul 10, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_b0e0ee1299991189ebca69b709bb16e2" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_864a9a4a60da88135069dce1c200f64b" parent="aspace_b0e0ee1299991189ebca69b709bb16e2" type="Cassette">22A</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_77166ca1844c018dd499785378e80feb" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_74b57e852eda9a6c3765e05086e75310" parent="aspace_77166ca1844c018dd499785378e80feb" type="CD">Merkel 1</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_441e8aee9ec7e2b0928314dbd1b8ca60" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_80679095558fd475413685fe6fd97869" parent="aspace_441e8aee9ec7e2b0928314dbd1b8ca60" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref23" level="file">
+        <did>
+          <unittitle>Benaldo Montenegro &amp; Rose</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Aug 29, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_b33d838cdca462a806d1d4e960c68386" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_54523d619c1babc586d71cd932332a44" parent="aspace_b33d838cdca462a806d1d4e960c68386" type="Cassette">23A-23B</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_4640b1c9153cd15e1519d2063eae50ba" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_26978f99928fee986eef0bf4d8ebcfe5" parent="aspace_4640b1c9153cd15e1519d2063eae50ba" type="CD">Montenegro 1-3</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_0c989b9657b9f3da9dddba18e4d9ce30" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_ba8dc17ac9208dba70bee72fd81cba88" parent="aspace_0c989b9657b9f3da9dddba18e4d9ce30" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_ref24" level="file">
+        <did>
+          <unittitle>George Nieswand</unittitle>
+          <unitdate datechar="creation" normal="1988/1988" type="inclusive">Jan 21, 1988</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_3f46ef845c8fe0b96dcf2e13200dfa56" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_4a6532585453d144df836a6be1148445" parent="aspace_3f46ef845c8fe0b96dcf2e13200dfa56" type="Folder">20</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_0db95dd26cab7a28e201cafbacfd9709" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_7836acf291840ca77c67f640c53ac1a7" parent="aspace_0db95dd26cab7a28e201cafbacfd9709" type="Cassette">24A</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_761b00600fa8cef38cf317d78882f981" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_b7ec558fb9430ea991c76ff317edf508" parent="aspace_761b00600fa8cef38cf317d78882f981" type="CD">Nieswand 1</container>
+        </did>
+      </c>
+      <c id="aspace_ref26" level="file">
+        <did>
+          <unittitle>Elsa Powitz</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Jun 14, 1987</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_79af3bea0bd1e808548bcc9c1b6ecff7" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_dfb6a14a2cb7e5420a05a74f1b1feaa7" parent="aspace_79af3bea0bd1e808548bcc9c1b6ecff7" type="Folder">21</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_cf34c7c3212aa75e50a4b02bd47d2d7d" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_fbac6f0f25e891607b8cffba0c8bd9d1" parent="aspace_cf34c7c3212aa75e50a4b02bd47d2d7d" type="CD">Powitz 1</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_bcd37e5c350a5d47bf7c8a37b5041a61" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_2f56f6b0713e0b88075985847069cf20" parent="aspace_bcd37e5c350a5d47bf7c8a37b5041a61" type="Cassette">25A</container>
+        </did>
+      </c>
+      <c id="aspace_ref27" level="file">
+        <did>
+          <unittitle>Harry Rabinowitz</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Aug 22, 1987</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_b902613a3f47b85c7815b3c5cac30b70" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_40c179d23c17ed154693855c27a00add" parent="aspace_b902613a3f47b85c7815b3c5cac30b70" type="Folder">22</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_0450dad9eaeedcb931e64223fec11f13" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_970b7fcf482bd1bd0e5c400a535f768b" parent="aspace_0450dad9eaeedcb931e64223fec11f13" type="CD">Rabinowitz 1-2</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_b40a6f05759f126a953a59a824ff27f5" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_1fa3fea261b8d06c397f5faaaf5b6d6c" parent="aspace_b40a6f05759f126a953a59a824ff27f5" type="Cassette">26A-26B</container>
+        </did>
+      </c>
+      <c id="aspace_ref28" level="file">
+        <did>
+          <unittitle>Reinhard Richter</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Jun 19, 1987</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_3ffb20752dea89730cb7a5fa30ff2fb1" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_e11db25187ecd75b9e7fadf6352de731" parent="aspace_3ffb20752dea89730cb7a5fa30ff2fb1" type="Folder">23</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_9767a5a0f16f468018d8cc5195550d65" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_fe638e9c0286e2038e35e24f00b49019" parent="aspace_9767a5a0f16f468018d8cc5195550d65" type="Cassette">27A</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_f3a6418806aa38335611210252914835" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_9cb1f958ae71d111e0a27ce13ae96f13" parent="aspace_f3a6418806aa38335611210252914835" type="CD">Richter 1</container>
+        </did>
+      </c>
+      <c id="aspace_ref29" level="file">
+        <did>
+          <unittitle>Fritz Schmucker</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_dcdc75cb44dd1ece70d5014b95f7fbf3" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_d3ca384105918822beecda1bc1736d2f" parent="aspace_dcdc75cb44dd1ece70d5014b95f7fbf3" type="Cassette">34B</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_1f8b7b1aa0bd18507dddda0c606e0987" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_d9c7ff3fdfb6e0be2dd7040274656302" parent="aspace_1f8b7b1aa0bd18507dddda0c606e0987" type="CD">Schmucker 1-2</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_66e4e0f7e9817340d1c958f84dbb8059" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_6f0c82cfd1ea77a18e18c16141674be6" parent="aspace_66e4e0f7e9817340d1c958f84dbb8059" type="Folder">30</container>
+        </did>
+      </c>
+      <c id="aspace_ref30" level="file">
+        <did>
+          <unittitle>Edith Segal</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Jun 23, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_7e2938c35e71f2947f8b90b4a14c4276" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_434aa797413a6a59c2d1f41af26cef87" parent="aspace_7e2938c35e71f2947f8b90b4a14c4276" type="Cassette">28A</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_6961caf4d7969b0f03feb55608540613" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_a5360d41e9a7c002b0719fb73bbad793" parent="aspace_6961caf4d7969b0f03feb55608540613" type="Folder">24</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_87711a67b113e16d77198e98c8f6023e" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_12777a233d9838ce81a261a0e5440795" parent="aspace_87711a67b113e16d77198e98c8f6023e" type="CD">Segel 1-2</container>
+        </did>
+      </c>
+      <c id="aspace_ref31" level="file">
+        <did>
+          <unittitle>Emanuel Sterne</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Jun 6, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_5be1a9a81faae3182bbbf10faa85186f" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_59fe6ac71d264ef846b3476d6a473a4e" parent="aspace_5be1a9a81faae3182bbbf10faa85186f" type="Cassette">29A</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_ddad6e53b87b5968932fc6c7add20471" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_f542c05672af3ff3f820d73e2e3af4a4" parent="aspace_ddad6e53b87b5968932fc6c7add20471" type="Folder">25</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_7645d96c17c75b8b6cbbd615d93848e7" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_fac5f327870817c78126683d86c0785d" parent="aspace_7645d96c17c75b8b6cbbd615d93848e7" type="CD">Sterne 1</container>
+        </did>
+      </c>
+      <c id="aspace_ref32" level="file">
+        <did>
+          <unittitle>Louis Sutherland</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Aug 20, 1987</unitdate>
+          <container altrender="Card Box - 6.5 - long" id="aspace_61d7a0e028c5583d3da74b5c9e0d45b5" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_ad6e093ad43384b3864cbaaaa2f1a803" parent="aspace_61d7a0e028c5583d3da74b5c9e0d45b5" type="CD">Sutherland 1</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_58efa5e0e7a9db9b6c4e1fe1ec2e835f" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_57451a873ab0edbad538590af7c0580e" parent="aspace_58efa5e0e7a9db9b6c4e1fe1ec2e835f" type="Cassette">30A</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_17c1ee4c86ebb2543bcbb0303f6e265a" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_14b9eae3ef14fafc09f2c57359b6bb68" parent="aspace_17c1ee4c86ebb2543bcbb0303f6e265a" type="Folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_ref33" level="file">
+        <did>
+          <unittitle>Walter Tanzer</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Aug 25, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_89233e5cedca0fa110a57288d47b2428" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_720b83bb7e53ef03db39e8a93aa6f955" parent="aspace_89233e5cedca0fa110a57288d47b2428" type="Cassette">31A</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_33e0d36e246cb5d6cd5fba2854bef170" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_989a81b2a5bf1ac9d19bd84a9c1f4793" parent="aspace_33e0d36e246cb5d6cd5fba2854bef170" type="CD">Tanzer 1</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_9010963c56042586d2bcd6f4f4db27c6" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_072ca7207a18e5663b24f489e210c956" parent="aspace_9010963c56042586d2bcd6f4f4db27c6" type="Folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_ref34" level="file">
+        <did>
+          <unittitle>Sonia Vieth</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Jul 11, 1987</unitdate>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_4e5f305157c899746314f750aeb718c3" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_481dc8b376c89f241877ee5488b87efc" parent="aspace_4e5f305157c899746314f750aeb718c3" type="Cassette">32A</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_b7aff6837f8060cc9453c43df5de3170" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_d3629ff6b57408988f96fc3699d6f7fc" parent="aspace_b7aff6837f8060cc9453c43df5de3170" type="Folder">28</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_7907372a24f8afd1d034be213251b422" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_3071723b9ca6ebc3d53229b8f18cd899" parent="aspace_7907372a24f8afd1d034be213251b422" type="CD">Vieth 1</container>
+        </did>
+      </c>
+      <c id="aspace_ref35" level="file">
+        <did>
+          <unittitle>William Voelkel</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Jun 27, 1987</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_13b79b443e747d016444df367e6bbb48" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_6789c0da1b2684ae59d9e7875f5244d3" parent="aspace_13b79b443e747d016444df367e6bbb48" type="Folder">29</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_78aab3a24a537cfb93b8aac950f8ce96" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_54e973cef383646ebad6208b62c7a558" parent="aspace_78aab3a24a537cfb93b8aac950f8ce96" type="CD">Voelkel 1</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_bd691c125b9cf22951833c263b7ae3e0" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_4c4ae9930b873977931ee3fd33c0989a" parent="aspace_bd691c125b9cf22951833c263b7ae3e0" type="Cassette">33A</container>
+        </did>
+      </c>
+      <c id="aspace_ref36" level="file">
+        <did>
+          <unittitle>Hans Wittich</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Dec 28, 1987</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_4875d5d51b15868f5d9d134b6d9b6f3b" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_93416e1158e4dc9460fad0e5cddf2ed8" parent="aspace_4875d5d51b15868f5d9d134b6d9b6f3b" type="Folder">30</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_d58ab20d4cd61bb0a39432564b57a685" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_d2c2e3db37e80eb2f787a42663ac8c05" parent="aspace_d58ab20d4cd61bb0a39432564b57a685" type="CD">Wittich 1-5</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_04e3705701236e9cf122ee4d963143b0" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_09ad9b092bfd85c6f19496f550b8b9ef" parent="aspace_04e3705701236e9cf122ee4d963143b0" type="Cassette">34A-C</container>
+        </did>
+      </c>
+      <c id="aspace_ref37" level="file">
+        <did>
+          <unittitle>Hans Wittich, Gerhardt Zwilling &amp; Henrietta Zwilling</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Dec 28, 1987</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Card Box - 6.5 - long" id="aspace_7bfd4cdac78ecb0c749da914a59f3b99" label="Audio [31142062759090]" type="Box">2</container>
+          <container id="aspace_dfdd35f7c9de51045e4b31eacead651f" parent="aspace_7bfd4cdac78ecb0c749da914a59f3b99" type="CD">Zwilling &amp; Wittich 1-3</container>
+          <container altrender="Hollinger Cassette Box 9.5" id="aspace_c86ecbcdd5f95b883bc112fb640b8510" label="Audio [31142054612430]" type="Box">3</container>
+          <container id="aspace_3ed1e7bc9b9e2d0d5005ef9e67ae7969" parent="aspace_c86ecbcdd5f95b883bc112fb640b8510" type="Cassette">35A-B</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_6573ebfa3dcf8edda60d0acb45b21173" label="Mixed Materials [31142062671956]" type="Box">1</container>
+          <container id="aspace_656ad5816cda7919bdbd41f0c7815d03" parent="aspace_6573ebfa3dcf8edda60d0acb45b21173" type="Folder">31</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>
