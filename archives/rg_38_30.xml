@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/nyuarchives/rg_38_30">rg_38_30</eadid><filedesc><titlestmt><titleproper>Guide to the Hemispheric Institute Digital Video Library Archived Website <num>RG.38.30</num></titleproper><author>Collection processed by Nicole Greenhouse</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2023-06-13T13:32:26</date></creation><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/nyuarchives/rg_38_30">rg_38_30</eadid><filedesc><titlestmt><titleproper>Guide to the Hemispheric Institute Digital Video Library Archived Website <num>RG.38.30</num></titleproper><author>Nicole Greenhouse</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher><p><date>April 2023</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-06-27 17:56:39 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
   <did>
-    <langmaterial id="aspace_d749aeea06ee859d22d5aa2dea6db622">Website is in English, Spanish, and Portuguese.</langmaterial>
     <repository>
       <corpname>New York University Archives</corpname>
     </repository>
@@ -19,6 +18,7 @@
     </physdesc>
     <unitdate datechar="creation" normal="2018-03-23/2018-03-23">March 2018</unitdate>
     <abstract id="aspace_1ba0180ed359eba1e9f703c44d4596b2">The Hemispheric Institute Digital Video Library, established in 2005, is a partnership with NYU Libraries to preserve and provide access to the digital library of the Hemispheric Institute. The library is made up of video of political performance practices in the Americas dating back to the 1970s.</abstract>
+    <langmaterial id="aspace_d749aeea06ee859d22d5aa2dea6db622">Website is in English, Spanish, and Portuguese.</langmaterial>
   </did>
   <bioghist id="aspace_902a7e14b01ffd9c273f38afa7626967">
     <head>Historical Note</head>
@@ -56,7 +56,7 @@ Identification of item, date; Hemispheric Institute Digital Video Library Archiv
 <p>In March 2018, the website was selected to be part of the DLTS: Migrating Sites Web Archive in 2018. In Spring 2023, a finding aid was created for RG 38.30.</p>  </processinfo>
   <relatedmaterial id="aspace_500518c7d73297f2a4707888b5c98881">
     <head>Related Materials</head>
-<p>Records of the Hemispheric Institute for Performance and Politics  (RG 37.45)</p><p><extref ns2:href="https://bobcat.library.nyu.edu/primo-explore/search?query=creator,contains,%22Hemispheric%20Institute%20Digital%20Video%20Library%22,AND&amp;tab=default_tab&amp;search_scope=default_scope&amp;sortby=rank&amp;vid=DLTS&amp;lang=en_US&amp;mode=simple&amp;offset=0">Digitized videos in the Hemispheric Instiute Digital Video Library are available via the Bobcat Catalog.</extref></p>  </relatedmaterial>
+<p>Records of the Hemispheric Institute for Performance and Politics  (RG 37.45)</p><p><extref xlink:href="https://bobcat.library.nyu.edu/primo-explore/search?query=creator,contains,%22Hemispheric%20Institute%20Digital%20Video%20Library%22,AND&amp;tab=default_tab&amp;search_scope=default_scope&amp;sortby=rank&amp;vid=DLTS&amp;lang=en_US&amp;mode=simple&amp;offset=0">Digitized videos in the Hemispheric Instiute Digital Video Library are available via the Bobcat Catalog.</extref></p>  </relatedmaterial>
   <controlaccess>
     <subject source="lcsh">Library materials -- Digitization.</subject>
     <subject source="lcsh">Performance art -- Latin America.</subject>
@@ -64,6 +64,6 @@ Identification of item, date; Hemispheric Institute Digital Video Library Archiv
     <subject source="lcsh">Art -- Social aspects -- Latin America</subject>
     <subject source="lcsh">Social movements in art.</subject>
   </controlaccess>
-  <dsc><c id="aspace_14471e8eb1c19e7b1ef527b7c7e6cce2" level="file"><did><unittitle>Archived Website</unittitle><unitdate datechar="Captured" normal="2018-03/2018-03">March 2018</unitdate></did><dao ns2:actuate="onLoad" ns2:href="https://wayback.archive-it.org/10141/*/http://hidvl.nyu.edu/" ns2:role="translation missing: en.enumerations.file_version_use_statement.external-link" ns2:show="new" ns2:title="Hemispheric Institute Digital Video Library Archived Website" ns2:type="simple"><daodesc><p>Hemispheric Institute Digital Video Library Archived Website: March 2018</p></daodesc></dao></c></dsc>
+  <dsc><c id="aspace_14471e8eb1c19e7b1ef527b7c7e6cce2" level="file"><did><unittitle>Archived Website</unittitle><unitdate datechar="Captured" normal="2018-03/2018-03">March 2018</unitdate><dao xlink:actuate="onLoad" xlink:href="https://wayback.archive-it.org/10141/*/http://hidvl.nyu.edu/" xlink:role="external-link" xlink:show="new" xlink:title="Hemispheric Institute Digital Video Library Archived Website" xlink:type="simple"><daodesc><p>Hemispheric Institute Digital Video Library Archived Website: March 2018</p></daodesc></dao></did></c></dsc>
 </archdesc>
 </ead>
