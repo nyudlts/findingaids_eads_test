@@ -1,72 +1,751 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/nyuarchives/rg_39_4">rg_39_4</eadid><filedesc><titlestmt><titleproper>Guide to the Records of the Interfaith Council of Washington Square College<lb/><date calendar="gregorian" era="ce">1948-1970</date><lb/> <num>RG.39.4</num></titleproper><author>Robin Eaton</author></titlestmt><editionstmt><p>This version was derived from interf02KS.xml</p></editionstmt><publicationstmt><publisher>New York University Archives</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:22:37 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>October 2018</date><item>Edited by Abbie Auster for compliance with DACS and ACM Required Elements for Archival Description</item></change></revisiondesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>New York University Archives</corpname>
-    </repository>
-    <unittitle>Records of the Interfaith Council of Washington Square College</unittitle>
-    <origination label="Creator">
-      <corpname rules="dacs" source="local">Washington Square College. Interfaith Council</corpname>
-    </origination>
-    <origination label="source">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/nyuarchives/rg_39_4">rg_39_4</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Records of the Interfaith Council of Washington Square College<lb/><date calendar="gregorian" era="ce">1948-1970</date><lb/> <num>RG.39.4</num></titleproper>
+        <author>Robin Eaton</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from interf02KS.xml</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:22:37 -0400</date>.</creation>
+      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>October 2018</date>
+        <item>Edited by Abbie Auster for compliance with DACS and ACM Required Elements for Archival Description</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>Records of the Interfaith Council of Washington Square College</unittitle>
+      <origination label="Creator">
+        <corpname rules="dacs" source="local">Washington Square College. Interfaith Council</corpname>
+      </origination>
+      <origination label="source">
+        <corpname authfilenumber="(lccn)n93113162" role="dnr" source="naf">New York University. School of Social Work</corpname>
+      </origination>
+      <unitid>RG.39.4</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4.25 Linear Feet</extent>
+        <extent altrender="carrier">in 6 manuscript boxes, 1 half manuscript box, and 1 record carton.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1948/1970" type="inclusive">1948-1970</unitdate>
+      <abstract id="aspace_b4ed582735dfa539bcdf1af0d17523a6">The records in this collection date from 1948 to 1970. The majority of records are those that were kept by the Interfaith Council secretary from its inception in 1956 through its final dissolution in 1970. The records reveal the composition and evolution of religious community life at New York University in the mid 20th century. In 1967, an IFC self-study recommended that the IFC's role be re-examined. In 1970, it was dissolved and superceded by a Committee on Faith and Life at NYU, established under the Office of Student Affairs. Collection materials consist of minutes, correspondence, publicity materials, and brochures.</abstract>
+      <physloc id="aspace_633954e01f05cab56ad4af6cafff3ec8">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_8c55f4fed6ee357bb0df40cd0e8a7af2">All materials in this collection are in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_6fc7ffbc7b8b1be6c1a210bc834ab6e9">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_691be2511ffdba8a25b40b6eedbf460f">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by the New York University School of Social Work, 1980. There is no accession number associated with this collection.</p>
+    </acqinfo>
+    <arrangement id="aspace_8f7380cacfcb944584d2c8198e3302e1">
+      <head>Arrangement</head>
+      <p>This collection is arranged into eight series as follows:</p>
+      <p>Series I: Predecessors of the Interfaith Council, 1948-1956</p>
+      <p>Series II: Interfaith Council Meetings, 1956-1970</p>
+      <p>Series III: Reports, 1957-1969, undated</p>
+      <p>Series IV: Budget, 1957-1968, undated </p>
+      <p>Series V:  Correspondence, 1956-1970</p>
+      <p>Series VI: Activities, 1957-1970, undated</p>
+      <p>Series VII: Personnel and Space, 1955-1970, undated</p>
+      <p>Series VIII: University Administration, 1957-1967</p>
+    </arrangement>
+    <bioghist id="aspace_ca23ec0c120a0a8c5865618ac482a4ac">
+      <head>Historical Note</head>
+      <p>In 1947, New York University rented and renovated 2 Washington Square North as a religious center with quarters for the Christian Association (later re-named the University Christian Foundation), the Jewish Culture Foundation, the Newman Club, and the Library of Hebraica and Judaica. Between 1948 and 1956, the building was maintained by the House Committee which consisted of representatives from the clergy, professors, and students involved in the Washington Square religious organizations. This committee was responsible for setting policies regarding the use of the building and insuring its proper maintenance.</p>
+      <p>The Board of management also operated between 1948 and 1956. This board consisted of clergy, faculty, and student representatives. Chaired by Dean Thomas Pollock of Washington Square College, the board was responsible for setting general policies regarding the religious groups on campus and for coordinating their activities.</p>
+      <p>In March 1956, as the result of the University Self-Study, President Carroll Vincent Newsom established the Interfaith Committee. It immediately replaced the Board of Management and a few months later, when a resident manager was appointed, the House Committee was dissolved. Members of the Interfaith Committee (the name was changed in 1957 to the Interfaith Council) were appointed by the president of the university. The IFC consisted of 12 members, including three from the NYU Board of Chaplains, three religious directors, three faculty members at large, and three students. The goals of the IFC were to develop ties and cooperation between the religious groups on campus and between the religious groups and the university, to encourage student attendance at religious services, and to study the needs of religious groups to adjust the university budget to accommodate them.</p>
+      <p>During the 1940s and early 1950s there was an Interfaith Council at the Altschul House on the Heights campus. It was dissolved before the IFC at Washington Square was created and was reactivated in 1969 -- just as the Washington Square IFC was dissolved. The Washington Square and University Heights religious groups were in contact with one another but other than occasional courtesies (such as when Washington Square first moved in to 2 Washington Square North the Altschul House at the Heights sent them a couch), the two campuses' religious organizations were not connected.</p>
+      <p>The IFC employed a secretary and a resident manager. These were full-time positions which ran from September through June. They were usually taken by part-time students.</p>
+      <p>The IFC began with only the Protestant, Catholic, and Jewish organizations as its members. In the 1960s, its character changed to include Hindu, BaHai, and other groups. In its first few years, the IFC sponsored ecumenical discussions, art shows, and dinners. In the late 1960s, it sponsored a series of lectures on the draft and aided the Gay Liberation group in disputes with the university administration.</p>
+      <p>In 1961, the IFC adopted a resolution to support the building of the "Interfaith Triangle Center at Washington Square." This was to consist of three separate buildings for the Protestant, Catholic, and Jewish groups located in a triangle around the Loeb Student Center on Washington Square South. This proposal was in response to the need felt for greater space. They believed that the close proximity of these three buildings would maintain the opportunity for interfaith cooperation while providing each group with more space.</p>
+      <p>In the summer of 1964, the Catholic Center at 58 Washington Square South was opened. They continued to keep one room at 2 Washington Square North in order to maintain their ties with the other groups. The University Christian Foundation and the Jewish Culture Foundation were never able to build their buildings. In late 1978, the School of Social Work moved into 2 Washington Square North, the JCF moved into new quarters in Loeb Student Center, and the UCF moved into a room in 21 Washington Place.</p>
+      <p>In 1967, in recognition of the profound changes in the student body since the IFC's inception in 1956, the IFC proposed that a new self study be conducted. Its goal was to explore ways of including a wider range of religious groups in interfaith activities, to create a closer relationship between the religious groups at the Heights and at Washington Square, and also to examine the role of religion in the entire university. This study was carried out during the 1969-1970 academic year. In 1970, the IFC was dissolved and a Committee on Faith and Life at NYU under the Office of Student Affairs was created.</p>
+    </bioghist>
+    <custodhist id="aspace_4447fd322817c8cef76106883869185b">
+      <head>Custodial History</head>
+      <p>In 1980, when moving into the offices in 2 Washington Square North, which had previously been occupied by the Interfaith Council, the New York University School of Social Work found the Interfaith Council collection and gave it to New York University Archives.</p>
+    </custodhist>
+    <prefercite id="aspace_348c7bd3dae3c9f6df8f40854f619a29">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: Identification of item, date; Records of the Interfaith Council of Washington Square College; RG 39.4; box number; folder number; New York University Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_88ef7b6794412a154f6a51e6cc3a19ac">
+      <head>Processing Information</head>
+      <p>Processing decisions made prior to October 2018 have not been recorded.</p>
+    </processinfo>
+    <scopecontent id="aspace_b7f5fbd53c2d6695f5b0f43d6d382a11">
+      <head>Scope and Contents</head>
+      <p>This collection of records date from 1948-1970 and were created by the former Interfaith Council at New York University. The materials from the Interfaith Council at Washington Square include the IFC's meeting minutes, activities, publicity, correspondence, building business, and correspondence from the university administration. The bulk of the records are from 1956 through 1969. The records consist of minutes, correspondence, publicity materials, and brochures.</p>
+      <p>The records are those kept by the IFC secretary from its inception in 1956 through its final dissolution in 1970. The records of the IFC can provide valuable information to the researcher about the various religious groups at the Washington Square campus. The changes in the IFC's member organizations and in the types of programs they sponsored illustrate an important aspect of NYU student life over an eleven year period (1956-1967). This collection illustrates the change in religious composition and consciousness of the Washington Square student community and provides the researcher with evidence of the changes which took place in the issues with which the student body was concerned.</p>
+    </scopecontent>
+    <separatedmaterial id="aspace_bea0f816a9dd607fcca9d4ecbf416236">
+      <head>Separated Materials</head>
+      <p>Sixteen inches of duplicate material was removed from the collection and discarded. Photographs have been separated from the collection.</p>
+    </separatedmaterial>
+    <userestrict id="aspace_9ecb7fa061646a708acc4df3f374bc57">
+      <head>Conditions Governing Use</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by the Interfaith Council are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from New York University Archives. Please contact university-archives@nyu.edu or (212) 998-2641.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="lcsh">Students -- Religious life</subject>
+      <geogname source="lcsh">Washington Square (New York, N.Y.)</geogname>
+      <genreform source="aat">Publicizing.</genreform>
+      <genreform source="aat">Brochures.</genreform>
+      <genreform source="aat">Minutes (administrative records)</genreform>
       <corpname authfilenumber="(lccn)n93113162" role="dnr" source="naf">New York University. School of Social Work</corpname>
-    </origination>
-    <unitid>RG.39.4</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">4.25 Linear Feet</extent>
-      <extent altrender="carrier">in 6 manuscript boxes, 1 half manuscript box, and 1 record carton.</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1948/1970" type="inclusive">1948-1970</unitdate>
-    <abstract id="aspace_b4ed582735dfa539bcdf1af0d17523a6">The records in this collection date from 1948 to 1970. The majority of records are those that were kept by the Interfaith Council secretary from its inception in 1956 through its final dissolution in 1970. The records reveal the composition and evolution of religious community life at New York University in the mid 20th century. In 1967, an IFC self-study recommended that the IFC's role be re-examined. In 1970, it was dissolved and superceded by a Committee on Faith and Life at NYU, established under the Office of Student Affairs. Collection materials consist of minutes, correspondence, publicity materials, and brochures.</abstract>
-    <physloc id="aspace_633954e01f05cab56ad4af6cafff3ec8">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
-    <langmaterial id="aspace_8c55f4fed6ee357bb0df40cd0e8a7af2">All materials in this collection are in English.</langmaterial>
-  </did>
-  <accessrestrict id="aspace_6fc7ffbc7b8b1be6c1a210bc834ab6e9">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_691be2511ffdba8a25b40b6eedbf460f">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by the New York University School of Social Work, 1980. There is no accession number associated with this collection.</p>  </acqinfo>
-  <arrangement id="aspace_8f7380cacfcb944584d2c8198e3302e1">
-    <head>Arrangement</head>
-<p>This collection is arranged into eight series as follows:</p><p>Series I: Predecessors of the Interfaith Council, 1948-1956</p><p>Series II: Interfaith Council Meetings, 1956-1970</p><p>Series III: Reports, 1957-1969, undated</p><p>Series IV: Budget, 1957-1968, undated </p><p>Series V:  Correspondence, 1956-1970</p><p>Series VI: Activities, 1957-1970, undated</p><p>Series VII: Personnel and Space, 1955-1970, undated</p><p>Series VIII: University Administration, 1957-1967</p>  </arrangement>
-  <bioghist id="aspace_ca23ec0c120a0a8c5865618ac482a4ac">
-    <head>Historical Note</head>
-<p>In 1947, New York University rented and renovated 2 Washington Square North as a religious center with quarters for the Christian Association (later re-named the University Christian Foundation), the Jewish Culture Foundation, the Newman Club, and the Library of Hebraica and Judaica. Between 1948 and 1956, the building was maintained by the House Committee which consisted of representatives from the clergy, professors, and students involved in the Washington Square religious organizations. This committee was responsible for setting policies regarding the use of the building and insuring its proper maintenance.</p><p>The Board of management also operated between 1948 and 1956. This board consisted of clergy, faculty, and student representatives. Chaired by Dean Thomas Pollock of Washington Square College, the board was responsible for setting general policies regarding the religious groups on campus and for coordinating their activities.</p><p>In March 1956, as the result of the University Self-Study, President Carroll Vincent Newsom established the Interfaith Committee. It immediately replaced the Board of Management and a few months later, when a resident manager was appointed, the House Committee was dissolved. Members of the Interfaith Committee (the name was changed in 1957 to the Interfaith Council) were appointed by the president of the university. The IFC consisted of 12 members, including three from the NYU Board of Chaplains, three religious directors, three faculty members at large, and three students. The goals of the IFC were to develop ties and cooperation between the religious groups on campus and between the religious groups and the university, to encourage student attendance at religious services, and to study the needs of religious groups to adjust the university budget to accommodate them.</p><p>During the 1940s and early 1950s there was an Interfaith Council at the Altschul House on the Heights campus. It was dissolved before the IFC at Washington Square was created and was reactivated in 1969 -- just as the Washington Square IFC was dissolved. The Washington Square and University Heights religious groups were in contact with one another but other than occasional courtesies (such as when Washington Square first moved in to 2 Washington Square North the Altschul House at the Heights sent them a couch), the two campuses' religious organizations were not connected.</p><p>The IFC employed a secretary and a resident manager. These were full-time positions which ran from September through June. They were usually taken by part-time students.</p><p>The IFC began with only the Protestant, Catholic, and Jewish organizations as its members. In the 1960s, its character changed to include Hindu, BaHai, and other groups. In its first few years, the IFC sponsored ecumenical discussions, art shows, and dinners. In the late 1960s, it sponsored a series of lectures on the draft and aided the Gay Liberation group in disputes with the university administration.</p><p>In 1961, the IFC adopted a resolution to support the building of the "Interfaith Triangle Center at Washington Square." This was to consist of three separate buildings for the Protestant, Catholic, and Jewish groups located in a triangle around the Loeb Student Center on Washington Square South. This proposal was in response to the need felt for greater space. They believed that the close proximity of these three buildings would maintain the opportunity for interfaith cooperation while providing each group with more space.</p><p>In the summer of 1964, the Catholic Center at 58 Washington Square South was opened. They continued to keep one room at 2 Washington Square North in order to maintain their ties with the other groups. The University Christian Foundation and the Jewish Culture Foundation were never able to build their buildings. In late 1978, the School of Social Work moved into 2 Washington Square North, the JCF moved into new quarters in Loeb Student Center, and the UCF moved into a room in 21 Washington Place.</p><p>In 1967, in recognition of the profound changes in the student body since the IFC's inception in 1956, the IFC proposed that a new self study be conducted. Its goal was to explore ways of including a wider range of religious groups in interfaith activities, to create a closer relationship between the religious groups at the Heights and at Washington Square, and also to examine the role of religion in the entire university. This study was carried out during the 1969-1970 academic year. In 1970, the IFC was dissolved and a Committee on Faith and Life at NYU under the Office of Student Affairs was created.</p>  </bioghist>
-  <custodhist id="aspace_4447fd322817c8cef76106883869185b">
-    <head>Custodial History</head>
-<p>In 1980, when moving into the offices in 2 Washington Square North, which had previously been occupied by the Interfaith Council, the New York University School of Social Work found the Interfaith Council collection and gave it to New York University Archives.</p>  </custodhist>
-  <prefercite id="aspace_348c7bd3dae3c9f6df8f40854f619a29">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: Identification of item, date; Records of the Interfaith Council of Washington Square College; RG 39.4; box number; folder number; New York University Archives, New York University.</p>  </prefercite>
-  <processinfo id="aspace_88ef7b6794412a154f6a51e6cc3a19ac">
-    <head>Processing Information</head>
-<p>Processing decisions made prior to October 2018 have not been recorded.</p>  </processinfo>
-  <scopecontent id="aspace_b7f5fbd53c2d6695f5b0f43d6d382a11">
-    <head>Scope and Contents</head>
-<p>This collection of records date from 1948-1970 and were created by the former Interfaith Council at New York University. The materials from the Interfaith Council at Washington Square include the IFC's meeting minutes, activities, publicity, correspondence, building business, and correspondence from the university administration. The bulk of the records are from 1956 through 1969. The records consist of minutes, correspondence, publicity materials, and brochures.</p><p>The records are those kept by the IFC secretary from its inception in 1956 through its final dissolution in 1970. The records of the IFC can provide valuable information to the researcher about the various religious groups at the Washington Square campus. The changes in the IFC's member organizations and in the types of programs they sponsored illustrate an important aspect of NYU student life over an eleven year period (1956-1967). This collection illustrates the change in religious composition and consciousness of the Washington Square student community and provides the researcher with evidence of the changes which took place in the issues with which the student body was concerned.</p>  </scopecontent>
-  <separatedmaterial id="aspace_bea0f816a9dd607fcca9d4ecbf416236">
-    <head>Separated Materials</head>
-<p>Sixteen inches of duplicate material was removed from the collection and discarded. Photographs have been separated from the collection.</p>  </separatedmaterial>
-  <userestrict id="aspace_9ecb7fa061646a708acc4df3f374bc57">
-    <head>Conditions Governing Use</head>
-<p>Any rights (including copyright and related rights to publicity and privacy) held by the Interfaith Council are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from New York University Archives. Please contact university-archives@nyu.edu or (212) 998-2641.</p>  </userestrict>
-  <controlaccess>
-    <subject source="lcsh">Students -- Religious life</subject>
-    <geogname source="lcsh">Washington Square (New York, N.Y.)</geogname>
-    <genreform source="aat">Publicizing.</genreform>
-    <genreform source="aat">Brochures.</genreform>
-    <genreform source="aat">Minutes (administrative records)</genreform>
-    <corpname authfilenumber="(lccn)n93113162" role="dnr" source="naf">New York University. School of Social Work</corpname>
-    <corpname rules="dacs" source="local">New York University. Office of Student Affairs</corpname>
-    <corpname rules="dacs" source="local">University Christian Foundation</corpname>
-    <persname source="naf">Wingate, Isabel Barnum</persname>
-    <corpname authfilenumber="(lccn)n87836328" source="naf">National Conference of Jews and Christians (U.S.)</corpname>
-    <persname source="naf">Newsom, Carroll V. (Carroll Vincent), 1904-1990</persname>
-    <corpname rules="dacs" source="local">Newman Club</corpname>
-    <persname source="naf">Pollock, Thomas Clark, 1902-1988</persname>
-    <corpname authfilenumber="(lccn)n2001020934" source="naf">New York University. Library of Judaica and Hebraica</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_ref18" level="series"><did><unittitle>Series 1: Predecessors of the Interfaith Council, 1948-1956</unittitle></did><scopecontent id="aspace_a190bc60d5d953d02b1ec5d7139b24e8"><head>Scope and Contents note</head><p>Contains the minutes and correspondence relevant to the operation of the House Committee and the Board of Management. These two bodies governed 2 Washington Square North between 1948 and 1956, prior to the creation of the IFC.</p></scopecontent><c id="aspace_ref19" level="otherlevel" otherlevel="unspecified"><did><unittitle>House Committee</unittitle><unitdate datechar="creation" normal="1948/1956" type="inclusive">1948-1956</unitdate><container altrender="Manuscript box - Legal" id="aspace_137a7b36853a14ada348cf9b37ebaa5b" label="Mixed Materials [31142062751485]" type="Box">1</container><container id="aspace_daea47dbb6abe63f737a6c3b13c2ed33" parent="aspace_137a7b36853a14ada348cf9b37ebaa5b" type="Folder">1</container></did></c><c id="aspace_ref20" level="otherlevel" otherlevel="unspecified"><did><unittitle>Board of Management</unittitle><unitdate datechar="creation" normal="1948/1956" type="inclusive">1948-1956</unitdate><container altrender="Manuscript box - Legal" id="aspace_0c08604e33c102b9841be07468c3f2cc" label="Mixed Materials [31142062751485]" type="Box">1</container><container id="aspace_a33127ee34dda11b19f3abac56e9b0db" parent="aspace_0c08604e33c102b9841be07468c3f2cc" type="Folder">2</container></did></c></c><c id="aspace_ref23" level="series"><did><unittitle>Series 2: Interfaith Council Meetings, 1956-1970</unittitle></did><scopecontent id="aspace_1c1b10b94f03d6108131c02e69218555"><head>Scope and Contents note</head><p>Contains minutes and correspondence relating to IFC meetings between 1956 and 1969. It has an incomplete file of lists of members of the IFC and individual members of the different religious organizations that belonged to the IFC. This series also includes minutes and correspondence relating to IFC sub-committee meetings, meetings of the Catholic Center, University Christian Foundation, and the meetings of the Directors of the various groups and of the Student Presidents of the individual groups.</p></scopecontent><c id="aspace_ref24" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Meeting Minutes</unittitle><unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate><container altrender="Manuscript box - Legal" id="aspace_2c898f4491fd2574dfd33e2c207e46b4" label="Mixed Materials [31142062751485]" type="Box">1</container><container id="aspace_1a96078436a6da701ff975247cd19ded" parent="aspace_2c898f4491fd2574dfd33e2c207e46b4" type="Folder">3</container></did></c><c id="aspace_ref25" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Meeting Minutes</unittitle><unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_42b7cf9c4134fc11ab6afd75436bfa33" label="Mixed Materials [31142062751485]" type="Box">1</container><container id="aspace_1c1c32801a4f8e7a46e254f556009b2c" parent="aspace_42b7cf9c4134fc11ab6afd75436bfa33" type="Folder">4</container></did></c><c id="aspace_ref26" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Meeting Minutes</unittitle><unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate><container altrender="Manuscript box - Legal" id="aspace_e8bd63dbd4e06260874e798af021bfc7" label="Mixed Materials [31142062751485]" type="Box">1</container><container id="aspace_ea6000b6fe221ab5cbf31393f83c919f" parent="aspace_e8bd63dbd4e06260874e798af021bfc7" type="Folder">5</container></did></c><c id="aspace_ref27" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Meeting Minutes</unittitle><unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate><container altrender="Manuscript box - Legal" id="aspace_2d1b5a54306d9e193e25203e399b7d74" label="Mixed Materials [31142062751485]" type="Box">1</container><container id="aspace_88c047974bf6bb015e6f2f85ca8d5f8b" parent="aspace_2d1b5a54306d9e193e25203e399b7d74" type="Folder">6</container></did></c><c id="aspace_ref28" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Meeting Minutes</unittitle><unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate><container altrender="Manuscript box - Legal" id="aspace_23e1d76191a3b8e11d91dd16cfda4436" label="Mixed Materials [31142062751485]" type="Box">1</container><container id="aspace_d5e5c5c1c7d62ff360bd6cca6cdaa0b0" parent="aspace_23e1d76191a3b8e11d91dd16cfda4436" type="Folder">7</container></did></c><c id="aspace_ref29" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Meeting Minutes</unittitle><unitdate datechar="creation" normal="1961/1962" type="inclusive">1961-1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_fa3af04b763ca6599ab7ed05c3417a08" label="Mixed Materials [31142062751485]" type="Box">1</container><container id="aspace_08a4930ed48e2225327c40ecb413571e" parent="aspace_fa3af04b763ca6599ab7ed05c3417a08" type="Folder">8</container></did></c><c id="aspace_ref30" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Meeting Minutes</unittitle><unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_ae99b48749bd4d21dd48e2fe5df2b4ce" label="Mixed Materials [31142062751485]" type="Box">1</container><container id="aspace_2bc35589af1743ea7217bd1ca1f89844" parent="aspace_ae99b48749bd4d21dd48e2fe5df2b4ce" type="Folder">9</container></did></c><c id="aspace_ref31" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Meeting Minutes</unittitle><unitdate datechar="creation" normal="1964/1966" type="inclusive">1964-1966</unitdate><container altrender="Manuscript box - Legal" id="aspace_16e0202975b2c9d8babe50026e36e276" label="Mixed Materials [31142062751485]" type="Box">1</container><container id="aspace_5688bddc8e3d2eeb64bd54b67c160fc8" parent="aspace_16e0202975b2c9d8babe50026e36e276" type="Folder">10</container></did></c><c id="aspace_ref32" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Meeting Minutes</unittitle><unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Manuscript box - Legal" id="aspace_889a8f99e75793c8e5a9d1f31cf2dbf0" label="Mixed Materials [31142062751485]" type="Box">1</container><container id="aspace_e97d5aedcfa4d76837b4bae601c5690b" parent="aspace_889a8f99e75793c8e5a9d1f31cf2dbf0" type="Folder">11</container></did></c><c id="aspace_ref33" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Meeting Minutes</unittitle><unitdate datechar="creation" normal="1968/1969" type="inclusive">1968-1969</unitdate><container altrender="Manuscript box - Legal" id="aspace_a070587eca631398626aa0c6ef33b2a7" label="Mixed Materials [31142062751485]" type="Box">1</container><container id="aspace_ef84b97306c1a1b630e8142b67bcb8bb" parent="aspace_a070587eca631398626aa0c6ef33b2a7" type="Folder">12</container></did></c><c id="aspace_ref34" level="otherlevel" otherlevel="unspecified"><did><unittitle>Member Organizations and Committee Member Lists</unittitle><unitdate datechar="creation" normal="1956/1964" type="inclusive">1956-1964</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_a21191dc77918fb59f034660b3cc0a19" label="Mixed Materials [31142062751501]" type="Box">2</container><container id="aspace_cfa617bcd58f895d5e45b648aaa833ae" parent="aspace_a21191dc77918fb59f034660b3cc0a19" type="Folder">1</container></did></c><c id="aspace_ref35" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Research Subcommittee</unittitle><unitdate datechar="creation" normal="1958/1963" type="inclusive">1958, 1963</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_64cc3df5175cbaac8ead2bb0d432b1b2" label="Mixed Materials [31142062751501]" type="Box">2</container><container id="aspace_f517481f39eba5f74413366c7bb43335" parent="aspace_64cc3df5175cbaac8ead2bb0d432b1b2" type="Folder">2</container></did></c><c id="aspace_ref36" level="otherlevel" otherlevel="unspecified"><did><unittitle>Catholic Center Minutes</unittitle><unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_94d7ca4a0ebcd0b85662d362ad215f01" label="Mixed Materials [31142062751501]" type="Box">2</container><container id="aspace_61ce2bf028d03f82f1db6681a57f5dfd" parent="aspace_94d7ca4a0ebcd0b85662d362ad215f01" type="Folder">3</container></did></c><c id="aspace_ref37" level="otherlevel" otherlevel="unspecified"><did><unittitle>University Christian Foundation Meeting Minutes and Organizational Information</unittitle><unitdate datechar="creation" normal="1966/1970" type="inclusive">1966-1970</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_9086c70de1497a346a6e02256636b9dd" label="Mixed Materials [31142062751501]" type="Box">2</container><container id="aspace_f520a59c64791d25e56979fabd01ac1c" parent="aspace_9086c70de1497a346a6e02256636b9dd" type="Folder">4</container></did></c><c id="aspace_ref38" level="otherlevel" otherlevel="unspecified"><did><unittitle>Directors and Student Presidents Meetings</unittitle><unitdate datechar="creation" normal="1957/1963" type="inclusive">1957-1963</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_236f3c5913fc52b2542b095f1bcc7062" label="Mixed Materials [31142062751501]" type="Box">2</container><container id="aspace_f6bb31f7023536323eee229019fc8ae5" parent="aspace_236f3c5913fc52b2542b095f1bcc7062" type="Folder">5</container></did></c></c><c id="aspace_ref41" level="series"><did><unittitle>Series 3: Reports, 1957-1969, undated</unittitle></did><scopecontent id="aspace_a04a1cd86bbc1fa450aa42d511356711"><head>Scope and Contents note</head><p>Consists of religious surveys of student religious life and organizations conducted by non-NYU sources, information pertaining to the religious preference cards distributed with registration materials and returned to the IFC, the two self studies (1956 and 1967-69) which profoundly affected the IFC, reports about the plans for a new tri-partite religious center, annual reports on religious activity at Washington Square, and a survey conducted by NYU of religious activity on other college campuses with brochures issued by these institutions.</p></scopecontent><c id="aspace_ref42" level="otherlevel" otherlevel="unspecified"><did><unittitle>Religious Surveys Conducted by Outside Organizations</unittitle><unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_9abf403df21ae5b53314d3e7cea01cf6" label="Mixed Materials [31142062751501]" type="Box">2</container><container id="aspace_a1ea0767fc4398680500916bb8edefbc" parent="aspace_9abf403df21ae5b53314d3e7cea01cf6" type="Folder">6</container></did></c><c id="aspace_ref43" level="otherlevel" otherlevel="unspecified"><did><unittitle>Religious Preference Cards</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_c92231743b0f83ddd1050669b2f7e521" label="Mixed Materials [31142062751501]" type="Box">2</container><container id="aspace_2fec57edb6c2868a14846944e5c8bf7d" parent="aspace_c92231743b0f83ddd1050669b2f7e521" type="Folder">7</container></did></c><c id="aspace_ref44" level="otherlevel" otherlevel="unspecified"><did><unittitle>Self Study</unittitle><unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_64e30cb0637e53452917457d0a1ca110" label="Mixed Materials [31142062751501]" type="Box">2</container><container id="aspace_2bb7be1e0283f4157be1cfa895980e08" parent="aspace_64e30cb0637e53452917457d0a1ca110" type="Folder">8</container></did></c><c id="aspace_ref45" level="otherlevel" otherlevel="unspecified"><did><unittitle>Self Study</unittitle><unitdate datechar="creation" normal="1967/1969" type="inclusive">1967-1969</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_3b9cf046fd253422f1a94a75fe73f26b" label="Mixed Materials [31142062751501]" type="Box">2</container><container id="aspace_973fcac14ddfe2c42996d9cc2736f6d4" parent="aspace_3b9cf046fd253422f1a94a75fe73f26b" type="Folder">9</container></did></c><c id="aspace_ref46" level="otherlevel" otherlevel="unspecified"><did><unittitle>New Religious Center</unittitle><unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_442ecc83740374002c05f6b0146179c7" label="Mixed Materials [31142062751501]" type="Box">2</container><container id="aspace_85ab54a34934c3b38c8e0c57472759fd" parent="aspace_442ecc83740374002c05f6b0146179c7" type="Folder">10</container></did></c><c id="aspace_ref47" level="otherlevel" otherlevel="unspecified"><did><unittitle>Annual Reports on Religious Activity at Washington Square</unittitle><unitdate datechar="creation" normal="1959/1964" type="inclusive">1959-1964</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_c3676537e347943dbb4c3c351b11d147" label="Mixed Materials [31142062751501]" type="Box">2</container><container id="aspace_dc963acde0262958eb7f0cd2f74d7d04" parent="aspace_c3676537e347943dbb4c3c351b11d147" type="Folder">11</container></did></c><c id="aspace_ref48" level="otherlevel" otherlevel="unspecified"><did><unittitle>Survey of Religious Activities on Other Campuses I</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_e2eadacf1f69c9f3d922a9280171aede" label="Mixed Materials [31142062751501]" type="Box">2</container><container id="aspace_52f53c6e06c76af64e23061ea78500eb" parent="aspace_e2eadacf1f69c9f3d922a9280171aede" type="Folder">12</container></did></c><c id="aspace_ref49" level="otherlevel" otherlevel="unspecified"><did><unittitle>Survey of Religious Activities on Other Campuses II</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_dc83f3230211d5cc90737a1b472dd5e4" label="Mixed Materials [31142062751501]" type="Box">2</container><container id="aspace_c39029e80823d70f383ce5ee785a4a70" parent="aspace_dc83f3230211d5cc90737a1b472dd5e4" type="Folder">13</container></did></c></c><c id="aspace_ref52" level="series"><did><unittitle>Series 4: Budget, 1957-1968, undated</unittitle></did><scopecontent id="aspace_ab87089a9cd956c3b46dc78f595b92d2"><head>Scope and Contents note</head><p>Contains correspondence and computer summary sheets of the yearly expenses and budget of the IFC. This series covers from 1957 through 1968, but it is not complete. Requisitions and invoices which contain substantive information and petty cash procedures are included. There is also a file of IFC magazine subscriptions and bills.</p></scopecontent><c id="aspace_ref53" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Budget</unittitle><unitdate datechar="creation" normal="1957/1960" type="inclusive">1957-1960</unitdate><container altrender="Manuscript box - Legal" id="aspace_2ac9b38391a81cb884dd844020df7355" label="Mixed Materials [31142062751519]" type="Box">3</container><container id="aspace_3626cc6050e7e93305e3a164ebab88e0" parent="aspace_2ac9b38391a81cb884dd844020df7355" type="Folder">1</container></did></c><c id="aspace_ref54" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Budget</unittitle><unitdate datechar="creation" normal="1961/1968" type="inclusive">1961-1968</unitdate><container altrender="Manuscript box - Legal" id="aspace_bd05158be4d24f8fec73f62a5f298835" label="Mixed Materials [31142062751519]" type="Box">3</container><container id="aspace_9af5e401e50378111e342e385a49d45a" parent="aspace_bd05158be4d24f8fec73f62a5f298835" type="Folder">2</container></did></c><c id="aspace_ref55" level="otherlevel" otherlevel="unspecified"><did><unittitle>Requisitions and Invoices, Petty Cash Procedures</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_f0d67207acdb205b1d99205e1f1f7ce7" label="Mixed Materials [31142062751519]" type="Box">3</container><container id="aspace_f34e29f7424d83f14afb95ee17298303" parent="aspace_f0d67207acdb205b1d99205e1f1f7ce7" type="Folder">3</container></did></c><c id="aspace_ref56" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Magazine Subscriptions and Bills</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_e0622f3bf77b6ba4acba3d4911e224a8" label="Mixed Materials [31142062751519]" type="Box">3</container><container id="aspace_dfaf0f3029b5acb4a90b86d622f02c7c" parent="aspace_e0622f3bf77b6ba4acba3d4911e224a8" type="Folder">4</container></did></c></c><c id="aspace_ref59" level="series"><did><unittitle>Series 5: Correspondence, 1956-1970</unittitle></did><scopecontent id="aspace_03ecc7611654f76b95ee3f54fd545fee"><head>Scope and Contents note</head><p>Contains incoming and outgoing correspondence regarding meetings, activities, publicity, and organizational details. It is arranged chronologically by year for the years 1956 through 1970. Correspondence for 1965 and 1966 is missing. There is a separate file for correspondence and copies of memos which were set aside for Dr. Isabel Wingate, a faculty member who was chairman of the IFC from 1963 to 1964.</p></scopecontent><c id="aspace_ref60" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Correspondence</unittitle><unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate><container altrender="Manuscript box - Legal" id="aspace_a74b1a042463b1192ac1a554a2ce7bb5" label="Mixed Materials [31142062751519]" type="Box">3</container><container id="aspace_efc135a64fe68dde67a7d53666a19422" parent="aspace_a74b1a042463b1192ac1a554a2ce7bb5" type="Folder">5</container></did></c><c id="aspace_ref61" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Correspondence</unittitle><unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_c23a982802ab568e4a96bb2f99450722" label="Mixed Materials [31142062751519]" type="Box">3</container><container id="aspace_e3beb163e3afac490b8f054179fa97fe" parent="aspace_c23a982802ab568e4a96bb2f99450722" type="Folder">6</container></did></c><c id="aspace_ref62" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Correspondence</unittitle><unitdate datechar="creation" normal="1958/1959" type="inclusive">1958-1959</unitdate><container altrender="Manuscript box - Legal" id="aspace_9277c7ee5050a817c861e074bd3321b7" label="Mixed Materials [31142062751519]" type="Box">3</container><container id="aspace_ba834d8f982375fd59c3e7d53b74b65d" parent="aspace_9277c7ee5050a817c861e074bd3321b7" type="Folder">7</container></did></c><c id="aspace_ref63" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Correspondence I</unittitle><unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate><container altrender="Manuscript box - Legal" id="aspace_9e939820f8d1671c8fb0b35a3348680d" label="Mixed Materials [31142062751519]" type="Box">3</container><container id="aspace_5d24bbd6da654df1a4c54fc023fc20b9" parent="aspace_9e939820f8d1671c8fb0b35a3348680d" type="Folder">8</container></did></c><c id="aspace_ref64" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Correspondence II</unittitle><unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate><container altrender="Manuscript box - Legal" id="aspace_57b285f7c10503f27fbcbc006e614e7c" label="Mixed Materials [31142062751519]" type="Box">3</container><container id="aspace_d1f318ac0efcc3929036f61e5505d1f6" parent="aspace_57b285f7c10503f27fbcbc006e614e7c" type="Folder">9</container></did></c><c id="aspace_ref65" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Correspondence</unittitle><unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate><container altrender="Manuscript box - Legal" id="aspace_f67dc85026058a6d4062561dd7967f61" label="Mixed Materials [31142062751527]" type="Box">4</container><container id="aspace_e289c2c71e20c3b1693d49b0ab5890de" parent="aspace_f67dc85026058a6d4062561dd7967f61" type="Folder">1</container></did></c><c id="aspace_ref66" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Correspondence</unittitle><unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_21214320821d7d225e3b86db24c30c50" label="Mixed Materials [31142062751527]" type="Box">4</container><container id="aspace_33406ae0d993e8a1613e26d7dfb308b3" parent="aspace_21214320821d7d225e3b86db24c30c50" type="Folder">2</container></did></c><c id="aspace_ref67" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Correspondence I</unittitle><unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_6a0f1059b0e3cb8c749823b7126be24c" label="Mixed Materials [31142062751527]" type="Box">4</container><container id="aspace_9d4171547dc03654f25d9ee99db19bfa" parent="aspace_6a0f1059b0e3cb8c749823b7126be24c" type="Folder">3</container></did></c><c id="aspace_ref68" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Correspondence II</unittitle><unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_380b613cdc6179ae5baa4547f2858133" label="Mixed Materials [31142062751527]" type="Box">4</container><container id="aspace_5ba25b6275e475d49aa333979fc2bbea" parent="aspace_380b613cdc6179ae5baa4547f2858133" type="Folder">4</container></did></c><c id="aspace_ref69" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Correspondence</unittitle><unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate><container altrender="Manuscript box - Legal" id="aspace_9279e84a141b312fdd2960d7dd6ba77f" label="Mixed Materials [31142062751527]" type="Box">4</container><container id="aspace_93adcb12979c073d2d48eb8efd247961" parent="aspace_9279e84a141b312fdd2960d7dd6ba77f" type="Folder">5</container></did></c><c id="aspace_ref70" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Correspondence</unittitle><unitdate datechar="creation" normal="1967/1968" type="inclusive">1967-1968</unitdate><container altrender="Manuscript box - Legal" id="aspace_e9c88f9f4e2f9fdf4d67ef883d2e7cf4" label="Mixed Materials [31142062751527]" type="Box">4</container><container id="aspace_dbe40bf0472196798d23e3286940048a" parent="aspace_e9c88f9f4e2f9fdf4d67ef883d2e7cf4" type="Folder">6</container></did></c><c id="aspace_ref71" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Correspondence</unittitle><unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate><container altrender="Manuscript box - Legal" id="aspace_a3d5e08055773d90f4dfb223dc1635a3" label="Mixed Materials [31142062751527]" type="Box">4</container><container id="aspace_4074688fb98c78573bf4c1e4f02e5e5e" parent="aspace_a3d5e08055773d90f4dfb223dc1635a3" type="Folder">7</container></did></c><c id="aspace_ref72" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Correspondence</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Manuscript box - Legal" id="aspace_5775ec99dd1b9cbd1e3c993478bf6905" label="Mixed Materials [31142062751527]" type="Box">4</container><container id="aspace_c6cd64f7e7906a76d45f6434d620ad7d" parent="aspace_5775ec99dd1b9cbd1e3c993478bf6905" type="Folder">8</container></did></c><c id="aspace_ref73" level="otherlevel" otherlevel="unspecified"><did><unittitle>Dr. Isabel Wingate, Faculty member and Chairman of IFC, 1963-1964</unittitle><unitdate datechar="creation" normal="1963/1963" type="inclusive">1963-1964</unitdate><container altrender="Manuscript box - Legal" id="aspace_09260686bae8f6f5b8c7686141e8cbec" label="Mixed Materials [31142062751527]" type="Box">4</container><container id="aspace_992f89bd3f22a92f71bbfab051cd3fdd" parent="aspace_09260686bae8f6f5b8c7686141e8cbec" type="Folder">9</container></did></c></c><c id="aspace_ref76" level="series"><did><unittitle>Series 6: Activities, 1957-1970, undated</unittitle></did><scopecontent id="aspace_b4aa4fefde3e88f06b48c8af88fdd56c"><head>Scope and Contents note</head><p>Contains correspondence and publicity for the various activities run by the IFC. General publicity for the various religious groups at NYU is also included. Activities such as the IFC Dinner, Brotherhood Week, and the Art Shows have been placed in individual folders in this series. Annual calendars and weekly schedules for the IFC and Loeb Student Center are also included.</p></scopecontent><c id="aspace_ref77" level="otherlevel" otherlevel="unspecified"><did><unittitle>Activities</unittitle><unitdate datechar="creation" normal="1958/1959" type="inclusive">1958-1959</unitdate><container altrender="Manuscript box - Legal" id="aspace_b627e5c8eb3e33c010215cddc220ed28" label="Mixed Materials [31142062751535]" type="Box">5</container><container id="aspace_b20f6307ddc845f78d550256664cecff" parent="aspace_b627e5c8eb3e33c010215cddc220ed28" type="Folder">1</container></did></c><c id="aspace_ref78" level="otherlevel" otherlevel="unspecified"><did><unittitle>Publicity for Religious Organizations at NYU</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_811e4d522bacf5a4e3d38da120eed815" label="Mixed Materials [31142062751535]" type="Box">5</container><container id="aspace_bb88a38e1144d6b08aada94159c2f39a" parent="aspace_811e4d522bacf5a4e3d38da120eed815" type="Folder">2</container></did></c><c id="aspace_ref79" level="otherlevel" otherlevel="unspecified"><did><unittitle>Publicity for Religious Groups in Washington Square College Catalog</unittitle><unitdate datechar="creation" normal="1969/1970" type="inclusive">1969-1970</unitdate><container altrender="Manuscript box - Legal" id="aspace_623ee42089f9382071c342f19db8d902" label="Mixed Materials [31142062751535]" type="Box">5</container><container id="aspace_202d99e9854903d63dd195917f5e1ee8" parent="aspace_623ee42089f9382071c342f19db8d902" type="Folder">3</container></did></c><c id="aspace_ref80" level="otherlevel" otherlevel="unspecified"><did><unittitle>Art Show</unittitle><unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate><container altrender="Manuscript box - Legal" id="aspace_cbdd020df3ead8cc73effecca05c515a" label="Mixed Materials [31142062751535]" type="Box">5</container><container id="aspace_1dfb71f58f44e3614e9e1d605e6bff65" parent="aspace_cbdd020df3ead8cc73effecca05c515a" type="Folder">4</container></did></c><c id="aspace_ref81" level="otherlevel" otherlevel="unspecified"><did><unittitle>Activities, Correspondence, and Publicity</unittitle><unitdate datechar="creation" normal="1965/1968" type="inclusive">1965-1968</unitdate><container altrender="Manuscript box - Legal" id="aspace_7ccaae33a967958041767bdefb03559f" label="Mixed Materials [31142062751535]" type="Box">5</container><container id="aspace_a5c6e14c690a4ef598f58285811b7697" parent="aspace_7ccaae33a967958041767bdefb03559f" type="Folder">5</container></did></c><c id="aspace_ref82" level="otherlevel" otherlevel="unspecified"><did><unittitle>UNESCO Citizen's Consultation Program</unittitle><unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate><container altrender="Manuscript box - Legal" id="aspace_9a4ab5492935b926ff04da061dad1c88" label="Mixed Materials [31142062751535]" type="Box">5</container><container id="aspace_4ba6def9a065478fed2813ba269939b2" parent="aspace_9a4ab5492935b926ff04da061dad1c88" type="Folder">6</container></did></c><c id="aspace_ref83" level="otherlevel" otherlevel="unspecified"><did><unittitle>Brotherhood Week</unittitle><unitdate datechar="creation" normal="1958/1961" type="inclusive">1958-1961</unitdate><container altrender="Manuscript box - Legal" id="aspace_e546a9a4bb77c0e64f795fae31f2d72d" label="Mixed Materials [31142062751535]" type="Box">5</container><container id="aspace_5442fe832eb23b2aa19765469a827e9e" parent="aspace_e546a9a4bb77c0e64f795fae31f2d72d" type="Folder">7</container></did></c><c id="aspace_ref84" level="otherlevel" otherlevel="unspecified"><did><unittitle>Brotherhood Week</unittitle><unitdate datechar="creation" normal="1963/1964" type="inclusive">1963-1964</unitdate><container altrender="Manuscript box - Legal" id="aspace_f9b9f172f9be3c1bbc1552e37224701f" label="Mixed Materials [31142062751535]" type="Box">5</container><container id="aspace_2f90b3b616e7da221cd5069b6ca618a9" parent="aspace_f9b9f172f9be3c1bbc1552e37224701f" type="Folder">8</container></did></c><c id="aspace_ref85" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Dinner</unittitle><unitdate datechar="creation" normal="1957/1962" type="inclusive">1957-1958, 1960-1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_8b2276adb15425afa5b1dcc6e49c6533" label="Mixed Materials [31142062751550]" type="Box">6</container><container id="aspace_28a857f5dba84f6a0cb3094b321fa06f" parent="aspace_8b2276adb15425afa5b1dcc6e49c6533" type="Folder">1</container></did></c><c id="aspace_ref86" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Dinner</unittitle><unitdate datechar="creation" normal="1961/1963" type="inclusive">1961-1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_8233c846bb0f5fb5d81d7a4e5451dc8e" label="Mixed Materials [31142062751550]" type="Box">6</container><container id="aspace_a48b0fda60059622730c14543ac289c8" parent="aspace_8233c846bb0f5fb5d81d7a4e5451dc8e" type="Folder">2</container></did></c><c id="aspace_ref87" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Dinner</unittitle><unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_0f17c3373855cc96e1606b5b4376a148" label="Mixed Materials [31142062751550]" type="Box">6</container><container id="aspace_0c3f11dc610f7c4ba72bb3488fff06f0" parent="aspace_0f17c3373855cc96e1606b5b4376a148" type="Folder">3</container></did></c><c id="aspace_ref88" level="otherlevel" otherlevel="unspecified"><did><unittitle>National Conference of Christians and Jews, Information and Activities</unittitle><unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate><container altrender="Manuscript box - Legal" id="aspace_b9b2b04f6194637cd8bbf94e9cd04045" label="Mixed Materials [31142062751550]" type="Box">6</container><container id="aspace_b2ced2cb50b390f5f236b74c280962d2" parent="aspace_b9b2b04f6194637cd8bbf94e9cd04045" type="Folder">4</container></did></c><c id="aspace_ref89" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Weekly Schedules</unittitle><unitdate datechar="creation" normal="1960/1962" type="inclusive">1960-1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_dac0001a3b4f3365db97f4d5c377e83f" label="Mixed Materials [31142062751550]" type="Box">6</container><container id="aspace_fe340a577afb7b1d90debbf97957f7f0" parent="aspace_dac0001a3b4f3365db97f4d5c377e83f" type="Folder">5</container></did></c><c id="aspace_ref90" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Calendar</unittitle><unitdate datechar="creation" normal="1965/1966" type="inclusive">1965-1966</unitdate><container altrender="Manuscript box - Legal" id="aspace_b15ad52581b8ebbee5f9237dccfcf3e9" label="Mixed Materials [31142062751550]" type="Box">6</container><container id="aspace_da9a946b1f93f0ef0f8debce5f04e10a" parent="aspace_b15ad52581b8ebbee5f9237dccfcf3e9" type="Folder">6</container></did></c><c id="aspace_ref91" level="otherlevel" otherlevel="unspecified"><did><unittitle>IFC Calendar</unittitle><unitdate datechar="creation" normal="1966/1967" type="inclusive">1966-1967</unitdate><container altrender="Manuscript box - Legal" id="aspace_2c585d0a1e45ab96b8dba0f26e3940e3" label="Mixed Materials [31142062751550]" type="Box">6</container><container id="aspace_8f30c7beaf434217d87dfe007298a457" parent="aspace_2c585d0a1e45ab96b8dba0f26e3940e3" type="Folder">7</container></did></c><c id="aspace_ref92" level="otherlevel" otherlevel="unspecified"><did><unittitle>Loeb Student Center Activity Schedules</unittitle><unitdate datechar="creation" normal="1961/1963" type="inclusive">1961-1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_9b0951f3c115a178224216cf31c9658d" label="Mixed Materials [31142062751550]" type="Box">6</container><container id="aspace_c0084e87ea2d0924a8fb5411173a6c8a" parent="aspace_9b0951f3c115a178224216cf31c9658d" type="Folder">8</container></did></c></c><c id="aspace_ref95" level="series"><did><unittitle>Series 7: Personnel and Space, 1955-1970, undated</unittitle></did><scopecontent id="aspace_449547d5d09524858f2f3d17006e9a20"><head>Scope and Contents note</head><p>Includes correspondence and memos regarding IFC employees (resident manager and secretary) and the use, maintenance, and security of 2 Washington Square North.</p></scopecontent><c id="aspace_ref96" level="otherlevel" otherlevel="unspecified"><did><unittitle>Personnel</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_62bac6e39884ba97a54abb0236f9e07f" label="Mixed Materials [31142062751543]" type="Box">7</container><container id="aspace_25031b62cb9c17277bdd9c3325750cb2" parent="aspace_62bac6e39884ba97a54abb0236f9e07f" type="Folder">1</container></did></c><c id="aspace_ref97" level="otherlevel" otherlevel="unspecified"><did><unittitle>Room Use, Rules and Procedures</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_9bb7b4dc2ef07ae8d8d8da67bd6a0618" label="Mixed Materials [31142062751543]" type="Box">7</container><container id="aspace_257f09d056faee57308d7da18a9077df" parent="aspace_9bb7b4dc2ef07ae8d8d8da67bd6a0618" type="Folder">2</container></did></c><c id="aspace_ref98" level="otherlevel" otherlevel="unspecified"><did><unittitle>Building Security</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_016b28c67d93639d8a099ee7cf0cafbf" label="Mixed Materials [31142062751543]" type="Box">7</container><container id="aspace_1cc7e2c388a5422b1a4da78cbd2fa085" parent="aspace_016b28c67d93639d8a099ee7cf0cafbf" type="Folder">3</container></did></c><c id="aspace_ref99" level="otherlevel" otherlevel="unspecified"><did><unittitle>Building Maintenance and Use</unittitle><unitdate datechar="creation" normal="1955/1965" type="inclusive">1955-1965</unitdate><container altrender="Manuscript box - Legal" id="aspace_85b674a9db1fa944b124b2344171b60e" label="Mixed Materials [31142062751543]" type="Box">7</container><container id="aspace_5d11fd31e8c22bfa061632c906750322" parent="aspace_85b674a9db1fa944b124b2344171b60e" type="Folder">4</container></did></c><c id="aspace_ref100" level="otherlevel" otherlevel="unspecified"><did><unittitle>Building Maintenance and Use</unittitle><unitdate datechar="creation" normal="1966/1969" type="inclusive">1966-1969</unitdate><container altrender="Manuscript box - Legal" id="aspace_45488a75d4f92e37767ac315bd60f5b2" label="Mixed Materials [31142062751543]" type="Box">7</container><container id="aspace_776f25c80968ea84ae34b8901e7245a7" parent="aspace_45488a75d4f92e37767ac315bd60f5b2" type="Folder">5</container></did></c><c id="aspace_ref101" level="otherlevel" otherlevel="unspecified"><did><unittitle>Building Maintenance and Use</unittitle><unitdate datechar="creation" normal="1968/1970" type="inclusive">1968-1970</unitdate><container altrender="Manuscript box - Legal" id="aspace_c5c419f74c34aa754726fcd8575bea7f" label="Mixed Materials [31142062751543]" type="Box">7</container><container id="aspace_717ebd9ccbdc39954077c20e27aad3ad" parent="aspace_c5c419f74c34aa754726fcd8575bea7f" type="Folder">6</container></did></c></c><c id="aspace_ref104" level="series"><did><unittitle>Series 8: University Administration, 1957-1967</unittitle></did><scopecontent id="aspace_70a302778713d48d87d64513e1a49168"><head>Scope and Contents note</head><p>Contains correspondence, mimeographed, and printed material from the university administration about general university matters.</p></scopecontent><c id="aspace_ref105" level="otherlevel" otherlevel="unspecified"><did><unittitle>University Administration Information</unittitle><unitdate datechar="creation">1957-1967</unitdate><container altrender="Manuscript box - Legal" id="aspace_8af1d8f15e46e6bcf1235a6dd9887337" label="Mixed Materials [31142062751543]" type="Box">7</container><container id="aspace_878d589808f0f4a39ad0dfa6bf21c12f" parent="aspace_8af1d8f15e46e6bcf1235a6dd9887337" type="Folder">7</container></did></c><c id="aspace_ref106" level="otherlevel" otherlevel="unspecified"><did><unittitle>University Administration: Memos and Correspondence</unittitle><unitdate datechar="creation">1960-1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_51022a302f8abec6b342c109f119fd78" label="Mixed Materials [31142062751543]" type="Box">7</container><container id="aspace_375bd5bf5a2dc668d94d0337d4cc09bc" parent="aspace_51022a302f8abec6b342c109f119fd78" type="Folder">8</container></did></c><c id="aspace_ref107" level="otherlevel" otherlevel="unspecified"><did><unittitle>Reports of the (University) President</unittitle><unitdate datechar="creation">1958-1960</unitdate><container altrender="Manuscript box - Legal" id="aspace_9a29255bb3cc6ef7992a3b1a305ee004" label="Mixed Materials [31142062751543]" type="Box">7</container><container id="aspace_95d1172b51f39fc20660cdd41dfd4fbe" parent="aspace_9a29255bb3cc6ef7992a3b1a305ee004" type="Folder">9</container></did></c><c id="aspace_ref108" level="otherlevel" otherlevel="unspecified"><did><unittitle>NYU Senate Report</unittitle><unitdate datechar="creation">1964</unitdate><container altrender="Manuscript box - Legal" id="aspace_fd3f8d932080300dd5c441781c295fe6" label="Mixed Materials [31142062751543]" type="Box">7</container><container id="aspace_10b2157e69fe12716468d64499af1c60" parent="aspace_fd3f8d932080300dd5c441781c295fe6" type="Folder">10</container></did></c></c></dsc>
-</archdesc>
+      <corpname rules="dacs" source="local">New York University. Office of Student Affairs</corpname>
+      <corpname rules="dacs" source="local">University Christian Foundation</corpname>
+      <persname source="naf">Wingate, Isabel Barnum</persname>
+      <corpname authfilenumber="(lccn)n87836328" source="naf">National Conference of Jews and Christians (U.S.)</corpname>
+      <persname source="naf">Newsom, Carroll V. (Carroll Vincent), 1904-1990</persname>
+      <corpname rules="dacs" source="local">Newman Club</corpname>
+      <persname source="naf">Pollock, Thomas Clark, 1902-1988</persname>
+      <corpname authfilenumber="(lccn)n2001020934" source="naf">New York University. Library of Judaica and Hebraica</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref18" level="series">
+        <did>
+          <unittitle>Series 1: Predecessors of the Interfaith Council, 1948-1956</unittitle>
+        </did>
+        <scopecontent id="aspace_a190bc60d5d953d02b1ec5d7139b24e8">
+          <head>Scope and Contents note</head>
+          <p>Contains the minutes and correspondence relevant to the operation of the House Committee and the Board of Management. These two bodies governed 2 Washington Square North between 1948 and 1956, prior to the creation of the IFC.</p>
+        </scopecontent>
+        <c id="aspace_ref19" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>House Committee</unittitle>
+            <unitdate datechar="creation" normal="1948/1956" type="inclusive">1948-1956</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_137a7b36853a14ada348cf9b37ebaa5b" label="Mixed Materials [31142062751485]" type="Box">1</container>
+            <container id="aspace_daea47dbb6abe63f737a6c3b13c2ed33" parent="aspace_137a7b36853a14ada348cf9b37ebaa5b" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Board of Management</unittitle>
+            <unitdate datechar="creation" normal="1948/1956" type="inclusive">1948-1956</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0c08604e33c102b9841be07468c3f2cc" label="Mixed Materials [31142062751485]" type="Box">1</container>
+            <container id="aspace_a33127ee34dda11b19f3abac56e9b0db" parent="aspace_0c08604e33c102b9841be07468c3f2cc" type="Folder">2</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref23" level="series">
+        <did>
+          <unittitle>Series 2: Interfaith Council Meetings, 1956-1970</unittitle>
+        </did>
+        <scopecontent id="aspace_1c1b10b94f03d6108131c02e69218555">
+          <head>Scope and Contents note</head>
+          <p>Contains minutes and correspondence relating to IFC meetings between 1956 and 1969. It has an incomplete file of lists of members of the IFC and individual members of the different religious organizations that belonged to the IFC. This series also includes minutes and correspondence relating to IFC sub-committee meetings, meetings of the Catholic Center, University Christian Foundation, and the meetings of the Directors of the various groups and of the Student Presidents of the individual groups.</p>
+        </scopecontent>
+        <c id="aspace_ref24" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Meeting Minutes</unittitle>
+            <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2c898f4491fd2574dfd33e2c207e46b4" label="Mixed Materials [31142062751485]" type="Box">1</container>
+            <container id="aspace_1a96078436a6da701ff975247cd19ded" parent="aspace_2c898f4491fd2574dfd33e2c207e46b4" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Meeting Minutes</unittitle>
+            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_42b7cf9c4134fc11ab6afd75436bfa33" label="Mixed Materials [31142062751485]" type="Box">1</container>
+            <container id="aspace_1c1c32801a4f8e7a46e254f556009b2c" parent="aspace_42b7cf9c4134fc11ab6afd75436bfa33" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Meeting Minutes</unittitle>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e8bd63dbd4e06260874e798af021bfc7" label="Mixed Materials [31142062751485]" type="Box">1</container>
+            <container id="aspace_ea6000b6fe221ab5cbf31393f83c919f" parent="aspace_e8bd63dbd4e06260874e798af021bfc7" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Meeting Minutes</unittitle>
+            <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2d1b5a54306d9e193e25203e399b7d74" label="Mixed Materials [31142062751485]" type="Box">1</container>
+            <container id="aspace_88c047974bf6bb015e6f2f85ca8d5f8b" parent="aspace_2d1b5a54306d9e193e25203e399b7d74" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Meeting Minutes</unittitle>
+            <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_23e1d76191a3b8e11d91dd16cfda4436" label="Mixed Materials [31142062751485]" type="Box">1</container>
+            <container id="aspace_d5e5c5c1c7d62ff360bd6cca6cdaa0b0" parent="aspace_23e1d76191a3b8e11d91dd16cfda4436" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Meeting Minutes</unittitle>
+            <unitdate datechar="creation" normal="1961/1962" type="inclusive">1961-1962</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fa3af04b763ca6599ab7ed05c3417a08" label="Mixed Materials [31142062751485]" type="Box">1</container>
+            <container id="aspace_08a4930ed48e2225327c40ecb413571e" parent="aspace_fa3af04b763ca6599ab7ed05c3417a08" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Meeting Minutes</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ae99b48749bd4d21dd48e2fe5df2b4ce" label="Mixed Materials [31142062751485]" type="Box">1</container>
+            <container id="aspace_2bc35589af1743ea7217bd1ca1f89844" parent="aspace_ae99b48749bd4d21dd48e2fe5df2b4ce" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Meeting Minutes</unittitle>
+            <unitdate datechar="creation" normal="1964/1966" type="inclusive">1964-1966</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_16e0202975b2c9d8babe50026e36e276" label="Mixed Materials [31142062751485]" type="Box">1</container>
+            <container id="aspace_5688bddc8e3d2eeb64bd54b67c160fc8" parent="aspace_16e0202975b2c9d8babe50026e36e276" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Meeting Minutes</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_889a8f99e75793c8e5a9d1f31cf2dbf0" label="Mixed Materials [31142062751485]" type="Box">1</container>
+            <container id="aspace_e97d5aedcfa4d76837b4bae601c5690b" parent="aspace_889a8f99e75793c8e5a9d1f31cf2dbf0" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Meeting Minutes</unittitle>
+            <unitdate datechar="creation" normal="1968/1969" type="inclusive">1968-1969</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a070587eca631398626aa0c6ef33b2a7" label="Mixed Materials [31142062751485]" type="Box">1</container>
+            <container id="aspace_ef84b97306c1a1b630e8142b67bcb8bb" parent="aspace_a070587eca631398626aa0c6ef33b2a7" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Member Organizations and Committee Member Lists</unittitle>
+            <unitdate datechar="creation" normal="1956/1964" type="inclusive">1956-1964</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_a21191dc77918fb59f034660b3cc0a19" label="Mixed Materials [31142062751501]" type="Box">2</container>
+            <container id="aspace_cfa617bcd58f895d5e45b648aaa833ae" parent="aspace_a21191dc77918fb59f034660b3cc0a19" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Research Subcommittee</unittitle>
+            <unitdate datechar="creation" normal="1958/1963" type="inclusive">1958, 1963</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_64cc3df5175cbaac8ead2bb0d432b1b2" label="Mixed Materials [31142062751501]" type="Box">2</container>
+            <container id="aspace_f517481f39eba5f74413366c7bb43335" parent="aspace_64cc3df5175cbaac8ead2bb0d432b1b2" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Catholic Center Minutes</unittitle>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_94d7ca4a0ebcd0b85662d362ad215f01" label="Mixed Materials [31142062751501]" type="Box">2</container>
+            <container id="aspace_61ce2bf028d03f82f1db6681a57f5dfd" parent="aspace_94d7ca4a0ebcd0b85662d362ad215f01" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>University Christian Foundation Meeting Minutes and Organizational Information</unittitle>
+            <unitdate datechar="creation" normal="1966/1970" type="inclusive">1966-1970</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_9086c70de1497a346a6e02256636b9dd" label="Mixed Materials [31142062751501]" type="Box">2</container>
+            <container id="aspace_f520a59c64791d25e56979fabd01ac1c" parent="aspace_9086c70de1497a346a6e02256636b9dd" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Directors and Student Presidents Meetings</unittitle>
+            <unitdate datechar="creation" normal="1957/1963" type="inclusive">1957-1963</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_236f3c5913fc52b2542b095f1bcc7062" label="Mixed Materials [31142062751501]" type="Box">2</container>
+            <container id="aspace_f6bb31f7023536323eee229019fc8ae5" parent="aspace_236f3c5913fc52b2542b095f1bcc7062" type="Folder">5</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref41" level="series">
+        <did>
+          <unittitle>Series 3: Reports, 1957-1969, undated</unittitle>
+        </did>
+        <scopecontent id="aspace_a04a1cd86bbc1fa450aa42d511356711">
+          <head>Scope and Contents note</head>
+          <p>Consists of religious surveys of student religious life and organizations conducted by non-NYU sources, information pertaining to the religious preference cards distributed with registration materials and returned to the IFC, the two self studies (1956 and 1967-69) which profoundly affected the IFC, reports about the plans for a new tri-partite religious center, annual reports on religious activity at Washington Square, and a survey conducted by NYU of religious activity on other college campuses with brochures issued by these institutions.</p>
+        </scopecontent>
+        <c id="aspace_ref42" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Religious Surveys Conducted by Outside Organizations</unittitle>
+            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_9abf403df21ae5b53314d3e7cea01cf6" label="Mixed Materials [31142062751501]" type="Box">2</container>
+            <container id="aspace_a1ea0767fc4398680500916bb8edefbc" parent="aspace_9abf403df21ae5b53314d3e7cea01cf6" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Religious Preference Cards</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_c92231743b0f83ddd1050669b2f7e521" label="Mixed Materials [31142062751501]" type="Box">2</container>
+            <container id="aspace_2fec57edb6c2868a14846944e5c8bf7d" parent="aspace_c92231743b0f83ddd1050669b2f7e521" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Self Study</unittitle>
+            <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_64e30cb0637e53452917457d0a1ca110" label="Mixed Materials [31142062751501]" type="Box">2</container>
+            <container id="aspace_2bb7be1e0283f4157be1cfa895980e08" parent="aspace_64e30cb0637e53452917457d0a1ca110" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Self Study</unittitle>
+            <unitdate datechar="creation" normal="1967/1969" type="inclusive">1967-1969</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_3b9cf046fd253422f1a94a75fe73f26b" label="Mixed Materials [31142062751501]" type="Box">2</container>
+            <container id="aspace_973fcac14ddfe2c42996d9cc2736f6d4" parent="aspace_3b9cf046fd253422f1a94a75fe73f26b" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>New Religious Center</unittitle>
+            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_442ecc83740374002c05f6b0146179c7" label="Mixed Materials [31142062751501]" type="Box">2</container>
+            <container id="aspace_85ab54a34934c3b38c8e0c57472759fd" parent="aspace_442ecc83740374002c05f6b0146179c7" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Annual Reports on Religious Activity at Washington Square</unittitle>
+            <unitdate datechar="creation" normal="1959/1964" type="inclusive">1959-1964</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_c3676537e347943dbb4c3c351b11d147" label="Mixed Materials [31142062751501]" type="Box">2</container>
+            <container id="aspace_dc963acde0262958eb7f0cd2f74d7d04" parent="aspace_c3676537e347943dbb4c3c351b11d147" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Survey of Religious Activities on Other Campuses I</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_e2eadacf1f69c9f3d922a9280171aede" label="Mixed Materials [31142062751501]" type="Box">2</container>
+            <container id="aspace_52f53c6e06c76af64e23061ea78500eb" parent="aspace_e2eadacf1f69c9f3d922a9280171aede" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Survey of Religious Activities on Other Campuses II</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_dc83f3230211d5cc90737a1b472dd5e4" label="Mixed Materials [31142062751501]" type="Box">2</container>
+            <container id="aspace_c39029e80823d70f383ce5ee785a4a70" parent="aspace_dc83f3230211d5cc90737a1b472dd5e4" type="Folder">13</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref52" level="series">
+        <did>
+          <unittitle>Series 4: Budget, 1957-1968, undated</unittitle>
+        </did>
+        <scopecontent id="aspace_ab87089a9cd956c3b46dc78f595b92d2">
+          <head>Scope and Contents note</head>
+          <p>Contains correspondence and computer summary sheets of the yearly expenses and budget of the IFC. This series covers from 1957 through 1968, but it is not complete. Requisitions and invoices which contain substantive information and petty cash procedures are included. There is also a file of IFC magazine subscriptions and bills.</p>
+        </scopecontent>
+        <c id="aspace_ref53" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Budget</unittitle>
+            <unitdate datechar="creation" normal="1957/1960" type="inclusive">1957-1960</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2ac9b38391a81cb884dd844020df7355" label="Mixed Materials [31142062751519]" type="Box">3</container>
+            <container id="aspace_3626cc6050e7e93305e3a164ebab88e0" parent="aspace_2ac9b38391a81cb884dd844020df7355" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Budget</unittitle>
+            <unitdate datechar="creation" normal="1961/1968" type="inclusive">1961-1968</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bd05158be4d24f8fec73f62a5f298835" label="Mixed Materials [31142062751519]" type="Box">3</container>
+            <container id="aspace_9af5e401e50378111e342e385a49d45a" parent="aspace_bd05158be4d24f8fec73f62a5f298835" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Requisitions and Invoices, Petty Cash Procedures</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f0d67207acdb205b1d99205e1f1f7ce7" label="Mixed Materials [31142062751519]" type="Box">3</container>
+            <container id="aspace_f34e29f7424d83f14afb95ee17298303" parent="aspace_f0d67207acdb205b1d99205e1f1f7ce7" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Magazine Subscriptions and Bills</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e0622f3bf77b6ba4acba3d4911e224a8" label="Mixed Materials [31142062751519]" type="Box">3</container>
+            <container id="aspace_dfaf0f3029b5acb4a90b86d622f02c7c" parent="aspace_e0622f3bf77b6ba4acba3d4911e224a8" type="Folder">4</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref59" level="series">
+        <did>
+          <unittitle>Series 5: Correspondence, 1956-1970</unittitle>
+        </did>
+        <scopecontent id="aspace_03ecc7611654f76b95ee3f54fd545fee">
+          <head>Scope and Contents note</head>
+          <p>Contains incoming and outgoing correspondence regarding meetings, activities, publicity, and organizational details. It is arranged chronologically by year for the years 1956 through 1970. Correspondence for 1965 and 1966 is missing. There is a separate file for correspondence and copies of memos which were set aside for Dr. Isabel Wingate, a faculty member who was chairman of the IFC from 1963 to 1964.</p>
+        </scopecontent>
+        <c id="aspace_ref60" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a74b1a042463b1192ac1a554a2ce7bb5" label="Mixed Materials [31142062751519]" type="Box">3</container>
+            <container id="aspace_efc135a64fe68dde67a7d53666a19422" parent="aspace_a74b1a042463b1192ac1a554a2ce7bb5" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c23a982802ab568e4a96bb2f99450722" label="Mixed Materials [31142062751519]" type="Box">3</container>
+            <container id="aspace_e3beb163e3afac490b8f054179fa97fe" parent="aspace_c23a982802ab568e4a96bb2f99450722" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1958/1959" type="inclusive">1958-1959</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9277c7ee5050a817c861e074bd3321b7" label="Mixed Materials [31142062751519]" type="Box">3</container>
+            <container id="aspace_ba834d8f982375fd59c3e7d53b74b65d" parent="aspace_9277c7ee5050a817c861e074bd3321b7" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Correspondence I</unittitle>
+            <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9e939820f8d1671c8fb0b35a3348680d" label="Mixed Materials [31142062751519]" type="Box">3</container>
+            <container id="aspace_5d24bbd6da654df1a4c54fc023fc20b9" parent="aspace_9e939820f8d1671c8fb0b35a3348680d" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Correspondence II</unittitle>
+            <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_57b285f7c10503f27fbcbc006e614e7c" label="Mixed Materials [31142062751519]" type="Box">3</container>
+            <container id="aspace_d1f318ac0efcc3929036f61e5505d1f6" parent="aspace_57b285f7c10503f27fbcbc006e614e7c" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f67dc85026058a6d4062561dd7967f61" label="Mixed Materials [31142062751527]" type="Box">4</container>
+            <container id="aspace_e289c2c71e20c3b1693d49b0ab5890de" parent="aspace_f67dc85026058a6d4062561dd7967f61" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_21214320821d7d225e3b86db24c30c50" label="Mixed Materials [31142062751527]" type="Box">4</container>
+            <container id="aspace_33406ae0d993e8a1613e26d7dfb308b3" parent="aspace_21214320821d7d225e3b86db24c30c50" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Correspondence I</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6a0f1059b0e3cb8c749823b7126be24c" label="Mixed Materials [31142062751527]" type="Box">4</container>
+            <container id="aspace_9d4171547dc03654f25d9ee99db19bfa" parent="aspace_6a0f1059b0e3cb8c749823b7126be24c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Correspondence II</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_380b613cdc6179ae5baa4547f2858133" label="Mixed Materials [31142062751527]" type="Box">4</container>
+            <container id="aspace_5ba25b6275e475d49aa333979fc2bbea" parent="aspace_380b613cdc6179ae5baa4547f2858133" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9279e84a141b312fdd2960d7dd6ba77f" label="Mixed Materials [31142062751527]" type="Box">4</container>
+            <container id="aspace_93adcb12979c073d2d48eb8efd247961" parent="aspace_9279e84a141b312fdd2960d7dd6ba77f" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1967/1968" type="inclusive">1967-1968</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e9c88f9f4e2f9fdf4d67ef883d2e7cf4" label="Mixed Materials [31142062751527]" type="Box">4</container>
+            <container id="aspace_dbe40bf0472196798d23e3286940048a" parent="aspace_e9c88f9f4e2f9fdf4d67ef883d2e7cf4" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a3d5e08055773d90f4dfb223dc1635a3" label="Mixed Materials [31142062751527]" type="Box">4</container>
+            <container id="aspace_4074688fb98c78573bf4c1e4f02e5e5e" parent="aspace_a3d5e08055773d90f4dfb223dc1635a3" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5775ec99dd1b9cbd1e3c993478bf6905" label="Mixed Materials [31142062751527]" type="Box">4</container>
+            <container id="aspace_c6cd64f7e7906a76d45f6434d620ad7d" parent="aspace_5775ec99dd1b9cbd1e3c993478bf6905" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Dr. Isabel Wingate, Faculty member and Chairman of IFC, 1963-1964</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963-1964</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_09260686bae8f6f5b8c7686141e8cbec" label="Mixed Materials [31142062751527]" type="Box">4</container>
+            <container id="aspace_992f89bd3f22a92f71bbfab051cd3fdd" parent="aspace_09260686bae8f6f5b8c7686141e8cbec" type="Folder">9</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref76" level="series">
+        <did>
+          <unittitle>Series 6: Activities, 1957-1970, undated</unittitle>
+        </did>
+        <scopecontent id="aspace_b4aa4fefde3e88f06b48c8af88fdd56c">
+          <head>Scope and Contents note</head>
+          <p>Contains correspondence and publicity for the various activities run by the IFC. General publicity for the various religious groups at NYU is also included. Activities such as the IFC Dinner, Brotherhood Week, and the Art Shows have been placed in individual folders in this series. Annual calendars and weekly schedules for the IFC and Loeb Student Center are also included.</p>
+        </scopecontent>
+        <c id="aspace_ref77" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Activities</unittitle>
+            <unitdate datechar="creation" normal="1958/1959" type="inclusive">1958-1959</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b627e5c8eb3e33c010215cddc220ed28" label="Mixed Materials [31142062751535]" type="Box">5</container>
+            <container id="aspace_b20f6307ddc845f78d550256664cecff" parent="aspace_b627e5c8eb3e33c010215cddc220ed28" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publicity for Religious Organizations at NYU</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_811e4d522bacf5a4e3d38da120eed815" label="Mixed Materials [31142062751535]" type="Box">5</container>
+            <container id="aspace_bb88a38e1144d6b08aada94159c2f39a" parent="aspace_811e4d522bacf5a4e3d38da120eed815" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publicity for Religious Groups in Washington Square College Catalog</unittitle>
+            <unitdate datechar="creation" normal="1969/1970" type="inclusive">1969-1970</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_623ee42089f9382071c342f19db8d902" label="Mixed Materials [31142062751535]" type="Box">5</container>
+            <container id="aspace_202d99e9854903d63dd195917f5e1ee8" parent="aspace_623ee42089f9382071c342f19db8d902" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Art Show</unittitle>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cbdd020df3ead8cc73effecca05c515a" label="Mixed Materials [31142062751535]" type="Box">5</container>
+            <container id="aspace_1dfb71f58f44e3614e9e1d605e6bff65" parent="aspace_cbdd020df3ead8cc73effecca05c515a" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Activities, Correspondence, and Publicity</unittitle>
+            <unitdate datechar="creation" normal="1965/1968" type="inclusive">1965-1968</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7ccaae33a967958041767bdefb03559f" label="Mixed Materials [31142062751535]" type="Box">5</container>
+            <container id="aspace_a5c6e14c690a4ef598f58285811b7697" parent="aspace_7ccaae33a967958041767bdefb03559f" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>UNESCO Citizen's Consultation Program</unittitle>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9a4ab5492935b926ff04da061dad1c88" label="Mixed Materials [31142062751535]" type="Box">5</container>
+            <container id="aspace_4ba6def9a065478fed2813ba269939b2" parent="aspace_9a4ab5492935b926ff04da061dad1c88" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Brotherhood Week</unittitle>
+            <unitdate datechar="creation" normal="1958/1961" type="inclusive">1958-1961</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e546a9a4bb77c0e64f795fae31f2d72d" label="Mixed Materials [31142062751535]" type="Box">5</container>
+            <container id="aspace_5442fe832eb23b2aa19765469a827e9e" parent="aspace_e546a9a4bb77c0e64f795fae31f2d72d" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Brotherhood Week</unittitle>
+            <unitdate datechar="creation" normal="1963/1964" type="inclusive">1963-1964</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f9b9f172f9be3c1bbc1552e37224701f" label="Mixed Materials [31142062751535]" type="Box">5</container>
+            <container id="aspace_2f90b3b616e7da221cd5069b6ca618a9" parent="aspace_f9b9f172f9be3c1bbc1552e37224701f" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Dinner</unittitle>
+            <unitdate datechar="creation" normal="1957/1962" type="inclusive">1957-1958, 1960-1962</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8b2276adb15425afa5b1dcc6e49c6533" label="Mixed Materials [31142062751550]" type="Box">6</container>
+            <container id="aspace_28a857f5dba84f6a0cb3094b321fa06f" parent="aspace_8b2276adb15425afa5b1dcc6e49c6533" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Dinner</unittitle>
+            <unitdate datechar="creation" normal="1961/1963" type="inclusive">1961-1963</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8233c846bb0f5fb5d81d7a4e5451dc8e" label="Mixed Materials [31142062751550]" type="Box">6</container>
+            <container id="aspace_a48b0fda60059622730c14543ac289c8" parent="aspace_8233c846bb0f5fb5d81d7a4e5451dc8e" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Dinner</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0f17c3373855cc96e1606b5b4376a148" label="Mixed Materials [31142062751550]" type="Box">6</container>
+            <container id="aspace_0c3f11dc610f7c4ba72bb3488fff06f0" parent="aspace_0f17c3373855cc96e1606b5b4376a148" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>National Conference of Christians and Jews, Information and Activities</unittitle>
+            <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b9b2b04f6194637cd8bbf94e9cd04045" label="Mixed Materials [31142062751550]" type="Box">6</container>
+            <container id="aspace_b2ced2cb50b390f5f236b74c280962d2" parent="aspace_b9b2b04f6194637cd8bbf94e9cd04045" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Weekly Schedules</unittitle>
+            <unitdate datechar="creation" normal="1960/1962" type="inclusive">1960-1962</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dac0001a3b4f3365db97f4d5c377e83f" label="Mixed Materials [31142062751550]" type="Box">6</container>
+            <container id="aspace_fe340a577afb7b1d90debbf97957f7f0" parent="aspace_dac0001a3b4f3365db97f4d5c377e83f" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Calendar</unittitle>
+            <unitdate datechar="creation" normal="1965/1966" type="inclusive">1965-1966</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b15ad52581b8ebbee5f9237dccfcf3e9" label="Mixed Materials [31142062751550]" type="Box">6</container>
+            <container id="aspace_da9a946b1f93f0ef0f8debce5f04e10a" parent="aspace_b15ad52581b8ebbee5f9237dccfcf3e9" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>IFC Calendar</unittitle>
+            <unitdate datechar="creation" normal="1966/1967" type="inclusive">1966-1967</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2c585d0a1e45ab96b8dba0f26e3940e3" label="Mixed Materials [31142062751550]" type="Box">6</container>
+            <container id="aspace_8f30c7beaf434217d87dfe007298a457" parent="aspace_2c585d0a1e45ab96b8dba0f26e3940e3" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Loeb Student Center Activity Schedules</unittitle>
+            <unitdate datechar="creation" normal="1961/1963" type="inclusive">1961-1963</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9b0951f3c115a178224216cf31c9658d" label="Mixed Materials [31142062751550]" type="Box">6</container>
+            <container id="aspace_c0084e87ea2d0924a8fb5411173a6c8a" parent="aspace_9b0951f3c115a178224216cf31c9658d" type="Folder">8</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref95" level="series">
+        <did>
+          <unittitle>Series 7: Personnel and Space, 1955-1970, undated</unittitle>
+        </did>
+        <scopecontent id="aspace_449547d5d09524858f2f3d17006e9a20">
+          <head>Scope and Contents note</head>
+          <p>Includes correspondence and memos regarding IFC employees (resident manager and secretary) and the use, maintenance, and security of 2 Washington Square North.</p>
+        </scopecontent>
+        <c id="aspace_ref96" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Personnel</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_62bac6e39884ba97a54abb0236f9e07f" label="Mixed Materials [31142062751543]" type="Box">7</container>
+            <container id="aspace_25031b62cb9c17277bdd9c3325750cb2" parent="aspace_62bac6e39884ba97a54abb0236f9e07f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Room Use, Rules and Procedures</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9bb7b4dc2ef07ae8d8d8da67bd6a0618" label="Mixed Materials [31142062751543]" type="Box">7</container>
+            <container id="aspace_257f09d056faee57308d7da18a9077df" parent="aspace_9bb7b4dc2ef07ae8d8d8da67bd6a0618" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Building Security</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_016b28c67d93639d8a099ee7cf0cafbf" label="Mixed Materials [31142062751543]" type="Box">7</container>
+            <container id="aspace_1cc7e2c388a5422b1a4da78cbd2fa085" parent="aspace_016b28c67d93639d8a099ee7cf0cafbf" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Building Maintenance and Use</unittitle>
+            <unitdate datechar="creation" normal="1955/1965" type="inclusive">1955-1965</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_85b674a9db1fa944b124b2344171b60e" label="Mixed Materials [31142062751543]" type="Box">7</container>
+            <container id="aspace_5d11fd31e8c22bfa061632c906750322" parent="aspace_85b674a9db1fa944b124b2344171b60e" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Building Maintenance and Use</unittitle>
+            <unitdate datechar="creation" normal="1966/1969" type="inclusive">1966-1969</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_45488a75d4f92e37767ac315bd60f5b2" label="Mixed Materials [31142062751543]" type="Box">7</container>
+            <container id="aspace_776f25c80968ea84ae34b8901e7245a7" parent="aspace_45488a75d4f92e37767ac315bd60f5b2" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Building Maintenance and Use</unittitle>
+            <unitdate datechar="creation" normal="1968/1970" type="inclusive">1968-1970</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c5c419f74c34aa754726fcd8575bea7f" label="Mixed Materials [31142062751543]" type="Box">7</container>
+            <container id="aspace_717ebd9ccbdc39954077c20e27aad3ad" parent="aspace_c5c419f74c34aa754726fcd8575bea7f" type="Folder">6</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref104" level="series">
+        <did>
+          <unittitle>Series 8: University Administration, 1957-1967</unittitle>
+        </did>
+        <scopecontent id="aspace_70a302778713d48d87d64513e1a49168">
+          <head>Scope and Contents note</head>
+          <p>Contains correspondence, mimeographed, and printed material from the university administration about general university matters.</p>
+        </scopecontent>
+        <c id="aspace_ref105" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>University Administration Information</unittitle>
+            <unitdate datechar="creation">1957-1967</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8af1d8f15e46e6bcf1235a6dd9887337" label="Mixed Materials [31142062751543]" type="Box">7</container>
+            <container id="aspace_878d589808f0f4a39ad0dfa6bf21c12f" parent="aspace_8af1d8f15e46e6bcf1235a6dd9887337" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>University Administration: Memos and Correspondence</unittitle>
+            <unitdate datechar="creation">1960-1962</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_51022a302f8abec6b342c109f119fd78" label="Mixed Materials [31142062751543]" type="Box">7</container>
+            <container id="aspace_375bd5bf5a2dc668d94d0337d4cc09bc" parent="aspace_51022a302f8abec6b342c109f119fd78" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref107" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Reports of the (University) President</unittitle>
+            <unitdate datechar="creation">1958-1960</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9a29255bb3cc6ef7992a3b1a305ee004" label="Mixed Materials [31142062751543]" type="Box">7</container>
+            <container id="aspace_95d1172b51f39fc20660cdd41dfd4fbe" parent="aspace_9a29255bb3cc6ef7992a3b1a305ee004" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>NYU Senate Report</unittitle>
+            <unitdate datechar="creation">1964</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fd3f8d932080300dd5c441781c295fe6" label="Mixed Materials [31142062751543]" type="Box">7</container>
+            <container id="aspace_10b2157e69fe12716468d64499af1c60" parent="aspace_fd3f8d932080300dd5c441781c295fe6" type="Folder">10</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

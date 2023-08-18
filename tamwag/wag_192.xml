@@ -1,84 +1,867 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_192">wag_192</eadid><filedesc><titlestmt><titleproper>Guide to the Frank Karl Papers <num>WAG.192</num></titleproper><author>Gail Dancy, 2002 and Wendy Scheir, 2005; assisted by Barbara Hlat.</author></titlestmt><editionstmt><p>This version was derived from karl.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:31:02 -0400</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Frank Karl Papers</unittitle>
-    <origination label="Creator">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_192">wag_192</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Frank Karl Papers <num>WAG.192</num></titleproper>
+        <author>Gail Dancy, 2002 and Wendy Scheir, 2005; assisted by Barbara Hlat.</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from karl.doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:31:02 -0400</date>.</creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Frank Karl Papers</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Karl, Frank</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Karl, Frank</persname>
+      </origination>
+      <unitid>WAG.192</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4.25 Linear Feet</extent>
+        <extent altrender="carrier">in four record cartons and one folder.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1940/1990" type="inclusive">1940-1990</unitdate>
+      <unitdate datechar="creation" normal="1980/1990" type="bulk">1980-1990</unitdate>
+      <abstract id="aspace_a1e88b9d7c6287353d9394da4f95b742" label="Abstract">Frank Karl was president of Albany, New York Local 1151 of the Communications Workers of America (CWA) from 1958 to 1990. He served on the union's national bargaining committee, and helped establish several key programs in labor-management relations, work safety, and counseling and support services. The collection is comprised for the most part of CWA records, including bargaining files, agreements, contracts, annual reports, committee updates, correspondence, and training material. Also included are some of Karl's academic papers, including his Master's thesis on the history of collective bargaining between the CWA and AT&amp;T.</abstract>
+      <langmaterial id="aspace_5274d2a5fff90148e90a270004eececc">Materials are in English.</langmaterial>
+    </did>
+    <acqinfo id="aspace_732e2513129f10cfabf27a75f771bc03">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Frank Karl, 2002. The accession numbers associated with this gift are 2002.005 and 2002.009.</p>
+    </acqinfo>
+    <accessrestrict id="aspace_9bbe15709e65af4e56dc01223894ec8d">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <bioghist id="aspace_42e18fcdf0a23e6e35c1e6a997a80ab2">
+      <head>Historical/Biographical Note</head>
+      <p>Frank Karl was born in the small town of South Bethlehem, NY, just outside of Albany. Later the family moved to Albany, where he attended school. He graduated from Hudson Valley Community College with an Associates degree in 1956, and soon went to work for AT&amp;T (and joined Communications Workers of America, Local 1151) in Albany. He became actively involved in union affairs in 1958, during heated debates over whether the Local should support a Western Electric strike that was on at the time. In the same year he was elected president of the Local, a position he was to hold for the next 33 years.</p>
+      <p>Frank Karl retired from both AT&amp;T and the CWA in 1990. As president, Karl administered an annual budget of $60,000 and was responsible for a membership, at its peak, of 340, a figure which represents well over 90% of eligible AT&amp;T employees in the area..</p>
+      <p>Karl served on the CWA's national bargaining committee, which successfully negotiated six successive contracts on behalf of 87,000 AT&amp;T Long Lines employees. In 1978, he was instrumental in establishing one of the first AT&amp;T/CWA labor-management Common Interest Forums; he then served as the Forum's co-chair through 1990; he was also co-chair of the National AT&amp;T/CWA Safety Advisory Council. In 1980, Karl helped to design and implement the first joint labor-management Employee Assistance Program (EAP) in the Bell System, a program that provided a range of counseling and support services to union members.</p>
+      <p>After retiring in 1990, Frank Karl and Barbara, his wife of 50 years, realized a lifelong dream of building a house in the Adirondack Mountains. Karl, ill-suited to the sedentary life, got involved in local politics, and was soon elected Town Supervisor of Franklin, NY, a post he held for two consecutive terms. He later served on several local boards and committees to work on veterans' rights and environmental issues.</p>
+      <p>Karl earned a Bachelor of Science degree in Industrial and Labor Relations, as well as a Masters degree in Labor and Policy Studies, both from Empire State College (SUNY). Frank and Barbara Karl raised five children.</p>
+    </bioghist>
+    <processinfo id="aspace_33f210d21d58e2e80bc9287cb6e81d53">
+      <head>Processing Information</head>
+      <p>Photographs were separated from this collection during initial processing and were established as a separate collection, the Frank Karl Photographs (PHOTOS 185). In 2013, the photograph collection was reincorporated into the Frank Karl Papers.</p>
+    </processinfo>
+    <scopecontent id="aspace_50fd2155eca2cdd7a16f0809b7975f8d">
+      <head>Scope and Content Note</head>
+      <p>The collection is comprised for the most part of CWA records, including bargaining files, minutes, agreements, annual reports, committee updates, correspondence, photographs, and training material.</p>
+      <p>Also of interest are papers and correspondence on the impact of AT&amp;T divestiture on CWA employees, papers and reports on CWA and AT&amp;T history and structure, and some of Frank Karl's academic papers, including his Master's thesis on the history of collective bargaining between the CWA and AT&amp;T.</p>
+    </scopecontent>
+    <arrangement id="aspace_b90c43ec673b837ecbb98b5dff0eb67f">
+      <head>Arrangement</head>
+      <p>Files are arranged alphabetically.</p>
+      <p>Folders are arranged alphabetically by subject/author heading then chronologically within each subject/author heading.</p>
+      <p>The files are grouped into one series:</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>I, General Files</item>
+      </list>
+    </arrangement>
+    <relatedmaterial id="aspace_f53ffbb2400f64c0521aa4923c777b78">
+      <head>Related Materials</head>
+      <p>Records of the Communications Workers of America, District 1 (WAG 117)<lb/>
+Records of the Communications Workers of America (WAG 124)<lb/></p>
+    </relatedmaterial>
+    <prefercite id="aspace_9ce3fd4cf3b352c77e8b51c201949dec">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Frank Karl Papers; WAG 192; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <userestrict id="aspace_51317e8fd148799d8fea563b3e9be29f">
+      <head>Conditions Governing Use</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by Frank Karl were transferred to New York University in 2002 by Frank Karl. Permission to publish or reproduce materials in this collection must be secured from Tamiment Library and Robert F. Wagner Archives. Please contact tamiment.wagner@nyu.edu, (212) 998-2630.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="lcsh">Labor unions -- Telecommunication -- United States.</subject>
+      <subject source="lcsh">Labor unions -- Officials and employees.</subject>
+      <subject source="lcsh">Labor unions and international relations -- United States -- History -- 20th century.</subject>
+      <subject source="lcsh">Telecommunication -- Employees -- Labor unions.</subject>
+      <subject source="lcsh">Telecommunication -- Law and legislation -- United States.</subject>
+      <subject source="lcsh">Telecommunication -- United States -- History.</subject>
+      <subject source="lcsh">Strikes and lockouts -- Telecommunication.</subject>
+      <genreform source="aat">Minutes (administrative records)</genreform>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Contracts</genreform>
+      <genreform source="aat">Agreements.</genreform>
+      <subject source="lcsh">Arbitration, Industrial |z United States.</subject>
+      <subject source="lcsh">Collective labor agreements -- Telecommunication.</subject>
+      <subject source="lcsh">Corporate divestiture -- United States.</subject>
+      <subject source="lcsh">Collective bargaining -- United States.</subject>
+      <genreform source="aat">Reports.</genreform>
+      <geogname source="lcsh">Albany (N.Y.)</geogname>
+      <corpname authfilenumber="(lccn)n80014461" source="naf">American Telephone and Telegraph Company</corpname>
+      <corpname authfilenumber="(lccn)n81085570" source="naf">Communications Workers of America</corpname>
+      <corpname authfilenumber="(lccn)n84221517" source="naf">American Institute for Free Labor Development</corpname>
+      <corpname authfilenumber="(lccn)n80014461" source="naf">American Telephone and Telegraph Company -- Employees</corpname>
+      <corpname authfilenumber="(lccn)n79022254" source="naf">United States. National Labor Relations Board</corpname>
       <persname rules="dacs" source="local">Karl, Frank</persname>
-    </origination>
-    <origination label="source">
       <persname role="dnr" rules="dacs" source="local">Karl, Frank</persname>
-    </origination>
-    <unitid>WAG.192</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">4.25 Linear Feet</extent>
-      <extent altrender="carrier">in four record cartons and one folder.</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1940/1990" type="inclusive">1940-1990</unitdate>
-    <unitdate datechar="creation" normal="1980/1990" type="bulk">1980-1990</unitdate>
-    <abstract id="aspace_a1e88b9d7c6287353d9394da4f95b742" label="Abstract">Frank Karl was president of Albany, New York Local 1151 of the Communications Workers of America (CWA) from 1958 to 1990. He served on the union's national bargaining committee, and helped establish several key programs in labor-management relations, work safety, and counseling and support services. The collection is comprised for the most part of CWA records, including bargaining files, agreements, contracts, annual reports, committee updates, correspondence, and training material. Also included are some of Karl's academic papers, including his Master's thesis on the history of collective bargaining between the CWA and AT&amp;T.</abstract>
-    <langmaterial id="aspace_5274d2a5fff90148e90a270004eececc">Materials are in English.</langmaterial>
-  </did>
-  <acqinfo id="aspace_732e2513129f10cfabf27a75f771bc03">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Frank Karl, 2002. The accession numbers associated with this gift are 2002.005 and 2002.009.</p>  </acqinfo>
-  <accessrestrict id="aspace_9bbe15709e65af4e56dc01223894ec8d">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <bioghist id="aspace_42e18fcdf0a23e6e35c1e6a997a80ab2">
-    <head>Historical/Biographical Note</head>
-<p>Frank Karl was born in the small town of South Bethlehem, NY, just outside of Albany. Later the family moved to Albany, where he attended school. He graduated from Hudson Valley Community College with an Associates degree in 1956, and soon went to work for AT&amp;T (and joined Communications Workers of America, Local 1151) in Albany. He became actively involved in union affairs in 1958, during heated debates over whether the Local should support a Western Electric strike that was on at the time. In the same year he was elected president of the Local, a position he was to hold for the next 33 years.</p><p>Frank Karl retired from both AT&amp;T and the CWA in 1990. As president, Karl administered an annual budget of $60,000 and was responsible for a membership, at its peak, of 340, a figure which represents well over 90% of eligible AT&amp;T employees in the area..</p><p>Karl served on the CWA's national bargaining committee, which successfully negotiated six successive contracts on behalf of 87,000 AT&amp;T Long Lines employees. In 1978, he was instrumental in establishing one of the first AT&amp;T/CWA labor-management Common Interest Forums; he then served as the Forum's co-chair through 1990; he was also co-chair of the National AT&amp;T/CWA Safety Advisory Council. In 1980, Karl helped to design and implement the first joint labor-management Employee Assistance Program (EAP) in the Bell System, a program that provided a range of counseling and support services to union members.</p><p>After retiring in 1990, Frank Karl and Barbara, his wife of 50 years, realized a lifelong dream of building a house in the Adirondack Mountains. Karl, ill-suited to the sedentary life, got involved in local politics, and was soon elected Town Supervisor of Franklin, NY, a post he held for two consecutive terms. He later served on several local boards and committees to work on veterans' rights and environmental issues.</p><p>Karl earned a Bachelor of Science degree in Industrial and Labor Relations, as well as a Masters degree in Labor and Policy Studies, both from Empire State College (SUNY). Frank and Barbara Karl raised five children.</p>  </bioghist>
-  <processinfo id="aspace_33f210d21d58e2e80bc9287cb6e81d53">
-    <head>Processing Information</head>
-<p>Photographs were separated from this collection during initial processing and were established as a separate collection, the Frank Karl Photographs (PHOTOS 185). In 2013, the photograph collection was reincorporated into the Frank Karl Papers.</p>  </processinfo>
-  <scopecontent id="aspace_50fd2155eca2cdd7a16f0809b7975f8d">
-    <head>Scope and Content Note</head>
-<p>The collection is comprised for the most part of CWA records, including bargaining files, minutes, agreements, annual reports, committee updates, correspondence, photographs, and training material.</p><p>Also of interest are papers and correspondence on the impact of AT&amp;T divestiture on CWA employees, papers and reports on CWA and AT&amp;T history and structure, and some of Frank Karl's academic papers, including his Master's thesis on the history of collective bargaining between the CWA and AT&amp;T.</p>  </scopecontent>
-  <arrangement id="aspace_b90c43ec673b837ecbb98b5dff0eb67f">
-    <head>Arrangement</head>
-<p>Files are arranged alphabetically.</p><p>Folders are arranged alphabetically by subject/author heading then chronologically within each subject/author heading.</p><p>The files are grouped into one series:</p>    <list type="ordered">
-      <head>Missing Title</head>
-      <item>I, General Files</item>
-    </list>
-  </arrangement>
-  <relatedmaterial id="aspace_f53ffbb2400f64c0521aa4923c777b78">
-    <head>Related Materials</head>
-<p>Records of the Communications Workers of America, District 1 (WAG 117)<lb/>
-Records of the Communications Workers of America (WAG 124)<lb/></p>  </relatedmaterial>
-  <prefercite id="aspace_9ce3fd4cf3b352c77e8b51c201949dec">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Frank Karl Papers; WAG 192; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <userestrict id="aspace_51317e8fd148799d8fea563b3e9be29f">
-    <head>Conditions Governing Use</head>
-<p>Any rights (including copyright and related rights to publicity and privacy) held by Frank Karl were transferred to New York University in 2002 by Frank Karl. Permission to publish or reproduce materials in this collection must be secured from Tamiment Library and Robert F. Wagner Archives. Please contact tamiment.wagner@nyu.edu, (212) 998-2630.</p>  </userestrict>
-  <controlaccess>
-    <subject source="lcsh">Labor unions -- Telecommunication -- United States.</subject>
-    <subject source="lcsh">Labor unions -- Officials and employees.</subject>
-    <subject source="lcsh">Labor unions and international relations -- United States -- History -- 20th century.</subject>
-    <subject source="lcsh">Telecommunication -- Employees -- Labor unions.</subject>
-    <subject source="lcsh">Telecommunication -- Law and legislation -- United States.</subject>
-    <subject source="lcsh">Telecommunication -- United States -- History.</subject>
-    <subject source="lcsh">Strikes and lockouts -- Telecommunication.</subject>
-    <genreform source="aat">Minutes (administrative records)</genreform>
-    <genreform source="aat">Correspondence.</genreform>
-    <genreform source="aat">Contracts</genreform>
-    <genreform source="aat">Agreements.</genreform>
-    <subject source="lcsh">Arbitration, Industrial |z United States.</subject>
-    <subject source="lcsh">Collective labor agreements -- Telecommunication.</subject>
-    <subject source="lcsh">Corporate divestiture -- United States.</subject>
-    <subject source="lcsh">Collective bargaining -- United States.</subject>
-    <genreform source="aat">Reports.</genreform>
-    <geogname source="lcsh">Albany (N.Y.)</geogname>
-    <corpname authfilenumber="(lccn)n80014461" source="naf">American Telephone and Telegraph Company</corpname>
-    <corpname authfilenumber="(lccn)n81085570" source="naf">Communications Workers of America</corpname>
-    <corpname authfilenumber="(lccn)n84221517" source="naf">American Institute for Free Labor Development</corpname>
-    <corpname authfilenumber="(lccn)n80014461" source="naf">American Telephone and Telegraph Company -- Employees</corpname>
-    <corpname authfilenumber="(lccn)n79022254" source="naf">United States. National Labor Relations Board</corpname>
-    <persname rules="dacs" source="local">Karl, Frank</persname>
-    <persname role="dnr" rules="dacs" source="local">Karl, Frank</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref15" level="series"><did><unittitle>Series I: Subject Files</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref16" level="file"><did><unittitle>Academic Papers</unittitle><unitdate datechar="creation" normal="1973/1973" type="inclusive">1973, 1980s</unitdate><container id="aspace_e0c3e86feacc06d4dff4292f58d7d618" label="Mixed Materials [31142046761097]" type="Box">1</container><container id="aspace_425b47ec4987460d5cf4daa1797d275f" parent="aspace_e0c3e86feacc06d4dff4292f58d7d618" type="Folder">1</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Agreement I</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container id="aspace_411189b49d84e2de918ac229648f269d" label="Mixed Materials [31142046761097]" type="Box">1</container><container id="aspace_8445f7155a1f227e4c6f26da08d4331c" parent="aspace_411189b49d84e2de918ac229648f269d" type="Folder">2</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Agreement II</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container id="aspace_7106999634a89b4d764cd370e3801a19" label="Mixed Materials [31142046761097]" type="Box">1</container><container id="aspace_2af2d0ae24acf2474b4c709dfc3e3e6c" parent="aspace_7106999634a89b4d764cd370e3801a19" type="Folder">3</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Agreement</unittitle><unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate><container id="aspace_d13cca74b058dbfe7f40761368c261fc" label="Mixed Materials [31142046761097]" type="Box">1</container><container id="aspace_9ae457ff09e1ec2762b7e51934db24ec" parent="aspace_d13cca74b058dbfe7f40761368c261fc" type="Folder">4</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Agreement</unittitle><unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate><container id="aspace_c94a82db62048786900b13ece6ad7b39" label="Mixed Materials [31142046761097]" type="Box">1</container><container id="aspace_f7ac5fa36bfb352bb1f76af33312c33e" parent="aspace_c94a82db62048786900b13ece6ad7b39" type="Folder">5</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Agreement</unittitle><unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate><container id="aspace_5474362ba926e1957ab3eb7918b9303d" label="Mixed Materials [31142046761097]" type="Box">1</container><container id="aspace_fc171680236e3346cdcfd50402dd2645" parent="aspace_5474362ba926e1957ab3eb7918b9303d" type="Folder">6</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Agreement I</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container id="aspace_e8e664f50a5b857cff19a2cfea92c5a9" label="Mixed Materials [31142046761097]" type="Box">1</container><container id="aspace_183581c4289179c33abc92e5a2f120e0" parent="aspace_e8e664f50a5b857cff19a2cfea92c5a9" type="Folder">7</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Agreement II</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container id="aspace_dbff63da0b437e85b728dd3cbb061db6" label="Mixed Materials [31142046761097]" type="Box">1</container><container id="aspace_2aa4c43fd089b26cbd02066f29b3d4f4" parent="aspace_dbff63da0b437e85b728dd3cbb061db6" type="Folder">8</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Agreement: Supplement</unittitle><unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate><container id="aspace_46411b47e324296c539e0b8b93c48bed" label="Mixed Materials [31142046761097]" type="Box">1</container><container id="aspace_e7f1cf301a91bb215cfdcc668bd7d87a" parent="aspace_46411b47e324296c539e0b8b93c48bed" type="Folder">9</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>AT&amp;T Job Briefs</unittitle><unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate><container id="aspace_b4c33dd66be41185ec1dace25cb74683" label="Mixed Materials [31142046761097]" type="Box">1</container><container id="aspace_0d5f623f4570e84c36cf089cf001aba3" parent="aspace_b4c33dd66be41185ec1dace25cb74683" type="Folder">10</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Bargaining I</unittitle><unitdate datechar="creation" normal="1968/1971" type="inclusive">1968-1971</unitdate><container id="aspace_8ea41ac03d4950293274f4e9e0dbe490" label="Mixed Materials [31142046761097]" type="Box">1</container><container id="aspace_4b947c7842007f46a25b8a73f0434bde" parent="aspace_8ea41ac03d4950293274f4e9e0dbe490" type="Folder">11</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Bargaining II</unittitle><unitdate datechar="creation" normal="1968/1971" type="inclusive">1968-1971</unitdate><container id="aspace_99ee1de920b299408209dc9348790712" label="Mixed Materials [31142046761097]" type="Box">1</container><container id="aspace_0acf47a662cad15a32b4d5440e66702a" parent="aspace_99ee1de920b299408209dc9348790712" type="Folder">12</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Bargaining</unittitle><unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate><container id="aspace_d216dd0e18eca594bb96881c157acf78" label="Mixed Materials [31142046761097]" type="Box">1</container><container id="aspace_40a1d3c933b81a60c9cfe043460d7987" parent="aspace_d216dd0e18eca594bb96881c157acf78" type="Folder">13</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Bargaining</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container id="aspace_56cd95d1639ad83c7d8d351b8415d9f7" label="Mixed Materials [31142046761097]" type="Box">1</container><container id="aspace_810e9b446f76a3e45b4dca271140a284" parent="aspace_56cd95d1639ad83c7d8d351b8415d9f7" type="Folder">14</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Bargaining</unittitle><unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate><container id="aspace_333950f457365a4d8f4e495c00ac31d2" label="Mixed Materials [31142046761097]" type="Box">1</container><container id="aspace_4eb75cb39602fa3a9d66f94d48237818" parent="aspace_333950f457365a4d8f4e495c00ac31d2" type="Folder">15</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Bargaining I</unittitle><unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate><container id="aspace_2eef369b391055d7854cfa89ee156c7a" label="Mixed Materials [31142046761097]" type="Box">1</container><container id="aspace_2409a9e3a814dc26f66e28a8c607a14b" parent="aspace_2eef369b391055d7854cfa89ee156c7a" type="Folder">16</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Bargaining II</unittitle><unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate><container id="aspace_ff1eed79c4166c11f0307d274f62e261" label="Mixed Materials [31142046761097]" type="Box">1</container><container id="aspace_c57bf087bc8f57b0f03f95c02799bb27" parent="aspace_ff1eed79c4166c11f0307d274f62e261" type="Folder">17</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Bargaining</unittitle><unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate><container id="aspace_d226ea48c36ecd23b00098c0b716bb4d" label="Mixed Materials [31142046761097]" type="Box">1</container><container id="aspace_f22f34500f5763f4b6771689ca773b57" parent="aspace_d226ea48c36ecd23b00098c0b716bb4d" type="Folder">18</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Bargaining I</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container id="aspace_d0abcf0cd3bc9ee92db7f49feadab71c" label="Mixed Materials [31142046761105]" type="Box">2</container><container id="aspace_3e54baf2d8fea13d1d57c35a41d9a40a" parent="aspace_d0abcf0cd3bc9ee92db7f49feadab71c" type="Folder">1</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Bargaining II</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container id="aspace_0fc1aca365f497241ace6fb15f2ac3b4" label="Mixed Materials [31142046761105]" type="Box">2</container><container id="aspace_537d9a98ebc1b5b2963f696e40e78dd8" parent="aspace_0fc1aca365f497241ace6fb15f2ac3b4" type="Folder">2</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Bargaining III</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container id="aspace_8646f7961dad9fbfeae4a6b41634e257" label="Mixed Materials [31142046761105]" type="Box">2</container><container id="aspace_d251334295b11e543fe207df32de13c1" parent="aspace_8646f7961dad9fbfeae4a6b41634e257" type="Folder">3</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Bargaining IV</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container id="aspace_325b80c84892649e68121fa8a3ad7636" label="Mixed Materials [31142046761105]" type="Box">2</container><container id="aspace_ca11fdec7db83812d0e2a3b3a17b4c23" parent="aspace_325b80c84892649e68121fa8a3ad7636" type="Folder">4</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Bargaining V</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container id="aspace_a4eb03ba831e04d9a99e749a980f51bf" label="Mixed Materials [31142046761105]" type="Box">2</container><container id="aspace_e7330210f9eb9e47ae7b91a34ffebd8d" parent="aspace_a4eb03ba831e04d9a99e749a980f51bf" type="Folder">5</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Bargaining VI</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container id="aspace_80cbe5437c8a1889cb7ca4ae3d0b70bf" label="Mixed Materials [31142046761105]" type="Box">2</container><container id="aspace_029181244f95afe98a64be90c08d9e51" parent="aspace_80cbe5437c8a1889cb7ca4ae3d0b70bf" type="Folder">6</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Bargaining: Agreements</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container id="aspace_ca521dcc45d018767579ae4133e99ac0" label="Mixed Materials [31142046761105]" type="Box">2</container><container id="aspace_a63ef5cf09bce0ab4970a973d7d07d9e" parent="aspace_ca521dcc45d018767579ae4133e99ac0" type="Folder">7</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Bargaining: Bargaining Information Network</unittitle><unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate><container id="aspace_fe8750e917cffc87e5c376f4a3297e1b" label="Mixed Materials [31142046761105]" type="Box">2</container><container id="aspace_08dbf9c39b7596d90e89c9f95c41b1d1" parent="aspace_fe8750e917cffc87e5c376f4a3297e1b" type="Folder">8</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Bargaining: Contract Articles I</unittitle><unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate><container id="aspace_f1b8dd2db62b686b453208b93ebebd1f" label="Mixed Materials [31142046761105]" type="Box">2</container><container id="aspace_41b931f2247dd800b56595a22a8d2bc3" parent="aspace_f1b8dd2db62b686b453208b93ebebd1f" type="Folder">9</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Bargaining: Contract Articles II</unittitle><unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate><container id="aspace_99a6d787102e8c5daabf483d0ff7bb34" label="Mixed Materials [31142046761105]" type="Box">2</container><container id="aspace_d1b63645cea90a2d91ff083096655a89" parent="aspace_99a6d787102e8c5daabf483d0ff7bb34" type="Folder">10</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Bargaining: Contract Articles I</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container id="aspace_342a9b7d2f0156a34e247ae85bcf6e08" label="Mixed Materials [31142046761105]" type="Box">2</container><container id="aspace_a2ef9acd72bbdb521f9145b4425df1b6" parent="aspace_342a9b7d2f0156a34e247ae85bcf6e08" type="Folder">11</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Bargaining: Contract Articles II</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container id="aspace_893309dfdfa07bca074ca4247b5a527f" label="Mixed Materials [31142046761105]" type="Box">2</container><container id="aspace_700bccd3a0b7b2ff50291b9bfcf869c6" parent="aspace_893309dfdfa07bca074ca4247b5a527f" type="Folder">12</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Bargaining: Contract Articles III</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container id="aspace_58d3753f9df018f40a0516f614e7e25e" label="Mixed Materials [31142046761105]" type="Box">2</container><container id="aspace_c105c4c26c3963886573e9a27e43ac55" parent="aspace_58d3753f9df018f40a0516f614e7e25e" type="Folder">13</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Bargaining: Contract Interpretation</unittitle><unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate><container id="aspace_85e42e296e36b0f4f51e3d548423a05e" label="Mixed Materials [31142046761105]" type="Box">2</container><container id="aspace_41b861e165bd44f219323514d601e660" parent="aspace_85e42e296e36b0f4f51e3d548423a05e" type="Folder">14</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Bargaining: Contract Ratification</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container id="aspace_b9cfa17b2994ad4f7edbe39ad39dceca" label="Mixed Materials [31142046761105]" type="Box">2</container><container id="aspace_0670f02486503b86f6297b0aef6beb00" parent="aspace_b9cfa17b2994ad4f7edbe39ad39dceca" type="Folder">15</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Bargaining: Correspondence</unittitle><unitdate datechar="creation" normal="1984/1989" type="inclusive">1984-1989</unitdate><container id="aspace_e941af7c5ae91e790b02fc16eb61c8f9" label="Mixed Materials [31142046761105]" type="Box">2</container><container id="aspace_d2b308ce4d4eef1887bb63a54e628ed0" parent="aspace_e941af7c5ae91e790b02fc16eb61c8f9" type="Folder">16</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Bargaining: Demands</unittitle><unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate><container id="aspace_37bb6aa411f1ae8aca8eeb5f1eb10086" label="Mixed Materials [31142046761105]" type="Box">2</container><container id="aspace_734b4514fd46e159c5afd612cb5678a4" parent="aspace_37bb6aa411f1ae8aca8eeb5f1eb10086" type="Folder">17</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Bargaining: Local Presidents'Conference on Collective Bargaining</unittitle><unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate><container id="aspace_8ff877d782298eed99e3dada8be88fd9" label="Mixed Materials [31142046761105]" type="Box">2</container><container id="aspace_ce4af9d99f9834e768612d3096cd3fd2" parent="aspace_8ff877d782298eed99e3dada8be88fd9" type="Folder">18</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Bargaining: Minutes I</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container id="aspace_9858541e9b9ffccbc9c616e5b5c5636c" label="Mixed Materials [31142046761113]" type="Box">3</container><container id="aspace_b0f6251b6ff8b6b95f961f4444b71fac" parent="aspace_9858541e9b9ffccbc9c616e5b5c5636c" type="Folder">1</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Bargaining: Minutes II</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container id="aspace_7fb6810c0b56027ef969b903981b7d04" label="Mixed Materials [31142046761113]" type="Box">3</container><container id="aspace_c94e22944726ae912117bffd655bbccf" parent="aspace_7fb6810c0b56027ef969b903981b7d04" type="Folder">2</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Bargaining: Pension Plan I</unittitle><unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate><container id="aspace_b61baee570dee8353e6f290a5dbe8b5b" label="Mixed Materials [31142046761113]" type="Box">3</container><container id="aspace_2f6a1491c471cc49dd4cb39e0d624d92" parent="aspace_b61baee570dee8353e6f290a5dbe8b5b" type="Folder">3</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Bargaining: Pension Plan II</unittitle><unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate><container id="aspace_797d1ea6ba7b2ff1847669c69073cb36" label="Mixed Materials [31142046761113]" type="Box">3</container><container id="aspace_5f4834af3839eedbd6bd580af074ef7a" parent="aspace_797d1ea6ba7b2ff1847669c69073cb36" type="Folder">4</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Bargaining: Personal Minutes I</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container id="aspace_e1b0db94add70c5b51d3f8cb64886a92" label="Mixed Materials [31142046761113]" type="Box">3</container><container id="aspace_210b451fe0038ad2890394f562987f74" parent="aspace_e1b0db94add70c5b51d3f8cb64886a92" type="Folder">5</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Bargaining: Personal Minutes II</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container id="aspace_e7e149334eecfc8764f995629a734e40" label="Mixed Materials [31142046761113]" type="Box">3</container><container id="aspace_2b85e2ac8fa73a30f8ae0a275f806630" parent="aspace_e7e149334eecfc8764f995629a734e40" type="Folder">6</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Bargaining: Personal Minutes III</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container id="aspace_e94659e6c3f52c8d9d7fdfe388ac5793" label="Mixed Materials [31142046761113]" type="Box">3</container><container id="aspace_0e62a98d8ad68c604d8f8a617b9f174e" parent="aspace_e94659e6c3f52c8d9d7fdfe388ac5793" type="Folder">7</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Bargaining: Reports</unittitle><unitdate datechar="creation" normal="1963/1989" type="inclusive">1963-1989</unitdate><container id="aspace_b3cbf155659554fa7e8a45614d64d215" label="Mixed Materials [31142046761113]" type="Box">3</container><container id="aspace_3a728ba2423b1e20e074175c5ee5d8e5" parent="aspace_b3cbf155659554fa7e8a45614d64d215" type="Folder">8</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Bargaining: Resolutions I</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container id="aspace_427cd660beb43ee24a75eebbc205f4a0" label="Mixed Materials [31142046761113]" type="Box">3</container><container id="aspace_cd7ab672ccdbcf9da549bffb5d616ddd" parent="aspace_427cd660beb43ee24a75eebbc205f4a0" type="Folder">9</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>Bargaining: Resolutions II</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container id="aspace_4f8142a212dc26fe1d238272a978f7d7" label="Mixed Materials [31142046761113]" type="Box">3</container><container id="aspace_f917571a061897d32b3fbbf326cd1159" parent="aspace_4f8142a212dc26fe1d238272a978f7d7" type="Folder">10</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>Bargaining: Wage Zones Consolidation</unittitle><unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate><container id="aspace_25ad373aaec16540001a8328f2c710de" label="Mixed Materials [31142046761113]" type="Box">3</container><container id="aspace_1bfc885d94a9c9db48c5f046867e6833" parent="aspace_25ad373aaec16540001a8328f2c710de" type="Folder">11</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>Benefits and Wages</unittitle><unitdate datechar="creation" normal="1940/1990" type="inclusive">1940-1990</unitdate><container id="aspace_b4d7aa7d209088aa00d31d8145981a53" label="Mixed Materials [31142046761113]" type="Box">3</container><container id="aspace_2cfeddf5586d8dbf8d0f0d686a5bb54c" parent="aspace_b4d7aa7d209088aa00d31d8145981a53" type="Folder">12</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>CWA History and Structure</unittitle><unitdate datechar="creation">1980s</unitdate><container id="aspace_a20660a6a074feba4cb1967abc40c08e" label="Mixed Materials [31142046761113]" type="Box">3</container><container id="aspace_cb5722cf0b562a126097d8ae70ff80b0" parent="aspace_a20660a6a074feba4cb1967abc40c08e" type="Folder">13</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Contracts</unittitle><unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate><container id="aspace_8b07beafba6451f00a82c17c1cd6def3" label="Mixed Materials [31142046761113]" type="Box">3</container><container id="aspace_7894bb083668a4e76030919897dd58e3" parent="aspace_8b07beafba6451f00a82c17c1cd6def3" type="Folder">14</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1962/1990" type="inclusive">1962-1990</unitdate><container id="aspace_a47884b705c0873a2a13c680d47e80b8" label="Mixed Materials [31142046761113]" type="Box">3</container><container id="aspace_b94cc00609ce5682c1f0e30127b39b6b" parent="aspace_a47884b705c0873a2a13c680d47e80b8" type="Folder">15</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>Divestiture</unittitle><unitdate datechar="creation" normal="1982/1988" type="inclusive">1982-1984, 1988</unitdate><container id="aspace_d8251ddcea9baa1b969fc2b085447c63" label="Mixed Materials [31142046761113]" type="Box">3</container><container id="aspace_1df159d37cc09c394e72dc12e3949087" parent="aspace_d8251ddcea9baa1b969fc2b085447c63" type="Folder">16</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>Divestiture: Stiso Paper</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container id="aspace_f5a038e237b506eca6cd2c7076db08f1" label="Mixed Materials [31142046761113]" type="Box">3</container><container id="aspace_64cbeea3491ebdfb48c2e88e0c7140a6" parent="aspace_f5a038e237b506eca6cd2c7076db08f1" type="Folder">17</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Economic Stabilization Act</unittitle><unitdate datechar="creation">1970s</unitdate><container id="aspace_358609e88f1b6e4be1918b959b4e37e7" label="Mixed Materials [31142046761113]" type="Box">3</container><container id="aspace_98c648dd8abb350abe7c080b2686cb0a" parent="aspace_358609e88f1b6e4be1918b959b4e37e7" type="Folder">18</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Employee Assistance Program (EAP) I</unittitle><unitdate datechar="creation">1980s</unitdate><container id="aspace_59510d87ee65d2def95e0f1a752ee7a4" label="Mixed Materials [31142046761113]" type="Box">3</container><container id="aspace_1ff7f7d4eb4c26b57c6a79f8005dd99b" parent="aspace_59510d87ee65d2def95e0f1a752ee7a4" type="Folder">19</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Employee Assistance Program II</unittitle><unitdate datechar="creation">1980s</unitdate><container id="aspace_b8b811c2a82ef6fbd61772897ac46770" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_be63fb0ccd9da77c818464773d06b96a" parent="aspace_b8b811c2a82ef6fbd61772897ac46770" type="Folder">1</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Employee Assistance Program</unittitle><unitdate datechar="creation">1990s</unitdate><container id="aspace_354490df39085086a043795d9476b1e5" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_ad2ed9d9dd14015e220af84738b9f59b" parent="aspace_354490df39085086a043795d9476b1e5" type="Folder">2</container></did></c><c id="aspace_ref73" level="file"><did><unittitle>Employee Assistance Program: Annual Reports</unittitle><unitdate datechar="creation">1980s-1990s</unitdate><container id="aspace_a514689c02aefd8c920f2cafb73b9b7b" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_5e7189b7195232c46539354771851b82" parent="aspace_a514689c02aefd8c920f2cafb73b9b7b" type="Folder">3</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>Employee Assistance Program: Brochures</unittitle><unitdate datechar="creation" normal="1940/1990" type="inclusive">undated</unitdate><container id="aspace_e124f48324aea6f606fbf8f01adb4e98" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_d2ee94df1cf3792fbc3662ab3134976e" parent="aspace_e124f48324aea6f606fbf8f01adb4e98" type="Folder">4</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>Employee Assistance Program: Correspondence</unittitle><unitdate datechar="creation">1980s</unitdate><container id="aspace_16265cbffcc875f2b987b3ef4dd21678" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_2dca47378f7bedfd18950079679511d7" parent="aspace_16265cbffcc875f2b987b3ef4dd21678" type="Folder">5</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>Employee Assistance Program: Meetings</unittitle><unitdate datechar="creation">1980s</unitdate><container id="aspace_73303b79278a3f253654b6a8e721f69e" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_ecb0a997e082fec675cd58c74ff92e2e" parent="aspace_73303b79278a3f253654b6a8e721f69e" type="Folder">6</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>Employee Assistance Program: Orientation</unittitle><unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate><container id="aspace_8085047185ee70fd541d6969be28b176" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_8bb80a5a9192a34c0f3a77637bc141c4" parent="aspace_8085047185ee70fd541d6969be28b176" type="Folder">7</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>Employee Assistance Program: Oversight Committee</unittitle><unitdate datechar="creation">1980s</unitdate><container id="aspace_d83939a4f4776326fcb07f717df422cf" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_de39ac392381743016fe74fc430da391" parent="aspace_d83939a4f4776326fcb07f717df422cf" type="Folder">8</container></did></c><c id="aspace_ref79" level="file"><did><unittitle>Employee Assistance Program: Oversight Committee</unittitle><unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate><container id="aspace_52b8bc0643b5f34b23098f976af70143" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_be9759fd722af69391360934b3606d56" parent="aspace_52b8bc0643b5f34b23098f976af70143" type="Folder">9</container></did></c><c id="aspace_ref80" level="file"><did><unittitle>Employee Counseling Program</unittitle><unitdate datechar="creation" normal="1979/1983" type="inclusive">1979-1983</unitdate><container id="aspace_070f00896bb7eca2d6ced5aea5468b71" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_b6ac04fcbe9331dc3b79815af5a6bf78" parent="aspace_070f00896bb7eca2d6ced5aea5468b71" type="Folder">10</container></did></c><c id="aspace_ref81" level="file"><did><unittitle>Heath Care Reform</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container id="aspace_01eef5544bf77fe36a1398e37455bad5" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_1396946cdb38da1d9f4fd7ee246faabc" parent="aspace_01eef5544bf77fe36a1398e37455bad5" type="Folder">11</container></did></c><c id="aspace_ref82" level="file"><did><unittitle>Labor Law Reform</unittitle><unitdate datechar="creation">1970s-1980s</unitdate><container id="aspace_473ad044d41b688b3d01f0f172c5a466" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_ba46a30d674c8da49ed91c4ec1c511b6" parent="aspace_473ad044d41b688b3d01f0f172c5a466" type="Folder">12</container></did></c><c id="aspace_ref83" level="file"><did><unittitle>Labor-Management Relations</unittitle><unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate><container id="aspace_290cebc9b286a7513f2f29f3519abc9c" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_a548c5006a13ad9e46b160a4d2c24e5d" parent="aspace_290cebc9b286a7513f2f29f3519abc9c" type="Folder">13</container></did></c><c id="aspace_ref84" level="file"><did><unittitle>Medina Upgrade</unittitle><unitdate datechar="creation" normal="1940/1990" type="inclusive">undated</unitdate><container id="aspace_4c35c9b0d2c2730e5a1331e39d2996e5" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_4873732d03b82d16c28645e9d061e301" parent="aspace_4c35c9b0d2c2730e5a1331e39d2996e5" type="Folder">14</container></did></c><c id="aspace_ref85" level="file"><did><unittitle>Mobilization</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container id="aspace_1ff3fce214b394e2461c29ac3e4ba61d" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_d884736c12bcb8add4843f5624ed560e" parent="aspace_1ff3fce214b394e2461c29ac3e4ba61d" type="Folder">15</container></did></c><c id="aspace_ref86" level="file"><did><unittitle>New York Times Insert on Communications Workers of America</unittitle><unitdate datechar="creation">Apr 7, 1963</unitdate><container id="aspace_a8c0c46b4516a1c0546ed988335f6d53" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_c9916971b0d7a5f1d2a7ff90a27c99c6" parent="aspace_a8c0c46b4516a1c0546ed988335f6d53" type="Folder">16</container></did></c><c id="aspace_ref87" level="file"><did><unittitle>Panorama of Collective Bargaining: The CWA and ATT 1938-1989 (Master's Thesis)</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate><container id="aspace_ded8d0ca3cd2a31c38eebd36fe3efbb7" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_20de52a54be39a60e8e152e5f5fff03c" parent="aspace_ded8d0ca3cd2a31c38eebd36fe3efbb7" type="Folder">17</container></did></c><c id="aspace_ref111" level="file"><did><unittitle>Photographs depicting committees and conferences from the Communications Workers of America</unittitle><unitdate datechar="creation" normal="1959/1989" type="inclusive">1959-1989</unitdate><container altrender="Manuscript box - Legal" id="aspace_2d6ff8819e44f8f425aaf777b815e67c" label="Mixed Materials [31142062722569]" type="Box">Shared Tamiment A005</container></did></c><c id="aspace_ref88" level="file"><did><unittitle>Pittston Coal Strike</unittitle><unitdate datechar="creation" normal="1989/1990" type="inclusive">1989-1990</unitdate><container id="aspace_9c0439e8626fdbbb89ab62853efeebd6" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_f0553557e646b7aa46d94e5c6ef623c2" parent="aspace_9c0439e8626fdbbb89ab62853efeebd6" type="Folder">18</container></did></c><c id="aspace_ref89" level="file"><did><unittitle>Quality of Work Life (QWL)</unittitle><unitdate datechar="creation">1980s</unitdate><container id="aspace_375a39f3a12fa8100c609ba2ab6608ac" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_489022b1cca4acdc7899a56de7961797" parent="aspace_375a39f3a12fa8100c609ba2ab6608ac" type="Folder">19</container></did></c><c id="aspace_ref90" level="file"><did><unittitle>Quality of Work Life: Common Interest Forum</unittitle><unitdate datechar="creation" normal="1982/1990" type="inclusive">1982-1990</unitdate><container id="aspace_01858d4d0eb33109684cdeb490cf7c87" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_a32b9724c7c08bfa09224d91db2aeb34" parent="aspace_01858d4d0eb33109684cdeb490cf7c87" type="Folder">20</container></did></c><c id="aspace_ref91" level="file"><did><unittitle>Quality of Work Life: Handbook, Part I</unittitle><unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate><container id="aspace_f7714d24afc68a3616a9c7b50595f0b5" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_7d75be8b829c051cbc1996f376f5d57d" parent="aspace_f7714d24afc68a3616a9c7b50595f0b5" type="Folder">21</container></did></c><c id="aspace_ref92" level="file"><did><unittitle>Quality of Work Life: Handbook, Part II</unittitle><unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate><container id="aspace_2599957c25c61897bfb647b974ce3f98" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_2d3a1768e66465c2d1489571468930d3" parent="aspace_2599957c25c61897bfb647b974ce3f98" type="Folder">22</container></did></c><c id="aspace_ref93" level="file"><did><unittitle>Quality of Work Life: Northeast Network District Quality Council</unittitle><unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate><container id="aspace_365d12ff0127555093eeaaf8bc70c284" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_9d7c6d6918243fdada712b5e5d18d7c1" parent="aspace_365d12ff0127555093eeaaf8bc70c284" type="Folder">23</container></did></c><c id="aspace_ref94" level="file"><did><unittitle>Quality of Work Life: Regional Vitality Task Force</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate><container id="aspace_301d96cd35464b21bd379d31c2823a32" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_b66753db01acc152a824b886d3d22a5c" parent="aspace_301d96cd35464b21bd379d31c2823a32" type="Folder">24</container></did></c><c id="aspace_ref95" level="file"><did><unittitle>Quality of Work Life: Training Material</unittitle><unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate><container id="aspace_538ce1ed0c906d768854b497237db018" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_c597ad2450eb4adf1ed1ff42f43b48d2" parent="aspace_538ce1ed0c906d768854b497237db018" type="Folder">25</container></did></c><c id="aspace_ref96" level="file"><did><unittitle>Quality of Work Life: Workplace of the Future</unittitle><unitdate datechar="creation" normal="1987/1993" type="inclusive">1987, 1993</unitdate><container id="aspace_44f1d71da3a1905795bde11d4bcc81c2" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_03abe9f8be1e6a57c794c0d0b8693c17" parent="aspace_44f1d71da3a1905795bde11d4bcc81c2" type="Folder">26</container></did></c><c id="aspace_ref97" level="file"><did><unittitle>Safety Advisory Committee</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container id="aspace_8aaf4b7af1bbfdd2614d45e2ee86ddc7" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_bbc95a9dfcf69450ee5c597b7f727fcb" parent="aspace_8aaf4b7af1bbfdd2614d45e2ee86ddc7" type="Folder">27</container></did></c><c id="aspace_ref98" level="file"><did><unittitle>Safety Advisory Committee</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container id="aspace_379a48cd877cdf703864f7512d9bba0a" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_b4415bda7476544da53c12b1fc0b3456" parent="aspace_379a48cd877cdf703864f7512d9bba0a" type="Folder">28</container></did></c><c id="aspace_ref99" level="file"><did><unittitle>Safety Advisory Committee</unittitle><unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate><container id="aspace_5fe5288e057120df22727d491751b340" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_3bc15dc2cae09f42804afbe57cb68cc2" parent="aspace_5fe5288e057120df22727d491751b340" type="Folder">29</container></did></c><c id="aspace_ref100" level="file"><did><unittitle>Safety Advisory Committee</unittitle><unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate><container id="aspace_1618e58057e15300942e215ad1e34564" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_f719baf9430edb990ca21b43fd261ab9" parent="aspace_1618e58057e15300942e215ad1e34564" type="Folder">30</container></did></c><c id="aspace_ref101" level="file"><did><unittitle>Safety Advisory Committee</unittitle><unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate><container id="aspace_611df9ff25e2d4b7ff315af79689ad74" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_34dd48468033fe1c758e539cdee1ab53" parent="aspace_611df9ff25e2d4b7ff315af79689ad74" type="Folder">31</container></did></c><c id="aspace_ref102" level="file"><did><unittitle>Safety Advisory Committee</unittitle><unitdate datechar="creation" normal="1982/1983" type="inclusive">1982-1983</unitdate><container id="aspace_1671a8e874dfdf6e8503177231ec8997" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_595bd5793fedd39dc1918fa99a0c7569" parent="aspace_1671a8e874dfdf6e8503177231ec8997" type="Folder">32</container></did></c><c id="aspace_ref103" level="file"><did><unittitle>Strike</unittitle><unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate><container id="aspace_fa9a55877a2ac0d830b2a89fdb0afaf1" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_fc9d89cabe7675b69f9deb3dddb4b35d" parent="aspace_fa9a55877a2ac0d830b2a89fdb0afaf1" type="Folder">33</container></did></c><c id="aspace_ref104" level="file"><did><unittitle>Strike: New York Telephone</unittitle><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container id="aspace_a368b41ff67e51eda1083345dd1e265e" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_ad0fe34d3c71fa55e88a9ebb087b2bf5" parent="aspace_a368b41ff67e51eda1083345dd1e265e" type="Folder">34</container></did></c><c id="aspace_ref105" level="file"><did><unittitle>Technology</unittitle><unitdate datechar="creation">1960s-1980s</unitdate><container id="aspace_611b294c2611f1f3886b1cdb04d78f05" label="Mixed Materials [31142046761121]" type="Box">4</container><container id="aspace_77217354ce0a7a1b795ad156005a65bb" parent="aspace_611b294c2611f1f3886b1cdb04d78f05" type="Folder">35</container></did></c></c></dsc>
-</archdesc>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref15" level="series">
+        <did>
+          <unittitle>Series I: Subject Files</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Academic Papers</unittitle>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973, 1980s</unitdate>
+            <container id="aspace_e0c3e86feacc06d4dff4292f58d7d618" label="Mixed Materials [31142046761097]" type="Box">1</container>
+            <container id="aspace_425b47ec4987460d5cf4daa1797d275f" parent="aspace_e0c3e86feacc06d4dff4292f58d7d618" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Agreement I</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_411189b49d84e2de918ac229648f269d" label="Mixed Materials [31142046761097]" type="Box">1</container>
+            <container id="aspace_8445f7155a1f227e4c6f26da08d4331c" parent="aspace_411189b49d84e2de918ac229648f269d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Agreement II</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_7106999634a89b4d764cd370e3801a19" label="Mixed Materials [31142046761097]" type="Box">1</container>
+            <container id="aspace_2af2d0ae24acf2474b4c709dfc3e3e6c" parent="aspace_7106999634a89b4d764cd370e3801a19" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Agreement</unittitle>
+            <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_d13cca74b058dbfe7f40761368c261fc" label="Mixed Materials [31142046761097]" type="Box">1</container>
+            <container id="aspace_9ae457ff09e1ec2762b7e51934db24ec" parent="aspace_d13cca74b058dbfe7f40761368c261fc" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Agreement</unittitle>
+            <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_c94a82db62048786900b13ece6ad7b39" label="Mixed Materials [31142046761097]" type="Box">1</container>
+            <container id="aspace_f7ac5fa36bfb352bb1f76af33312c33e" parent="aspace_c94a82db62048786900b13ece6ad7b39" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Agreement</unittitle>
+            <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_5474362ba926e1957ab3eb7918b9303d" label="Mixed Materials [31142046761097]" type="Box">1</container>
+            <container id="aspace_fc171680236e3346cdcfd50402dd2645" parent="aspace_5474362ba926e1957ab3eb7918b9303d" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Agreement I</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_e8e664f50a5b857cff19a2cfea92c5a9" label="Mixed Materials [31142046761097]" type="Box">1</container>
+            <container id="aspace_183581c4289179c33abc92e5a2f120e0" parent="aspace_e8e664f50a5b857cff19a2cfea92c5a9" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Agreement II</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_dbff63da0b437e85b728dd3cbb061db6" label="Mixed Materials [31142046761097]" type="Box">1</container>
+            <container id="aspace_2aa4c43fd089b26cbd02066f29b3d4f4" parent="aspace_dbff63da0b437e85b728dd3cbb061db6" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Agreement: Supplement</unittitle>
+            <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_46411b47e324296c539e0b8b93c48bed" label="Mixed Materials [31142046761097]" type="Box">1</container>
+            <container id="aspace_e7f1cf301a91bb215cfdcc668bd7d87a" parent="aspace_46411b47e324296c539e0b8b93c48bed" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>AT&amp;T Job Briefs</unittitle>
+            <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_b4c33dd66be41185ec1dace25cb74683" label="Mixed Materials [31142046761097]" type="Box">1</container>
+            <container id="aspace_0d5f623f4570e84c36cf089cf001aba3" parent="aspace_b4c33dd66be41185ec1dace25cb74683" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Bargaining I</unittitle>
+            <unitdate datechar="creation" normal="1968/1971" type="inclusive">1968-1971</unitdate>
+            <container id="aspace_8ea41ac03d4950293274f4e9e0dbe490" label="Mixed Materials [31142046761097]" type="Box">1</container>
+            <container id="aspace_4b947c7842007f46a25b8a73f0434bde" parent="aspace_8ea41ac03d4950293274f4e9e0dbe490" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Bargaining II</unittitle>
+            <unitdate datechar="creation" normal="1968/1971" type="inclusive">1968-1971</unitdate>
+            <container id="aspace_99ee1de920b299408209dc9348790712" label="Mixed Materials [31142046761097]" type="Box">1</container>
+            <container id="aspace_0acf47a662cad15a32b4d5440e66702a" parent="aspace_99ee1de920b299408209dc9348790712" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Bargaining</unittitle>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_d216dd0e18eca594bb96881c157acf78" label="Mixed Materials [31142046761097]" type="Box">1</container>
+            <container id="aspace_40a1d3c933b81a60c9cfe043460d7987" parent="aspace_d216dd0e18eca594bb96881c157acf78" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Bargaining</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_56cd95d1639ad83c7d8d351b8415d9f7" label="Mixed Materials [31142046761097]" type="Box">1</container>
+            <container id="aspace_810e9b446f76a3e45b4dca271140a284" parent="aspace_56cd95d1639ad83c7d8d351b8415d9f7" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Bargaining</unittitle>
+            <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_333950f457365a4d8f4e495c00ac31d2" label="Mixed Materials [31142046761097]" type="Box">1</container>
+            <container id="aspace_4eb75cb39602fa3a9d66f94d48237818" parent="aspace_333950f457365a4d8f4e495c00ac31d2" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Bargaining I</unittitle>
+            <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_2eef369b391055d7854cfa89ee156c7a" label="Mixed Materials [31142046761097]" type="Box">1</container>
+            <container id="aspace_2409a9e3a814dc26f66e28a8c607a14b" parent="aspace_2eef369b391055d7854cfa89ee156c7a" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Bargaining II</unittitle>
+            <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_ff1eed79c4166c11f0307d274f62e261" label="Mixed Materials [31142046761097]" type="Box">1</container>
+            <container id="aspace_c57bf087bc8f57b0f03f95c02799bb27" parent="aspace_ff1eed79c4166c11f0307d274f62e261" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Bargaining</unittitle>
+            <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_d226ea48c36ecd23b00098c0b716bb4d" label="Mixed Materials [31142046761097]" type="Box">1</container>
+            <container id="aspace_f22f34500f5763f4b6771689ca773b57" parent="aspace_d226ea48c36ecd23b00098c0b716bb4d" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Bargaining I</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_d0abcf0cd3bc9ee92db7f49feadab71c" label="Mixed Materials [31142046761105]" type="Box">2</container>
+            <container id="aspace_3e54baf2d8fea13d1d57c35a41d9a40a" parent="aspace_d0abcf0cd3bc9ee92db7f49feadab71c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Bargaining II</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_0fc1aca365f497241ace6fb15f2ac3b4" label="Mixed Materials [31142046761105]" type="Box">2</container>
+            <container id="aspace_537d9a98ebc1b5b2963f696e40e78dd8" parent="aspace_0fc1aca365f497241ace6fb15f2ac3b4" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Bargaining III</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_8646f7961dad9fbfeae4a6b41634e257" label="Mixed Materials [31142046761105]" type="Box">2</container>
+            <container id="aspace_d251334295b11e543fe207df32de13c1" parent="aspace_8646f7961dad9fbfeae4a6b41634e257" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Bargaining IV</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_325b80c84892649e68121fa8a3ad7636" label="Mixed Materials [31142046761105]" type="Box">2</container>
+            <container id="aspace_ca11fdec7db83812d0e2a3b3a17b4c23" parent="aspace_325b80c84892649e68121fa8a3ad7636" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Bargaining V</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_a4eb03ba831e04d9a99e749a980f51bf" label="Mixed Materials [31142046761105]" type="Box">2</container>
+            <container id="aspace_e7330210f9eb9e47ae7b91a34ffebd8d" parent="aspace_a4eb03ba831e04d9a99e749a980f51bf" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Bargaining VI</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_80cbe5437c8a1889cb7ca4ae3d0b70bf" label="Mixed Materials [31142046761105]" type="Box">2</container>
+            <container id="aspace_029181244f95afe98a64be90c08d9e51" parent="aspace_80cbe5437c8a1889cb7ca4ae3d0b70bf" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Bargaining: Agreements</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_ca521dcc45d018767579ae4133e99ac0" label="Mixed Materials [31142046761105]" type="Box">2</container>
+            <container id="aspace_a63ef5cf09bce0ab4970a973d7d07d9e" parent="aspace_ca521dcc45d018767579ae4133e99ac0" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Bargaining: Bargaining Information Network</unittitle>
+            <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_fe8750e917cffc87e5c376f4a3297e1b" label="Mixed Materials [31142046761105]" type="Box">2</container>
+            <container id="aspace_08dbf9c39b7596d90e89c9f95c41b1d1" parent="aspace_fe8750e917cffc87e5c376f4a3297e1b" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Bargaining: Contract Articles I</unittitle>
+            <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_f1b8dd2db62b686b453208b93ebebd1f" label="Mixed Materials [31142046761105]" type="Box">2</container>
+            <container id="aspace_41b931f2247dd800b56595a22a8d2bc3" parent="aspace_f1b8dd2db62b686b453208b93ebebd1f" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Bargaining: Contract Articles II</unittitle>
+            <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_99a6d787102e8c5daabf483d0ff7bb34" label="Mixed Materials [31142046761105]" type="Box">2</container>
+            <container id="aspace_d1b63645cea90a2d91ff083096655a89" parent="aspace_99a6d787102e8c5daabf483d0ff7bb34" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Bargaining: Contract Articles I</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_342a9b7d2f0156a34e247ae85bcf6e08" label="Mixed Materials [31142046761105]" type="Box">2</container>
+            <container id="aspace_a2ef9acd72bbdb521f9145b4425df1b6" parent="aspace_342a9b7d2f0156a34e247ae85bcf6e08" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Bargaining: Contract Articles II</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_893309dfdfa07bca074ca4247b5a527f" label="Mixed Materials [31142046761105]" type="Box">2</container>
+            <container id="aspace_700bccd3a0b7b2ff50291b9bfcf869c6" parent="aspace_893309dfdfa07bca074ca4247b5a527f" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Bargaining: Contract Articles III</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_58d3753f9df018f40a0516f614e7e25e" label="Mixed Materials [31142046761105]" type="Box">2</container>
+            <container id="aspace_c105c4c26c3963886573e9a27e43ac55" parent="aspace_58d3753f9df018f40a0516f614e7e25e" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Bargaining: Contract Interpretation</unittitle>
+            <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_85e42e296e36b0f4f51e3d548423a05e" label="Mixed Materials [31142046761105]" type="Box">2</container>
+            <container id="aspace_41b861e165bd44f219323514d601e660" parent="aspace_85e42e296e36b0f4f51e3d548423a05e" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Bargaining: Contract Ratification</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_b9cfa17b2994ad4f7edbe39ad39dceca" label="Mixed Materials [31142046761105]" type="Box">2</container>
+            <container id="aspace_0670f02486503b86f6297b0aef6beb00" parent="aspace_b9cfa17b2994ad4f7edbe39ad39dceca" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Bargaining: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1984/1989" type="inclusive">1984-1989</unitdate>
+            <container id="aspace_e941af7c5ae91e790b02fc16eb61c8f9" label="Mixed Materials [31142046761105]" type="Box">2</container>
+            <container id="aspace_d2b308ce4d4eef1887bb63a54e628ed0" parent="aspace_e941af7c5ae91e790b02fc16eb61c8f9" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Bargaining: Demands</unittitle>
+            <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_37bb6aa411f1ae8aca8eeb5f1eb10086" label="Mixed Materials [31142046761105]" type="Box">2</container>
+            <container id="aspace_734b4514fd46e159c5afd612cb5678a4" parent="aspace_37bb6aa411f1ae8aca8eeb5f1eb10086" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Bargaining: Local Presidents'Conference on Collective Bargaining</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_8ff877d782298eed99e3dada8be88fd9" label="Mixed Materials [31142046761105]" type="Box">2</container>
+            <container id="aspace_ce4af9d99f9834e768612d3096cd3fd2" parent="aspace_8ff877d782298eed99e3dada8be88fd9" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Bargaining: Minutes I</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_9858541e9b9ffccbc9c616e5b5c5636c" label="Mixed Materials [31142046761113]" type="Box">3</container>
+            <container id="aspace_b0f6251b6ff8b6b95f961f4444b71fac" parent="aspace_9858541e9b9ffccbc9c616e5b5c5636c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Bargaining: Minutes II</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_7fb6810c0b56027ef969b903981b7d04" label="Mixed Materials [31142046761113]" type="Box">3</container>
+            <container id="aspace_c94e22944726ae912117bffd655bbccf" parent="aspace_7fb6810c0b56027ef969b903981b7d04" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Bargaining: Pension Plan I</unittitle>
+            <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_b61baee570dee8353e6f290a5dbe8b5b" label="Mixed Materials [31142046761113]" type="Box">3</container>
+            <container id="aspace_2f6a1491c471cc49dd4cb39e0d624d92" parent="aspace_b61baee570dee8353e6f290a5dbe8b5b" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Bargaining: Pension Plan II</unittitle>
+            <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_797d1ea6ba7b2ff1847669c69073cb36" label="Mixed Materials [31142046761113]" type="Box">3</container>
+            <container id="aspace_5f4834af3839eedbd6bd580af074ef7a" parent="aspace_797d1ea6ba7b2ff1847669c69073cb36" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Bargaining: Personal Minutes I</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_e1b0db94add70c5b51d3f8cb64886a92" label="Mixed Materials [31142046761113]" type="Box">3</container>
+            <container id="aspace_210b451fe0038ad2890394f562987f74" parent="aspace_e1b0db94add70c5b51d3f8cb64886a92" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Bargaining: Personal Minutes II</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_e7e149334eecfc8764f995629a734e40" label="Mixed Materials [31142046761113]" type="Box">3</container>
+            <container id="aspace_2b85e2ac8fa73a30f8ae0a275f806630" parent="aspace_e7e149334eecfc8764f995629a734e40" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Bargaining: Personal Minutes III</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_e94659e6c3f52c8d9d7fdfe388ac5793" label="Mixed Materials [31142046761113]" type="Box">3</container>
+            <container id="aspace_0e62a98d8ad68c604d8f8a617b9f174e" parent="aspace_e94659e6c3f52c8d9d7fdfe388ac5793" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Bargaining: Reports</unittitle>
+            <unitdate datechar="creation" normal="1963/1989" type="inclusive">1963-1989</unitdate>
+            <container id="aspace_b3cbf155659554fa7e8a45614d64d215" label="Mixed Materials [31142046761113]" type="Box">3</container>
+            <container id="aspace_3a728ba2423b1e20e074175c5ee5d8e5" parent="aspace_b3cbf155659554fa7e8a45614d64d215" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Bargaining: Resolutions I</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_427cd660beb43ee24a75eebbc205f4a0" label="Mixed Materials [31142046761113]" type="Box">3</container>
+            <container id="aspace_cd7ab672ccdbcf9da549bffb5d616ddd" parent="aspace_427cd660beb43ee24a75eebbc205f4a0" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Bargaining: Resolutions II</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_4f8142a212dc26fe1d238272a978f7d7" label="Mixed Materials [31142046761113]" type="Box">3</container>
+            <container id="aspace_f917571a061897d32b3fbbf326cd1159" parent="aspace_4f8142a212dc26fe1d238272a978f7d7" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Bargaining: Wage Zones Consolidation</unittitle>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_25ad373aaec16540001a8328f2c710de" label="Mixed Materials [31142046761113]" type="Box">3</container>
+            <container id="aspace_1bfc885d94a9c9db48c5f046867e6833" parent="aspace_25ad373aaec16540001a8328f2c710de" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Benefits and Wages</unittitle>
+            <unitdate datechar="creation" normal="1940/1990" type="inclusive">1940-1990</unitdate>
+            <container id="aspace_b4d7aa7d209088aa00d31d8145981a53" label="Mixed Materials [31142046761113]" type="Box">3</container>
+            <container id="aspace_2cfeddf5586d8dbf8d0f0d686a5bb54c" parent="aspace_b4d7aa7d209088aa00d31d8145981a53" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>CWA History and Structure</unittitle>
+            <unitdate datechar="creation">1980s</unitdate>
+            <container id="aspace_a20660a6a074feba4cb1967abc40c08e" label="Mixed Materials [31142046761113]" type="Box">3</container>
+            <container id="aspace_cb5722cf0b562a126097d8ae70ff80b0" parent="aspace_a20660a6a074feba4cb1967abc40c08e" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Contracts</unittitle>
+            <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_8b07beafba6451f00a82c17c1cd6def3" label="Mixed Materials [31142046761113]" type="Box">3</container>
+            <container id="aspace_7894bb083668a4e76030919897dd58e3" parent="aspace_8b07beafba6451f00a82c17c1cd6def3" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1962/1990" type="inclusive">1962-1990</unitdate>
+            <container id="aspace_a47884b705c0873a2a13c680d47e80b8" label="Mixed Materials [31142046761113]" type="Box">3</container>
+            <container id="aspace_b94cc00609ce5682c1f0e30127b39b6b" parent="aspace_a47884b705c0873a2a13c680d47e80b8" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Divestiture</unittitle>
+            <unitdate datechar="creation" normal="1982/1988" type="inclusive">1982-1984, 1988</unitdate>
+            <container id="aspace_d8251ddcea9baa1b969fc2b085447c63" label="Mixed Materials [31142046761113]" type="Box">3</container>
+            <container id="aspace_1df159d37cc09c394e72dc12e3949087" parent="aspace_d8251ddcea9baa1b969fc2b085447c63" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Divestiture: Stiso Paper</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_f5a038e237b506eca6cd2c7076db08f1" label="Mixed Materials [31142046761113]" type="Box">3</container>
+            <container id="aspace_64cbeea3491ebdfb48c2e88e0c7140a6" parent="aspace_f5a038e237b506eca6cd2c7076db08f1" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Economic Stabilization Act</unittitle>
+            <unitdate datechar="creation">1970s</unitdate>
+            <container id="aspace_358609e88f1b6e4be1918b959b4e37e7" label="Mixed Materials [31142046761113]" type="Box">3</container>
+            <container id="aspace_98c648dd8abb350abe7c080b2686cb0a" parent="aspace_358609e88f1b6e4be1918b959b4e37e7" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Employee Assistance Program (EAP) I</unittitle>
+            <unitdate datechar="creation">1980s</unitdate>
+            <container id="aspace_59510d87ee65d2def95e0f1a752ee7a4" label="Mixed Materials [31142046761113]" type="Box">3</container>
+            <container id="aspace_1ff7f7d4eb4c26b57c6a79f8005dd99b" parent="aspace_59510d87ee65d2def95e0f1a752ee7a4" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Employee Assistance Program II</unittitle>
+            <unitdate datechar="creation">1980s</unitdate>
+            <container id="aspace_b8b811c2a82ef6fbd61772897ac46770" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_be63fb0ccd9da77c818464773d06b96a" parent="aspace_b8b811c2a82ef6fbd61772897ac46770" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Employee Assistance Program</unittitle>
+            <unitdate datechar="creation">1990s</unitdate>
+            <container id="aspace_354490df39085086a043795d9476b1e5" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_ad2ed9d9dd14015e220af84738b9f59b" parent="aspace_354490df39085086a043795d9476b1e5" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Employee Assistance Program: Annual Reports</unittitle>
+            <unitdate datechar="creation">1980s-1990s</unitdate>
+            <container id="aspace_a514689c02aefd8c920f2cafb73b9b7b" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_5e7189b7195232c46539354771851b82" parent="aspace_a514689c02aefd8c920f2cafb73b9b7b" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>Employee Assistance Program: Brochures</unittitle>
+            <unitdate datechar="creation" normal="1940/1990" type="inclusive">undated</unitdate>
+            <container id="aspace_e124f48324aea6f606fbf8f01adb4e98" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_d2ee94df1cf3792fbc3662ab3134976e" parent="aspace_e124f48324aea6f606fbf8f01adb4e98" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Employee Assistance Program: Correspondence</unittitle>
+            <unitdate datechar="creation">1980s</unitdate>
+            <container id="aspace_16265cbffcc875f2b987b3ef4dd21678" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_2dca47378f7bedfd18950079679511d7" parent="aspace_16265cbffcc875f2b987b3ef4dd21678" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Employee Assistance Program: Meetings</unittitle>
+            <unitdate datechar="creation">1980s</unitdate>
+            <container id="aspace_73303b79278a3f253654b6a8e721f69e" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_ecb0a997e082fec675cd58c74ff92e2e" parent="aspace_73303b79278a3f253654b6a8e721f69e" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Employee Assistance Program: Orientation</unittitle>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_8085047185ee70fd541d6969be28b176" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_8bb80a5a9192a34c0f3a77637bc141c4" parent="aspace_8085047185ee70fd541d6969be28b176" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>Employee Assistance Program: Oversight Committee</unittitle>
+            <unitdate datechar="creation">1980s</unitdate>
+            <container id="aspace_d83939a4f4776326fcb07f717df422cf" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_de39ac392381743016fe74fc430da391" parent="aspace_d83939a4f4776326fcb07f717df422cf" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>Employee Assistance Program: Oversight Committee</unittitle>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_52b8bc0643b5f34b23098f976af70143" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_be9759fd722af69391360934b3606d56" parent="aspace_52b8bc0643b5f34b23098f976af70143" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>Employee Counseling Program</unittitle>
+            <unitdate datechar="creation" normal="1979/1983" type="inclusive">1979-1983</unitdate>
+            <container id="aspace_070f00896bb7eca2d6ced5aea5468b71" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_b6ac04fcbe9331dc3b79815af5a6bf78" parent="aspace_070f00896bb7eca2d6ced5aea5468b71" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>Heath Care Reform</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_01eef5544bf77fe36a1398e37455bad5" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_1396946cdb38da1d9f4fd7ee246faabc" parent="aspace_01eef5544bf77fe36a1398e37455bad5" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>Labor Law Reform</unittitle>
+            <unitdate datechar="creation">1970s-1980s</unitdate>
+            <container id="aspace_473ad044d41b688b3d01f0f172c5a466" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_ba46a30d674c8da49ed91c4ec1c511b6" parent="aspace_473ad044d41b688b3d01f0f172c5a466" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Labor-Management Relations</unittitle>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_290cebc9b286a7513f2f29f3519abc9c" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_a548c5006a13ad9e46b160a4d2c24e5d" parent="aspace_290cebc9b286a7513f2f29f3519abc9c" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Medina Upgrade</unittitle>
+            <unitdate datechar="creation" normal="1940/1990" type="inclusive">undated</unitdate>
+            <container id="aspace_4c35c9b0d2c2730e5a1331e39d2996e5" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_4873732d03b82d16c28645e9d061e301" parent="aspace_4c35c9b0d2c2730e5a1331e39d2996e5" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>Mobilization</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_1ff3fce214b394e2461c29ac3e4ba61d" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_d884736c12bcb8add4843f5624ed560e" parent="aspace_1ff3fce214b394e2461c29ac3e4ba61d" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>New York Times Insert on Communications Workers of America</unittitle>
+            <unitdate datechar="creation">Apr 7, 1963</unitdate>
+            <container id="aspace_a8c0c46b4516a1c0546ed988335f6d53" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_c9916971b0d7a5f1d2a7ff90a27c99c6" parent="aspace_a8c0c46b4516a1c0546ed988335f6d53" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Panorama of Collective Bargaining: The CWA and ATT 1938-1989 (Master's Thesis)</unittitle>
+            <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_ded8d0ca3cd2a31c38eebd36fe3efbb7" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_20de52a54be39a60e8e152e5f5fff03c" parent="aspace_ded8d0ca3cd2a31c38eebd36fe3efbb7" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>Photographs depicting committees and conferences from the Communications Workers of America</unittitle>
+            <unitdate datechar="creation" normal="1959/1989" type="inclusive">1959-1989</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2d6ff8819e44f8f425aaf777b815e67c" label="Mixed Materials [31142062722569]" type="Box">Shared Tamiment A005</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>Pittston Coal Strike</unittitle>
+            <unitdate datechar="creation" normal="1989/1990" type="inclusive">1989-1990</unitdate>
+            <container id="aspace_9c0439e8626fdbbb89ab62853efeebd6" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_f0553557e646b7aa46d94e5c6ef623c2" parent="aspace_9c0439e8626fdbbb89ab62853efeebd6" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Quality of Work Life (QWL)</unittitle>
+            <unitdate datechar="creation">1980s</unitdate>
+            <container id="aspace_375a39f3a12fa8100c609ba2ab6608ac" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_489022b1cca4acdc7899a56de7961797" parent="aspace_375a39f3a12fa8100c609ba2ab6608ac" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Quality of Work Life: Common Interest Forum</unittitle>
+            <unitdate datechar="creation" normal="1982/1990" type="inclusive">1982-1990</unitdate>
+            <container id="aspace_01858d4d0eb33109684cdeb490cf7c87" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_a32b9724c7c08bfa09224d91db2aeb34" parent="aspace_01858d4d0eb33109684cdeb490cf7c87" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Quality of Work Life: Handbook, Part I</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_f7714d24afc68a3616a9c7b50595f0b5" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_7d75be8b829c051cbc1996f376f5d57d" parent="aspace_f7714d24afc68a3616a9c7b50595f0b5" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Quality of Work Life: Handbook, Part II</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_2599957c25c61897bfb647b974ce3f98" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_2d3a1768e66465c2d1489571468930d3" parent="aspace_2599957c25c61897bfb647b974ce3f98" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>Quality of Work Life: Northeast Network District Quality Council</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_365d12ff0127555093eeaaf8bc70c284" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_9d7c6d6918243fdada712b5e5d18d7c1" parent="aspace_365d12ff0127555093eeaaf8bc70c284" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>Quality of Work Life: Regional Vitality Task Force</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_301d96cd35464b21bd379d31c2823a32" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_b66753db01acc152a824b886d3d22a5c" parent="aspace_301d96cd35464b21bd379d31c2823a32" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>Quality of Work Life: Training Material</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_538ce1ed0c906d768854b497237db018" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_c597ad2450eb4adf1ed1ff42f43b48d2" parent="aspace_538ce1ed0c906d768854b497237db018" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>Quality of Work Life: Workplace of the Future</unittitle>
+            <unitdate datechar="creation" normal="1987/1993" type="inclusive">1987, 1993</unitdate>
+            <container id="aspace_44f1d71da3a1905795bde11d4bcc81c2" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_03abe9f8be1e6a57c794c0d0b8693c17" parent="aspace_44f1d71da3a1905795bde11d4bcc81c2" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>Safety Advisory Committee</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_8aaf4b7af1bbfdd2614d45e2ee86ddc7" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_bbc95a9dfcf69450ee5c597b7f727fcb" parent="aspace_8aaf4b7af1bbfdd2614d45e2ee86ddc7" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>Safety Advisory Committee</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_379a48cd877cdf703864f7512d9bba0a" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_b4415bda7476544da53c12b1fc0b3456" parent="aspace_379a48cd877cdf703864f7512d9bba0a" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>Safety Advisory Committee</unittitle>
+            <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_5fe5288e057120df22727d491751b340" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_3bc15dc2cae09f42804afbe57cb68cc2" parent="aspace_5fe5288e057120df22727d491751b340" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>Safety Advisory Committee</unittitle>
+            <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_1618e58057e15300942e215ad1e34564" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_f719baf9430edb990ca21b43fd261ab9" parent="aspace_1618e58057e15300942e215ad1e34564" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>Safety Advisory Committee</unittitle>
+            <unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate>
+            <container id="aspace_611df9ff25e2d4b7ff315af79689ad74" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_34dd48468033fe1c758e539cdee1ab53" parent="aspace_611df9ff25e2d4b7ff315af79689ad74" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="file">
+          <did>
+            <unittitle>Safety Advisory Committee</unittitle>
+            <unitdate datechar="creation" normal="1982/1983" type="inclusive">1982-1983</unitdate>
+            <container id="aspace_1671a8e874dfdf6e8503177231ec8997" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_595bd5793fedd39dc1918fa99a0c7569" parent="aspace_1671a8e874dfdf6e8503177231ec8997" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="file">
+          <did>
+            <unittitle>Strike</unittitle>
+            <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_fa9a55877a2ac0d830b2a89fdb0afaf1" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_fc9d89cabe7675b69f9deb3dddb4b35d" parent="aspace_fa9a55877a2ac0d830b2a89fdb0afaf1" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref104" level="file">
+          <did>
+            <unittitle>Strike: New York Telephone</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_a368b41ff67e51eda1083345dd1e265e" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_ad0fe34d3c71fa55e88a9ebb087b2bf5" parent="aspace_a368b41ff67e51eda1083345dd1e265e" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>Technology</unittitle>
+            <unitdate datechar="creation">1960s-1980s</unitdate>
+            <container id="aspace_611b294c2611f1f3886b1cdb04d78f05" label="Mixed Materials [31142046761121]" type="Box">4</container>
+            <container id="aspace_77217354ce0a7a1b795ad156005a65bb" parent="aspace_611b294c2611f1f3886b1cdb04d78f05" type="Folder">35</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

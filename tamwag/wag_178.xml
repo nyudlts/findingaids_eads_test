@@ -1,84 +1,809 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/wag_178">wag_178</eadid><filedesc><titlestmt><titleproper>Guide to the Screen Actors Guild, New York Branch Records <num>WAG.178</num></titleproper><author>Teresa R. Taylor</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>1989</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:29:59 -0400</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Screen Actors Guild, New York Branch Records</unittitle>
-    <origination label="Creator">
-      <corpname rules="dacs" source="local">Screen Actors Guild. New York Branch</corpname>
-    </origination>
-    <origination label="source">
-      <corpname role="dnr" rules="dacs" source="local">Screen Actors Guild. New York Branch</corpname>
-    </origination>
-    <unitid>WAG.178</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">4 Linear Feet</extent>
-      <extent altrender="carrier">in four record cartons.</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1954/1984" type="inclusive">1954-1984</unitdate>
-    <abstract id="aspace_9de488bb9d4b679265c55af5a530b6de">The Screen Actors' Guild opened its first branch office in New York City in 1938. The minutes of the New York Section of the Screen Actors' Guild reflect the governance and activities of SAG at the local branch level and provide insight into New York SAG's evolving role in the national organization. The minutes also reveal much about SAG's relationship to other unions both in and outside of the entertainment industry.</abstract>
-    <langmaterial id="aspace_e092e6cd717ae63cc011eb01b57cf739">Materials are in English</langmaterial>
-  </did>
-  <prefercite id="aspace_adba3f6dc6f27ee7cc0ecc94b0319be3">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Screen Actors Guild, New York Branch Records; WAG 178; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <phystech id="aspace_5276ad8686b257c1eccfb91c6960762d">
-    <head>Physical Characteristics and Technical Requirements</head>
-<p>Materials for Series I-V are available on microfilm; microfilm call number is R-7449.</p>  </phystech>
-  <acqinfo id="aspace_d70af3b647cf80c56d098819e5fc36f4">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by the Screen Actors Guild, New York Branch, circa 1990. The accession number associated with this gift is 1978.007.</p>  </acqinfo>
-  <userestrict id="aspace_cf0792827e87afdceda99f3082c1d138">
-    <head>Conditions Governing Use</head>
-<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by the Screen Actors Guild, New York Branch, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
-  <accessrestrict id="aspace_891a09d181cc745a51aa77de56f64875">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <relatedmaterial id="aspace_3c572a0e155ffbc98e760fe57e3a8866">
-    <head>Related Archival Materials</head>
-<p>Actors' Equity Association Records (WAG 011)</p><p>Associated Actors and Artistes of America Records (WAG 110)</p>  </relatedmaterial>
-  <arrangement id="aspace_850cea7c0a1f1d893bbdb689dfb253d8">
-    <head>Arrangement</head>
-<p>This collection is arranged into seven series:<lb/>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/wag_178">wag_178</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Screen Actors Guild, New York Branch Records <num>WAG.178</num></titleproper>
+        <author>Teresa R. Taylor</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>1989</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:29:59 -0400</date>.</creation>
+      <langusage>Description is in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Screen Actors Guild, New York Branch Records</unittitle>
+      <origination label="Creator">
+        <corpname rules="dacs" source="local">Screen Actors Guild. New York Branch</corpname>
+      </origination>
+      <origination label="source">
+        <corpname role="dnr" rules="dacs" source="local">Screen Actors Guild. New York Branch</corpname>
+      </origination>
+      <unitid>WAG.178</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4 Linear Feet</extent>
+        <extent altrender="carrier">in four record cartons.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1954/1984" type="inclusive">1954-1984</unitdate>
+      <abstract id="aspace_9de488bb9d4b679265c55af5a530b6de">The Screen Actors' Guild opened its first branch office in New York City in 1938. The minutes of the New York Section of the Screen Actors' Guild reflect the governance and activities of SAG at the local branch level and provide insight into New York SAG's evolving role in the national organization. The minutes also reveal much about SAG's relationship to other unions both in and outside of the entertainment industry.</abstract>
+      <langmaterial id="aspace_e092e6cd717ae63cc011eb01b57cf739">Materials are in English</langmaterial>
+    </did>
+    <prefercite id="aspace_adba3f6dc6f27ee7cc0ecc94b0319be3">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Screen Actors Guild, New York Branch Records; WAG 178; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <phystech id="aspace_5276ad8686b257c1eccfb91c6960762d">
+      <head>Physical Characteristics and Technical Requirements</head>
+      <p>Materials for Series I-V are available on microfilm; microfilm call number is R-7449.</p>
+    </phystech>
+    <acqinfo id="aspace_d70af3b647cf80c56d098819e5fc36f4">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by the Screen Actors Guild, New York Branch, circa 1990. The accession number associated with this gift is 1978.007.</p>
+    </acqinfo>
+    <userestrict id="aspace_cf0792827e87afdceda99f3082c1d138">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by the Screen Actors Guild, New York Branch, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <accessrestrict id="aspace_891a09d181cc745a51aa77de56f64875">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <relatedmaterial id="aspace_3c572a0e155ffbc98e760fe57e3a8866">
+      <head>Related Archival Materials</head>
+      <p>Actors' Equity Association Records (WAG 011)</p>
+      <p>Associated Actors and Artistes of America Records (WAG 110)</p>
+    </relatedmaterial>
+    <arrangement id="aspace_850cea7c0a1f1d893bbdb689dfb253d8">
+      <head>Arrangement</head>
+      <p>This collection is arranged into seven series:<lb/>
 Series I: New York Council: Minutes, Communications, and Resolutions<lb/>
 Series II: New York Directors of the National Board<lb/>
 Series III: New York Directors of the National Board: Executive Committee<lb/>
 Series IV: National Board of Directors<lb/>
 Series V: Proceedings of the Membership Meetings of the New York Branch of the Scree Actors Guild<lb/>
 Series VI: Unprocessed Materials<lb/>
-Series VII: Archived Website<lb/></p><p>Folders are arranged chronologically within series.</p>  </arrangement>
-  <processinfo id="aspace_279ad634bf21ed904af628e69ddf8c27">
-    <head>Processing Information note</head>
-<p>In 2014, the archived website was added as Series VII. In 2014, the finding aid was adapted into EAD from the original finding aid. Materials in series VI were put in folders.</p>  </processinfo>
-  <bioghist id="aspace_03108502135ea3e932f0ec8e013538b2">
-    <head>Biographical / Historical</head>
-<p><emph render="bold">History of the Screen Actors Guild</emph></p><p>The creation of the Screen Actors' Guild (SAG) in 1933 was the first successful attempt to establish a motion picture actors' union which was independent of the Hollywood studios and producers. From 1920 to 1929, the Actors' Equity Association, an affiliate of the Associated Actors and Artistes of America (4A's) and the American Federation of Labor, made continuous efforts to organize Hollywood actors, but encountered indifference on the
+Series VII: Archived Website<lb/></p>
+      <p>Folders are arranged chronologically within series.</p>
+    </arrangement>
+    <processinfo id="aspace_279ad634bf21ed904af628e69ddf8c27">
+      <head>Processing Information note</head>
+      <p>In 2014, the archived website was added as Series VII. In 2014, the finding aid was adapted into EAD from the original finding aid. Materials in series VI were put in folders.</p>
+    </processinfo>
+    <bioghist id="aspace_03108502135ea3e932f0ec8e013538b2">
+      <head>Biographical / Historical</head>
+      <p>
+        <emph render="bold">History of the Screen Actors Guild</emph>
+      </p>
+      <p>The creation of the Screen Actors' Guild (SAG) in 1933 was the first successful attempt to establish a motion picture actors' union which was independent of the Hollywood studios and producers. From 1920 to 1929, the Actors' Equity Association, an affiliate of the Associated Actors and Artistes of America (4A's) and the American Federation of Labor, made continuous efforts to organize Hollywood actors, but encountered indifference on the
 part of actors and resistance from the producers. In 1927, a cut in non—union salaries generated keener interest in Equity, but Equity was undercut by the Academy of Motion Picture Arts and Sciences, which was created by producers to represent their employees. The Academy protested the salary reduction, and producers chose to bargain with the Academy rather than with Equity. From 1927 to 1933, the Academy functioned as the chief
 bargaining agent for screen actors. 
-The Screen Actors' Guild was founded as a result of actor disaffection with the Academy. In March 1933, the Academy failed to protest drastic outs in the salaries of studio and freelance actors. Moreover, it approved the National Recovery Administration's code for the film industry, which was written by producers and included salary control and agency licensing provisions which the actors resented. SAG originated when six actors, meeting secretly in the home of Kenneth Thomson, decided to form a self governing union, fully independent of the Hollywood producers. Incorporated in Sacramento, California, on June 30, 1933, SAG won its first victory when its president, Eddie Cantor, persuaded Franklin D. Roosevelt to suspend the salary control and agency licensing provisions. This triumph gave SAG instant clout and fostered rapid expansion of its membership.</p><p>When SAG incorporated in 1933, Actors' Equity still had official AFL jurisdiction over motion picture actors. On
-November 13, 1934, Equity relinquished its jurisdiction on the condition that it be transferred to SAG. ln 1935, SAG affiliated with 4A's and the AFL. Motion picture producers refused to recognize SAG as an official bargaining unit until 1937, when 98 percent of SAG's 5,053 members voted to strike for recognition, thus forcing the producers to acknowledge SAG and accept guild shops. In 1937, thirteen producers signed the first Guild contract, which guaranteed minimum wages, 12 hour breaks between calls, and arbitration of future disputes.</p><p><emph render="bold">History of the New York Branch</emph></p><p>In 1938, the Screen Actors' Guild opened its first branch office in New York City. When it was chartered in 1939, the 21 member New York Advisory Council had no representatives on the National Board of Directors. Its chief function was the administration of local union matters, such as arbitration of disputes, approval of contracts, and member relations. Although it could make recommendations to the Board of Directors, the New York Council had little influence on the governance of the national organization until New York's prominence in the growing television industry and in particular, television commercials, provided the Council with the clout needed to gain representation on the Board.</p><p>In 1953-1954, the New York Advisory Council became the New York Council, and the number of Council members increased from 21 to 27, Council members were elected by "voting members" of the New York Branch, namely those persons who had been members of SAG for two years or longer. The two year prerequisite for voting
-was reduced to one year in April 1954 to fit SAG's policy of free membership interchange with affiliates of the 4A's. If not reelected, the president of the Council automatically stayed on as a member for one year after his term expired. The Council held two regular meetings per month, except in the summer when they met once per month.</p><p>In May 1958, the New York Council charged its Executive Committee with the duty of exploring "ways and means of bringing the members of the Guild throughout the country into...the national activities of the Guild." In March 1959, the National Board and the New York Council agreed that nine New York representatives to the National Board would be appointed. The New York representation to the Board consisted of the president and eight members of the Council. Initially, the New York Directors were elected by the Council, rather than by the general
-membership. </p><p>Beginning in March 1964, the New York Branch continued to reorganize its governing body. The Council proposed that its duties be absorbed by the New York Section of the National Board of Directors which would become the sole governing board for New York SAG. At the National Board's annual meeting in November 1964, New York further proposed that its representation be increased to 24, based on proportional representation. The
-national executives' counter—proposal called for 19 New York representatives and the National 4th Vice President would automatically be from New York. ln June 1965, the National Board approved the elimination of the New York Council and the organization of a New York Section with 19 New York National Board members. On November 8, 1965, the New York Section, now renamed the New York Directors of the National Board, approved a by-law dissolving the New York Council and enlarging the quorum of New York Directors to 20. That same day the New York Council held its final meeting.</p><p>The New York Council and the New York Directors were headed by eight officers: the President, four Vice Presidents, the Executive Secretary, the Treasurer and the Recording Secretary. Together, the officers constituted the Executive Committee which was concerned with the financial affairs and budget of the branch, its administrative organization and procedures, and the operation of its office and its personnel policies. Moreover, it
-was empowered to approve signatories of Guild contracts in the New York region; make recommendations to the New York Board in regard to formulation, revision, and enforcement (or waiver) of SAG by-laws, policies and procedures; authorize delegates (usually the Executive Secretary or President) to represent New York SAG at non-SAG conferences and functions, such as the AFL-CIO National Conference. The Executive Committee also served as SAG's communications agent, channeling petitions, invitations, grievances and other matters to the Board or to the appropriate committees or officers. It was also the Executive Committee which approved the editing and publication of Reel. </p><p>A brief overview of committees of New York SAG gives a clear indication of how its concerns and activities expanded from 1954-1977. ln 1954, New York SAG had only four standing committees: Publications, Procedural Rules, Budget &amp; Finance, and Administrative. A year later, the list had grown slightly to include: Wages &amp; Working Conditions and Membership Study. By 1960, Budget &amp; Finance and Administrative had merged into one committee. Other committees for that year were: Agent Relations, Joint Committee, Membership Attendance, Welfare, Membership Relations, Publications, Committee on Rules and Procedure, and Wages &amp; Working Conditions. ln 1962, in response to pressure from the Committee for the Employment of Negro Performers (which
+The Screen Actors' Guild was founded as a result of actor disaffection with the Academy. In March 1933, the Academy failed to protest drastic outs in the salaries of studio and freelance actors. Moreover, it approved the National Recovery Administration's code for the film industry, which was written by producers and included salary control and agency licensing provisions which the actors resented. SAG originated when six actors, meeting secretly in the home of Kenneth Thomson, decided to form a self governing union, fully independent of the Hollywood producers. Incorporated in Sacramento, California, on June 30, 1933, SAG won its first victory when its president, Eddie Cantor, persuaded Franklin D. Roosevelt to suspend the salary control and agency licensing provisions. This triumph gave SAG instant clout and fostered rapid expansion of its membership.</p>
+      <p>When SAG incorporated in 1933, Actors' Equity still had official AFL jurisdiction over motion picture actors. On
+November 13, 1934, Equity relinquished its jurisdiction on the condition that it be transferred to SAG. ln 1935, SAG affiliated with 4A's and the AFL. Motion picture producers refused to recognize SAG as an official bargaining unit until 1937, when 98 percent of SAG's 5,053 members voted to strike for recognition, thus forcing the producers to acknowledge SAG and accept guild shops. In 1937, thirteen producers signed the first Guild contract, which guaranteed minimum wages, 12 hour breaks between calls, and arbitration of future disputes.</p>
+      <p>
+        <emph render="bold">History of the New York Branch</emph>
+      </p>
+      <p>In 1938, the Screen Actors' Guild opened its first branch office in New York City. When it was chartered in 1939, the 21 member New York Advisory Council had no representatives on the National Board of Directors. Its chief function was the administration of local union matters, such as arbitration of disputes, approval of contracts, and member relations. Although it could make recommendations to the Board of Directors, the New York Council had little influence on the governance of the national organization until New York's prominence in the growing television industry and in particular, television commercials, provided the Council with the clout needed to gain representation on the Board.</p>
+      <p>In 1953-1954, the New York Advisory Council became the New York Council, and the number of Council members increased from 21 to 27, Council members were elected by "voting members" of the New York Branch, namely those persons who had been members of SAG for two years or longer. The two year prerequisite for voting
+was reduced to one year in April 1954 to fit SAG's policy of free membership interchange with affiliates of the 4A's. If not reelected, the president of the Council automatically stayed on as a member for one year after his term expired. The Council held two regular meetings per month, except in the summer when they met once per month.</p>
+      <p>In May 1958, the New York Council charged its Executive Committee with the duty of exploring "ways and means of bringing the members of the Guild throughout the country into...the national activities of the Guild." In March 1959, the National Board and the New York Council agreed that nine New York representatives to the National Board would be appointed. The New York representation to the Board consisted of the president and eight members of the Council. Initially, the New York Directors were elected by the Council, rather than by the general
+membership. </p>
+      <p>Beginning in March 1964, the New York Branch continued to reorganize its governing body. The Council proposed that its duties be absorbed by the New York Section of the National Board of Directors which would become the sole governing board for New York SAG. At the National Board's annual meeting in November 1964, New York further proposed that its representation be increased to 24, based on proportional representation. The
+national executives' counter—proposal called for 19 New York representatives and the National 4th Vice President would automatically be from New York. ln June 1965, the National Board approved the elimination of the New York Council and the organization of a New York Section with 19 New York National Board members. On November 8, 1965, the New York Section, now renamed the New York Directors of the National Board, approved a by-law dissolving the New York Council and enlarging the quorum of New York Directors to 20. That same day the New York Council held its final meeting.</p>
+      <p>The New York Council and the New York Directors were headed by eight officers: the President, four Vice Presidents, the Executive Secretary, the Treasurer and the Recording Secretary. Together, the officers constituted the Executive Committee which was concerned with the financial affairs and budget of the branch, its administrative organization and procedures, and the operation of its office and its personnel policies. Moreover, it
+was empowered to approve signatories of Guild contracts in the New York region; make recommendations to the New York Board in regard to formulation, revision, and enforcement (or waiver) of SAG by-laws, policies and procedures; authorize delegates (usually the Executive Secretary or President) to represent New York SAG at non-SAG conferences and functions, such as the AFL-CIO National Conference. The Executive Committee also served as SAG's communications agent, channeling petitions, invitations, grievances and other matters to the Board or to the appropriate committees or officers. It was also the Executive Committee which approved the editing and publication of Reel. </p>
+      <p>A brief overview of committees of New York SAG gives a clear indication of how its concerns and activities expanded from 1954-1977. ln 1954, New York SAG had only four standing committees: Publications, Procedural Rules, Budget &amp; Finance, and Administrative. A year later, the list had grown slightly to include: Wages &amp; Working Conditions and Membership Study. By 1960, Budget &amp; Finance and Administrative had merged into one committee. Other committees for that year were: Agent Relations, Joint Committee, Membership Attendance, Welfare, Membership Relations, Publications, Committee on Rules and Procedure, and Wages &amp; Working Conditions. ln 1962, in response to pressure from the Committee for the Employment of Negro Performers (which
 was independent of SAG but included Guild members), SAG created a Committee on Minorities to study and recommend ways through which it could help combat discrimination in the motion picture industry. This seems to be a turning point for New York SAG, as it became increasingly aware of and involved in civil rights and
-political issues in the 1960s and 1970s. </p><p>SAG jurisdiction also seems to have grown during this period, so that by 1977, the list of committees reflected a much broader range of concerns and activities than in 1954. The committees in 1977 were: Agent Relations, Conservatory, Coordinating, Dubbing, Emergency Relief, Ethnic Minorities, Extras Advisory, Film Society, Guild Government Review, Legislative, Leniency, Manhattan Plaza, Membership Relations (with subcommittees: Orientation, Rap, Actor Services, Member Relations), New York Dancers, New York Production, Publication, Replacement, Retail, singers, Wages &amp; Working Conditions (commercial), Women's SAG's Jurisdiction has also expanded so that it now covers all acting work in the motion picture industry, namely theatrical pictures, television entertainment programs, television commercials and industrial educational films Contracts for extras are also negotiated and administered by the New York Branch.</p>  </bioghist>
-  <scopecontent id="aspace_dd02db122062a02e873dd850db40d485">
-    <head>Scope and Content Note</head>
-<p>The minutes of the New York Section of the Screen Actors' Guild reflect the governance and activities of SAG at the local branch level and provide insight into New York SAG's evolving role in the national organization. The minutes also reveal much about SAG's relationship to other unions both in and outside of the entertainment industry. SAG's relationship to various non-union sectors of the motion picture industry, including production companies, agencies, and distributors, is also documented.</p><p>In a broader context, the minutes reveal much about SAG's involvement in and reactions to trends, problems, innovations and transformations within the entertainment industries as they relate to national and worldwide events. Examples of broader relevant topics include the Great Depression, the labor movement, World War ll, the "red scare" of the McCarthy Era, the civil rights movement, the feminist movement, and the Vietnam War. 
-The effects of such technological developments as the advent of television broadcasting on the entertainment industry can also be discovered through the records of SAG.</p><p>Because of the relative isolation of the New York Branch until 1965, information about the national organization prior to 1965 is scant. Moreover, the series of minutes of the National Board of Directors 1965-1975 (Series IV) is incomplete. Also missing from this collection are records of the New York Branch from 1938-1954. It is possible that much of this material was discarded or destroyed. A memo from the president to the Executive Committee on Oct. 25, 1968 recommended that "correspondence files dating as far back as 1948" and other "non-essential" material be thrown out to increase space in the New York office.</p>  </scopecontent>
-  <custodhist id="aspace_6a3ae2f4d5d4c1b7393dc950d121eecf">
-    <head>Custodial History</head>
-<p>The archived website was migrated from the California Digital Library's Web Archiving Service to the Internet Archive's Archive-It Service in November 2015. The link to California Digital Library was removed in October 2017.</p>  </custodhist>
-  <controlaccess>
-    <corpname role="dnr" rules="dacs" source="local">Screen Actors Guild. New York Branch</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_ref3" level="series"><did><unittitle>Series I: New York Council: Minutes, Communications, and Resolutions</unittitle><unitdate datechar="creation" normal="1954/1965" type="inclusive">1954-1965</unitdate></did><scopecontent id="aspace_29a63f81628d013842812d266fc195df"><head>Scope and Content Note</head><p>The Minutes of the Council, 1954-1965 are generally rich in supporting documents. Items routinely or frequently appended to the minutes, include reports of ad hoc and standing committees; communications from Hollywood and other branches, or from outside the Guild; lists of newly approved signatories to Guild contracts; and ballots and referenda. Annual attendance charts for the New York Council accompany minutes for the years 1963-64
-and 1964-65 and are placed at the beginning of these years.</p><p>Election results are generally appended to the minutes of either the last or the first meeting of each administrative year or are reported in the text of the minutes. Researchers should note that the minutes are organized chronologically according to electoral or administrative year. From 1954 until 1958 or 1959 (a gap in the records makes it difficult to ascertain the exact date) administrative years conformed with the calendar year; annual elections took place in November or December, and each administration began when newly elected or reelected members of the Council assumed their duties at the first meeting after January 1. After 1957, a shift in the chronological organization of the minutes reflects a change in the Council's electoral or administrative year. Elections were held in October or November, and with a few exceptions, each new administration began in November. </p><p>The Communications, 1955-1960 consist of a variety of materials, generally the same type of supporting documents which are attached to the minutes. Included are referenda, copies of resolutions, excerpts from Council minutes, ballots, announcements of actions of the Council, announcements of meetings (often with agenda attached), letters to and from the National Board in Los Angeles, letters to and from signatories of
+political issues in the 1960s and 1970s. </p>
+      <p>SAG jurisdiction also seems to have grown during this period, so that by 1977, the list of committees reflected a much broader range of concerns and activities than in 1954. The committees in 1977 were: Agent Relations, Conservatory, Coordinating, Dubbing, Emergency Relief, Ethnic Minorities, Extras Advisory, Film Society, Guild Government Review, Legislative, Leniency, Manhattan Plaza, Membership Relations (with subcommittees: Orientation, Rap, Actor Services, Member Relations), New York Dancers, New York Production, Publication, Replacement, Retail, singers, Wages &amp; Working Conditions (commercial), Women's SAG's Jurisdiction has also expanded so that it now covers all acting work in the motion picture industry, namely theatrical pictures, television entertainment programs, television commercials and industrial educational films Contracts for extras are also negotiated and administered by the New York Branch.</p>
+    </bioghist>
+    <scopecontent id="aspace_dd02db122062a02e873dd850db40d485">
+      <head>Scope and Content Note</head>
+      <p>The minutes of the New York Section of the Screen Actors' Guild reflect the governance and activities of SAG at the local branch level and provide insight into New York SAG's evolving role in the national organization. The minutes also reveal much about SAG's relationship to other unions both in and outside of the entertainment industry. SAG's relationship to various non-union sectors of the motion picture industry, including production companies, agencies, and distributors, is also documented.</p>
+      <p>In a broader context, the minutes reveal much about SAG's involvement in and reactions to trends, problems, innovations and transformations within the entertainment industries as they relate to national and worldwide events. Examples of broader relevant topics include the Great Depression, the labor movement, World War ll, the "red scare" of the McCarthy Era, the civil rights movement, the feminist movement, and the Vietnam War. 
+The effects of such technological developments as the advent of television broadcasting on the entertainment industry can also be discovered through the records of SAG.</p>
+      <p>Because of the relative isolation of the New York Branch until 1965, information about the national organization prior to 1965 is scant. Moreover, the series of minutes of the National Board of Directors 1965-1975 (Series IV) is incomplete. Also missing from this collection are records of the New York Branch from 1938-1954. It is possible that much of this material was discarded or destroyed. A memo from the president to the Executive Committee on Oct. 25, 1968 recommended that "correspondence files dating as far back as 1948" and other "non-essential" material be thrown out to increase space in the New York office.</p>
+    </scopecontent>
+    <custodhist id="aspace_6a3ae2f4d5d4c1b7393dc950d121eecf">
+      <head>Custodial History</head>
+      <p>The archived website was migrated from the California Digital Library's Web Archiving Service to the Internet Archive's Archive-It Service in November 2015. The link to California Digital Library was removed in October 2017.</p>
+    </custodhist>
+    <controlaccess>
+      <corpname role="dnr" rules="dacs" source="local">Screen Actors Guild. New York Branch</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref3" level="series">
+        <did>
+          <unittitle>Series I: New York Council: Minutes, Communications, and Resolutions</unittitle>
+          <unitdate datechar="creation" normal="1954/1965" type="inclusive">1954-1965</unitdate>
+        </did>
+        <scopecontent id="aspace_29a63f81628d013842812d266fc195df">
+          <head>Scope and Content Note</head>
+          <p>The Minutes of the Council, 1954-1965 are generally rich in supporting documents. Items routinely or frequently appended to the minutes, include reports of ad hoc and standing committees; communications from Hollywood and other branches, or from outside the Guild; lists of newly approved signatories to Guild contracts; and ballots and referenda. Annual attendance charts for the New York Council accompany minutes for the years 1963-64
+and 1964-65 and are placed at the beginning of these years.</p>
+          <p>Election results are generally appended to the minutes of either the last or the first meeting of each administrative year or are reported in the text of the minutes. Researchers should note that the minutes are organized chronologically according to electoral or administrative year. From 1954 until 1958 or 1959 (a gap in the records makes it difficult to ascertain the exact date) administrative years conformed with the calendar year; annual elections took place in November or December, and each administration began when newly elected or reelected members of the Council assumed their duties at the first meeting after January 1. After 1957, a shift in the chronological organization of the minutes reflects a change in the Council's electoral or administrative year. Elections were held in October or November, and with a few exceptions, each new administration began in November. </p>
+          <p>The Communications, 1955-1960 consist of a variety of materials, generally the same type of supporting documents which are attached to the minutes. Included are referenda, copies of resolutions, excerpts from Council minutes, ballots, announcements of actions of the Council, announcements of meetings (often with agenda attached), letters to and from the National Board in Los Angeles, letters to and from signatories of
 Guild Contracts, "unfair lists," and pay scales. Although the 1955, 1956 and 1957 Communications files
-function chiefly as secondary information supporting or in some cases, duplicating that found in the minutes, the Communications for 1958 and 1959 furnish valuable information about the New York Branch for these years and thus offset a 1958-59 gap in the minutes.</p><p>Originally filed in reverse chronological order (most recent records first), the Communications have been rearranged so that they now correspond with the chronological order of the minutes. The order is "interrupted" only when supporting or follow-up materials, such as copies of resolutions, referenda and ballot results, or replies to communications, have been appended to a particular letter or announcement.</p><p>The Resolutions, 1954-1959 are excerpted or copied resolutions from the Council Minutes. As with the Communications files for 1958 and 1959, the Resolutions for these years help to offset the corresponding gap in the minutes. </p></scopecontent><c id="aspace_ref4" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate><container altrender="Record carton" id="aspace_cdbae7795a68f2a54c936223f9da417f" label="Mixed Materials [31142062726693]" type="Box">1</container><container id="aspace_34482f4612d7bd9b131418cdbe4100d0" parent="aspace_cdbae7795a68f2a54c936223f9da417f" type="Folder">1</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate><container altrender="Record carton" id="aspace_39b611480f696a4812de8f6e6cac8c4c" label="Mixed Materials [31142062726693]" type="Box">1</container><container id="aspace_92e2e472aca068a7fa3d256360990656" parent="aspace_39b611480f696a4812de8f6e6cac8c4c" type="Folder">2</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate><container altrender="Record carton" id="aspace_9685430818b10c261d3eee85724fd39f" label="Mixed Materials [31142062726693]" type="Box">1</container><container id="aspace_1bf9cf9743e7827509407697cad55837" parent="aspace_9685430818b10c261d3eee85724fd39f" type="Folder">3</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate><container altrender="Record carton" id="aspace_230156f9a71fe365ba9e06cab19ff176" label="Mixed Materials [31142062726693]" type="Box">1</container><container id="aspace_9e0cd4fe43300d37e7ef69e11f99ef7d" parent="aspace_230156f9a71fe365ba9e06cab19ff176" type="Folder">4</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1959/1960" type="inclusive">Nov 1959-Nov 1960</unitdate><container altrender="Record carton" id="aspace_3704f556b6b0eae88cf0f3fa5efa37b9" label="Mixed Materials [31142062726693]" type="Box">1</container><container id="aspace_d81490c8bad55052a43bc2cd29b3d908" parent="aspace_3704f556b6b0eae88cf0f3fa5efa37b9" type="Folder">5</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1960/1961" type="inclusive">Nov 1960-Nov 1961</unitdate><container altrender="Record carton" id="aspace_ea1bf81fb0bbab99d941de85d5d8c1c7" label="Mixed Materials [31142062726693]" type="Box">1</container><container id="aspace_433a07e6d446e1883df1685941e15336" parent="aspace_ea1bf81fb0bbab99d941de85d5d8c1c7" type="Folder">6</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1961/1962" type="inclusive">Nov 1961-Nov 1962</unitdate><container altrender="Record carton" id="aspace_846f93f4e39d20639c7b14e245c35a46" label="Mixed Materials [31142062726693]" type="Box">1</container><container id="aspace_6fa7a12f2af3e0fb692d4179aba9df05" parent="aspace_846f93f4e39d20639c7b14e245c35a46" type="Folder">7</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1962/1963" type="inclusive">Nov 1962-Oct 1963</unitdate><container altrender="Record carton" id="aspace_cb7d92e8107d2f77f45d4d631de72315" label="Mixed Materials [31142062726693]" type="Box">1</container><container id="aspace_e7e8e23bbe3cf75db5daae19b8d5acd0" parent="aspace_cb7d92e8107d2f77f45d4d631de72315" type="Folder">8</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1963/1964" type="inclusive">Nov 1963-Apr 1964</unitdate><container altrender="Record carton" id="aspace_a4bdf4c45071f005325837ba25982b4b" label="Mixed Materials [31142062726693]" type="Box">1</container><container id="aspace_6e5d1a684e8a4e7ef93126a973e7fc8f" parent="aspace_a4bdf4c45071f005325837ba25982b4b" type="Folder">9</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1964/1964" type="inclusive">May 1964-Oct 1964</unitdate><container altrender="Record carton" id="aspace_b360af412bfc8d8bc0debe956095108a" label="Mixed Materials [31142062726693]" type="Box">1</container><container id="aspace_0a443acc2fc54b31b672c714f16251c4" parent="aspace_b360af412bfc8d8bc0debe956095108a" type="Folder">10</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1964/1965" type="inclusive">Nov 1964-Apr 1965</unitdate><container altrender="Record carton" id="aspace_385ab39437b232ae50233484380bd875" label="Mixed Materials [31142062726693]" type="Box">1</container><container id="aspace_e7aff6c7f843178e1d1ffdd9ba80287c" parent="aspace_385ab39437b232ae50233484380bd875" type="Folder">11</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1965/1965" type="inclusive">May 1965-Nov 1965</unitdate><container altrender="Record carton" id="aspace_89b41eecab902542e555ccdb97819923" label="Mixed Materials [31142062726693]" type="Box">1</container><container id="aspace_ea0728a0179c878a22f85ad5330e4738" parent="aspace_89b41eecab902542e555ccdb97819923" type="Folder">12</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Communications</unittitle><unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate><container altrender="Record carton" id="aspace_3bfe17e7a0146854b0b960d713dcda2c" label="Mixed Materials [31142062726693]" type="Box">1</container><container id="aspace_6094966befdf6a7e212cb332a17cbd0f" parent="aspace_3bfe17e7a0146854b0b960d713dcda2c" type="Folder">13</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Communications</unittitle><unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate><container altrender="Record carton" id="aspace_65e8a7847213017ca91d8fd836e48def" label="Mixed Materials [31142062726693]" type="Box">1</container><container id="aspace_a9e3de83a6f18be868f97c4757b0d83d" parent="aspace_65e8a7847213017ca91d8fd836e48def" type="Folder">14</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Communications</unittitle><unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate><container altrender="Record carton" id="aspace_53dc7e0c352e069bf85b254dc3dc1e65" label="Mixed Materials [31142062726693]" type="Box">1</container><container id="aspace_d005a69c79a925af563f4d5a3cd18cbf" parent="aspace_53dc7e0c352e069bf85b254dc3dc1e65" type="Folder">15</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Communications</unittitle><unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate><container altrender="Record carton" id="aspace_940f575b35cfbb5d37509665899197b9" label="Mixed Materials [31142062726693]" type="Box">1</container><container id="aspace_a32f5dfce439aebcb66099710c13caca" parent="aspace_940f575b35cfbb5d37509665899197b9" type="Folder">16</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Communications</unittitle><unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate><container altrender="Record carton" id="aspace_62f1cb3a8a07e1cd4d76315b19d549e4" label="Mixed Materials [31142062726693]" type="Box">1</container><container id="aspace_4c664bdc6c394ca7805101052dc315ff" parent="aspace_62f1cb3a8a07e1cd4d76315b19d549e4" type="Folder">17</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Communications</unittitle><unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate><container altrender="Record carton" id="aspace_57203d870ac5074c998984d62022ae24" label="Mixed Materials [31142062726693]" type="Box">1</container><container id="aspace_df5028c06a2acd4cc4d99f65bb1c758f" parent="aspace_57203d870ac5074c998984d62022ae24" type="Folder">18</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Resolutions</unittitle><unitdate datechar="creation" normal="1954/1959" type="inclusive">1954-1959</unitdate><container altrender="Record carton" id="aspace_18dc3eb8b6ee1f4fadcab84342cd09bc" label="Mixed Materials [31142062726693]" type="Box">1</container><container id="aspace_aef68f2a5e6bf7b06f9d909757c733b6" parent="aspace_18dc3eb8b6ee1f4fadcab84342cd09bc" type="Folder">19</container></did></c></c><c id="aspace_ref23" level="series"><did><unittitle>Series II: New York Directors of the National Board</unittitle><unitdate datechar="creation" normal="1965/1977" type="inclusive">1965-1977</unitdate></did><scopecontent id="aspace_1bb1b4192ce980bd9f7bbbe479342c7c"><head>Scope and Content Note</head><p>New York representation on the National Board of Directors begins circa 1958, but February 18, 1965 is the earliest date for minutes of New York Directors in this collection. Until October 1965, the New York Directors were more commonly referred to as the New York Section of the National Board. There is a gap in minutes for the Nov 1973-Nov 1974. Supporting documents the New York Directors minutes are appended to the minutes each meeting, rather than being filed separately as with the "Communications" files in the series of Council minutes. Annual attendance records (charts) of the New York Directors accompany the minutes for the administrative years 1965-66 through 1976-77.</p></scopecontent><c id="aspace_ref30" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1959/1959" type="inclusive">Jun 2, 1959</unitdate><container altrender="Record carton" id="aspace_133b854adb1c67ac1b0b3708a213e28b" label="Mixed Materials [31142062726693]" type="Box">1</container><container id="aspace_999c3842bbf75abd180e0a370ddebd25" parent="aspace_133b854adb1c67ac1b0b3708a213e28b" type="Folder">20</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1965/1965" type="inclusive">Feb 1965-Nov 1965</unitdate><container altrender="Record carton" id="aspace_373bc5e61a9d3382670a4a81fc3faf0d" label="Mixed Materials [31142062726693]" type="Box">1</container><container id="aspace_272572039dd515dbbb245ad9da4163b8" parent="aspace_373bc5e61a9d3382670a4a81fc3faf0d" type="Folder">21</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1965/1966" type="inclusive">Nov 1965-Oct 1966</unitdate><container altrender="Record carton" id="aspace_ae84a696bfc9d568d382cab47d1634e4" label="Mixed Materials [31142062726693]" type="Box">1</container><container id="aspace_56c352832cb48096797517450b10ca8d" parent="aspace_ae84a696bfc9d568d382cab47d1634e4" type="Folder">22</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1966/1967" type="inclusive">Nov 1966-Oct 1967</unitdate><container altrender="Record carton" id="aspace_5001c1a25ee85950f0a2301eb6392279" label="Mixed Materials [31142062726693]" type="Box">1</container><container id="aspace_5a957acc7a713c9c038848b3f2fedbef" parent="aspace_5001c1a25ee85950f0a2301eb6392279" type="Folder">23</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1968/1969" type="inclusive">Dec 1968-Oct 1969</unitdate><container altrender="Record carton" id="aspace_884e768b6c0ab5bd9456600e81aa3fd0" label="Mixed Materials [31142062726693]" type="Box">1</container><container id="aspace_7038a1436d248e0ab3b1f35f3c864db5" parent="aspace_884e768b6c0ab5bd9456600e81aa3fd0" type="Folder">24</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1967/1968" type="inclusive">Nov 1967-Oct 1968</unitdate><container altrender="Record carton" id="aspace_cdce2df5c1a2c7590a6fb616c7ec81ae" label="Mixed Materials [31142062726693]" type="Box">1</container><container id="aspace_f108655ecd394511a34eafeab9834da6" parent="aspace_cdce2df5c1a2c7590a6fb616c7ec81ae" type="Folder">25</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1969/1970" type="inclusive">Nov 1969-Oct 1970</unitdate><container altrender="Record carton" id="aspace_b6b4961050d35bb017cb59d343f073bc" label="Mixed Materials [31142062726719]" type="Box">2</container><container id="aspace_0780630749d8d7d5ad2cc202caf520a3" parent="aspace_b6b4961050d35bb017cb59d343f073bc" type="Folder">1</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1970/1971" type="inclusive">Nov 1970-Oct 1971</unitdate><container altrender="Record carton" id="aspace_396978e56e522cab8516f6526402ca38" label="Mixed Materials [31142062726719]" type="Box">2</container><container id="aspace_82c2fcac63efb77d58f460cb122e158e" parent="aspace_396978e56e522cab8516f6526402ca38" type="Folder">2</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1971/1972" type="inclusive">Nov 1971-Apr 1972</unitdate><container altrender="Record carton" id="aspace_2af9af9e61a8b47ce8338f61e592a561" label="Mixed Materials [31142062726719]" type="Box">2</container><container id="aspace_5d01d5662922fb6997c36f49181c61d6" parent="aspace_2af9af9e61a8b47ce8338f61e592a561" type="Folder">3</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1972/1972" type="inclusive">May 1972-Oct 1972</unitdate><container altrender="Record carton" id="aspace_9f425184ee58740d9112af9cd643e073" label="Mixed Materials [31142062726719]" type="Box">2</container><container id="aspace_f3782b6205547477d96d03f607f496a6" parent="aspace_9f425184ee58740d9112af9cd643e073" type="Folder">4</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1972/1973" type="inclusive">Nov 1972-Apr 1973</unitdate><container altrender="Record carton" id="aspace_76f26b6982f5573b13edd481ddabda54" label="Mixed Materials [31142062726719]" type="Box">2</container><container id="aspace_0f97c6a69f94ff868bb2272c47117569" parent="aspace_76f26b6982f5573b13edd481ddabda54" type="Folder">5</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1973/1973" type="inclusive">May 1973-Oct 1973</unitdate><container altrender="Record carton" id="aspace_2fa8871a096a2bf17c4b7b93afed32cc" label="Mixed Materials [31142062726719]" type="Box">2</container><container id="aspace_1e2ea6093b64bf922a7a197c4e2eb607" parent="aspace_2fa8871a096a2bf17c4b7b93afed32cc" type="Folder">6</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1974/1975" type="inclusive">Dec 1974-May 1975</unitdate><container altrender="Record carton" id="aspace_563d9538d5b3be4eaf1ca0b98a73083e" label="Mixed Materials [31142062726719]" type="Box">2</container><container id="aspace_774cdb89bf8e015f0f55e589c5c00fb9" parent="aspace_563d9538d5b3be4eaf1ca0b98a73083e" type="Folder">7</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1975/1975" type="inclusive">Jun 1975-Nov 1975</unitdate><container altrender="Record carton" id="aspace_252ebaf003d65374a09628a48becb193" label="Mixed Materials [31142062726719]" type="Box">2</container><container id="aspace_89fa440149661829045a501394c3dc97" parent="aspace_252ebaf003d65374a09628a48becb193" type="Folder">8</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1975/1976" type="inclusive">Dec 1975-Apr 1976</unitdate><container altrender="Record carton" id="aspace_ffe668287154293184b3ea139beb21bd" label="Mixed Materials [31142062726719]" type="Box">2</container><container id="aspace_c704a051b2b6c8deb106a71847d63ff7" parent="aspace_ffe668287154293184b3ea139beb21bd" type="Folder">9</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1976/1976" type="inclusive">May 1976-Oct 1976</unitdate><container altrender="Record carton" id="aspace_41b40d1e4c561093296f5b7505ca38b9" label="Mixed Materials [31142062726719]" type="Box">2</container><container id="aspace_1bd033f7d07901780ad7103a02b68cdb" parent="aspace_41b40d1e4c561093296f5b7505ca38b9" type="Folder">10</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1976/1977" type="inclusive">Nov 1976-Feb 1977</unitdate><container altrender="Record carton" id="aspace_890ad5bb953e59af2ac9d2a8681656f7" label="Mixed Materials [31142062726719]" type="Box">2</container><container id="aspace_f8a21284af64807fcdaad94e0fab2d42" parent="aspace_890ad5bb953e59af2ac9d2a8681656f7" type="Folder">11</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">Mar 1977-Jun 1977</unitdate><container altrender="Record carton" id="aspace_94fe369457a1c85a8d4315ddce276616" label="Mixed Materials [31142062726719]" type="Box">2</container><container id="aspace_10f18104fbc3bab93bbf08e9450564b4" parent="aspace_94fe369457a1c85a8d4315ddce276616" type="Folder">12</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">Jul 1977-Oct 1977</unitdate><container altrender="Record carton" id="aspace_bd7ae184b08a70f3d6c54e40537f55a5" label="Mixed Materials [31142062726719]" type="Box">2</container><container id="aspace_e3eb65de2dd9a655b28d34cf7e1e34f3" parent="aspace_bd7ae184b08a70f3d6c54e40537f55a5" type="Folder">13</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">Nov 1977-Dec 1977</unitdate><container altrender="Record carton" id="aspace_9c32691ed3628221e23b9af04947adff" label="Mixed Materials [31142062726719]" type="Box">2</container><container id="aspace_132bbaa55eb9a5d35c2c66413e49c7aa" parent="aspace_9c32691ed3628221e23b9af04947adff" type="Folder">14</container></did></c></c><c id="aspace_ref24" level="series"><did><unittitle>Series III: New York Directors of the National Board: Executive Committee</unittitle><unitdate datechar="creation" normal="1966/1977" type="inclusive">1966-1977</unitdate></did><scopecontent id="aspace_de5aef20d8ba242cfed637c343a96967"><head>Scope and Content Note</head><p>Minutes of the Executive Committee are usually brief, 1 to 2 pages long. Outside of lists of new Signatories, there are few attachments to Executive Committee minutes until Nov. 1972, when the number of other attachments, usually letters or memoranda, begins to increase. This series of minutes ends with the minutes of May 22, 1976 and the list of New Signatories Approved by the New York Executive Committee at their meeting January 10, 1977.
+function chiefly as secondary information supporting or in some cases, duplicating that found in the minutes, the Communications for 1958 and 1959 furnish valuable information about the New York Branch for these years and thus offset a 1958-59 gap in the minutes.</p>
+          <p>Originally filed in reverse chronological order (most recent records first), the Communications have been rearranged so that they now correspond with the chronological order of the minutes. The order is "interrupted" only when supporting or follow-up materials, such as copies of resolutions, referenda and ballot results, or replies to communications, have been appended to a particular letter or announcement.</p>
+          <p>The Resolutions, 1954-1959 are excerpted or copied resolutions from the Council Minutes. As with the Communications files for 1958 and 1959, the Resolutions for these years help to offset the corresponding gap in the minutes. </p>
+        </scopecontent>
+        <c id="aspace_ref4" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
+            <container altrender="Record carton" id="aspace_cdbae7795a68f2a54c936223f9da417f" label="Mixed Materials [31142062726693]" type="Box">1</container>
+            <container id="aspace_34482f4612d7bd9b131418cdbe4100d0" parent="aspace_cdbae7795a68f2a54c936223f9da417f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref5" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate>
+            <container altrender="Record carton" id="aspace_39b611480f696a4812de8f6e6cac8c4c" label="Mixed Materials [31142062726693]" type="Box">1</container>
+            <container id="aspace_92e2e472aca068a7fa3d256360990656" parent="aspace_39b611480f696a4812de8f6e6cac8c4c" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref6" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
+            <container altrender="Record carton" id="aspace_9685430818b10c261d3eee85724fd39f" label="Mixed Materials [31142062726693]" type="Box">1</container>
+            <container id="aspace_1bf9cf9743e7827509407697cad55837" parent="aspace_9685430818b10c261d3eee85724fd39f" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref7" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+            <container altrender="Record carton" id="aspace_230156f9a71fe365ba9e06cab19ff176" label="Mixed Materials [31142062726693]" type="Box">1</container>
+            <container id="aspace_9e0cd4fe43300d37e7ef69e11f99ef7d" parent="aspace_230156f9a71fe365ba9e06cab19ff176" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref8" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1959/1960" type="inclusive">Nov 1959-Nov 1960</unitdate>
+            <container altrender="Record carton" id="aspace_3704f556b6b0eae88cf0f3fa5efa37b9" label="Mixed Materials [31142062726693]" type="Box">1</container>
+            <container id="aspace_d81490c8bad55052a43bc2cd29b3d908" parent="aspace_3704f556b6b0eae88cf0f3fa5efa37b9" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref9" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1960/1961" type="inclusive">Nov 1960-Nov 1961</unitdate>
+            <container altrender="Record carton" id="aspace_ea1bf81fb0bbab99d941de85d5d8c1c7" label="Mixed Materials [31142062726693]" type="Box">1</container>
+            <container id="aspace_433a07e6d446e1883df1685941e15336" parent="aspace_ea1bf81fb0bbab99d941de85d5d8c1c7" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1961/1962" type="inclusive">Nov 1961-Nov 1962</unitdate>
+            <container altrender="Record carton" id="aspace_846f93f4e39d20639c7b14e245c35a46" label="Mixed Materials [31142062726693]" type="Box">1</container>
+            <container id="aspace_6fa7a12f2af3e0fb692d4179aba9df05" parent="aspace_846f93f4e39d20639c7b14e245c35a46" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1962/1963" type="inclusive">Nov 1962-Oct 1963</unitdate>
+            <container altrender="Record carton" id="aspace_cb7d92e8107d2f77f45d4d631de72315" label="Mixed Materials [31142062726693]" type="Box">1</container>
+            <container id="aspace_e7e8e23bbe3cf75db5daae19b8d5acd0" parent="aspace_cb7d92e8107d2f77f45d4d631de72315" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1963/1964" type="inclusive">Nov 1963-Apr 1964</unitdate>
+            <container altrender="Record carton" id="aspace_a4bdf4c45071f005325837ba25982b4b" label="Mixed Materials [31142062726693]" type="Box">1</container>
+            <container id="aspace_6e5d1a684e8a4e7ef93126a973e7fc8f" parent="aspace_a4bdf4c45071f005325837ba25982b4b" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">May 1964-Oct 1964</unitdate>
+            <container altrender="Record carton" id="aspace_b360af412bfc8d8bc0debe956095108a" label="Mixed Materials [31142062726693]" type="Box">1</container>
+            <container id="aspace_0a443acc2fc54b31b672c714f16251c4" parent="aspace_b360af412bfc8d8bc0debe956095108a" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1964/1965" type="inclusive">Nov 1964-Apr 1965</unitdate>
+            <container altrender="Record carton" id="aspace_385ab39437b232ae50233484380bd875" label="Mixed Materials [31142062726693]" type="Box">1</container>
+            <container id="aspace_e7aff6c7f843178e1d1ffdd9ba80287c" parent="aspace_385ab39437b232ae50233484380bd875" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">May 1965-Nov 1965</unitdate>
+            <container altrender="Record carton" id="aspace_89b41eecab902542e555ccdb97819923" label="Mixed Materials [31142062726693]" type="Box">1</container>
+            <container id="aspace_ea0728a0179c878a22f85ad5330e4738" parent="aspace_89b41eecab902542e555ccdb97819923" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Communications</unittitle>
+            <unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate>
+            <container altrender="Record carton" id="aspace_3bfe17e7a0146854b0b960d713dcda2c" label="Mixed Materials [31142062726693]" type="Box">1</container>
+            <container id="aspace_6094966befdf6a7e212cb332a17cbd0f" parent="aspace_3bfe17e7a0146854b0b960d713dcda2c" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Communications</unittitle>
+            <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
+            <container altrender="Record carton" id="aspace_65e8a7847213017ca91d8fd836e48def" label="Mixed Materials [31142062726693]" type="Box">1</container>
+            <container id="aspace_a9e3de83a6f18be868f97c4757b0d83d" parent="aspace_65e8a7847213017ca91d8fd836e48def" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Communications</unittitle>
+            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+            <container altrender="Record carton" id="aspace_53dc7e0c352e069bf85b254dc3dc1e65" label="Mixed Materials [31142062726693]" type="Box">1</container>
+            <container id="aspace_d005a69c79a925af563f4d5a3cd18cbf" parent="aspace_53dc7e0c352e069bf85b254dc3dc1e65" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Communications</unittitle>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+            <container altrender="Record carton" id="aspace_940f575b35cfbb5d37509665899197b9" label="Mixed Materials [31142062726693]" type="Box">1</container>
+            <container id="aspace_a32f5dfce439aebcb66099710c13caca" parent="aspace_940f575b35cfbb5d37509665899197b9" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Communications</unittitle>
+            <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate>
+            <container altrender="Record carton" id="aspace_62f1cb3a8a07e1cd4d76315b19d549e4" label="Mixed Materials [31142062726693]" type="Box">1</container>
+            <container id="aspace_4c664bdc6c394ca7805101052dc315ff" parent="aspace_62f1cb3a8a07e1cd4d76315b19d549e4" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Communications</unittitle>
+            <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+            <container altrender="Record carton" id="aspace_57203d870ac5074c998984d62022ae24" label="Mixed Materials [31142062726693]" type="Box">1</container>
+            <container id="aspace_df5028c06a2acd4cc4d99f65bb1c758f" parent="aspace_57203d870ac5074c998984d62022ae24" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Resolutions</unittitle>
+            <unitdate datechar="creation" normal="1954/1959" type="inclusive">1954-1959</unitdate>
+            <container altrender="Record carton" id="aspace_18dc3eb8b6ee1f4fadcab84342cd09bc" label="Mixed Materials [31142062726693]" type="Box">1</container>
+            <container id="aspace_aef68f2a5e6bf7b06f9d909757c733b6" parent="aspace_18dc3eb8b6ee1f4fadcab84342cd09bc" type="Folder">19</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref23" level="series">
+        <did>
+          <unittitle>Series II: New York Directors of the National Board</unittitle>
+          <unitdate datechar="creation" normal="1965/1977" type="inclusive">1965-1977</unitdate>
+        </did>
+        <scopecontent id="aspace_1bb1b4192ce980bd9f7bbbe479342c7c">
+          <head>Scope and Content Note</head>
+          <p>New York representation on the National Board of Directors begins circa 1958, but February 18, 1965 is the earliest date for minutes of New York Directors in this collection. Until October 1965, the New York Directors were more commonly referred to as the New York Section of the National Board. There is a gap in minutes for the Nov 1973-Nov 1974. Supporting documents the New York Directors minutes are appended to the minutes each meeting, rather than being filed separately as with the "Communications" files in the series of Council minutes. Annual attendance records (charts) of the New York Directors accompany the minutes for the administrative years 1965-66 through 1976-77.</p>
+        </scopecontent>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1959/1959" type="inclusive">Jun 2, 1959</unitdate>
+            <container altrender="Record carton" id="aspace_133b854adb1c67ac1b0b3708a213e28b" label="Mixed Materials [31142062726693]" type="Box">1</container>
+            <container id="aspace_999c3842bbf75abd180e0a370ddebd25" parent="aspace_133b854adb1c67ac1b0b3708a213e28b" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">Feb 1965-Nov 1965</unitdate>
+            <container altrender="Record carton" id="aspace_373bc5e61a9d3382670a4a81fc3faf0d" label="Mixed Materials [31142062726693]" type="Box">1</container>
+            <container id="aspace_272572039dd515dbbb245ad9da4163b8" parent="aspace_373bc5e61a9d3382670a4a81fc3faf0d" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1965/1966" type="inclusive">Nov 1965-Oct 1966</unitdate>
+            <container altrender="Record carton" id="aspace_ae84a696bfc9d568d382cab47d1634e4" label="Mixed Materials [31142062726693]" type="Box">1</container>
+            <container id="aspace_56c352832cb48096797517450b10ca8d" parent="aspace_ae84a696bfc9d568d382cab47d1634e4" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1966/1967" type="inclusive">Nov 1966-Oct 1967</unitdate>
+            <container altrender="Record carton" id="aspace_5001c1a25ee85950f0a2301eb6392279" label="Mixed Materials [31142062726693]" type="Box">1</container>
+            <container id="aspace_5a957acc7a713c9c038848b3f2fedbef" parent="aspace_5001c1a25ee85950f0a2301eb6392279" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1968/1969" type="inclusive">Dec 1968-Oct 1969</unitdate>
+            <container altrender="Record carton" id="aspace_884e768b6c0ab5bd9456600e81aa3fd0" label="Mixed Materials [31142062726693]" type="Box">1</container>
+            <container id="aspace_7038a1436d248e0ab3b1f35f3c864db5" parent="aspace_884e768b6c0ab5bd9456600e81aa3fd0" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1967/1968" type="inclusive">Nov 1967-Oct 1968</unitdate>
+            <container altrender="Record carton" id="aspace_cdce2df5c1a2c7590a6fb616c7ec81ae" label="Mixed Materials [31142062726693]" type="Box">1</container>
+            <container id="aspace_f108655ecd394511a34eafeab9834da6" parent="aspace_cdce2df5c1a2c7590a6fb616c7ec81ae" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1969/1970" type="inclusive">Nov 1969-Oct 1970</unitdate>
+            <container altrender="Record carton" id="aspace_b6b4961050d35bb017cb59d343f073bc" label="Mixed Materials [31142062726719]" type="Box">2</container>
+            <container id="aspace_0780630749d8d7d5ad2cc202caf520a3" parent="aspace_b6b4961050d35bb017cb59d343f073bc" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1970/1971" type="inclusive">Nov 1970-Oct 1971</unitdate>
+            <container altrender="Record carton" id="aspace_396978e56e522cab8516f6526402ca38" label="Mixed Materials [31142062726719]" type="Box">2</container>
+            <container id="aspace_82c2fcac63efb77d58f460cb122e158e" parent="aspace_396978e56e522cab8516f6526402ca38" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1971/1972" type="inclusive">Nov 1971-Apr 1972</unitdate>
+            <container altrender="Record carton" id="aspace_2af9af9e61a8b47ce8338f61e592a561" label="Mixed Materials [31142062726719]" type="Box">2</container>
+            <container id="aspace_5d01d5662922fb6997c36f49181c61d6" parent="aspace_2af9af9e61a8b47ce8338f61e592a561" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">May 1972-Oct 1972</unitdate>
+            <container altrender="Record carton" id="aspace_9f425184ee58740d9112af9cd643e073" label="Mixed Materials [31142062726719]" type="Box">2</container>
+            <container id="aspace_f3782b6205547477d96d03f607f496a6" parent="aspace_9f425184ee58740d9112af9cd643e073" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1972/1973" type="inclusive">Nov 1972-Apr 1973</unitdate>
+            <container altrender="Record carton" id="aspace_76f26b6982f5573b13edd481ddabda54" label="Mixed Materials [31142062726719]" type="Box">2</container>
+            <container id="aspace_0f97c6a69f94ff868bb2272c47117569" parent="aspace_76f26b6982f5573b13edd481ddabda54" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">May 1973-Oct 1973</unitdate>
+            <container altrender="Record carton" id="aspace_2fa8871a096a2bf17c4b7b93afed32cc" label="Mixed Materials [31142062726719]" type="Box">2</container>
+            <container id="aspace_1e2ea6093b64bf922a7a197c4e2eb607" parent="aspace_2fa8871a096a2bf17c4b7b93afed32cc" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1974/1975" type="inclusive">Dec 1974-May 1975</unitdate>
+            <container altrender="Record carton" id="aspace_563d9538d5b3be4eaf1ca0b98a73083e" label="Mixed Materials [31142062726719]" type="Box">2</container>
+            <container id="aspace_774cdb89bf8e015f0f55e589c5c00fb9" parent="aspace_563d9538d5b3be4eaf1ca0b98a73083e" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">Jun 1975-Nov 1975</unitdate>
+            <container altrender="Record carton" id="aspace_252ebaf003d65374a09628a48becb193" label="Mixed Materials [31142062726719]" type="Box">2</container>
+            <container id="aspace_89fa440149661829045a501394c3dc97" parent="aspace_252ebaf003d65374a09628a48becb193" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1975/1976" type="inclusive">Dec 1975-Apr 1976</unitdate>
+            <container altrender="Record carton" id="aspace_ffe668287154293184b3ea139beb21bd" label="Mixed Materials [31142062726719]" type="Box">2</container>
+            <container id="aspace_c704a051b2b6c8deb106a71847d63ff7" parent="aspace_ffe668287154293184b3ea139beb21bd" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">May 1976-Oct 1976</unitdate>
+            <container altrender="Record carton" id="aspace_41b40d1e4c561093296f5b7505ca38b9" label="Mixed Materials [31142062726719]" type="Box">2</container>
+            <container id="aspace_1bd033f7d07901780ad7103a02b68cdb" parent="aspace_41b40d1e4c561093296f5b7505ca38b9" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1976/1977" type="inclusive">Nov 1976-Feb 1977</unitdate>
+            <container altrender="Record carton" id="aspace_890ad5bb953e59af2ac9d2a8681656f7" label="Mixed Materials [31142062726719]" type="Box">2</container>
+            <container id="aspace_f8a21284af64807fcdaad94e0fab2d42" parent="aspace_890ad5bb953e59af2ac9d2a8681656f7" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">Mar 1977-Jun 1977</unitdate>
+            <container altrender="Record carton" id="aspace_94fe369457a1c85a8d4315ddce276616" label="Mixed Materials [31142062726719]" type="Box">2</container>
+            <container id="aspace_10f18104fbc3bab93bbf08e9450564b4" parent="aspace_94fe369457a1c85a8d4315ddce276616" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">Jul 1977-Oct 1977</unitdate>
+            <container altrender="Record carton" id="aspace_bd7ae184b08a70f3d6c54e40537f55a5" label="Mixed Materials [31142062726719]" type="Box">2</container>
+            <container id="aspace_e3eb65de2dd9a655b28d34cf7e1e34f3" parent="aspace_bd7ae184b08a70f3d6c54e40537f55a5" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">Nov 1977-Dec 1977</unitdate>
+            <container altrender="Record carton" id="aspace_9c32691ed3628221e23b9af04947adff" label="Mixed Materials [31142062726719]" type="Box">2</container>
+            <container id="aspace_132bbaa55eb9a5d35c2c66413e49c7aa" parent="aspace_9c32691ed3628221e23b9af04947adff" type="Folder">14</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref24" level="series">
+        <did>
+          <unittitle>Series III: New York Directors of the National Board: Executive Committee</unittitle>
+          <unitdate datechar="creation" normal="1966/1977" type="inclusive">1966-1977</unitdate>
+        </did>
+        <scopecontent id="aspace_de5aef20d8ba242cfed637c343a96967">
+          <head>Scope and Content Note</head>
+          <p>Minutes of the Executive Committee are usually brief, 1 to 2 pages long. Outside of lists of new Signatories, there are few attachments to Executive Committee minutes until Nov. 1972, when the number of other attachments, usually letters or memoranda, begins to increase. This series of minutes ends with the minutes of May 22, 1976 and the list of New Signatories Approved by the New York Executive Committee at their meeting January 10, 1977.
 There are three gaps in this series of minutes: October 1973-September 1974; January-May 1976; and June 1976~January 1977. Information about the management of the New York office can be found here including: expenditures, personnel requirements and assessments, pay and benefit policies, public relations, records
-management, automation (copiers, computers) and other administrative or fiscal matters of the New York Guild office.</p></scopecontent><c id="aspace_ref50" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1966/1966" type="inclusive">Feb 1966-Oct 1966</unitdate><container altrender="Record carton" id="aspace_0f2423466aa71be814a5a053a1a19857" label="Mixed Materials [31142062726719]" type="Box">2</container><container id="aspace_30344172a6433e087182ae46f7c031da" parent="aspace_0f2423466aa71be814a5a053a1a19857" type="Folder">15</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1967/1967" type="inclusive">Jan 1967-Oct 1967</unitdate><container altrender="Record carton" id="aspace_24735517111248d6b21a8616ce75c962" label="Mixed Materials [31142062726719]" type="Box">2</container><container id="aspace_6b669193493875d3c80a3170a739da86" parent="aspace_24735517111248d6b21a8616ce75c962" type="Folder">16</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1967/1968" type="inclusive">Dec 1967-Oct 1968</unitdate><container altrender="Record carton" id="aspace_ae1be8ef932ef238524f275d054f7e9b" label="Mixed Materials [31142062726719]" type="Box">2</container><container id="aspace_a177bd2d24d2080a9f860bfb7084c38f" parent="aspace_ae1be8ef932ef238524f275d054f7e9b" type="Folder">17</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1968/1969" type="inclusive">Nov 1968-Oct 1969</unitdate><container altrender="Record carton" id="aspace_d037170aad231d48e5b01f49c0d4b499" label="Mixed Materials [31142062726719]" type="Box">2</container><container id="aspace_6b341376b3b949a9c0038905f5a2a9d0" parent="aspace_d037170aad231d48e5b01f49c0d4b499" type="Folder">18</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1969/1970" type="inclusive">Nov 1969-Oct 1970</unitdate><container altrender="Record carton" id="aspace_1e632fb7e9eaee5a05dfcfe80f2e7836" label="Mixed Materials [31142062726719]" type="Box">2</container><container id="aspace_57e7edb96b0ce05bbe14e3885102dd6d" parent="aspace_1e632fb7e9eaee5a05dfcfe80f2e7836" type="Folder">19</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1970/1971" type="inclusive">Nov 1970-Oct 1971</unitdate><container altrender="Record carton" id="aspace_864f159124a5cb669a86934cc5b98ad3" label="Mixed Materials [31142062726719]" type="Box">2</container><container id="aspace_20d68bf2a2a2e3ce3786bb2fb8563aab" parent="aspace_864f159124a5cb669a86934cc5b98ad3" type="Folder">20</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1971/1972" type="inclusive">Nov 1971-Oct 1972</unitdate><container altrender="Record carton" id="aspace_93c9606e6d7eaa2fc6955ea2e808ca09" label="Mixed Materials [31142062726719]" type="Box">2</container><container id="aspace_74c6db85b02eb92fe8769859814d226f" parent="aspace_93c9606e6d7eaa2fc6955ea2e808ca09" type="Folder">21</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1972/1973" type="inclusive">Nov 1972-Oct 1973</unitdate><container altrender="Record carton" id="aspace_1b2a5810e98e5c8af5b40867d38b1d89" label="Mixed Materials [31142062726719]" type="Box">2</container><container id="aspace_fd62523bb2f36606d9937ed92585b6cf" parent="aspace_1b2a5810e98e5c8af5b40867d38b1d89" type="Folder">22</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1974/1975" type="inclusive">Oct 1974-Dec 1975</unitdate><container altrender="Record carton" id="aspace_4a1d46c8ed247b5250b128139e53009e" label="Mixed Materials [31142062726719]" type="Box">2</container><container id="aspace_d17fb47baedf557d2687459773d617f6" parent="aspace_4a1d46c8ed247b5250b128139e53009e" type="Folder">23</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Minutes (Signatories)</unittitle><unitdate datechar="creation">May 22, 1976, Jan 10, 1977</unitdate><container altrender="Record carton" id="aspace_5cd90aafac331dd84a60e89265275785" label="Mixed Materials [31142062726719]" type="Box">2</container><container id="aspace_82cafbc42862decc231a379379fb7484" parent="aspace_5cd90aafac331dd84a60e89265275785" type="Folder">24</container></did></c></c><c id="aspace_ref25" level="series"><did><unittitle>Series IV: National Board of Directors</unittitle><unitdate datechar="creation" normal="1965/1974" type="inclusive">1965-1974</unitdate></did><scopecontent id="aspace_6c7053ce07ac75a3eff57765dd95dda3"><head>Scope and Content Note</head><p>The minutes for the following dates are missing: Dec. 1965; Jan. — May 1966 and Oct.14, 1966; Jan. Z3, Feb.13 and Dec. 18, 1967; Jan. 6 and Oct. 13, 1969; June 28, 1971; and Nov. 1973—Oct. 1974.</p></scopecontent><c id="aspace_ref60" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1954/1954" type="inclusive">Jan 1954-Jun 1954</unitdate><container altrender="Record carton" id="aspace_cc174847a48151433e3221f759896845" label="Mixed Materials [31142062726719]" type="Box">2</container><container id="aspace_9dce8344c4e4b39e8fe1624376b3ab27" parent="aspace_cc174847a48151433e3221f759896845" type="Folder">25</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1954/1954" type="inclusive">Jul 1954-Dec 1954</unitdate><container altrender="Record carton" id="aspace_94a8577de0053e616fd840bf89604a70" label="Mixed Materials [31142062726719]" type="Box">2</container><container id="aspace_ced3d01e9d86bbafb0eb0f399949d584" parent="aspace_94a8577de0053e616fd840bf89604a70" type="Folder">26</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>Executive Committee Hollywood National Board Minutes</unittitle><unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate><container altrender="Record carton" id="aspace_2656ffb830d3f36d51b5ce935edb5434" label="Mixed Materials [31142062726719]" type="Box">2</container><container id="aspace_b5cea79738fe1679e48b5e66d2aa923e" parent="aspace_2656ffb830d3f36d51b5ce935edb5434" type="Folder">27</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1965/1966" type="inclusive">Nov 1965-Oct 1966</unitdate><container altrender="Record carton" id="aspace_a73bc332fdfbd02cef95bf808f0feea5" label="Mixed Materials [31142062726719]" type="Box">2</container><container id="aspace_289d8adc4897f4466858944dac2c7526" parent="aspace_a73bc332fdfbd02cef95bf808f0feea5" type="Folder">28</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1966/1967" type="inclusive">Nov 1966-Oct 1967</unitdate><container altrender="Record carton" id="aspace_df2e838dcceaf4695d2a6d3867b4fd4f" label="Mixed Materials [31142062726701]" type="Box">3</container><container id="aspace_86156a3fc84634f3c2e4fd8cdb475a36" parent="aspace_df2e838dcceaf4695d2a6d3867b4fd4f" type="Folder">1</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1967/1968" type="inclusive">Nov 1967-Oct 1968</unitdate><container altrender="Record carton" id="aspace_16dd5ba29972a1c13602e02d8f2d21f2" label="Mixed Materials [31142062726701]" type="Box">3</container><container id="aspace_d538ddf993843294e9a1f71692ac125a" parent="aspace_16dd5ba29972a1c13602e02d8f2d21f2" type="Folder">2</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1968/1969" type="inclusive">Nov 1968-Oct 1969</unitdate><container altrender="Record carton" id="aspace_d83f52101c0e4e34f571fa0a769032e8" label="Mixed Materials [31142062726701]" type="Box">3</container><container id="aspace_f3e9ffeaf4f7d54c2005e91bdfa1534d" parent="aspace_d83f52101c0e4e34f571fa0a769032e8" type="Folder">3</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1969/1970" type="inclusive">Nov 1969-Oct 1970</unitdate><container altrender="Record carton" id="aspace_c305c78152880a4e47de01e670794b2e" label="Mixed Materials [31142062726701]" type="Box">3</container><container id="aspace_b7129fdfee8d25947a1681725a40d0da" parent="aspace_c305c78152880a4e47de01e670794b2e" type="Folder">4</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1970/1971" type="inclusive">Nov 1970-Oct 1971</unitdate><container altrender="Record carton" id="aspace_b394cc3f2f61bb9f78260a7293c3c2a8" label="Mixed Materials [31142062726701]" type="Box">3</container><container id="aspace_65e0fb7f3899b54641a902c9118332ca" parent="aspace_b394cc3f2f61bb9f78260a7293c3c2a8" type="Folder">5</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1971/1972" type="inclusive">Nov 1971-Apr 1972</unitdate><container altrender="Record carton" id="aspace_294d10d83d97e2a616944a3dab5f1f08" label="Mixed Materials [31142062726701]" type="Box">3</container><container id="aspace_06905e05801c7bf73439a90d117ae569" parent="aspace_294d10d83d97e2a616944a3dab5f1f08" type="Folder">6</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1972/1972" type="inclusive">May 1972-Oct 1972</unitdate><container altrender="Record carton" id="aspace_17698d26e8d897f8af3481552dd0281d" label="Mixed Materials [31142062726701]" type="Box">3</container><container id="aspace_7c956c25428bca26ab57117fa255fae2" parent="aspace_17698d26e8d897f8af3481552dd0281d" type="Folder">7</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1972/1973" type="inclusive">Nov 1972-Apr 1973</unitdate><container altrender="Record carton" id="aspace_394db788aaea5404fefb8fe4141ee9ff" label="Mixed Materials [31142062726701]" type="Box">3</container><container id="aspace_7d3e47285cebb464480c6783c7cdacf7" parent="aspace_394db788aaea5404fefb8fe4141ee9ff" type="Folder">8</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1973/1973" type="inclusive">May 1973-Oct 1973</unitdate><container altrender="Record carton" id="aspace_9a4a5da5cc95b34a7a89e1b5e8f7b6f2" label="Mixed Materials [31142062726701]" type="Box">3</container><container id="aspace_26276761f6c3767fa7737ee1fbb301ed" parent="aspace_9a4a5da5cc95b34a7a89e1b5e8f7b6f2" type="Folder">9</container></did></c><c id="aspace_ref73" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1973/1974" type="inclusive">Nov 1973-Apr 1974</unitdate><container altrender="Record carton" id="aspace_49b5126171eba5dbce0e56800d305f8a" label="Mixed Materials [31142062726701]" type="Box">3</container><container id="aspace_9a3e6e8f7a707161af65c0ce9dcd7bbb" parent="aspace_49b5126171eba5dbce0e56800d305f8a" type="Folder">10</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1974/1974" type="inclusive">May 1974-Oct 1974</unitdate><container altrender="Record carton" id="aspace_193fcfe082cc5aaa9be5384b0ec09ad7" label="Mixed Materials [31142062726701]" type="Box">3</container><container id="aspace_f49afb31d4bcfd3eaeb42522eb82200e" parent="aspace_193fcfe082cc5aaa9be5384b0ec09ad7" type="Folder">11</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1974/1975" type="inclusive">Nov 1974-Apr 1975</unitdate><container altrender="Record carton" id="aspace_bcb087eb7409434d3fbb53f84c2ede43" label="Mixed Materials [31142062726701]" type="Box">3</container><container id="aspace_543a79f86ab879d1afe04368ca84537d" parent="aspace_bcb087eb7409434d3fbb53f84c2ede43" type="Folder">12</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1975/1975" type="inclusive">May 1975-Nov 1975</unitdate><container altrender="Record carton" id="aspace_98c8e8b852cc3c7e30c975a7d1327b3b" label="Mixed Materials [31142062726701]" type="Box">3</container><container id="aspace_2cc63f47ca22abf01823f97805dd2e70" parent="aspace_98c8e8b852cc3c7e30c975a7d1327b3b" type="Folder">13</container></did></c></c><c id="aspace_ref26" level="series"><did><unittitle>Series V: Proceedings of the Membership Meetings of the New York Branch of the Scree Actors Guild</unittitle><unitdate datechar="creation" normal="1973/1977" type="inclusive">1973-1977</unitdate></did><scopecontent id="aspace_ee9dad7d238321f52f7dd8f73751b80c"><head>Scope and Content Note</head><p>This series is comprised of the transcripts of the Proceedings of the Annual and semi-annual Membership Meetings. Each transcript, with the exception of May 1977, includes a table of contents.</p></scopecontent><c id="aspace_ref77" level="file"><did><unittitle>Fall Meeting</unittitle><unitdate datechar="creation" normal="1973/1973" type="inclusive">Nov 8, 1973</unitdate><container altrender="Record carton" id="aspace_ddac7b0eb7590a2a0ecc2d1b579670d8" label="Mixed Materials [31142062726701]" type="Box">3</container><container id="aspace_1e7261d36046267ab30902d6f6268658" parent="aspace_ddac7b0eb7590a2a0ecc2d1b579670d8" type="Folder">14</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>Fall Meeting</unittitle><unitdate datechar="creation" normal="1974/1974" type="inclusive">Nov 7, 1974</unitdate><container altrender="Record carton" id="aspace_0336cddbf52b75dad2a2e3f8d77ea08c" label="Mixed Materials [31142062726701]" type="Box">3</container><container id="aspace_dec6930e8c76a90bc101ceac37d420f9" parent="aspace_0336cddbf52b75dad2a2e3f8d77ea08c" type="Folder">15</container></did></c><c id="aspace_ref79" level="file"><did><unittitle>Special Meeting</unittitle><unitdate datechar="creation" normal="1975/1975" type="inclusive">Mar 3, 1975</unitdate><container altrender="Record carton" id="aspace_c013482488e3300aa10124c8d488981a" label="Mixed Materials [31142062726701]" type="Box">3</container><container id="aspace_b12be2a25bcf65286969ddc12879b511" parent="aspace_c013482488e3300aa10124c8d488981a" type="Folder">16</container></did></c><c id="aspace_ref80" level="file"><did><unittitle>Spring Meeting</unittitle><unitdate datechar="creation" normal="1975/1975" type="inclusive">May 19, 1975</unitdate><container altrender="Record carton" id="aspace_d75fc1d512e50c067277d9ce4c743b61" label="Mixed Materials [31142062726701]" type="Box">3</container><container id="aspace_56f1b4998610b7b590cbcc48bfabf6a8" parent="aspace_d75fc1d512e50c067277d9ce4c743b61" type="Folder">17</container></did></c><c id="aspace_ref81" level="file"><did><unittitle>Fall Meeting</unittitle><unitdate datechar="creation" normal="1975/1975" type="inclusive">Nov 12, 1975</unitdate><container altrender="Record carton" id="aspace_bfa1f13e8217b1d298ee762b1528828f" label="Mixed Materials [31142062726701]" type="Box">3</container><container id="aspace_b5ef62c5b74482415aad06a81fd4bbdf" parent="aspace_bfa1f13e8217b1d298ee762b1528828f" type="Folder">18</container></did></c><c id="aspace_ref82" level="file"><did><unittitle>Spring Meeting</unittitle><unitdate datechar="creation" normal="1976/1976" type="inclusive">May 3, 1976</unitdate><container altrender="Record carton" id="aspace_b7365f6a35521c4279acecb844baf134" label="Mixed Materials [31142062726701]" type="Box">3</container><container id="aspace_2f295721bcad004a3c3326d901db9813" parent="aspace_b7365f6a35521c4279acecb844baf134" type="Folder">19</container></did></c><c id="aspace_ref83" level="file"><did><unittitle>Fall Meeting</unittitle><unitdate datechar="creation" normal="1976/1976" type="inclusive">Nov 9, 1976</unitdate><container altrender="Record carton" id="aspace_e626266e5fca6b2355fd9180c5687cd1" label="Mixed Materials [31142062726701]" type="Box">3</container><container id="aspace_6cd9842e0b9e72c6ac5fa66f9fcfc440" parent="aspace_e626266e5fca6b2355fd9180c5687cd1" type="Folder">20</container></did></c><c id="aspace_ref84" level="file"><did><unittitle>Spring Meeting</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">May 10, 1977</unitdate><container altrender="Record carton" id="aspace_5fca87d5a44d0733f06d5e2c8306f6da" label="Mixed Materials [31142062726701]" type="Box">3</container><container id="aspace_5992e91d8a252a69dc1321f53bf4ca44" parent="aspace_5fca87d5a44d0733f06d5e2c8306f6da" type="Folder">21</container></did></c></c><c id="aspace_ref27" level="series"><did><unittitle>Series VII: Archived Website</unittitle><unitdate datechar="creation">Mar 10, 2009-ongoing</unitdate><dao xlink:actuate="onLoad" xlink:href="https://wayback.archive-it.org/6349/*/http://www.sagaftra.org/NY" xlink:role="external-link" xlink:show="new" xlink:title="Screen Actors Guild, New York Branch" xlink:type="simple"><daodesc><p>Screen Actors Guild, New York Branch</p></daodesc></dao></did><scopecontent id="aspace_24518510b6b3f5ecbc117447e4888f02"><head>Scope and Content Note</head><p>The New York Branch of the Screen Actors Guild is one of twenty branches nationwide representing actors working in motion pictures, television, commercials, industrials, video games, Internet and all new media formats. The Guild exists to enhance actors working conditions, compensation and benefits and to be a powerful, unified voice on behalf of artists rights.</p></scopecontent><phystech id="aspace_f61371d2e1dd5fd96d3c6244e8d0f020"><head>Physical Characteristics and Technical Requirements</head><p>Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</p></phystech></c></dsc>
-</archdesc>
+management, automation (copiers, computers) and other administrative or fiscal matters of the New York Guild office.</p>
+        </scopecontent>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">Feb 1966-Oct 1966</unitdate>
+            <container altrender="Record carton" id="aspace_0f2423466aa71be814a5a053a1a19857" label="Mixed Materials [31142062726719]" type="Box">2</container>
+            <container id="aspace_30344172a6433e087182ae46f7c031da" parent="aspace_0f2423466aa71be814a5a053a1a19857" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">Jan 1967-Oct 1967</unitdate>
+            <container altrender="Record carton" id="aspace_24735517111248d6b21a8616ce75c962" label="Mixed Materials [31142062726719]" type="Box">2</container>
+            <container id="aspace_6b669193493875d3c80a3170a739da86" parent="aspace_24735517111248d6b21a8616ce75c962" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1967/1968" type="inclusive">Dec 1967-Oct 1968</unitdate>
+            <container altrender="Record carton" id="aspace_ae1be8ef932ef238524f275d054f7e9b" label="Mixed Materials [31142062726719]" type="Box">2</container>
+            <container id="aspace_a177bd2d24d2080a9f860bfb7084c38f" parent="aspace_ae1be8ef932ef238524f275d054f7e9b" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1968/1969" type="inclusive">Nov 1968-Oct 1969</unitdate>
+            <container altrender="Record carton" id="aspace_d037170aad231d48e5b01f49c0d4b499" label="Mixed Materials [31142062726719]" type="Box">2</container>
+            <container id="aspace_6b341376b3b949a9c0038905f5a2a9d0" parent="aspace_d037170aad231d48e5b01f49c0d4b499" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1969/1970" type="inclusive">Nov 1969-Oct 1970</unitdate>
+            <container altrender="Record carton" id="aspace_1e632fb7e9eaee5a05dfcfe80f2e7836" label="Mixed Materials [31142062726719]" type="Box">2</container>
+            <container id="aspace_57e7edb96b0ce05bbe14e3885102dd6d" parent="aspace_1e632fb7e9eaee5a05dfcfe80f2e7836" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1970/1971" type="inclusive">Nov 1970-Oct 1971</unitdate>
+            <container altrender="Record carton" id="aspace_864f159124a5cb669a86934cc5b98ad3" label="Mixed Materials [31142062726719]" type="Box">2</container>
+            <container id="aspace_20d68bf2a2a2e3ce3786bb2fb8563aab" parent="aspace_864f159124a5cb669a86934cc5b98ad3" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1971/1972" type="inclusive">Nov 1971-Oct 1972</unitdate>
+            <container altrender="Record carton" id="aspace_93c9606e6d7eaa2fc6955ea2e808ca09" label="Mixed Materials [31142062726719]" type="Box">2</container>
+            <container id="aspace_74c6db85b02eb92fe8769859814d226f" parent="aspace_93c9606e6d7eaa2fc6955ea2e808ca09" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1972/1973" type="inclusive">Nov 1972-Oct 1973</unitdate>
+            <container altrender="Record carton" id="aspace_1b2a5810e98e5c8af5b40867d38b1d89" label="Mixed Materials [31142062726719]" type="Box">2</container>
+            <container id="aspace_fd62523bb2f36606d9937ed92585b6cf" parent="aspace_1b2a5810e98e5c8af5b40867d38b1d89" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1974/1975" type="inclusive">Oct 1974-Dec 1975</unitdate>
+            <container altrender="Record carton" id="aspace_4a1d46c8ed247b5250b128139e53009e" label="Mixed Materials [31142062726719]" type="Box">2</container>
+            <container id="aspace_d17fb47baedf557d2687459773d617f6" parent="aspace_4a1d46c8ed247b5250b128139e53009e" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Minutes (Signatories)</unittitle>
+            <unitdate datechar="creation">May 22, 1976, Jan 10, 1977</unitdate>
+            <container altrender="Record carton" id="aspace_5cd90aafac331dd84a60e89265275785" label="Mixed Materials [31142062726719]" type="Box">2</container>
+            <container id="aspace_82cafbc42862decc231a379379fb7484" parent="aspace_5cd90aafac331dd84a60e89265275785" type="Folder">24</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref25" level="series">
+        <did>
+          <unittitle>Series IV: National Board of Directors</unittitle>
+          <unitdate datechar="creation" normal="1965/1974" type="inclusive">1965-1974</unitdate>
+        </did>
+        <scopecontent id="aspace_6c7053ce07ac75a3eff57765dd95dda3">
+          <head>Scope and Content Note</head>
+          <p>The minutes for the following dates are missing: Dec. 1965; Jan. — May 1966 and Oct.14, 1966; Jan. Z3, Feb.13 and Dec. 18, 1967; Jan. 6 and Oct. 13, 1969; June 28, 1971; and Nov. 1973—Oct. 1974.</p>
+        </scopecontent>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1954/1954" type="inclusive">Jan 1954-Jun 1954</unitdate>
+            <container altrender="Record carton" id="aspace_cc174847a48151433e3221f759896845" label="Mixed Materials [31142062726719]" type="Box">2</container>
+            <container id="aspace_9dce8344c4e4b39e8fe1624376b3ab27" parent="aspace_cc174847a48151433e3221f759896845" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1954/1954" type="inclusive">Jul 1954-Dec 1954</unitdate>
+            <container altrender="Record carton" id="aspace_94a8577de0053e616fd840bf89604a70" label="Mixed Materials [31142062726719]" type="Box">2</container>
+            <container id="aspace_ced3d01e9d86bbafb0eb0f399949d584" parent="aspace_94a8577de0053e616fd840bf89604a70" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Executive Committee Hollywood National Board Minutes</unittitle>
+            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
+            <container altrender="Record carton" id="aspace_2656ffb830d3f36d51b5ce935edb5434" label="Mixed Materials [31142062726719]" type="Box">2</container>
+            <container id="aspace_b5cea79738fe1679e48b5e66d2aa923e" parent="aspace_2656ffb830d3f36d51b5ce935edb5434" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1965/1966" type="inclusive">Nov 1965-Oct 1966</unitdate>
+            <container altrender="Record carton" id="aspace_a73bc332fdfbd02cef95bf808f0feea5" label="Mixed Materials [31142062726719]" type="Box">2</container>
+            <container id="aspace_289d8adc4897f4466858944dac2c7526" parent="aspace_a73bc332fdfbd02cef95bf808f0feea5" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1966/1967" type="inclusive">Nov 1966-Oct 1967</unitdate>
+            <container altrender="Record carton" id="aspace_df2e838dcceaf4695d2a6d3867b4fd4f" label="Mixed Materials [31142062726701]" type="Box">3</container>
+            <container id="aspace_86156a3fc84634f3c2e4fd8cdb475a36" parent="aspace_df2e838dcceaf4695d2a6d3867b4fd4f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1967/1968" type="inclusive">Nov 1967-Oct 1968</unitdate>
+            <container altrender="Record carton" id="aspace_16dd5ba29972a1c13602e02d8f2d21f2" label="Mixed Materials [31142062726701]" type="Box">3</container>
+            <container id="aspace_d538ddf993843294e9a1f71692ac125a" parent="aspace_16dd5ba29972a1c13602e02d8f2d21f2" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1968/1969" type="inclusive">Nov 1968-Oct 1969</unitdate>
+            <container altrender="Record carton" id="aspace_d83f52101c0e4e34f571fa0a769032e8" label="Mixed Materials [31142062726701]" type="Box">3</container>
+            <container id="aspace_f3e9ffeaf4f7d54c2005e91bdfa1534d" parent="aspace_d83f52101c0e4e34f571fa0a769032e8" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1969/1970" type="inclusive">Nov 1969-Oct 1970</unitdate>
+            <container altrender="Record carton" id="aspace_c305c78152880a4e47de01e670794b2e" label="Mixed Materials [31142062726701]" type="Box">3</container>
+            <container id="aspace_b7129fdfee8d25947a1681725a40d0da" parent="aspace_c305c78152880a4e47de01e670794b2e" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1970/1971" type="inclusive">Nov 1970-Oct 1971</unitdate>
+            <container altrender="Record carton" id="aspace_b394cc3f2f61bb9f78260a7293c3c2a8" label="Mixed Materials [31142062726701]" type="Box">3</container>
+            <container id="aspace_65e0fb7f3899b54641a902c9118332ca" parent="aspace_b394cc3f2f61bb9f78260a7293c3c2a8" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1971/1972" type="inclusive">Nov 1971-Apr 1972</unitdate>
+            <container altrender="Record carton" id="aspace_294d10d83d97e2a616944a3dab5f1f08" label="Mixed Materials [31142062726701]" type="Box">3</container>
+            <container id="aspace_06905e05801c7bf73439a90d117ae569" parent="aspace_294d10d83d97e2a616944a3dab5f1f08" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">May 1972-Oct 1972</unitdate>
+            <container altrender="Record carton" id="aspace_17698d26e8d897f8af3481552dd0281d" label="Mixed Materials [31142062726701]" type="Box">3</container>
+            <container id="aspace_7c956c25428bca26ab57117fa255fae2" parent="aspace_17698d26e8d897f8af3481552dd0281d" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1972/1973" type="inclusive">Nov 1972-Apr 1973</unitdate>
+            <container altrender="Record carton" id="aspace_394db788aaea5404fefb8fe4141ee9ff" label="Mixed Materials [31142062726701]" type="Box">3</container>
+            <container id="aspace_7d3e47285cebb464480c6783c7cdacf7" parent="aspace_394db788aaea5404fefb8fe4141ee9ff" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">May 1973-Oct 1973</unitdate>
+            <container altrender="Record carton" id="aspace_9a4a5da5cc95b34a7a89e1b5e8f7b6f2" label="Mixed Materials [31142062726701]" type="Box">3</container>
+            <container id="aspace_26276761f6c3767fa7737ee1fbb301ed" parent="aspace_9a4a5da5cc95b34a7a89e1b5e8f7b6f2" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1973/1974" type="inclusive">Nov 1973-Apr 1974</unitdate>
+            <container altrender="Record carton" id="aspace_49b5126171eba5dbce0e56800d305f8a" label="Mixed Materials [31142062726701]" type="Box">3</container>
+            <container id="aspace_9a3e6e8f7a707161af65c0ce9dcd7bbb" parent="aspace_49b5126171eba5dbce0e56800d305f8a" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">May 1974-Oct 1974</unitdate>
+            <container altrender="Record carton" id="aspace_193fcfe082cc5aaa9be5384b0ec09ad7" label="Mixed Materials [31142062726701]" type="Box">3</container>
+            <container id="aspace_f49afb31d4bcfd3eaeb42522eb82200e" parent="aspace_193fcfe082cc5aaa9be5384b0ec09ad7" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1974/1975" type="inclusive">Nov 1974-Apr 1975</unitdate>
+            <container altrender="Record carton" id="aspace_bcb087eb7409434d3fbb53f84c2ede43" label="Mixed Materials [31142062726701]" type="Box">3</container>
+            <container id="aspace_543a79f86ab879d1afe04368ca84537d" parent="aspace_bcb087eb7409434d3fbb53f84c2ede43" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">May 1975-Nov 1975</unitdate>
+            <container altrender="Record carton" id="aspace_98c8e8b852cc3c7e30c975a7d1327b3b" label="Mixed Materials [31142062726701]" type="Box">3</container>
+            <container id="aspace_2cc63f47ca22abf01823f97805dd2e70" parent="aspace_98c8e8b852cc3c7e30c975a7d1327b3b" type="Folder">13</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref26" level="series">
+        <did>
+          <unittitle>Series V: Proceedings of the Membership Meetings of the New York Branch of the Scree Actors Guild</unittitle>
+          <unitdate datechar="creation" normal="1973/1977" type="inclusive">1973-1977</unitdate>
+        </did>
+        <scopecontent id="aspace_ee9dad7d238321f52f7dd8f73751b80c">
+          <head>Scope and Content Note</head>
+          <p>This series is comprised of the transcripts of the Proceedings of the Annual and semi-annual Membership Meetings. Each transcript, with the exception of May 1977, includes a table of contents.</p>
+        </scopecontent>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Fall Meeting</unittitle>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">Nov 8, 1973</unitdate>
+            <container altrender="Record carton" id="aspace_ddac7b0eb7590a2a0ecc2d1b579670d8" label="Mixed Materials [31142062726701]" type="Box">3</container>
+            <container id="aspace_1e7261d36046267ab30902d6f6268658" parent="aspace_ddac7b0eb7590a2a0ecc2d1b579670d8" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>Fall Meeting</unittitle>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">Nov 7, 1974</unitdate>
+            <container altrender="Record carton" id="aspace_0336cddbf52b75dad2a2e3f8d77ea08c" label="Mixed Materials [31142062726701]" type="Box">3</container>
+            <container id="aspace_dec6930e8c76a90bc101ceac37d420f9" parent="aspace_0336cddbf52b75dad2a2e3f8d77ea08c" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>Special Meeting</unittitle>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">Mar 3, 1975</unitdate>
+            <container altrender="Record carton" id="aspace_c013482488e3300aa10124c8d488981a" label="Mixed Materials [31142062726701]" type="Box">3</container>
+            <container id="aspace_b12be2a25bcf65286969ddc12879b511" parent="aspace_c013482488e3300aa10124c8d488981a" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>Spring Meeting</unittitle>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">May 19, 1975</unitdate>
+            <container altrender="Record carton" id="aspace_d75fc1d512e50c067277d9ce4c743b61" label="Mixed Materials [31142062726701]" type="Box">3</container>
+            <container id="aspace_56f1b4998610b7b590cbcc48bfabf6a8" parent="aspace_d75fc1d512e50c067277d9ce4c743b61" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>Fall Meeting</unittitle>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">Nov 12, 1975</unitdate>
+            <container altrender="Record carton" id="aspace_bfa1f13e8217b1d298ee762b1528828f" label="Mixed Materials [31142062726701]" type="Box">3</container>
+            <container id="aspace_b5ef62c5b74482415aad06a81fd4bbdf" parent="aspace_bfa1f13e8217b1d298ee762b1528828f" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>Spring Meeting</unittitle>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">May 3, 1976</unitdate>
+            <container altrender="Record carton" id="aspace_b7365f6a35521c4279acecb844baf134" label="Mixed Materials [31142062726701]" type="Box">3</container>
+            <container id="aspace_2f295721bcad004a3c3326d901db9813" parent="aspace_b7365f6a35521c4279acecb844baf134" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Fall Meeting</unittitle>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">Nov 9, 1976</unitdate>
+            <container altrender="Record carton" id="aspace_e626266e5fca6b2355fd9180c5687cd1" label="Mixed Materials [31142062726701]" type="Box">3</container>
+            <container id="aspace_6cd9842e0b9e72c6ac5fa66f9fcfc440" parent="aspace_e626266e5fca6b2355fd9180c5687cd1" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Spring Meeting</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">May 10, 1977</unitdate>
+            <container altrender="Record carton" id="aspace_5fca87d5a44d0733f06d5e2c8306f6da" label="Mixed Materials [31142062726701]" type="Box">3</container>
+            <container id="aspace_5992e91d8a252a69dc1321f53bf4ca44" parent="aspace_5fca87d5a44d0733f06d5e2c8306f6da" type="Folder">21</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref27" level="series">
+        <did>
+          <unittitle>Series VII: Archived Website</unittitle>
+          <unitdate datechar="creation">Mar 10, 2009-ongoing</unitdate>
+          <dao xlink:actuate="onLoad" xlink:href="https://wayback.archive-it.org/6349/*/http://www.sagaftra.org/NY" xlink:role="external-link" xlink:show="new" xlink:title="Screen Actors Guild, New York Branch" xlink:type="simple">
+            <daodesc>
+              <p>Screen Actors Guild, New York Branch</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_24518510b6b3f5ecbc117447e4888f02">
+          <head>Scope and Content Note</head>
+          <p>The New York Branch of the Screen Actors Guild is one of twenty branches nationwide representing actors working in motion pictures, television, commercials, industrials, video games, Internet and all new media formats. The Guild exists to enhance actors working conditions, compensation and benefits and to be a powerful, unified voice on behalf of artists rights.</p>
+        </scopecontent>
+        <phystech id="aspace_f61371d2e1dd5fd96d3c6244e8d0f020">
+          <head>Physical Characteristics and Technical Requirements</head>
+          <p>Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</p>
+        </phystech>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

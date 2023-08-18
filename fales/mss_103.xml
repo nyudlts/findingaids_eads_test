@@ -1,65 +1,736 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_103">mss_103</eadid><filedesc><titlestmt><titleproper>Guide to the Richard W. Rychtarik / Hart Crane Papers <num>MSS.103</num></titleproper><author>Marvin J. Taylor, September 2000.</author></titlestmt><editionstmt><p>This version was derived from Crane finding aid</p></editionstmt><publicationstmt><publisher>Fales Library and Special Collections</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:28:00 -0400</date>.</creation><langusage>Description is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>April 2021</date><item>Edited by Amy C. Vo to revise harmful language regarding suicide and mental health</item></change></revisiondesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Fales Library and Special Collections</corpname>
-    </repository>
-    <unittitle>Richard W. Rychtarik/Hart Crane Papers</unittitle>
-    <origination label="Creator">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_103">mss_103</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Richard W. Rychtarik / Hart Crane Papers <num>MSS.103</num></titleproper>
+        <author>Marvin J. Taylor, September 2000.</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from Crane finding aid</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:28:00 -0400</date>.</creation>
+      <langusage>Description is in English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>April 2021</date>
+        <item>Edited by Amy C. Vo to revise harmful language regarding suicide and mental health</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>Richard W. Rychtarik/Hart Crane Papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Crane, Hart, 1899-1932</persname>
+      </origination>
+      <unitid>MSS.103</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+        <extent altrender="carrier">in 1 manuscript box.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1923/1935" type="inclusive">1923-1935</unitdate>
+      <abstract id="aspace_8bb3b7b769795bc70a360b7789312b38">Harold Hart Crane was born in 1899 and became a significant voice within modernist American poetry of the first half of the twentieth century. Crane moved to New York City and mixed with other prominent writers of the time and was influenced by both contemporary currents in poetry, and his early affinity for nineteenth-century French poets. In 1930, Crane received some acclaim from the publication of "The Bridge," his book-length poem that depicts New York City and his outlook on America in general.</abstract>
+      <langmaterial id="aspace_7aafc76a2adf0f6ac5cf867aaac41802">Materials are in English.</langmaterial>
+    </did>
+    <custodhist id="aspace_d0ea0930b02735f965bd5ab8479e849f">
+      <head>Provenance</head>
+      <p>The Richard W. Rychtarik Hart Crane Papers were the gift of the Richard W. Rychtarik Estate by Mrs. Gertrude Rychtarik. The papers were donated in September, 2000. The collection consists of letters, postcards and photographs, as well as some supplemental materials, that were kept by Mr. Rychtarik, a close personal friend of Crane.</p>
+    </custodhist>
+    <accessrestrict id="aspace_01c934a437d5ba62297b99df42ff7e86">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <prefercite id="aspace_2726690c8d63043ca4882408787d59f4">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Richard W. Rychtarik/Hart Crane Papers; MSS 103; box number; folder number or item identifier; Fales Library and Special Collections, New York University.</p>
+    </prefercite>
+    <bioghist id="aspace_e866e4a69e5ec35984993a5bbdfe5718">
+      <head>Biographical Note</head>
+      <p>Harold Hart Crane (1899-1932) was born in Garrettsville, Ohio and became a significant voice within modernist American poetry of the first half of the twentieth century. Though without a college education and dissuaded from a career in poetry, Crane moved to New York City to write, where he met other prominent writers of the time, such as E. E. Cummings, Jean Toomer and Katherine Anne Porter. He was influenced by both the contemporary currents in poetry, such as T.S. Eliot, and his early affinity for nineteenth-century French poets, like Arthur Rimbaud. Most of his published material was written between 1924 and 1926. Crane's work was impacted by his difficulties with alcohol use and the homophobia he experienced. In 1930, he received acclaim and distinction from the publication of "The Bridge," his book-length poem that depicts New York City and his outlook on America in general. Crane had struggled to complete "The Bridge," and when he found himself particularly at a loss, he sought inspiration by traveling to an island near Cuba and Europe. Crane temporarily settled in Mexico from 1931 to 1932 on a Guggenheim Fellowship.</p>
+    </bioghist>
+    <scopecontent id="aspace_3e2ca0863a2b47cd37d6fb3b49a47b48">
+      <head>Scope and Content Note</head>
+      <p>The Papers consist of letters, postcards, photographs, drawings, tearsheets, and clippings about Crane. Most of the items are typed letters signed by Crane to Charlotte and/or Richard Rychtarik. (Richard Rychtarik was an American set and costume designer of major productions at the Metropolitan Opera and other companies.) There are two letters from Waldo Frank to Crane, a handful of letters from Grace Hart Crane, and correspondence with Philip Horton. Among the photos are images of Crane in Brooklyn with the Bridge in the background, images of his rooms, of his visit to Woodstock, NY, and signed portraits, including one signed portrait by Walker Evans.</p>
+    </scopecontent>
+    <arrangement id="aspace_0d9031b558d26dbd300b330b065da9e0">
+      <head>Arrangement</head>
+      <p>Folders are roughly arranged chronologically.</p>
+      <p>The collection corresponds to the arrangement of the scrapbook in which they had been housed. It is roughly chronological, though there are some photos and materials not in that order and other materials that were not a part of the original scrapbook. Printed materials and related correspondence are listed at the end of the collection.</p>
+    </arrangement>
+    <userestrict id="aspace_dea19d7377be7c9f77ddb1e400d37cb3">
+      <head>Conditions Governing Use</head>
+      <p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>
+    </userestrict>
+    <processinfo id="aspace_823d797c11bd710a613ff13de730166b">
+      <head>Processing Information</head>
+      <p>The collection had been kept in a very acidic scrapbook which was disbound when the Fales Library received the materials. Many of the letters had been stapled to the acidic backing. These have been removed. When the backings contained information about the letters, they were retained. The scrapbook had its own numbering system, which is preserved on the folders and, often written on the letters themselves.</p>
+      <p>In 2021, narrative description was revised in the biographical note and abstract to edit harmful language regarding suicide, mental health, and substance use. Changes were made based on The Recommendations for Reporting on Suicide.</p>
+      <p>Researchers can access previous versions of the finding aid in our GitHub repository at https://github.com/NYULibraries/findingaids_eads/commits/master/fales/mss_103.xml.</p>
+    </processinfo>
+    <controlaccess>
+      <genreform source="aat">Postcards.</genreform>
+      <subject source="lcsh">Poets, American.</subject>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <subject source="lcsh">Poetry, Modern -- 20th century.</subject>
+      <genreform source="aat">Drawings</genreform>
+      <subject source="lcsh">American poetry -- 20th century.</subject>
+      <genreform source="aat">Tear sheets.</genreform>
+      <subject source="lcsh">Poets, American -- 20th century -- Correspondence.</subject>
+      <genreform source="aat">Photographs.</genreform>
+      <genreform source="aat">Correspondence.</genreform>
+      <subject source="lcsh">Poets -- United States.</subject>
+      <subject source="lcsh">Authors |z United States.</subject>
+      <persname source="local">Horton, Philip</persname>
+      <persname source="naf">Frank, Waldo David, 1889-1967</persname>
+      <persname source="local">Rychtarik, Richard, 1894-1982</persname>
+      <persname source="naf">Evans, Walker, 1903-1975</persname>
       <persname source="naf">Crane, Hart, 1899-1932</persname>
-    </origination>
-    <unitid>MSS.103</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
-      <extent altrender="carrier">in 1 manuscript box.</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1923/1935" type="inclusive">1923-1935</unitdate>
-    <abstract id="aspace_8bb3b7b769795bc70a360b7789312b38">Harold Hart Crane was born in 1899 and became a significant voice within modernist American poetry of the first half of the twentieth century. Crane moved to New York City and mixed with other prominent writers of the time and was influenced by both contemporary currents in poetry, and his early affinity for nineteenth-century French poets. In 1930, Crane received some acclaim from the publication of "The Bridge," his book-length poem that depicts New York City and his outlook on America in general.</abstract>
-    <langmaterial id="aspace_7aafc76a2adf0f6ac5cf867aaac41802">Materials are in English.</langmaterial>
-  </did>
-  <custodhist id="aspace_d0ea0930b02735f965bd5ab8479e849f">
-    <head>Provenance</head>
-<p>The Richard W. Rychtarik Hart Crane Papers were the gift of the Richard W. Rychtarik Estate by Mrs. Gertrude Rychtarik. The papers were donated in September, 2000. The collection consists of letters, postcards and photographs, as well as some supplemental materials, that were kept by Mr. Rychtarik, a close personal friend of Crane.</p>  </custodhist>
-  <accessrestrict id="aspace_01c934a437d5ba62297b99df42ff7e86">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <prefercite id="aspace_2726690c8d63043ca4882408787d59f4">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Richard W. Rychtarik/Hart Crane Papers; MSS 103; box number; folder number or item identifier; Fales Library and Special Collections, New York University.</p>  </prefercite>
-  <bioghist id="aspace_e866e4a69e5ec35984993a5bbdfe5718">
-    <head>Biographical Note</head>
-<p>Harold Hart Crane (1899-1932) was born in Garrettsville, Ohio and became a significant voice within modernist American poetry of the first half of the twentieth century. Though without a college education and dissuaded from a career in poetry, Crane moved to New York City to write, where he met other prominent writers of the time, such as E. E. Cummings, Jean Toomer and Katherine Anne Porter. He was influenced by both the contemporary currents in poetry, such as T.S. Eliot, and his early affinity for nineteenth-century French poets, like Arthur Rimbaud. Most of his published material was written between 1924 and 1926. Crane's work was impacted by his difficulties with alcohol use and the homophobia he experienced. In 1930, he received acclaim and distinction from the publication of "The Bridge," his book-length poem that depicts New York City and his outlook on America in general. Crane had struggled to complete "The Bridge," and when he found himself particularly at a loss, he sought inspiration by traveling to an island near Cuba and Europe. Crane temporarily settled in Mexico from 1931 to 1932 on a Guggenheim Fellowship.</p>  </bioghist>
-  <scopecontent id="aspace_3e2ca0863a2b47cd37d6fb3b49a47b48">
-    <head>Scope and Content Note</head>
-<p>The Papers consist of letters, postcards, photographs, drawings, tearsheets, and clippings about Crane. Most of the items are typed letters signed by Crane to Charlotte and/or Richard Rychtarik. (Richard Rychtarik was an American set and costume designer of major productions at the Metropolitan Opera and other companies.) There are two letters from Waldo Frank to Crane, a handful of letters from Grace Hart Crane, and correspondence with Philip Horton. Among the photos are images of Crane in Brooklyn with the Bridge in the background, images of his rooms, of his visit to Woodstock, NY, and signed portraits, including one signed portrait by Walker Evans.</p>  </scopecontent>
-  <arrangement id="aspace_0d9031b558d26dbd300b330b065da9e0">
-    <head>Arrangement</head>
-<p>Folders are roughly arranged chronologically.</p><p>The collection corresponds to the arrangement of the scrapbook in which they had been housed. It is roughly chronological, though there are some photos and materials not in that order and other materials that were not a part of the original scrapbook. Printed materials and related correspondence are listed at the end of the collection.</p>  </arrangement>
-  <userestrict id="aspace_dea19d7377be7c9f77ddb1e400d37cb3">
-    <head>Conditions Governing Use</head>
-<p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>  </userestrict>
-  <processinfo id="aspace_823d797c11bd710a613ff13de730166b">
-    <head>Processing Information</head>
-<p>The collection had been kept in a very acidic scrapbook which was disbound when the Fales Library received the materials. Many of the letters had been stapled to the acidic backing. These have been removed. When the backings contained information about the letters, they were retained. The scrapbook had its own numbering system, which is preserved on the folders and, often written on the letters themselves.</p><p>In 2021, narrative description was revised in the biographical note and abstract to edit harmful language regarding suicide, mental health, and substance use. Changes were made based on The Recommendations for Reporting on Suicide.</p><p>Researchers can access previous versions of the finding aid in our GitHub repository at https://github.com/NYULibraries/findingaids_eads/commits/master/fales/mss_103.xml.</p>  </processinfo>
-  <controlaccess>
-    <genreform source="aat">Postcards.</genreform>
-    <subject source="lcsh">Poets, American.</subject>
-    <genreform source="aat">Clippings (information artifacts)</genreform>
-    <subject source="lcsh">Poetry, Modern -- 20th century.</subject>
-    <genreform source="aat">Drawings</genreform>
-    <subject source="lcsh">American poetry -- 20th century.</subject>
-    <genreform source="aat">Tear sheets.</genreform>
-    <subject source="lcsh">Poets, American -- 20th century -- Correspondence.</subject>
-    <genreform source="aat">Photographs.</genreform>
-    <genreform source="aat">Correspondence.</genreform>
-    <subject source="lcsh">Poets -- United States.</subject>
-    <subject source="lcsh">Authors |z United States.</subject>
-    <persname source="local">Horton, Philip</persname>
-    <persname source="naf">Frank, Waldo David, 1889-1967</persname>
-    <persname source="local">Rychtarik, Richard, 1894-1982</persname>
-    <persname source="naf">Evans, Walker, 1903-1975</persname>
-    <persname source="naf">Crane, Hart, 1899-1932</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref12" level="file"><did><unittitle>Scrapbook title page</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_072cbf883ea25596fba52cb1bb7741a6" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_ca4a09d9bfae0796f38850496783d5d0" parent="aspace_072cbf883ea25596fba52cb1bb7741a6" type="Folder">1</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, [March 1923]</unittitle><unitdate datechar="creation">1923</unitdate><container altrender="Manuscript box - Letter" id="aspace_ef41af127ac00aae3241588907fbc999" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_cdfccdfbdae9b65a361753b0bf07c832" parent="aspace_ef41af127ac00aae3241588907fbc999" type="Folder">2</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Photo of Hart Crane [1923].</unittitle><unitdate datechar="creation">1923</unitdate><container altrender="Manuscript box - Letter" id="aspace_906c9fbcc7c25c2bd8f9d691e41e42e7" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_9605eae7ffdc45d909eba380838d5aa2" parent="aspace_906c9fbcc7c25c2bd8f9d691e41e42e7" type="Folder">3</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, March 30, 1923</unittitle><unitdate datechar="creation">1923</unitdate><container altrender="Manuscript box - Letter" id="aspace_a788b3d0577068974d19b64c175985bc" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_bd9c4689380bbea045bdb4dc370624e7" parent="aspace_a788b3d0577068974d19b64c175985bc" type="Folder">4</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, [April 4, 1923]</unittitle><unitdate datechar="creation">1923</unitdate><container altrender="Manuscript box - Letter" id="aspace_24295ca073febe9ba5deffd2498b6878" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_dd18a15883e5cfd2d5c8e7241feabcc6" parent="aspace_24295ca073febe9ba5deffd2498b6878" type="Folder">5</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte, April 13, 1923</unittitle><unitdate datechar="creation">1923</unitdate><container altrender="Manuscript box - Letter" id="aspace_164e8d908562098bedf46c3b871a7668" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_1a1ea7f944ef89f2a085bff1f9470991" parent="aspace_164e8d908562098bedf46c3b871a7668" type="Folder">6</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte, [April 23, 1923]</unittitle><unitdate datechar="creation">1923</unitdate><container altrender="Manuscript box - Letter" id="aspace_b1e5acb12766957c1b0e0f13e62ecaf6" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_630ea515e7c577855cdbf02a9519c0d9" parent="aspace_b1e5acb12766957c1b0e0f13e62ecaf6" type="Folder">7</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte, Wednesday [1923]; Correspondence, Waldo Frank to Hart Crane</unittitle><unitdate datechar="creation">1923</unitdate><container altrender="Manuscript box - Letter" id="aspace_ced52ff4cd321a8aa9df933dd56aacf8" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_ebaf71cdc0453657c1bcd47c5dd0bd0b" parent="aspace_ced52ff4cd321a8aa9df933dd56aacf8" type="Folder">8</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Correspondence, Hart Crane to Richard, [May 1923]</unittitle><unitdate datechar="creation">1923</unitdate><container altrender="Manuscript box - Letter" id="aspace_9fb86adea5ed6fbd25e2c7217d848c1f" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_8b756c0f2eb6f4681f2d43def23e3ad5" parent="aspace_9fb86adea5ed6fbd25e2c7217d848c1f" type="Folder">9</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, May 30, 1923</unittitle><unitdate datechar="creation">1923</unitdate><container altrender="Manuscript box - Letter" id="aspace_84846cdcae551a7e93fbc49c8ecdbd1b" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_cff66f784401a3c52d79c4b6ba03c298" parent="aspace_84846cdcae551a7e93fbc49c8ecdbd1b" type="Folder">10</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, June 5, 1923</unittitle><unitdate datechar="creation">1923</unitdate><container altrender="Manuscript box - Letter" id="aspace_1cb4f2c0a835f9f4da7b4e4852af5170" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_63b6e84b1dd578971c4226fd3621d31e" parent="aspace_1cb4f2c0a835f9f4da7b4e4852af5170" type="Folder">11</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Correspondence, Hart Crane to Richard, June 21, 1923</unittitle><unitdate datechar="creation">1923</unitdate><container altrender="Manuscript box - Letter" id="aspace_66fe3c52fbaf8fe167d340894324f4c3" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_c1487b31ae961932088e823277b3f9b6" parent="aspace_66fe3c52fbaf8fe167d340894324f4c3" type="Folder">12</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte, July 9, 1923</unittitle><unitdate datechar="creation">1923</unitdate><container altrender="Manuscript box - Letter" id="aspace_50452936773f771d7e3c6d4766386368" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_10fdda403c80dc8caae4624af693c4ae" parent="aspace_50452936773f771d7e3c6d4766386368" type="Folder">13</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte, July 21, 1923</unittitle><unitdate datechar="creation">1923</unitdate><container altrender="Manuscript box - Letter" id="aspace_2d4d8b35c67b2f935bc8da462c14c9a7" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_c7a840716898ec3560e39fe906e7e5c3" parent="aspace_2d4d8b35c67b2f935bc8da462c14c9a7" type="Folder">14</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, [August 19, 1923]</unittitle><unitdate datechar="creation">1923</unitdate><container altrender="Manuscript box - Letter" id="aspace_0e4923d3c9699cc878758d2b059dd650" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_522bd70fa2b5d330c8da60b8ec03f99b" parent="aspace_0e4923d3c9699cc878758d2b059dd650" type="Folder">15</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, [August 26, 1923]</unittitle><unitdate datechar="creation">1923</unitdate><container altrender="Manuscript box - Letter" id="aspace_4c888ccbbb376a69eeffcff5269a0925" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_8f36dc5cba3ff858d20662a81d2033ed" parent="aspace_4c888ccbbb376a69eeffcff5269a0925" type="Folder">16</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte, [August 28, 1923]</unittitle><unitdate datechar="creation">1923</unitdate><container altrender="Manuscript box - Letter" id="aspace_e59063dfe5212e55a337719dba91e309" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_d6f19e455f96a239d8737124bf45e4a1" parent="aspace_e59063dfe5212e55a337719dba91e309" type="Folder">17</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte, September 23, 1923</unittitle><unitdate datechar="creation">1923</unitdate><container altrender="Manuscript box - Letter" id="aspace_39c8b9df71d4ad7c178abb33f267b1b1" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_05d3cc2d853da37b66384c44ddc8ac4c" parent="aspace_39c8b9df71d4ad7c178abb33f267b1b1" type="Folder">18</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, October 2, 1923</unittitle><unitdate datechar="creation">1923</unitdate><container altrender="Manuscript box - Letter" id="aspace_56d7c24f57ea6ee48c9b14079f2f2b22" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_d0f4c07b3cb18906ae919c3ad97a5fb1" parent="aspace_56d7c24f57ea6ee48c9b14079f2f2b22" type="Folder">19</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, Friday evening [1923]</unittitle><unitdate datechar="creation">1923</unitdate><container altrender="Manuscript box - Letter" id="aspace_13bb0337661fa24840e123a9450ebd36" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_7abc79445906c3daa811187717196146" parent="aspace_13bb0337661fa24840e123a9450ebd36" type="Folder">20</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte, December 10, 1923</unittitle><unitdate datechar="creation">1923</unitdate><container altrender="Manuscript box - Letter" id="aspace_74ae05f78eaf812b80dffc54be309a66" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_97ab710f09277da61cc8998424089526" parent="aspace_74ae05f78eaf812b80dffc54be309a66" type="Folder">21</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Photos of Woodstock, NY Dec-23</unittitle><unitdate datechar="creation">1923</unitdate><container altrender="Manuscript box - Letter" id="aspace_1a8165400ff899493c2cf045e98135a7" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_813905fb9533dc445a3d714233a60321" parent="aspace_1a8165400ff899493c2cf045e98135a7" type="Folder">22</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte, January 6, 1924</unittitle><unitdate datechar="creation">1924</unitdate><container altrender="Manuscript box - Letter" id="aspace_c52f3a28b6fe3e9352cd62eca15bc48e" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_8640481234cd437b26c117f5922b0a85" parent="aspace_c52f3a28b6fe3e9352cd62eca15bc48e" type="Folder">23</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, March 5, 1924</unittitle><unitdate datechar="creation">1924</unitdate><container altrender="Manuscript box - Letter" id="aspace_74795115f4a907219ecf2b52c0e4ac50" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_e03d48aaee0a0350763042ad2b01a432" parent="aspace_74795115f4a907219ecf2b52c0e4ac50" type="Folder">24</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte, April 15, [1924]</unittitle><unitdate datechar="creation">1924</unitdate><container altrender="Manuscript box - Letter" id="aspace_f8f688e931057461cb12de071e6b42a4" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_8b9352fde120c5cadbd1b3e13c203f56" parent="aspace_f8f688e931057461cb12de071e6b42a4" type="Folder">25</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte, July 30, 1924</unittitle><unitdate datechar="creation">1924</unitdate><container altrender="Manuscript box - Letter" id="aspace_5c917eb8bf3cf37d5ed0b6bae0ba2e30" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_4af72dc6ec3ab073b34afe43668ae5cf" parent="aspace_5c917eb8bf3cf37d5ed0b6bae0ba2e30" type="Folder">26</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, November 18, 1924</unittitle><unitdate datechar="creation">1924</unitdate><container altrender="Manuscript box - Letter" id="aspace_5169b21d910cba546c90869ee0d8d469" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_2371a121d77aa2a0280822f0ff268564" parent="aspace_5169b21d910cba546c90869ee0d8d469" type="Folder">27</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, January 29, 1925</unittitle><unitdate datechar="creation">1925</unitdate><container altrender="Manuscript box - Letter" id="aspace_e215c51a17f8f121d9b412b179f4dad0" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_75aa7b560a4a713eb30ef9807c793aa2" parent="aspace_e215c51a17f8f121d9b412b179f4dad0" type="Folder">28</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, February 28, 1925</unittitle><unitdate datechar="creation">1925</unitdate><container altrender="Manuscript box - Letter" id="aspace_233c73ed3b76531973f39e2b792c65a4" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_e46fdc8ac9b5961dbda794bc38685079" parent="aspace_233c73ed3b76531973f39e2b792c65a4" type="Folder">29</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, April 9, 1925</unittitle><unitdate datechar="creation">1925</unitdate><container altrender="Manuscript box - Letter" id="aspace_22723dfb4bb1f46776c05e1d27756182" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_0249e2ad165203eec4c085cf607aae8f" parent="aspace_22723dfb4bb1f46776c05e1d27756182" type="Folder">30</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, May 18, [1925]</unittitle><unitdate datechar="creation">1925</unitdate><container altrender="Manuscript box - Letter" id="aspace_ba64abf4fc8a005cc09a92268d4c8273" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_c976d1fdc3183f93d5be5fc64caeb539" parent="aspace_ba64abf4fc8a005cc09a92268d4c8273" type="Folder">31</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, June 2, [1925]</unittitle><unitdate datechar="creation">1925</unitdate><container altrender="Manuscript box - Letter" id="aspace_9921f2f652d9223d467313247bcfe846" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_5acfeb3beb33c1a01373f88b2dc04ed7" parent="aspace_9921f2f652d9223d467313247bcfe846" type="Folder">32</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, September 15, 1925</unittitle><unitdate datechar="creation">1925</unitdate><container altrender="Manuscript box - Letter" id="aspace_5d2756f108fb42ccfcffd6d4dea9bec5" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_2afc7e7be94099cea1a57a0ec59473ab" parent="aspace_5d2756f108fb42ccfcffd6d4dea9bec5" type="Folder">33</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, [1925]</unittitle><unitdate datechar="creation">1925</unitdate><container altrender="Manuscript box - Letter" id="aspace_4d56e575c4ba7975237cfc5baf377f55" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_378fbf884de353f20d41bb5c179e36e5" parent="aspace_4d56e575c4ba7975237cfc5baf377f55" type="Folder">34</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, September 26, 1925</unittitle><unitdate datechar="creation">1925</unitdate><container altrender="Manuscript box - Letter" id="aspace_9aacb758271a9d5a8777e0caf45c9d20" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_1754fceb6b022b06012f0aa72a99bf3a" parent="aspace_9aacb758271a9d5a8777e0caf45c9d20" type="Folder">35</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, October 14, 1925</unittitle><unitdate datechar="creation">1925</unitdate><container altrender="Manuscript box - Letter" id="aspace_100176b33a545e12129e21fad882ec2e" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_9210b7ce98885aecb3c1b6a8c7f0ab38" parent="aspace_100176b33a545e12129e21fad882ec2e" type="Folder">36</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, October 22, 1925</unittitle><unitdate datechar="creation">1925</unitdate><container altrender="Manuscript box - Letter" id="aspace_8cedcea37b0a764ad754c054d8c39217" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_9bfef2b090676740ed49b24a62f600a0" parent="aspace_8cedcea37b0a764ad754c054d8c39217" type="Folder">37</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, December 1, 1925</unittitle><unitdate datechar="creation">1925</unitdate><container altrender="Manuscript box - Letter" id="aspace_49098accc5a77bda57c03e3a5b258f1f" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_e95a34da7e36c08e82e56e8ea7c9d45b" parent="aspace_49098accc5a77bda57c03e3a5b258f1f" type="Folder">38</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, December 14, 1925</unittitle><unitdate datechar="creation">1925</unitdate><container altrender="Manuscript box - Letter" id="aspace_2690d3f9ca4d5ad337333b541649c715" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_5d4d0f4f58cf5f6862b791a5dae4c257" parent="aspace_2690d3f9ca4d5ad337333b541649c715" type="Folder">39</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, March 2, [1926]</unittitle><unitdate datechar="creation">1926</unitdate><container altrender="Manuscript box - Letter" id="aspace_7da5922fb7afa864506ff1449969dc02" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_dfab3a46b4310ed554ea914965f41e74" parent="aspace_7da5922fb7afa864506ff1449969dc02" type="Folder">40</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, March 23, 1926</unittitle><unitdate datechar="creation">1926</unitdate><container altrender="Manuscript box - Letter" id="aspace_9c05bc4319c9eb8d23e35d28f616231a" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_42d1edcf11534964d50f9e863d51cfb6" parent="aspace_9c05bc4319c9eb8d23e35d28f616231a" type="Folder">41</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, April 11, 1926</unittitle><unitdate datechar="creation">1926</unitdate><container altrender="Manuscript box - Letter" id="aspace_b54a6a2f536057481dc4396e7871d93f" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_bc69d525e6718023855356593a3e827c" parent="aspace_b54a6a2f536057481dc4396e7871d93f" type="Folder">42</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, April 25, 1926</unittitle><unitdate datechar="creation">1926</unitdate><container altrender="Manuscript box - Letter" id="aspace_1a6875bfce60cadb495d11d2cfa8be71" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_004fc0f9ac41e1809eceb3fd6803a567" parent="aspace_1a6875bfce60cadb495d11d2cfa8be71" type="Folder">43</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, April 30, 1926</unittitle><unitdate datechar="creation">1926</unitdate><container altrender="Manuscript box - Letter" id="aspace_4b87aae8b85886a9bd88f0d003feed07" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_caa8942e6266b4dc3ae3724ef1883103" parent="aspace_4b87aae8b85886a9bd88f0d003feed07" type="Folder">44</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Correspondence, Hart Crane to Richard, May 4, 1926</unittitle><unitdate datechar="creation">1926</unitdate><container altrender="Manuscript box - Letter" id="aspace_25b02055a7d749964d94261add1cf3f6" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_b50a7322b0b952593fc850fb770c3d2b" parent="aspace_25b02055a7d749964d94261add1cf3f6" type="Folder">45</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Photo of Hart Crane, inscribed "To Lotte and Richard with love, Hart" and text on back [August 14, 1926]</unittitle><unitdate datechar="creation">1926</unitdate><container altrender="Manuscript box - Letter" id="aspace_295fb306fb741bd90164cdd83149a58d" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_d851259c9a735b53171b5ab93f94cf5f" parent="aspace_295fb306fb741bd90164cdd83149a58d" type="Folder">46</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte, November 1, [1926]</unittitle><unitdate datechar="creation">1926</unitdate><container altrender="Manuscript box - Letter" id="aspace_2a3e26b329b3c28a03ddc4f3d025f517" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_116aa481f2547717ac8caeabd009bae7" parent="aspace_2a3e26b329b3c28a03ddc4f3d025f517" type="Folder">47</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, December 31, 1926</unittitle><unitdate datechar="creation">1926</unitdate><container altrender="Manuscript box - Letter" id="aspace_bcfa42d281470c7e51c049ebbb823693" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_c6822e9b819804dac63ab591510e42ef" parent="aspace_bcfa42d281470c7e51c049ebbb823693" type="Folder">48</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, July 9, 1927</unittitle><unitdate datechar="creation">1927</unitdate><container altrender="Manuscript box - Letter" id="aspace_b8d67e08974b701531ad4ebf4614a24f" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_c96bae522e75c333b11a4d7af0989a07" parent="aspace_b8d67e08974b701531ad4ebf4614a24f" type="Folder">49</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, November 29, 1927</unittitle><unitdate datechar="creation">1927</unitdate><container altrender="Manuscript box - Letter" id="aspace_9c39dd9a523f65d13ef164807d381e0e" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_5a329bbf6d31e79c1f853c3ad9464266" parent="aspace_9c39dd9a523f65d13ef164807d381e0e" type="Folder">50</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, March 28, 1928</unittitle><unitdate datechar="creation">1928</unitdate><container altrender="Manuscript box - Letter" id="aspace_bda31cb60043af42792b4102777ef9c5" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_dbcec59a3c005c3fab99d698e04b300d" parent="aspace_bda31cb60043af42792b4102777ef9c5" type="Folder">51</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, September 16, 1928</unittitle><unitdate datechar="creation">1928</unitdate><container altrender="Manuscript box - Letter" id="aspace_35291d2ef5afc6b49d8782a7286539d8" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_5dd595bdbf7e2148a2ab26b1233fac5c" parent="aspace_35291d2ef5afc6b49d8782a7286539d8" type="Folder">52</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte, October 6, 1928</unittitle><unitdate datechar="creation">1928</unitdate><container altrender="Manuscript box - Letter" id="aspace_9dd0bcb05bdeecb5610e05f20dadd6e9" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_1ab176f858194dcae39d63a179b92772" parent="aspace_9dd0bcb05bdeecb5610e05f20dadd6e9" type="Folder">53</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte, October 23, 1928</unittitle><unitdate datechar="creation">1928</unitdate><container altrender="Manuscript box - Letter" id="aspace_fe58fbd1f15cc96508f8fd20793e0cc3" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_bd3cd225c89e153fca06bcad51958e85" parent="aspace_fe58fbd1f15cc96508f8fd20793e0cc3" type="Folder">54</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, December 28, 1928</unittitle><unitdate datechar="creation">1928</unitdate><container altrender="Manuscript box - Letter" id="aspace_309ade67823e929f91f30e98e901df4b" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_995bfc7e346ac76af0e19f93e2e15fe9" parent="aspace_309ade67823e929f91f30e98e901df4b" type="Folder">55</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard,, February 26, 1929</unittitle><unitdate datechar="creation">1929</unitdate><container altrender="Manuscript box - Letter" id="aspace_5dd19986ba4c1c53abd9f0c40936ed5b" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_386be1b629a00100126509d5a57fae56" parent="aspace_5dd19986ba4c1c53abd9f0c40936ed5b" type="Folder">56</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte photo, February 11, 1930</unittitle><unitdate datechar="creation">1930</unitdate><container altrender="Manuscript box - Letter" id="aspace_a49126d25e0e4b0d3ce342b06cbf545f" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_3db284b7ec4d9fb0ef0e957c193222ba" parent="aspace_a49126d25e0e4b0d3ce342b06cbf545f" type="Folder">57</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, March 30, 1931</unittitle><unitdate datechar="creation">1931</unitdate><container altrender="Manuscript box - Letter" id="aspace_ff801f0f1d5a3227c0f1de1846a82d77" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_896066d4864417da932bdb6c894468e8" parent="aspace_ff801f0f1d5a3227c0f1de1846a82d77" type="Folder">58</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Correspondence, Hart Crane to Richard, April 3, 1931</unittitle><unitdate datechar="creation">1931</unitdate><container altrender="Manuscript box - Letter" id="aspace_38792de358cd58b7c15e2e5bf7a48e88" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_3181ea1b0775a22667d06646362741f9" parent="aspace_38792de358cd58b7c15e2e5bf7a48e88" type="Folder">59</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte, [ca. 1931]</unittitle><unitdate datechar="creation">ca. 1931</unitdate><container altrender="Manuscript box - Letter" id="aspace_b79eaacbbff60fdfe212a3e39b65564d" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_b24343af1a00ef806d4ffa6f8eae998f" parent="aspace_b79eaacbbff60fdfe212a3e39b65564d" type="Folder">60</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, two postcards, May 14, 1931</unittitle><unitdate datechar="creation">1931</unitdate><container altrender="Manuscript box - Letter" id="aspace_844420fef9e95889c973fe3ab2bc6644" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_1a1ca7898233c3379fdd673bfc603f3d" parent="aspace_844420fef9e95889c973fe3ab2bc6644" type="Folder">61</container></did></c><c id="aspace_ref73" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, May 14, 1931</unittitle><unitdate datechar="creation">1931</unitdate><container altrender="Manuscript box - Letter" id="aspace_96571c9c327faf6f62e55ae0dafd6d74" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_a2537390f51a0836e2219c7654fad55d" parent="aspace_96571c9c327faf6f62e55ae0dafd6d74" type="Folder">62</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>Correspondence, Hart Crane to Richard, September 24, 1931</unittitle><unitdate datechar="creation">1931</unitdate><container altrender="Manuscript box - Letter" id="aspace_937566e462b410890c364f5a4ea05728" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_f3bac664cd32d6e1cf83206a41903aa0" parent="aspace_937566e462b410890c364f5a4ea05728" type="Folder">63</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, September 6, 1931</unittitle><unitdate datechar="creation">1931</unitdate><container altrender="Manuscript box - Letter" id="aspace_e1792263dce24cea0b89d87c2eba7323" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_e104c7b77edcce559988e63f13ccfc23" parent="aspace_e1792263dce24cea0b89d87c2eba7323" type="Folder">64</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard with photos, November 4, 1931</unittitle><unitdate datechar="creation">1931</unitdate><container altrender="Manuscript box - Letter" id="aspace_8b79d645d1c5cf073f0cbfcc997ef8fb" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_4ea77b5ca0b74f1657972a7fcf063867" parent="aspace_8b79d645d1c5cf073f0cbfcc997ef8fb" type="Folder">65</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, Christmas 1928</unittitle><unitdate datechar="creation">1928</unitdate><container altrender="Manuscript box - Letter" id="aspace_1a4bc2138ee3afc40e55f441c3b7f804" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_0d4b120d6ee5b8131bd39793f2314663" parent="aspace_1a4bc2138ee3afc40e55f441c3b7f804" type="Folder">66</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, February 8, 1932</unittitle><unitdate datechar="creation">1932</unitdate><container altrender="Manuscript box - Letter" id="aspace_b510006901177e83dc544c739889628b" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_6081ede8ebc5ab41439fd043ef3ea54b" parent="aspace_b510006901177e83dc544c739889628b" type="Folder">67</container></did></c><c id="aspace_ref79" level="file"><did><unittitle>Photos of Hart Crane, [1932]</unittitle><unitdate datechar="creation">1932</unitdate><container altrender="Manuscript box - Letter" id="aspace_32e3359f0751b24f96957ab8d6c76116" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_eb921e8e068c922a854d59fd76417f8d" parent="aspace_32e3359f0751b24f96957ab8d6c76116" type="Folder">68</container></did></c><c id="aspace_ref80" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard with photo with letter on back, [March 1, 1932]</unittitle><unitdate datechar="creation">1932</unitdate><container altrender="Manuscript box - Letter" id="aspace_ff3acf8ed3beafcf478fbb6985c819d1" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_a66003769d1b8501a725c470a12b336f" parent="aspace_ff3acf8ed3beafcf478fbb6985c819d1" type="Folder">69</container></did></c><c id="aspace_ref81" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, March 20, 1932</unittitle><unitdate datechar="creation">1932</unitdate><container altrender="Manuscript box - Letter" id="aspace_0a43973c4cb04d9518a1dbaf503464f5" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_236e981460839f2807b15b2d3a7d7c73" parent="aspace_0a43973c4cb04d9518a1dbaf503464f5" type="Folder">70</container></did></c><c id="aspace_ref82" level="file"><did><unittitle>Correspondence, Hart Crane to Charlotte and Richard, April 20, 1932</unittitle><unitdate datechar="creation">1932</unitdate><container altrender="Manuscript box - Letter" id="aspace_9870acdc2b28326d59184511a8e790c9" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_21e4ddb3064fbaee04902821b14af14e" parent="aspace_9870acdc2b28326d59184511a8e790c9" type="Folder">71</container></did></c><c id="aspace_ref83" level="file"><did><unittitle>Drawings</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_b4cbbdbe9e0aeee15822adf0eedc260b" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_1767995711ae2690903ea7cb2bcb1194" parent="aspace_b4cbbdbe9e0aeee15822adf0eedc260b" type="Folder">72</container></did></c><c id="aspace_ref84" level="file"><did><unittitle>Photo of Hart Crane on rooftop with bridge in background, inscribed to Charlotte and Richard; Photo of unknown man</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_77d0a6e7c6d824e94556319ce4928d02" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_9226f21fc2e2c11d3eb7d4bf43e833a7" parent="aspace_77d0a6e7c6d824e94556319ce4928d02" type="Folder">73</container></did></c><c id="aspace_ref85" level="file"><did><unittitle>Photos of Hart Crane's apartment (not numbered), inscribed to Charlotte and Richard, upstate, etc.</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_2e418816249a983c6c4a78ed7d0d0676" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_c695daa15f93d3d49b72a5a187e6e4d2" parent="aspace_2e418816249a983c6c4a78ed7d0d0676" type="Folder">74</container></did></c><c id="aspace_ref86" level="file"><did><unittitle>Clippings (xeroxed)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_e53c3f52fdfcc8f62e6becd14951b1a2" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_4843ff06437a26fa8047aa7baa089102" parent="aspace_e53c3f52fdfcc8f62e6becd14951b1a2" type="Folder">75</container></did></c><c id="aspace_ref87" level="file"><did><unittitle>Tear Sheets (xeroxed)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_05efe2bab305340c83bc22d03b4398c8" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_e56b019806416bf2ab540377f7d27197" parent="aspace_05efe2bab305340c83bc22d03b4398c8" type="Folder">76</container></did></c><c id="aspace_ref88" level="file"><did><unittitle>Correspondence, Grace Hart Crane</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_fe34252a14ea875e8554ceae3eaee5ac" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_973e1da3396a67d923df7930d4328158" parent="aspace_fe34252a14ea875e8554ceae3eaee5ac" type="Folder">77</container></did></c><c id="aspace_ref89" level="file"><did><unittitle>Correspondence, Philip Horton and related correspondence</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_2a0896322383ea892de45736a41e72ad" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_ca30b492f77ee90e7374cf6fdab12faa" parent="aspace_2a0896322383ea892de45736a41e72ad" type="Folder">78</container></did></c><c id="aspace_ref90" level="file"><did><unittitle>Printed materials and fascimile of a letter</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter" id="aspace_2e049fcdbc2f9c401e2ddf15676f0d51" label="Mixed Materials [31142054877058]" type="Box">1</container><container id="aspace_d412a93f02aebd4e7cce497f4f217ec4" parent="aspace_2e049fcdbc2f9c401e2ddf15676f0d51" type="Folder">79</container></did></c></dsc>
-</archdesc>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref12" level="file">
+        <did>
+          <unittitle>Scrapbook title page</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_072cbf883ea25596fba52cb1bb7741a6" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_ca4a09d9bfae0796f38850496783d5d0" parent="aspace_072cbf883ea25596fba52cb1bb7741a6" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref13" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, [March 1923]</unittitle>
+          <unitdate datechar="creation">1923</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_ef41af127ac00aae3241588907fbc999" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_cdfccdfbdae9b65a361753b0bf07c832" parent="aspace_ef41af127ac00aae3241588907fbc999" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref14" level="file">
+        <did>
+          <unittitle>Photo of Hart Crane [1923].</unittitle>
+          <unitdate datechar="creation">1923</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_906c9fbcc7c25c2bd8f9d691e41e42e7" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_9605eae7ffdc45d909eba380838d5aa2" parent="aspace_906c9fbcc7c25c2bd8f9d691e41e42e7" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref15" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, March 30, 1923</unittitle>
+          <unitdate datechar="creation">1923</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_a788b3d0577068974d19b64c175985bc" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_bd9c4689380bbea045bdb4dc370624e7" parent="aspace_a788b3d0577068974d19b64c175985bc" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref16" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, [April 4, 1923]</unittitle>
+          <unitdate datechar="creation">1923</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_24295ca073febe9ba5deffd2498b6878" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_dd18a15883e5cfd2d5c8e7241feabcc6" parent="aspace_24295ca073febe9ba5deffd2498b6878" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref17" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte, April 13, 1923</unittitle>
+          <unitdate datechar="creation">1923</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_164e8d908562098bedf46c3b871a7668" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_1a1ea7f944ef89f2a085bff1f9470991" parent="aspace_164e8d908562098bedf46c3b871a7668" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref18" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte, [April 23, 1923]</unittitle>
+          <unitdate datechar="creation">1923</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_b1e5acb12766957c1b0e0f13e62ecaf6" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_630ea515e7c577855cdbf02a9519c0d9" parent="aspace_b1e5acb12766957c1b0e0f13e62ecaf6" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref19" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte, Wednesday [1923]; Correspondence, Waldo Frank to Hart Crane</unittitle>
+          <unitdate datechar="creation">1923</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_ced52ff4cd321a8aa9df933dd56aacf8" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_ebaf71cdc0453657c1bcd47c5dd0bd0b" parent="aspace_ced52ff4cd321a8aa9df933dd56aacf8" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref20" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Richard, [May 1923]</unittitle>
+          <unitdate datechar="creation">1923</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_9fb86adea5ed6fbd25e2c7217d848c1f" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_8b756c0f2eb6f4681f2d43def23e3ad5" parent="aspace_9fb86adea5ed6fbd25e2c7217d848c1f" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref21" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, May 30, 1923</unittitle>
+          <unitdate datechar="creation">1923</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_84846cdcae551a7e93fbc49c8ecdbd1b" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_cff66f784401a3c52d79c4b6ba03c298" parent="aspace_84846cdcae551a7e93fbc49c8ecdbd1b" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref22" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, June 5, 1923</unittitle>
+          <unitdate datechar="creation">1923</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_1cb4f2c0a835f9f4da7b4e4852af5170" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_63b6e84b1dd578971c4226fd3621d31e" parent="aspace_1cb4f2c0a835f9f4da7b4e4852af5170" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref23" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Richard, June 21, 1923</unittitle>
+          <unitdate datechar="creation">1923</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_66fe3c52fbaf8fe167d340894324f4c3" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_c1487b31ae961932088e823277b3f9b6" parent="aspace_66fe3c52fbaf8fe167d340894324f4c3" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref24" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte, July 9, 1923</unittitle>
+          <unitdate datechar="creation">1923</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_50452936773f771d7e3c6d4766386368" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_10fdda403c80dc8caae4624af693c4ae" parent="aspace_50452936773f771d7e3c6d4766386368" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref25" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte, July 21, 1923</unittitle>
+          <unitdate datechar="creation">1923</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_2d4d8b35c67b2f935bc8da462c14c9a7" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_c7a840716898ec3560e39fe906e7e5c3" parent="aspace_2d4d8b35c67b2f935bc8da462c14c9a7" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref26" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, [August 19, 1923]</unittitle>
+          <unitdate datechar="creation">1923</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_0e4923d3c9699cc878758d2b059dd650" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_522bd70fa2b5d330c8da60b8ec03f99b" parent="aspace_0e4923d3c9699cc878758d2b059dd650" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref27" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, [August 26, 1923]</unittitle>
+          <unitdate datechar="creation">1923</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_4c888ccbbb376a69eeffcff5269a0925" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_8f36dc5cba3ff858d20662a81d2033ed" parent="aspace_4c888ccbbb376a69eeffcff5269a0925" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref28" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte, [August 28, 1923]</unittitle>
+          <unitdate datechar="creation">1923</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_e59063dfe5212e55a337719dba91e309" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_d6f19e455f96a239d8737124bf45e4a1" parent="aspace_e59063dfe5212e55a337719dba91e309" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref29" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte, September 23, 1923</unittitle>
+          <unitdate datechar="creation">1923</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_39c8b9df71d4ad7c178abb33f267b1b1" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_05d3cc2d853da37b66384c44ddc8ac4c" parent="aspace_39c8b9df71d4ad7c178abb33f267b1b1" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref30" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, October 2, 1923</unittitle>
+          <unitdate datechar="creation">1923</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_56d7c24f57ea6ee48c9b14079f2f2b22" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_d0f4c07b3cb18906ae919c3ad97a5fb1" parent="aspace_56d7c24f57ea6ee48c9b14079f2f2b22" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_ref31" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, Friday evening [1923]</unittitle>
+          <unitdate datechar="creation">1923</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_13bb0337661fa24840e123a9450ebd36" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_7abc79445906c3daa811187717196146" parent="aspace_13bb0337661fa24840e123a9450ebd36" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_ref32" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte, December 10, 1923</unittitle>
+          <unitdate datechar="creation">1923</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_74ae05f78eaf812b80dffc54be309a66" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_97ab710f09277da61cc8998424089526" parent="aspace_74ae05f78eaf812b80dffc54be309a66" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_ref33" level="file">
+        <did>
+          <unittitle>Photos of Woodstock, NY Dec-23</unittitle>
+          <unitdate datechar="creation">1923</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_1a8165400ff899493c2cf045e98135a7" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_813905fb9533dc445a3d714233a60321" parent="aspace_1a8165400ff899493c2cf045e98135a7" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_ref34" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte, January 6, 1924</unittitle>
+          <unitdate datechar="creation">1924</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_c52f3a28b6fe3e9352cd62eca15bc48e" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_8640481234cd437b26c117f5922b0a85" parent="aspace_c52f3a28b6fe3e9352cd62eca15bc48e" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_ref35" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, March 5, 1924</unittitle>
+          <unitdate datechar="creation">1924</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_74795115f4a907219ecf2b52c0e4ac50" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_e03d48aaee0a0350763042ad2b01a432" parent="aspace_74795115f4a907219ecf2b52c0e4ac50" type="Folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_ref36" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte, April 15, [1924]</unittitle>
+          <unitdate datechar="creation">1924</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_f8f688e931057461cb12de071e6b42a4" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_8b9352fde120c5cadbd1b3e13c203f56" parent="aspace_f8f688e931057461cb12de071e6b42a4" type="Folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_ref37" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte, July 30, 1924</unittitle>
+          <unitdate datechar="creation">1924</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_5c917eb8bf3cf37d5ed0b6bae0ba2e30" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_4af72dc6ec3ab073b34afe43668ae5cf" parent="aspace_5c917eb8bf3cf37d5ed0b6bae0ba2e30" type="Folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_ref38" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, November 18, 1924</unittitle>
+          <unitdate datechar="creation">1924</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_5169b21d910cba546c90869ee0d8d469" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_2371a121d77aa2a0280822f0ff268564" parent="aspace_5169b21d910cba546c90869ee0d8d469" type="Folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_ref39" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, January 29, 1925</unittitle>
+          <unitdate datechar="creation">1925</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_e215c51a17f8f121d9b412b179f4dad0" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_75aa7b560a4a713eb30ef9807c793aa2" parent="aspace_e215c51a17f8f121d9b412b179f4dad0" type="Folder">28</container>
+        </did>
+      </c>
+      <c id="aspace_ref40" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, February 28, 1925</unittitle>
+          <unitdate datechar="creation">1925</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_233c73ed3b76531973f39e2b792c65a4" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_e46fdc8ac9b5961dbda794bc38685079" parent="aspace_233c73ed3b76531973f39e2b792c65a4" type="Folder">29</container>
+        </did>
+      </c>
+      <c id="aspace_ref41" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, April 9, 1925</unittitle>
+          <unitdate datechar="creation">1925</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_22723dfb4bb1f46776c05e1d27756182" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_0249e2ad165203eec4c085cf607aae8f" parent="aspace_22723dfb4bb1f46776c05e1d27756182" type="Folder">30</container>
+        </did>
+      </c>
+      <c id="aspace_ref42" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, May 18, [1925]</unittitle>
+          <unitdate datechar="creation">1925</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_ba64abf4fc8a005cc09a92268d4c8273" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_c976d1fdc3183f93d5be5fc64caeb539" parent="aspace_ba64abf4fc8a005cc09a92268d4c8273" type="Folder">31</container>
+        </did>
+      </c>
+      <c id="aspace_ref43" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, June 2, [1925]</unittitle>
+          <unitdate datechar="creation">1925</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_9921f2f652d9223d467313247bcfe846" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_5acfeb3beb33c1a01373f88b2dc04ed7" parent="aspace_9921f2f652d9223d467313247bcfe846" type="Folder">32</container>
+        </did>
+      </c>
+      <c id="aspace_ref44" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, September 15, 1925</unittitle>
+          <unitdate datechar="creation">1925</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_5d2756f108fb42ccfcffd6d4dea9bec5" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_2afc7e7be94099cea1a57a0ec59473ab" parent="aspace_5d2756f108fb42ccfcffd6d4dea9bec5" type="Folder">33</container>
+        </did>
+      </c>
+      <c id="aspace_ref45" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, [1925]</unittitle>
+          <unitdate datechar="creation">1925</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_4d56e575c4ba7975237cfc5baf377f55" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_378fbf884de353f20d41bb5c179e36e5" parent="aspace_4d56e575c4ba7975237cfc5baf377f55" type="Folder">34</container>
+        </did>
+      </c>
+      <c id="aspace_ref46" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, September 26, 1925</unittitle>
+          <unitdate datechar="creation">1925</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_9aacb758271a9d5a8777e0caf45c9d20" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_1754fceb6b022b06012f0aa72a99bf3a" parent="aspace_9aacb758271a9d5a8777e0caf45c9d20" type="Folder">35</container>
+        </did>
+      </c>
+      <c id="aspace_ref47" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, October 14, 1925</unittitle>
+          <unitdate datechar="creation">1925</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_100176b33a545e12129e21fad882ec2e" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_9210b7ce98885aecb3c1b6a8c7f0ab38" parent="aspace_100176b33a545e12129e21fad882ec2e" type="Folder">36</container>
+        </did>
+      </c>
+      <c id="aspace_ref48" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, October 22, 1925</unittitle>
+          <unitdate datechar="creation">1925</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_8cedcea37b0a764ad754c054d8c39217" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_9bfef2b090676740ed49b24a62f600a0" parent="aspace_8cedcea37b0a764ad754c054d8c39217" type="Folder">37</container>
+        </did>
+      </c>
+      <c id="aspace_ref49" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, December 1, 1925</unittitle>
+          <unitdate datechar="creation">1925</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_49098accc5a77bda57c03e3a5b258f1f" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_e95a34da7e36c08e82e56e8ea7c9d45b" parent="aspace_49098accc5a77bda57c03e3a5b258f1f" type="Folder">38</container>
+        </did>
+      </c>
+      <c id="aspace_ref50" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, December 14, 1925</unittitle>
+          <unitdate datechar="creation">1925</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_2690d3f9ca4d5ad337333b541649c715" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_5d4d0f4f58cf5f6862b791a5dae4c257" parent="aspace_2690d3f9ca4d5ad337333b541649c715" type="Folder">39</container>
+        </did>
+      </c>
+      <c id="aspace_ref51" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, March 2, [1926]</unittitle>
+          <unitdate datechar="creation">1926</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_7da5922fb7afa864506ff1449969dc02" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_dfab3a46b4310ed554ea914965f41e74" parent="aspace_7da5922fb7afa864506ff1449969dc02" type="Folder">40</container>
+        </did>
+      </c>
+      <c id="aspace_ref52" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, March 23, 1926</unittitle>
+          <unitdate datechar="creation">1926</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_9c05bc4319c9eb8d23e35d28f616231a" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_42d1edcf11534964d50f9e863d51cfb6" parent="aspace_9c05bc4319c9eb8d23e35d28f616231a" type="Folder">41</container>
+        </did>
+      </c>
+      <c id="aspace_ref53" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, April 11, 1926</unittitle>
+          <unitdate datechar="creation">1926</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_b54a6a2f536057481dc4396e7871d93f" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_bc69d525e6718023855356593a3e827c" parent="aspace_b54a6a2f536057481dc4396e7871d93f" type="Folder">42</container>
+        </did>
+      </c>
+      <c id="aspace_ref54" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, April 25, 1926</unittitle>
+          <unitdate datechar="creation">1926</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_1a6875bfce60cadb495d11d2cfa8be71" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_004fc0f9ac41e1809eceb3fd6803a567" parent="aspace_1a6875bfce60cadb495d11d2cfa8be71" type="Folder">43</container>
+        </did>
+      </c>
+      <c id="aspace_ref55" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, April 30, 1926</unittitle>
+          <unitdate datechar="creation">1926</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_4b87aae8b85886a9bd88f0d003feed07" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_caa8942e6266b4dc3ae3724ef1883103" parent="aspace_4b87aae8b85886a9bd88f0d003feed07" type="Folder">44</container>
+        </did>
+      </c>
+      <c id="aspace_ref56" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Richard, May 4, 1926</unittitle>
+          <unitdate datechar="creation">1926</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_25b02055a7d749964d94261add1cf3f6" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_b50a7322b0b952593fc850fb770c3d2b" parent="aspace_25b02055a7d749964d94261add1cf3f6" type="Folder">45</container>
+        </did>
+      </c>
+      <c id="aspace_ref57" level="file">
+        <did>
+          <unittitle>Photo of Hart Crane, inscribed "To Lotte and Richard with love, Hart" and text on back [August 14, 1926]</unittitle>
+          <unitdate datechar="creation">1926</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_295fb306fb741bd90164cdd83149a58d" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_d851259c9a735b53171b5ab93f94cf5f" parent="aspace_295fb306fb741bd90164cdd83149a58d" type="Folder">46</container>
+        </did>
+      </c>
+      <c id="aspace_ref58" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte, November 1, [1926]</unittitle>
+          <unitdate datechar="creation">1926</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_2a3e26b329b3c28a03ddc4f3d025f517" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_116aa481f2547717ac8caeabd009bae7" parent="aspace_2a3e26b329b3c28a03ddc4f3d025f517" type="Folder">47</container>
+        </did>
+      </c>
+      <c id="aspace_ref59" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, December 31, 1926</unittitle>
+          <unitdate datechar="creation">1926</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_bcfa42d281470c7e51c049ebbb823693" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_c6822e9b819804dac63ab591510e42ef" parent="aspace_bcfa42d281470c7e51c049ebbb823693" type="Folder">48</container>
+        </did>
+      </c>
+      <c id="aspace_ref60" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, July 9, 1927</unittitle>
+          <unitdate datechar="creation">1927</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_b8d67e08974b701531ad4ebf4614a24f" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_c96bae522e75c333b11a4d7af0989a07" parent="aspace_b8d67e08974b701531ad4ebf4614a24f" type="Folder">49</container>
+        </did>
+      </c>
+      <c id="aspace_ref61" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, November 29, 1927</unittitle>
+          <unitdate datechar="creation">1927</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_9c39dd9a523f65d13ef164807d381e0e" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_5a329bbf6d31e79c1f853c3ad9464266" parent="aspace_9c39dd9a523f65d13ef164807d381e0e" type="Folder">50</container>
+        </did>
+      </c>
+      <c id="aspace_ref62" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, March 28, 1928</unittitle>
+          <unitdate datechar="creation">1928</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_bda31cb60043af42792b4102777ef9c5" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_dbcec59a3c005c3fab99d698e04b300d" parent="aspace_bda31cb60043af42792b4102777ef9c5" type="Folder">51</container>
+        </did>
+      </c>
+      <c id="aspace_ref63" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, September 16, 1928</unittitle>
+          <unitdate datechar="creation">1928</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_35291d2ef5afc6b49d8782a7286539d8" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_5dd595bdbf7e2148a2ab26b1233fac5c" parent="aspace_35291d2ef5afc6b49d8782a7286539d8" type="Folder">52</container>
+        </did>
+      </c>
+      <c id="aspace_ref64" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte, October 6, 1928</unittitle>
+          <unitdate datechar="creation">1928</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_9dd0bcb05bdeecb5610e05f20dadd6e9" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_1ab176f858194dcae39d63a179b92772" parent="aspace_9dd0bcb05bdeecb5610e05f20dadd6e9" type="Folder">53</container>
+        </did>
+      </c>
+      <c id="aspace_ref65" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte, October 23, 1928</unittitle>
+          <unitdate datechar="creation">1928</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_fe58fbd1f15cc96508f8fd20793e0cc3" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_bd3cd225c89e153fca06bcad51958e85" parent="aspace_fe58fbd1f15cc96508f8fd20793e0cc3" type="Folder">54</container>
+        </did>
+      </c>
+      <c id="aspace_ref66" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, December 28, 1928</unittitle>
+          <unitdate datechar="creation">1928</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_309ade67823e929f91f30e98e901df4b" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_995bfc7e346ac76af0e19f93e2e15fe9" parent="aspace_309ade67823e929f91f30e98e901df4b" type="Folder">55</container>
+        </did>
+      </c>
+      <c id="aspace_ref67" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard,, February 26, 1929</unittitle>
+          <unitdate datechar="creation">1929</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_5dd19986ba4c1c53abd9f0c40936ed5b" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_386be1b629a00100126509d5a57fae56" parent="aspace_5dd19986ba4c1c53abd9f0c40936ed5b" type="Folder">56</container>
+        </did>
+      </c>
+      <c id="aspace_ref68" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte photo, February 11, 1930</unittitle>
+          <unitdate datechar="creation">1930</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_a49126d25e0e4b0d3ce342b06cbf545f" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_3db284b7ec4d9fb0ef0e957c193222ba" parent="aspace_a49126d25e0e4b0d3ce342b06cbf545f" type="Folder">57</container>
+        </did>
+      </c>
+      <c id="aspace_ref69" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, March 30, 1931</unittitle>
+          <unitdate datechar="creation">1931</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_ff801f0f1d5a3227c0f1de1846a82d77" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_896066d4864417da932bdb6c894468e8" parent="aspace_ff801f0f1d5a3227c0f1de1846a82d77" type="Folder">58</container>
+        </did>
+      </c>
+      <c id="aspace_ref70" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Richard, April 3, 1931</unittitle>
+          <unitdate datechar="creation">1931</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_38792de358cd58b7c15e2e5bf7a48e88" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_3181ea1b0775a22667d06646362741f9" parent="aspace_38792de358cd58b7c15e2e5bf7a48e88" type="Folder">59</container>
+        </did>
+      </c>
+      <c id="aspace_ref71" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte, [ca. 1931]</unittitle>
+          <unitdate datechar="creation">ca. 1931</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_b79eaacbbff60fdfe212a3e39b65564d" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_b24343af1a00ef806d4ffa6f8eae998f" parent="aspace_b79eaacbbff60fdfe212a3e39b65564d" type="Folder">60</container>
+        </did>
+      </c>
+      <c id="aspace_ref72" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, two postcards, May 14, 1931</unittitle>
+          <unitdate datechar="creation">1931</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_844420fef9e95889c973fe3ab2bc6644" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_1a1ca7898233c3379fdd673bfc603f3d" parent="aspace_844420fef9e95889c973fe3ab2bc6644" type="Folder">61</container>
+        </did>
+      </c>
+      <c id="aspace_ref73" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, May 14, 1931</unittitle>
+          <unitdate datechar="creation">1931</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_96571c9c327faf6f62e55ae0dafd6d74" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_a2537390f51a0836e2219c7654fad55d" parent="aspace_96571c9c327faf6f62e55ae0dafd6d74" type="Folder">62</container>
+        </did>
+      </c>
+      <c id="aspace_ref74" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Richard, September 24, 1931</unittitle>
+          <unitdate datechar="creation">1931</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_937566e462b410890c364f5a4ea05728" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_f3bac664cd32d6e1cf83206a41903aa0" parent="aspace_937566e462b410890c364f5a4ea05728" type="Folder">63</container>
+        </did>
+      </c>
+      <c id="aspace_ref75" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, September 6, 1931</unittitle>
+          <unitdate datechar="creation">1931</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_e1792263dce24cea0b89d87c2eba7323" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_e104c7b77edcce559988e63f13ccfc23" parent="aspace_e1792263dce24cea0b89d87c2eba7323" type="Folder">64</container>
+        </did>
+      </c>
+      <c id="aspace_ref76" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard with photos, November 4, 1931</unittitle>
+          <unitdate datechar="creation">1931</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_8b79d645d1c5cf073f0cbfcc997ef8fb" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_4ea77b5ca0b74f1657972a7fcf063867" parent="aspace_8b79d645d1c5cf073f0cbfcc997ef8fb" type="Folder">65</container>
+        </did>
+      </c>
+      <c id="aspace_ref77" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, Christmas 1928</unittitle>
+          <unitdate datechar="creation">1928</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_1a4bc2138ee3afc40e55f441c3b7f804" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_0d4b120d6ee5b8131bd39793f2314663" parent="aspace_1a4bc2138ee3afc40e55f441c3b7f804" type="Folder">66</container>
+        </did>
+      </c>
+      <c id="aspace_ref78" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, February 8, 1932</unittitle>
+          <unitdate datechar="creation">1932</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_b510006901177e83dc544c739889628b" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_6081ede8ebc5ab41439fd043ef3ea54b" parent="aspace_b510006901177e83dc544c739889628b" type="Folder">67</container>
+        </did>
+      </c>
+      <c id="aspace_ref79" level="file">
+        <did>
+          <unittitle>Photos of Hart Crane, [1932]</unittitle>
+          <unitdate datechar="creation">1932</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_32e3359f0751b24f96957ab8d6c76116" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_eb921e8e068c922a854d59fd76417f8d" parent="aspace_32e3359f0751b24f96957ab8d6c76116" type="Folder">68</container>
+        </did>
+      </c>
+      <c id="aspace_ref80" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard with photo with letter on back, [March 1, 1932]</unittitle>
+          <unitdate datechar="creation">1932</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_ff3acf8ed3beafcf478fbb6985c819d1" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_a66003769d1b8501a725c470a12b336f" parent="aspace_ff3acf8ed3beafcf478fbb6985c819d1" type="Folder">69</container>
+        </did>
+      </c>
+      <c id="aspace_ref81" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, March 20, 1932</unittitle>
+          <unitdate datechar="creation">1932</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_0a43973c4cb04d9518a1dbaf503464f5" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_236e981460839f2807b15b2d3a7d7c73" parent="aspace_0a43973c4cb04d9518a1dbaf503464f5" type="Folder">70</container>
+        </did>
+      </c>
+      <c id="aspace_ref82" level="file">
+        <did>
+          <unittitle>Correspondence, Hart Crane to Charlotte and Richard, April 20, 1932</unittitle>
+          <unitdate datechar="creation">1932</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_9870acdc2b28326d59184511a8e790c9" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_21e4ddb3064fbaee04902821b14af14e" parent="aspace_9870acdc2b28326d59184511a8e790c9" type="Folder">71</container>
+        </did>
+      </c>
+      <c id="aspace_ref83" level="file">
+        <did>
+          <unittitle>Drawings</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_b4cbbdbe9e0aeee15822adf0eedc260b" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_1767995711ae2690903ea7cb2bcb1194" parent="aspace_b4cbbdbe9e0aeee15822adf0eedc260b" type="Folder">72</container>
+        </did>
+      </c>
+      <c id="aspace_ref84" level="file">
+        <did>
+          <unittitle>Photo of Hart Crane on rooftop with bridge in background, inscribed to Charlotte and Richard; Photo of unknown man</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_77d0a6e7c6d824e94556319ce4928d02" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_9226f21fc2e2c11d3eb7d4bf43e833a7" parent="aspace_77d0a6e7c6d824e94556319ce4928d02" type="Folder">73</container>
+        </did>
+      </c>
+      <c id="aspace_ref85" level="file">
+        <did>
+          <unittitle>Photos of Hart Crane's apartment (not numbered), inscribed to Charlotte and Richard, upstate, etc.</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_2e418816249a983c6c4a78ed7d0d0676" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_c695daa15f93d3d49b72a5a187e6e4d2" parent="aspace_2e418816249a983c6c4a78ed7d0d0676" type="Folder">74</container>
+        </did>
+      </c>
+      <c id="aspace_ref86" level="file">
+        <did>
+          <unittitle>Clippings (xeroxed)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_e53c3f52fdfcc8f62e6becd14951b1a2" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_4843ff06437a26fa8047aa7baa089102" parent="aspace_e53c3f52fdfcc8f62e6becd14951b1a2" type="Folder">75</container>
+        </did>
+      </c>
+      <c id="aspace_ref87" level="file">
+        <did>
+          <unittitle>Tear Sheets (xeroxed)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_05efe2bab305340c83bc22d03b4398c8" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_e56b019806416bf2ab540377f7d27197" parent="aspace_05efe2bab305340c83bc22d03b4398c8" type="Folder">76</container>
+        </did>
+      </c>
+      <c id="aspace_ref88" level="file">
+        <did>
+          <unittitle>Correspondence, Grace Hart Crane</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_fe34252a14ea875e8554ceae3eaee5ac" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_973e1da3396a67d923df7930d4328158" parent="aspace_fe34252a14ea875e8554ceae3eaee5ac" type="Folder">77</container>
+        </did>
+      </c>
+      <c id="aspace_ref89" level="file">
+        <did>
+          <unittitle>Correspondence, Philip Horton and related correspondence</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_2a0896322383ea892de45736a41e72ad" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_ca30b492f77ee90e7374cf6fdab12faa" parent="aspace_2a0896322383ea892de45736a41e72ad" type="Folder">78</container>
+        </did>
+      </c>
+      <c id="aspace_ref90" level="file">
+        <did>
+          <unittitle>Printed materials and fascimile of a letter</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_2e049fcdbc2f9c401e2ddf15676f0d51" label="Mixed Materials [31142054877058]" type="Box">1</container>
+          <container id="aspace_d412a93f02aebd4e7cce497f4f217ec4" parent="aspace_2e049fcdbc2f9c401e2ddf15676f0d51" type="Folder">79</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

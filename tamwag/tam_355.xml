@@ -1,86 +1,516 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_355">tam_355</eadid><filedesc><titlestmt><titleproper>Guide to the B. D. Amis Papers <num>TAM.355</num></titleproper><author>Tamiment staff, 2008</author></titlestmt><editionstmt><p>This version was derived from Amis, B.D. TAM 355</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:17:46 -0400</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>B. D. Amis Papers</unittitle>
-    <origination label="Creator">
-      <persname source="naf">Amis, B. D., b. 1896</persname>
-    </origination>
-    <origination label="source">
-      <persname role="dnr" rules="dacs" source="local">Amis Bell, Debbie</persname>
-    </origination>
-    <unitid>TAM.355</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
-      <extent altrender="carrier">(2 boxes)</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1930/2004" type="inclusive">1930-2004, (Bulk 1930-1949)</unitdate>
-    <unitdate datechar="creation" normal="1930/1949" type="bulk">1930-1949</unitdate>
-    <abstract id="aspace_38ffcf50d28e5cfc1a27eabcb92293db" label="Abstract">B. D. Amis (1896-1993), was an African-American Communist and labor union organizer. He was a leader of the American Negro Labor Congress, the League of Struggle for Negro Rights, and the National Negro Congress, three Communist Party-inspired popular front organizations. He was a Party organizer for District Six, headquartered in Cleveland. He then moved to Philadelphia, where he was an organizer for the Steel Workers Organizing Committee and chairman of the Philadelphia Committee for the Defense of Ethiopia, and went on to organize Catering Industry Employees Union, Local 758, an African-American local within the Hotel and Restaurant Employees and Bartenders International Union (AFL), serving as Secretary-Treasurer of both organizations, ca. 1939-1942. The collection consists mostly of published and unpublished writings, many of them written for the <emph render="italic">Daily Worker</emph>, for the monthly journal, <emph render="italic">Communist</emph>, or for the international Communist movement weekly, <emph render="italic">International Press Correspondence </emph>(aka <emph render="italic">Inprecorr</emph>). Also included are reports to various Communist Party national and local bodies, most of which are concerned with the struggle for African-American civil rights and the Communist Party's positions on civil rights issues. There are also clippings by and about Amis, correspondence, including a letter from African-American Communist leader Benjamin J. Davis, radio speeches, copies of photographs of Amis and of political meetings, and collective bargaining agreements signed by Amis.</abstract>
-    <langmaterial>
-      <language langcode="eng">English</language>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/tam_355">tam_355</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the B. D. Amis Papers <num>TAM.355</num></titleproper>
+        <author>Tamiment staff, 2008</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from Amis, B.D. TAM 355</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:17:46 -0400</date>.</creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>B. D. Amis Papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Amis, B. D., b. 1896</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Amis Bell, Debbie</persname>
+      </origination>
+      <unitid>TAM.355</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+        <extent altrender="carrier">(2 boxes)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1930/2004" type="inclusive">1930-2004, (Bulk 1930-1949)</unitdate>
+      <unitdate datechar="creation" normal="1930/1949" type="bulk">1930-1949</unitdate>
+      <abstract id="aspace_38ffcf50d28e5cfc1a27eabcb92293db" label="Abstract">B. D. Amis (1896-1993), was an African-American Communist and labor union organizer. He was a leader of the American Negro Labor Congress, the League of Struggle for Negro Rights, and the National Negro Congress, three Communist Party-inspired popular front organizations. He was a Party organizer for District Six, headquartered in Cleveland. He then moved to Philadelphia, where he was an organizer for the Steel Workers Organizing Committee and chairman of the Philadelphia Committee for the Defense of Ethiopia, and went on to organize Catering Industry Employees Union, Local 758, an African-American local within the Hotel and Restaurant Employees and Bartenders International Union (AFL), serving as Secretary-Treasurer of both organizations, ca. 1939-1942. The collection consists mostly of published and unpublished writings, many of them written for the <emph render="italic">Daily Worker</emph>, for the monthly journal, <emph render="italic">Communist</emph>, or for the international Communist movement weekly, <emph render="italic">International Press Correspondence </emph>(aka <emph render="italic">Inprecorr</emph>). Also included are reports to various Communist Party national and local bodies, most of which are concerned with the struggle for African-American civil rights and the Communist Party's positions on civil rights issues. There are also clippings by and about Amis, correspondence, including a letter from African-American Communist leader Benjamin J. Davis, radio speeches, copies of photographs of Amis and of political meetings, and collective bargaining agreements signed by Amis.</abstract>
+      <langmaterial><language langcode="eng">English</language>
 .    </langmaterial>
-  </did>
-  <accessrestrict id="aspace_175f8af46f83e93325027c8478bbbc7b">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_0930383eab87e8e4cb042cf57b06e200">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Debbie Amis Bell in 2006. The accession number associated with this gift is 2006.010.</p>  </acqinfo>
-  <arrangement id="aspace_a76f476ffc22d52857af65701abad98a">
-    <head>Arrangement</head>
-<p>Arranged alphabetically.</p><p>The files are grouped into one series:</p>    <list type="ordered">
-      <head>Missing Title</head>
-      <item>I, Papers, 1930-2004.</item>
-    </list>
-  </arrangement>
-  <bioghist id="aspace_1a05e63d027a67a93e1bd8db4d3d685e">
-    <head>Historical/Biographical Note</head>
-<p>B. D. (B. DeWayne) Amis, 1896-1993, was an African-American Communist Party USA and labor union organizer. Amis was born in Chicago and by 1928 was president of the NAACP branch in Peoria, IL, when the Communist Party invited him to come to New York. Amis became a member of the National Committee of the Communist-inspired American Negro Labor Congress, and also wrote articles for the <emph render="italic">Daily Worker</emph>, the party newspaper. In 1930, Amis became general secretary of the Communist-inspired League of Struggle for Negro Rights (LSNR) and an editor of its publication, <emph render="italic">The Liberator</emph>. During this period Amis wrote the pamphlets <emph render="italic">Lynch Justice at Work</emph> (1930) and <emph render="italic">They shall not die!: The story of Scottsboro in pictures</emph> (1932). Amis went on to become the District Organizer for the Communist Party in Cleveland and traveled to the Soviet Union on two occasions, the second time for about a year and a half. While there, he took courses in Marxism and wrote articles for the <emph render="italic">Negro Worke</emph>r, the newspaper of the International Trade Union Committee of Negro Workers.</p><p>Upon his return to the United States, Amis settled in Philadelphia where he joined the Steel Workers Organizing Committee (SWOC) as a field organizer. He was also the head of the Philadelphia committee of the National Negro Congress, and the chairman of the Philadelphia Committee for the Defense of Ethiopia. He ran as the Communist candidate for Auditor General of Pennsylvania in 1936. He went on to organize Catering Industry Employees Union, Local 758, an African-American local of the Hotel and Restaurant Employees and Bartenders International Union (AFL), serving as Secretary-Treasurer of both organizations, ca. 1939-1942. He subsequently worked for the Gulf Oil Company, while continuing his union and community organizing activities. Amis died in 1993.</p><p> Sources: </p><p><list><item>B. D. Amis - Black Communist and Labor Leader, by his son Barry D. Amis, <emph render="italic">People's Weekly World</emph>, Nov. 20, 2004. (http://www.pww.org/index.php/article/articleview/6137/1/241/)</item></list> </p>  </bioghist>
-  <prefercite id="aspace_27e950a2259eb85948778af07e7d406b">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
-  <scopecontent id="aspace_54c00c85c0f3b30e8a2732dbc9af2aac">
-    <head>Scope and Content Note</head>
-<p>The collection consists mostly of published and unpublished writings, many of them written for the <emph render="italic">Daily Worker</emph>, for the monthly journal, <emph render="italic">Communist</emph>, or for the international Communist movement weekly, <emph render="italic">International Press Correspondence</emph>. Also included are reports to various Communist Party national and local bodies, including reports to District Six (headquartered in Cleveland, Ohio), for which he served as the District Organizer and a report detailing the Communist movement's activities in the city of Rockford, Ohio, as well as radio speeches, some relating to Amis' labor and Communist Party activism in Eastern Pennsylvania. There are also several collective bargaining agreements signed by Amis on behalf of the Local Joint Board of Philadelphia, consisting of Local 758 and several other locals of the Hotel and Restaurant Employees' International Alliance and Bartenders' International Union (AFL). The majority of Amis' writings relate to the struggle for Africa-American civil rights, and the Communist Party's positions on civil rights issues. There is also a file relating to the Philadelphia Committee for the Defense of Ethiopia, a file relating to his candidacy for the office of Auditor General of Pennsylvania, clippings, letters to Amis from Philadelphia government officials in response to his queries about community issues, a 1947 letter from Ben Davis, copies of photographs, and a copy of a 2004 biographical article by his son, Barry D. Amis, published in the Communist Party's newspaper, the <emph render="italic">People's Weekly World</emph>.</p>  </scopecontent>
-  <userestrict id="aspace_2790e56b875aa4b5aeef6f52615d01a0">
-    <head>Conditions Governing Use</head>
-<p>Any rights (including copyright and related rights to publicity and privacy) held by B.D. Amis, were transferred to New York University in 2006 by Debbie Amis Bell. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library and Robert F. Wagner Labor Archive. Please contact tamiment.wagner@nyu.edu.</p>  </userestrict>
-  <controlaccess>
-    <genreform source="aat">Black-and-white photographs.</genreform>
-    <genreform source="aat">Clippings (information artifacts)</genreform>
-    <subject source="lcsh">Communism |z Pennsylvania.</subject>
-    <genreform source="aat">Speeches.</genreform>
-    <genreform source="aat">Correspondence.</genreform>
-    <genreform source="aat">Collective labor agreements.</genreform>
-    <genreform source="aat">Reports.</genreform>
-    <genreform source="aat">Manuscripts for publication.</genreform>
-    <subject source="lcsh">Race relations in the United States.</subject>
-    <subject source="lcsh">African American labor union members</subject>
-    <subject source="lcsh">Hospitality industry |x Employees |x Labor unions |z Pennsylvania.</subject>
-    <geogname source="lcsh">Pennsylvania |x Social conditions.</geogname>
-    <subject source="lcsh">African American communists</subject>
-    <geogname source="local">Rockford (Ohio) |x Social conditions.</geogname>
-    <subject source="lcsh">African Americans -- Civil rights</subject>
-    <subject source="lcsh">Communism |z Ohio.</subject>
-    <subject source="lcsh">African American labor leaders</subject>
-    <subject source="lcsh">Italo-Ethiopian War, 1935-1936 |x Foreign public opinion, American.</subject>
-    <subject source="lcsh">Communism -- United States.</subject>
-    <corpname authfilenumber="(lccn)n86054061" source="naf">National Negro Congress (U.S.)</corpname>
-    <corpname authfilenumber="(lccn)n86111367" source="naf">Hotel and Restaurant Employees International Alliance</corpname>
-    <corpname authfilenumber="(lccn)n82227700" source="naf">Hotel Employees &amp; Restaurant Employees International Union</corpname>
-    <corpname source="local">Philadelphia Committee for the Defense of Ethiopia</corpname>
-    <corpname authfilenumber="(lccn)n79036120" source="naf">Communist Party of the United States of America</corpname>
-    <corpname source="local">Catering Industry Employees Union. Local 758</corpname>
-    <persname source="naf">Amis, B. D., b. 1896</persname>
-    <corpname authfilenumber="(lccn)no98121319" source="naf">American Negro Labor Congress</corpname>
-    <corpname source="local">Communist Party of the United States of America (Penn.)</corpname>
-    <corpname authfilenumber="(lccn)n83234880" source="naf">League of Struggle for Negro Rights (U.S.)</corpname>
-    <persname source="naf">Davis, Benjamin J. (Benjamin Jefferson), 1903-1964</persname>
-    <persname role="dnr" rules="dacs" source="local">Amis Bell, Debbie</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref13" level="series"><did><unittitle>Series I: Papers, 1930-2004.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref14" level="file"><did><unittitle>Biographical: <emph render="italic">People's Weekly World</emph> Article by Barry D. Amis (son of B. D. Amis)</unittitle><unitdate datechar="creation" normal="2004/2004" type="inclusive">Nov 20, 2004</unitdate><container altrender="Manuscript box - Legal" id="aspace_6619e0403322083cc8d05ad5eccadfd5" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_f918e2fae11d710ff09a1a245ce5f319" parent="aspace_6619e0403322083cc8d05ad5eccadfd5" type="Folder">1</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Cards: Business, Identification</unittitle><unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_e208893656189b726014b79b53186b0d" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_03c3cec121d1fe1c9df9d484124c520d" parent="aspace_e208893656189b726014b79b53186b0d" type="Folder">2</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Catering Industry Employees' Union No. 758 (B. D. Amis, Secretary-Treasurer) Correspondence, Reports</unittitle><unitdate datechar="creation" normal="1930/2004" type="inclusive">1939-1942 , Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_32c6c2420f67022be2b9aa8823da8bc7" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_48c1c5c0120356fd21273014934abd08" parent="aspace_32c6c2420f67022be2b9aa8823da8bc7" type="Folder">3</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Communist Party USA District Six: Next Steps in the Struggles for Winter Relief</unittitle><unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_e0f05ba810bc67c05e28be9d6fbf43bd" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_b2abe29ddb20db5ae11821868ffff5f3" parent="aspace_e0f05ba810bc67c05e28be9d6fbf43bd" type="Folder">4</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Davis, Benjamin: Letter to B. D. Amis</unittitle><unitdate datechar="creation" normal="1947/1947" type="inclusive">Sep 4, 1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_ecb08ff6f8c362d4bf9f143703814926" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_48a2fdbc580a069e0396eba7fed5aba4" parent="aspace_ecb08ff6f8c362d4bf9f143703814926" type="Folder">5</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Edelman, John W., CIO Regional Director (Eastern Pennsylvania): Letter of Reference for B. D. Amis</unittitle><unitdate datechar="creation" normal="1938/1938" type="inclusive">Dec 3, 1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_438989204b673b7798ec16ab4868a510" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_d2a766210e34cf0e59f58452d70326ea" parent="aspace_438989204b673b7798ec16ab4868a510" type="Folder">6</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Ethiopia, The Philadelphia Committee for the Defense of</unittitle><unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_3cdbb060e0e02b72739a5094a399b398" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_e3971f19db0f4d2966ee81c18d2a6186" parent="aspace_3cdbb060e0e02b72739a5094a399b398" type="Folder">7</container></did></c><c id="aspace_ref21" level="file"><did><unittitle><emph render="italic">International Press Correspondence</emph>: Articles by B. D. Amis</unittitle><unitdate datechar="creation" normal="1931/1934" type="inclusive">1931 , 1934</unitdate><container altrender="Manuscript box - Legal" id="aspace_b8d084606db71bbeaeb5553ac92ab72b" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_a88d6898a882ac8f1b8d6ba1b8b54a02" parent="aspace_b8d084606db71bbeaeb5553ac92ab72b" type="Folder">8</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Letters to B.D. Amis (re Community Organizing)</unittitle><unitdate datechar="creation" normal="1946/1947" type="inclusive">1946-1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_891d33fc682c21957bcd42c93742d053" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_ff8697a5c8b00afdf55f096c88e25415" parent="aspace_891d33fc682c21957bcd42c93742d053" type="Folder">9</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>National Negro Oppression and Social Antagonism, by B. D. Amis (photocopy), <emph render="italic">The Communist</emph>, No. 9</unittitle><unitdate datechar="creation" normal="1931/1931" type="inclusive">1931</unitdate><container altrender="Manuscript box - Legal" id="aspace_a5133ca5cadb47c7589652689e617cca" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_e873d9ee72f57fb3c0dc31d8cd3da3ca" parent="aspace_a5133ca5cadb47c7589652689e617cca" type="Folder">10</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Newspaper Articles by/about B.D. Amis</unittitle><unitdate datechar="creation" normal="1930/2004" type="inclusive">1931-1942 , Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_d21aeb58ea50f201ffb9fff77c9806d5" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_aaefac6b2d7be422a21d16cb557ad23c" parent="aspace_d21aeb58ea50f201ffb9fff77c9806d5" type="Folder">11</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Pamphlets by B. D. Amis (photocopies): <emph render="italic">Lynch Justice at Work</emph>, <emph render="italic">They Shall Not Die</emph>; plus Typescripts of Introductions</unittitle><unitdate datechar="creation" normal="1930/1932" type="inclusive">1930 , 1932</unitdate><container altrender="Manuscript box - Legal" id="aspace_133b155af26478578ad781360250635d" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_520b7cf75db638efdcb84f8b18b417eb" parent="aspace_133b155af26478578ad781360250635d" type="Folder">12</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Photographs (copies)</unittitle><unitdate datechar="creation" normal="1930/2004" type="inclusive">1932 , Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_e56bd0c7c3659c1a0640fb15f4b5f009" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_bebb057447e456c9da289bf0b28a07c8" parent="aspace_e56bd0c7c3659c1a0640fb15f4b5f009" type="Folder">13</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Radio Speeches (Candidate for Auditor General, Pennsylvania)</unittitle><unitdate datechar="creation" normal="1936/1936" type="inclusive">1936</unitdate><container altrender="Manuscript box - Legal" id="aspace_c9e9b85b434d5aa5c0f7180c013a42ae" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_a19ab4d7320d5b907ec4e422392494a7" parent="aspace_c9e9b85b434d5aa5c0f7180c013a42ae" type="Folder">14</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Report on Rockford (Ohio) Situation by B. D. Amis, CPUSA Organizer, Rockford.</unittitle><unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_46351c09f63bbd609d586189796cd42b" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_383f82cb64d6c3d1775b6fa3258145cc" parent="aspace_46351c09f63bbd609d586189796cd42b" type="Folder">15</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Report to the District Convention (CPUSA, Eastern Pennsylvania)</unittitle><unitdate datechar="creation" normal="1936/1936" type="inclusive">Jun 1936</unitdate><container altrender="Manuscript box - Legal" id="aspace_9fc089a2622e56bb7450e94e3fe0082f" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_037618d04c192f539194a1fd17c6ea37" parent="aspace_9fc089a2622e56bb7450e94e3fe0082f" type="Folder">16</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Report to Communist Party USA, 7th Convention</unittitle><unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate><container altrender="Manuscript box - Legal" id="aspace_8a2c1644dba43e700738cbbbe879f270" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_6a7f93598b45357208fa1ab6cb43e29c" parent="aspace_8a2c1644dba43e700738cbbbe879f270" type="Folder">17</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Restaurant Employees International Alliance and Bartenders (AFL): Contracts Signed by B. D. Amis, Secretary-Treasurer</unittitle><unitdate datechar="creation" normal="1940/1941" type="inclusive">1940-1941</unitdate><container altrender="Manuscript box - Legal" id="aspace_584ebd7de607f878c6088195977dc979" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_cfec476b8a64c1cbf02d1f79cdfe5be6" parent="aspace_584ebd7de607f878c6088195977dc979" type="Folder">18</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Reports to Communist Party USA: Plenums</unittitle><unitdate datechar="creation" normal="1930/1930" type="inclusive">1930</unitdate><container altrender="Manuscript box - Legal" id="aspace_dd1006f9616983a03f1745820d20e02c" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_1071ae123f938473eab9f1b022c107c0" parent="aspace_dd1006f9616983a03f1745820d20e02c" type="Folder">19</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Reports to Communist Party USA: Plenums</unittitle><unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate><container altrender="Manuscript box - Legal" id="aspace_cb237546c0519df6a12d82d06ccaf3f6" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_3dd6214a55a4a619f11ea096e144f757" parent="aspace_cb237546c0519df6a12d82d06ccaf3f6" type="Folder">20</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Report Executive Committee of the Communist International: Situation and Tasks of the American Party and the Cleveland District</unittitle><unitdate datechar="creation" normal="1933/1933" type="inclusive">Apr 1, 1933</unitdate><container altrender="Manuscript box - Legal" id="aspace_1a57c05e85cad5ce36d81fce9c615cee" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_2c728a2da20170b08ee8dfafd7aff7b2" parent="aspace_1a57c05e85cad5ce36d81fce9c615cee" type="Folder">21</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Steel Workers Organizing Committee (Pennsylvania), Reports on by B. D. Amis</unittitle><unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_765c32cc432b5470b1d20bd72c1092c7" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_19d773a80f3a38fe7ea43acb0cffabb8" parent="aspace_765c32cc432b5470b1d20bd72c1092c7" type="Folder">22</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Sun Shipbuilding and Dry Duck Co. (Chester, PA): B. D. Amis Letters Seeking Employment</unittitle><unitdate datechar="creation" normal="1942/1942" type="inclusive">1942</unitdate><container altrender="Manuscript box - Legal" id="aspace_7fa53a807d896f17f19642cabfcdfcf1" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_184723dee9d0ac83f528ea9ac2bb8ee2" parent="aspace_7fa53a807d896f17f19642cabfcdfcf1" type="Folder">23</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Writings, Published (Typescript): "Building of a Mass Organization." (St. Louis)</unittitle><unitdate datechar="creation" normal="1930/1930" type="inclusive">Nov 16, 1930</unitdate><container altrender="Manuscript box - Legal" id="aspace_53a79c175e86be3602b9ecb451ff3fbf" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_9093191996a112688e288710488a39f7" parent="aspace_53a79c175e86be3602b9ecb451ff3fbf" type="Folder">24</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Writings, Published (Typescript): "Croppers in Southern United States Fight to Live." (<emph render="italic">Inprecorr</emph>)</unittitle><unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_05228ea161032d8609c0f63f8dde3a5b" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_686a3bde90d04877ff415f91cb497105" parent="aspace_05228ea161032d8609c0f63f8dde3a5b" type="Folder">25</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Writings, Published (Typescript): "<emph render="italic">Daily Worker</emph> Leads Fight for May Day."</unittitle><unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_8e73f288e9a3ded10f4b4ff48e9b496d" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_89b7614b78a5bcf02d9fa558c58e880d" parent="aspace_8e73f288e9a3ded10f4b4ff48e9b496d" type="Folder">26</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Writings, Published (Typescript): "The Dies Bill - A Part of Capitalist Drive." (<emph render="italic">Uj Elore</emph> - Hungarian-American Communist newspaper)</unittitle><unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_a513b8a8efcd7bde1978b7eecde03987" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_c94873af23ae6dad0e2b531e4ab93774" parent="aspace_a513b8a8efcd7bde1978b7eecde03987" type="Folder">27</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Writings, Published (Typescript): "For a Strict Leninist Analysis of the Negro National Question in the United States." (<emph render="italic">Communis</emph>t)</unittitle><unitdate datechar="creation" normal="1932/1932" type="inclusive">Oct 1932</unitdate><container altrender="Manuscript box - Legal" id="aspace_a181cf48c72fd1ac74b043fa6e7426c4" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_61ff1cdc350009b1c173952d5e916ba0" parent="aspace_a181cf48c72fd1ac74b043fa6e7426c4" type="Folder">28</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Writings, Published (Typescript): "How We Carried Out the Decision of the 1930 Communist International Resolution on the Negro Question in the United States." (<emph render="italic">Communist International</emph>, no. 9)</unittitle><unitdate datechar="creation" normal="1935/1935" type="inclusive">May 5, 1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_e4b756318efb64532f16a627c48cd7c3" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_24227ac56312b14a11bd0562db96a3cc" parent="aspace_e4b756318efb64532f16a627c48cd7c3" type="Folder">29</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Writings, Published (Typescript): "Marion Demonstrates American Democracy."</unittitle><unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_2f241b54e7e6e8f7f733fecfa992937f" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_fd015faf0ee8045ba3769612aa963af2" parent="aspace_2f241b54e7e6e8f7f733fecfa992937f" type="Folder">30</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Writings, Published (Typescript): "National Negro Congress Writes Page in the History of Race People." (<emph render="italic">Philadelphia Tribune</emph>)</unittitle><unitdate datechar="creation" normal="1936/1936" type="inclusive">Feb 27, 1936</unitdate><container altrender="Manuscript box - Legal" id="aspace_5d4ab994648331b288ee9cc2531e4ac9" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_16bcaa07b7004810285fadb0d31b50f9" parent="aspace_5d4ab994648331b288ee9cc2531e4ac9" type="Folder">31</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Writings, Published (Typescript): "The National Recovery Act Lynch Drive Calls for Mass Resistance." (<emph render="italic">Inprecorr</emph>)</unittitle><unitdate datechar="creation" normal="1934/1934" type="inclusive">Feb 9, 1934</unitdate><container altrender="Manuscript box - Legal" id="aspace_80eb6406df4f0d1b641886d73c85a053" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_402f3e813dade45322c4179ce8929eda" parent="aspace_80eb6406df4f0d1b641886d73c85a053" type="Folder">32</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Writings, Published (Typescript): "Need of Clarity."</unittitle><unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_9d44103dc5fbd0e2a62f4468bb52e596" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_2d48bf1d38badb0760c81eec296e102b" parent="aspace_9d44103dc5fbd0e2a62f4468bb52e596" type="Folder">33</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Writings, Published (Typescript): "The Negro National Oppression and Social Antagonisms."</unittitle><unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_5774f19664df6d2a4ea680723a1c24ac" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_dc98e6d091e063963033dc8f59bb7228" parent="aspace_5774f19664df6d2a4ea680723a1c24ac" type="Folder">34</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Writings, Published (Typescript): "Opportunism on March 28th Demonstrations." (<emph render="italic">Communist</emph>)</unittitle><unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_2b01510b98ae7b585656baf8653424c6" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_c13552a452920e8256338133e12d18ac" parent="aspace_2b01510b98ae7b585656baf8653424c6" type="Folder">1</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Writings, Published (Typescript): "Our Fraction Work in the ANCL (American Negro Labor Congress)." (<emph render="italic">Party Organizer</emph>)</unittitle><unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_697b0869b59523b8765e6c9e5d9153b8" label="Mixed Materials [31142062884328]" type="Box">1</container><container id="aspace_16d721d614baab9a4f2fab9f4e9a35e8" parent="aspace_697b0869b59523b8765e6c9e5d9153b8" type="Folder">2</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Writings, Published (Typescript): "Reply to an Arrogant Yankee." (<emph render="italic">Daily Worker</emph>)</unittitle><unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_b6fd4623aeec3725432564c7deb76391" label="Mixed Materials [31142062884336]" type="Box">2</container><container id="aspace_6326403dfa7e9878640e396c08fcee10" parent="aspace_b6fd4623aeec3725432564c7deb76391" type="Folder">3</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Writings, Published (Typescript): "Smashing Bourgeois Barriers in Southern United States." (<emph render="italic">Inprecorr</emph>)</unittitle><unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_8eeb5735cd593c0f4e20464cdc39bb3d" label="Mixed Materials [31142062884336]" type="Box">2</container><container id="aspace_f4e81dfa70b7ba77c6d6033614bc8311" parent="aspace_8eeb5735cd593c0f4e20464cdc39bb3d" type="Folder">4</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Writings, Published (Typescript): "Struggle Against White Chauvinism." (<emph render="italic">Daily Worker</emph>)</unittitle><unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_5e1e7c742c61f125289fd75e50d569fe" label="Mixed Materials [31142062884336]" type="Box">2</container><container id="aspace_1c879de9f8dd476e449ee1402611df2f" parent="aspace_5e1e7c742c61f125289fd75e50d569fe" type="Folder">5</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Writings, Published (Typescript): "Vote Communist - Negro Workers!" (<emph render="italic">Daily Worker</emph>)</unittitle><unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_9aa0eb9e0bb6e2b624945a0b613c065c" label="Mixed Materials [31142062884336]" type="Box">2</container><container id="aspace_a9dc909b3377eb61e1de32ab40d4e472" parent="aspace_9aa0eb9e0bb6e2b624945a0b613c065c" type="Folder">6</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Writings, Published (Typescript): "We Demand Unemployment Insurance." (<emph render="italic">Editorial, Liberator</emph>)</unittitle><unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_81956d30914993e560bf95c4d6fa30a5" label="Mixed Materials [31142062884336]" type="Box">2</container><container id="aspace_02da3473bb3e0d63febb6f0df2e443e5" parent="aspace_81956d30914993e560bf95c4d6fa30a5" type="Folder">7</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Writings, Unpublished: "For A Strict Leninist Analysis of the Negro National Question In the United States."</unittitle><unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_862e72964156284db8fbc3ff17780b40" label="Mixed Materials [31142062884336]" type="Box">2</container><container id="aspace_c5d7ee11388a40b6335103984b39bfe8" parent="aspace_862e72964156284db8fbc3ff17780b40" type="Folder">8</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Writings, Unpublished: "Lynch Justice at Work."</unittitle><unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_e7c54df44bf372000ac42a7fa56a0671" label="Mixed Materials [31142062884336]" type="Box">2</container><container id="aspace_783521e84139311f19d7e4d736a8c6ac" parent="aspace_e7c54df44bf372000ac42a7fa56a0671" type="Folder">9</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Writings, Unpublished: Miscellaneous Untitled Works</unittitle><unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_41c965f3b6cd81e4ef29e3d20e29f0c1" label="Mixed Materials [31142062884336]" type="Box">2</container><container id="aspace_e77fe36088a9dca1695ded2eaedff970" parent="aspace_41c965f3b6cd81e4ef29e3d20e29f0c1" type="Folder">10</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Writings, Unpublished: "A Point Gained From the Party National Convention."</unittitle><unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_b610037a76c271be4e02a8ebc95b9004" label="Mixed Materials [31142062884336]" type="Box">2</container><container id="aspace_e016ca76e1ef35ea40ada8a4e7305354" parent="aspace_b610037a76c271be4e02a8ebc95b9004" type="Folder">11</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Writings, Unpublished: "Some Serious Questions Concerning Our Negro Work in the Philadelphia District."</unittitle><unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_d0d050e7be287535d621a581e6b137d5" label="Mixed Materials [31142062884336]" type="Box">2</container><container id="aspace_c55fe033ea7fb1de9d95eef00da4c8d8" parent="aspace_d0d050e7be287535d621a581e6b137d5" type="Folder">12</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Writings, Unpublished: "They Refuse to Starve."</unittitle><unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f75a0544a05bad6f9c8e9428b3c26085" label="Mixed Materials [31142062884336]" type="Box">2</container><container id="aspace_7caf8fb5d2358d9cf6b960a4de05a997" parent="aspace_f75a0544a05bad6f9c8e9428b3c26085" type="Folder">13</container></did></c></c></dsc>
-</archdesc>
+    </did>
+    <accessrestrict id="aspace_175f8af46f83e93325027c8478bbbc7b">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_0930383eab87e8e4cb042cf57b06e200">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Debbie Amis Bell in 2006. The accession number associated with this gift is 2006.010.</p>
+    </acqinfo>
+    <arrangement id="aspace_a76f476ffc22d52857af65701abad98a">
+      <head>Arrangement</head>
+      <p>Arranged alphabetically.</p>
+      <p>The files are grouped into one series:</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>I, Papers, 1930-2004.</item>
+      </list>
+    </arrangement>
+    <bioghist id="aspace_1a05e63d027a67a93e1bd8db4d3d685e">
+      <head>Historical/Biographical Note</head>
+      <p>B. D. (B. DeWayne) Amis, 1896-1993, was an African-American Communist Party USA and labor union organizer. Amis was born in Chicago and by 1928 was president of the NAACP branch in Peoria, IL, when the Communist Party invited him to come to New York. Amis became a member of the National Committee of the Communist-inspired American Negro Labor Congress, and also wrote articles for the <emph render="italic">Daily Worker</emph>, the party newspaper. In 1930, Amis became general secretary of the Communist-inspired League of Struggle for Negro Rights (LSNR) and an editor of its publication, <emph render="italic">The Liberator</emph>. During this period Amis wrote the pamphlets <emph render="italic">Lynch Justice at Work</emph> (1930) and <emph render="italic">They shall not die!: The story of Scottsboro in pictures</emph> (1932). Amis went on to become the District Organizer for the Communist Party in Cleveland and traveled to the Soviet Union on two occasions, the second time for about a year and a half. While there, he took courses in Marxism and wrote articles for the <emph render="italic">Negro Worke</emph>r, the newspaper of the International Trade Union Committee of Negro Workers.</p>
+      <p>Upon his return to the United States, Amis settled in Philadelphia where he joined the Steel Workers Organizing Committee (SWOC) as a field organizer. He was also the head of the Philadelphia committee of the National Negro Congress, and the chairman of the Philadelphia Committee for the Defense of Ethiopia. He ran as the Communist candidate for Auditor General of Pennsylvania in 1936. He went on to organize Catering Industry Employees Union, Local 758, an African-American local of the Hotel and Restaurant Employees and Bartenders International Union (AFL), serving as Secretary-Treasurer of both organizations, ca. 1939-1942. He subsequently worked for the Gulf Oil Company, while continuing his union and community organizing activities. Amis died in 1993.</p>
+      <p> Sources: </p>
+      <p>
+        <list>
+          <item>B. D. Amis - Black Communist and Labor Leader, by his son Barry D. Amis, <emph render="italic">People's Weekly World</emph>, Nov. 20, 2004. (http://www.pww.org/index.php/article/articleview/6137/1/241/)</item>
+        </list>
+      </p>
+    </bioghist>
+    <prefercite id="aspace_27e950a2259eb85948778af07e7d406b">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <scopecontent id="aspace_54c00c85c0f3b30e8a2732dbc9af2aac">
+      <head>Scope and Content Note</head>
+      <p>The collection consists mostly of published and unpublished writings, many of them written for the <emph render="italic">Daily Worker</emph>, for the monthly journal, <emph render="italic">Communist</emph>, or for the international Communist movement weekly, <emph render="italic">International Press Correspondence</emph>. Also included are reports to various Communist Party national and local bodies, including reports to District Six (headquartered in Cleveland, Ohio), for which he served as the District Organizer and a report detailing the Communist movement's activities in the city of Rockford, Ohio, as well as radio speeches, some relating to Amis' labor and Communist Party activism in Eastern Pennsylvania. There are also several collective bargaining agreements signed by Amis on behalf of the Local Joint Board of Philadelphia, consisting of Local 758 and several other locals of the Hotel and Restaurant Employees' International Alliance and Bartenders' International Union (AFL). The majority of Amis' writings relate to the struggle for Africa-American civil rights, and the Communist Party's positions on civil rights issues. There is also a file relating to the Philadelphia Committee for the Defense of Ethiopia, a file relating to his candidacy for the office of Auditor General of Pennsylvania, clippings, letters to Amis from Philadelphia government officials in response to his queries about community issues, a 1947 letter from Ben Davis, copies of photographs, and a copy of a 2004 biographical article by his son, Barry D. Amis, published in the Communist Party's newspaper, the <emph render="italic">People's Weekly World</emph>.</p>
+    </scopecontent>
+    <userestrict id="aspace_2790e56b875aa4b5aeef6f52615d01a0">
+      <head>Conditions Governing Use</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by B.D. Amis, were transferred to New York University in 2006 by Debbie Amis Bell. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library and Robert F. Wagner Labor Archive. Please contact tamiment.wagner@nyu.edu.</p>
+    </userestrict>
+    <controlaccess>
+      <genreform source="aat">Black-and-white photographs.</genreform>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <subject source="lcsh">Communism |z Pennsylvania.</subject>
+      <genreform source="aat">Speeches.</genreform>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Collective labor agreements.</genreform>
+      <genreform source="aat">Reports.</genreform>
+      <genreform source="aat">Manuscripts for publication.</genreform>
+      <subject source="lcsh">Race relations in the United States.</subject>
+      <subject source="lcsh">African American labor union members</subject>
+      <subject source="lcsh">Hospitality industry |x Employees |x Labor unions |z Pennsylvania.</subject>
+      <geogname source="lcsh">Pennsylvania |x Social conditions.</geogname>
+      <subject source="lcsh">African American communists</subject>
+      <geogname source="local">Rockford (Ohio) |x Social conditions.</geogname>
+      <subject source="lcsh">African Americans -- Civil rights</subject>
+      <subject source="lcsh">Communism |z Ohio.</subject>
+      <subject source="lcsh">African American labor leaders</subject>
+      <subject source="lcsh">Italo-Ethiopian War, 1935-1936 |x Foreign public opinion, American.</subject>
+      <subject source="lcsh">Communism -- United States.</subject>
+      <corpname authfilenumber="(lccn)n86054061" source="naf">National Negro Congress (U.S.)</corpname>
+      <corpname authfilenumber="(lccn)n86111367" source="naf">Hotel and Restaurant Employees International Alliance</corpname>
+      <corpname authfilenumber="(lccn)n82227700" source="naf">Hotel Employees &amp; Restaurant Employees International Union</corpname>
+      <corpname source="local">Philadelphia Committee for the Defense of Ethiopia</corpname>
+      <corpname authfilenumber="(lccn)n79036120" source="naf">Communist Party of the United States of America</corpname>
+      <corpname source="local">Catering Industry Employees Union. Local 758</corpname>
+      <persname source="naf">Amis, B. D., b. 1896</persname>
+      <corpname authfilenumber="(lccn)no98121319" source="naf">American Negro Labor Congress</corpname>
+      <corpname source="local">Communist Party of the United States of America (Penn.)</corpname>
+      <corpname authfilenumber="(lccn)n83234880" source="naf">League of Struggle for Negro Rights (U.S.)</corpname>
+      <persname source="naf">Davis, Benjamin J. (Benjamin Jefferson), 1903-1964</persname>
+      <persname role="dnr" rules="dacs" source="local">Amis Bell, Debbie</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref13" level="series">
+        <did>
+          <unittitle>Series I: Papers, 1930-2004.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Biographical: <emph render="italic">People's Weekly World</emph> Article by Barry D. Amis (son of B. D. Amis)</unittitle>
+            <unitdate datechar="creation" normal="2004/2004" type="inclusive">Nov 20, 2004</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6619e0403322083cc8d05ad5eccadfd5" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_f918e2fae11d710ff09a1a245ce5f319" parent="aspace_6619e0403322083cc8d05ad5eccadfd5" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Cards: Business, Identification</unittitle>
+            <unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e208893656189b726014b79b53186b0d" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_03c3cec121d1fe1c9df9d484124c520d" parent="aspace_e208893656189b726014b79b53186b0d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Catering Industry Employees' Union No. 758 (B. D. Amis, Secretary-Treasurer) Correspondence, Reports</unittitle>
+            <unitdate datechar="creation" normal="1930/2004" type="inclusive">1939-1942 , Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_32c6c2420f67022be2b9aa8823da8bc7" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_48c1c5c0120356fd21273014934abd08" parent="aspace_32c6c2420f67022be2b9aa8823da8bc7" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Communist Party USA District Six: Next Steps in the Struggles for Winter Relief</unittitle>
+            <unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e0f05ba810bc67c05e28be9d6fbf43bd" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_b2abe29ddb20db5ae11821868ffff5f3" parent="aspace_e0f05ba810bc67c05e28be9d6fbf43bd" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Davis, Benjamin: Letter to B. D. Amis</unittitle>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">Sep 4, 1947</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ecb08ff6f8c362d4bf9f143703814926" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_48a2fdbc580a069e0396eba7fed5aba4" parent="aspace_ecb08ff6f8c362d4bf9f143703814926" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Edelman, John W., CIO Regional Director (Eastern Pennsylvania): Letter of Reference for B. D. Amis</unittitle>
+            <unitdate datechar="creation" normal="1938/1938" type="inclusive">Dec 3, 1938</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_438989204b673b7798ec16ab4868a510" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_d2a766210e34cf0e59f58452d70326ea" parent="aspace_438989204b673b7798ec16ab4868a510" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Ethiopia, The Philadelphia Committee for the Defense of</unittitle>
+            <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3cdbb060e0e02b72739a5094a399b398" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_e3971f19db0f4d2966ee81c18d2a6186" parent="aspace_3cdbb060e0e02b72739a5094a399b398" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle><emph render="italic">International Press Correspondence</emph>: Articles by B. D. Amis</unittitle>
+            <unitdate datechar="creation" normal="1931/1934" type="inclusive">1931 , 1934</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b8d084606db71bbeaeb5553ac92ab72b" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_a88d6898a882ac8f1b8d6ba1b8b54a02" parent="aspace_b8d084606db71bbeaeb5553ac92ab72b" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Letters to B.D. Amis (re Community Organizing)</unittitle>
+            <unitdate datechar="creation" normal="1946/1947" type="inclusive">1946-1947</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_891d33fc682c21957bcd42c93742d053" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_ff8697a5c8b00afdf55f096c88e25415" parent="aspace_891d33fc682c21957bcd42c93742d053" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>National Negro Oppression and Social Antagonism, by B. D. Amis (photocopy), <emph render="italic">The Communist</emph>, No. 9</unittitle>
+            <unitdate datechar="creation" normal="1931/1931" type="inclusive">1931</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a5133ca5cadb47c7589652689e617cca" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_e873d9ee72f57fb3c0dc31d8cd3da3ca" parent="aspace_a5133ca5cadb47c7589652689e617cca" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Newspaper Articles by/about B.D. Amis</unittitle>
+            <unitdate datechar="creation" normal="1930/2004" type="inclusive">1931-1942 , Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d21aeb58ea50f201ffb9fff77c9806d5" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_aaefac6b2d7be422a21d16cb557ad23c" parent="aspace_d21aeb58ea50f201ffb9fff77c9806d5" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Pamphlets by B. D. Amis (photocopies): <emph render="italic">Lynch Justice at Work</emph>, <emph render="italic">They Shall Not Die</emph>; plus Typescripts of Introductions</unittitle>
+            <unitdate datechar="creation" normal="1930/1932" type="inclusive">1930 , 1932</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_133b155af26478578ad781360250635d" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_520b7cf75db638efdcb84f8b18b417eb" parent="aspace_133b155af26478578ad781360250635d" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Photographs (copies)</unittitle>
+            <unitdate datechar="creation" normal="1930/2004" type="inclusive">1932 , Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e56bd0c7c3659c1a0640fb15f4b5f009" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_bebb057447e456c9da289bf0b28a07c8" parent="aspace_e56bd0c7c3659c1a0640fb15f4b5f009" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Radio Speeches (Candidate for Auditor General, Pennsylvania)</unittitle>
+            <unitdate datechar="creation" normal="1936/1936" type="inclusive">1936</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c9e9b85b434d5aa5c0f7180c013a42ae" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_a19ab4d7320d5b907ec4e422392494a7" parent="aspace_c9e9b85b434d5aa5c0f7180c013a42ae" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Report on Rockford (Ohio) Situation by B. D. Amis, CPUSA Organizer, Rockford.</unittitle>
+            <unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_46351c09f63bbd609d586189796cd42b" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_383f82cb64d6c3d1775b6fa3258145cc" parent="aspace_46351c09f63bbd609d586189796cd42b" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Report to the District Convention (CPUSA, Eastern Pennsylvania)</unittitle>
+            <unitdate datechar="creation" normal="1936/1936" type="inclusive">Jun 1936</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9fc089a2622e56bb7450e94e3fe0082f" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_037618d04c192f539194a1fd17c6ea37" parent="aspace_9fc089a2622e56bb7450e94e3fe0082f" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Report to Communist Party USA, 7th Convention</unittitle>
+            <unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8a2c1644dba43e700738cbbbe879f270" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_6a7f93598b45357208fa1ab6cb43e29c" parent="aspace_8a2c1644dba43e700738cbbbe879f270" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Restaurant Employees International Alliance and Bartenders (AFL): Contracts Signed by B. D. Amis, Secretary-Treasurer</unittitle>
+            <unitdate datechar="creation" normal="1940/1941" type="inclusive">1940-1941</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_584ebd7de607f878c6088195977dc979" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_cfec476b8a64c1cbf02d1f79cdfe5be6" parent="aspace_584ebd7de607f878c6088195977dc979" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Reports to Communist Party USA: Plenums</unittitle>
+            <unitdate datechar="creation" normal="1930/1930" type="inclusive">1930</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dd1006f9616983a03f1745820d20e02c" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_1071ae123f938473eab9f1b022c107c0" parent="aspace_dd1006f9616983a03f1745820d20e02c" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Reports to Communist Party USA: Plenums</unittitle>
+            <unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cb237546c0519df6a12d82d06ccaf3f6" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_3dd6214a55a4a619f11ea096e144f757" parent="aspace_cb237546c0519df6a12d82d06ccaf3f6" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Report Executive Committee of the Communist International: Situation and Tasks of the American Party and the Cleveland District</unittitle>
+            <unitdate datechar="creation" normal="1933/1933" type="inclusive">Apr 1, 1933</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1a57c05e85cad5ce36d81fce9c615cee" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_2c728a2da20170b08ee8dfafd7aff7b2" parent="aspace_1a57c05e85cad5ce36d81fce9c615cee" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Steel Workers Organizing Committee (Pennsylvania), Reports on by B. D. Amis</unittitle>
+            <unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_765c32cc432b5470b1d20bd72c1092c7" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_19d773a80f3a38fe7ea43acb0cffabb8" parent="aspace_765c32cc432b5470b1d20bd72c1092c7" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Sun Shipbuilding and Dry Duck Co. (Chester, PA): B. D. Amis Letters Seeking Employment</unittitle>
+            <unitdate datechar="creation" normal="1942/1942" type="inclusive">1942</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7fa53a807d896f17f19642cabfcdfcf1" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_184723dee9d0ac83f528ea9ac2bb8ee2" parent="aspace_7fa53a807d896f17f19642cabfcdfcf1" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Writings, Published (Typescript): "Building of a Mass Organization." (St. Louis)</unittitle>
+            <unitdate datechar="creation" normal="1930/1930" type="inclusive">Nov 16, 1930</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_53a79c175e86be3602b9ecb451ff3fbf" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_9093191996a112688e288710488a39f7" parent="aspace_53a79c175e86be3602b9ecb451ff3fbf" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Writings, Published (Typescript): "Croppers in Southern United States Fight to Live." (<emph render="italic">Inprecorr</emph>)</unittitle>
+            <unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_05228ea161032d8609c0f63f8dde3a5b" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_686a3bde90d04877ff415f91cb497105" parent="aspace_05228ea161032d8609c0f63f8dde3a5b" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Writings, Published (Typescript): "<emph render="italic">Daily Worker</emph> Leads Fight for May Day."</unittitle>
+            <unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8e73f288e9a3ded10f4b4ff48e9b496d" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_89b7614b78a5bcf02d9fa558c58e880d" parent="aspace_8e73f288e9a3ded10f4b4ff48e9b496d" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Writings, Published (Typescript): "The Dies Bill - A Part of Capitalist Drive." (<emph render="italic">Uj Elore</emph> - Hungarian-American Communist newspaper)</unittitle>
+            <unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a513b8a8efcd7bde1978b7eecde03987" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_c94873af23ae6dad0e2b531e4ab93774" parent="aspace_a513b8a8efcd7bde1978b7eecde03987" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Writings, Published (Typescript): "For a Strict Leninist Analysis of the Negro National Question in the United States." (<emph render="italic">Communis</emph>t)</unittitle>
+            <unitdate datechar="creation" normal="1932/1932" type="inclusive">Oct 1932</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a181cf48c72fd1ac74b043fa6e7426c4" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_61ff1cdc350009b1c173952d5e916ba0" parent="aspace_a181cf48c72fd1ac74b043fa6e7426c4" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Writings, Published (Typescript): "How We Carried Out the Decision of the 1930 Communist International Resolution on the Negro Question in the United States." (<emph render="italic">Communist International</emph>, no. 9)</unittitle>
+            <unitdate datechar="creation" normal="1935/1935" type="inclusive">May 5, 1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e4b756318efb64532f16a627c48cd7c3" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_24227ac56312b14a11bd0562db96a3cc" parent="aspace_e4b756318efb64532f16a627c48cd7c3" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Writings, Published (Typescript): "Marion Demonstrates American Democracy."</unittitle>
+            <unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2f241b54e7e6e8f7f733fecfa992937f" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_fd015faf0ee8045ba3769612aa963af2" parent="aspace_2f241b54e7e6e8f7f733fecfa992937f" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Writings, Published (Typescript): "National Negro Congress Writes Page in the History of Race People." (<emph render="italic">Philadelphia Tribune</emph>)</unittitle>
+            <unitdate datechar="creation" normal="1936/1936" type="inclusive">Feb 27, 1936</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5d4ab994648331b288ee9cc2531e4ac9" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_16bcaa07b7004810285fadb0d31b50f9" parent="aspace_5d4ab994648331b288ee9cc2531e4ac9" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Writings, Published (Typescript): "The National Recovery Act Lynch Drive Calls for Mass Resistance." (<emph render="italic">Inprecorr</emph>)</unittitle>
+            <unitdate datechar="creation" normal="1934/1934" type="inclusive">Feb 9, 1934</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_80eb6406df4f0d1b641886d73c85a053" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_402f3e813dade45322c4179ce8929eda" parent="aspace_80eb6406df4f0d1b641886d73c85a053" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Writings, Published (Typescript): "Need of Clarity."</unittitle>
+            <unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9d44103dc5fbd0e2a62f4468bb52e596" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_2d48bf1d38badb0760c81eec296e102b" parent="aspace_9d44103dc5fbd0e2a62f4468bb52e596" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Writings, Published (Typescript): "The Negro National Oppression and Social Antagonisms."</unittitle>
+            <unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5774f19664df6d2a4ea680723a1c24ac" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_dc98e6d091e063963033dc8f59bb7228" parent="aspace_5774f19664df6d2a4ea680723a1c24ac" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Writings, Published (Typescript): "Opportunism on March 28th Demonstrations." (<emph render="italic">Communist</emph>)</unittitle>
+            <unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2b01510b98ae7b585656baf8653424c6" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_c13552a452920e8256338133e12d18ac" parent="aspace_2b01510b98ae7b585656baf8653424c6" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Writings, Published (Typescript): "Our Fraction Work in the ANCL (American Negro Labor Congress)." (<emph render="italic">Party Organizer</emph>)</unittitle>
+            <unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_697b0869b59523b8765e6c9e5d9153b8" label="Mixed Materials [31142062884328]" type="Box">1</container>
+            <container id="aspace_16d721d614baab9a4f2fab9f4e9a35e8" parent="aspace_697b0869b59523b8765e6c9e5d9153b8" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Writings, Published (Typescript): "Reply to an Arrogant Yankee." (<emph render="italic">Daily Worker</emph>)</unittitle>
+            <unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_b6fd4623aeec3725432564c7deb76391" label="Mixed Materials [31142062884336]" type="Box">2</container>
+            <container id="aspace_6326403dfa7e9878640e396c08fcee10" parent="aspace_b6fd4623aeec3725432564c7deb76391" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Writings, Published (Typescript): "Smashing Bourgeois Barriers in Southern United States." (<emph render="italic">Inprecorr</emph>)</unittitle>
+            <unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_8eeb5735cd593c0f4e20464cdc39bb3d" label="Mixed Materials [31142062884336]" type="Box">2</container>
+            <container id="aspace_f4e81dfa70b7ba77c6d6033614bc8311" parent="aspace_8eeb5735cd593c0f4e20464cdc39bb3d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Writings, Published (Typescript): "Struggle Against White Chauvinism." (<emph render="italic">Daily Worker</emph>)</unittitle>
+            <unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_5e1e7c742c61f125289fd75e50d569fe" label="Mixed Materials [31142062884336]" type="Box">2</container>
+            <container id="aspace_1c879de9f8dd476e449ee1402611df2f" parent="aspace_5e1e7c742c61f125289fd75e50d569fe" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Writings, Published (Typescript): "Vote Communist - Negro Workers!" (<emph render="italic">Daily Worker</emph>)</unittitle>
+            <unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_9aa0eb9e0bb6e2b624945a0b613c065c" label="Mixed Materials [31142062884336]" type="Box">2</container>
+            <container id="aspace_a9dc909b3377eb61e1de32ab40d4e472" parent="aspace_9aa0eb9e0bb6e2b624945a0b613c065c" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Writings, Published (Typescript): "We Demand Unemployment Insurance." (<emph render="italic">Editorial, Liberator</emph>)</unittitle>
+            <unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_81956d30914993e560bf95c4d6fa30a5" label="Mixed Materials [31142062884336]" type="Box">2</container>
+            <container id="aspace_02da3473bb3e0d63febb6f0df2e443e5" parent="aspace_81956d30914993e560bf95c4d6fa30a5" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Writings, Unpublished: "For A Strict Leninist Analysis of the Negro National Question In the United States."</unittitle>
+            <unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_862e72964156284db8fbc3ff17780b40" label="Mixed Materials [31142062884336]" type="Box">2</container>
+            <container id="aspace_c5d7ee11388a40b6335103984b39bfe8" parent="aspace_862e72964156284db8fbc3ff17780b40" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Writings, Unpublished: "Lynch Justice at Work."</unittitle>
+            <unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_e7c54df44bf372000ac42a7fa56a0671" label="Mixed Materials [31142062884336]" type="Box">2</container>
+            <container id="aspace_783521e84139311f19d7e4d736a8c6ac" parent="aspace_e7c54df44bf372000ac42a7fa56a0671" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Writings, Unpublished: Miscellaneous Untitled Works</unittitle>
+            <unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_41c965f3b6cd81e4ef29e3d20e29f0c1" label="Mixed Materials [31142062884336]" type="Box">2</container>
+            <container id="aspace_e77fe36088a9dca1695ded2eaedff970" parent="aspace_41c965f3b6cd81e4ef29e3d20e29f0c1" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Writings, Unpublished: "A Point Gained From the Party National Convention."</unittitle>
+            <unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_b610037a76c271be4e02a8ebc95b9004" label="Mixed Materials [31142062884336]" type="Box">2</container>
+            <container id="aspace_e016ca76e1ef35ea40ada8a4e7305354" parent="aspace_b610037a76c271be4e02a8ebc95b9004" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Writings, Unpublished: "Some Serious Questions Concerning Our Negro Work in the Philadelphia District."</unittitle>
+            <unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_d0d050e7be287535d621a581e6b137d5" label="Mixed Materials [31142062884336]" type="Box">2</container>
+            <container id="aspace_c55fe033ea7fb1de9d95eef00da4c8d8" parent="aspace_d0d050e7be287535d621a581e6b137d5" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Writings, Unpublished: "They Refuse to Starve."</unittitle>
+            <unitdate datechar="creation" normal="1930/2004" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_f75a0544a05bad6f9c8e9428b3c26085" label="Mixed Materials [31142062884336]" type="Box">2</container>
+            <container id="aspace_7caf8fb5d2358d9cf6b960a4de05a997" parent="aspace_f75a0544a05bad6f9c8e9428b3c26085" type="Folder">13</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

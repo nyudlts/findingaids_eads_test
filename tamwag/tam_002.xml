@@ -1,71 +1,655 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_002">tam_002</eadid><filedesc><titlestmt><titleproper>Guide to the the Department Store and Office Workers' Organizing Collection <num>TAM.002</num></titleproper><author>Tamiment Staff</author></titlestmt><editionstmt><p>This version was derived from Department Store.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:27:58 -0400</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Department Store and Office Workers' Organizing Collection</unittitle>
-    <origination label="Creator">
-      <corpname source="local">Department Store Employees Union and Office Workers' Union</corpname>
-    </origination>
-    <origination label="source">
-      <corpname authfilenumber="(lccn)n88657420" role="dnr" source="naf">Rand School of Social Science</corpname>
-    </origination>
-    <unitid>TAM.002</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
-      <extent altrender="carrier">(1 box)</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1916/1947" type="inclusive">1916-1947</unitdate>
-    <unitdate datechar="creation" normal="1930/1941" type="bulk">1930-1941</unitdate>
-    <abstract id="aspace_573f8348137f6a2803f23d2df6456a5e" label="Abstract">Efforts to unionize New York City department store employees in the 1930s took place under the auspices of the Department Store Employees Union, Local 1250 (at first affiliated with the American Federation of Labor, and subsequently with the Congress of Industrial Organizations) and the Office Workers' Union, an affiliate of the Trade Union Unity League, a Communist Party labor initiative. The collection contains pamphlets, leaflets, newsletters and clippings relating to sit-down strikes, department store and office workers strikes and organizing in the 1930s, printed material from the Office Workers' Union, and of the Department Store Employees Union, Local 1250.</abstract>
-    <langmaterial>
-      <language langcode="eng" scriptcode="Latn">English</language>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/tam_002">tam_002</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the the Department Store and Office Workers' Organizing Collection <num>TAM.002</num></titleproper>
+        <author>Tamiment Staff</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from Department Store.doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:27:58 -0400</date>.</creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Department Store and Office Workers' Organizing Collection</unittitle>
+      <origination label="Creator">
+        <corpname source="local">Department Store Employees Union and Office Workers' Union</corpname>
+      </origination>
+      <origination label="source">
+        <corpname authfilenumber="(lccn)n88657420" role="dnr" source="naf">Rand School of Social Science</corpname>
+      </origination>
+      <unitid>TAM.002</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+        <extent altrender="carrier">(1 box)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1916/1947" type="inclusive">1916-1947</unitdate>
+      <unitdate datechar="creation" normal="1930/1941" type="bulk">1930-1941</unitdate>
+      <abstract id="aspace_573f8348137f6a2803f23d2df6456a5e" label="Abstract">Efforts to unionize New York City department store employees in the 1930s took place under the auspices of the Department Store Employees Union, Local 1250 (at first affiliated with the American Federation of Labor, and subsequently with the Congress of Industrial Organizations) and the Office Workers' Union, an affiliate of the Trade Union Unity League, a Communist Party labor initiative. The collection contains pamphlets, leaflets, newsletters and clippings relating to sit-down strikes, department store and office workers strikes and organizing in the 1930s, printed material from the Office Workers' Union, and of the Department Store Employees Union, Local 1250.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
 .    </langmaterial>
-  </did>
-  <custodhist id="aspace_35891c6f5abcff394e5cdf8a5101fd9e">
-    <head>Custodial History</head>
-<p>The Department Store and Office Workers' Organizing Collection was transferred from the Rand School Archives in 1963. The original donor to the Rand School is unknown.</p>  </custodhist>
-  <accessrestrict id="aspace_76691af7c4e4c1969547c491be0efb4a">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <bioghist id="aspace_f4cc16369de265fdca9ecf0ae0336925">
-    <head>Historical/Biographical Note</head>
-<p>Efforts to unionize New York City department store employees in the 1930s took place under the auspices of the Department Store Employees Union, Local 1250, at first affiliated with the American Federation of Labor. The local became a CIO affiliate in 1937 and later expanded into Retail, Wholesale and Department Store Union. The Office Workers' Union, a Communist Party labor initiative and an affiliate of the Trade Union Unity League, also organized workers in department stores, as well as clerical staff in a variety of businesses including newspapers, insurance and mail order companies.</p>  </bioghist>
-  <scopecontent id="aspace_10bf1dee26bfff07b8d230f20e3b6d8a">
-    <head>Scope and Content Note</head>
-<p>The collection contains pamphlets, leaflets, newsletters and clippings relating to sit-down strikes, department store and office workers strikes and organizing in the 1930s. Also included is printed material from the Office Workers' Union and the Department Store Employees Union, Local 1250 including some agreements. General information on AFL and CIO unions, TUUL strikes, sit-down strikes, coal strikes, and longshoremen's strikes in California and Hawaii is also included.</p>  </scopecontent>
-  <arrangement id="aspace_08a231b8516741428a3b71274102be20">
-    <head>Arrangement</head>
-<p>The folders are arranged alphabetically.</p><p>The files are grouped into one series:</p>    <list type="ordered">
-      <head>Missing Title</head>
-      <item>I, General Files</item>
-    </list>
-  </arrangement>
-  <userestrict id="aspace_c53a208b1df8172fcd56f54b348a50e6">
-    <head>Conditions Governing Use</head>
-<p>The Tamiment Library has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1916 to 1947, are expected to enter the public domain in 2068.</p>  </userestrict>
-  <prefercite id="aspace_1208c9bd5ca8c785feb78c5554fc01f5">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
-  <acqinfo id="aspace_e8609659b592adf774543272ad0f45b1">
-    <head>Immediate Source of Acquisition</head>
-<p>Transfer from the Rand School Archives, 1963. The accession number associated with this collection is 1963.002</p>  </acqinfo>
-  <controlaccess>
-    <genreform source="aat">Pamphlets.</genreform>
-    <genreform source="aat">Collective labor agreements.</genreform>
-    <genreform source="aat">Newsletters.</genreform>
-    <genreform source="aat">Clippings (information artifacts)</genreform>
-    <subject source="lcsh">Strikes and lockouts |x Retail trade |z New York (State) |z New York.</subject>
-    <subject source="lcsh">Labor unions and communism -- New York (State) -- New York.</subject>
-    <subject source="lcsh">Labor unions -- Organizing -- New York (N.Y.)</subject>
-    <subject source="lcsh">Sit-down strikes |z New York (State) |z New York.</subject>
-    <subject source="lcsh">Department stores -- Employees -- Labor unions -- New York (State) -- New York</subject>
-    <corpname authfilenumber="(lccn)n88657420" role="dnr" source="naf">Rand School of Social Science</corpname>
-    <corpname authfilenumber="(lccn)n83228857" source="naf">Trade Union Unity League (U.S.)</corpname>
-    <corpname source="local">Office Workers' Union</corpname>
-    <corpname source="naf">Retail, Wholesale and Department Store Union</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_ref13" level="series"><did><unittitle>Series I: General Files.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref14" level="file"><did><unittitle>American Federation of Labor: Statistics, Programs, Bibliography</unittitle><unitdate datechar="creation" normal="1930/1939" type="inclusive">1930-1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_6bb81a678bdcd58795d490faf9f4834d" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_c3b47625869417b031ab864290bad18e" parent="aspace_6bb81a678bdcd58795d490faf9f4834d" type="Folder">1</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Communist Party: <emph render="italic">Ohracle</emph> (Ohrbach's employees newsletter)</unittitle><unitdate datechar="creation">May 1936</unitdate><container altrender="Manuscript box - Legal" id="aspace_93af077d0c48b7111704704c7fe3d81d" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_4eeec2fd6f8790bd6f27d2d8d6541557" parent="aspace_93af077d0c48b7111704704c7fe3d81d" type="Folder">2</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Congress of Industrial Organizations and Independent Unions: Affiliation Listings</unittitle><unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_442cae67a6d7a7eaf47b4bf9812e6de3" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_fc4868ef2a4a548a8e23a1bf9d01f163" parent="aspace_442cae67a6d7a7eaf47b4bf9812e6de3" type="Folder">3</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Department Store Employees Union, Local 1250: 1250 <emph render="italic">Organizer</emph> (newsletter)</unittitle><unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_433ac171bd967452ecff43bfd85bbffe" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_8e5b4592cc9174c109d55962ae20e01c" parent="aspace_433ac171bd967452ecff43bfd85bbffe" type="Folder">4</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Department Store Employees Union, Local 1250: A &amp; S Chapter - <emph render="italic">A &amp; S Beacon</emph> (newsletter)</unittitle><unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_5d6869a7a54fc6ae478f922fc7a04a32" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_10c86b79aa45c0757b3b91cee166ac3b" parent="aspace_5d6869a7a54fc6ae478f922fc7a04a32" type="Folder">5</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Department Store Employees Union, Local 1250: <emph render="italic">Bulletin</emph> (newsletter)</unittitle><unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_6ed63b0eaa0b188d301d763eae36c67a" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_f5a4178017a9b10f80244b70233c755f" parent="aspace_6ed63b0eaa0b188d301d763eae36c67a" type="Folder">6</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Department Store Employees Union, Local 1250: General Correspondence and Contracts</unittitle><unitdate datechar="creation" normal="1937/1941" type="inclusive">1937-1941</unitdate><container altrender="Manuscript box - Legal" id="aspace_7be466b02ae1f38c07743a405dd987f9" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_cfea9153773f4e87b5def7660ecef761" parent="aspace_7be466b02ae1f38c07743a405dd987f9" type="Folder">7</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Department Store Employees Union, Local 1250: Hearn's Department Stores Contracts</unittitle><unitdate datechar="creation" normal="1935/1937" type="inclusive">1935 , 1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_fc5485c64fab38af38562c02ee6c081b" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_c72ebeb05ffdb204108cee933fdcfc4e" parent="aspace_fc5485c64fab38af38562c02ee6c081b" type="Folder">8</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Department Store Employees Union, Local 1250: Leaflets</unittitle><unitdate datechar="creation" normal="1916/1947" type="inclusive">undated , 1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_013174040d337b0919d9e03f3012d3f8" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_10b0ea328613bd74eddd60a653fcebde" parent="aspace_013174040d337b0919d9e03f3012d3f8" type="Folder">9</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Department Store Employees Union, Local 1250: Macy's Chapter - <emph render="italic">R.H. Macy Unionizer</emph> (newsletter)</unittitle><unitdate datechar="creation" normal="1936/1936" type="inclusive">1936</unitdate><container altrender="Manuscript box - Legal" id="aspace_1e3993bf1a34bf4146ad02e2e792dc03" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_72e78a2ee830b221f2c6302ba0d4a2c5" parent="aspace_1e3993bf1a34bf4146ad02e2e792dc03" type="Folder">10</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Department Store Employees Union, Local 1250: Newspaper Clippings</unittitle><unitdate datechar="creation" normal="1934/1940" type="inclusive">1934-1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_13ab0f472abd94dd82f65313354ebbf7" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_d55bfa031f794bfd7318c7ca8f9b6610" parent="aspace_13ab0f472abd94dd82f65313354ebbf7" type="Folder">11</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Department Store Employees Union, Local 1250: Ohrbach's - Ben Goodman Case</unittitle><unitdate datechar="creation" normal="1936/1936" type="inclusive">1936</unitdate><container altrender="Manuscript box - Legal" id="aspace_67d4863eba96b85bd1733ab4377376c1" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_5603cbd5a53f7b0120f7446bede56bd3" parent="aspace_67d4863eba96b85bd1733ab4377376c1" type="Folder">12</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Department Store Employees Union, Local 1250: Pitkin Avenue Woolworth, 5310 Chapter - <emph render="italic">1250 Chain</emph> (newsletter)</unittitle><unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_5bed80e342dcafc996b2b106c47b9427" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_90ca06ae938cb8cfbe48eccfac3b19ef" parent="aspace_5bed80e342dcafc996b2b106c47b9427" type="Folder">13</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Department Store Employees Union, Local 1250: Stern Chapter - <emph render="italic">Stern News</emph> (newsletter)</unittitle><unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_fbe1b40da8d6e65dd912fa2b2dc7da26" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_bcbe2923e6a741320d45fc0a63cf4bc0" parent="aspace_fbe1b40da8d6e65dd912fa2b2dc7da26" type="Folder">14</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Department Stores: Organizing Information</unittitle><unitdate datechar="creation" normal="1916/1947" type="inclusive">undated , 1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_3e909965e0802605586f232230479477" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_5e8e9527b4071403d92721b325039acf" parent="aspace_3e909965e0802605586f232230479477" type="Folder">15</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Labor Research Association: "Labor Developments in 1940"</unittitle><unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_d902a9f94934cea1675e84e3059b6546" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_ba452fee8f767f760535f55d61deed78" parent="aspace_d902a9f94934cea1675e84e3059b6546" type="Folder">16</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>National Industrial Conference Board and National Negro Congress</unittitle><unitdate datechar="creation" normal="1938/1941" type="inclusive">1938 , 1941</unitdate><container altrender="Manuscript box - Legal" id="aspace_462659630ea907a9bf4ee7b9d87c5d7a" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_f4b8bbadbb4886f9c2ecbd0c56e493b8" parent="aspace_462659630ea907a9bf4ee7b9d87c5d7a" type="Folder">17</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>National Recovery Administration: <emph render="italic">Code of Fair Competition for the Retail Trade</emph></unittitle><unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate><container altrender="Manuscript box - Legal" id="aspace_51973a5fd8d1978a9202e660a34dd29c" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_3a174c04a8e28374d792c36b2a35e0c5" parent="aspace_51973a5fd8d1978a9202e660a34dd29c" type="Folder">18</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>New Era Retail Clerks Union of America: Meeting Notice</unittitle><unitdate datechar="creation">May 1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_bc8ffbed1d8117dfbc0c5f9266893095" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_a7c7f86beac9d99f84613e738628f1ea" parent="aspace_bc8ffbed1d8117dfbc0c5f9266893095" type="Folder">19</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Office Workers' Union: Clippings</unittitle><unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_cf68512b64f20d5f635d4e7a1087cde1" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_0ee45319e9820aade239ada01f8125ae" parent="aspace_cf68512b64f20d5f635d4e7a1087cde1" type="Folder">20</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Office Workers' Union: Leaflets</unittitle><unitdate datechar="creation" normal="1916/1947" type="inclusive">undated , 1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_70feaca4ad3a9d280f59ced88eb895d5" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_f7b76ce48d5c8889217fa50abfec4619" parent="aspace_70feaca4ad3a9d280f59ced88eb895d5" type="Folder">21</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Office Workers' Union: <emph render="italic">Office Worker</emph> (newsletter)</unittitle><unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_fcbd452376ab2cfe4e34ab24aa38f6fa" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_e61d66c8725261d4e76df871b5a03aee" parent="aspace_fcbd452376ab2cfe4e34ab24aa38f6fa" type="Folder">22</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Office Workers' Union, Accountants Section: Leaflets</unittitle><unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_58ef21e9fd4028fe68abc5371a327f95" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_e1364ee5f89c5374daedd971ca794a7d" parent="aspace_58ef21e9fd4028fe68abc5371a327f95" type="Folder">23</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Office Workers' Union, Department Store Section: A &amp; S Local - <emph render="italic">We Declare</emph> (newsletter)</unittitle><unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_9fb1c78b57a6ae534fa5365c86427279" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_1a1adcfa3a26d419b325c3678641d48e" parent="aspace_9fb1c78b57a6ae534fa5365c86427279" type="Folder">24</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Office Workers' Union, Department Store Section: Bloomingdale's Local - <emph render="italic">Bloomingdale's Own Brand</emph> (newsletter)</unittitle><unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_63c25a7318eefb24a1c1324b84e325d4" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_c95f8e0e95f1213dfbeb6e2df0b9a6ba" parent="aspace_63c25a7318eefb24a1c1324b84e325d4" type="Folder">25</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Office Workers' Union, Department Store Section: Gimbel Local (Leaflets)</unittitle><unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_23a45337a5ea0cd36256c009549cbfd5" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_6259ad482ae23b4ff4ce5da633e11e99" parent="aspace_23a45337a5ea0cd36256c009549cbfd5" type="Folder">26</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Office Workers' Union, Department Store Section: Hearn Local (Leaflets)</unittitle><unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_e87a2fe7ee3759e701a9223c91cb4fb9" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_7ee3fbd8ca6e6bf735fd2c7bf77ae8a5" parent="aspace_e87a2fe7ee3759e701a9223c91cb4fb9" type="Folder">27</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Office Workers' Union, Department Store Section: Klein Local (Leaflets)</unittitle><unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_0afd6b47e863fa40de72fd65ed1a583b" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_0fa25cd06d7f1cf76d359eea47ac1a32" parent="aspace_0afd6b47e863fa40de72fd65ed1a583b" type="Folder">28</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Office Workers' Union, Department Store Section: Leaflets</unittitle><unitdate datechar="creation" normal="1916/1947" type="inclusive">undated , 1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_1e97d665f7c434bbc458fecf982c3a5c" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_22a6c091826db6f3d0b7c1a23662cde4" parent="aspace_1e97d665f7c434bbc458fecf982c3a5c" type="Folder">29</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Office Workers' Union, Department Store Section: Lerner Group (Leaflets)</unittitle><unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_2e05e4f6c75f148dc4f7848694dd85f5" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_6aecc4c5118cb8b412c0f46eacd44199" parent="aspace_2e05e4f6c75f148dc4f7848694dd85f5" type="Folder">30</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Office Workers' Union, Department Store Section: Lerner Group - <emph render="italic">Lerner Worker</emph> (newsletter)</unittitle><unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_a632079af1c05975b7672b97437dd577" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_2841408571d398e868cb9fdb28c9eb0c" parent="aspace_a632079af1c05975b7672b97437dd577" type="Folder">31</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Office Workers' Union, Department Store Section: Macy Group (Leaflets &amp; Newspaper Clippings)</unittitle><unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_5fe508ab2792c2f56420c92f475a29c4" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_beed1d9bf2ffd7ddffd1e3fc5a878550" parent="aspace_5fe508ab2792c2f56420c92f475a29c4" type="Folder">32</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Office Workers' Union, Department Store Section: Macy Group - <emph render="italic">The Macy Worker </emph>(newsletter)</unittitle><unitdate datechar="creation" normal="1932/1935" type="inclusive">1932-1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_b6230f727b1819d9a63894c812a5ec58" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_3c33de304b36158418603fa8a04ed9a3" parent="aspace_b6230f727b1819d9a63894c812a5ec58" type="Folder">33</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Office Workers' Union, Department Store Section: Martin's Local - <emph render="italic">Martin's Events </emph>(newsletter)</unittitle><unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_1b32c453c339826b05d8823445eab5a2" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_e66934d85c8b8bbc222fa82283711759" parent="aspace_1b32c453c339826b05d8823445eab5a2" type="Folder">34</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Office Workers' Union, Department Store Section: Namm Local (Leaflets)</unittitle><unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_d0d594e7eab7089ea3d8c3e4c8164f03" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_85d82e5c172165dbab08889ed3822b6f" parent="aspace_d0d594e7eab7089ea3d8c3e4c8164f03" type="Folder">35</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Office Workers' Union, Department Store Section: Ohrbach Local (Leaflets)</unittitle><unitdate datechar="creation" normal="1916/1947" type="inclusive">undated , 1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_34e10f9f6f760f21118395186cb983c5" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_5e43d67a722ef14123e1b67e2a5161e7" parent="aspace_34e10f9f6f760f21118395186cb983c5" type="Folder">36</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Office Workers' Union, Department Store Section: Ohrbach Local - <emph render="italic">The Green Box Moves On</emph> (newsletter)</unittitle><unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_46b6e8f3ffdf362d1e53ac3f7bdac6fc" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_1265a63fa6c3082aa9e8cda6b37cc2a8" parent="aspace_46b6e8f3ffdf362d1e53ac3f7bdac6fc" type="Folder">37</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Office Workers' Union, Department Store Section: Petrie-Red Robin Local (Leaflets)</unittitle><unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_d5380bc4cafbc729838a09b6a6c824c3" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_1e3e328d1dfe68403165ebb003d3c052" parent="aspace_d5380bc4cafbc729838a09b6a6c824c3" type="Folder">38</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Office Workers' Union, Dry Goods Section: Leaflets</unittitle><unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_5a0eeac87f63ad99c6d784e2a6aeb128" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_4e94b2b6c5a563077e93e7c122e6c65e" parent="aspace_5a0eeac87f63ad99c6d784e2a6aeb128" type="Folder">39</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Office Workers' Union, Industrial Agents Chapter: Leaflets</unittitle><unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_075fc39f9a4948c67b3b431b727d8b88" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_893c1a239d6d511fe291116a6dc6fc59" parent="aspace_075fc39f9a4948c67b3b431b727d8b88" type="Folder">40</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Office Workers' Union, Insurance Chapter: Leaflets</unittitle><unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_98e8aa01f284f92ce8054282c8a3dcf8" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_3b4295ecf218944d4acda5dec3e3c3e4" parent="aspace_98e8aa01f284f92ce8054282c8a3dcf8" type="Folder">41</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Office Workers' Union: <emph render="italic">Jewish Morning Journal</emph> Strike (Leaflets)</unittitle><unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_c24ced7076e1328e02154c88e056c81d" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_c19b812409b958cab6f76156a19cf7e1" parent="aspace_c24ced7076e1328e02154c88e056c81d" type="Folder">42</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Office Workers' Union, Literary Trades Section: <emph render="italic">American Mercury</emph> Strike (Leaflets)</unittitle><unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_3905f03ef4790caa16081bc2e8d1cb0c" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_d4438b0248bf308fb287d81f204d28f9" parent="aspace_3905f03ef4790caa16081bc2e8d1cb0c" type="Folder">43</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Office Workers' Union, National Bellas Hess Section: Leaflet</unittitle><unitdate datechar="creation" normal="1931/1931" type="inclusive">1931</unitdate><container altrender="Manuscript box - Legal" id="aspace_bea1cd9cd6226c20f3743b2a5f8cf791" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_d05d14b7fc484b80dd80cc5ca16761a6" parent="aspace_bea1cd9cd6226c20f3743b2a5f8cf791" type="Folder">44</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Office Workers' Union, Newspaper Section: Leaflets</unittitle><unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_29509dbcaad82bf11038d1f9f6389795" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_0f63400faa37c67957e4d8ffb3714eee" parent="aspace_29509dbcaad82bf11038d1f9f6389795" type="Folder">45</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Office Workers' Union, Receiving Department Workers Section: <emph render="italic">Receiving News</emph> (newsletter)</unittitle><unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_113bf268890666445e982343b7511b65" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_bc9fc0a5e891692d38f68bf2f2b76285" parent="aspace_113bf268890666445e982343b7511b65" type="Folder">46</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Office Workers' Union, Wall Street Section: Leaflets</unittitle><unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_dbe128e0094ab38e3528fef5c9368f9f" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_9a37c95c7bf62eb2a99d6f227df6b1b9" parent="aspace_dbe128e0094ab38e3528fef5c9368f9f" type="Folder">47</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>Retail Clerks International Protective Association (AFL)</unittitle><unitdate datechar="creation" normal="1936/1937" type="inclusive">1936-1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_7b70c22aaed9093d20efe7c8035e1f92" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_34f4407cb2339d6c398da6d7e926c574" parent="aspace_7b70c22aaed9093d20efe7c8035e1f92" type="Folder">48</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>San Francisco Department Store Strike: Statistics and History</unittitle><unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_d3faca33fb7cc9ba435bcc375a16661f" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_96ec1b6444542294e7b72a3d7c2b5bcc" parent="aspace_d3faca33fb7cc9ba435bcc375a16661f" type="Folder">49</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>Sit-Down Strikes: Bibliographies and Outline for Study</unittitle><unitdate datechar="creation" normal="1930/1939" type="inclusive">1930s</unitdate><container altrender="Manuscript box - Legal" id="aspace_12de1046937b9dff7166fc1df7a2640b" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_ebb8d0d059fadfb4a369be6efb4c6f61" parent="aspace_12de1046937b9dff7166fc1df7a2640b" type="Folder">50</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>Sit-Down Strikes: House of Representatives, Resolutions and Remarks</unittitle><unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_477e34a78cdcd371f7f4cb9705fd4bbe" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_96f3c226ad5354283af2d514599e8ad2" parent="aspace_477e34a78cdcd371f7f4cb9705fd4bbe" type="Folder">51</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Sit-Down Strikes: Legal Opinions</unittitle><unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_8e1a6a58bfee00f0501f5eac2e97a776" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_ae46640df7a127eb11c5e04e26fae735" parent="aspace_8e1a6a58bfee00f0501f5eac2e97a776" type="Folder">52</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>Sit-Down Strikes: Papers</unittitle><unitdate datechar="creation" normal="1937/1938" type="inclusive">1937 , 1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_d9687a5ff5c9f94303a32788902587da" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_5ce347bcbd9fcac606db66da76d1b185" parent="aspace_d9687a5ff5c9f94303a32788902587da" type="Folder">53</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>Strikes</unittitle><unitdate datechar="creation" normal="1931/1931" type="inclusive">1931</unitdate><container altrender="Manuscript box - Legal" id="aspace_21b06dc258f783c7fcfecd7878a608c9" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_18e468017783c36b0549f5f32d6a1bd1" parent="aspace_21b06dc258f783c7fcfecd7878a608c9" type="Folder">54</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>Strikes</unittitle><unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate><container altrender="Manuscript box - Legal" id="aspace_ee79b42474b272d61e9322faf9022ae1" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_c3d0c6a1792e1acc89950d57783d7225" parent="aspace_ee79b42474b272d61e9322faf9022ae1" type="Folder">55</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Strikes</unittitle><unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate><container altrender="Manuscript box - Legal" id="aspace_193e7339cccc0901517c19659b9e8c54" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_2a2eb65607142628ebecff96a6aed3f0" parent="aspace_193e7339cccc0901517c19659b9e8c54" type="Folder">56</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Strikes</unittitle><unitdate datechar="creation" normal="1934/1934" type="inclusive">1934</unitdate><container altrender="Manuscript box - Legal" id="aspace_fd5eaf4cc8e7d78b8c0c1062be073820" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_61c23dcfc147f8bb7d679f903c52a79e" parent="aspace_fd5eaf4cc8e7d78b8c0c1062be073820" type="Folder">57</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Strikes</unittitle><unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_903a96027ee69f8dcc3c5c20dd2c0eb0" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_fd4da008534839e85d95e5517ebf2d8b" parent="aspace_903a96027ee69f8dcc3c5c20dd2c0eb0" type="Folder">58</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Strikes</unittitle><unitdate datechar="creation">Jan 1941-May 1941</unitdate><container altrender="Manuscript box - Legal" id="aspace_21d228ea481de3984aa71a5d44f6820b" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_f8a9dedacf00d48d2497c79d2115d6f0" parent="aspace_21d228ea481de3984aa71a5d44f6820b" type="Folder">59</container></did></c><c id="aspace_ref73" level="file"><did><unittitle>Strikes: Coal Workers</unittitle><unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_7a0a7836596eede7eb3edeec43620399" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_4e26729dcfa3b70170e66f2393d39995" parent="aspace_7a0a7836596eede7eb3edeec43620399" type="Folder">60</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>Strikes: Dock Workers of California and Hawaii</unittitle><unitdate datechar="creation" normal="1916/1916" type="inclusive">1916</unitdate><container altrender="Manuscript box - Legal" id="aspace_26108abc8f7322d0dae37f3465020897" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_19fc86c6fe5638f2c5731c7b01f568b0" parent="aspace_26108abc8f7322d0dae37f3465020897" type="Folder">61</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>Strikes: Red International of Labor Unions</unittitle><unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate><container altrender="Manuscript box - Legal" id="aspace_73791df2f91978c6b97b159363a186e4" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_031a4b49cd4b8929d944be7b97f7b921" parent="aspace_73791df2f91978c6b97b159363a186e4" type="Folder">62</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>Strikes: Newspaper Clippings (Ohrbach's and Klein's)</unittitle><unitdate datechar="creation" normal="1934/1935" type="inclusive">1934-1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_9f9755a5acabd3cb5cd272322ef2aede" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_e57c4a93d3f8dee9fff7addb7c62e5c5" parent="aspace_9f9755a5acabd3cb5cd272322ef2aede" type="Folder">63</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>Strikes: Trade Union Unity League</unittitle><unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate><container altrender="Manuscript box - Legal" id="aspace_b9b87a419334dcb5cca53ebb6e8c2008" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_5be8a4bf6b51f42290cad54a562b069b" parent="aspace_b9b87a419334dcb5cca53ebb6e8c2008" type="Folder">64</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>Strikes: White Collar and Professional Workers</unittitle><unitdate datechar="creation" normal="1934/1934" type="inclusive">1934-Mar 1936</unitdate><container altrender="Manuscript box - Legal" id="aspace_95f44217b5f5b7e29b14dcb8b8d4a925" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_2a13d485c3769b41f27fde7332d0aa76" parent="aspace_95f44217b5f5b7e29b14dcb8b8d4a925" type="Folder">65</container></did></c><c id="aspace_ref79" level="file"><did><unittitle>United Retail, Wholesale and Department Store Employees Union: Publications</unittitle><unitdate datechar="creation" normal="1945/1945" type="inclusive">1945</unitdate><container altrender="Manuscript box - Legal" id="aspace_0f8206fa0ed1b8d9d625020cf389fbaf" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_b11c892fed9fd9219443dd0b50c89d4e" parent="aspace_0f8206fa0ed1b8d9d625020cf389fbaf" type="Folder">66</container></did></c><c id="aspace_ref80" level="file"><did><unittitle>Works Progress Administration: Union Protests against Curtailment Program</unittitle><unitdate datechar="creation" normal="1936/1937" type="inclusive">1936-1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_1058bdc04bd3ba0c783e7c848eacb673" label="Mixed Materials [31142062884849]" type="Box">1</container><container id="aspace_548fd57c4923ef03f859303ef3be1706" parent="aspace_1058bdc04bd3ba0c783e7c848eacb673" type="Folder">67</container></did></c></c></dsc>
-</archdesc>
+    </did>
+    <custodhist id="aspace_35891c6f5abcff394e5cdf8a5101fd9e">
+      <head>Custodial History</head>
+      <p>The Department Store and Office Workers' Organizing Collection was transferred from the Rand School Archives in 1963. The original donor to the Rand School is unknown.</p>
+    </custodhist>
+    <accessrestrict id="aspace_76691af7c4e4c1969547c491be0efb4a">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <bioghist id="aspace_f4cc16369de265fdca9ecf0ae0336925">
+      <head>Historical/Biographical Note</head>
+      <p>Efforts to unionize New York City department store employees in the 1930s took place under the auspices of the Department Store Employees Union, Local 1250, at first affiliated with the American Federation of Labor. The local became a CIO affiliate in 1937 and later expanded into Retail, Wholesale and Department Store Union. The Office Workers' Union, a Communist Party labor initiative and an affiliate of the Trade Union Unity League, also organized workers in department stores, as well as clerical staff in a variety of businesses including newspapers, insurance and mail order companies.</p>
+    </bioghist>
+    <scopecontent id="aspace_10bf1dee26bfff07b8d230f20e3b6d8a">
+      <head>Scope and Content Note</head>
+      <p>The collection contains pamphlets, leaflets, newsletters and clippings relating to sit-down strikes, department store and office workers strikes and organizing in the 1930s. Also included is printed material from the Office Workers' Union and the Department Store Employees Union, Local 1250 including some agreements. General information on AFL and CIO unions, TUUL strikes, sit-down strikes, coal strikes, and longshoremen's strikes in California and Hawaii is also included.</p>
+    </scopecontent>
+    <arrangement id="aspace_08a231b8516741428a3b71274102be20">
+      <head>Arrangement</head>
+      <p>The folders are arranged alphabetically.</p>
+      <p>The files are grouped into one series:</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>I, General Files</item>
+      </list>
+    </arrangement>
+    <userestrict id="aspace_c53a208b1df8172fcd56f54b348a50e6">
+      <head>Conditions Governing Use</head>
+      <p>The Tamiment Library has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1916 to 1947, are expected to enter the public domain in 2068.</p>
+    </userestrict>
+    <prefercite id="aspace_1208c9bd5ca8c785feb78c5554fc01f5">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <acqinfo id="aspace_e8609659b592adf774543272ad0f45b1">
+      <head>Immediate Source of Acquisition</head>
+      <p>Transfer from the Rand School Archives, 1963. The accession number associated with this collection is 1963.002</p>
+    </acqinfo>
+    <controlaccess>
+      <genreform source="aat">Pamphlets.</genreform>
+      <genreform source="aat">Collective labor agreements.</genreform>
+      <genreform source="aat">Newsletters.</genreform>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <subject source="lcsh">Strikes and lockouts |x Retail trade |z New York (State) |z New York.</subject>
+      <subject source="lcsh">Labor unions and communism -- New York (State) -- New York.</subject>
+      <subject source="lcsh">Labor unions -- Organizing -- New York (N.Y.)</subject>
+      <subject source="lcsh">Sit-down strikes |z New York (State) |z New York.</subject>
+      <subject source="lcsh">Department stores -- Employees -- Labor unions -- New York (State) -- New York</subject>
+      <corpname authfilenumber="(lccn)n88657420" role="dnr" source="naf">Rand School of Social Science</corpname>
+      <corpname authfilenumber="(lccn)n83228857" source="naf">Trade Union Unity League (U.S.)</corpname>
+      <corpname source="local">Office Workers' Union</corpname>
+      <corpname source="naf">Retail, Wholesale and Department Store Union</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref13" level="series">
+        <did>
+          <unittitle>Series I: General Files.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>American Federation of Labor: Statistics, Programs, Bibliography</unittitle>
+            <unitdate datechar="creation" normal="1930/1939" type="inclusive">1930-1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6bb81a678bdcd58795d490faf9f4834d" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_c3b47625869417b031ab864290bad18e" parent="aspace_6bb81a678bdcd58795d490faf9f4834d" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Communist Party: <emph render="italic">Ohracle</emph> (Ohrbach's employees newsletter)</unittitle>
+            <unitdate datechar="creation">May 1936</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_93af077d0c48b7111704704c7fe3d81d" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_4eeec2fd6f8790bd6f27d2d8d6541557" parent="aspace_93af077d0c48b7111704704c7fe3d81d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Congress of Industrial Organizations and Independent Unions: Affiliation Listings</unittitle>
+            <unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_442cae67a6d7a7eaf47b4bf9812e6de3" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_fc4868ef2a4a548a8e23a1bf9d01f163" parent="aspace_442cae67a6d7a7eaf47b4bf9812e6de3" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Department Store Employees Union, Local 1250: 1250 <emph render="italic">Organizer</emph> (newsletter)</unittitle>
+            <unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_433ac171bd967452ecff43bfd85bbffe" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_8e5b4592cc9174c109d55962ae20e01c" parent="aspace_433ac171bd967452ecff43bfd85bbffe" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Department Store Employees Union, Local 1250: A &amp; S Chapter - <emph render="italic">A &amp; S Beacon</emph> (newsletter)</unittitle>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5d6869a7a54fc6ae478f922fc7a04a32" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_10c86b79aa45c0757b3b91cee166ac3b" parent="aspace_5d6869a7a54fc6ae478f922fc7a04a32" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Department Store Employees Union, Local 1250: <emph render="italic">Bulletin</emph> (newsletter)</unittitle>
+            <unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6ed63b0eaa0b188d301d763eae36c67a" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_f5a4178017a9b10f80244b70233c755f" parent="aspace_6ed63b0eaa0b188d301d763eae36c67a" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Department Store Employees Union, Local 1250: General Correspondence and Contracts</unittitle>
+            <unitdate datechar="creation" normal="1937/1941" type="inclusive">1937-1941</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7be466b02ae1f38c07743a405dd987f9" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_cfea9153773f4e87b5def7660ecef761" parent="aspace_7be466b02ae1f38c07743a405dd987f9" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Department Store Employees Union, Local 1250: Hearn's Department Stores Contracts</unittitle>
+            <unitdate datechar="creation" normal="1935/1937" type="inclusive">1935 , 1937</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fc5485c64fab38af38562c02ee6c081b" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_c72ebeb05ffdb204108cee933fdcfc4e" parent="aspace_fc5485c64fab38af38562c02ee6c081b" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Department Store Employees Union, Local 1250: Leaflets</unittitle>
+            <unitdate datechar="creation" normal="1916/1947" type="inclusive">undated , 1937</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_013174040d337b0919d9e03f3012d3f8" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_10b0ea328613bd74eddd60a653fcebde" parent="aspace_013174040d337b0919d9e03f3012d3f8" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Department Store Employees Union, Local 1250: Macy's Chapter - <emph render="italic">R.H. Macy Unionizer</emph> (newsletter)</unittitle>
+            <unitdate datechar="creation" normal="1936/1936" type="inclusive">1936</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1e3993bf1a34bf4146ad02e2e792dc03" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_72e78a2ee830b221f2c6302ba0d4a2c5" parent="aspace_1e3993bf1a34bf4146ad02e2e792dc03" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Department Store Employees Union, Local 1250: Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1934/1940" type="inclusive">1934-1940</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_13ab0f472abd94dd82f65313354ebbf7" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_d55bfa031f794bfd7318c7ca8f9b6610" parent="aspace_13ab0f472abd94dd82f65313354ebbf7" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Department Store Employees Union, Local 1250: Ohrbach's - Ben Goodman Case</unittitle>
+            <unitdate datechar="creation" normal="1936/1936" type="inclusive">1936</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_67d4863eba96b85bd1733ab4377376c1" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_5603cbd5a53f7b0120f7446bede56bd3" parent="aspace_67d4863eba96b85bd1733ab4377376c1" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Department Store Employees Union, Local 1250: Pitkin Avenue Woolworth, 5310 Chapter - <emph render="italic">1250 Chain</emph> (newsletter)</unittitle>
+            <unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5bed80e342dcafc996b2b106c47b9427" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_90ca06ae938cb8cfbe48eccfac3b19ef" parent="aspace_5bed80e342dcafc996b2b106c47b9427" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Department Store Employees Union, Local 1250: Stern Chapter - <emph render="italic">Stern News</emph> (newsletter)</unittitle>
+            <unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fbe1b40da8d6e65dd912fa2b2dc7da26" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_bcbe2923e6a741320d45fc0a63cf4bc0" parent="aspace_fbe1b40da8d6e65dd912fa2b2dc7da26" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Department Stores: Organizing Information</unittitle>
+            <unitdate datechar="creation" normal="1916/1947" type="inclusive">undated , 1937</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3e909965e0802605586f232230479477" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_5e8e9527b4071403d92721b325039acf" parent="aspace_3e909965e0802605586f232230479477" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Labor Research Association: "Labor Developments in 1940"</unittitle>
+            <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d902a9f94934cea1675e84e3059b6546" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_ba452fee8f767f760535f55d61deed78" parent="aspace_d902a9f94934cea1675e84e3059b6546" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>National Industrial Conference Board and National Negro Congress</unittitle>
+            <unitdate datechar="creation" normal="1938/1941" type="inclusive">1938 , 1941</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_462659630ea907a9bf4ee7b9d87c5d7a" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_f4b8bbadbb4886f9c2ecbd0c56e493b8" parent="aspace_462659630ea907a9bf4ee7b9d87c5d7a" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>National Recovery Administration: <emph render="italic">Code of Fair Competition for the Retail Trade</emph></unittitle>
+            <unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_51973a5fd8d1978a9202e660a34dd29c" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_3a174c04a8e28374d792c36b2a35e0c5" parent="aspace_51973a5fd8d1978a9202e660a34dd29c" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>New Era Retail Clerks Union of America: Meeting Notice</unittitle>
+            <unitdate datechar="creation">May 1937</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bc8ffbed1d8117dfbc0c5f9266893095" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_a7c7f86beac9d99f84613e738628f1ea" parent="aspace_bc8ffbed1d8117dfbc0c5f9266893095" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Office Workers' Union: Clippings</unittitle>
+            <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cf68512b64f20d5f635d4e7a1087cde1" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_0ee45319e9820aade239ada01f8125ae" parent="aspace_cf68512b64f20d5f635d4e7a1087cde1" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Office Workers' Union: Leaflets</unittitle>
+            <unitdate datechar="creation" normal="1916/1947" type="inclusive">undated , 1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_70feaca4ad3a9d280f59ced88eb895d5" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_f7b76ce48d5c8889217fa50abfec4619" parent="aspace_70feaca4ad3a9d280f59ced88eb895d5" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Office Workers' Union: <emph render="italic">Office Worker</emph> (newsletter)</unittitle>
+            <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fcbd452376ab2cfe4e34ab24aa38f6fa" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_e61d66c8725261d4e76df871b5a03aee" parent="aspace_fcbd452376ab2cfe4e34ab24aa38f6fa" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Office Workers' Union, Accountants Section: Leaflets</unittitle>
+            <unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_58ef21e9fd4028fe68abc5371a327f95" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_e1364ee5f89c5374daedd971ca794a7d" parent="aspace_58ef21e9fd4028fe68abc5371a327f95" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Office Workers' Union, Department Store Section: A &amp; S Local - <emph render="italic">We Declare</emph> (newsletter)</unittitle>
+            <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9fb1c78b57a6ae534fa5365c86427279" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_1a1adcfa3a26d419b325c3678641d48e" parent="aspace_9fb1c78b57a6ae534fa5365c86427279" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Office Workers' Union, Department Store Section: Bloomingdale's Local - <emph render="italic">Bloomingdale's Own Brand</emph> (newsletter)</unittitle>
+            <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_63c25a7318eefb24a1c1324b84e325d4" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_c95f8e0e95f1213dfbeb6e2df0b9a6ba" parent="aspace_63c25a7318eefb24a1c1324b84e325d4" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Office Workers' Union, Department Store Section: Gimbel Local (Leaflets)</unittitle>
+            <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_23a45337a5ea0cd36256c009549cbfd5" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_6259ad482ae23b4ff4ce5da633e11e99" parent="aspace_23a45337a5ea0cd36256c009549cbfd5" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Office Workers' Union, Department Store Section: Hearn Local (Leaflets)</unittitle>
+            <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e87a2fe7ee3759e701a9223c91cb4fb9" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_7ee3fbd8ca6e6bf735fd2c7bf77ae8a5" parent="aspace_e87a2fe7ee3759e701a9223c91cb4fb9" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Office Workers' Union, Department Store Section: Klein Local (Leaflets)</unittitle>
+            <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0afd6b47e863fa40de72fd65ed1a583b" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_0fa25cd06d7f1cf76d359eea47ac1a32" parent="aspace_0afd6b47e863fa40de72fd65ed1a583b" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Office Workers' Union, Department Store Section: Leaflets</unittitle>
+            <unitdate datechar="creation" normal="1916/1947" type="inclusive">undated , 1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1e97d665f7c434bbc458fecf982c3a5c" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_22a6c091826db6f3d0b7c1a23662cde4" parent="aspace_1e97d665f7c434bbc458fecf982c3a5c" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Office Workers' Union, Department Store Section: Lerner Group (Leaflets)</unittitle>
+            <unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2e05e4f6c75f148dc4f7848694dd85f5" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_6aecc4c5118cb8b412c0f46eacd44199" parent="aspace_2e05e4f6c75f148dc4f7848694dd85f5" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Office Workers' Union, Department Store Section: Lerner Group - <emph render="italic">Lerner Worker</emph> (newsletter)</unittitle>
+            <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a632079af1c05975b7672b97437dd577" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_2841408571d398e868cb9fdb28c9eb0c" parent="aspace_a632079af1c05975b7672b97437dd577" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Office Workers' Union, Department Store Section: Macy Group (Leaflets &amp; Newspaper Clippings)</unittitle>
+            <unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5fe508ab2792c2f56420c92f475a29c4" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_beed1d9bf2ffd7ddffd1e3fc5a878550" parent="aspace_5fe508ab2792c2f56420c92f475a29c4" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Office Workers' Union, Department Store Section: Macy Group - <emph render="italic">The Macy Worker </emph>(newsletter)</unittitle>
+            <unitdate datechar="creation" normal="1932/1935" type="inclusive">1932-1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b6230f727b1819d9a63894c812a5ec58" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_3c33de304b36158418603fa8a04ed9a3" parent="aspace_b6230f727b1819d9a63894c812a5ec58" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Office Workers' Union, Department Store Section: Martin's Local - <emph render="italic">Martin's Events </emph>(newsletter)</unittitle>
+            <unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1b32c453c339826b05d8823445eab5a2" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_e66934d85c8b8bbc222fa82283711759" parent="aspace_1b32c453c339826b05d8823445eab5a2" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Office Workers' Union, Department Store Section: Namm Local (Leaflets)</unittitle>
+            <unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d0d594e7eab7089ea3d8c3e4c8164f03" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_85d82e5c172165dbab08889ed3822b6f" parent="aspace_d0d594e7eab7089ea3d8c3e4c8164f03" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Office Workers' Union, Department Store Section: Ohrbach Local (Leaflets)</unittitle>
+            <unitdate datechar="creation" normal="1916/1947" type="inclusive">undated , 1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_34e10f9f6f760f21118395186cb983c5" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_5e43d67a722ef14123e1b67e2a5161e7" parent="aspace_34e10f9f6f760f21118395186cb983c5" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Office Workers' Union, Department Store Section: Ohrbach Local - <emph render="italic">The Green Box Moves On</emph> (newsletter)</unittitle>
+            <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_46b6e8f3ffdf362d1e53ac3f7bdac6fc" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_1265a63fa6c3082aa9e8cda6b37cc2a8" parent="aspace_46b6e8f3ffdf362d1e53ac3f7bdac6fc" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Office Workers' Union, Department Store Section: Petrie-Red Robin Local (Leaflets)</unittitle>
+            <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d5380bc4cafbc729838a09b6a6c824c3" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_1e3e328d1dfe68403165ebb003d3c052" parent="aspace_d5380bc4cafbc729838a09b6a6c824c3" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Office Workers' Union, Dry Goods Section: Leaflets</unittitle>
+            <unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5a0eeac87f63ad99c6d784e2a6aeb128" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_4e94b2b6c5a563077e93e7c122e6c65e" parent="aspace_5a0eeac87f63ad99c6d784e2a6aeb128" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Office Workers' Union, Industrial Agents Chapter: Leaflets</unittitle>
+            <unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_075fc39f9a4948c67b3b431b727d8b88" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_893c1a239d6d511fe291116a6dc6fc59" parent="aspace_075fc39f9a4948c67b3b431b727d8b88" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Office Workers' Union, Insurance Chapter: Leaflets</unittitle>
+            <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_98e8aa01f284f92ce8054282c8a3dcf8" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_3b4295ecf218944d4acda5dec3e3c3e4" parent="aspace_98e8aa01f284f92ce8054282c8a3dcf8" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Office Workers' Union: <emph render="italic">Jewish Morning Journal</emph> Strike (Leaflets)</unittitle>
+            <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c24ced7076e1328e02154c88e056c81d" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_c19b812409b958cab6f76156a19cf7e1" parent="aspace_c24ced7076e1328e02154c88e056c81d" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Office Workers' Union, Literary Trades Section: <emph render="italic">American Mercury</emph> Strike (Leaflets)</unittitle>
+            <unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3905f03ef4790caa16081bc2e8d1cb0c" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_d4438b0248bf308fb287d81f204d28f9" parent="aspace_3905f03ef4790caa16081bc2e8d1cb0c" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Office Workers' Union, National Bellas Hess Section: Leaflet</unittitle>
+            <unitdate datechar="creation" normal="1931/1931" type="inclusive">1931</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bea1cd9cd6226c20f3743b2a5f8cf791" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_d05d14b7fc484b80dd80cc5ca16761a6" parent="aspace_bea1cd9cd6226c20f3743b2a5f8cf791" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Office Workers' Union, Newspaper Section: Leaflets</unittitle>
+            <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_29509dbcaad82bf11038d1f9f6389795" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_0f63400faa37c67957e4d8ffb3714eee" parent="aspace_29509dbcaad82bf11038d1f9f6389795" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Office Workers' Union, Receiving Department Workers Section: <emph render="italic">Receiving News</emph> (newsletter)</unittitle>
+            <unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_113bf268890666445e982343b7511b65" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_bc9fc0a5e891692d38f68bf2f2b76285" parent="aspace_113bf268890666445e982343b7511b65" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Office Workers' Union, Wall Street Section: Leaflets</unittitle>
+            <unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dbe128e0094ab38e3528fef5c9368f9f" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_9a37c95c7bf62eb2a99d6f227df6b1b9" parent="aspace_dbe128e0094ab38e3528fef5c9368f9f" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Retail Clerks International Protective Association (AFL)</unittitle>
+            <unitdate datechar="creation" normal="1936/1937" type="inclusive">1936-1937</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7b70c22aaed9093d20efe7c8035e1f92" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_34f4407cb2339d6c398da6d7e926c574" parent="aspace_7b70c22aaed9093d20efe7c8035e1f92" type="Folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>San Francisco Department Store Strike: Statistics and History</unittitle>
+            <unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d3faca33fb7cc9ba435bcc375a16661f" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_96ec1b6444542294e7b72a3d7c2b5bcc" parent="aspace_d3faca33fb7cc9ba435bcc375a16661f" type="Folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Sit-Down Strikes: Bibliographies and Outline for Study</unittitle>
+            <unitdate datechar="creation" normal="1930/1939" type="inclusive">1930s</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_12de1046937b9dff7166fc1df7a2640b" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_ebb8d0d059fadfb4a369be6efb4c6f61" parent="aspace_12de1046937b9dff7166fc1df7a2640b" type="Folder">50</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Sit-Down Strikes: House of Representatives, Resolutions and Remarks</unittitle>
+            <unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_477e34a78cdcd371f7f4cb9705fd4bbe" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_96f3c226ad5354283af2d514599e8ad2" parent="aspace_477e34a78cdcd371f7f4cb9705fd4bbe" type="Folder">51</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Sit-Down Strikes: Legal Opinions</unittitle>
+            <unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8e1a6a58bfee00f0501f5eac2e97a776" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_ae46640df7a127eb11c5e04e26fae735" parent="aspace_8e1a6a58bfee00f0501f5eac2e97a776" type="Folder">52</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Sit-Down Strikes: Papers</unittitle>
+            <unitdate datechar="creation" normal="1937/1938" type="inclusive">1937 , 1938</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d9687a5ff5c9f94303a32788902587da" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_5ce347bcbd9fcac606db66da76d1b185" parent="aspace_d9687a5ff5c9f94303a32788902587da" type="Folder">53</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Strikes</unittitle>
+            <unitdate datechar="creation" normal="1931/1931" type="inclusive">1931</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_21b06dc258f783c7fcfecd7878a608c9" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_18e468017783c36b0549f5f32d6a1bd1" parent="aspace_21b06dc258f783c7fcfecd7878a608c9" type="Folder">54</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Strikes</unittitle>
+            <unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ee79b42474b272d61e9322faf9022ae1" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_c3d0c6a1792e1acc89950d57783d7225" parent="aspace_ee79b42474b272d61e9322faf9022ae1" type="Folder">55</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Strikes</unittitle>
+            <unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_193e7339cccc0901517c19659b9e8c54" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_2a2eb65607142628ebecff96a6aed3f0" parent="aspace_193e7339cccc0901517c19659b9e8c54" type="Folder">56</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Strikes</unittitle>
+            <unitdate datechar="creation" normal="1934/1934" type="inclusive">1934</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fd5eaf4cc8e7d78b8c0c1062be073820" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_61c23dcfc147f8bb7d679f903c52a79e" parent="aspace_fd5eaf4cc8e7d78b8c0c1062be073820" type="Folder">57</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Strikes</unittitle>
+            <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_903a96027ee69f8dcc3c5c20dd2c0eb0" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_fd4da008534839e85d95e5517ebf2d8b" parent="aspace_903a96027ee69f8dcc3c5c20dd2c0eb0" type="Folder">58</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Strikes</unittitle>
+            <unitdate datechar="creation">Jan 1941-May 1941</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_21d228ea481de3984aa71a5d44f6820b" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_f8a9dedacf00d48d2497c79d2115d6f0" parent="aspace_21d228ea481de3984aa71a5d44f6820b" type="Folder">59</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Strikes: Coal Workers</unittitle>
+            <unitdate datechar="creation" normal="1916/1947" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7a0a7836596eede7eb3edeec43620399" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_4e26729dcfa3b70170e66f2393d39995" parent="aspace_7a0a7836596eede7eb3edeec43620399" type="Folder">60</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>Strikes: Dock Workers of California and Hawaii</unittitle>
+            <unitdate datechar="creation" normal="1916/1916" type="inclusive">1916</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_26108abc8f7322d0dae37f3465020897" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_19fc86c6fe5638f2c5731c7b01f568b0" parent="aspace_26108abc8f7322d0dae37f3465020897" type="Folder">61</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Strikes: Red International of Labor Unions</unittitle>
+            <unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_73791df2f91978c6b97b159363a186e4" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_031a4b49cd4b8929d944be7b97f7b921" parent="aspace_73791df2f91978c6b97b159363a186e4" type="Folder">62</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Strikes: Newspaper Clippings (Ohrbach's and Klein's)</unittitle>
+            <unitdate datechar="creation" normal="1934/1935" type="inclusive">1934-1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9f9755a5acabd3cb5cd272322ef2aede" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_e57c4a93d3f8dee9fff7addb7c62e5c5" parent="aspace_9f9755a5acabd3cb5cd272322ef2aede" type="Folder">63</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Strikes: Trade Union Unity League</unittitle>
+            <unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b9b87a419334dcb5cca53ebb6e8c2008" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_5be8a4bf6b51f42290cad54a562b069b" parent="aspace_b9b87a419334dcb5cca53ebb6e8c2008" type="Folder">64</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>Strikes: White Collar and Professional Workers</unittitle>
+            <unitdate datechar="creation" normal="1934/1934" type="inclusive">1934-Mar 1936</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_95f44217b5f5b7e29b14dcb8b8d4a925" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_2a13d485c3769b41f27fde7332d0aa76" parent="aspace_95f44217b5f5b7e29b14dcb8b8d4a925" type="Folder">65</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>United Retail, Wholesale and Department Store Employees Union: Publications</unittitle>
+            <unitdate datechar="creation" normal="1945/1945" type="inclusive">1945</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0f8206fa0ed1b8d9d625020cf389fbaf" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_b11c892fed9fd9219443dd0b50c89d4e" parent="aspace_0f8206fa0ed1b8d9d625020cf389fbaf" type="Folder">66</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>Works Progress Administration: Union Protests against Curtailment Program</unittitle>
+            <unitdate datechar="creation" normal="1936/1937" type="inclusive">1936-1937</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1058bdc04bd3ba0c783e7c848eacb673" label="Mixed Materials [31142062884849]" type="Box">1</container>
+            <container id="aspace_548fd57c4923ef03f859303ef3be1706" parent="aspace_1058bdc04bd3ba0c783e7c848eacb673" type="Folder">67</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

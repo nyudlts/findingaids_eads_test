@@ -1,86 +1,1010 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/aia_010">aia_010</eadid><filedesc><titlestmt><titleproper>Guide to the James J. Comerford Papers <num>AIA.010</num></titleproper><author>Rebecca Altermatt</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>12/22/2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 06:45:25 -0400</date>.</creation><langusage>Description is in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>James J. Comerford Papers</unittitle>
-    <origination label="Creator">
-      <persname source="local">Comerford, James J., 1901-1988</persname>
-    </origination>
-    <origination label="source">
-      <persname role="dnr" rules="dacs" source="local">Concannon, John</persname>
-    </origination>
-    <unitid>AIA.010</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">14.25 Linear Feet</extent>
-      <extent altrender="carrier">in 4 record cartons, 2 manuscript boxes, and 7 oversize flat boxes.</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1867/1985" type="inclusive">1867-1985</unitdate>
-    <abstract id="aspace_d5ec85674aedf15c73498ca564a92ace">James J. Comerford was a well-known lawyer and judge in New York City.  He also served as the Chair of the St. Patrick's Day Parade and Celebration Committee in New York City for 19 years.  A recognized historian, his manuscript entitled <emph render="italic">My Kilkenny I.R.A. Days 1916-1921</emph>, along with writings on the history of Ireland are included in the papers as is correspondence between Mr. Comerford and well-known politicians and other public figures in New York and the United States. Many files pertaining to his work in the Ancient Order of Hibernians are included in the collection.</abstract>
-    <physloc id="aspace_e91ba34708ab3a7df1c97346f843f1d9">Materials stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to research visit.</physloc>
-    <langmaterial id="aspace_0e50a7a86c3cef86c68636dc09015831">Materials are in English.  Some materials in Irish.</langmaterial>
-  </did>
-  <accessrestrict id="aspace_6e8af4e2f12597c2a2f1d8ecf8b3d9a2">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_9d518631d7749b0997ce75b5811ccdf5">
-    <head>Immediate Source of Acquisition</head>
-<p>The James J. Comerford Papers were donated to the Archives of Irish America in 2004 by John Concannon.  The accession number associated with this collection is 1997.051.</p>  </acqinfo>
-  <arrangement id="aspace_444ffb8f73bc776f7245c2d088fcbbac">
-    <head>Arrangement</head>
-<p>The collection is organized into three series. Folders are arranged alphabetically.</p>    <list type="ordered">
-      <head>Missing Title</head>
-      <item>Series I. Papers and Correspondence, 1867-1985</item>
-      <item>Series II. Photographs, 1957-1970, undated</item>
-      <item>Series III. Realia, 1953-1982</item>
-    </list>
-  </arrangement>
-  <bioghist id="aspace_1581b195f0fe6bb782b4f59c95ea246f">
-    <head>Historical/Biographical Note</head>
-<p>James J. Comerford (1901-1988), a native of Co. Kilkenny was born on New Years' Day 1901 and died at the age of 87 in 1988.  In his teens Comerford joined the Irish Republican Army and discusses his experiences in the year 1920-1923 in his memoir <emph render="italic">My Kilkenny IRA Days</emph>.  In 1925 he immigrated to New York City and worked at a variety of jobs including as a ticket agent for the Interborough Rapid Transit (IRT) at night while attending college during the day.  When Comerford was 33 he earned a high school diploma and then at the age of 34 matriculated at Columbia to earn his Bachelor's degree. He then went on to get his Master's and JD from Fordham University. Comerford retired as a Judge of the Magistrates Court in 1971.
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/aia_010">aia_010</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the James J. Comerford Papers <num>AIA.010</num></titleproper>
+        <author>Rebecca Altermatt</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>12/22/2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 06:45:25 -0400</date>.</creation>
+      <langusage>Description is in English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>James J. Comerford Papers</unittitle>
+      <origination label="Creator">
+        <persname source="local">Comerford, James J., 1901-1988</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Concannon, John</persname>
+      </origination>
+      <unitid>AIA.010</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">14.25 Linear Feet</extent>
+        <extent altrender="carrier">in 4 record cartons, 2 manuscript boxes, and 7 oversize flat boxes.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1867/1985" type="inclusive">1867-1985</unitdate>
+      <abstract id="aspace_d5ec85674aedf15c73498ca564a92ace">James J. Comerford was a well-known lawyer and judge in New York City.  He also served as the Chair of the St. Patrick's Day Parade and Celebration Committee in New York City for 19 years.  A recognized historian, his manuscript entitled <emph render="italic">My Kilkenny I.R.A. Days 1916-1921</emph>, along with writings on the history of Ireland are included in the papers as is correspondence between Mr. Comerford and well-known politicians and other public figures in New York and the United States. Many files pertaining to his work in the Ancient Order of Hibernians are included in the collection.</abstract>
+      <physloc id="aspace_e91ba34708ab3a7df1c97346f843f1d9">Materials stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to research visit.</physloc>
+      <langmaterial id="aspace_0e50a7a86c3cef86c68636dc09015831">Materials are in English.  Some materials in Irish.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_6e8af4e2f12597c2a2f1d8ecf8b3d9a2">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_9d518631d7749b0997ce75b5811ccdf5">
+      <head>Immediate Source of Acquisition</head>
+      <p>The James J. Comerford Papers were donated to the Archives of Irish America in 2004 by John Concannon.  The accession number associated with this collection is 1997.051.</p>
+    </acqinfo>
+    <arrangement id="aspace_444ffb8f73bc776f7245c2d088fcbbac">
+      <head>Arrangement</head>
+      <p>The collection is organized into three series. Folders are arranged alphabetically.</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>Series I. Papers and Correspondence, 1867-1985</item>
+        <item>Series II. Photographs, 1957-1970, undated</item>
+        <item>Series III. Realia, 1953-1982</item>
+      </list>
+    </arrangement>
+    <bioghist id="aspace_1581b195f0fe6bb782b4f59c95ea246f">
+      <head>Historical/Biographical Note</head>
+      <p>James J. Comerford (1901-1988), a native of Co. Kilkenny was born on New Years' Day 1901 and died at the age of 87 in 1988.  In his teens Comerford joined the Irish Republican Army and discusses his experiences in the year 1920-1923 in his memoir <emph render="italic">My Kilkenny IRA Days</emph>.  In 1925 he immigrated to New York City and worked at a variety of jobs including as a ticket agent for the Interborough Rapid Transit (IRT) at night while attending college during the day.  When Comerford was 33 he earned a high school diploma and then at the age of 34 matriculated at Columbia to earn his Bachelor's degree. He then went on to get his Master's and JD from Fordham University. Comerford retired as a Judge of the Magistrates Court in 1971.
  
-The Judge was active in many Irish organizations and was an outspoken Irish Nationalist.   He served for 19 years as chairman of the New York St. Patrick's Day Parade and was also a president of the United Irish Counties Association.  Comerford was a member and National Historian of the Ancient Order of Hibernians (AOH) for 52 years and edited the organization's <emph render="italic">Hibernian Digest</emph>.  </p><p>Comerford was married to Vera Carr.  They had no children.</p>  </bioghist>
-  <prefercite id="aspace_54ffc84ede333eaa0b5a5edbfdc08903">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; James J. Comerford Papers; AIA 010; box number; folder number; <lb/>Archives of Irish America, Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
-  <relatedmaterial id="aspace_0a08c6751d73aead468c9b6c4800fd74">
-    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-<p>United Irish Counties Association (AIA 003), contains a history Comerford wrote on the formation of the UICA in America (AIA 003, Box 3, Folder 18).  Researchers may also be interested in the collections of the organizations of which Comerford was part, including the Collection on the Ancient Order of Hibernians (AIA 046) and the United Irish Counties Association Records (AIA 056).</p>  </relatedmaterial>
-  <scopecontent id="aspace_e5631687aec9e9fd4703e95aba336b69">
-    <head>Scope and Contents</head>
-<p>The collection documents James J. Comerford's career from the 1960s onward, specifically his nomination to a Federal Judgeship, his membership in Irish American and other associations, and his personal life.  Career files include correspondence from notable figures written in support of Comerford's nomination to the Federal Court. Notable correspondents include politicians such as John F. Kennedy, Robert F. Kennedy, and Tip O'Neill as well as labor union leaders such as Mike Quill of the Transport Workers Union and Harry Van Arsdale of the AFL-CIO.   Of interest in the collection are Comerford's original handwritten drafts and typed manuscript for the memoir <emph render="italic">My Kilkenny IRA Days</emph>.  Comerford joined the IRA in his teens and the memoir covers the years 1920-1923, providing an intimate look at the activities of this citizen soldier organization and as well as life in Ireland in the early 20th century.</p><p>Comerford kept some of his educational materials from obtaining his high school diploma, Bachelor's from Columbia University, and Master's and JD from Fordham, including course listings and grades, which can be found in Series I under Education.</p><p>Comerford was active in several organizations in New York, notably the Saint Patrick's Day Parade and Celebration Committee and the Ancient Order of Hibernians (AOH).  He was also the editor of the AOH's publication, the <emph render="italic">Hibernian Digest</emph>, and the collection contains several files on his activities in the Order, as well as photographs and negatives used in the <emph render="italic">Digest</emph>.  Newspaper clippings which are quite fragile and brittle with age document Comerford's career and personal life.  Numerous photographs of Judge Comerford and his wife Vera are included in Series II, as are images of Comerford involved in activities pertaining to the St. Patrick's Day Parade, AOH and other associations.  </p>  </scopecontent>
-  <phystech id="aspace_24fb3c5633f1eb77f1c3ce9f903c953f">
-    <head>Audiovisual Access Policies and Procedures</head>
-<p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
-  <userestrict id="aspace_a14169dec917528e64baeab5440998c7">
-    <head>Conditions Governing Use</head>
-<p>Tamiment Library and Robert F. Wagner Labor Archive has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1867-1985, are expected to enter the public domain in 2105.</p>  </userestrict>
-  <controlaccess>
-    <genreform source="aat">Negatives (photographic)</genreform>
-    <genreform source="aat">Plaques (flat objects)</genreform>
-    <genreform source="aat">Correspondence.</genreform>
-    <genreform source="aat">Writings (document genre)</genreform>
-    <genreform source="aat">Pamphlets.</genreform>
-    <genreform source="aat">Black-and-white photographs.</genreform>
-    <subject source="lcsh">Saint Patrick's Day.</subject>
-    <subject source="lcsh">Irish Americans -- New York (N.Y.)</subject>
-    <genreform source="aat">Manuscripts</genreform>
-    <genreform source="aat">Clippings (information artifacts)</genreform>
-    <subject source="lcsh">Irish Americans |z New York (State) |z New York |x Politics and government.</subject>
-    <persname source="naf">Van Arsdale, Harry, 1905-1986</persname>
-    <corpname authfilenumber="(lccn)nb2006010765" source="naf">Irish Northern Aid Committee</corpname>
-    <corpname authfilenumber="(lccn)n79061213" source="naf">American-Irish Historical Society</corpname>
-    <corpname authfilenumber="(lccn)n84074583" source="naf">Ancient Order of Hibernians</corpname>
-    <persname source="naf">Lindsay, John V. (John Vliet)</persname>
-    <persname source="naf">Quill, Mike, 1905-1966</persname>
-    <persname role="dnr" rules="dacs" source="local">Concannon, John</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref84" level="series"><did><unittitle>Series I. Papers and Correspondence</unittitle><unitdate datechar="creation" normal="1867/1985" type="inclusive">1867-1985</unitdate></did><c id="aspace_ref18" level="file"><did><unittitle>Ancient Order of Hibernians</unittitle><unitdate datechar="creation" normal="1936/1946" type="inclusive">1936, 1946</unitdate><container id="aspace_d901f079742128f25aae13da9e2a2aba" label="Mixed Materials [31142054617017]" type="Box">1</container><container id="aspace_469a04fffa549eec9988ca5d103e182d" parent="aspace_d901f079742128f25aae13da9e2a2aba" type="Folder">1</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Ancient Order of Hibernians</unittitle><unitdate datechar="creation" normal="1950/1959" type="inclusive">1950s</unitdate><container id="aspace_fdb31f933fe392dfa9af2042828ab492" label="Mixed Materials [31142054617017]" type="Box">1</container><container id="aspace_b589ddf0759ef21df0e6936b54b00be7" parent="aspace_fdb31f933fe392dfa9af2042828ab492" type="Folder">2</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Ancient Order of Hibernians</unittitle><unitdate datechar="creation" normal="1960/1969" type="inclusive">1960s</unitdate><container id="aspace_96a16bd730d1f11c406b9ce586109d80" label="Mixed Materials [31142054617017]" type="Box">1</container><container id="aspace_31453381e73d65a176c12a9fed8f7b73" parent="aspace_96a16bd730d1f11c406b9ce586109d80" type="Folder">3</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Ancient Order of Hibernians</unittitle><unitdate datechar="creation" normal="1970/1979" type="inclusive">1970s</unitdate><container id="aspace_e870729285de53a1d325c885c661e610" label="Mixed Materials [31142054617017]" type="Box">1</container><container id="aspace_716c585e192345eb215e8670483e791b" parent="aspace_e870729285de53a1d325c885c661e610" type="Folder">4</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Ancient Order of Hibernians</unittitle><unitdate datechar="creation" normal="1980/1989" type="inclusive">1980s</unitdate><container id="aspace_607257f7705615ab6bb972c56e8575db" label="Mixed Materials [31142054617017]" type="Box">1</container><container id="aspace_d15466f046b5672419c9304e3a3d5355" parent="aspace_607257f7705615ab6bb972c56e8575db" type="Folder">5</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Ancient Order of Hibernians</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_a0f388143a35e46da4cdd46a112d5087" label="Mixed Materials [31142054617017]" type="Box">1</container><container id="aspace_2a7d1d6120eb712cf4e8392c737c77cb" parent="aspace_a0f388143a35e46da4cdd46a112d5087" type="Folder">6</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Ancient Order of Hibernians: By-Laws</unittitle><unitdate datechar="creation" normal="1867/1867" type="inclusive">1867</unitdate><container id="aspace_dc06b84f4927f4332c427c7f9550c255" label="Mixed Materials [31142054617017]" type="Box">1</container><container id="aspace_6625619973be7371282f3cb030c6d7da" parent="aspace_dc06b84f4927f4332c427c7f9550c255" type="Folder">7</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Ancient Order of Hibernians: Anti-Partition Committee</unittitle><unitdate datechar="creation" normal="1956/1958" type="inclusive">1956-1958</unitdate><container id="aspace_0bc2a81752acb60638e8390a25aa3d20" label="Mixed Materials [31142054617017]" type="Box">1</container><container id="aspace_c7db53498e570528654b141e08d0c8af" parent="aspace_0bc2a81752acb60638e8390a25aa3d20" type="Folder">8</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Ancient Order of Hibernians: Comerford, James J. - Speech on Partition of Ireland</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_571bc41d88b915900c2cf80f80cf9988" label="Mixed Materials [31142054617017]" type="Box">1</container><container id="aspace_d42308bba2d69e117edb868c5d8cb221" parent="aspace_571bc41d88b915900c2cf80f80cf9988" type="Folder">9</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Ancient Order of Hibernians: History</unittitle><unitdate datechar="creation" normal="1965/1980" type="inclusive">1965-1980</unitdate><container id="aspace_95b51652b46ba73a3c2866bcf3c3be40" label="Mixed Materials [31142054617017]" type="Box">1</container><container id="aspace_de24f980d3a796ac7432cec4096412c4" parent="aspace_95b51652b46ba73a3c2866bcf3c3be40" type="Folder">10</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Ancient Order of Hibernians: Ledger</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_b3ffba0327ae432b170170120268dad0" label="Mixed Materials [31142054617017]" type="Box">1</container><container id="aspace_9b0f3b0aded17d973250b0c14a1df02c" parent="aspace_b3ffba0327ae432b170170120268dad0" type="Folder">11</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Ancient Order of Hibernians: National Historians Bulletin/National Historian Bulletin</unittitle><unitdate datechar="creation" normal="1954/1959" type="inclusive">1954-1959</unitdate><container id="aspace_f0de9ab582d7760bf2323531ffcf2249" label="Mixed Materials [31142054617017]" type="Box">1</container><container id="aspace_5f4a1cdd372d5831f2e12b1773ec59e7" parent="aspace_f0de9ab582d7760bf2323531ffcf2249" type="Folder">12</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Ancient Order of Hibernians: National Hibernian Digest Documentation</unittitle><unitdate datechar="creation" normal="1958/1970" type="inclusive">1958-1970</unitdate><container id="aspace_94b69357fae7a8bc5415416903dcc22b" label="Mixed Materials [31142054617017]" type="Box">1</container><container id="aspace_2b9ef78ad7f18553c0fd6a89fdb0bb89" parent="aspace_94b69357fae7a8bc5415416903dcc22b" type="Folder">13</container></did></c><c id="aspace_ref89" level="file"><did><unittitle>Ancient Order of Hibernians: National Hibernian Digest Images (see Series II Photographs for photographs and negatives)</unittitle><unitdate datechar="creation" normal="1957/1970" type="inclusive">1957-1970</unitdate><container id="aspace_a52d7169a53887b7cc9aea865f077763" label="Mixed Materials [31142054617017]" type="Box">1</container><container id="aspace_10692435085bf44d31e86bf4f7d3fcb4" parent="aspace_a52d7169a53887b7cc9aea865f077763" type="Folder">13A</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Ancient Order of Hibernians: Newspaper Clippings</unittitle><unitdate datechar="creation" normal="1959/1985" type="inclusive">1959-1985</unitdate><container id="aspace_8fddc8dc6fb8c1807ab9c677914352f4" label="Mixed Materials [31142054617017]" type="Box">1</container><container id="aspace_0dbd4807b14325875a29ec11ac5f8bc0" parent="aspace_8fddc8dc6fb8c1807ab9c677914352f4" type="Folder">14</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Associations: American Irish Historical Society</unittitle><unitdate datechar="creation" normal="1967/1983" type="inclusive">1967-1983</unitdate><container id="aspace_c62e911fbf12f0b1680799d9f525efe5" label="Mixed Materials [31142054617017]" type="Box">1</container><container id="aspace_839ed55a19fcc21fe6346a1b9c883e33" parent="aspace_c62e911fbf12f0b1680799d9f525efe5" type="Folder">15</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Associations: American Irish Immigration Committee</unittitle><unitdate datechar="creation" normal="1965/1971" type="inclusive">1965-1971</unitdate><container id="aspace_0bf3b1bfe06ccefad14aaf167f4bdcf0" label="Mixed Materials [31142054617017]" type="Box">1</container><container id="aspace_ac1a19e50e0945e182439e736777c9fe" parent="aspace_0bf3b1bfe06ccefad14aaf167f4bdcf0" type="Folder">16</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Associations: Catholic Press Association I</unittitle><unitdate datechar="creation" normal="1969/1970" type="inclusive">1969-1970</unitdate><container id="aspace_07a8a109a301d7dc99ed078f32c44f76" label="Mixed Materials [31142054617017]" type="Box">1</container><container id="aspace_4735dc861cd139976cc7e3fb96de3cde" parent="aspace_07a8a109a301d7dc99ed078f32c44f76" type="Folder">17</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Associations: Catholic Press Association II</unittitle><unitdate datechar="creation" normal="1969/1970" type="inclusive">1969-1970</unitdate><container id="aspace_a7c55774598b5eb14f17e36b00e5f770" label="Mixed Materials [31142054617017]" type="Box">1</container><container id="aspace_5ab7369addd95ddb97914eddd2db6c7c" parent="aspace_a7c55774598b5eb14f17e36b00e5f770" type="Folder">18</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Associations: Democratic State Committee of New York</unittitle><unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate><container id="aspace_748fd45e7cf9d942eb7342aa51beccf7" label="Mixed Materials [31142054617017]" type="Box">1</container><container id="aspace_1804448354d98a5573515b8f9e385d74" parent="aspace_748fd45e7cf9d942eb7342aa51beccf7" type="Folder">19</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Associations: Equestrian Order of the Holy Sepulcher</unittitle><unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate><container id="aspace_c1b6a24f3b30cdca200c9bbcb6282275" label="Mixed Materials [31142054617017]" type="Box">1</container><container id="aspace_8ccf9b6603cef423a36d7c124c2282fe" parent="aspace_c1b6a24f3b30cdca200c9bbcb6282275" type="Folder">20</container></did></c><c id="aspace_ref131" level="file"><did><unittitle>Associations: Equestrian Order of the Holy Sepulcher - Certificate (oversize); two items - James Comerford and Veronica Comerford</unittitle><unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_2dc347206950048c5fc80b1013e49732" label="Mixed Materials [31142054617074]" type="Box">12</container><container id="aspace_ee37370d97feee17c4e323a0d3bc2c0a" parent="aspace_2dc347206950048c5fc80b1013e49732" type="Folder">1-2</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Associations: Irish Northern Aid Committee</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container id="aspace_f8d6003e40854d28d8fa3e19fcddcba0" label="Mixed Materials [31142054617017]" type="Box">1</container><container id="aspace_7953418854166702f3dd49729b5e760e" parent="aspace_f8d6003e40854d28d8fa3e19fcddcba0" type="Folder">21</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Associations: Various</unittitle><unitdate datechar="creation" normal="1957/1982" type="inclusive">1957-1982</unitdate><container id="aspace_a3ae2c2f0eaddf0ff3a49ded73a46bc1" label="Mixed Materials [31142054617017]" type="Box">1</container><container id="aspace_c1377272fbe08562541abb0a2259cf95" parent="aspace_a3ae2c2f0eaddf0ff3a49ded73a46bc1" type="Folder">22</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Associations: Various</unittitle><unitdate datechar="creation" normal="1958/1980" type="inclusive">1958-1980</unitdate><container id="aspace_69b1a70d552656d3529779395e38f590" label="Mixed Materials [31142054617025]" type="Box">2</container><container id="aspace_e041599757bb23d5830cde53150fd9de" parent="aspace_69b1a70d552656d3529779395e38f590" type="Folder">1</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Associations: Various</unittitle><unitdate datechar="creation" normal="1965/1981" type="inclusive">1965-1981</unitdate><container id="aspace_4a123c0bf0846de1af27205ec309faf1" label="Mixed Materials [31142054617025]" type="Box">2</container><container id="aspace_87040d635f8777dae39cd7a2f93b6963" parent="aspace_4a123c0bf0846de1af27205ec309faf1" type="Folder">2</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Associations: Various-Newspaper Clippings</unittitle><unitdate datechar="creation" normal="1960/1971" type="inclusive">1960-1971</unitdate><container id="aspace_7e3197ebc1e88fe7e0917065a8f8dc39" label="Mixed Materials [31142054617025]" type="Box">2</container><container id="aspace_9da7da8139273b194a2506f26173d2ec" parent="aspace_7e3197ebc1e88fe7e0917065a8f8dc39" type="Folder">3</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Career I</unittitle><unitdate datechar="creation" normal="1949/1971" type="inclusive">1949-1974</unitdate><container id="aspace_8951996809aac3ddddc884bda7c688ae" label="Mixed Materials [31142054617025]" type="Box">2</container><container id="aspace_a8683357611b8093ef50dc507c237ae8" parent="aspace_8951996809aac3ddddc884bda7c688ae" type="Folder">4</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Career II</unittitle><unitdate datechar="creation" normal="1949/1971" type="inclusive">1949-1971</unitdate><container id="aspace_20a1f52cf6c45c41d3baa914e734e547" label="Mixed Materials [31142054617025]" type="Box">2</container><container id="aspace_791aa407529e0a9652c757cafa825a16" parent="aspace_20a1f52cf6c45c41d3baa914e734e547" type="Folder">5</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Career III</unittitle><unitdate datechar="creation" normal="1949/1971" type="inclusive">1949-1971</unitdate><container id="aspace_57db1dc7df9c5f8d2d450a871d16f254" label="Mixed Materials [31142054617025]" type="Box">2</container><container id="aspace_2e78f93d336e40e787ab4830d4d5492c" parent="aspace_57db1dc7df9c5f8d2d450a871d16f254" type="Folder">6</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Career: Biographical Information</unittitle><unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate><container id="aspace_8f069ca072baf3671ada492672c7a64a" label="Mixed Materials [31142054617025]" type="Box">2</container><container id="aspace_f9b949413808981f0453a90dbbda3e36" parent="aspace_8f069ca072baf3671ada492672c7a64a" type="Folder">7</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Career: Newspaper Clippings</unittitle><unitdate datechar="creation" normal="1965/1971" type="inclusive">1965-1971</unitdate><container id="aspace_0024c80c8cb186e15acd50badb975791" label="Mixed Materials [31142054617025]" type="Box">2</container><container id="aspace_82de23d3efbf1631e8e44dbbbbd97848" parent="aspace_0024c80c8cb186e15acd50badb975791" type="Folder">8</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Career: Publications and Articles</unittitle><unitdate datechar="creation" normal="1949/1963" type="inclusive">1949-1963, undated</unitdate><container id="aspace_9f141b16589cc4cb62122ebc8a2dc0cf" label="Mixed Materials [31142054617025]" type="Box">2</container><container id="aspace_8704869459056bda43ee78d2187727bb" parent="aspace_9f141b16589cc4cb62122ebc8a2dc0cf" type="Folder">9</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Coolbawn Ambush History</unittitle><unitdate datechar="creation" normal="1921/1921" type="inclusive">1921</unitdate><container id="aspace_e1e8c8a0344174eb7799e77759cd42e3" label="Mixed Materials [31142054617025]" type="Box">2</container><container id="aspace_433f9bc3712526671dfd0f773cc9111b" parent="aspace_e1e8c8a0344174eb7799e77759cd42e3" type="Folder">10</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Manuscript: A Bit O' Irish History-Drafts</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_829834edf9d7d854c7148957ab0104f0" label="Mixed Materials [31142054617025]" type="Box">2</container><container id="aspace_b668411759de78c6682fd8bce6d8d09b" parent="aspace_829834edf9d7d854c7148957ab0104f0" type="Folder">11</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Manuscript: A Bit O' Irish History-Drafts</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_2eb589f0c6801c6be83187ae0cb307b4" label="Mixed Materials [31142054617025]" type="Box">2</container><container id="aspace_1609c8ddb4bf99feaf7bee704301f514" parent="aspace_2eb589f0c6801c6be83187ae0cb307b4" type="Folder">12</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Manuscript: Clippings/Index</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978, undated</unitdate><container id="aspace_0e7b34f2c900293a7779c1c1da4f88b7" label="Mixed Materials [31142054617025]" type="Box">2</container><container id="aspace_691214befd066dc90f0cc31971c596dc" parent="aspace_0e7b34f2c900293a7779c1c1da4f88b7" type="Folder">13</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Manuscript: "My Kilkenny I.R.A. Days 1916-1922"-Drafts</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_59550b95656c1c6628b226a67ba762ad" label="Mixed Materials [31142054617025]" type="Box">2</container><container id="aspace_03cbdc0d307484e59b4804bff2b66bf6" parent="aspace_59550b95656c1c6628b226a67ba762ad" type="Folder">14</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Manuscript: "My Kilkenny I.R.A. Days 1916-1922"-Drafts I</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_7cfe705cded1cfe11d0aa9c5a4b02b36" label="Mixed Materials [31142054617025]" type="Box">2</container><container id="aspace_5b88f62f570eeee06b64636f064811eb" parent="aspace_7cfe705cded1cfe11d0aa9c5a4b02b36" type="Folder">15</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Manuscript: "My Kilkenny I.R.A. Days 1916-1922"-Drafts II</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_e787c7f98adbbe47a2ed8f0cce8158d7" label="Mixed Materials [31142054617025]" type="Box">2</container><container id="aspace_f2383b9532ab208086e808ddbd8fa9eb" parent="aspace_e787c7f98adbbe47a2ed8f0cce8158d7" type="Folder">16</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Personal</unittitle><unitdate datechar="creation" normal="1971/1983" type="inclusive">1971-1983</unitdate><container id="aspace_d5ae275303ac9d5c6984e7cd7df5ffe9" label="Mixed Materials [31142054617033]" type="Box">3</container><container id="aspace_840dc79ce109e417b85fed1e61cfd74e" parent="aspace_d5ae275303ac9d5c6984e7cd7df5ffe9" type="Folder">1</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Personal</unittitle><unitdate datechar="creation" normal="1954/1974" type="inclusive">1954-1974</unitdate><physdesc id="aspace_7d82ad0d98286bae3b633bc047f73266" label="Container Summary">Letter signed by Mayor John Lindsay</physdesc><container id="aspace_ad678b7d537dd7a27ebed3559aa84bb5" label="Mixed Materials [31142054617033]" type="Box">3</container><container id="aspace_04cdbf104f757563459d02ed303b959c" parent="aspace_ad678b7d537dd7a27ebed3559aa84bb5" type="Folder">2</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Personal</unittitle><unitdate datechar="creation" normal="1932/1984" type="inclusive">1932-1984</unitdate><container id="aspace_78cfb87cb131d222031de64380a5a58f" label="Mixed Materials [31142054617033]" type="Box">3</container><container id="aspace_2f9efdcab02e2953a98f6543a5d9abb4" parent="aspace_78cfb87cb131d222031de64380a5a58f" type="Folder">3</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Personal</unittitle><unitdate datechar="creation" normal="1965/1971" type="inclusive">1965-1971</unitdate><container id="aspace_52a19ef51ad750ff2a7e9e56a38e894f" label="Mixed Materials [31142054617033]" type="Box">3</container><container id="aspace_c698e5749d3a4cb85df136671c044054" parent="aspace_52a19ef51ad750ff2a7e9e56a38e894f" type="Folder">4</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>Personal</unittitle><unitdate datechar="creation" normal="1958/1979" type="inclusive">1958-1979</unitdate><physdesc id="aspace_6d4b96f05a59dbc185cdd732651d83e4" label="Container Summary">Card signed by Eamon de Valera</physdesc><container id="aspace_3de4ece7b3476db040ba72aeb2b8920d" label="Mixed Materials [31142054617033]" type="Box">3</container><container id="aspace_580d038900d82c675c74b2b473568455" parent="aspace_3de4ece7b3476db040ba72aeb2b8920d" type="Folder">5</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>Personal: Education I</unittitle><unitdate datechar="creation" normal="1931/1965" type="inclusive">1931-1965</unitdate><container id="aspace_c797de84f96d52f8294cdefb03be7850" label="Mixed Materials [31142054617033]" type="Box">3</container><container id="aspace_c4e90284b25b0d16682c7f2b9966194f" parent="aspace_c797de84f96d52f8294cdefb03be7850" type="Folder">6</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>Personal: Education II</unittitle><unitdate datechar="creation" normal="1931/1965" type="inclusive">1931-1965</unitdate><container id="aspace_520e2d544207046ec72fba6f30e9e982" label="Mixed Materials [31142054617033]" type="Box">3</container><container id="aspace_c122bdc79846307791dc79783870130d" parent="aspace_520e2d544207046ec72fba6f30e9e982" type="Folder">7</container></did></c><c id="aspace_ref110" level="file"><did><unittitle>Personal: Education III: transcripts from school in Ireland</unittitle><unitdate datechar="creation">1908-1915</unitdate><container id="aspace_7f69ecb524ac6bec8387b4aeb607283c" label="Mixed Materials [31142054617033]" type="Box">3</container><container id="aspace_80af377e9b3304b584e1d9c3e3bff75b" parent="aspace_7f69ecb524ac6bec8387b4aeb607283c" type="Folder">8</container></did></c><c id="aspace_ref114" level="file"><did><unittitle>Personal: Education IV: Class notes "Contracts"</unittitle><unitdate datechar="creation">1942</unitdate><container id="aspace_7b9cdd9552522065ef9936c831a28993" label="Mixed Materials [31142054617033]" type="Box">3</container><container id="aspace_b189974c5a5b365d9d45358ae9b27004" parent="aspace_7b9cdd9552522065ef9936c831a28993" type="Folder">8A</container></did></c><c id="aspace_ref118" level="file"><did><unittitle>Personal: Ephemera: Certificate of Appreciation from the City of New York, signed by Mayor Lindsay</unittitle><unitdate datechar="creation">Mar 5, 1968</unitdate><container id="aspace_d0721482446f517367cac28f50eba2d5" label="Mixed Materials [31142054617033]" type="Box">3</container><container id="aspace_2f5ab9698b8243ec1bcd9a0f63eb61a8" parent="aspace_d0721482446f517367cac28f50eba2d5" type="Folder">9</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>Personal: Ephemera (coat of arms)</unittitle><unitdate datechar="creation" normal="1972/1972" type="inclusive">1972, undated</unitdate><container id="aspace_8ac303fad53c565e2c83fe041fdc9c39" label="Mixed Materials [31142054617033]" type="Box">3</container><container id="aspace_6334434017515b8240c2fa9614d98324" parent="aspace_8ac303fad53c565e2c83fe041fdc9c39" type="Folder">9A</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Personal: Newspaper Clippings</unittitle><unitdate datechar="creation" normal="1916/1949" type="inclusive">1916-1949</unitdate><container id="aspace_53bbaff32a9476d4df02107ad4911d24" label="Mixed Materials [31142054617033]" type="Box">3</container><container id="aspace_687c1197d56b5f8a0b47ff979b933cb0" parent="aspace_53bbaff32a9476d4df02107ad4911d24" type="Folder">10</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>Personal: Newspaper Clippings</unittitle><unitdate datechar="creation" normal="1951/1966" type="inclusive">1951-1966</unitdate><container id="aspace_c08b7a63f8bb81ff4263876e8d27f4c8" label="Mixed Materials [31142054617033]" type="Box">3</container><container id="aspace_9c94b81184032e5dd1826f006558a523" parent="aspace_c08b7a63f8bb81ff4263876e8d27f4c8" type="Folder">11</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>Personal: Newspaper Clippings</unittitle><unitdate datechar="creation" normal="1951/1970" type="inclusive">1951-1970</unitdate><container id="aspace_240bb0315e2503fc65ebb772b9350b3f" label="Mixed Materials [31142054617033]" type="Box">3</container><container id="aspace_f6ba3cba743e1b61c3f54e1b553f3422" parent="aspace_240bb0315e2503fc65ebb772b9350b3f" type="Folder">12</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>Personal: Newspaper Clippings</unittitle><unitdate datechar="creation" normal="1953/1969" type="inclusive">1953-1969</unitdate><container id="aspace_7878b7ee683f3b6a4d70e0d403b29e68" label="Mixed Materials [31142054617033]" type="Box">3</container><container id="aspace_10387ce4bad5e38dcffd0eb341d562b4" parent="aspace_7878b7ee683f3b6a4d70e0d403b29e68" type="Folder">13</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>Personal: Newspaper Clippings</unittitle><unitdate datechar="creation" normal="1970/1983" type="inclusive">1970-1983</unitdate><container id="aspace_20c33d6ee6625549fb17a51c82ac0254" label="Mixed Materials [31142054617033]" type="Box">3</container><container id="aspace_e436f8fa769fc580a8f8af1437aebaa9" parent="aspace_20c33d6ee6625549fb17a51c82ac0254" type="Folder">14</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>Personal: Newspaper Clippings</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_e5beefb0862bec24ddab5128d794d638" label="Mixed Materials [31142054617033]" type="Box">3</container><container id="aspace_96be3730f9ee09c134be6c029afae139" parent="aspace_e5beefb0862bec24ddab5128d794d638" type="Folder">15</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>Personal: Newspaper Clippings-Catholic Worker</unittitle><unitdate datechar="creation" normal="1955/1957" type="inclusive">1955-1957</unitdate><container id="aspace_266a1fd6336ebee6f5fa48120f8081aa" label="Mixed Materials [31142054617033]" type="Box">3</container><container id="aspace_3ffb0aa6e0096d996074ca0a4ecd9e78" parent="aspace_266a1fd6336ebee6f5fa48120f8081aa" type="Folder">16</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Personal: Pamphlets and Publications</unittitle><unitdate datechar="creation" normal="1935/1970" type="inclusive">1935-1970, undated</unitdate><container id="aspace_bccb2d8d7fe56f2dc0a344ce45250736" label="Mixed Materials [31142054617033]" type="Box">3</container><container id="aspace_11dd0a89c0e68b6ebc94f1be67692b5b" parent="aspace_bccb2d8d7fe56f2dc0a344ce45250736" type="Folder">17</container></did></c><c id="aspace_ref111" level="file"><did><unittitle>Personal: Pamphlets and Publications: <emph render="italic">Humorous Irish Readings</emph>.  McClennon's Penny Recitors and Readings</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_ff7aee211792cd5c09ecf3001cb84bd8" label="Mixed Materials [31142054617033]" type="Box">3</container><container id="aspace_e65892f5a17721d19580703173f709a2" parent="aspace_ff7aee211792cd5c09ecf3001cb84bd8" type="Folder">18</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Personal: Pamphlets and Publications-Eire Ireland</unittitle><unitdate datechar="creation" normal="1966/1968" type="inclusive">1966, 1968</unitdate><container id="aspace_a928ef84be383fa83971f7a5bbf91c18" label="Mixed Materials [31142054617041]" type="Box">4</container><container id="aspace_02ae1fd67c45e5979297bd4b0f9699b9" parent="aspace_a928ef84be383fa83971f7a5bbf91c18" type="Folder">1</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Personal: Writings - History of Ireland, 19th Century</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_7c4f22844ba4f7c3cf40e0bec38a3666" label="Mixed Materials [31142054617041]" type="Box">4</container><container id="aspace_b95901f689b08e17e7d12991f4f3c96e" parent="aspace_7c4f22844ba4f7c3cf40e0bec38a3666" type="Folder">2</container></did></c><c id="aspace_ref112" level="file"><did><unittitle>Personal: Writings "Only One Man's Little Opinion"</unittitle><unitdate datechar="creation" normal="1971/1971" type="inclusive">Nov 1971</unitdate><container id="aspace_ba4a5a511f2b3647a9b49481f0838a15" label="Mixed Materials [31142054617041]" type="Box">4</container><container id="aspace_644067db08d15d9483d3dee10e1d0d9d" parent="aspace_ba4a5a511f2b3647a9b49481f0838a15" type="Folder">2A</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Personal: Writings "Some Unusual Facts About Past Gaelic Games in America"</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">circa 1970, undated</unitdate><container id="aspace_f4b323fe8b9cb77a821ebfcf4068449e" label="Mixed Materials [31142054617041]" type="Box">4</container><container id="aspace_c69669e4fe0ba0fb9d7f233e33eb3808" parent="aspace_f4b323fe8b9cb77a821ebfcf4068449e" type="Folder">3</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Saint Patrick's Day Parade and Celebration Committee </unittitle><unitdate datechar="creation" normal="1960/1979" type="inclusive">1960-1979</unitdate><container id="aspace_a84e7ac7fb8db733b66f7c8d0eea05fa" label="Mixed Materials [31142054617041]" type="Box">4</container><container id="aspace_46fae4111f39b1ded1fb16c1f818824e" parent="aspace_a84e7ac7fb8db733b66f7c8d0eea05fa" type="Folder">4</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Saint Patrick's Day Parade and Celebration Committee </unittitle><unitdate datechar="creation" normal="1960/1980" type="inclusive">1960-1980</unitdate><container id="aspace_45d7853b9ce575db2442f0283fe7a9ef" label="Mixed Materials [31142054617041]" type="Box">4</container><container id="aspace_4e3c6bfea750d7b3a237ba6bbee598db" parent="aspace_45d7853b9ce575db2442f0283fe7a9ef" type="Folder">5</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>Saint Patrick's Day Parade and Celebration Committee I</unittitle><unitdate datechar="creation" normal="1961/1980" type="inclusive">1961-1980</unitdate><container id="aspace_8cceef6aecc7d5510423fea134138972" label="Mixed Materials [31142054617041]" type="Box">4</container><container id="aspace_0767ca94566c27a39620a393abef41ab" parent="aspace_8cceef6aecc7d5510423fea134138972" type="Folder">6</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Saint Patrick's Day Parade and Celebration Committee II</unittitle><unitdate datechar="creation" normal="1961/1980" type="inclusive">1961-1980</unitdate><container id="aspace_9c89db2b77fd8765791c43a62036f94c" label="Mixed Materials [31142054617041]" type="Box">4</container><container id="aspace_55c3e2edc27e112113dc15553f270972" parent="aspace_9c89db2b77fd8765791c43a62036f94c" type="Folder">7</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Saint Patrick's Day Parade and Celebration Committee </unittitle><unitdate datechar="creation" normal="1963/1982" type="inclusive">1963-1982</unitdate><container id="aspace_a97baaee8ac7edb0da644df03c58096b" label="Mixed Materials [31142054617041]" type="Box">4</container><container id="aspace_4bd845b20080b548031da0229092fa24" parent="aspace_a97baaee8ac7edb0da644df03c58096b" type="Folder">8</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Saint Patrick's Day Parade and Celebration Committee I</unittitle><unitdate datechar="creation" normal="1965/1983" type="inclusive">1965-1983</unitdate><container id="aspace_03e7e4dbf170677580b1b588a9619473" label="Mixed Materials [31142054617041]" type="Box">4</container><container id="aspace_6f0ce14eaac0f0c2f4711732108930ec" parent="aspace_03e7e4dbf170677580b1b588a9619473" type="Folder">9</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Saint Patrick's Day Parade and Celebration Committee II</unittitle><unitdate datechar="creation" normal="1965/1983" type="inclusive">1965-1983</unitdate><container id="aspace_ced202171a2d2157fc2801114001853c" label="Mixed Materials [31142054617041]" type="Box">4</container><container id="aspace_7f47e86ca6ca603605ebb0c70c163085" parent="aspace_ced202171a2d2157fc2801114001853c" type="Folder">10</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Saint Patrick's Day Parade and Celebration Committee I</unittitle><unitdate datechar="creation" normal="1966/1983" type="inclusive">1966-1983</unitdate><container id="aspace_54f18f7b6129aa02679105575917a0f4" label="Mixed Materials [31142054617041]" type="Box">4</container><container id="aspace_1f428372ede01e75334accf06e0ad9bf" parent="aspace_54f18f7b6129aa02679105575917a0f4" type="Folder">11</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Saint Patrick's Day Parade and Celebration Committee II</unittitle><unitdate datechar="creation" normal="1966/1983" type="inclusive">1966-1983</unitdate><container id="aspace_0ba7d96cd988da017af87e398f7ae5d7" label="Mixed Materials [31142054617041]" type="Box">4</container><container id="aspace_298ed4f232c2aa8376bec21e4ffb9db4" parent="aspace_0ba7d96cd988da017af87e398f7ae5d7" type="Folder">12</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Saint Patrick's Day Parade and Celebration Committee: Newspaper Clippings</unittitle><unitdate datechar="creation" normal="1960/1983" type="inclusive">1960-1983</unitdate><container id="aspace_af6388c89dccf38347c7a4a9c2099e2c" label="Mixed Materials [31142054617041]" type="Box">4</container><container id="aspace_dc07bd5084ea5e1b15554db373e69a9a" parent="aspace_af6388c89dccf38347c7a4a9c2099e2c" type="Folder">13</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Saint Patrick's Day Parade and Celebration Committee: Ribbons</unittitle><unitdate datechar="creation" normal="1961/1965" type="inclusive">1961, 1965, undated</unitdate><container id="aspace_3b6b9e59d43cbb02441b11ef5ffcb775" label="Mixed Materials [31142054617041]" type="Box">4</container><container id="aspace_3252fdedc534977a3c302ae906630c6e" parent="aspace_3b6b9e59d43cbb02441b11ef5ffcb775" type="Folder">14</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Saint Patrick's Day Parade and Celebration Committee: Rules and Regulations for the Conduct of 
-the Parade</unittitle><unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate><container id="aspace_05cd25a45f9ed5a09d0eba8de4524252" label="Mixed Materials [31142054617041]" type="Box">4</container><container id="aspace_7e82360d46f37fe0644202dc9b9fdfd7" parent="aspace_05cd25a45f9ed5a09d0eba8de4524252" type="Folder">15</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>Speeches</unittitle><unitdate datechar="creation" normal="1947/1948" type="inclusive">1947-1948</unitdate><container id="aspace_501b0946e0f7a24dbab7aaf3d215a76a" label="Mixed Materials [31142054617041]" type="Box">4</container><container id="aspace_a7225014c49de0d8037aa956968d2376" parent="aspace_501b0946e0f7a24dbab7aaf3d215a76a" type="Folder">16</container></did></c></c><c id="aspace_ref85" level="series"><did><unittitle>Series II. Photographs</unittitle><unitdate datechar="creation" normal="1960/1970" type="inclusive">1960-1970, undated</unitdate></did><c id="aspace_ref97" level="file"><did><unittitle>Ancient Order of Hibernians</unittitle><unitdate datechar="creation" normal="1969/1970" type="inclusive">1969-1970, undated</unitdate><container id="aspace_7667d0a7787c520693c0d940073800c7" label="Mixed Materials [31142054617058]" type="Box">5</container><container id="aspace_98eb21bbafd8d0a82e359bc48f75e54e" parent="aspace_7667d0a7787c520693c0d940073800c7" type="Folder">1</container></did></c><c id="aspace_ref98" level="file"><did><unittitle>Ancient Order of Hibernians</unittitle><unitdate datechar="creation" normal="1969/1970" type="inclusive">1969-1970, undated</unitdate><container id="aspace_6ecbdec3f8ea0f6b740a0fe0506df0c8" label="Mixed Materials [31142054617058]" type="Box">5</container><container id="aspace_374b079ca6c7a7987f553e3d63f3c356" parent="aspace_6ecbdec3f8ea0f6b740a0fe0506df0c8" type="Folder">2</container></did></c><c id="aspace_ref101" level="file"><did><unittitle>Ancient Order of Hibernians - negatives and newspaper clippings (photocopies)</unittitle><unitdate datechar="creation" normal="1969/1970" type="inclusive">1969-1970, undated</unitdate><container id="aspace_31901a8f4af7e5e992ed2fc60334c43c" label="Mixed Materials [31142054617066]" type="Box">6</container></did></c><c id="aspace_ref86" level="file"><did><unittitle>Comerford, James J. (portraits)</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_237b5b9cc1a3c664a906f24638bc8ea6" label="Mixed Materials [31142054617058]" type="Box">5</container><container id="aspace_3a3cff38287b3871494444964b29dcca" parent="aspace_237b5b9cc1a3c664a906f24638bc8ea6" type="Folder">3</container></did></c><c id="aspace_ref91" level="file"><did><unittitle>Comerford, James J. and Vera - Trips to Ireland</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_f9aa419b92a4cb9042086e360e07f82e" label="Mixed Materials [31142054617058]" type="Box">5</container><container id="aspace_9114b5466bf28c86dd9bf02dc1e7e091" parent="aspace_f9aa419b92a4cb9042086e360e07f82e" type="Folder">4</container></did></c><c id="aspace_ref92" level="file"><did><unittitle>Comerford, James J. with New York City Mayor John Lindsay (autographed by Lindsay)</unittitle><unitdate datechar="creation">circa 1966-1973</unitdate><container id="aspace_830f3e12c41592566eaadbc1bb1f3482" label="Mixed Materials [31142054617058]" type="Box">5</container><container id="aspace_26ce32ddee8b994cde40b0eb08e03b9d" parent="aspace_830f3e12c41592566eaadbc1bb1f3482" type="Folder">5</container></did></c><c id="aspace_ref93" level="file"><did><unittitle>Comerford, James J. with Others</unittitle><unitdate datechar="creation" normal="1960/1970" type="inclusive">circa 1960-1970</unitdate><container id="aspace_a7b4a88b2c5c584b57cf850e32038540" label="Mixed Materials [31142054617058]" type="Box">5</container><container id="aspace_3340331b35a2633228d3453bdea39133" parent="aspace_a7b4a88b2c5c584b57cf850e32038540" type="Folder">6</container></did></c><c id="aspace_ref120" level="file"><did><unittitle>Comerford, James J.: Personal, unidentified</unittitle><container id="aspace_78e7264203ae10de6614fb132a03445f" label="Mixed Materials [31142054617058]" type="Box">5</container><container id="aspace_b1b718b98f1b99a7c5d24e0093433fec" parent="aspace_78e7264203ae10de6614fb132a03445f" type="Folder">9</container></did></c><c id="aspace_ref90" level="file"><did><unittitle>Comerford, Vera (many with James)</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_8848ed0cfaf501041f17370d325a1238" label="Mixed Materials [31142054617058]" type="Box">5</container><container id="aspace_d59cccf519a3751c713e6cf1cdbe2cd0" parent="aspace_8848ed0cfaf501041f17370d325a1238" type="Folder">7</container></did></c><c id="aspace_ref95" level="file"><did><unittitle>Group photographs</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_3f16fa5c5ffad3297e423a869c119905" label="Mixed Materials [31142054617058]" type="Box">5</container><container id="aspace_435c6d4fbde5a946ab2f4c3128fb03b1" parent="aspace_3f16fa5c5ffad3297e423a869c119905" type="Folder">8</container></did></c><c id="aspace_ref119" level="file"><did><unittitle>Group photographs
-</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="OS Flat Box - 15x19x3" id="aspace_abfc79a39fa73496a90fc09fbd17ffb0" label="Mixed Materials [31142054617132]" type="Box">7</container><container id="aspace_0f642af572b2787394c87dad4e5e71fd" parent="aspace_abfc79a39fa73496a90fc09fbd17ffb0" type="Folder">5</container></did></c><c id="aspace_ref100" level="file"><did><unittitle>Kilkenny, aerial view</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="OS Flat Box - 15x19x3" id="aspace_2c652a6c7a070c62d1469adf8014fb9e" label="Mixed Materials [31142054617132]" type="Box">7</container><container id="aspace_052232b52dafa03528a8bc1f4fc6a3e7" parent="aspace_2c652a6c7a070c62d1469adf8014fb9e" type="Folder">1</container></did></c><c id="aspace_ref96" level="file"><did><unittitle>Personal, unidentified</unittitle><unitdate datechar="creation">1966, undated</unitdate><container id="aspace_dd831c99a44d31584ef5c5577b527a4e" label="Mixed Materials [31142054617058]" type="Box">5</container><container id="aspace_3380d2d98bc781f94203eebc9f621654" parent="aspace_dd831c99a44d31584ef5c5577b527a4e" type="Folder">9</container></did></c><c id="aspace_ref122" level="file"><did><unittitle>Personal, unidentified</unittitle><container altrender="OS Flat Box - 15x19x3" id="aspace_4b069dd18fd6e546367231f75d116785" label="Mixed Materials [31142054617132]" type="Box">7</container><container id="aspace_d78fd8a5b6f51f384c0479200656221c" parent="aspace_4b069dd18fd6e546367231f75d116785" type="Folder">4</container></did></c><c id="aspace_ref94" level="file"><did><unittitle>St Patricks Day Parade </unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970, undated</unitdate><container id="aspace_7ec6371d13b28b6e45074b67d0db9a7a" label="Mixed Materials [31142054617058]" type="Box">5</container><container id="aspace_ddeba747995d099937745b6cc5ff3091" parent="aspace_7ec6371d13b28b6e45074b67d0db9a7a" type="Folder">10</container></did></c><c id="aspace_ref125" level="file"><did><unittitle>St Patricks Day Parade (segregated photographs)</unittitle><unitdate datechar="creation">1965</unitdate><container altrender="Hollinger Flat OS 14" id="aspace_b2e07f5e8f050ac53f3462efac1c776d" label="Mixed Materials [31142054617090]" type="Box">14</container></did></c><c id="aspace_ref108" level="file"><did><unittitle>St Patricks Day Parade (several oversize photographs; include images of Ed Koch, Roslyn Carter, Daniel Moynihan plus many aerial views from 630 5th Avenue) 7 photographs</unittitle><unitdate datechar="creation" normal="1965/1980" type="inclusive">1965-1980</unitdate><container altrender="OS Flat Box - 15x19x3" id="aspace_bc9b8cce3aa522e8cf5cd826373a04bb" label="Mixed Materials [31142054617132]" type="Box">7</container><container id="aspace_84b8003e6ad58aeac8c41ce2239a0944" parent="aspace_bc9b8cce3aa522e8cf5cd826373a04bb" type="Folder">3</container></did></c><c id="aspace_ref123" level="file"><did><unittitle>Unidentified Speaker with Comerford, behind Harp</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="OS Flat Box - 15x19x3" id="aspace_e9bda9073ae93b06220df4e41d8da336" label="Mixed Materials [31142054617132]" type="Box">7</container><container id="aspace_8e838ca5ba42494801816eb28b170925" parent="aspace_e9bda9073ae93b06220df4e41d8da336" type="Folder">6</container></did></c><c id="aspace_ref99" level="file"><did><unittitle>Workers Union of Ireland</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="OS Flat Box - 15x19x3" id="aspace_434c597cdf513471336e7dee618d786a" label="Mixed Materials [31142054617132]" type="Box">7</container><container id="aspace_ddb2f38ec9e037c2ea0a8ec710cea35b" parent="aspace_434c597cdf513471336e7dee618d786a" type="Folder">2</container></did></c></c><c id="aspace_ref87" level="series"><did><unittitle>Series III. Memorabilia</unittitle><unitdate datechar="creation">1953-1982</unitdate></did><c id="aspace_ref113" level="file"><did><unittitle>Book: "History of Europe: Our Own Times" by James Harvey Robinson and Charles A. Beard.  Inscribed: James J. Comerford, February 1930, School Y.M.C.A. Brooklyn"</unittitle><unitdate datechar="creation">1927</unitdate><container id="aspace_645c21f81575b9337d11c1f9757565e4" label="Mixed Materials [31142054617066]" type="Box">6</container></did></c><c id="aspace_ref116" level="file"><did><unittitle>Book: "Cushing's Manual of Parliamentary Practice" 1928. Inscribed "James J Comerford"</unittitle><unitdate datechar="creation">1928</unitdate><container id="aspace_3b438dea26d47531c0d8fc38877887d8" label="Mixed Materials [31142054617066]" type="Box">6</container></did></c><c id="aspace_ref124" level="file"><did><unittitle>Commendation: NYU Founders Day Award</unittitle><unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate><container altrender="OS Flat Box - 15x19x3" id="aspace_484333971fb929b59087b78e762d0a26" label="Mixed Materials [31142054617132]" type="Box">7</container><container id="aspace_77ed21d39a25767e99b27df37a7142d1" parent="aspace_484333971fb929b59087b78e762d0a26" type="Folder">7</container></did></c><c id="aspace_ref88" level="file"><did><unittitle>Daybook Calendar </unittitle><unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate><container id="aspace_9f3d4aac0f97d0c4518fe0fdc781a207" label="Mixed Materials [31142054617066]" type="Box">6</container></did></c><c id="aspace_ref115" level="file"><did><unittitle>Scrapbook and Daily Calendar; includes newspaper clippings, mention of Vera's death and other notes</unittitle><unitdate datechar="creation">1980-1984</unitdate><container id="aspace_f9d8609f3fd4cc4b0462c7d7f60b7d0f" label="Mixed Materials [31142054617066]" type="Box">6</container></did></c><c id="aspace_ref109" level="file"><did><unittitle>Plaques (8) : including 3 on retirement from bench, one a letter from Mayor Lindsay on retirement; contributions to Irish Culture and chairmanship of SPD Parade</unittitle><unitdate datechar="creation">1963-1982</unitdate><container altrender="OS Flat Box - 15x19x3" id="aspace_33a9ed6a63b9df40d56fc19d0bb2a285" label="Realia [31142054617124]" type="Box">8</container><container altrender="OS Flat Box - 15x19x3" id="aspace_0f2927ff7a27bf8e528c1b127826137e" label="Realia [31142054617108]" type="Box">10</container><container altrender="OS Flat Box - 15x19x3" id="aspace_0d1eb80827d329a1cec5307e75361422" label="Realia [31142054617116]" type="Box">9</container></did></c><c id="aspace_ref117" level="file"><did><unittitle>Plate: Ancient Order of Hibernians Honorary Lifetime Membership</unittitle><unitdate datechar="creation">Aug 6, 1964</unitdate><container id="aspace_4d1a4eb20024b3d4d27eb9ff029a4aa5" label="Mixed Materials [31142054617066]" type="Box">6</container></did></c><c id="aspace_8581edf45dd08bbd8b62b924deae4a14" level="file"><did><unittitle>Plaque: Ancient Order of Hibernians in America Testimonial </unittitle><unitdate datechar="creation" normal="1963-05-11/1963-05-11">May 11, 1963</unitdate><container altrender="OS Flat Box - 19 " id="aspace_8a59fb2318f0c05660c88fbb04b03048" label="Mixed Materials [31142063398609]" type="Box">13</container></did></c></c><c id="aspace_ref126" level="series"><did><unittitle>Series IV. Audio</unittitle><unitdate datechar="creation">1937-1938</unitdate></did><c id="aspace_ref127" level="item"><did><unittitle>Aluminum Disk: Side 1: 1. JJC; 2. "Haynes Speech Reply" 2nd Record Part 1; Side 2: "A fox looked at his shadow" 1st Record, 2 parts,</unittitle><unitdate datechar="creation" normal="1937/1937" type="inclusive">Mar 1937 - May 1937</unitdate><container altrender="Flat Box 11.75 x 15.5 - thin" id="aspace_2718f2ef554d67d7283618a43e60d7d6" label="Audio [31142054617082]" type="Box">11</container><container id="aspace_ce952a30e55cb0ebb5b76e2f17a753eb" parent="aspace_2718f2ef554d67d7283618a43e60d7d6" type="Item">1</container></did></c><c id="aspace_ref128" level="item"><did><unittitle>Aluminum Disk: Side 1: 1. Extempo, Speaking Purpose "To Stir the Emotions"; 2. Mr. Halliday Hospital Scene onf blank side of record no makes [?sic[ name... / Recorded at Columbia University; Side 2: "Advertising"  on side of makes name of record</unittitle><unitdate datechar="creation">Nov 8, 1937</unitdate><container altrender="Flat Box 11.75 x 15.5 - thin" id="aspace_31b99e62f7a842532aadc647c33500d8" label="Audio [31142054617082]" type="Box">11</container><container id="aspace_eb4d82d85ad5f4087be712721e8c5de7" parent="aspace_31b99e62f7a842532aadc647c33500d8" type="Item">2</container></did></c><c id="aspace_ref129" level="item"><did><unittitle>Aluminum Disk: Side 1:  Track 1. "What is your language?" ... ? ... German and French; 
+The Judge was active in many Irish organizations and was an outspoken Irish Nationalist.   He served for 19 years as chairman of the New York St. Patrick's Day Parade and was also a president of the United Irish Counties Association.  Comerford was a member and National Historian of the Ancient Order of Hibernians (AOH) for 52 years and edited the organization's <emph render="italic">Hibernian Digest</emph>.  </p>
+      <p>Comerford was married to Vera Carr.  They had no children.</p>
+    </bioghist>
+    <prefercite id="aspace_54ffc84ede333eaa0b5a5edbfdc08903">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; James J. Comerford Papers; AIA 010; box number; folder number; <lb/>Archives of Irish America, Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <relatedmaterial id="aspace_0a08c6751d73aead468c9b6c4800fd74">
+      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+      <p>United Irish Counties Association (AIA 003), contains a history Comerford wrote on the formation of the UICA in America (AIA 003, Box 3, Folder 18).  Researchers may also be interested in the collections of the organizations of which Comerford was part, including the Collection on the Ancient Order of Hibernians (AIA 046) and the United Irish Counties Association Records (AIA 056).</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_e5631687aec9e9fd4703e95aba336b69">
+      <head>Scope and Contents</head>
+      <p>The collection documents James J. Comerford's career from the 1960s onward, specifically his nomination to a Federal Judgeship, his membership in Irish American and other associations, and his personal life.  Career files include correspondence from notable figures written in support of Comerford's nomination to the Federal Court. Notable correspondents include politicians such as John F. Kennedy, Robert F. Kennedy, and Tip O'Neill as well as labor union leaders such as Mike Quill of the Transport Workers Union and Harry Van Arsdale of the AFL-CIO.   Of interest in the collection are Comerford's original handwritten drafts and typed manuscript for the memoir <emph render="italic">My Kilkenny IRA Days</emph>.  Comerford joined the IRA in his teens and the memoir covers the years 1920-1923, providing an intimate look at the activities of this citizen soldier organization and as well as life in Ireland in the early 20th century.</p>
+      <p>Comerford kept some of his educational materials from obtaining his high school diploma, Bachelor's from Columbia University, and Master's and JD from Fordham, including course listings and grades, which can be found in Series I under Education.</p>
+      <p>Comerford was active in several organizations in New York, notably the Saint Patrick's Day Parade and Celebration Committee and the Ancient Order of Hibernians (AOH).  He was also the editor of the AOH's publication, the <emph render="italic">Hibernian Digest</emph>, and the collection contains several files on his activities in the Order, as well as photographs and negatives used in the <emph render="italic">Digest</emph>.  Newspaper clippings which are quite fragile and brittle with age document Comerford's career and personal life.  Numerous photographs of Judge Comerford and his wife Vera are included in Series II, as are images of Comerford involved in activities pertaining to the St. Patrick's Day Parade, AOH and other associations.  </p>
+    </scopecontent>
+    <phystech id="aspace_24fb3c5633f1eb77f1c3ce9f903c953f">
+      <head>Audiovisual Access Policies and Procedures</head>
+      <p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
+    </phystech>
+    <userestrict id="aspace_a14169dec917528e64baeab5440998c7">
+      <head>Conditions Governing Use</head>
+      <p>Tamiment Library and Robert F. Wagner Labor Archive has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1867-1985, are expected to enter the public domain in 2105.</p>
+    </userestrict>
+    <controlaccess>
+      <genreform source="aat">Negatives (photographic)</genreform>
+      <genreform source="aat">Plaques (flat objects)</genreform>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Writings (document genre)</genreform>
+      <genreform source="aat">Pamphlets.</genreform>
+      <genreform source="aat">Black-and-white photographs.</genreform>
+      <subject source="lcsh">Saint Patrick's Day.</subject>
+      <subject source="lcsh">Irish Americans -- New York (N.Y.)</subject>
+      <genreform source="aat">Manuscripts</genreform>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <subject source="lcsh">Irish Americans |z New York (State) |z New York |x Politics and government.</subject>
+      <persname source="naf">Van Arsdale, Harry, 1905-1986</persname>
+      <corpname authfilenumber="(lccn)nb2006010765" source="naf">Irish Northern Aid Committee</corpname>
+      <corpname authfilenumber="(lccn)n79061213" source="naf">American-Irish Historical Society</corpname>
+      <corpname authfilenumber="(lccn)n84074583" source="naf">Ancient Order of Hibernians</corpname>
+      <persname source="naf">Lindsay, John V. (John Vliet)</persname>
+      <persname source="naf">Quill, Mike, 1905-1966</persname>
+      <persname role="dnr" rules="dacs" source="local">Concannon, John</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref84" level="series">
+        <did>
+          <unittitle>Series I. Papers and Correspondence</unittitle>
+          <unitdate datechar="creation" normal="1867/1985" type="inclusive">1867-1985</unitdate>
+        </did>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Ancient Order of Hibernians</unittitle>
+            <unitdate datechar="creation" normal="1936/1946" type="inclusive">1936, 1946</unitdate>
+            <container id="aspace_d901f079742128f25aae13da9e2a2aba" label="Mixed Materials [31142054617017]" type="Box">1</container>
+            <container id="aspace_469a04fffa549eec9988ca5d103e182d" parent="aspace_d901f079742128f25aae13da9e2a2aba" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Ancient Order of Hibernians</unittitle>
+            <unitdate datechar="creation" normal="1950/1959" type="inclusive">1950s</unitdate>
+            <container id="aspace_fdb31f933fe392dfa9af2042828ab492" label="Mixed Materials [31142054617017]" type="Box">1</container>
+            <container id="aspace_b589ddf0759ef21df0e6936b54b00be7" parent="aspace_fdb31f933fe392dfa9af2042828ab492" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Ancient Order of Hibernians</unittitle>
+            <unitdate datechar="creation" normal="1960/1969" type="inclusive">1960s</unitdate>
+            <container id="aspace_96a16bd730d1f11c406b9ce586109d80" label="Mixed Materials [31142054617017]" type="Box">1</container>
+            <container id="aspace_31453381e73d65a176c12a9fed8f7b73" parent="aspace_96a16bd730d1f11c406b9ce586109d80" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Ancient Order of Hibernians</unittitle>
+            <unitdate datechar="creation" normal="1970/1979" type="inclusive">1970s</unitdate>
+            <container id="aspace_e870729285de53a1d325c885c661e610" label="Mixed Materials [31142054617017]" type="Box">1</container>
+            <container id="aspace_716c585e192345eb215e8670483e791b" parent="aspace_e870729285de53a1d325c885c661e610" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Ancient Order of Hibernians</unittitle>
+            <unitdate datechar="creation" normal="1980/1989" type="inclusive">1980s</unitdate>
+            <container id="aspace_607257f7705615ab6bb972c56e8575db" label="Mixed Materials [31142054617017]" type="Box">1</container>
+            <container id="aspace_d15466f046b5672419c9304e3a3d5355" parent="aspace_607257f7705615ab6bb972c56e8575db" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Ancient Order of Hibernians</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a0f388143a35e46da4cdd46a112d5087" label="Mixed Materials [31142054617017]" type="Box">1</container>
+            <container id="aspace_2a7d1d6120eb712cf4e8392c737c77cb" parent="aspace_a0f388143a35e46da4cdd46a112d5087" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Ancient Order of Hibernians: By-Laws</unittitle>
+            <unitdate datechar="creation" normal="1867/1867" type="inclusive">1867</unitdate>
+            <container id="aspace_dc06b84f4927f4332c427c7f9550c255" label="Mixed Materials [31142054617017]" type="Box">1</container>
+            <container id="aspace_6625619973be7371282f3cb030c6d7da" parent="aspace_dc06b84f4927f4332c427c7f9550c255" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Ancient Order of Hibernians: Anti-Partition Committee</unittitle>
+            <unitdate datechar="creation" normal="1956/1958" type="inclusive">1956-1958</unitdate>
+            <container id="aspace_0bc2a81752acb60638e8390a25aa3d20" label="Mixed Materials [31142054617017]" type="Box">1</container>
+            <container id="aspace_c7db53498e570528654b141e08d0c8af" parent="aspace_0bc2a81752acb60638e8390a25aa3d20" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Ancient Order of Hibernians: Comerford, James J. - Speech on Partition of Ireland</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_571bc41d88b915900c2cf80f80cf9988" label="Mixed Materials [31142054617017]" type="Box">1</container>
+            <container id="aspace_d42308bba2d69e117edb868c5d8cb221" parent="aspace_571bc41d88b915900c2cf80f80cf9988" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Ancient Order of Hibernians: History</unittitle>
+            <unitdate datechar="creation" normal="1965/1980" type="inclusive">1965-1980</unitdate>
+            <container id="aspace_95b51652b46ba73a3c2866bcf3c3be40" label="Mixed Materials [31142054617017]" type="Box">1</container>
+            <container id="aspace_de24f980d3a796ac7432cec4096412c4" parent="aspace_95b51652b46ba73a3c2866bcf3c3be40" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Ancient Order of Hibernians: Ledger</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b3ffba0327ae432b170170120268dad0" label="Mixed Materials [31142054617017]" type="Box">1</container>
+            <container id="aspace_9b0f3b0aded17d973250b0c14a1df02c" parent="aspace_b3ffba0327ae432b170170120268dad0" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Ancient Order of Hibernians: National Historians Bulletin/National Historian Bulletin</unittitle>
+            <unitdate datechar="creation" normal="1954/1959" type="inclusive">1954-1959</unitdate>
+            <container id="aspace_f0de9ab582d7760bf2323531ffcf2249" label="Mixed Materials [31142054617017]" type="Box">1</container>
+            <container id="aspace_5f4a1cdd372d5831f2e12b1773ec59e7" parent="aspace_f0de9ab582d7760bf2323531ffcf2249" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Ancient Order of Hibernians: National Hibernian Digest Documentation</unittitle>
+            <unitdate datechar="creation" normal="1958/1970" type="inclusive">1958-1970</unitdate>
+            <container id="aspace_94b69357fae7a8bc5415416903dcc22b" label="Mixed Materials [31142054617017]" type="Box">1</container>
+            <container id="aspace_2b9ef78ad7f18553c0fd6a89fdb0bb89" parent="aspace_94b69357fae7a8bc5415416903dcc22b" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Ancient Order of Hibernians: National Hibernian Digest Images (see Series II Photographs for photographs and negatives)</unittitle>
+            <unitdate datechar="creation" normal="1957/1970" type="inclusive">1957-1970</unitdate>
+            <container id="aspace_a52d7169a53887b7cc9aea865f077763" label="Mixed Materials [31142054617017]" type="Box">1</container>
+            <container id="aspace_10692435085bf44d31e86bf4f7d3fcb4" parent="aspace_a52d7169a53887b7cc9aea865f077763" type="Folder">13A</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Ancient Order of Hibernians: Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1959/1985" type="inclusive">1959-1985</unitdate>
+            <container id="aspace_8fddc8dc6fb8c1807ab9c677914352f4" label="Mixed Materials [31142054617017]" type="Box">1</container>
+            <container id="aspace_0dbd4807b14325875a29ec11ac5f8bc0" parent="aspace_8fddc8dc6fb8c1807ab9c677914352f4" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Associations: American Irish Historical Society</unittitle>
+            <unitdate datechar="creation" normal="1967/1983" type="inclusive">1967-1983</unitdate>
+            <container id="aspace_c62e911fbf12f0b1680799d9f525efe5" label="Mixed Materials [31142054617017]" type="Box">1</container>
+            <container id="aspace_839ed55a19fcc21fe6346a1b9c883e33" parent="aspace_c62e911fbf12f0b1680799d9f525efe5" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Associations: American Irish Immigration Committee</unittitle>
+            <unitdate datechar="creation" normal="1965/1971" type="inclusive">1965-1971</unitdate>
+            <container id="aspace_0bf3b1bfe06ccefad14aaf167f4bdcf0" label="Mixed Materials [31142054617017]" type="Box">1</container>
+            <container id="aspace_ac1a19e50e0945e182439e736777c9fe" parent="aspace_0bf3b1bfe06ccefad14aaf167f4bdcf0" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Associations: Catholic Press Association I</unittitle>
+            <unitdate datechar="creation" normal="1969/1970" type="inclusive">1969-1970</unitdate>
+            <container id="aspace_07a8a109a301d7dc99ed078f32c44f76" label="Mixed Materials [31142054617017]" type="Box">1</container>
+            <container id="aspace_4735dc861cd139976cc7e3fb96de3cde" parent="aspace_07a8a109a301d7dc99ed078f32c44f76" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Associations: Catholic Press Association II</unittitle>
+            <unitdate datechar="creation" normal="1969/1970" type="inclusive">1969-1970</unitdate>
+            <container id="aspace_a7c55774598b5eb14f17e36b00e5f770" label="Mixed Materials [31142054617017]" type="Box">1</container>
+            <container id="aspace_5ab7369addd95ddb97914eddd2db6c7c" parent="aspace_a7c55774598b5eb14f17e36b00e5f770" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Associations: Democratic State Committee of New York</unittitle>
+            <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_748fd45e7cf9d942eb7342aa51beccf7" label="Mixed Materials [31142054617017]" type="Box">1</container>
+            <container id="aspace_1804448354d98a5573515b8f9e385d74" parent="aspace_748fd45e7cf9d942eb7342aa51beccf7" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Associations: Equestrian Order of the Holy Sepulcher</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_c1b6a24f3b30cdca200c9bbcb6282275" label="Mixed Materials [31142054617017]" type="Box">1</container>
+            <container id="aspace_8ccf9b6603cef423a36d7c124c2282fe" parent="aspace_c1b6a24f3b30cdca200c9bbcb6282275" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref131" level="file">
+          <did>
+            <unittitle>Associations: Equestrian Order of the Holy Sepulcher - Certificate (oversize); two items - James Comerford and Veronica Comerford</unittitle>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_2dc347206950048c5fc80b1013e49732" label="Mixed Materials [31142054617074]" type="Box">12</container>
+            <container id="aspace_ee37370d97feee17c4e323a0d3bc2c0a" parent="aspace_2dc347206950048c5fc80b1013e49732" type="Folder">1-2</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Associations: Irish Northern Aid Committee</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_f8d6003e40854d28d8fa3e19fcddcba0" label="Mixed Materials [31142054617017]" type="Box">1</container>
+            <container id="aspace_7953418854166702f3dd49729b5e760e" parent="aspace_f8d6003e40854d28d8fa3e19fcddcba0" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Associations: Various</unittitle>
+            <unitdate datechar="creation" normal="1957/1982" type="inclusive">1957-1982</unitdate>
+            <container id="aspace_a3ae2c2f0eaddf0ff3a49ded73a46bc1" label="Mixed Materials [31142054617017]" type="Box">1</container>
+            <container id="aspace_c1377272fbe08562541abb0a2259cf95" parent="aspace_a3ae2c2f0eaddf0ff3a49ded73a46bc1" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Associations: Various</unittitle>
+            <unitdate datechar="creation" normal="1958/1980" type="inclusive">1958-1980</unitdate>
+            <container id="aspace_69b1a70d552656d3529779395e38f590" label="Mixed Materials [31142054617025]" type="Box">2</container>
+            <container id="aspace_e041599757bb23d5830cde53150fd9de" parent="aspace_69b1a70d552656d3529779395e38f590" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Associations: Various</unittitle>
+            <unitdate datechar="creation" normal="1965/1981" type="inclusive">1965-1981</unitdate>
+            <container id="aspace_4a123c0bf0846de1af27205ec309faf1" label="Mixed Materials [31142054617025]" type="Box">2</container>
+            <container id="aspace_87040d635f8777dae39cd7a2f93b6963" parent="aspace_4a123c0bf0846de1af27205ec309faf1" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Associations: Various-Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1960/1971" type="inclusive">1960-1971</unitdate>
+            <container id="aspace_7e3197ebc1e88fe7e0917065a8f8dc39" label="Mixed Materials [31142054617025]" type="Box">2</container>
+            <container id="aspace_9da7da8139273b194a2506f26173d2ec" parent="aspace_7e3197ebc1e88fe7e0917065a8f8dc39" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Career I</unittitle>
+            <unitdate datechar="creation" normal="1949/1971" type="inclusive">1949-1974</unitdate>
+            <container id="aspace_8951996809aac3ddddc884bda7c688ae" label="Mixed Materials [31142054617025]" type="Box">2</container>
+            <container id="aspace_a8683357611b8093ef50dc507c237ae8" parent="aspace_8951996809aac3ddddc884bda7c688ae" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Career II</unittitle>
+            <unitdate datechar="creation" normal="1949/1971" type="inclusive">1949-1971</unitdate>
+            <container id="aspace_20a1f52cf6c45c41d3baa914e734e547" label="Mixed Materials [31142054617025]" type="Box">2</container>
+            <container id="aspace_791aa407529e0a9652c757cafa825a16" parent="aspace_20a1f52cf6c45c41d3baa914e734e547" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Career III</unittitle>
+            <unitdate datechar="creation" normal="1949/1971" type="inclusive">1949-1971</unitdate>
+            <container id="aspace_57db1dc7df9c5f8d2d450a871d16f254" label="Mixed Materials [31142054617025]" type="Box">2</container>
+            <container id="aspace_2e78f93d336e40e787ab4830d4d5492c" parent="aspace_57db1dc7df9c5f8d2d450a871d16f254" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Career: Biographical Information</unittitle>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_8f069ca072baf3671ada492672c7a64a" label="Mixed Materials [31142054617025]" type="Box">2</container>
+            <container id="aspace_f9b949413808981f0453a90dbbda3e36" parent="aspace_8f069ca072baf3671ada492672c7a64a" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Career: Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1965/1971" type="inclusive">1965-1971</unitdate>
+            <container id="aspace_0024c80c8cb186e15acd50badb975791" label="Mixed Materials [31142054617025]" type="Box">2</container>
+            <container id="aspace_82de23d3efbf1631e8e44dbbbbd97848" parent="aspace_0024c80c8cb186e15acd50badb975791" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Career: Publications and Articles</unittitle>
+            <unitdate datechar="creation" normal="1949/1963" type="inclusive">1949-1963, undated</unitdate>
+            <container id="aspace_9f141b16589cc4cb62122ebc8a2dc0cf" label="Mixed Materials [31142054617025]" type="Box">2</container>
+            <container id="aspace_8704869459056bda43ee78d2187727bb" parent="aspace_9f141b16589cc4cb62122ebc8a2dc0cf" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Coolbawn Ambush History</unittitle>
+            <unitdate datechar="creation" normal="1921/1921" type="inclusive">1921</unitdate>
+            <container id="aspace_e1e8c8a0344174eb7799e77759cd42e3" label="Mixed Materials [31142054617025]" type="Box">2</container>
+            <container id="aspace_433f9bc3712526671dfd0f773cc9111b" parent="aspace_e1e8c8a0344174eb7799e77759cd42e3" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Manuscript: A Bit O' Irish History-Drafts</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_829834edf9d7d854c7148957ab0104f0" label="Mixed Materials [31142054617025]" type="Box">2</container>
+            <container id="aspace_b668411759de78c6682fd8bce6d8d09b" parent="aspace_829834edf9d7d854c7148957ab0104f0" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Manuscript: A Bit O' Irish History-Drafts</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_2eb589f0c6801c6be83187ae0cb307b4" label="Mixed Materials [31142054617025]" type="Box">2</container>
+            <container id="aspace_1609c8ddb4bf99feaf7bee704301f514" parent="aspace_2eb589f0c6801c6be83187ae0cb307b4" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Manuscript: Clippings/Index</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978, undated</unitdate>
+            <container id="aspace_0e7b34f2c900293a7779c1c1da4f88b7" label="Mixed Materials [31142054617025]" type="Box">2</container>
+            <container id="aspace_691214befd066dc90f0cc31971c596dc" parent="aspace_0e7b34f2c900293a7779c1c1da4f88b7" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Manuscript: "My Kilkenny I.R.A. Days 1916-1922"-Drafts</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_59550b95656c1c6628b226a67ba762ad" label="Mixed Materials [31142054617025]" type="Box">2</container>
+            <container id="aspace_03cbdc0d307484e59b4804bff2b66bf6" parent="aspace_59550b95656c1c6628b226a67ba762ad" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Manuscript: "My Kilkenny I.R.A. Days 1916-1922"-Drafts I</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_7cfe705cded1cfe11d0aa9c5a4b02b36" label="Mixed Materials [31142054617025]" type="Box">2</container>
+            <container id="aspace_5b88f62f570eeee06b64636f064811eb" parent="aspace_7cfe705cded1cfe11d0aa9c5a4b02b36" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Manuscript: "My Kilkenny I.R.A. Days 1916-1922"-Drafts II</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e787c7f98adbbe47a2ed8f0cce8158d7" label="Mixed Materials [31142054617025]" type="Box">2</container>
+            <container id="aspace_f2383b9532ab208086e808ddbd8fa9eb" parent="aspace_e787c7f98adbbe47a2ed8f0cce8158d7" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Personal</unittitle>
+            <unitdate datechar="creation" normal="1971/1983" type="inclusive">1971-1983</unitdate>
+            <container id="aspace_d5ae275303ac9d5c6984e7cd7df5ffe9" label="Mixed Materials [31142054617033]" type="Box">3</container>
+            <container id="aspace_840dc79ce109e417b85fed1e61cfd74e" parent="aspace_d5ae275303ac9d5c6984e7cd7df5ffe9" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Personal</unittitle>
+            <unitdate datechar="creation" normal="1954/1974" type="inclusive">1954-1974</unitdate>
+            <physdesc id="aspace_7d82ad0d98286bae3b633bc047f73266" label="Container Summary">Letter signed by Mayor John Lindsay</physdesc>
+            <container id="aspace_ad678b7d537dd7a27ebed3559aa84bb5" label="Mixed Materials [31142054617033]" type="Box">3</container>
+            <container id="aspace_04cdbf104f757563459d02ed303b959c" parent="aspace_ad678b7d537dd7a27ebed3559aa84bb5" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Personal</unittitle>
+            <unitdate datechar="creation" normal="1932/1984" type="inclusive">1932-1984</unitdate>
+            <container id="aspace_78cfb87cb131d222031de64380a5a58f" label="Mixed Materials [31142054617033]" type="Box">3</container>
+            <container id="aspace_2f9efdcab02e2953a98f6543a5d9abb4" parent="aspace_78cfb87cb131d222031de64380a5a58f" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Personal</unittitle>
+            <unitdate datechar="creation" normal="1965/1971" type="inclusive">1965-1971</unitdate>
+            <container id="aspace_52a19ef51ad750ff2a7e9e56a38e894f" label="Mixed Materials [31142054617033]" type="Box">3</container>
+            <container id="aspace_c698e5749d3a4cb85df136671c044054" parent="aspace_52a19ef51ad750ff2a7e9e56a38e894f" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Personal</unittitle>
+            <unitdate datechar="creation" normal="1958/1979" type="inclusive">1958-1979</unitdate>
+            <physdesc id="aspace_6d4b96f05a59dbc185cdd732651d83e4" label="Container Summary">Card signed by Eamon de Valera</physdesc>
+            <container id="aspace_3de4ece7b3476db040ba72aeb2b8920d" label="Mixed Materials [31142054617033]" type="Box">3</container>
+            <container id="aspace_580d038900d82c675c74b2b473568455" parent="aspace_3de4ece7b3476db040ba72aeb2b8920d" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Personal: Education I</unittitle>
+            <unitdate datechar="creation" normal="1931/1965" type="inclusive">1931-1965</unitdate>
+            <container id="aspace_c797de84f96d52f8294cdefb03be7850" label="Mixed Materials [31142054617033]" type="Box">3</container>
+            <container id="aspace_c4e90284b25b0d16682c7f2b9966194f" parent="aspace_c797de84f96d52f8294cdefb03be7850" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Personal: Education II</unittitle>
+            <unitdate datechar="creation" normal="1931/1965" type="inclusive">1931-1965</unitdate>
+            <container id="aspace_520e2d544207046ec72fba6f30e9e982" label="Mixed Materials [31142054617033]" type="Box">3</container>
+            <container id="aspace_c122bdc79846307791dc79783870130d" parent="aspace_520e2d544207046ec72fba6f30e9e982" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="file">
+          <did>
+            <unittitle>Personal: Education III: transcripts from school in Ireland</unittitle>
+            <unitdate datechar="creation">1908-1915</unitdate>
+            <container id="aspace_7f69ecb524ac6bec8387b4aeb607283c" label="Mixed Materials [31142054617033]" type="Box">3</container>
+            <container id="aspace_80af377e9b3304b584e1d9c3e3bff75b" parent="aspace_7f69ecb524ac6bec8387b4aeb607283c" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="file">
+          <did>
+            <unittitle>Personal: Education IV: Class notes "Contracts"</unittitle>
+            <unitdate datechar="creation">1942</unitdate>
+            <container id="aspace_7b9cdd9552522065ef9936c831a28993" label="Mixed Materials [31142054617033]" type="Box">3</container>
+            <container id="aspace_b189974c5a5b365d9d45358ae9b27004" parent="aspace_7b9cdd9552522065ef9936c831a28993" type="Folder">8A</container>
+          </did>
+        </c>
+        <c id="aspace_ref118" level="file">
+          <did>
+            <unittitle>Personal: Ephemera: Certificate of Appreciation from the City of New York, signed by Mayor Lindsay</unittitle>
+            <unitdate datechar="creation">Mar 5, 1968</unitdate>
+            <container id="aspace_d0721482446f517367cac28f50eba2d5" label="Mixed Materials [31142054617033]" type="Box">3</container>
+            <container id="aspace_2f5ab9698b8243ec1bcd9a0f63eb61a8" parent="aspace_d0721482446f517367cac28f50eba2d5" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Personal: Ephemera (coat of arms)</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972, undated</unitdate>
+            <container id="aspace_8ac303fad53c565e2c83fe041fdc9c39" label="Mixed Materials [31142054617033]" type="Box">3</container>
+            <container id="aspace_6334434017515b8240c2fa9614d98324" parent="aspace_8ac303fad53c565e2c83fe041fdc9c39" type="Folder">9A</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Personal: Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1916/1949" type="inclusive">1916-1949</unitdate>
+            <container id="aspace_53bbaff32a9476d4df02107ad4911d24" label="Mixed Materials [31142054617033]" type="Box">3</container>
+            <container id="aspace_687c1197d56b5f8a0b47ff979b933cb0" parent="aspace_53bbaff32a9476d4df02107ad4911d24" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Personal: Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1951/1966" type="inclusive">1951-1966</unitdate>
+            <container id="aspace_c08b7a63f8bb81ff4263876e8d27f4c8" label="Mixed Materials [31142054617033]" type="Box">3</container>
+            <container id="aspace_9c94b81184032e5dd1826f006558a523" parent="aspace_c08b7a63f8bb81ff4263876e8d27f4c8" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Personal: Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1951/1970" type="inclusive">1951-1970</unitdate>
+            <container id="aspace_240bb0315e2503fc65ebb772b9350b3f" label="Mixed Materials [31142054617033]" type="Box">3</container>
+            <container id="aspace_f6ba3cba743e1b61c3f54e1b553f3422" parent="aspace_240bb0315e2503fc65ebb772b9350b3f" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Personal: Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1953/1969" type="inclusive">1953-1969</unitdate>
+            <container id="aspace_7878b7ee683f3b6a4d70e0d403b29e68" label="Mixed Materials [31142054617033]" type="Box">3</container>
+            <container id="aspace_10387ce4bad5e38dcffd0eb341d562b4" parent="aspace_7878b7ee683f3b6a4d70e0d403b29e68" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Personal: Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1970/1983" type="inclusive">1970-1983</unitdate>
+            <container id="aspace_20c33d6ee6625549fb17a51c82ac0254" label="Mixed Materials [31142054617033]" type="Box">3</container>
+            <container id="aspace_e436f8fa769fc580a8f8af1437aebaa9" parent="aspace_20c33d6ee6625549fb17a51c82ac0254" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>Personal: Newspaper Clippings</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e5beefb0862bec24ddab5128d794d638" label="Mixed Materials [31142054617033]" type="Box">3</container>
+            <container id="aspace_96be3730f9ee09c134be6c029afae139" parent="aspace_e5beefb0862bec24ddab5128d794d638" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Personal: Newspaper Clippings-Catholic Worker</unittitle>
+            <unitdate datechar="creation" normal="1955/1957" type="inclusive">1955-1957</unitdate>
+            <container id="aspace_266a1fd6336ebee6f5fa48120f8081aa" label="Mixed Materials [31142054617033]" type="Box">3</container>
+            <container id="aspace_3ffb0aa6e0096d996074ca0a4ecd9e78" parent="aspace_266a1fd6336ebee6f5fa48120f8081aa" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Personal: Pamphlets and Publications</unittitle>
+            <unitdate datechar="creation" normal="1935/1970" type="inclusive">1935-1970, undated</unitdate>
+            <container id="aspace_bccb2d8d7fe56f2dc0a344ce45250736" label="Mixed Materials [31142054617033]" type="Box">3</container>
+            <container id="aspace_11dd0a89c0e68b6ebc94f1be67692b5b" parent="aspace_bccb2d8d7fe56f2dc0a344ce45250736" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>Personal: Pamphlets and Publications: <emph render="italic">Humorous Irish Readings</emph>.  McClennon's Penny Recitors and Readings</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_ff7aee211792cd5c09ecf3001cb84bd8" label="Mixed Materials [31142054617033]" type="Box">3</container>
+            <container id="aspace_e65892f5a17721d19580703173f709a2" parent="aspace_ff7aee211792cd5c09ecf3001cb84bd8" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Personal: Pamphlets and Publications-Eire Ireland</unittitle>
+            <unitdate datechar="creation" normal="1966/1968" type="inclusive">1966, 1968</unitdate>
+            <container id="aspace_a928ef84be383fa83971f7a5bbf91c18" label="Mixed Materials [31142054617041]" type="Box">4</container>
+            <container id="aspace_02ae1fd67c45e5979297bd4b0f9699b9" parent="aspace_a928ef84be383fa83971f7a5bbf91c18" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Personal: Writings - History of Ireland, 19th Century</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_7c4f22844ba4f7c3cf40e0bec38a3666" label="Mixed Materials [31142054617041]" type="Box">4</container>
+            <container id="aspace_b95901f689b08e17e7d12991f4f3c96e" parent="aspace_7c4f22844ba4f7c3cf40e0bec38a3666" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="file">
+          <did>
+            <unittitle>Personal: Writings "Only One Man's Little Opinion"</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">Nov 1971</unitdate>
+            <container id="aspace_ba4a5a511f2b3647a9b49481f0838a15" label="Mixed Materials [31142054617041]" type="Box">4</container>
+            <container id="aspace_644067db08d15d9483d3dee10e1d0d9d" parent="aspace_ba4a5a511f2b3647a9b49481f0838a15" type="Folder">2A</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Personal: Writings "Some Unusual Facts About Past Gaelic Games in America"</unittitle>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">circa 1970, undated</unitdate>
+            <container id="aspace_f4b323fe8b9cb77a821ebfcf4068449e" label="Mixed Materials [31142054617041]" type="Box">4</container>
+            <container id="aspace_c69669e4fe0ba0fb9d7f233e33eb3808" parent="aspace_f4b323fe8b9cb77a821ebfcf4068449e" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>Saint Patrick's Day Parade and Celebration Committee </unittitle>
+            <unitdate datechar="creation" normal="1960/1979" type="inclusive">1960-1979</unitdate>
+            <container id="aspace_a84e7ac7fb8db733b66f7c8d0eea05fa" label="Mixed Materials [31142054617041]" type="Box">4</container>
+            <container id="aspace_46fae4111f39b1ded1fb16c1f818824e" parent="aspace_a84e7ac7fb8db733b66f7c8d0eea05fa" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>Saint Patrick's Day Parade and Celebration Committee </unittitle>
+            <unitdate datechar="creation" normal="1960/1980" type="inclusive">1960-1980</unitdate>
+            <container id="aspace_45d7853b9ce575db2442f0283fe7a9ef" label="Mixed Materials [31142054617041]" type="Box">4</container>
+            <container id="aspace_4e3c6bfea750d7b3a237ba6bbee598db" parent="aspace_45d7853b9ce575db2442f0283fe7a9ef" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref5" level="file">
+          <did>
+            <unittitle>Saint Patrick's Day Parade and Celebration Committee I</unittitle>
+            <unitdate datechar="creation" normal="1961/1980" type="inclusive">1961-1980</unitdate>
+            <container id="aspace_8cceef6aecc7d5510423fea134138972" label="Mixed Materials [31142054617041]" type="Box">4</container>
+            <container id="aspace_0767ca94566c27a39620a393abef41ab" parent="aspace_8cceef6aecc7d5510423fea134138972" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref6" level="file">
+          <did>
+            <unittitle>Saint Patrick's Day Parade and Celebration Committee II</unittitle>
+            <unitdate datechar="creation" normal="1961/1980" type="inclusive">1961-1980</unitdate>
+            <container id="aspace_9c89db2b77fd8765791c43a62036f94c" label="Mixed Materials [31142054617041]" type="Box">4</container>
+            <container id="aspace_55c3e2edc27e112113dc15553f270972" parent="aspace_9c89db2b77fd8765791c43a62036f94c" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref9" level="file">
+          <did>
+            <unittitle>Saint Patrick's Day Parade and Celebration Committee </unittitle>
+            <unitdate datechar="creation" normal="1963/1982" type="inclusive">1963-1982</unitdate>
+            <container id="aspace_a97baaee8ac7edb0da644df03c58096b" label="Mixed Materials [31142054617041]" type="Box">4</container>
+            <container id="aspace_4bd845b20080b548031da0229092fa24" parent="aspace_a97baaee8ac7edb0da644df03c58096b" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref7" level="file">
+          <did>
+            <unittitle>Saint Patrick's Day Parade and Celebration Committee I</unittitle>
+            <unitdate datechar="creation" normal="1965/1983" type="inclusive">1965-1983</unitdate>
+            <container id="aspace_03e7e4dbf170677580b1b588a9619473" label="Mixed Materials [31142054617041]" type="Box">4</container>
+            <container id="aspace_6f0ce14eaac0f0c2f4711732108930ec" parent="aspace_03e7e4dbf170677580b1b588a9619473" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref8" level="file">
+          <did>
+            <unittitle>Saint Patrick's Day Parade and Celebration Committee II</unittitle>
+            <unitdate datechar="creation" normal="1965/1983" type="inclusive">1965-1983</unitdate>
+            <container id="aspace_ced202171a2d2157fc2801114001853c" label="Mixed Materials [31142054617041]" type="Box">4</container>
+            <container id="aspace_7f47e86ca6ca603605ebb0c70c163085" parent="aspace_ced202171a2d2157fc2801114001853c" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>Saint Patrick's Day Parade and Celebration Committee I</unittitle>
+            <unitdate datechar="creation" normal="1966/1983" type="inclusive">1966-1983</unitdate>
+            <container id="aspace_54f18f7b6129aa02679105575917a0f4" label="Mixed Materials [31142054617041]" type="Box">4</container>
+            <container id="aspace_1f428372ede01e75334accf06e0ad9bf" parent="aspace_54f18f7b6129aa02679105575917a0f4" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>Saint Patrick's Day Parade and Celebration Committee II</unittitle>
+            <unitdate datechar="creation" normal="1966/1983" type="inclusive">1966-1983</unitdate>
+            <container id="aspace_0ba7d96cd988da017af87e398f7ae5d7" label="Mixed Materials [31142054617041]" type="Box">4</container>
+            <container id="aspace_298ed4f232c2aa8376bec21e4ffb9db4" parent="aspace_0ba7d96cd988da017af87e398f7ae5d7" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Saint Patrick's Day Parade and Celebration Committee: Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1960/1983" type="inclusive">1960-1983</unitdate>
+            <container id="aspace_af6388c89dccf38347c7a4a9c2099e2c" label="Mixed Materials [31142054617041]" type="Box">4</container>
+            <container id="aspace_dc07bd5084ea5e1b15554db373e69a9a" parent="aspace_af6388c89dccf38347c7a4a9c2099e2c" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Saint Patrick's Day Parade and Celebration Committee: Ribbons</unittitle>
+            <unitdate datechar="creation" normal="1961/1965" type="inclusive">1961, 1965, undated</unitdate>
+            <container id="aspace_3b6b9e59d43cbb02441b11ef5ffcb775" label="Mixed Materials [31142054617041]" type="Box">4</container>
+            <container id="aspace_3252fdedc534977a3c302ae906630c6e" parent="aspace_3b6b9e59d43cbb02441b11ef5ffcb775" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Saint Patrick's Day Parade and Celebration Committee: Rules and Regulations for the Conduct of 
+the Parade</unittitle>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_05cd25a45f9ed5a09d0eba8de4524252" label="Mixed Materials [31142054617041]" type="Box">4</container>
+            <container id="aspace_7e82360d46f37fe0644202dc9b9fdfd7" parent="aspace_05cd25a45f9ed5a09d0eba8de4524252" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Speeches</unittitle>
+            <unitdate datechar="creation" normal="1947/1948" type="inclusive">1947-1948</unitdate>
+            <container id="aspace_501b0946e0f7a24dbab7aaf3d215a76a" label="Mixed Materials [31142054617041]" type="Box">4</container>
+            <container id="aspace_a7225014c49de0d8037aa956968d2376" parent="aspace_501b0946e0f7a24dbab7aaf3d215a76a" type="Folder">16</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref85" level="series">
+        <did>
+          <unittitle>Series II. Photographs</unittitle>
+          <unitdate datechar="creation" normal="1960/1970" type="inclusive">1960-1970, undated</unitdate>
+        </did>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>Ancient Order of Hibernians</unittitle>
+            <unitdate datechar="creation" normal="1969/1970" type="inclusive">1969-1970, undated</unitdate>
+            <container id="aspace_7667d0a7787c520693c0d940073800c7" label="Mixed Materials [31142054617058]" type="Box">5</container>
+            <container id="aspace_98eb21bbafd8d0a82e359bc48f75e54e" parent="aspace_7667d0a7787c520693c0d940073800c7" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>Ancient Order of Hibernians</unittitle>
+            <unitdate datechar="creation" normal="1969/1970" type="inclusive">1969-1970, undated</unitdate>
+            <container id="aspace_6ecbdec3f8ea0f6b740a0fe0506df0c8" label="Mixed Materials [31142054617058]" type="Box">5</container>
+            <container id="aspace_374b079ca6c7a7987f553e3d63f3c356" parent="aspace_6ecbdec3f8ea0f6b740a0fe0506df0c8" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>Ancient Order of Hibernians - negatives and newspaper clippings (photocopies)</unittitle>
+            <unitdate datechar="creation" normal="1969/1970" type="inclusive">1969-1970, undated</unitdate>
+            <container id="aspace_31901a8f4af7e5e992ed2fc60334c43c" label="Mixed Materials [31142054617066]" type="Box">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Comerford, James J. (portraits)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_237b5b9cc1a3c664a906f24638bc8ea6" label="Mixed Materials [31142054617058]" type="Box">5</container>
+            <container id="aspace_3a3cff38287b3871494444964b29dcca" parent="aspace_237b5b9cc1a3c664a906f24638bc8ea6" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Comerford, James J. and Vera - Trips to Ireland</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_f9aa419b92a4cb9042086e360e07f82e" label="Mixed Materials [31142054617058]" type="Box">5</container>
+            <container id="aspace_9114b5466bf28c86dd9bf02dc1e7e091" parent="aspace_f9aa419b92a4cb9042086e360e07f82e" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Comerford, James J. with New York City Mayor John Lindsay (autographed by Lindsay)</unittitle>
+            <unitdate datechar="creation">circa 1966-1973</unitdate>
+            <container id="aspace_830f3e12c41592566eaadbc1bb1f3482" label="Mixed Materials [31142054617058]" type="Box">5</container>
+            <container id="aspace_26ce32ddee8b994cde40b0eb08e03b9d" parent="aspace_830f3e12c41592566eaadbc1bb1f3482" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>Comerford, James J. with Others</unittitle>
+            <unitdate datechar="creation" normal="1960/1970" type="inclusive">circa 1960-1970</unitdate>
+            <container id="aspace_a7b4a88b2c5c584b57cf850e32038540" label="Mixed Materials [31142054617058]" type="Box">5</container>
+            <container id="aspace_3340331b35a2633228d3453bdea39133" parent="aspace_a7b4a88b2c5c584b57cf850e32038540" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref120" level="file">
+          <did>
+            <unittitle>Comerford, James J.: Personal, unidentified</unittitle>
+            <container id="aspace_78e7264203ae10de6614fb132a03445f" label="Mixed Materials [31142054617058]" type="Box">5</container>
+            <container id="aspace_b1b718b98f1b99a7c5d24e0093433fec" parent="aspace_78e7264203ae10de6614fb132a03445f" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Comerford, Vera (many with James)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_8848ed0cfaf501041f17370d325a1238" label="Mixed Materials [31142054617058]" type="Box">5</container>
+            <container id="aspace_d59cccf519a3751c713e6cf1cdbe2cd0" parent="aspace_8848ed0cfaf501041f17370d325a1238" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>Group photographs</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_3f16fa5c5ffad3297e423a869c119905" label="Mixed Materials [31142054617058]" type="Box">5</container>
+            <container id="aspace_435c6d4fbde5a946ab2f4c3128fb03b1" parent="aspace_3f16fa5c5ffad3297e423a869c119905" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref119" level="file">
+          <did>
+            <unittitle>Group photographs
+</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="OS Flat Box - 15x19x3" id="aspace_abfc79a39fa73496a90fc09fbd17ffb0" label="Mixed Materials [31142054617132]" type="Box">7</container>
+            <container id="aspace_0f642af572b2787394c87dad4e5e71fd" parent="aspace_abfc79a39fa73496a90fc09fbd17ffb0" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>Kilkenny, aerial view</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="OS Flat Box - 15x19x3" id="aspace_2c652a6c7a070c62d1469adf8014fb9e" label="Mixed Materials [31142054617132]" type="Box">7</container>
+            <container id="aspace_052232b52dafa03528a8bc1f4fc6a3e7" parent="aspace_2c652a6c7a070c62d1469adf8014fb9e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>Personal, unidentified</unittitle>
+            <unitdate datechar="creation">1966, undated</unitdate>
+            <container id="aspace_dd831c99a44d31584ef5c5577b527a4e" label="Mixed Materials [31142054617058]" type="Box">5</container>
+            <container id="aspace_3380d2d98bc781f94203eebc9f621654" parent="aspace_dd831c99a44d31584ef5c5577b527a4e" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref122" level="file">
+          <did>
+            <unittitle>Personal, unidentified</unittitle>
+            <container altrender="OS Flat Box - 15x19x3" id="aspace_4b069dd18fd6e546367231f75d116785" label="Mixed Materials [31142054617132]" type="Box">7</container>
+            <container id="aspace_d78fd8a5b6f51f384c0479200656221c" parent="aspace_4b069dd18fd6e546367231f75d116785" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>St Patricks Day Parade </unittitle>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970, undated</unitdate>
+            <container id="aspace_7ec6371d13b28b6e45074b67d0db9a7a" label="Mixed Materials [31142054617058]" type="Box">5</container>
+            <container id="aspace_ddeba747995d099937745b6cc5ff3091" parent="aspace_7ec6371d13b28b6e45074b67d0db9a7a" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref125" level="file">
+          <did>
+            <unittitle>St Patricks Day Parade (segregated photographs)</unittitle>
+            <unitdate datechar="creation">1965</unitdate>
+            <container altrender="Hollinger Flat OS 14" id="aspace_b2e07f5e8f050ac53f3462efac1c776d" label="Mixed Materials [31142054617090]" type="Box">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="file">
+          <did>
+            <unittitle>St Patricks Day Parade (several oversize photographs; include images of Ed Koch, Roslyn Carter, Daniel Moynihan plus many aerial views from 630 5th Avenue) 7 photographs</unittitle>
+            <unitdate datechar="creation" normal="1965/1980" type="inclusive">1965-1980</unitdate>
+            <container altrender="OS Flat Box - 15x19x3" id="aspace_bc9b8cce3aa522e8cf5cd826373a04bb" label="Mixed Materials [31142054617132]" type="Box">7</container>
+            <container id="aspace_84b8003e6ad58aeac8c41ce2239a0944" parent="aspace_bc9b8cce3aa522e8cf5cd826373a04bb" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref123" level="file">
+          <did>
+            <unittitle>Unidentified Speaker with Comerford, behind Harp</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="OS Flat Box - 15x19x3" id="aspace_e9bda9073ae93b06220df4e41d8da336" label="Mixed Materials [31142054617132]" type="Box">7</container>
+            <container id="aspace_8e838ca5ba42494801816eb28b170925" parent="aspace_e9bda9073ae93b06220df4e41d8da336" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>Workers Union of Ireland</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="OS Flat Box - 15x19x3" id="aspace_434c597cdf513471336e7dee618d786a" label="Mixed Materials [31142054617132]" type="Box">7</container>
+            <container id="aspace_ddb2f38ec9e037c2ea0a8ec710cea35b" parent="aspace_434c597cdf513471336e7dee618d786a" type="Folder">2</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref87" level="series">
+        <did>
+          <unittitle>Series III. Memorabilia</unittitle>
+          <unitdate datechar="creation">1953-1982</unitdate>
+        </did>
+        <c id="aspace_ref113" level="file">
+          <did>
+            <unittitle>Book: "History of Europe: Our Own Times" by James Harvey Robinson and Charles A. Beard.  Inscribed: James J. Comerford, February 1930, School Y.M.C.A. Brooklyn"</unittitle>
+            <unitdate datechar="creation">1927</unitdate>
+            <container id="aspace_645c21f81575b9337d11c1f9757565e4" label="Mixed Materials [31142054617066]" type="Box">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref116" level="file">
+          <did>
+            <unittitle>Book: "Cushing's Manual of Parliamentary Practice" 1928. Inscribed "James J Comerford"</unittitle>
+            <unitdate datechar="creation">1928</unitdate>
+            <container id="aspace_3b438dea26d47531c0d8fc38877887d8" label="Mixed Materials [31142054617066]" type="Box">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref124" level="file">
+          <did>
+            <unittitle>Commendation: NYU Founders Day Award</unittitle>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+            <container altrender="OS Flat Box - 15x19x3" id="aspace_484333971fb929b59087b78e762d0a26" label="Mixed Materials [31142054617132]" type="Box">7</container>
+            <container id="aspace_77ed21d39a25767e99b27df37a7142d1" parent="aspace_484333971fb929b59087b78e762d0a26" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>Daybook Calendar </unittitle>
+            <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
+            <container id="aspace_9f3d4aac0f97d0c4518fe0fdc781a207" label="Mixed Materials [31142054617066]" type="Box">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="file">
+          <did>
+            <unittitle>Scrapbook and Daily Calendar; includes newspaper clippings, mention of Vera's death and other notes</unittitle>
+            <unitdate datechar="creation">1980-1984</unitdate>
+            <container id="aspace_f9d8609f3fd4cc4b0462c7d7f60b7d0f" label="Mixed Materials [31142054617066]" type="Box">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>Plaques (8) : including 3 on retirement from bench, one a letter from Mayor Lindsay on retirement; contributions to Irish Culture and chairmanship of SPD Parade</unittitle>
+            <unitdate datechar="creation">1963-1982</unitdate>
+            <container altrender="OS Flat Box - 15x19x3" id="aspace_33a9ed6a63b9df40d56fc19d0bb2a285" label="Realia [31142054617124]" type="Box">8</container>
+            <container altrender="OS Flat Box - 15x19x3" id="aspace_0f2927ff7a27bf8e528c1b127826137e" label="Realia [31142054617108]" type="Box">10</container>
+            <container altrender="OS Flat Box - 15x19x3" id="aspace_0d1eb80827d329a1cec5307e75361422" label="Realia [31142054617116]" type="Box">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref117" level="file">
+          <did>
+            <unittitle>Plate: Ancient Order of Hibernians Honorary Lifetime Membership</unittitle>
+            <unitdate datechar="creation">Aug 6, 1964</unitdate>
+            <container id="aspace_4d1a4eb20024b3d4d27eb9ff029a4aa5" label="Mixed Materials [31142054617066]" type="Box">6</container>
+          </did>
+        </c>
+        <c id="aspace_8581edf45dd08bbd8b62b924deae4a14" level="file">
+          <did>
+            <unittitle>Plaque: Ancient Order of Hibernians in America Testimonial </unittitle>
+            <unitdate datechar="creation" normal="1963-05-11/1963-05-11">May 11, 1963</unitdate>
+            <container altrender="OS Flat Box - 19 " id="aspace_8a59fb2318f0c05660c88fbb04b03048" label="Mixed Materials [31142063398609]" type="Box">13</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref126" level="series">
+        <did>
+          <unittitle>Series IV. Audio</unittitle>
+          <unitdate datechar="creation">1937-1938</unitdate>
+        </did>
+        <c id="aspace_ref127" level="item">
+          <did>
+            <unittitle>Aluminum Disk: Side 1: 1. JJC; 2. "Haynes Speech Reply" 2nd Record Part 1; Side 2: "A fox looked at his shadow" 1st Record, 2 parts,</unittitle>
+            <unitdate datechar="creation" normal="1937/1937" type="inclusive">Mar 1937 - May 1937</unitdate>
+            <container altrender="Flat Box 11.75 x 15.5 - thin" id="aspace_2718f2ef554d67d7283618a43e60d7d6" label="Audio [31142054617082]" type="Box">11</container>
+            <container id="aspace_ce952a30e55cb0ebb5b76e2f17a753eb" parent="aspace_2718f2ef554d67d7283618a43e60d7d6" type="Item">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref128" level="item">
+          <did>
+            <unittitle>Aluminum Disk: Side 1: 1. Extempo, Speaking Purpose "To Stir the Emotions"; 2. Mr. Halliday Hospital Scene onf blank side of record no makes [?sic[ name... / Recorded at Columbia University; Side 2: "Advertising"  on side of makes name of record</unittitle>
+            <unitdate datechar="creation">Nov 8, 1937</unitdate>
+            <container altrender="Flat Box 11.75 x 15.5 - thin" id="aspace_31b99e62f7a842532aadc647c33500d8" label="Audio [31142054617082]" type="Box">11</container>
+            <container id="aspace_eb4d82d85ad5f4087be712721e8c5de7" parent="aspace_31b99e62f7a842532aadc647c33500d8" type="Item">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref129" level="item">
+          <did>
+            <unittitle>Aluminum Disk: Side 1:  Track 1. "What is your language?" ... ? ... German and French; 
 Track 2. poem [...?...] 1938; Track 3. Burke [?] - narrow side  Side 2: 1. Burke, 2. Webster, 
-3. Webster wide side; Webster too fast (legislation); Burke too fast (soil)</unittitle><unitdate datechar="creation" normal="1938/1938" type="inclusive">Mar 2, 1938 - May 18, 1938</unitdate><container altrender="Flat Box 11.75 x 15.5 - thin" id="aspace_9e703be104d5714c65ce43bb76030632" label="Audio [31142054617082]" type="Box">11</container><container id="aspace_34f72458d65e95349b313178b62eedec" parent="aspace_9e703be104d5714c65ce43bb76030632" type="Item">3</container></did></c><c id="aspace_ref130" level="item"><did><unittitle>Aluminum Disk: Play with ... [?] ... Thomas Davis Players  Side 1. 7. Mary O'Neill, 8. John Duffy
-9. David Donaghy; Side 2. 9. David Donaghy (continuted), 10. Martin Walsh</unittitle><unitdate datechar="creation" normal="1938/1938" type="inclusive">Apr 19, 1938</unitdate><container altrender="Flat Box 11.75 x 15.5 - thin" id="aspace_e04b45de9b7ebd9e7ff2adc024606e30" label="Audio [31142054617082]" type="Box">11</container><container id="aspace_33dbefdf6ce369726d04a34c8fac3b63" parent="aspace_e04b45de9b7ebd9e7ff2adc024606e30" type="Item">4</container></did></c></c></dsc>
-</archdesc>
+3. Webster wide side; Webster too fast (legislation); Burke too fast (soil)</unittitle>
+            <unitdate datechar="creation" normal="1938/1938" type="inclusive">Mar 2, 1938 - May 18, 1938</unitdate>
+            <container altrender="Flat Box 11.75 x 15.5 - thin" id="aspace_9e703be104d5714c65ce43bb76030632" label="Audio [31142054617082]" type="Box">11</container>
+            <container id="aspace_34f72458d65e95349b313178b62eedec" parent="aspace_9e703be104d5714c65ce43bb76030632" type="Item">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref130" level="item">
+          <did>
+            <unittitle>Aluminum Disk: Play with ... [?] ... Thomas Davis Players  Side 1. 7. Mary O'Neill, 8. John Duffy
+9. David Donaghy; Side 2. 9. David Donaghy (continuted), 10. Martin Walsh</unittitle>
+            <unitdate datechar="creation" normal="1938/1938" type="inclusive">Apr 19, 1938</unitdate>
+            <container altrender="Flat Box 11.75 x 15.5 - thin" id="aspace_e04b45de9b7ebd9e7ff2adc024606e30" label="Audio [31142054617082]" type="Box">11</container>
+            <container id="aspace_33dbefdf6ce369726d04a34c8fac3b63" parent="aspace_e04b45de9b7ebd9e7ff2adc024606e30" type="Item">4</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

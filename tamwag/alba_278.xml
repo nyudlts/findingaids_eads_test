@@ -1,65 +1,390 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/alba_278">alba_278</eadid><filedesc><titlestmt><titleproper>Guide to the Milton White Papers <num>ALBA.278</num></titleproper><author>Daniel Michelson, 2011</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:16:42 -0400</date>.</creation><langusage>English</langusage></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Milton White Papers</unittitle>
-    <origination label="Creator">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/alba_278">alba_278</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Milton White Papers <num>ALBA.278</num></titleproper>
+        <author>Daniel Michelson, 2011</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:16:42 -0400</date>.</creation>
+      <langusage>English</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Milton White Papers</unittitle>
+      <origination label="Creator">
+        <persname source="local">White, Milton, 1917-</persname>
+      </origination>
+      <unitid>ALBA.278</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+        <extent altrender="carrier">(1 box)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1920/1946" type="inclusive">1920-1946</unitdate>
+      <unitdate datechar="creation" normal="1933/1939" type="bulk">1933-1939</unitdate>
+      <abstract id="aspace_22cb260facd210a52eec46d3d93026d2">Abraham Lincoln Brigade veteran Milton White was born as Morris White in Cleveland in 1917 to Ephim "Hyman" White (born 1894 in Russia) and Tanya White (also known as Tania Martini).  Within a few years, White was living in Brooklyn, where his parents were active in the Communist Party.  The collection contains White's writings, incoming correspondence, and artifacts from the Spanish Civil War.  A scrapbook and several notebooks belonging to his parents are also included.</abstract>
+      <langmaterial id="aspace_8f08261cee9d8b1400df209653463586">Materials are in English, Russian, and Spanish.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_23e7b66c5a4c67b1b4167b227bffc27c">
+      <head>Access Restrictions</head>
+      <p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>
+    </accessrestrict>
+    <prefercite id="aspace_c5c9fa3527fbd62e66bf6537cc78c070">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <userestrict id="aspace_b5c9d51b0cfbc36d78a7b2047d0a5938">
+      <head>Use Restrictions</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. For more information, please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives, tamiment.wagner@nyu.edu or 212-998-2630.</p>
+    </userestrict>
+    <separatedmaterial id="aspace_10a6e966c9d74005046b84d0ea1a460f">
+      <head>Separated Materials</head>
+      <p>Fifteen photographs and one transparency were separated from the collection to form Series XXIX of the Abraham Lincoln Brigade Archives: Small Photographs Collection (ALBA PHOTO 36).</p>
+    </separatedmaterial>
+    <bioghist id="aspace_f9169ed17ddec7cdb283a7f2ca67002b">
+      <head>Historical/Biographical Note</head>
+      <p>Abraham Lincoln Brigade veteran Milton White was born as Morris White in Cleveland in 1917 to Ephim "Hyman" White (born 1894 in Russia) and Tanya White (also known as Tania Martini).  Within a few years, White was living in Brooklyn, where his parents were active in the Communist Party.</p>
+      <p>In 1937, White volunteered for service in the Abraham Lincoln Brigade, which fought on the Republican side in the Spanish Civil War.  He left for Spain on the <emph render="italic">Paris</emph> on March 27, 1937.  While serving as a private, sometimes using the name Morris White, he was wounded several times.  While in Spain, he wrote fictional stories, poems, plays, and songs about the war.</p>
+      <p>White returned home from Spain with a large contingent of veterans on the <emph render="italic">Ausonia</emph> on Dec 20, 1938.  He joined the Veterans of the Abraham Lincoln Brigade (VALB) and was actively involved in VALB events for the next couple of years.  A practiced musician, he often entertained attendees with his Spanish guitar.</p>
+      <p>During the Second World War, White served in the U. S. Army as a private.  By the end of the war, he was serving in the Miami field office of the Military Intelligence Division.</p>
+    </bioghist>
+    <scopecontent id="aspace_74e5e3084188b189acf068ef28be9636">
+      <head>Scope and Content Note</head>
+      <p>The collection contains White's writings, incoming correspondence, and artifacts from the Spanish Civil War.  A scrapbook and several notebooks belonging to his parents are also included.</p>
+      <p><emph render="bold">Series I: Spanish Civil War, 1937-1939</emph> contains artifacts, International Brigade documents, correspondence, and writings relating to White's service.  The only outgoing correspondence is two brief notes to his parents.  However, the incoming correspondence includes letters from his parents and friends, including two written by Spanish correspondents.  White's fictional writings about the Spanish Civil War include stories, poems, plays, and songs (some of the latter in Spanish).</p>
+      <p><emph render="bold">Series II: General Files, 1920-1946</emph> consists largely of notes and notebooks kept by White's parents, mostly in Russian.  There is also an identity certificate issued by the Russian Consul in New York to Ephim White in 1920.  Finally, there is a small amount of material on Milton White's activities after his return from Spain.</p>
+      <p><emph render="bold">Series III: Scrapbook</emph> is made up of pages from a scrapbook kept by White's parents during the time he was in Spain.  Most of the material is in the form of newspaper clippings and flyers.  It covers the subject of the Spanish Civil War, especially as it relates to White, as well as general leftist activities during this period.</p>
+    </scopecontent>
+    <arrangement id="aspace_41a1bc2dca22475c192823d272cd6a13">
+      <head>Arrangement</head>
+      <p>The collection is arranged into three series:</p>
+      <p>Series I: Spanish Civil War, 1937-1939</p>
+      <p>Series II: Subject Files, 1920-1946</p>
+      <p>Series III: Scrapbook, circa 1937-1939</p>
+      <p>Folders are arranged alphabetically.</p>
+    </arrangement>
+    <relatedmaterial id="aspace_42c53c7d120a996cba35e0f9d790a823">
+      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+      <p>ALBA collections at the Tamiment Library.</p>
+    </relatedmaterial>
+    <custodhist id="aspace_6896b69db8f0b26f25cb403006b3e553">
+      <head>Provenance</head>
+      <p>The Milton White Papers were donated to the Tamiment Library by Judith and Jason Ross and Howard and Joanne White in December 2009.</p>
+    </custodhist>
+    <controlaccess>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, Jewish.</geogname>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, American</geogname>
+      <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |v Poetry.</geogname>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Songs and music.</geogname>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Veterans.</geogname>
+      <subject source="lcsh">Communism -- New York (State) -- New York</subject>
+      <subject source="lcsh">Jewish communists -- New York (State) -- New York.</subject>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939.</geogname>
+      <corpname authfilenumber="(lccn)n88119969" source="naf">Veterans of the Abraham Lincoln Brigade</corpname>
+      <corpname authfilenumber="(lccn)nr99000072" source="naf">Friends of the Abraham Lincoln Brigade</corpname>
       <persname source="local">White, Milton, 1917-</persname>
-    </origination>
-    <unitid>ALBA.278</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
-      <extent altrender="carrier">(1 box)</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1920/1946" type="inclusive">1920-1946</unitdate>
-    <unitdate datechar="creation" normal="1933/1939" type="bulk">1933-1939</unitdate>
-    <abstract id="aspace_22cb260facd210a52eec46d3d93026d2">Abraham Lincoln Brigade veteran Milton White was born as Morris White in Cleveland in 1917 to Ephim "Hyman" White (born 1894 in Russia) and Tanya White (also known as Tania Martini).  Within a few years, White was living in Brooklyn, where his parents were active in the Communist Party.  The collection contains White's writings, incoming correspondence, and artifacts from the Spanish Civil War.  A scrapbook and several notebooks belonging to his parents are also included.</abstract>
-    <langmaterial id="aspace_8f08261cee9d8b1400df209653463586">Materials are in English, Russian, and Spanish.</langmaterial>
-  </did>
-  <accessrestrict id="aspace_23e7b66c5a4c67b1b4167b227bffc27c">
-    <head>Access Restrictions</head>
-<p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>  </accessrestrict>
-  <prefercite id="aspace_c5c9fa3527fbd62e66bf6537cc78c070">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
-  <userestrict id="aspace_b5c9d51b0cfbc36d78a7b2047d0a5938">
-    <head>Use Restrictions</head>
-<p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. For more information, please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives, tamiment.wagner@nyu.edu or 212-998-2630.</p>  </userestrict>
-  <separatedmaterial id="aspace_10a6e966c9d74005046b84d0ea1a460f">
-    <head>Separated Materials</head>
-<p>Fifteen photographs and one transparency were separated from the collection to form Series XXIX of the Abraham Lincoln Brigade Archives: Small Photographs Collection (ALBA PHOTO 36).</p>  </separatedmaterial>
-  <bioghist id="aspace_f9169ed17ddec7cdb283a7f2ca67002b">
-    <head>Historical/Biographical Note</head>
-<p>Abraham Lincoln Brigade veteran Milton White was born as Morris White in Cleveland in 1917 to Ephim "Hyman" White (born 1894 in Russia) and Tanya White (also known as Tania Martini).  Within a few years, White was living in Brooklyn, where his parents were active in the Communist Party.</p><p>In 1937, White volunteered for service in the Abraham Lincoln Brigade, which fought on the Republican side in the Spanish Civil War.  He left for Spain on the <emph render="italic">Paris</emph> on March 27, 1937.  While serving as a private, sometimes using the name Morris White, he was wounded several times.  While in Spain, he wrote fictional stories, poems, plays, and songs about the war.</p><p>White returned home from Spain with a large contingent of veterans on the <emph render="italic">Ausonia</emph> on Dec 20, 1938.  He joined the Veterans of the Abraham Lincoln Brigade (VALB) and was actively involved in VALB events for the next couple of years.  A practiced musician, he often entertained attendees with his Spanish guitar.</p><p>During the Second World War, White served in the U. S. Army as a private.  By the end of the war, he was serving in the Miami field office of the Military Intelligence Division.</p>  </bioghist>
-  <scopecontent id="aspace_74e5e3084188b189acf068ef28be9636">
-    <head>Scope and Content Note</head>
-<p>The collection contains White's writings, incoming correspondence, and artifacts from the Spanish Civil War.  A scrapbook and several notebooks belonging to his parents are also included.</p><p><emph render="bold">Series I: Spanish Civil War, 1937-1939</emph> contains artifacts, International Brigade documents, correspondence, and writings relating to White's service.  The only outgoing correspondence is two brief notes to his parents.  However, the incoming correspondence includes letters from his parents and friends, including two written by Spanish correspondents.  White's fictional writings about the Spanish Civil War include stories, poems, plays, and songs (some of the latter in Spanish).</p><p><emph render="bold">Series II: General Files, 1920-1946</emph> consists largely of notes and notebooks kept by White's parents, mostly in Russian.  There is also an identity certificate issued by the Russian Consul in New York to Ephim White in 1920.  Finally, there is a small amount of material on Milton White's activities after his return from Spain.</p><p><emph render="bold">Series III: Scrapbook</emph> is made up of pages from a scrapbook kept by White's parents during the time he was in Spain.  Most of the material is in the form of newspaper clippings and flyers.  It covers the subject of the Spanish Civil War, especially as it relates to White, as well as general leftist activities during this period.</p>  </scopecontent>
-  <arrangement id="aspace_41a1bc2dca22475c192823d272cd6a13">
-    <head>Arrangement</head>
-<p>The collection is arranged into three series:</p><p>Series I: Spanish Civil War, 1937-1939</p><p>Series II: Subject Files, 1920-1946</p><p>Series III: Scrapbook, circa 1937-1939</p><p>Folders are arranged alphabetically.</p>  </arrangement>
-  <relatedmaterial id="aspace_42c53c7d120a996cba35e0f9d790a823">
-    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-<p>ALBA collections at the Tamiment Library.</p>  </relatedmaterial>
-  <custodhist id="aspace_6896b69db8f0b26f25cb403006b3e553">
-    <head>Provenance</head>
-<p>The Milton White Papers were donated to the Tamiment Library by Judith and Jason Ross and Howard and Joanne White in December 2009.</p>  </custodhist>
-  <controlaccess>
-    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, Jewish.</geogname>
-    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, American</geogname>
-    <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |v Poetry.</geogname>
-    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Songs and music.</geogname>
-    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Veterans.</geogname>
-    <subject source="lcsh">Communism -- New York (State) -- New York</subject>
-    <subject source="lcsh">Jewish communists -- New York (State) -- New York.</subject>
-    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939.</geogname>
-    <corpname authfilenumber="(lccn)n88119969" source="naf">Veterans of the Abraham Lincoln Brigade</corpname>
-    <corpname authfilenumber="(lccn)nr99000072" source="naf">Friends of the Abraham Lincoln Brigade</corpname>
-    <persname source="local">White, Milton, 1917-</persname>
-    <persname source="local">White, Ephim "Hyman", 1894-</persname>
-    <corpname source="naf">Spain. Ejército Popular de la República. Abraham Lincoln Battalion</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_ref2" level="series"><did><unittitle>Series I: Spanish Civil War, 1937-1939</unittitle></did><c id="aspace_ref3" level="file"><did><unittitle>Artifacts from Spain (wallet and pins)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_1532b174112a0d34ece98568f39cf526" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_4f29432ab6a535430100b37fd544c0ee" parent="aspace_1532b174112a0d34ece98568f39cf526" type="Folder">1</container></did></c><c id="aspace_ref4" level="file"><did><unittitle>Correspondence: Ephim and Tanya White to Milton White</unittitle><unitdate datechar="creation" normal="1938/1938" type="inclusive">May and Aug 1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_d8343ac82405e671daf4083bbd6b9574" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_c942c02436edf797b7d90f7c82c5b7a4" parent="aspace_d8343ac82405e671daf4083bbd6b9574" type="Folder">2</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>Correspondence: Jack Sheldon to Milton White</unittitle><unitdate datechar="creation" normal="1938/1938" type="inclusive">Aug 1, 1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_6ec727d0e06259a1fdd71b129894c4ac" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_af9af7a94bd14b5bc858c02325eca263" parent="aspace_6ec727d0e06259a1fdd71b129894c4ac" type="Folder">3</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Correspondence: Milton White to Ephim and Tanya White</unittitle><unitdate datechar="creation" normal="1937/1938" type="inclusive">Aug 2, 1937, Dec 18, 1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_66f76bf7c711d4e39f83f84a5ef3c849" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_a3daaf8d9468ae87d47842550ae686e7" parent="aspace_66f76bf7c711d4e39f83f84a5ef3c849" type="Folder">4</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Correspondence: Spanish Residents to Milton White (in Spanish)</unittitle><unitdate datechar="creation" normal="1938/1938" type="inclusive">Jul 1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_21209ecd6502a4deedecb8b5f136b4a3" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_ba87a7accfff4e344049e23918ee248b" parent="aspace_21209ecd6502a4deedecb8b5f136b4a3" type="Folder">5</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Correspondence: To Milton White on Return from Spain</unittitle><unitdate datechar="creation" normal="1938/1938" type="inclusive">Dec 20, 1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_8315647c7bd36aae1b9ba80fb007c67f" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_7f159398d50a4c485bad2eb982ae2c96" parent="aspace_8315647c7bd36aae1b9ba80fb007c67f" type="Folder">6</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Correspondence: Unsigned Letter to Milton White (from Barcelona)</unittitle><unitdate datechar="creation" normal="1938/1938" type="inclusive">Circa 1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_af056e355657cd0917bd24b36391afb6" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_3ad7fd52c9cc8b0af2853d7d2297fdbe" parent="aspace_af056e355657cd0917bd24b36391afb6" type="Folder">7</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>International Brigade Documents about White</unittitle><unitdate datechar="creation" normal="1937/1938" type="inclusive">Apr 1937-Nov 1938, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_a58e8aa8e0bc678849edb213444ce6e6" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_d919e24b66813b200e3a3b9f9e9cc01b" parent="aspace_a58e8aa8e0bc678849edb213444ce6e6" type="Folder">8</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Membership Books and Cards</unittitle><unitdate datechar="creation" normal="1938/1939" type="inclusive">1938-1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_fd4dd6d633b1b2c8018db6c84f5e4ee5" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_e7f45d2aa5c82ca0e1216d0dc151ff43" parent="aspace_fd4dd6d633b1b2c8018db6c84f5e4ee5" type="Folder">9</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Pamphlet: <emph render="italic">Franco's 'Mein Kampf'</emph> (Spanish Information Bureau)</unittitle><unitdate datechar="creation" normal="1939/1939" type="inclusive">Jan 1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_abba567f5de778fa90b0f9317e93b3b4" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_d62ef055b1cfcbab2107ef83ab09455a" parent="aspace_abba567f5de778fa90b0f9317e93b3b4" type="Folder">10</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Pamphlet: <emph render="italic">Galicia Martir estampas por Castelao</emph></unittitle><unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_fff6109eedf5c659d2f971888cf7f09c" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_edb21db03eca7521da00520aba3ccc5c" parent="aspace_fff6109eedf5c659d2f971888cf7f09c" type="Folder">11</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Receipts from Spain</unittitle><unitdate datechar="creation" normal="1938/1938" type="inclusive">1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_00d4691105db9d5f9fe4c12d6d51b4fc" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_c3848add7619cc6fd33d1636d5d0f969" parent="aspace_00d4691105db9d5f9fe4c12d6d51b4fc" type="Folder">12</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Returning from Spain on the RMS Ausonia (Memorabilia)</unittitle><unitdate datechar="creation" normal="1938/1938" type="inclusive">Dec 1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_175ffa38f5250607f73548de68d32239" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_3379e286efe66cdb6f4c9c3d985859f0" parent="aspace_175ffa38f5250607f73548de68d32239" type="Folder">13</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Writings</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_983faf6c5e787721a4397720b4b9cdee" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_efc59464100530896492aa4f6572e8f8" parent="aspace_983faf6c5e787721a4397720b4b9cdee" type="Folder">14</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Writings: Plays, Poems, and Songs</unittitle><unitdate datechar="creation" normal="1938/1938" type="inclusive">Circa 1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_ea93905c2225cdcca4d5ce258aef4ee0" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_65b1c8b134e84f849f273f414f60c93e" parent="aspace_ea93905c2225cdcca4d5ce258aef4ee0" type="Folder">15</container></did></c></c><c id="aspace_ref18" level="series"><did><unittitle>Series II: Subject Files, 1920-1946</unittitle></did><c id="aspace_ref19" level="file"><did><unittitle>Addresses and Business Cards</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_1a3bdd6a7e1d8cd6a100dd700b92335a" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_30cde038c72c0132f28c9f223c73f4b6" parent="aspace_1a3bdd6a7e1d8cd6a100dd700b92335a" type="Folder">16</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Correspondence (incoming)</unittitle><unitdate datechar="creation" normal="1939/1939" type="inclusive">Feb-Mar 1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_53deaac29b4848cf31a71e0bd15b248b" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_888e03b8398075dff7d23f98f612bd5c" parent="aspace_53deaac29b4848cf31a71e0bd15b248b" type="Folder">17</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Envelope Addressed to Milton White</unittitle><unitdate datechar="creation" normal="1936/1936" type="inclusive">Sep 11, 1936</unitdate><container altrender="Manuscript box - Legal" id="aspace_b3ed0c09564bba25f27df4145d107559" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_3f1fdb3730fe633b78719812a2063382" parent="aspace_b3ed0c09564bba25f27df4145d107559" type="Folder">18</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Letter of Recommendation from Commanding Officer</unittitle><unitdate datechar="creation" normal="1946/1946" type="inclusive">1946</unitdate><container altrender="Manuscript box - Legal" id="aspace_5dbf59a119cbbe90d3b747e3badba935" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_2ef11df4ed2c153f1ec63d321d76f1e6" parent="aspace_5dbf59a119cbbe90d3b747e3badba935" type="Folder">19</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Notes in English and Russian (by Tanya White?)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_97dce72900b13a18e33ebab4d48068c8" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_4dd6849ed9f9cbb7a9d7d162835144ac" parent="aspace_97dce72900b13a18e33ebab4d48068c8" type="Folder">20</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Notes in Russian</unittitle><unitdate datechar="creation" normal="1934/1937" type="inclusive">1934, 1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_c4321e8521981569a425dd23cfe56694" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_98dcc53df0e9318a8ed37bf9d8cd755e" parent="aspace_c4321e8521981569a425dd23cfe56694" type="Folder">21</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Pamphlet: <emph render="italic">The Truth about Finland</emph> (<emph render="italic">Daily Worker</emph>)</unittitle><unitdate datechar="creation" normal="1939/1939" type="inclusive">[1939]</unitdate><container altrender="Manuscript box - Legal" id="aspace_33fe72349ee96d0c4e96a63581092ba4" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_238647792c49e1f66f036383f13fb933" parent="aspace_33fe72349ee96d0c4e96a63581092ba4" type="Folder">22</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>United States Army Uniform Patch</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_b681f798b3999a74664fbff2944d249d" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_092dcfcbbd83893c8ec6640e4cd7a50b" parent="aspace_b681f798b3999a74664fbff2944d249d" type="Folder">23</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>White, Ephim Identity Certificate Issued by Soviet Consul in New York City</unittitle><unitdate datechar="creation" normal="1920/1920" type="inclusive">1920</unitdate><container altrender="Manuscript box - Legal" id="aspace_3ebe0c7d2812680bde48b48d2a91c677" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_62a5c647a431d98e0f003e99d57790e7" parent="aspace_3ebe0c7d2812680bde48b48d2a91c677" type="Folder">24</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>White, Ephim Notebook: English and Russian (includes minutes of Communist Party Council 43 meetings)</unittitle><unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate><container altrender="Manuscript box - Legal" id="aspace_1817ec1576ddd28f76f81c6d4f8f319b" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_a9a992ff1d2049a3c9795e4e0594b9c4" parent="aspace_1817ec1576ddd28f76f81c6d4f8f319b" type="Folder">25</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>White, Ephim Notebook: Russian (I)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_a4a173bbf2999b1b0752ff4ea28103c8" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_565a0ff50c54756589e213dd3a49717f" parent="aspace_a4a173bbf2999b1b0752ff4ea28103c8" type="Folder">26</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>White, Ephim Notebook: Russian (II)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_ab3dfd09980f39d99b4ca4abb2e151cf" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_0115fa2c2083a64605115cc089850ae8" parent="aspace_ab3dfd09980f39d99b4ca4abb2e151cf" type="Folder">27</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>[White, Ephim?] Notebook: Russian (Milton White's name is on the cover)</unittitle><unitdate datechar="creation" normal="1934/1934" type="inclusive">1934</unitdate><container altrender="Manuscript box - Legal" id="aspace_e4bbf60ee55e3789d5a2d2691f2e5815" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_993f0bdc0aca480e7fe283aca78c57bc" parent="aspace_e4bbf60ee55e3789d5a2d2691f2e5815" type="Folder">28</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Writings: Poems</unittitle><unitdate datechar="creation" normal="1920/1929" type="inclusive">circa 1920s</unitdate><container altrender="Manuscript box - Legal" id="aspace_42b2653f311c5c385d25e0fc2b1578c7" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_c2972d590da0cd4910e3fcd98eacae61" parent="aspace_42b2653f311c5c385d25e0fc2b1578c7" type="Folder">29</container></did></c></c><c id="aspace_ref33" level="series"><did><unittitle>Series III: Scrapbook, circa 1937-1939</unittitle></did><c id="aspace_ref34" level="file"><did><unittitle>Scrapbook Pages: <emph render="italic">Daily Worker</emph> Articles about the Return of Abraham Lincoln Brigade Veterans, including Milton White</unittitle><unitdate datechar="creation" normal="1938/1938" type="inclusive">Dec 20, 1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_d863bebf10779ee206544d5784131c9b" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_aebe959a69a2d55148ec4d81c7bd701f" parent="aspace_d863bebf10779ee206544d5784131c9b" type="Folder">30</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Scrapbook Pages: General</unittitle><unitdate datechar="creation" normal="1937/1939" type="inclusive">circa 1937-1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_138038bc29c4edb831079b85b38a9657" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_3f7b81769565d16ce897217a2e955bfd" parent="aspace_138038bc29c4edb831079b85b38a9657" type="Folder">31</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Scrapbook Pages: Milton White and the Spanish Civil War</unittitle><unitdate datechar="creation" normal="1937/1939" type="inclusive">circa 1937-1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_e45a99574ac8c4a8d3e440788ad2798b" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_dca27b35b85f112eb9520814b44e4597" parent="aspace_e45a99574ac8c4a8d3e440788ad2798b" type="Folder">32</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Scrapbook Pages: Russian</unittitle><unitdate datechar="creation" normal="1937/1939" type="inclusive">circa 1937-1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_8858d23d2bca09e18a441937d8881c02" label="Mixed Materials [31142062732956]" type="Box">1</container><container id="aspace_14923ecc5ac9276905bddc2f97d2f871" parent="aspace_8858d23d2bca09e18a441937d8881c02" type="Folder">33</container></did></c></c></dsc>
-</archdesc>
+      <persname source="local">White, Ephim "Hyman", 1894-</persname>
+      <corpname source="naf">Spain. Ejército Popular de la República. Abraham Lincoln Battalion</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref2" level="series">
+        <did>
+          <unittitle>Series I: Spanish Civil War, 1937-1939</unittitle>
+        </did>
+        <c id="aspace_ref3" level="file">
+          <did>
+            <unittitle>Artifacts from Spain (wallet and pins)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1532b174112a0d34ece98568f39cf526" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_4f29432ab6a535430100b37fd544c0ee" parent="aspace_1532b174112a0d34ece98568f39cf526" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref4" level="file">
+          <did>
+            <unittitle>Correspondence: Ephim and Tanya White to Milton White</unittitle>
+            <unitdate datechar="creation" normal="1938/1938" type="inclusive">May and Aug 1938</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d8343ac82405e671daf4083bbd6b9574" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_c942c02436edf797b7d90f7c82c5b7a4" parent="aspace_d8343ac82405e671daf4083bbd6b9574" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref5" level="file">
+          <did>
+            <unittitle>Correspondence: Jack Sheldon to Milton White</unittitle>
+            <unitdate datechar="creation" normal="1938/1938" type="inclusive">Aug 1, 1938</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6ec727d0e06259a1fdd71b129894c4ac" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_af9af7a94bd14b5bc858c02325eca263" parent="aspace_6ec727d0e06259a1fdd71b129894c4ac" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref6" level="file">
+          <did>
+            <unittitle>Correspondence: Milton White to Ephim and Tanya White</unittitle>
+            <unitdate datechar="creation" normal="1937/1938" type="inclusive">Aug 2, 1937, Dec 18, 1938</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_66f76bf7c711d4e39f83f84a5ef3c849" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_a3daaf8d9468ae87d47842550ae686e7" parent="aspace_66f76bf7c711d4e39f83f84a5ef3c849" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref7" level="file">
+          <did>
+            <unittitle>Correspondence: Spanish Residents to Milton White (in Spanish)</unittitle>
+            <unitdate datechar="creation" normal="1938/1938" type="inclusive">Jul 1938</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_21209ecd6502a4deedecb8b5f136b4a3" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_ba87a7accfff4e344049e23918ee248b" parent="aspace_21209ecd6502a4deedecb8b5f136b4a3" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref8" level="file">
+          <did>
+            <unittitle>Correspondence: To Milton White on Return from Spain</unittitle>
+            <unitdate datechar="creation" normal="1938/1938" type="inclusive">Dec 20, 1938</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8315647c7bd36aae1b9ba80fb007c67f" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_7f159398d50a4c485bad2eb982ae2c96" parent="aspace_8315647c7bd36aae1b9ba80fb007c67f" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref9" level="file">
+          <did>
+            <unittitle>Correspondence: Unsigned Letter to Milton White (from Barcelona)</unittitle>
+            <unitdate datechar="creation" normal="1938/1938" type="inclusive">Circa 1938</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_af056e355657cd0917bd24b36391afb6" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_3ad7fd52c9cc8b0af2853d7d2297fdbe" parent="aspace_af056e355657cd0917bd24b36391afb6" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>International Brigade Documents about White</unittitle>
+            <unitdate datechar="creation" normal="1937/1938" type="inclusive">Apr 1937-Nov 1938, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a58e8aa8e0bc678849edb213444ce6e6" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_d919e24b66813b200e3a3b9f9e9cc01b" parent="aspace_a58e8aa8e0bc678849edb213444ce6e6" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>Membership Books and Cards</unittitle>
+            <unitdate datechar="creation" normal="1938/1939" type="inclusive">1938-1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fd4dd6d633b1b2c8018db6c84f5e4ee5" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_e7f45d2aa5c82ca0e1216d0dc151ff43" parent="aspace_fd4dd6d633b1b2c8018db6c84f5e4ee5" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>Pamphlet: <emph render="italic">Franco's 'Mein Kampf'</emph> (Spanish Information Bureau)</unittitle>
+            <unitdate datechar="creation" normal="1939/1939" type="inclusive">Jan 1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_abba567f5de778fa90b0f9317e93b3b4" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_d62ef055b1cfcbab2107ef83ab09455a" parent="aspace_abba567f5de778fa90b0f9317e93b3b4" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>Pamphlet: <emph render="italic">Galicia Martir estampas por Castelao</emph></unittitle>
+            <unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fff6109eedf5c659d2f971888cf7f09c" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_edb21db03eca7521da00520aba3ccc5c" parent="aspace_fff6109eedf5c659d2f971888cf7f09c" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Receipts from Spain</unittitle>
+            <unitdate datechar="creation" normal="1938/1938" type="inclusive">1938</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_00d4691105db9d5f9fe4c12d6d51b4fc" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_c3848add7619cc6fd33d1636d5d0f969" parent="aspace_00d4691105db9d5f9fe4c12d6d51b4fc" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Returning from Spain on the RMS Ausonia (Memorabilia)</unittitle>
+            <unitdate datechar="creation" normal="1938/1938" type="inclusive">Dec 1938</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_175ffa38f5250607f73548de68d32239" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_3379e286efe66cdb6f4c9c3d985859f0" parent="aspace_175ffa38f5250607f73548de68d32239" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Writings</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_983faf6c5e787721a4397720b4b9cdee" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_efc59464100530896492aa4f6572e8f8" parent="aspace_983faf6c5e787721a4397720b4b9cdee" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Writings: Plays, Poems, and Songs</unittitle>
+            <unitdate datechar="creation" normal="1938/1938" type="inclusive">Circa 1938</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ea93905c2225cdcca4d5ce258aef4ee0" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_65b1c8b134e84f849f273f414f60c93e" parent="aspace_ea93905c2225cdcca4d5ce258aef4ee0" type="Folder">15</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref18" level="series">
+        <did>
+          <unittitle>Series II: Subject Files, 1920-1946</unittitle>
+        </did>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Addresses and Business Cards</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1a3bdd6a7e1d8cd6a100dd700b92335a" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_30cde038c72c0132f28c9f223c73f4b6" parent="aspace_1a3bdd6a7e1d8cd6a100dd700b92335a" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Correspondence (incoming)</unittitle>
+            <unitdate datechar="creation" normal="1939/1939" type="inclusive">Feb-Mar 1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_53deaac29b4848cf31a71e0bd15b248b" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_888e03b8398075dff7d23f98f612bd5c" parent="aspace_53deaac29b4848cf31a71e0bd15b248b" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Envelope Addressed to Milton White</unittitle>
+            <unitdate datechar="creation" normal="1936/1936" type="inclusive">Sep 11, 1936</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b3ed0c09564bba25f27df4145d107559" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_3f1fdb3730fe633b78719812a2063382" parent="aspace_b3ed0c09564bba25f27df4145d107559" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Letter of Recommendation from Commanding Officer</unittitle>
+            <unitdate datechar="creation" normal="1946/1946" type="inclusive">1946</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5dbf59a119cbbe90d3b747e3badba935" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_2ef11df4ed2c153f1ec63d321d76f1e6" parent="aspace_5dbf59a119cbbe90d3b747e3badba935" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Notes in English and Russian (by Tanya White?)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_97dce72900b13a18e33ebab4d48068c8" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_4dd6849ed9f9cbb7a9d7d162835144ac" parent="aspace_97dce72900b13a18e33ebab4d48068c8" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Notes in Russian</unittitle>
+            <unitdate datechar="creation" normal="1934/1937" type="inclusive">1934, 1937</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c4321e8521981569a425dd23cfe56694" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_98dcc53df0e9318a8ed37bf9d8cd755e" parent="aspace_c4321e8521981569a425dd23cfe56694" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Pamphlet: <emph render="italic">The Truth about Finland</emph> (<emph render="italic">Daily Worker</emph>)</unittitle>
+            <unitdate datechar="creation" normal="1939/1939" type="inclusive">[1939]</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_33fe72349ee96d0c4e96a63581092ba4" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_238647792c49e1f66f036383f13fb933" parent="aspace_33fe72349ee96d0c4e96a63581092ba4" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>United States Army Uniform Patch</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b681f798b3999a74664fbff2944d249d" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_092dcfcbbd83893c8ec6640e4cd7a50b" parent="aspace_b681f798b3999a74664fbff2944d249d" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>White, Ephim Identity Certificate Issued by Soviet Consul in New York City</unittitle>
+            <unitdate datechar="creation" normal="1920/1920" type="inclusive">1920</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3ebe0c7d2812680bde48b48d2a91c677" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_62a5c647a431d98e0f003e99d57790e7" parent="aspace_3ebe0c7d2812680bde48b48d2a91c677" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>White, Ephim Notebook: English and Russian (includes minutes of Communist Party Council 43 meetings)</unittitle>
+            <unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1817ec1576ddd28f76f81c6d4f8f319b" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_a9a992ff1d2049a3c9795e4e0594b9c4" parent="aspace_1817ec1576ddd28f76f81c6d4f8f319b" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>White, Ephim Notebook: Russian (I)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a4a173bbf2999b1b0752ff4ea28103c8" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_565a0ff50c54756589e213dd3a49717f" parent="aspace_a4a173bbf2999b1b0752ff4ea28103c8" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>White, Ephim Notebook: Russian (II)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ab3dfd09980f39d99b4ca4abb2e151cf" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_0115fa2c2083a64605115cc089850ae8" parent="aspace_ab3dfd09980f39d99b4ca4abb2e151cf" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>[White, Ephim?] Notebook: Russian (Milton White's name is on the cover)</unittitle>
+            <unitdate datechar="creation" normal="1934/1934" type="inclusive">1934</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e4bbf60ee55e3789d5a2d2691f2e5815" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_993f0bdc0aca480e7fe283aca78c57bc" parent="aspace_e4bbf60ee55e3789d5a2d2691f2e5815" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Writings: Poems</unittitle>
+            <unitdate datechar="creation" normal="1920/1929" type="inclusive">circa 1920s</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_42b2653f311c5c385d25e0fc2b1578c7" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_c2972d590da0cd4910e3fcd98eacae61" parent="aspace_42b2653f311c5c385d25e0fc2b1578c7" type="Folder">29</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref33" level="series">
+        <did>
+          <unittitle>Series III: Scrapbook, circa 1937-1939</unittitle>
+        </did>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Scrapbook Pages: <emph render="italic">Daily Worker</emph> Articles about the Return of Abraham Lincoln Brigade Veterans, including Milton White</unittitle>
+            <unitdate datechar="creation" normal="1938/1938" type="inclusive">Dec 20, 1938</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d863bebf10779ee206544d5784131c9b" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_aebe959a69a2d55148ec4d81c7bd701f" parent="aspace_d863bebf10779ee206544d5784131c9b" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Scrapbook Pages: General</unittitle>
+            <unitdate datechar="creation" normal="1937/1939" type="inclusive">circa 1937-1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_138038bc29c4edb831079b85b38a9657" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_3f7b81769565d16ce897217a2e955bfd" parent="aspace_138038bc29c4edb831079b85b38a9657" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Scrapbook Pages: Milton White and the Spanish Civil War</unittitle>
+            <unitdate datechar="creation" normal="1937/1939" type="inclusive">circa 1937-1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e45a99574ac8c4a8d3e440788ad2798b" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_dca27b35b85f112eb9520814b44e4597" parent="aspace_e45a99574ac8c4a8d3e440788ad2798b" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Scrapbook Pages: Russian</unittitle>
+            <unitdate datechar="creation" normal="1937/1939" type="inclusive">circa 1937-1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8858d23d2bca09e18a441937d8881c02" label="Mixed Materials [31142062732956]" type="Box">1</container>
+            <container id="aspace_14923ecc5ac9276905bddc2f97d2f871" parent="aspace_8858d23d2bca09e18a441937d8881c02" type="Folder">33</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

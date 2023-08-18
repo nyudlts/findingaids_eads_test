@@ -1,88 +1,636 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="inventory_folderlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/photos_032">photos_032</eadid><filedesc><titlestmt><titleproper>Guide to the Transport Workers Union of America and Shirley Quill Photographs <num>PHOTOS.032</num></titleproper><author>Finding aid prepared by Erika Gottfried, 2009</author></titlestmt><editionstmt><p>This version was derived from an earlier version of PHOTOS.032 inventory list provided by Erika Gottfried.</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:10:44 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Transport Workers Union of America and Shirley Quill Photographs</unittitle>
-    <origination label="Creator">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="inventory_folderlevel" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/photos_032">photos_032</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Transport Workers Union of America and Shirley Quill Photographs <num>PHOTOS.032</num></titleproper>
+        <author>Finding aid prepared by Erika Gottfried, 2009</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from an earlier version of PHOTOS.032 inventory list provided by Erika Gottfried.</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:10:44 -0400</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Transport Workers Union of America and Shirley Quill Photographs</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Quill, Shirley, 1918-</persname>
+      </origination>
+      <origination label="Creator">
+        <persname source="naf">Quill, Mike, 1905-1966</persname>
+      </origination>
+      <unitid>PHOTOS.032</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.25 Linear Feet</extent>
+        <extent altrender="carrier">in 1 record carton, 1 manuscript box, 1 oversize flat file folder and 3 oversize folders in 2 shared boxes.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1913/1997" type="inclusive">1913-2007</unitdate>
+      <unitdate datechar="creation" normal="1941/1966" type="bulk">1941-1966</unitdate>
+      <abstract id="aspace_dd84bad5e09647c9cae44b4427996821" label="Abstract">This collection focuses on the history of the Transport Workers Union  of America (TWU),  founded in 1934, and Michael (Mike) Quill, its president from 1935-1966,  although it also includes Quill family portraits, images of leftist and labor activist,  Shirley Quill, who was his assistant and second wife, and snapshots and images of early TWU and CIO leadership and conventions.  Highlights include a group portrait of the CIO leadership in 1940 (Joe Curran, Quill, Phillip Murray and John L. Lewis); the Unity Slate Victory party; Martin Luther King, Jr. speaking at the Ghandi Society Luncheon; and Mike Quill's last press conference, and his memorial service.</abstract>
+      <langmaterial id="aspace_53f52e34dfb7fbacbaa55107733a6be7">Materials are in English</langmaterial>
+    </did>
+    <accessrestrict id="aspace_2a520e0498b3d3c38f55463d20e1f130">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_f67088512ee6687d334098ed30b42d32">
+      <head>Immediate Source of Acquisition</head>
+      <p>The Transport Workers Union of America (TWU) donated its records to the Tamiment Library in 1985.  In 1987 Shirley Quill donated papers related to Mike Quill and his involvement in the TWU to the Tamiment Library. Photographs from both donations were separated from paper records and combined to establish a separate photographs collection. The accession numbers associated with this collection are 1985.002, 2011.097, NPA.1997.003, NPA.2001.041, and NPA.2008.028.</p>
+    </acqinfo>
+    <appraisal id="aspace_b0a2ec1bdf78742b468d74c5e3432421">
+      <head>Appraisal</head>
+      <p>No materials were removed from this collection.</p>
+    </appraisal>
+    <arrangement id="aspace_c3f15c6ffd3ffea7d815aa386baa4739">
+      <head>Arrangement</head>
+      <p>This collection has been arranged by subject.</p>
+    </arrangement>
+    <bioghist id="aspace_90fa59bbf0e9a3c42016824a2a8e3af2">
+      <head>Biographical/Historical Note</head>
+      <p>Much of the Transport Workers of America's (TWU) history centers around the fiery figure of Mike Quill, President of the TWU from 1935 to 1966. Quill, born in Kilgarven, Ireland in 1905, started with the IRT subway as a ticket taker. With the financial support of the Communist Party, Quill, together with Maurice Forge, Austin Hogan, and Harry Sacher, was able to lead a successful organizing drive among New York City transit workers beginning in 1934. With Quill as President, the TWU organized subway, bus, and taxi workers in New York and improved wages and working conditions. When he was elected to the City Council (1937-1939, 1943-1949), Quill also used that position to fight for the transit workers, even when it meant going against the American Labor Party, his base of support. With the consolidation of New York City's subway system under one transit authority in 1941, TWU gained more bargaining power. By 1950, their membership grew to over 100,000 transport workers. In the post- World War II period, Quill split with the Communist Party over a fare increase, and he then joined in the CIO effort to eliminate communist-dominated unions from the organization. By the 1950's, the TWU was the exclusive bargaining agent for New York Transit. TWU also expanded during the 1940s and 1950s to establish locals across the country for railroad and airline workers, utility workers, and taxi drivers, among others. The usual pattern of threatened strike and last minute negotiation was upset in 1965 when Quill led the TWU out on a massive strike. In spite of Quill and other TWU leaders being jailed for refusal to abide by a court order, TWU and New York City reached a settlement. Quill died of a heart attack less than three weeks after the settlement.</p>
+      <p>Shirley Quill, Brooklyn native and the daughter of Russian Jewish immigrants, was born in 1915 and became active with leftist and labor organizations in the 1930s while in college. She was a staff member of the Electrical Workers Union in New Jersey during the early 1940s. Quill met her future husband, Michael J. (Mike) Quill, in 1943 while helping with his campaign for New York City Council. She also served as Mike Quill's legislative secretary after his election to the city council. Their mutual commitment to union organizing and progressive politics led to a friendship and a long relationship. They married in 1961 (both had been previously wed). After Mike Quill's death Shirley Quill continued to be politically active, particularly in women's causes and New York City West Side Democratic Party politics; she was also instrumental in putting together the Association of Tenants of Lincoln Towers (the 4,000-apartment complex on the West Side of Manhattan, where she lived until her death), and wrote a biography of Mike Quill,<emph render="italic">Mike Quill, Himself : A Memoir</emph>. She died in 1991.</p>
+      <p>• Quill, Shirley. Michael Quill, Himself: A Memoir. Greenwich, CT: Devin-Adair, 1985.</p>
+      <p>• Cerra, Frances. "Tenant Group Put Clout to Work." The New York Times. December 26, 1982. Accessed June 14, 2012. http://www.nytimes.com/1982/12/26/realestate/tenant-group-puts-clout-to-work.html</p>
+      <p>• "Shirley Garry Quill, Tenant Organizer, 76." The New York Times. September 28, 1991. Accessed June 14, 2012. http://www.nytimes.com/1991/09/28/obituaries/shirley-garry-quill-tenant-organizer-76.html</p>
+    </bioghist>
+    <custodhist id="aspace_0f5916fb103868a01cf1e0a0736b8691">
+      <head>Custodial History</head>
+      <p>Some of the materials in this collection were most likely compiled by Shirley Quill for the book <emph render="italic">Mike Quill, Himself : A Memoir</emph>.</p>
+    </custodhist>
+    <prefercite id="aspace_5af9abf690d4412a4ebe8cb7c9b89164">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Transport Workers Union of America and Shirley Quill Photographs; PHOTOS 032; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_d013ea5168aa81ef62f369819ee5af61">
+      <head>Processing Note</head>
+      <p>Materials were placed in new acid-free folders and boxes.</p>
+      <p>No original order was apparent in the collection upon receipt. Materials were grouped into folders, arranged by subject headings created by the archivist.</p>
+      <p>The Transport Workers Union of America (TWU) donated its records to the Tamiment Library in 1985. A small number of photographs from this donation were separated and created as the Transport Workers Union Photographs (PHOTOS 032). In 1987 Shirley Quill donated papers related to Mike Quill and his involvement in the TWU. Records from this donation were added to the Transport Workers Union of America Records (WAG 235) and photographs from it were established as the Shirley Quill Photographs (PHOTOS 139). In February 2014 the Shirley Quill Photographs and Transport Workers Union Photographs were combined into PHOTOS 032 and the collection renamed the Shirley Quill Transport Workers Union Photographs. In October 2014 the collection was renamed the Transport Workers Union of America and Shirley Quill Photographs to more accurately reflect the collection's shared provenance. </p>
+    </processinfo>
+    <relatedmaterial id="aspace_0bb8dbe12733be21a30ea2977b06a98a">
+      <head>Related Archival Materials</head>
+      <p>Transport Workers Union of America: Records of Locals (WAG 234)</p>
+      <p>Maurice Forge Papers (WAG 106)</p>
+      <p>Gerald O'Reilly Papers (WAG 105)</p>
+      <p>Transport Workers Union, Local 100: S. Goldstein Interviews (OH 047)</p>
+      <p>Transport Workers Union, Local 100: Joseph Gayol Files (WAG 085)</p>
+      <p>Transport Workers Union, Local 100: Naomi Allen Files (WAG 295)</p>
+      <p>Transport Workers Union of America, Executive Board Minutes, 1938-1971 (Microfilm, Reel 7452).</p>
+      <p>Transport Workers Union of America Records (WAG 235 )</p>
+      <p>Transport Workers Union of America, Scrapbooks, 1933-1949 (Microfilm, Reels 7453/1-11)</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_08b69960b55bf56138e544dcabf0a1c9">
+      <head>Scope and Contents</head>
+      <p>The images in this collection (which may have been assembled by Shirley Quill when she was writing Mike Quill's biography) document many aspects of the history of the Transport Workers Union through Mike Quill's involvement with that history; it also includes Quill family portraits and snapshots and one professionally documented trip to Ireland by Quill (1963). The collection is strong on images of the early TWU and CIO leadership and conventions. Included are shots of the TWU conventions (1939, 1941, 1945, 1948, 1955 and 1961) and the CIO conventions (1937, 1940, 1941, 1942, 1947, 1951, 1952, 1954 and 1957); a number of TWU locals are also represented. One highlight is a group portrait of the CIO leadership in 1940 - Joe Curran, Quill, Phillip Murray and John L. Lewis. Mike Quill's effective use of the media is also evident by the many shots of him at press conferences and on television programs. One image, for example, shows him with TWU picketers at a television station during the 1953 bus strike. There are some shots of Quill speaking, both while organizing and serving as a city councilman. Quill's break with the TWU leaders affiliated with the Communist Party is documented through photographs of a anti-communism rally in 1948. Other highlights include the Unity Slate Victory party (1950), Martin Luther King, Jr. speaking at the Ghandi Society Luncheon (1963), and Quill's last press conference and the memorial service for him (1966). One folder in the collection features images of Shirley Quill specifically, although she also appears in images throughout the rest of the collection.</p>
+    </scopecontent>
+    <userestrict id="aspace_4716ec8c44d6b8f65ff85fe58bb95121">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for most materials in this collection, created by the Transport Workers Union of America was not transferred to New York University. Permission to use materials must be secured from the copyright holder. </p>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by Shirley Quill were transferred to New York University in 1987. Permission to publish or reproduce materials in this collection must be secured from Tamiment Library and Robert F. Wagner Labor Archives. Please contact tamiment.wagner@nyu.edu.</p>
+    </userestrict>
+    <controlaccess>
+      <genreform source="aat">Photographic prints.</genreform>
+      <genreform source="aat">Black-and-white photographs.</genreform>
+      <genreform source="aat">Color photographs.</genreform>
+      <corpname authfilenumber="(lccn)n93014355" source="naf">Transport Workers Union of America. Local 100</corpname>
+      <corpname authfilenumber="(lccn)n83147602" source="naf">Transport Workers Union of America</corpname>
+      <persname source="naf">Spellman, Francis, 1889-1967</persname>
+      <corpname source="local">Transport Workers Union of America. Air Transport Division</corpname>
+      <persname rules="dacs" source="naf">Murray, Philip, 1886-1952</persname>
+      <persname source="naf">Meany, George, 1894-1980</persname>
+      <persname rules="dacs" source="local">Larkin, Dennis</persname>
+      <persname source="naf">King, Martin Luther, Jr., 1929-1968</persname>
+      <persname rules="dacs" source="local">Hogan, Austin</persname>
+      <persname source="naf">Haywood, Allan S., 1888-1953</persname>
+      <persname rules="dacs" source="local">Guinan, Matthew K.</persname>
+      <persname rules="dacs" source="local">Green, William, 1892-1973</persname>
+      <persname source="naf">Santo, John, 1908-</persname>
+      <persname source="naf">Roosevelt, Eleanor, 1884-1962</persname>
+      <persname source="naf">Reuther, Walter, 1907-1970</persname>
       <persname source="naf">Quill, Shirley, 1918-</persname>
-    </origination>
-    <origination label="Creator">
-      <persname source="naf">Quill, Mike, 1905-1966</persname>
-    </origination>
-    <unitid>PHOTOS.032</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">1.25 Linear Feet</extent>
-      <extent altrender="carrier">in 1 record carton, 1 manuscript box, 1 oversize flat file folder and 3 oversize folders in 2 shared boxes.</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1913/1997" type="inclusive">1913-2007</unitdate>
-    <unitdate datechar="creation" normal="1941/1966" type="bulk">1941-1966</unitdate>
-    <abstract id="aspace_dd84bad5e09647c9cae44b4427996821" label="Abstract">This collection focuses on the history of the Transport Workers Union  of America (TWU),  founded in 1934, and Michael (Mike) Quill, its president from 1935-1966,  although it also includes Quill family portraits, images of leftist and labor activist,  Shirley Quill, who was his assistant and second wife, and snapshots and images of early TWU and CIO leadership and conventions.  Highlights include a group portrait of the CIO leadership in 1940 (Joe Curran, Quill, Phillip Murray and John L. Lewis); the Unity Slate Victory party; Martin Luther King, Jr. speaking at the Ghandi Society Luncheon; and Mike Quill's last press conference, and his memorial service.</abstract>
-    <langmaterial id="aspace_53f52e34dfb7fbacbaa55107733a6be7">Materials are in English</langmaterial>
-  </did>
-  <accessrestrict id="aspace_2a520e0498b3d3c38f55463d20e1f130">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_f67088512ee6687d334098ed30b42d32">
-    <head>Immediate Source of Acquisition</head>
-<p>The Transport Workers Union of America (TWU) donated its records to the Tamiment Library in 1985.  In 1987 Shirley Quill donated papers related to Mike Quill and his involvement in the TWU to the Tamiment Library. Photographs from both donations were separated from paper records and combined to establish a separate photographs collection. The accession numbers associated with this collection are 1985.002, 2011.097, NPA.1997.003, NPA.2001.041, and NPA.2008.028.</p>  </acqinfo>
-  <appraisal id="aspace_b0a2ec1bdf78742b468d74c5e3432421">
-    <head>Appraisal</head>
-<p>No materials were removed from this collection.</p>  </appraisal>
-  <arrangement id="aspace_c3f15c6ffd3ffea7d815aa386baa4739">
-    <head>Arrangement</head>
-<p>This collection has been arranged by subject.</p>  </arrangement>
-  <bioghist id="aspace_90fa59bbf0e9a3c42016824a2a8e3af2">
-    <head>Biographical/Historical Note</head>
-<p>Much of the Transport Workers of America's (TWU) history centers around the fiery figure of Mike Quill, President of the TWU from 1935 to 1966. Quill, born in Kilgarven, Ireland in 1905, started with the IRT subway as a ticket taker. With the financial support of the Communist Party, Quill, together with Maurice Forge, Austin Hogan, and Harry Sacher, was able to lead a successful organizing drive among New York City transit workers beginning in 1934. With Quill as President, the TWU organized subway, bus, and taxi workers in New York and improved wages and working conditions. When he was elected to the City Council (1937-1939, 1943-1949), Quill also used that position to fight for the transit workers, even when it meant going against the American Labor Party, his base of support. With the consolidation of New York City's subway system under one transit authority in 1941, TWU gained more bargaining power. By 1950, their membership grew to over 100,000 transport workers. In the post- World War II period, Quill split with the Communist Party over a fare increase, and he then joined in the CIO effort to eliminate communist-dominated unions from the organization. By the 1950's, the TWU was the exclusive bargaining agent for New York Transit. TWU also expanded during the 1940s and 1950s to establish locals across the country for railroad and airline workers, utility workers, and taxi drivers, among others. The usual pattern of threatened strike and last minute negotiation was upset in 1965 when Quill led the TWU out on a massive strike. In spite of Quill and other TWU leaders being jailed for refusal to abide by a court order, TWU and New York City reached a settlement. Quill died of a heart attack less than three weeks after the settlement.</p><p>Shirley Quill, Brooklyn native and the daughter of Russian Jewish immigrants, was born in 1915 and became active with leftist and labor organizations in the 1930s while in college. She was a staff member of the Electrical Workers Union in New Jersey during the early 1940s. Quill met her future husband, Michael J. (Mike) Quill, in 1943 while helping with his campaign for New York City Council. She also served as Mike Quill's legislative secretary after his election to the city council. Their mutual commitment to union organizing and progressive politics led to a friendship and a long relationship. They married in 1961 (both had been previously wed). After Mike Quill's death Shirley Quill continued to be politically active, particularly in women's causes and New York City West Side Democratic Party politics; she was also instrumental in putting together the Association of Tenants of Lincoln Towers (the 4,000-apartment complex on the West Side of Manhattan, where she lived until her death), and wrote a biography of Mike Quill,<emph render="italic">Mike Quill, Himself : A Memoir</emph>. She died in 1991.</p><p>• Quill, Shirley. Michael Quill, Himself: A Memoir. Greenwich, CT: Devin-Adair, 1985.</p><p>• Cerra, Frances. "Tenant Group Put Clout to Work." The New York Times. December 26, 1982. Accessed June 14, 2012. http://www.nytimes.com/1982/12/26/realestate/tenant-group-puts-clout-to-work.html</p><p>• "Shirley Garry Quill, Tenant Organizer, 76." The New York Times. September 28, 1991. Accessed June 14, 2012. http://www.nytimes.com/1991/09/28/obituaries/shirley-garry-quill-tenant-organizer-76.html</p>  </bioghist>
-  <custodhist id="aspace_0f5916fb103868a01cf1e0a0736b8691">
-    <head>Custodial History</head>
-<p>Some of the materials in this collection were most likely compiled by Shirley Quill for the book <emph render="italic">Mike Quill, Himself : A Memoir</emph>.</p>  </custodhist>
-  <prefercite id="aspace_5af9abf690d4412a4ebe8cb7c9b89164">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Transport Workers Union of America and Shirley Quill Photographs; PHOTOS 032; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <processinfo id="aspace_d013ea5168aa81ef62f369819ee5af61">
-    <head>Processing Note</head>
-<p>Materials were placed in new acid-free folders and boxes.</p><p>No original order was apparent in the collection upon receipt. Materials were grouped into folders, arranged by subject headings created by the archivist.</p><p>The Transport Workers Union of America (TWU) donated its records to the Tamiment Library in 1985. A small number of photographs from this donation were separated and created as the Transport Workers Union Photographs (PHOTOS 032). In 1987 Shirley Quill donated papers related to Mike Quill and his involvement in the TWU. Records from this donation were added to the Transport Workers Union of America Records (WAG 235) and photographs from it were established as the Shirley Quill Photographs (PHOTOS 139). In February 2014 the Shirley Quill Photographs and Transport Workers Union Photographs were combined into PHOTOS 032 and the collection renamed the Shirley Quill Transport Workers Union Photographs. In October 2014 the collection was renamed the Transport Workers Union of America and Shirley Quill Photographs to more accurately reflect the collection's shared provenance. </p>  </processinfo>
-  <relatedmaterial id="aspace_0bb8dbe12733be21a30ea2977b06a98a">
-    <head>Related Archival Materials</head>
-<p>Transport Workers Union of America: Records of Locals (WAG 234)</p><p>Maurice Forge Papers (WAG 106)</p><p>Gerald O'Reilly Papers (WAG 105)</p><p>Transport Workers Union, Local 100: S. Goldstein Interviews (OH 047)</p><p>Transport Workers Union, Local 100: Joseph Gayol Files (WAG 085)</p><p>Transport Workers Union, Local 100: Naomi Allen Files (WAG 295)</p><p>Transport Workers Union of America, Executive Board Minutes, 1938-1971 (Microfilm, Reel 7452).</p><p>Transport Workers Union of America Records (WAG 235 )</p><p>Transport Workers Union of America, Scrapbooks, 1933-1949 (Microfilm, Reels 7453/1-11)</p>  </relatedmaterial>
-  <scopecontent id="aspace_08b69960b55bf56138e544dcabf0a1c9">
-    <head>Scope and Contents</head>
-<p>The images in this collection (which may have been assembled by Shirley Quill when she was writing Mike Quill's biography) document many aspects of the history of the Transport Workers Union through Mike Quill's involvement with that history; it also includes Quill family portraits and snapshots and one professionally documented trip to Ireland by Quill (1963). The collection is strong on images of the early TWU and CIO leadership and conventions. Included are shots of the TWU conventions (1939, 1941, 1945, 1948, 1955 and 1961) and the CIO conventions (1937, 1940, 1941, 1942, 1947, 1951, 1952, 1954 and 1957); a number of TWU locals are also represented. One highlight is a group portrait of the CIO leadership in 1940 - Joe Curran, Quill, Phillip Murray and John L. Lewis. Mike Quill's effective use of the media is also evident by the many shots of him at press conferences and on television programs. One image, for example, shows him with TWU picketers at a television station during the 1953 bus strike. There are some shots of Quill speaking, both while organizing and serving as a city councilman. Quill's break with the TWU leaders affiliated with the Communist Party is documented through photographs of a anti-communism rally in 1948. Other highlights include the Unity Slate Victory party (1950), Martin Luther King, Jr. speaking at the Ghandi Society Luncheon (1963), and Quill's last press conference and the memorial service for him (1966). One folder in the collection features images of Shirley Quill specifically, although she also appears in images throughout the rest of the collection.</p>  </scopecontent>
-  <userestrict id="aspace_4716ec8c44d6b8f65ff85fe58bb95121">
-    <head>Conditions Governing Use</head>
-<p>Copyright (or related rights to publicity and privacy) for most materials in this collection, created by the Transport Workers Union of America was not transferred to New York University. Permission to use materials must be secured from the copyright holder. </p><p>Any rights (including copyright and related rights to publicity and privacy) held by Shirley Quill were transferred to New York University in 1987. Permission to publish or reproduce materials in this collection must be secured from Tamiment Library and Robert F. Wagner Labor Archives. Please contact tamiment.wagner@nyu.edu.</p>  </userestrict>
-  <controlaccess>
-    <genreform source="aat">Photographic prints.</genreform>
-    <genreform source="aat">Black-and-white photographs.</genreform>
-    <genreform source="aat">Color photographs.</genreform>
-    <corpname authfilenumber="(lccn)n93014355" source="naf">Transport Workers Union of America. Local 100</corpname>
-    <corpname authfilenumber="(lccn)n83147602" source="naf">Transport Workers Union of America</corpname>
-    <persname source="naf">Spellman, Francis, 1889-1967</persname>
-    <corpname source="local">Transport Workers Union of America. Air Transport Division</corpname>
-    <persname rules="dacs" source="naf">Murray, Philip, 1886-1952</persname>
-    <persname source="naf">Meany, George, 1894-1980</persname>
-    <persname rules="dacs" source="local">Larkin, Dennis</persname>
-    <persname source="naf">King, Martin Luther, Jr., 1929-1968</persname>
-    <persname rules="dacs" source="local">Hogan, Austin</persname>
-    <persname source="naf">Haywood, Allan S., 1888-1953</persname>
-    <persname rules="dacs" source="local">Guinan, Matthew K.</persname>
-    <persname rules="dacs" source="local">Green, William, 1892-1973</persname>
-    <persname source="naf">Santo, John, 1908-</persname>
-    <persname source="naf">Roosevelt, Eleanor, 1884-1962</persname>
-    <persname source="naf">Reuther, Walter, 1907-1970</persname>
-    <persname source="naf">Quill, Shirley, 1918-</persname>
-    <persname source="naf">Potofsky, Jacob S. (Jacob Samuel), 1894-1979</persname>
-    <persname source="naf">O'Dwyer, Paul, 1907-1998</persname>
-    <persname source="naf">Curran, Joseph Edwin, 1906-1981</persname>
-    <persname source="naf">Dubinsky, David, 1892-1982.</persname>
-    <persname source="naf">Faber, Gustav, 1912-1993</persname>
-    <persname rules="dacs" source="local">Gildberg, Arthur</persname>
-    <corpname authfilenumber="(lccn)n79086831" source="naf">AFL-CIO</corpname>
-    <corpname authfilenumber="(lccn)n80081625" rules="dacs" source="naf">Congress of Industrial Organizations (U.S.)</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_ref12" level="file"><did><unittitle>Portraits/Mike Quill, Studio Portraits, In Bus With Son.</unittitle><unitdate datechar="creation" normal="1941/1952" type="inclusive">1941-1942, 1952</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_8263e63865ee8a739e02e5d6ffe59519" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_dcbab95c002579bdf1fbffdadf6617f8" parent="aspace_8263e63865ee8a739e02e5d6ffe59519" type="Folder">1</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Portraits/Mike Quill, Studio Portraits, at Press Conference Before Last Strike was Called, Memorial Program.</unittitle><unitdate datechar="creation" normal="1963/1966" type="inclusive">1963-1966</unitdate><container altrender="Record carton" id="aspace_7128fa7a0c2d9ef7635a0a842ddf93ba" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_63c95693e33fa3d7412245d79bf077c4" parent="aspace_7128fa7a0c2d9ef7635a0a842ddf93ba" type="Folder">2</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Quill Family.</unittitle><unitdate datechar="creation" normal="1937/1963" type="inclusive">1937-1941, 1958-1963</unitdate><container altrender="Record carton" id="aspace_dd29c60373a0f72f1a5866e95a1ae714" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_8854b4bee565743d5b9a6d3bfdedaed1" parent="aspace_dd29c60373a0f72f1a5866e95a1ae714" type="Folder">3</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Mike and Shirley Quill to Ireland.</unittitle><unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate><container altrender="Record carton" id="aspace_da0e4e4712eba6f8167cb29a357a80f8" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_b88361cb6e0db5ed075f5c7890372554" parent="aspace_da0e4e4712eba6f8167cb29a357a80f8" type="Folder">4</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Mike Quill and Family in Ireland.</unittitle><unitdate datechar="creation" normal="1956/1960" type="inclusive">1956-1960</unitdate><container altrender="Record carton" id="aspace_03a1e99686241995ff1603a8df8d6caf" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_0e64aea24fe3737871d1d4b5d090d588" parent="aspace_03a1e99686241995ff1603a8df8d6caf" type="Folder">5</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Shirley Quill.</unittitle><unitdate datechar="creation" normal="1922/1986" type="inclusive">1922-1986</unitdate><container altrender="Record carton" id="aspace_d00074936b9ac961f8b8b4d6b5b83e7c" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_e1cf9364d9744165bb082535ef30a628" parent="aspace_d00074936b9ac961f8b8b4d6b5b83e7c" type="Folder">6</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Irish History.</unittitle><unitdate datechar="creation" normal="1913/1932" type="inclusive">1913-1932</unitdate><container altrender="Record carton" id="aspace_e2e694ffa0023a95e0c62a6c13679fe2" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_a7a1d6e5f5dbaa174900420a0edb3c55" parent="aspace_e2e694ffa0023a95e0c62a6c13679fe2" type="Folder">7</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>New York State Industrial Union Council, First Convention.</unittitle><unitdate datechar="creation" normal="1938/1938" type="inclusive">1938</unitdate><container altrender="Record carton" id="aspace_2ea56fe056f9c1a4d7a4eaf8652d5bc8" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_cf7d6dd20870e22ef04e287500da9489" parent="aspace_2ea56fe056f9c1a4d7a4eaf8652d5bc8" type="Folder">8</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Transport Worker Union (TWU) Leadership.</unittitle><unitdate datechar="creation" normal="1942/1945" type="inclusive">1942-1945</unitdate><container altrender="Record carton" id="aspace_a15cf7940f49358e80582f0004f7c7d0" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_68d933f3fd5fd5453d927d151c6aebe3" parent="aspace_a15cf7940f49358e80582f0004f7c7d0" type="Folder">9</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Transport Workers Union (TWU) Conventions.</unittitle><unitdate datechar="creation" normal="1939/1961" type="inclusive">1939-1948, 1955, 1961</unitdate><container altrender="Record carton" id="aspace_24d1f61dc7bf58f276e803cfd0e8b48f" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_535028188575c454141a29b3f58cc413" parent="aspace_24d1f61dc7bf58f276e803cfd0e8b48f" type="Folder">10</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Strikes and Protests.</unittitle><unitdate datechar="creation" normal="1940/1966" type="inclusive">1940-1966</unitdate><container altrender="Record carton" id="aspace_d6ea560fff6b5dbaef4a969e03ad457c" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_03f86a5f9918e5d1e9f942cd15000ef5" parent="aspace_d6ea560fff6b5dbaef4a969e03ad457c" type="Folder">11</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Congress of Industrial Organizations (CIO).</unittitle><unitdate datechar="creation" normal="1937/1957" type="inclusive">1937-1957</unitdate><container altrender="Record carton" id="aspace_5b0abe8c3b654a07cc634610ed1bf8a5" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_d697772af8275a1a0eb1b54f6da2c4f9" parent="aspace_5b0abe8c3b654a07cc634610ed1bf8a5" type="Folder">12</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Congress of Industrial Organizations (CIO) International.</unittitle><unitdate datechar="creation" normal="1949/1955" type="inclusive">1949-1955</unitdate><container altrender="Record carton" id="aspace_60ee14b79752ca32b925cb7dbbc0f07c" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_174a4946fb91f73f2dcf21dd1801aee2" parent="aspace_60ee14b79752ca32b925cb7dbbc0f07c" type="Folder">13</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Transport Workers Union (TWU) Response to 50 Year Celebration of Subways.</unittitle><unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate><container altrender="Record carton" id="aspace_90d0140ef0a66fef932b1a1d8e70e1ad" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_936e7662a97fe9277c3a461c278766d2" parent="aspace_90d0140ef0a66fef932b1a1d8e70e1ad" type="Folder">14</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Transport Workers Union (TWU) Support of Other Strikes.</unittitle><unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate><container altrender="Record carton" id="aspace_878d18ee931feedfc922ae943a4c62c7" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_8e2e5a4060a15d1918861c6043cef2cc" parent="aspace_878d18ee931feedfc922ae943a4c62c7" type="Folder">15</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>American Federation of Labor- Congress of Industrial Organizations (AFL-CIO) - William Green, Mike and Shirley Quill with George Meany/James Carey, Joe Curran.</unittitle><unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate><container altrender="Record carton" id="aspace_ec79e6cf7ff5c824bbe451bfa55dfc2e" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_fc36824afa6cf3111afd215273c1354a" parent="aspace_ec79e6cf7ff5c824bbe451bfa55dfc2e" type="Folder">16</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Local 100.</unittitle><unitdate datechar="creation" normal="1943/1963" type="inclusive">1943-1963</unitdate><container altrender="Record carton" id="aspace_88a0aba55f763044e49e61f48f74e278" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_6667862193cdd2f9a26988cc09234280" parent="aspace_88a0aba55f763044e49e61f48f74e278" type="Folder">17</container></did></c><c id="aspace_ref29" level="item"><did><unittitle>Local 101 - Support of IBEW Against Brooklyn Borough Gas Corporation.</unittitle><unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate><container altrender="Record carton" id="aspace_e03e99150f00e9f3e9399bd1e8269ba6" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_20564a4dcb2834005c156e8fb240cb78" parent="aspace_e03e99150f00e9f3e9399bd1e8269ba6" type="Folder">18</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Local 163 - Virginia Electric and Power Company.</unittitle><unitdate datechar="creation" normal="1938/1942" type="inclusive">1938-1942</unitdate><container altrender="Record carton" id="aspace_0b183abc18cdee61ee79509de7b32dc2" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_17611a43091dd9984bfa3e538d2be140" parent="aspace_0b183abc18cdee61ee79509de7b32dc2" type="Folder">19</container></did></c><c id="aspace_ref31" level="item"><did><unittitle>Local 206, 208, New Orleans, 225 Clifton, New Jersey.</unittitle><unitdate datechar="creation" normal="1948/1950" type="inclusive">circa 1949</unitdate><container altrender="Record carton" id="aspace_33d7df55762fe2c91e06c680923d88ae" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_cf1334ef6a080f78f9c2dc8eb1fb0883" parent="aspace_33d7df55762fe2c91e06c680923d88ae" type="Folder">20</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Local 234 - Philadelphia.</unittitle><unitdate datechar="creation" normal="1949/1963" type="inclusive">1949-1963</unitdate><container altrender="Record carton" id="aspace_66233fb0d9d633048df81f294e643504" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_5450811e935291b035daefb9e805266a" parent="aspace_66233fb0d9d633048df81f294e643504" type="Folder">21</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Local 252 - Long Island, First Annual Dance Negotiations.</unittitle><unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Record carton" id="aspace_1a8d763f69c2c0a7b8d6c6b936f4b0d7" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_f555bb1fc1343c8039faf8a47707baab" parent="aspace_1a8d763f69c2c0a7b8d6c6b936f4b0d7" type="Folder">22</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Air Transport Division.</unittitle><unitdate datechar="creation" normal="1945/1946" type="inclusive">1945-1946</unitdate><container altrender="Record carton" id="aspace_4aad7b9df2f3ef197cfcb508296df2e0" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_c860a8f177e39008338b374043d72882" parent="aspace_4aad7b9df2f3ef197cfcb508296df2e0" type="Folder">23</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Air Transport Division.</unittitle><unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Record carton" id="aspace_b36970881713b3266230fb69d6f9ecf6" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_1140c90e0d758ad8f57f99afb55b3eba" parent="aspace_b36970881713b3266230fb69d6f9ecf6" type="Folder">24</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Air Transport Division.</unittitle><unitdate datechar="creation" normal="1948/1955" type="inclusive">1948, 1955</unitdate><container altrender="Record carton" id="aspace_9b5cb1c0ca3517e4aa4ce80d24ebc60e" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_721def0f13e63cf181c7bb231f9b691a" parent="aspace_9b5cb1c0ca3517e4aa4ce80d24ebc60e" type="Folder">25</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Railroad Division - Pennsylvania Railroad.</unittitle><unitdate datechar="creation" normal="1956/1960" type="inclusive">1956, 1960</unitdate><container altrender="Record carton" id="aspace_d0c6ed6d36a08a94269814bb5a7c3fbf" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_10f3f63c3463d724fee199dd1630c034" parent="aspace_d0c6ed6d36a08a94269814bb5a7c3fbf" type="Folder">26</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Taxi Division Local 150 - Local 300.</unittitle><unitdate datechar="creation" normal="1944/1965" type="inclusive">1944-1947, 1965</unitdate><container altrender="Record carton" id="aspace_fdc8ece0a05698f2b2d4297d658b864c" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_44451a42edf571446273a4d3b13d2a02" parent="aspace_fdc8ece0a05698f2b2d4297d658b864c" type="Folder">27</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Councilman Quill.</unittitle><unitdate datechar="creation" normal="1939/1949" type="inclusive">1939-1949</unitdate><container altrender="Record carton" id="aspace_3b8155aa4ebc4e5a198ade9dfb94964f" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_4fd0043b55d31b66c55079292cd0b19f" parent="aspace_3b8155aa4ebc4e5a198ade9dfb94964f" type="Folder">28</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Political Campaigns.</unittitle><unitdate datechar="creation" normal="1938/1964" type="inclusive">1938-1964</unitdate><container altrender="Record carton" id="aspace_946909eace956317731e3dffd0370b55" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_a84170f8572a70be5cf7da3fb25deea0" parent="aspace_946909eace956317731e3dffd0370b55" type="Folder">29</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>World War II, Lobbying for Childcare Funding - Emergency Meat Conference.</unittitle><unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate><container altrender="Record carton" id="aspace_f072cd5a952e95ae366c79e549838346" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_16ded4ac22fe22419f634745628dcc93" parent="aspace_f072cd5a952e95ae366c79e549838346" type="Folder">30</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Martin Luther King, Jr.</unittitle><unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate><container altrender="Record carton" id="aspace_15c704a24917652db6119b98151ef876" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_1316fed7a7af01f0c89a8dc93ec365ca" parent="aspace_15c704a24917652db6119b98151ef876" type="Folder">31</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>With the Press.</unittitle><unitdate datechar="creation" normal="1942/1965" type="inclusive">1942-1965</unitdate><container altrender="Record carton" id="aspace_34155fa45965bcb20acc0d3933101a24" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_127a935bd7d55dea6125eb577cc2d70a" parent="aspace_34155fa45965bcb20acc0d3933101a24" type="Folder">32</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Quill's Last Press Conference.</unittitle><unitdate datechar="creation" normal="1966/1966" type="inclusive">Jan 25, 1966</unitdate><container altrender="Record carton" id="aspace_37dd27393d7b9e76f848cec712b25ac6" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_5ad8c8e911734580fd8b09e8f9e3e50d" parent="aspace_37dd27393d7b9e76f848cec712b25ac6" type="Folder">33</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Mike Quill Memorial.</unittitle><unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate><container altrender="Record carton" id="aspace_1af57f5c000170aae15200f5a3c48639" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_7d9e7349535d3d69daac09c591447763" parent="aspace_1af57f5c000170aae15200f5a3c48639" type="Folder">34</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Publication Parties for Memoir of Mike Quill by Shirley Quill.</unittitle><unitdate datechar="creation" normal="1985/1985" type="inclusive">Jun 18, 1985</unitdate><container altrender="Record carton" id="aspace_35f146715e3b1620656bf1011d9caa07" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_6e3780ae159e8194c5364c1ed8b6d617" parent="aspace_35f146715e3b1620656bf1011d9caa07" type="Folder">35</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Quill with Identified Individuals.</unittitle><unitdate datechar="creation" normal="1951/1956" type="inclusive">1951-1956</unitdate><container altrender="Record carton" id="aspace_f0176f93f32a1dc3bd9a2c2ed7d647d6" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_1f6fe14f7f2e3342af4466b9465fd493" parent="aspace_f0176f93f32a1dc3bd9a2c2ed7d647d6" type="Folder">36</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Unidentified Meeting.</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_3b0b2548a0f3f31145b219d5f4b0c867" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_4f8a02355902288059b7ce7aedc0d348" parent="aspace_3b0b2548a0f3f31145b219d5f4b0c867" type="Folder">37</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Unidentified Groups.</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_043760a0ae0c0b4c599954e10371f16a" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_9111135a738eb8f6789c46c84e8e07b9" parent="aspace_043760a0ae0c0b4c599954e10371f16a" type="Folder">38</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Unidentified Friends.</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_63de7102f3ac7c9e663498ad582c7c38" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_dda1dbd6a2d2d81af24805fe09c32601" parent="aspace_63de7102f3ac7c9e663498ad582c7c38" type="Folder">39</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Signed Robert Kennedy Photograph from Transport Workers Union (TWU) Collection.</unittitle><unitdate datechar="creation" normal="1964/1964" type="inclusive">Nov 1964</unitdate><container altrender="Record carton" id="aspace_e60f1dfb7b34787056c7ac5322e6a371" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_1739a2596706a30417b53e51c98990f5" parent="aspace_e60f1dfb7b34787056c7ac5322e6a371" type="Folder">40</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Oversize Negative, 8" x 10" [possibly Quill's family in Ireland?].</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_e8cbf2e0f5df3c85f54727707a0fa040" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_df15b8be77fd3e651ffef03b528a0ae6" parent="aspace_e8cbf2e0f5df3c85f54727707a0fa040" type="Folder">41</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Miscellaneous, Snapsnots of last trolley car (Yonkers, New York), Interborough Rapid Transit (IRT) Mechanic Attacked and Injured By Bolice.</unittitle><unitdate datechar="creation" normal="1930/1940" type="inclusive">circa 1938</unitdate><container altrender="Record carton" id="aspace_29acb533bc69da3349e7def3bc19bcaa" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_326335855086e4195b09a8c6db1f7ad9" parent="aspace_29acb533bc69da3349e7def3bc19bcaa" type="Folder">42</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Transport Workers Union (TWU) [Pictorial] Calendars.</unittitle><unitdate datechar="creation" normal="1981/2007" type="inclusive">1981-1988, 1990-1991, 1995-2000, 2007</unitdate><container altrender="Record carton" id="aspace_db570d4e02d2adac91e1e1c5cfb38922" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_c998c8391687e2f8f0536d9f1459910b" parent="aspace_db570d4e02d2adac91e1e1c5cfb38922" type="Folder">43</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Shirley Quill's photograph album of a trip by Quill and herself to Israel.</unittitle><unitdate datechar="creation" normal="1953/1953" type="inclusive">circa 1953</unitdate><container altrender="Record carton" id="aspace_8360a2fc4deaa03adf15667e192ee3da" label="Mixed Materials [31142062748382]" type="Box">1</container><container id="aspace_c7284bf42eee133cf00a5c0124f5a111" parent="aspace_8360a2fc4deaa03adf15667e192ee3da" type="Folder">44</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Portraits.</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_11a87774901e42c75f81f7fd59f846b4" label="Mixed Materials [31142062718732]" type="Box">2</container><container id="aspace_b3b681c8c9610b3d718964989685db8a" parent="aspace_11a87774901e42c75f81f7fd59f846b4" type="Folder">1</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Unidentified Events.</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f70b8c3d5ae3e506201281e86565867b" label="Mixed Materials [31142062718732]" type="Box">2</container><container id="aspace_6d99a5fdb8e3a3dd68a61bb354026668" parent="aspace_f70b8c3d5ae3e506201281e86565867b" type="Folder">2</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Transport Workers Union (TWU) Biennial Convention, 9th.</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_1509fe8569898241574760b68231e8d8" label="Mixed Materials [31142062718732]" type="Box">2</container><container id="aspace_699ceabe529980b716294ad3dcf5b7a7" parent="aspace_1509fe8569898241574760b68231e8d8" type="Folder">3</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Ribbon-Cutting Ceremony.</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_722108cb8158d8c9e0cdb22d4fd17023" label="Mixed Materials [31142062718732]" type="Box">2</container><container id="aspace_500b076636c9774bbbb9f517c801a42e" parent="aspace_722108cb8158d8c9e0cdb22d4fd17023" type="Folder">4</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>General.</unittitle><unitdate datechar="creation" normal="1920/1929" type="inclusive">1920s</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_191c036614760bea902dc1f08c244c95" label="Mixed Materials [31142062718732]" type="Box">2</container><container id="aspace_79ccaa7187e090818677a58fce16c1df" parent="aspace_191c036614760bea902dc1f08c244c95" type="Folder">5</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>General.</unittitle><unitdate datechar="creation" normal="1930/1939" type="inclusive">1930s</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_1486a360da994a5f47059a25e2c27743" label="Mixed Materials [31142062718732]" type="Box">2</container><container id="aspace_099dd48ce57baa4fe29114416b463cb7" parent="aspace_1486a360da994a5f47059a25e2c27743" type="Folder">6</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>General.</unittitle><unitdate datechar="creation" normal="1940/1949" type="inclusive">1940s</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_03b36249ad3983b2a5b14b9305a2c218" label="Mixed Materials [31142062718732]" type="Box">2</container><container id="aspace_82ef93f6599422380af8c9db52524836" parent="aspace_03b36249ad3983b2a5b14b9305a2c218" type="Folder">7</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>General.</unittitle><unitdate datechar="creation" normal="1950/1959" type="inclusive">1950s</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_876903527995a4b835d2c2ff2dd4ceff" label="Mixed Materials [31142062718732]" type="Box">2</container><container id="aspace_39ac75705c8a07212b3ca174bad312d8" parent="aspace_876903527995a4b835d2c2ff2dd4ceff" type="Folder">8</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>General.</unittitle><unitdate datechar="creation" normal="1960/1969" type="inclusive">1960s</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_70215aebd913b7eed93818842fa50642" label="Mixed Materials [31142062718732]" type="Box">2</container><container id="aspace_8ece6caacde9a375c10ba1f5ac405b57" parent="aspace_70215aebd913b7eed93818842fa50642" type="Folder">9</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>General.</unittitle><unitdate datechar="creation" normal="1970/1979" type="inclusive">1970s</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_237ab20a56f09cc4e02ded30517a3823" label="Mixed Materials [31142062718732]" type="Box">2</container><container id="aspace_23c368d25ab879f0898a223524216517" parent="aspace_237ab20a56f09cc4e02ded30517a3823" type="Folder">10</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>General.</unittitle><unitdate datechar="creation" normal="1980/1989" type="inclusive">1980s</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_06d26dbdf6709ae12aeb393612a5c473" label="Mixed Materials [31142062718732]" type="Box">2</container><container id="aspace_2ba449f5874c2f4f91376b16c60b4c12" parent="aspace_06d26dbdf6709ae12aeb393612a5c473" type="Folder">11</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>General.</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_dcc89d95468237c62fddbc79130e381d" label="Mixed Materials [31142062718732]" type="Box">2</container><container id="aspace_5b856857660e98d4811e07586d4cdc62" parent="aspace_dcc89d95468237c62fddbc79130e381d" type="Folder">12</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>General (Ephemera).</unittitle><unitdate datechar="creation" normal="1947/1984" type="inclusive">1947-1984</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_726ced89383418dc51c6b11020902053" label="Mixed Materials [31142062718732]" type="Box">2</container><container id="aspace_20a5c5c56ff7ab7415a20286ab926609" parent="aspace_726ced89383418dc51c6b11020902053" type="Folder">13</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Unidentified Blow-ups of Mike Quill and Another Individual at a Microphone Being Interviewed [Oversize].</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_c912501738a19385ccf58cb7188ffb7b" label="Mixed Materials [31142062759793]" type="Box">Shared Tamiment OS002</container><container id="aspace_cf14ac67d4115d40021c6786fe3bdbb4" parent="aspace_c912501738a19385ccf58cb7188ffb7b" type="Folder">1</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Publication Layouts</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_191e22a74b2bc2d19908f5966b8de674" label="Mixed Materials [31142062759793]" type="Box">Shared Tamiment OS002</container><container id="aspace_4c9e3a4a3401f79e87584282c9c311c0" parent="aspace_191e22a74b2bc2d19908f5966b8de674" type="Folder">2</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Transport Workers Union (TWU) Atlantic City; First Annual Dinner Dance; Quill Proof [Oversize].</unittitle><unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate><container altrender="Flat OS 21" id="aspace_a29b7ad2dc8fb5058851526b84e8bbab" label="Mixed Materials [31142062760254]" type="Box">Shared Tamiment XOS002</container><container id="aspace_991c1791e60c63ac351e7647c61fb9fd" parent="aspace_a29b7ad2dc8fb5058851526b84e8bbab" type="Folder">1</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Transport Workers Union (TWU) Convention [Panorama].</unittitle><unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate><container altrender="Oversize Folder - 47.75 x 8.9" id="aspace_131a1d9da3f19e497cb5d6b615684bba" label="Mixed Materials [31142062665164]" type="Flat-File-Folder">1, Tray 3</container></did></c></dsc>
-</archdesc>
+      <persname source="naf">Potofsky, Jacob S. (Jacob Samuel), 1894-1979</persname>
+      <persname source="naf">O'Dwyer, Paul, 1907-1998</persname>
+      <persname source="naf">Curran, Joseph Edwin, 1906-1981</persname>
+      <persname source="naf">Dubinsky, David, 1892-1982.</persname>
+      <persname source="naf">Faber, Gustav, 1912-1993</persname>
+      <persname rules="dacs" source="local">Gildberg, Arthur</persname>
+      <corpname authfilenumber="(lccn)n79086831" source="naf">AFL-CIO</corpname>
+      <corpname authfilenumber="(lccn)n80081625" rules="dacs" source="naf">Congress of Industrial Organizations (U.S.)</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref12" level="file">
+        <did>
+          <unittitle>Portraits/Mike Quill, Studio Portraits, In Bus With Son.</unittitle>
+          <unitdate datechar="creation" normal="1941/1952" type="inclusive">1941-1942, 1952</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Record carton" id="aspace_8263e63865ee8a739e02e5d6ffe59519" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_dcbab95c002579bdf1fbffdadf6617f8" parent="aspace_8263e63865ee8a739e02e5d6ffe59519" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref13" level="file">
+        <did>
+          <unittitle>Portraits/Mike Quill, Studio Portraits, at Press Conference Before Last Strike was Called, Memorial Program.</unittitle>
+          <unitdate datechar="creation" normal="1963/1966" type="inclusive">1963-1966</unitdate>
+          <container altrender="Record carton" id="aspace_7128fa7a0c2d9ef7635a0a842ddf93ba" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_63c95693e33fa3d7412245d79bf077c4" parent="aspace_7128fa7a0c2d9ef7635a0a842ddf93ba" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref14" level="file">
+        <did>
+          <unittitle>Quill Family.</unittitle>
+          <unitdate datechar="creation" normal="1937/1963" type="inclusive">1937-1941, 1958-1963</unitdate>
+          <container altrender="Record carton" id="aspace_dd29c60373a0f72f1a5866e95a1ae714" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_8854b4bee565743d5b9a6d3bfdedaed1" parent="aspace_dd29c60373a0f72f1a5866e95a1ae714" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref15" level="file">
+        <did>
+          <unittitle>Mike and Shirley Quill to Ireland.</unittitle>
+          <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+          <container altrender="Record carton" id="aspace_da0e4e4712eba6f8167cb29a357a80f8" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_b88361cb6e0db5ed075f5c7890372554" parent="aspace_da0e4e4712eba6f8167cb29a357a80f8" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref16" level="file">
+        <did>
+          <unittitle>Mike Quill and Family in Ireland.</unittitle>
+          <unitdate datechar="creation" normal="1956/1960" type="inclusive">1956-1960</unitdate>
+          <container altrender="Record carton" id="aspace_03a1e99686241995ff1603a8df8d6caf" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_0e64aea24fe3737871d1d4b5d090d588" parent="aspace_03a1e99686241995ff1603a8df8d6caf" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref17" level="file">
+        <did>
+          <unittitle>Shirley Quill.</unittitle>
+          <unitdate datechar="creation" normal="1922/1986" type="inclusive">1922-1986</unitdate>
+          <container altrender="Record carton" id="aspace_d00074936b9ac961f8b8b4d6b5b83e7c" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_e1cf9364d9744165bb082535ef30a628" parent="aspace_d00074936b9ac961f8b8b4d6b5b83e7c" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref18" level="file">
+        <did>
+          <unittitle>Irish History.</unittitle>
+          <unitdate datechar="creation" normal="1913/1932" type="inclusive">1913-1932</unitdate>
+          <container altrender="Record carton" id="aspace_e2e694ffa0023a95e0c62a6c13679fe2" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_a7a1d6e5f5dbaa174900420a0edb3c55" parent="aspace_e2e694ffa0023a95e0c62a6c13679fe2" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref19" level="file">
+        <did>
+          <unittitle>New York State Industrial Union Council, First Convention.</unittitle>
+          <unitdate datechar="creation" normal="1938/1938" type="inclusive">1938</unitdate>
+          <container altrender="Record carton" id="aspace_2ea56fe056f9c1a4d7a4eaf8652d5bc8" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_cf7d6dd20870e22ef04e287500da9489" parent="aspace_2ea56fe056f9c1a4d7a4eaf8652d5bc8" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref20" level="file">
+        <did>
+          <unittitle>Transport Worker Union (TWU) Leadership.</unittitle>
+          <unitdate datechar="creation" normal="1942/1945" type="inclusive">1942-1945</unitdate>
+          <container altrender="Record carton" id="aspace_a15cf7940f49358e80582f0004f7c7d0" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_68d933f3fd5fd5453d927d151c6aebe3" parent="aspace_a15cf7940f49358e80582f0004f7c7d0" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref21" level="file">
+        <did>
+          <unittitle>Transport Workers Union (TWU) Conventions.</unittitle>
+          <unitdate datechar="creation" normal="1939/1961" type="inclusive">1939-1948, 1955, 1961</unitdate>
+          <container altrender="Record carton" id="aspace_24d1f61dc7bf58f276e803cfd0e8b48f" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_535028188575c454141a29b3f58cc413" parent="aspace_24d1f61dc7bf58f276e803cfd0e8b48f" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref22" level="file">
+        <did>
+          <unittitle>Strikes and Protests.</unittitle>
+          <unitdate datechar="creation" normal="1940/1966" type="inclusive">1940-1966</unitdate>
+          <container altrender="Record carton" id="aspace_d6ea560fff6b5dbaef4a969e03ad457c" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_03f86a5f9918e5d1e9f942cd15000ef5" parent="aspace_d6ea560fff6b5dbaef4a969e03ad457c" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref23" level="file">
+        <did>
+          <unittitle>Congress of Industrial Organizations (CIO).</unittitle>
+          <unitdate datechar="creation" normal="1937/1957" type="inclusive">1937-1957</unitdate>
+          <container altrender="Record carton" id="aspace_5b0abe8c3b654a07cc634610ed1bf8a5" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_d697772af8275a1a0eb1b54f6da2c4f9" parent="aspace_5b0abe8c3b654a07cc634610ed1bf8a5" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref24" level="file">
+        <did>
+          <unittitle>Congress of Industrial Organizations (CIO) International.</unittitle>
+          <unitdate datechar="creation" normal="1949/1955" type="inclusive">1949-1955</unitdate>
+          <container altrender="Record carton" id="aspace_60ee14b79752ca32b925cb7dbbc0f07c" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_174a4946fb91f73f2dcf21dd1801aee2" parent="aspace_60ee14b79752ca32b925cb7dbbc0f07c" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref25" level="file">
+        <did>
+          <unittitle>Transport Workers Union (TWU) Response to 50 Year Celebration of Subways.</unittitle>
+          <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
+          <container altrender="Record carton" id="aspace_90d0140ef0a66fef932b1a1d8e70e1ad" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_936e7662a97fe9277c3a461c278766d2" parent="aspace_90d0140ef0a66fef932b1a1d8e70e1ad" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref26" level="file">
+        <did>
+          <unittitle>Transport Workers Union (TWU) Support of Other Strikes.</unittitle>
+          <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate>
+          <container altrender="Record carton" id="aspace_878d18ee931feedfc922ae943a4c62c7" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_8e2e5a4060a15d1918861c6043cef2cc" parent="aspace_878d18ee931feedfc922ae943a4c62c7" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref27" level="file">
+        <did>
+          <unittitle>American Federation of Labor- Congress of Industrial Organizations (AFL-CIO) - William Green, Mike and Shirley Quill with George Meany/James Carey, Joe Curran.</unittitle>
+          <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+          <container altrender="Record carton" id="aspace_ec79e6cf7ff5c824bbe451bfa55dfc2e" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_fc36824afa6cf3111afd215273c1354a" parent="aspace_ec79e6cf7ff5c824bbe451bfa55dfc2e" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref28" level="file">
+        <did>
+          <unittitle>Local 100.</unittitle>
+          <unitdate datechar="creation" normal="1943/1963" type="inclusive">1943-1963</unitdate>
+          <container altrender="Record carton" id="aspace_88a0aba55f763044e49e61f48f74e278" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_6667862193cdd2f9a26988cc09234280" parent="aspace_88a0aba55f763044e49e61f48f74e278" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref29" level="item">
+        <did>
+          <unittitle>Local 101 - Support of IBEW Against Brooklyn Borough Gas Corporation.</unittitle>
+          <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+          <container altrender="Record carton" id="aspace_e03e99150f00e9f3e9399bd1e8269ba6" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_20564a4dcb2834005c156e8fb240cb78" parent="aspace_e03e99150f00e9f3e9399bd1e8269ba6" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref30" level="file">
+        <did>
+          <unittitle>Local 163 - Virginia Electric and Power Company.</unittitle>
+          <unitdate datechar="creation" normal="1938/1942" type="inclusive">1938-1942</unitdate>
+          <container altrender="Record carton" id="aspace_0b183abc18cdee61ee79509de7b32dc2" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_17611a43091dd9984bfa3e538d2be140" parent="aspace_0b183abc18cdee61ee79509de7b32dc2" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_ref31" level="item">
+        <did>
+          <unittitle>Local 206, 208, New Orleans, 225 Clifton, New Jersey.</unittitle>
+          <unitdate datechar="creation" normal="1948/1950" type="inclusive">circa 1949</unitdate>
+          <container altrender="Record carton" id="aspace_33d7df55762fe2c91e06c680923d88ae" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_cf1334ef6a080f78f9c2dc8eb1fb0883" parent="aspace_33d7df55762fe2c91e06c680923d88ae" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_ref32" level="file">
+        <did>
+          <unittitle>Local 234 - Philadelphia.</unittitle>
+          <unitdate datechar="creation" normal="1949/1963" type="inclusive">1949-1963</unitdate>
+          <container altrender="Record carton" id="aspace_66233fb0d9d633048df81f294e643504" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_5450811e935291b035daefb9e805266a" parent="aspace_66233fb0d9d633048df81f294e643504" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_ref33" level="file">
+        <did>
+          <unittitle>Local 252 - Long Island, First Annual Dance Negotiations.</unittitle>
+          <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+          <container altrender="Record carton" id="aspace_1a8d763f69c2c0a7b8d6c6b936f4b0d7" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_f555bb1fc1343c8039faf8a47707baab" parent="aspace_1a8d763f69c2c0a7b8d6c6b936f4b0d7" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_ref34" level="file">
+        <did>
+          <unittitle>Air Transport Division.</unittitle>
+          <unitdate datechar="creation" normal="1945/1946" type="inclusive">1945-1946</unitdate>
+          <container altrender="Record carton" id="aspace_4aad7b9df2f3ef197cfcb508296df2e0" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_c860a8f177e39008338b374043d72882" parent="aspace_4aad7b9df2f3ef197cfcb508296df2e0" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_ref35" level="file">
+        <did>
+          <unittitle>Air Transport Division.</unittitle>
+          <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+          <container altrender="Record carton" id="aspace_b36970881713b3266230fb69d6f9ecf6" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_1140c90e0d758ad8f57f99afb55b3eba" parent="aspace_b36970881713b3266230fb69d6f9ecf6" type="Folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_ref36" level="file">
+        <did>
+          <unittitle>Air Transport Division.</unittitle>
+          <unitdate datechar="creation" normal="1948/1955" type="inclusive">1948, 1955</unitdate>
+          <container altrender="Record carton" id="aspace_9b5cb1c0ca3517e4aa4ce80d24ebc60e" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_721def0f13e63cf181c7bb231f9b691a" parent="aspace_9b5cb1c0ca3517e4aa4ce80d24ebc60e" type="Folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_ref37" level="file">
+        <did>
+          <unittitle>Railroad Division - Pennsylvania Railroad.</unittitle>
+          <unitdate datechar="creation" normal="1956/1960" type="inclusive">1956, 1960</unitdate>
+          <container altrender="Record carton" id="aspace_d0c6ed6d36a08a94269814bb5a7c3fbf" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_10f3f63c3463d724fee199dd1630c034" parent="aspace_d0c6ed6d36a08a94269814bb5a7c3fbf" type="Folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_ref38" level="file">
+        <did>
+          <unittitle>Taxi Division Local 150 - Local 300.</unittitle>
+          <unitdate datechar="creation" normal="1944/1965" type="inclusive">1944-1947, 1965</unitdate>
+          <container altrender="Record carton" id="aspace_fdc8ece0a05698f2b2d4297d658b864c" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_44451a42edf571446273a4d3b13d2a02" parent="aspace_fdc8ece0a05698f2b2d4297d658b864c" type="Folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_ref39" level="file">
+        <did>
+          <unittitle>Councilman Quill.</unittitle>
+          <unitdate datechar="creation" normal="1939/1949" type="inclusive">1939-1949</unitdate>
+          <container altrender="Record carton" id="aspace_3b8155aa4ebc4e5a198ade9dfb94964f" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_4fd0043b55d31b66c55079292cd0b19f" parent="aspace_3b8155aa4ebc4e5a198ade9dfb94964f" type="Folder">28</container>
+        </did>
+      </c>
+      <c id="aspace_ref40" level="file">
+        <did>
+          <unittitle>Political Campaigns.</unittitle>
+          <unitdate datechar="creation" normal="1938/1964" type="inclusive">1938-1964</unitdate>
+          <container altrender="Record carton" id="aspace_946909eace956317731e3dffd0370b55" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_a84170f8572a70be5cf7da3fb25deea0" parent="aspace_946909eace956317731e3dffd0370b55" type="Folder">29</container>
+        </did>
+      </c>
+      <c id="aspace_ref41" level="file">
+        <did>
+          <unittitle>World War II, Lobbying for Childcare Funding - Emergency Meat Conference.</unittitle>
+          <unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate>
+          <container altrender="Record carton" id="aspace_f072cd5a952e95ae366c79e549838346" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_16ded4ac22fe22419f634745628dcc93" parent="aspace_f072cd5a952e95ae366c79e549838346" type="Folder">30</container>
+        </did>
+      </c>
+      <c id="aspace_ref42" level="file">
+        <did>
+          <unittitle>Martin Luther King, Jr.</unittitle>
+          <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+          <container altrender="Record carton" id="aspace_15c704a24917652db6119b98151ef876" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_1316fed7a7af01f0c89a8dc93ec365ca" parent="aspace_15c704a24917652db6119b98151ef876" type="Folder">31</container>
+        </did>
+      </c>
+      <c id="aspace_ref43" level="file">
+        <did>
+          <unittitle>With the Press.</unittitle>
+          <unitdate datechar="creation" normal="1942/1965" type="inclusive">1942-1965</unitdate>
+          <container altrender="Record carton" id="aspace_34155fa45965bcb20acc0d3933101a24" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_127a935bd7d55dea6125eb577cc2d70a" parent="aspace_34155fa45965bcb20acc0d3933101a24" type="Folder">32</container>
+        </did>
+      </c>
+      <c id="aspace_ref44" level="file">
+        <did>
+          <unittitle>Quill's Last Press Conference.</unittitle>
+          <unitdate datechar="creation" normal="1966/1966" type="inclusive">Jan 25, 1966</unitdate>
+          <container altrender="Record carton" id="aspace_37dd27393d7b9e76f848cec712b25ac6" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_5ad8c8e911734580fd8b09e8f9e3e50d" parent="aspace_37dd27393d7b9e76f848cec712b25ac6" type="Folder">33</container>
+        </did>
+      </c>
+      <c id="aspace_ref45" level="file">
+        <did>
+          <unittitle>Mike Quill Memorial.</unittitle>
+          <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+          <container altrender="Record carton" id="aspace_1af57f5c000170aae15200f5a3c48639" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_7d9e7349535d3d69daac09c591447763" parent="aspace_1af57f5c000170aae15200f5a3c48639" type="Folder">34</container>
+        </did>
+      </c>
+      <c id="aspace_ref46" level="file">
+        <did>
+          <unittitle>Publication Parties for Memoir of Mike Quill by Shirley Quill.</unittitle>
+          <unitdate datechar="creation" normal="1985/1985" type="inclusive">Jun 18, 1985</unitdate>
+          <container altrender="Record carton" id="aspace_35f146715e3b1620656bf1011d9caa07" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_6e3780ae159e8194c5364c1ed8b6d617" parent="aspace_35f146715e3b1620656bf1011d9caa07" type="Folder">35</container>
+        </did>
+      </c>
+      <c id="aspace_ref47" level="file">
+        <did>
+          <unittitle>Quill with Identified Individuals.</unittitle>
+          <unitdate datechar="creation" normal="1951/1956" type="inclusive">1951-1956</unitdate>
+          <container altrender="Record carton" id="aspace_f0176f93f32a1dc3bd9a2c2ed7d647d6" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_1f6fe14f7f2e3342af4466b9465fd493" parent="aspace_f0176f93f32a1dc3bd9a2c2ed7d647d6" type="Folder">36</container>
+        </did>
+      </c>
+      <c id="aspace_ref48" level="file">
+        <did>
+          <unittitle>Unidentified Meeting.</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Record carton" id="aspace_3b0b2548a0f3f31145b219d5f4b0c867" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_4f8a02355902288059b7ce7aedc0d348" parent="aspace_3b0b2548a0f3f31145b219d5f4b0c867" type="Folder">37</container>
+        </did>
+      </c>
+      <c id="aspace_ref49" level="file">
+        <did>
+          <unittitle>Unidentified Groups.</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Record carton" id="aspace_043760a0ae0c0b4c599954e10371f16a" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_9111135a738eb8f6789c46c84e8e07b9" parent="aspace_043760a0ae0c0b4c599954e10371f16a" type="Folder">38</container>
+        </did>
+      </c>
+      <c id="aspace_ref50" level="file">
+        <did>
+          <unittitle>Unidentified Friends.</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Record carton" id="aspace_63de7102f3ac7c9e663498ad582c7c38" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_dda1dbd6a2d2d81af24805fe09c32601" parent="aspace_63de7102f3ac7c9e663498ad582c7c38" type="Folder">39</container>
+        </did>
+      </c>
+      <c id="aspace_ref51" level="file">
+        <did>
+          <unittitle>Signed Robert Kennedy Photograph from Transport Workers Union (TWU) Collection.</unittitle>
+          <unitdate datechar="creation" normal="1964/1964" type="inclusive">Nov 1964</unitdate>
+          <container altrender="Record carton" id="aspace_e60f1dfb7b34787056c7ac5322e6a371" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_1739a2596706a30417b53e51c98990f5" parent="aspace_e60f1dfb7b34787056c7ac5322e6a371" type="Folder">40</container>
+        </did>
+      </c>
+      <c id="aspace_ref52" level="file">
+        <did>
+          <unittitle>Oversize Negative, 8" x 10" [possibly Quill's family in Ireland?].</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Record carton" id="aspace_e8cbf2e0f5df3c85f54727707a0fa040" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_df15b8be77fd3e651ffef03b528a0ae6" parent="aspace_e8cbf2e0f5df3c85f54727707a0fa040" type="Folder">41</container>
+        </did>
+      </c>
+      <c id="aspace_ref53" level="file">
+        <did>
+          <unittitle>Miscellaneous, Snapsnots of last trolley car (Yonkers, New York), Interborough Rapid Transit (IRT) Mechanic Attacked and Injured By Bolice.</unittitle>
+          <unitdate datechar="creation" normal="1930/1940" type="inclusive">circa 1938</unitdate>
+          <container altrender="Record carton" id="aspace_29acb533bc69da3349e7def3bc19bcaa" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_326335855086e4195b09a8c6db1f7ad9" parent="aspace_29acb533bc69da3349e7def3bc19bcaa" type="Folder">42</container>
+        </did>
+      </c>
+      <c id="aspace_ref54" level="file">
+        <did>
+          <unittitle>Transport Workers Union (TWU) [Pictorial] Calendars.</unittitle>
+          <unitdate datechar="creation" normal="1981/2007" type="inclusive">1981-1988, 1990-1991, 1995-2000, 2007</unitdate>
+          <container altrender="Record carton" id="aspace_db570d4e02d2adac91e1e1c5cfb38922" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_c998c8391687e2f8f0536d9f1459910b" parent="aspace_db570d4e02d2adac91e1e1c5cfb38922" type="Folder">43</container>
+        </did>
+      </c>
+      <c id="aspace_ref55" level="file">
+        <did>
+          <unittitle>Shirley Quill's photograph album of a trip by Quill and herself to Israel.</unittitle>
+          <unitdate datechar="creation" normal="1953/1953" type="inclusive">circa 1953</unitdate>
+          <container altrender="Record carton" id="aspace_8360a2fc4deaa03adf15667e192ee3da" label="Mixed Materials [31142062748382]" type="Box">1</container>
+          <container id="aspace_c7284bf42eee133cf00a5c0124f5a111" parent="aspace_8360a2fc4deaa03adf15667e192ee3da" type="Folder">44</container>
+        </did>
+      </c>
+      <c id="aspace_ref56" level="file">
+        <did>
+          <unittitle>Portraits.</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_11a87774901e42c75f81f7fd59f846b4" label="Mixed Materials [31142062718732]" type="Box">2</container>
+          <container id="aspace_b3b681c8c9610b3d718964989685db8a" parent="aspace_11a87774901e42c75f81f7fd59f846b4" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref57" level="file">
+        <did>
+          <unittitle>Unidentified Events.</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_f70b8c3d5ae3e506201281e86565867b" label="Mixed Materials [31142062718732]" type="Box">2</container>
+          <container id="aspace_6d99a5fdb8e3a3dd68a61bb354026668" parent="aspace_f70b8c3d5ae3e506201281e86565867b" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref58" level="file">
+        <did>
+          <unittitle>Transport Workers Union (TWU) Biennial Convention, 9th.</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_1509fe8569898241574760b68231e8d8" label="Mixed Materials [31142062718732]" type="Box">2</container>
+          <container id="aspace_699ceabe529980b716294ad3dcf5b7a7" parent="aspace_1509fe8569898241574760b68231e8d8" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref59" level="file">
+        <did>
+          <unittitle>Ribbon-Cutting Ceremony.</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_722108cb8158d8c9e0cdb22d4fd17023" label="Mixed Materials [31142062718732]" type="Box">2</container>
+          <container id="aspace_500b076636c9774bbbb9f517c801a42e" parent="aspace_722108cb8158d8c9e0cdb22d4fd17023" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref60" level="file">
+        <did>
+          <unittitle>General.</unittitle>
+          <unitdate datechar="creation" normal="1920/1929" type="inclusive">1920s</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_191c036614760bea902dc1f08c244c95" label="Mixed Materials [31142062718732]" type="Box">2</container>
+          <container id="aspace_79ccaa7187e090818677a58fce16c1df" parent="aspace_191c036614760bea902dc1f08c244c95" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref61" level="file">
+        <did>
+          <unittitle>General.</unittitle>
+          <unitdate datechar="creation" normal="1930/1939" type="inclusive">1930s</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_1486a360da994a5f47059a25e2c27743" label="Mixed Materials [31142062718732]" type="Box">2</container>
+          <container id="aspace_099dd48ce57baa4fe29114416b463cb7" parent="aspace_1486a360da994a5f47059a25e2c27743" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref62" level="file">
+        <did>
+          <unittitle>General.</unittitle>
+          <unitdate datechar="creation" normal="1940/1949" type="inclusive">1940s</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_03b36249ad3983b2a5b14b9305a2c218" label="Mixed Materials [31142062718732]" type="Box">2</container>
+          <container id="aspace_82ef93f6599422380af8c9db52524836" parent="aspace_03b36249ad3983b2a5b14b9305a2c218" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref63" level="file">
+        <did>
+          <unittitle>General.</unittitle>
+          <unitdate datechar="creation" normal="1950/1959" type="inclusive">1950s</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_876903527995a4b835d2c2ff2dd4ceff" label="Mixed Materials [31142062718732]" type="Box">2</container>
+          <container id="aspace_39ac75705c8a07212b3ca174bad312d8" parent="aspace_876903527995a4b835d2c2ff2dd4ceff" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref64" level="file">
+        <did>
+          <unittitle>General.</unittitle>
+          <unitdate datechar="creation" normal="1960/1969" type="inclusive">1960s</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_70215aebd913b7eed93818842fa50642" label="Mixed Materials [31142062718732]" type="Box">2</container>
+          <container id="aspace_8ece6caacde9a375c10ba1f5ac405b57" parent="aspace_70215aebd913b7eed93818842fa50642" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref65" level="file">
+        <did>
+          <unittitle>General.</unittitle>
+          <unitdate datechar="creation" normal="1970/1979" type="inclusive">1970s</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_237ab20a56f09cc4e02ded30517a3823" label="Mixed Materials [31142062718732]" type="Box">2</container>
+          <container id="aspace_23c368d25ab879f0898a223524216517" parent="aspace_237ab20a56f09cc4e02ded30517a3823" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref66" level="file">
+        <did>
+          <unittitle>General.</unittitle>
+          <unitdate datechar="creation" normal="1980/1989" type="inclusive">1980s</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_06d26dbdf6709ae12aeb393612a5c473" label="Mixed Materials [31142062718732]" type="Box">2</container>
+          <container id="aspace_2ba449f5874c2f4f91376b16c60b4c12" parent="aspace_06d26dbdf6709ae12aeb393612a5c473" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref67" level="file">
+        <did>
+          <unittitle>General.</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_dcc89d95468237c62fddbc79130e381d" label="Mixed Materials [31142062718732]" type="Box">2</container>
+          <container id="aspace_5b856857660e98d4811e07586d4cdc62" parent="aspace_dcc89d95468237c62fddbc79130e381d" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref68" level="file">
+        <did>
+          <unittitle>General (Ephemera).</unittitle>
+          <unitdate datechar="creation" normal="1947/1984" type="inclusive">1947-1984</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_726ced89383418dc51c6b11020902053" label="Mixed Materials [31142062718732]" type="Box">2</container>
+          <container id="aspace_20a5c5c56ff7ab7415a20286ab926609" parent="aspace_726ced89383418dc51c6b11020902053" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref69" level="file">
+        <did>
+          <unittitle>Unidentified Blow-ups of Mike Quill and Another Individual at a Microphone Being Interviewed [Oversize].</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_c912501738a19385ccf58cb7188ffb7b" label="Mixed Materials [31142062759793]" type="Box">Shared Tamiment OS002</container>
+          <container id="aspace_cf14ac67d4115d40021c6786fe3bdbb4" parent="aspace_c912501738a19385ccf58cb7188ffb7b" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref70" level="file">
+        <did>
+          <unittitle>Publication Layouts</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_191e22a74b2bc2d19908f5966b8de674" label="Mixed Materials [31142062759793]" type="Box">Shared Tamiment OS002</container>
+          <container id="aspace_4c9e3a4a3401f79e87584282c9c311c0" parent="aspace_191e22a74b2bc2d19908f5966b8de674" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref71" level="file">
+        <did>
+          <unittitle>Transport Workers Union (TWU) Atlantic City; First Annual Dinner Dance; Quill Proof [Oversize].</unittitle>
+          <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
+          <container altrender="Flat OS 21" id="aspace_a29b7ad2dc8fb5058851526b84e8bbab" label="Mixed Materials [31142062760254]" type="Box">Shared Tamiment XOS002</container>
+          <container id="aspace_991c1791e60c63ac351e7647c61fb9fd" parent="aspace_a29b7ad2dc8fb5058851526b84e8bbab" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref72" level="file">
+        <did>
+          <unittitle>Transport Workers Union (TWU) Convention [Panorama].</unittitle>
+          <unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate>
+          <container altrender="Oversize Folder - 47.75 x 8.9" id="aspace_131a1d9da3f19e497cb5d6b615684bba" label="Mixed Materials [31142062665164]" type="Flat-File-Folder">1, Tray 3</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

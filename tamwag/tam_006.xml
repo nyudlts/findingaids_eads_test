@@ -1,81 +1,442 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_006">tam_006</eadid><filedesc><titlestmt><titleproper>Guide to the Max Zaritsky Papers <num>TAM.006</num></titleproper><author>Tamiment staff</author></titlestmt><editionstmt><p>This version was derived from zaritsky.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:28:24 -0400</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Max Zaritsky Papers</unittitle>
-    <origination label="Creator">
-      <persname source="naf">Zaritsky, Max, 1885-1959</persname>
-    </origination>
-    <origination label="source">
-      <corpname authfilenumber="(lccn)n88657420" role="dnr" source="naf">Rand School of Social Science</corpname>
-    </origination>
-    <unitid>TAM.006</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
-      <extent altrender="carrier">(3 boxes)</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1912/1959" type="inclusive">1912-1959</unitdate>
-    <unitdate datechar="creation" normal="1934/1948" type="bulk">1934-1948</unitdate>
-    <abstract id="aspace_1b323c41722330135f6adac272705c35" label="Abstract">Max Zaritsky (1885-1959) was an officer, and sometime president, of two hat industry unions, the Cloth Hat, Cap, and Millinery Workers' International Union, and its successor, the United Hatters, Cap, and Millinery Workers International Union. The papers include correspondence with labor and industry leaders, clippings, manuscripts, minutes, typescripts of radio addresses and speeches, and memorabilia and printed material covering hat industry union affairs, political and Zionist activities of the labor movement, and the conflict between the American Federation of Labor and the newly formed Congress of Industrial Organizations.</abstract>
-    <langmaterial>
-      <language langcode="eng" scriptcode="Latn">English</language>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/tam_006">tam_006</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Max Zaritsky Papers <num>TAM.006</num></titleproper>
+        <author>Tamiment staff</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from zaritsky.doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:28:24 -0400</date>.</creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Max Zaritsky Papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Zaritsky, Max, 1885-1959</persname>
+      </origination>
+      <origination label="source">
+        <corpname authfilenumber="(lccn)n88657420" role="dnr" source="naf">Rand School of Social Science</corpname>
+      </origination>
+      <unitid>TAM.006</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+        <extent altrender="carrier">(3 boxes)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1912/1959" type="inclusive">1912-1959</unitdate>
+      <unitdate datechar="creation" normal="1934/1948" type="bulk">1934-1948</unitdate>
+      <abstract id="aspace_1b323c41722330135f6adac272705c35" label="Abstract">Max Zaritsky (1885-1959) was an officer, and sometime president, of two hat industry unions, the Cloth Hat, Cap, and Millinery Workers' International Union, and its successor, the United Hatters, Cap, and Millinery Workers International Union. The papers include correspondence with labor and industry leaders, clippings, manuscripts, minutes, typescripts of radio addresses and speeches, and memorabilia and printed material covering hat industry union affairs, political and Zionist activities of the labor movement, and the conflict between the American Federation of Labor and the newly formed Congress of Industrial Organizations.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
 .    </langmaterial>
-  </did>
-  <custodhist id="aspace_b6403dcc294327b1f962e4960cda79ac">
-    <head>Custodial History</head>
-<p>Collection was part of the Rand School Archives, which were transferred to the Tamiment Library in 1963 by members of the People's Education Camp Society, Inc. The accession number associated with this collection is 1963.016.</p>  </custodhist>
-  <accessrestrict id="aspace_5b8a42504b68cd8fd5e36b411e58de80">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <bioghist id="aspace_b80d1879e33b93ccdc1b1a65ce58d122">
-    <head>Historical/Biographical Note</head>
-<p>Max Zaritsky (1885-1959) was born Petrikov, Russia, emigrated to the U.S., where in 1907 he joined the Cloth Hat, Cap, and Millinery Workers' International Union (CHCMW), later becoming its president, and then subsequently, president, until his retirement in 1950, of the United Hatters, Cap, and Millinery Workers International Union (AFL), formed by the 1934 merger of the CHCMW and the United Hatters of North America. Zaritsky was an advocate of labor-management cooperation to promote the hat industry, a founder of the American Labor Party in 1936, and was active in labor Zionist circles, heading both the American Jewish Trade Union Committee for Palestine and the National Committee for a Leon Blum Colony in Palestine.</p><p>Sources:</p><p><list><item>Max Zaritsky at Fifty. The Story of an Aggressive Labor Leadership (1935).</item><item>Biographical Dictionary of American Labor (1984).</item><item>Labor Unions (1977). Includes historical sketches of the various hat industry unions, pp. 139-144.</item></list> </p>  </bioghist>
-  <scopecontent id="aspace_2cea1d05346e95a85c7a0ffb94aa6077">
-    <head>Scope and Content Note</head>
-<p>The papers include correspondence with labor and industry leaders, clippings, manuscripts, minutes, typescripts of radio addresses and speeches, memorabilia and printed material covering hat industry union affairs, political and Zionist activities of the labor movement, and the conflict between the American Federation of Labor and the newly formed Congress of Industrial Organizations.</p>  </scopecontent>
-  <arrangement id="aspace_a2a784245b27ddd6f6af29b87db7d9f1">
-    <head>Arrangement</head>
-<p>The folders are arranged alphabetically.</p><p>The files are grouped into one series:</p>    <list type="ordered">
-      <head>Missing Title</head>
-      <item>I, Max Zaritsky Papers</item>
-    </list>
-  </arrangement>
-  <relatedmaterial id="aspace_9dd4fc43128cb9488a669549c1aa0692">
-    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-<p>United Hatters, Cap and Millinery Workers International Union Records (Tamiment 54)</p>  </relatedmaterial>
-  <separatedmaterial id="aspace_a17dc0a8cd72d07aef8a497f29daa455">
-    <head>Separated Material</head>
-<p>Several photographs have been separated to the Tamiment Library General Photographs Collection (Photographs 1)</p>  </separatedmaterial>
-  <userestrict id="aspace_120f45c0b37a94636d59299b39a6a1fb">
-    <head>Conditions Governing Use</head>
-<p>Tamiment Library has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1912 to 1959, are expected to enter the public domain in 2080.</p>  </userestrict>
-  <prefercite id="aspace_95f039988db4c57eeeeb2daf6a27f70e">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
-  <acqinfo id="aspace_48dd4386920cef744b160a2a17398b92">
-    <head>Immediate Source of Acquisition</head>
-<p>Transfer from the Rand School Archives, 1963. The accession number associated with this collection is 1963.016</p>  </acqinfo>
-  <controlaccess>
-    <genreform source="aat">Correspondence.</genreform>
-    <geogname source="lcsh">Palestine.</geogname>
-    <genreform source="aat">Speeches.</genreform>
-    <genreform source="aat">Minutes (administrative records)</genreform>
-    <subject source="lcsh">Labor Zionism |z United States.</subject>
-    <genreform source="aat">Manuscripts for publication.</genreform>
-    <subject source="lcsh">Industrial technicians |x Labor unions |z United States.</subject>
-    <genreform source="aat">Clippings (information artifacts)</genreform>
-    <subject source="lcsh">Hat trade |x Labor unions |z United States.</subject>
-    <persname source="naf">Zaritsky, Max, 1885-1959</persname>
-    <corpname authfilenumber="(lccn)n87915516" source="naf">Cloth Hat, Cap, and Millinery Workers' International Union</corpname>
-    <persname source="naf">Blum, Léon, 1872-1950</persname>
-    <corpname source="local">American Jewish Trade Union Committee for Palestine</corpname>
-    <corpname source="local">National Committee for a Leon Blum Colony in Palestine</corpname>
-    <corpname authfilenumber="(lccn)n87915517" source="naf">United Hatters, Cap, and Millinery Workers International Union</corpname>
-    <corpname authfilenumber="(lccn)n80081625" rules="dacs" source="naf">Congress of Industrial Organizations (U.S.)</corpname>
-    <corpname authfilenumber="(lccn)n88657420" role="dnr" source="naf">Rand School of Social Science</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_ref15" level="series"><did><unittitle>Series 1: Max Zaritsky Papers</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref16" level="file"><did><unittitle>AFL and the CIO: Statements, Speeches</unittitle><unitdate datechar="creation" normal="1936/1938" type="inclusive">1936 , 1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_f882911fd5ce69c98410f2d4cb784748" label="Mixed Materials [31142062773570]" type="Box">1</container><container id="aspace_acac894b79a1a2bd8099cc1655eb88bc" parent="aspace_f882911fd5ce69c98410f2d4cb784748" type="Folder">1</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>American Jewish Trade Union Committee for Palestine</unittitle><unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_7fa3f6b719ce4ac2d11cf7c7a18ec95a" label="Mixed Materials [31142062773570]" type="Box">1</container><container id="aspace_86bef0ad3d20fc8e179bcd324e6e48c4" parent="aspace_7fa3f6b719ce4ac2d11cf7c7a18ec95a" type="Folder">2</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>American Jewish Trade Union Committee for Palestine</unittitle><unitdate datechar="creation" normal="1945/1945" type="inclusive">1945</unitdate><container altrender="Manuscript box - Legal" id="aspace_cd5b8e36db386106febcb67a21b074da" label="Mixed Materials [31142062773570]" type="Box">1</container><container id="aspace_9556ae4884d1e525601f6acacadbbeb3" parent="aspace_cd5b8e36db386106febcb67a21b074da" type="Folder">3</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>American Jewish Trade Union Committee for Palestine</unittitle><unitdate datechar="creation" normal="1946/1949" type="inclusive">1946-1949</unitdate><container altrender="Manuscript box - Legal" id="aspace_6576c2bd3101592b562e17cbdb042dc4" label="Mixed Materials [31142062773570]" type="Box">1</container><container id="aspace_1cdd30546d92ebdaa2bd7a847b9a949e" parent="aspace_6576c2bd3101592b562e17cbdb042dc4" type="Folder">4</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>American Trade Union Council National Committee for Labor Israel</unittitle><unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_0c71ec48459be754fd729cb21c0ce065" label="Mixed Materials [31142062773570]" type="Box">1</container><container id="aspace_b1f693efadbd1c699af698bacce4493c" parent="aspace_0c71ec48459be754fd729cb21c0ce065" type="Folder">5</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>American Zionist Emergency Council</unittitle><unitdate datechar="creation" normal="1943/1944" type="inclusive">1943-1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_4f3c634b1b761d8352952f8efea07ca8" label="Mixed Materials [31142062773570]" type="Box">1</container><container id="aspace_80ff922f524e7526c2c6187ab3e3d3e8" parent="aspace_4f3c634b1b761d8352952f8efea07ca8" type="Folder">6</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Biographies</unittitle><unitdate datechar="creation" normal="1912/1959" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_5423556924de19163ae3041cff85fd1c" label="Mixed Materials [31142062773570]" type="Box">1</container><container id="aspace_497ee852a2b313a76c4482adebc04a84" parent="aspace_5423556924de19163ae3041cff85fd1c" type="Folder">7</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Clippings: By and About Max Zaritsky</unittitle><unitdate datechar="creation">1930s-1950s</unitdate><container altrender="Manuscript box - Legal" id="aspace_c3c1de3ab9be7d6340c1df0ba7f09a6e" label="Mixed Materials [31142062773570]" type="Box">1</container><container id="aspace_57ca6470d09b5fe5d2dba2223c1a0ec0" parent="aspace_c3c1de3ab9be7d6340c1df0ba7f09a6e" type="Folder">8</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation">1930s</unitdate><container altrender="Manuscript box - Legal" id="aspace_d0843e3af337e5e4119afc624442e99d" label="Mixed Materials [31142062773570]" type="Box">1</container><container id="aspace_1465981b9d79245ddfd88de5d28d89d2" parent="aspace_d0843e3af337e5e4119afc624442e99d" type="Folder">9</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1940/1945" type="inclusive">1940-1945</unitdate><container altrender="Manuscript box - Legal" id="aspace_797c1ad3cd60710d5018e450fb761dc2" label="Mixed Materials [31142062773570]" type="Box">1</container><container id="aspace_b3477abb06ac125299181bd9fbd99d44" parent="aspace_797c1ad3cd60710d5018e450fb761dc2" type="Folder">10</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1946/1949" type="inclusive">1946-1949</unitdate><container altrender="Manuscript box - Legal" id="aspace_844c23a39ea6ba543fb08d06cffb3a1a" label="Mixed Materials [31142062773570]" type="Box">1</container><container id="aspace_25d2b8388a6c06c67eb9227b6609c303" parent="aspace_844c23a39ea6ba543fb08d06cffb3a1a" type="Folder">11</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1950/1959" type="inclusive">1950-1959</unitdate><container altrender="Manuscript box - Legal" id="aspace_2f7d7ee4836cd012b38c75fc3b1e8233" label="Mixed Materials [31142062773570]" type="Box">1</container><container id="aspace_a97b9cd1488bcb6b4639579e76b5adee" parent="aspace_2f7d7ee4836cd012b38c75fc3b1e8233" type="Folder">12</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Fiftieth Birthday Dinner</unittitle><unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_47d1a1deb2ecc06058ae7b611394cda4" label="Mixed Materials [31142062773588]" type="Box">2</container><container id="aspace_91995ba59bfefbfac3c2625a7fd96c83" parent="aspace_47d1a1deb2ecc06058ae7b611394cda4" type="Folder">1</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Hatters Unionism</unittitle><unitdate datechar="creation" normal="1912/1918" type="inclusive">1912-1918</unitdate><container altrender="Manuscript box - Legal" id="aspace_55b2d7c046be5bec62c9c6e351a3e63e" label="Mixed Materials [31142062773588]" type="Box">2</container><container id="aspace_a748c60d91113f746a9d37129ae6d383" parent="aspace_55b2d7c046be5bec62c9c6e351a3e63e" type="Folder">2</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Hatters Unionism</unittitle><unitdate datechar="creation">1920s</unitdate><container altrender="Manuscript box - Legal" id="aspace_fbd75e6b9640703644d111c8e0c4bf05" label="Mixed Materials [31142062773588]" type="Box">2</container><container id="aspace_b420a1ebc197d4e080727d76bac0361a" parent="aspace_fbd75e6b9640703644d111c8e0c4bf05" type="Folder">3</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Hatters Unionism</unittitle><unitdate datechar="creation">1930s</unitdate><container altrender="Manuscript box - Legal" id="aspace_c58da27e7fd9f7e53d5e007e981a786c" label="Mixed Materials [31142062773588]" type="Box">2</container><container id="aspace_85b664bc129a1de3576d89bfd3d40410" parent="aspace_c58da27e7fd9f7e53d5e007e981a786c" type="Folder">4</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Hatters Unionism</unittitle><unitdate datechar="creation">1940s</unitdate><container altrender="Manuscript box - Legal" id="aspace_79233ec892e34ccecdc5a4049f7a7040" label="Mixed Materials [31142062773588]" type="Box">2</container><container id="aspace_b50edbb941ef2ce51150dc2fa5eb49eb" parent="aspace_79233ec892e34ccecdc5a4049f7a7040" type="Folder">5</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Jewish Affairs: Letters, Misc.</unittitle><unitdate datechar="creation" normal="1932/1951" type="inclusive">1932-1951</unitdate><container altrender="Manuscript box - Legal" id="aspace_fe6344d3ab4c788da31ce44f0691c040" label="Mixed Materials [31142062773588]" type="Box">2</container><container id="aspace_02c4472a9901c968c9e33abec9d9e114" parent="aspace_fe6344d3ab4c788da31ce44f0691c040" type="Folder">6</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Labor Economics: Speeches and Related Material</unittitle><unitdate datechar="creation" normal="1938/1947" type="inclusive">1938-1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_05d78da8f81cf4fab7a61651cb648b17" label="Mixed Materials [31142062773588]" type="Box">2</container><container id="aspace_d1cae4e94befbe163c540b386dea3296" parent="aspace_05d78da8f81cf4fab7a61651cb648b17" type="Folder">7</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Labor Law: Addresses and General Views</unittitle><unitdate datechar="creation" normal="1936/1946" type="inclusive">1936-1946</unitdate><container altrender="Manuscript box - Legal" id="aspace_fe14f44dcf99e688756e2d2a009f110c" label="Mixed Materials [31142062773588]" type="Box">2</container><container id="aspace_f77bb8bf457cadb61db59427b99c5f74" parent="aspace_fe14f44dcf99e688756e2d2a009f110c" type="Folder">8</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>National Committee for a Leon Blum Colony in Palestine</unittitle><unitdate datechar="creation" normal="1938/1938" type="inclusive">1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_a3b8cd82bab004ee03982d4f10df2f96" label="Mixed Materials [31142062773588]" type="Box">2</container><container id="aspace_8a39bcf88a3f7f8d693491321b676473" parent="aspace_a3b8cd82bab004ee03982d4f10df2f96" type="Folder">9</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>National Committee for a Leon Blum Colony in Palestine</unittitle><unitdate datechar="creation" normal="1939/1940" type="inclusive">1939-1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_ee9c4c4ea298aa7ae7ee065d92c05c4c" label="Mixed Materials [31142062773588]" type="Box">2</container><container id="aspace_cd6bd4778ccd2c14b6c9a38e87fc0e17" parent="aspace_ee9c4c4ea298aa7ae7ee065d92c05c4c" type="Folder">10</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>National Recovery Administration: Speeches About</unittitle><unitdate datechar="creation" normal="1934/1936" type="inclusive">1934-1936</unitdate><container altrender="Manuscript box - Legal" id="aspace_031ae639e3ec44b650e17a01db27a445" label="Mixed Materials [31142062773588]" type="Box">2</container><container id="aspace_38eb0ec7460133d02f7b2a95ddd40d13" parent="aspace_031ae639e3ec44b650e17a01db27a445" type="Folder">11</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Palestine: Clippings, Articles, Resolutions</unittitle><unitdate datechar="creation" normal="1935/1948" type="inclusive">1935-1948</unitdate><container altrender="Manuscript box - Legal" id="aspace_b40b699603966b5aa1403d7d10f517bd" label="Mixed Materials [31142062773596]" type="Box">3</container><container id="aspace_95fe069cc06e426d4669ecdea23e7cc1" parent="aspace_b40b699603966b5aa1403d7d10f517bd" type="Folder">1</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Palestine: Speeches on</unittitle><unitdate datechar="creation" normal="1938/1948" type="inclusive">1938-1948</unitdate><container altrender="Manuscript box - Legal" id="aspace_b259b1f02e062b9022fc2724fd39b274" label="Mixed Materials [31142062773596]" type="Box">3</container><container id="aspace_5c5c4412f35f933ab41a8dfc496f44c2" parent="aspace_b259b1f02e062b9022fc2724fd39b274" type="Folder">2</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Palestine: Trip to</unittitle><unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_dcf2cd39d286700fdb88c8e103cb284c" label="Mixed Materials [31142062773596]" type="Box">3</container><container id="aspace_60b937d18a2d9dfdbd394074a0b1ac5c" parent="aspace_dcf2cd39d286700fdb88c8e103cb284c" type="Folder">3</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Political Activities and Endorsements</unittitle><unitdate datechar="creation" normal="1935/1950" type="inclusive">1935-1950</unitdate><container altrender="Manuscript box - Legal" id="aspace_4c69a0f6267bcf981b578a0731828760" label="Mixed Materials [31142062773596]" type="Box">3</container><container id="aspace_201678b326f40a940d30a537b8f8a6ad" parent="aspace_4c69a0f6267bcf981b578a0731828760" type="Folder">4</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Presidential Elector (Roosevelt)</unittitle><unitdate datechar="creation" normal="1936/1936" type="inclusive">1936</unitdate><container altrender="Manuscript box - Legal" id="aspace_684f0293455674c675c863adb9804bb1" label="Mixed Materials [31142062773596]" type="Box">3</container><container id="aspace_cc99166dcf4407e53ca33dc8a32745b1" parent="aspace_684f0293455674c675c863adb9804bb1" type="Folder">5</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Radio Addresses</unittitle><unitdate datechar="creation" normal="1935/1950" type="inclusive">1935-1950</unitdate><container altrender="Manuscript box - Legal" id="aspace_1a4e76e1242c2b0e06148df0fe0f90d3" label="Mixed Materials [31142062773596]" type="Box">3</container><container id="aspace_802cd5dc40fa7ce4d178a91c27682ab3" parent="aspace_1a4e76e1242c2b0e06148df0fe0f90d3" type="Folder">6</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Retirement / Convention of Hatters Union</unittitle><unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate><container altrender="Manuscript box - Legal" id="aspace_353216acf03c11a01ad0482c81176347" label="Mixed Materials [31142062773596]" type="Box">3</container><container id="aspace_3d5f429225edf28e9713100a60dda131" parent="aspace_353216acf03c11a01ad0482c81176347" type="Folder">7</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Saturday Evening Post Article: "Can Labor Prosper Under Free Enterprise?" [Jan 30, 1943]</unittitle><unitdate datechar="creation" normal="1942/1943" type="inclusive">1942-1943</unitdate><container altrender="Manuscript box - Legal" id="aspace_898c8e0dd380db031efb6f80eb604055" label="Mixed Materials [31142062773596]" type="Box">3</container><container id="aspace_e8963e115c60ffede8230c063b6037ee" parent="aspace_898c8e0dd380db031efb6f80eb604055" type="Folder">8</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Speeches Given at Conventions of Other Labor Unions</unittitle><unitdate datechar="creation" normal="1930/1938" type="inclusive">1930-1938</unitdate><container altrender="Manuscript box - Legal" id="aspace_9000dd4fa7d142303d047f50a9292988" label="Mixed Materials [31142062773596]" type="Box">3</container><container id="aspace_634610fd8cccd484e715f179e254e059" parent="aspace_9000dd4fa7d142303d047f50a9292988" type="Folder">9</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>To the Industry (Addresses)</unittitle><unitdate datechar="creation" normal="1931/1943" type="inclusive">1931-1943</unitdate><container altrender="Manuscript box - Legal" id="aspace_016b53d84a6a10b8a9f6be3bef5c5ba6" label="Mixed Materials [31142062773596]" type="Box">3</container><container id="aspace_0f39ab86a7006dbc095386231c14f362" parent="aspace_016b53d84a6a10b8a9f6be3bef5c5ba6" type="Folder">10</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>U.S. Government Citations and Honors</unittitle><unitdate datechar="creation" normal="1945/1952" type="inclusive">1945-1952</unitdate><container altrender="Manuscript box - Legal" id="aspace_bf3406f3bc0dacca4840b9951d60ad02" label="Mixed Materials [31142062773596]" type="Box">3</container><container id="aspace_1f6ba94329ea30c17a6f0d3f2aeca46a" parent="aspace_bf3406f3bc0dacca4840b9951d60ad02" type="Folder">11</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>William Green Dinner</unittitle><unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_cfcf765183c8cdf150af7c097fbd48a6" label="Mixed Materials [31142062773596]" type="Box">3</container><container id="aspace_31185ec3d7fd9b89b23b1d10ef06c96e" parent="aspace_cfcf765183c8cdf150af7c097fbd48a6" type="Folder">12</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>William Green Dinner (American Trade Union Council for Histadrut)</unittitle><unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate><container altrender="Manuscript box - Legal" id="aspace_9d6a5d34680f93a8c559ff45e047a3d1" label="Mixed Materials [31142062773596]" type="Box">3</container><container id="aspace_0cc41de10be9bbb6c2b8c9e3a93cf181" parent="aspace_9d6a5d34680f93a8c559ff45e047a3d1" type="Folder">13</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>World War I: Liberty Loan Committee, Other Fundraising</unittitle><unitdate datechar="creation" normal="1918/1918" type="inclusive">1918</unitdate><container altrender="Manuscript box - Legal" id="aspace_ad4af80794e2fe2104efa1c80f1ec7e4" label="Mixed Materials [31142062773596]" type="Box">3</container><container id="aspace_1694532cd6893cae2e6752f759383ed5" parent="aspace_ad4af80794e2fe2104efa1c80f1ec7e4" type="Folder">14</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>World War II: Addresses</unittitle><unitdate datechar="creation" normal="1942/1946" type="inclusive">1942-1946</unitdate><container altrender="Manuscript box - Legal" id="aspace_540cd17e8c82ab9ffc74b4ce9717844c" label="Mixed Materials [31142062773596]" type="Box">3</container><container id="aspace_811471b90ec70b0b1dc3abb4046649b2" parent="aspace_540cd17e8c82ab9ffc74b4ce9717844c" type="Folder">15</container></did></c></c></dsc>
-</archdesc>
+    </did>
+    <custodhist id="aspace_b6403dcc294327b1f962e4960cda79ac">
+      <head>Custodial History</head>
+      <p>Collection was part of the Rand School Archives, which were transferred to the Tamiment Library in 1963 by members of the People's Education Camp Society, Inc. The accession number associated with this collection is 1963.016.</p>
+    </custodhist>
+    <accessrestrict id="aspace_5b8a42504b68cd8fd5e36b411e58de80">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <bioghist id="aspace_b80d1879e33b93ccdc1b1a65ce58d122">
+      <head>Historical/Biographical Note</head>
+      <p>Max Zaritsky (1885-1959) was born Petrikov, Russia, emigrated to the U.S., where in 1907 he joined the Cloth Hat, Cap, and Millinery Workers' International Union (CHCMW), later becoming its president, and then subsequently, president, until his retirement in 1950, of the United Hatters, Cap, and Millinery Workers International Union (AFL), formed by the 1934 merger of the CHCMW and the United Hatters of North America. Zaritsky was an advocate of labor-management cooperation to promote the hat industry, a founder of the American Labor Party in 1936, and was active in labor Zionist circles, heading both the American Jewish Trade Union Committee for Palestine and the National Committee for a Leon Blum Colony in Palestine.</p>
+      <p>Sources:</p>
+      <p>
+        <list>
+          <item>Max Zaritsky at Fifty. The Story of an Aggressive Labor Leadership (1935).</item>
+          <item>Biographical Dictionary of American Labor (1984).</item>
+          <item>Labor Unions (1977). Includes historical sketches of the various hat industry unions, pp. 139-144.</item>
+        </list>
+      </p>
+    </bioghist>
+    <scopecontent id="aspace_2cea1d05346e95a85c7a0ffb94aa6077">
+      <head>Scope and Content Note</head>
+      <p>The papers include correspondence with labor and industry leaders, clippings, manuscripts, minutes, typescripts of radio addresses and speeches, memorabilia and printed material covering hat industry union affairs, political and Zionist activities of the labor movement, and the conflict between the American Federation of Labor and the newly formed Congress of Industrial Organizations.</p>
+    </scopecontent>
+    <arrangement id="aspace_a2a784245b27ddd6f6af29b87db7d9f1">
+      <head>Arrangement</head>
+      <p>The folders are arranged alphabetically.</p>
+      <p>The files are grouped into one series:</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>I, Max Zaritsky Papers</item>
+      </list>
+    </arrangement>
+    <relatedmaterial id="aspace_9dd4fc43128cb9488a669549c1aa0692">
+      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+      <p>United Hatters, Cap and Millinery Workers International Union Records (Tamiment 54)</p>
+    </relatedmaterial>
+    <separatedmaterial id="aspace_a17dc0a8cd72d07aef8a497f29daa455">
+      <head>Separated Material</head>
+      <p>Several photographs have been separated to the Tamiment Library General Photographs Collection (Photographs 1)</p>
+    </separatedmaterial>
+    <userestrict id="aspace_120f45c0b37a94636d59299b39a6a1fb">
+      <head>Conditions Governing Use</head>
+      <p>Tamiment Library has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1912 to 1959, are expected to enter the public domain in 2080.</p>
+    </userestrict>
+    <prefercite id="aspace_95f039988db4c57eeeeb2daf6a27f70e">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <acqinfo id="aspace_48dd4386920cef744b160a2a17398b92">
+      <head>Immediate Source of Acquisition</head>
+      <p>Transfer from the Rand School Archives, 1963. The accession number associated with this collection is 1963.016</p>
+    </acqinfo>
+    <controlaccess>
+      <genreform source="aat">Correspondence.</genreform>
+      <geogname source="lcsh">Palestine.</geogname>
+      <genreform source="aat">Speeches.</genreform>
+      <genreform source="aat">Minutes (administrative records)</genreform>
+      <subject source="lcsh">Labor Zionism |z United States.</subject>
+      <genreform source="aat">Manuscripts for publication.</genreform>
+      <subject source="lcsh">Industrial technicians |x Labor unions |z United States.</subject>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <subject source="lcsh">Hat trade |x Labor unions |z United States.</subject>
+      <persname source="naf">Zaritsky, Max, 1885-1959</persname>
+      <corpname authfilenumber="(lccn)n87915516" source="naf">Cloth Hat, Cap, and Millinery Workers' International Union</corpname>
+      <persname source="naf">Blum, Léon, 1872-1950</persname>
+      <corpname source="local">American Jewish Trade Union Committee for Palestine</corpname>
+      <corpname source="local">National Committee for a Leon Blum Colony in Palestine</corpname>
+      <corpname authfilenumber="(lccn)n87915517" source="naf">United Hatters, Cap, and Millinery Workers International Union</corpname>
+      <corpname authfilenumber="(lccn)n80081625" rules="dacs" source="naf">Congress of Industrial Organizations (U.S.)</corpname>
+      <corpname authfilenumber="(lccn)n88657420" role="dnr" source="naf">Rand School of Social Science</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref15" level="series">
+        <did>
+          <unittitle>Series 1: Max Zaritsky Papers</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>AFL and the CIO: Statements, Speeches</unittitle>
+            <unitdate datechar="creation" normal="1936/1938" type="inclusive">1936 , 1938</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f882911fd5ce69c98410f2d4cb784748" label="Mixed Materials [31142062773570]" type="Box">1</container>
+            <container id="aspace_acac894b79a1a2bd8099cc1655eb88bc" parent="aspace_f882911fd5ce69c98410f2d4cb784748" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>American Jewish Trade Union Committee for Palestine</unittitle>
+            <unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7fa3f6b719ce4ac2d11cf7c7a18ec95a" label="Mixed Materials [31142062773570]" type="Box">1</container>
+            <container id="aspace_86bef0ad3d20fc8e179bcd324e6e48c4" parent="aspace_7fa3f6b719ce4ac2d11cf7c7a18ec95a" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>American Jewish Trade Union Committee for Palestine</unittitle>
+            <unitdate datechar="creation" normal="1945/1945" type="inclusive">1945</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cd5b8e36db386106febcb67a21b074da" label="Mixed Materials [31142062773570]" type="Box">1</container>
+            <container id="aspace_9556ae4884d1e525601f6acacadbbeb3" parent="aspace_cd5b8e36db386106febcb67a21b074da" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>American Jewish Trade Union Committee for Palestine</unittitle>
+            <unitdate datechar="creation" normal="1946/1949" type="inclusive">1946-1949</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6576c2bd3101592b562e17cbdb042dc4" label="Mixed Materials [31142062773570]" type="Box">1</container>
+            <container id="aspace_1cdd30546d92ebdaa2bd7a847b9a949e" parent="aspace_6576c2bd3101592b562e17cbdb042dc4" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>American Trade Union Council National Committee for Labor Israel</unittitle>
+            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0c71ec48459be754fd729cb21c0ce065" label="Mixed Materials [31142062773570]" type="Box">1</container>
+            <container id="aspace_b1f693efadbd1c699af698bacce4493c" parent="aspace_0c71ec48459be754fd729cb21c0ce065" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>American Zionist Emergency Council</unittitle>
+            <unitdate datechar="creation" normal="1943/1944" type="inclusive">1943-1944</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4f3c634b1b761d8352952f8efea07ca8" label="Mixed Materials [31142062773570]" type="Box">1</container>
+            <container id="aspace_80ff922f524e7526c2c6187ab3e3d3e8" parent="aspace_4f3c634b1b761d8352952f8efea07ca8" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Biographies</unittitle>
+            <unitdate datechar="creation" normal="1912/1959" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5423556924de19163ae3041cff85fd1c" label="Mixed Materials [31142062773570]" type="Box">1</container>
+            <container id="aspace_497ee852a2b313a76c4482adebc04a84" parent="aspace_5423556924de19163ae3041cff85fd1c" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Clippings: By and About Max Zaritsky</unittitle>
+            <unitdate datechar="creation">1930s-1950s</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c3c1de3ab9be7d6340c1df0ba7f09a6e" label="Mixed Materials [31142062773570]" type="Box">1</container>
+            <container id="aspace_57ca6470d09b5fe5d2dba2223c1a0ec0" parent="aspace_c3c1de3ab9be7d6340c1df0ba7f09a6e" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation">1930s</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d0843e3af337e5e4119afc624442e99d" label="Mixed Materials [31142062773570]" type="Box">1</container>
+            <container id="aspace_1465981b9d79245ddfd88de5d28d89d2" parent="aspace_d0843e3af337e5e4119afc624442e99d" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1940/1945" type="inclusive">1940-1945</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_797c1ad3cd60710d5018e450fb761dc2" label="Mixed Materials [31142062773570]" type="Box">1</container>
+            <container id="aspace_b3477abb06ac125299181bd9fbd99d44" parent="aspace_797c1ad3cd60710d5018e450fb761dc2" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1946/1949" type="inclusive">1946-1949</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_844c23a39ea6ba543fb08d06cffb3a1a" label="Mixed Materials [31142062773570]" type="Box">1</container>
+            <container id="aspace_25d2b8388a6c06c67eb9227b6609c303" parent="aspace_844c23a39ea6ba543fb08d06cffb3a1a" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1950/1959" type="inclusive">1950-1959</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2f7d7ee4836cd012b38c75fc3b1e8233" label="Mixed Materials [31142062773570]" type="Box">1</container>
+            <container id="aspace_a97b9cd1488bcb6b4639579e76b5adee" parent="aspace_2f7d7ee4836cd012b38c75fc3b1e8233" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Fiftieth Birthday Dinner</unittitle>
+            <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_47d1a1deb2ecc06058ae7b611394cda4" label="Mixed Materials [31142062773588]" type="Box">2</container>
+            <container id="aspace_91995ba59bfefbfac3c2625a7fd96c83" parent="aspace_47d1a1deb2ecc06058ae7b611394cda4" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Hatters Unionism</unittitle>
+            <unitdate datechar="creation" normal="1912/1918" type="inclusive">1912-1918</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_55b2d7c046be5bec62c9c6e351a3e63e" label="Mixed Materials [31142062773588]" type="Box">2</container>
+            <container id="aspace_a748c60d91113f746a9d37129ae6d383" parent="aspace_55b2d7c046be5bec62c9c6e351a3e63e" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Hatters Unionism</unittitle>
+            <unitdate datechar="creation">1920s</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fbd75e6b9640703644d111c8e0c4bf05" label="Mixed Materials [31142062773588]" type="Box">2</container>
+            <container id="aspace_b420a1ebc197d4e080727d76bac0361a" parent="aspace_fbd75e6b9640703644d111c8e0c4bf05" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Hatters Unionism</unittitle>
+            <unitdate datechar="creation">1930s</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c58da27e7fd9f7e53d5e007e981a786c" label="Mixed Materials [31142062773588]" type="Box">2</container>
+            <container id="aspace_85b664bc129a1de3576d89bfd3d40410" parent="aspace_c58da27e7fd9f7e53d5e007e981a786c" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Hatters Unionism</unittitle>
+            <unitdate datechar="creation">1940s</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_79233ec892e34ccecdc5a4049f7a7040" label="Mixed Materials [31142062773588]" type="Box">2</container>
+            <container id="aspace_b50edbb941ef2ce51150dc2fa5eb49eb" parent="aspace_79233ec892e34ccecdc5a4049f7a7040" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Jewish Affairs: Letters, Misc.</unittitle>
+            <unitdate datechar="creation" normal="1932/1951" type="inclusive">1932-1951</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fe6344d3ab4c788da31ce44f0691c040" label="Mixed Materials [31142062773588]" type="Box">2</container>
+            <container id="aspace_02c4472a9901c968c9e33abec9d9e114" parent="aspace_fe6344d3ab4c788da31ce44f0691c040" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Labor Economics: Speeches and Related Material</unittitle>
+            <unitdate datechar="creation" normal="1938/1947" type="inclusive">1938-1947</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_05d78da8f81cf4fab7a61651cb648b17" label="Mixed Materials [31142062773588]" type="Box">2</container>
+            <container id="aspace_d1cae4e94befbe163c540b386dea3296" parent="aspace_05d78da8f81cf4fab7a61651cb648b17" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Labor Law: Addresses and General Views</unittitle>
+            <unitdate datechar="creation" normal="1936/1946" type="inclusive">1936-1946</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fe14f44dcf99e688756e2d2a009f110c" label="Mixed Materials [31142062773588]" type="Box">2</container>
+            <container id="aspace_f77bb8bf457cadb61db59427b99c5f74" parent="aspace_fe14f44dcf99e688756e2d2a009f110c" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>National Committee for a Leon Blum Colony in Palestine</unittitle>
+            <unitdate datechar="creation" normal="1938/1938" type="inclusive">1938</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a3b8cd82bab004ee03982d4f10df2f96" label="Mixed Materials [31142062773588]" type="Box">2</container>
+            <container id="aspace_8a39bcf88a3f7f8d693491321b676473" parent="aspace_a3b8cd82bab004ee03982d4f10df2f96" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>National Committee for a Leon Blum Colony in Palestine</unittitle>
+            <unitdate datechar="creation" normal="1939/1940" type="inclusive">1939-1940</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ee9c4c4ea298aa7ae7ee065d92c05c4c" label="Mixed Materials [31142062773588]" type="Box">2</container>
+            <container id="aspace_cd6bd4778ccd2c14b6c9a38e87fc0e17" parent="aspace_ee9c4c4ea298aa7ae7ee065d92c05c4c" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>National Recovery Administration: Speeches About</unittitle>
+            <unitdate datechar="creation" normal="1934/1936" type="inclusive">1934-1936</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_031ae639e3ec44b650e17a01db27a445" label="Mixed Materials [31142062773588]" type="Box">2</container>
+            <container id="aspace_38eb0ec7460133d02f7b2a95ddd40d13" parent="aspace_031ae639e3ec44b650e17a01db27a445" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Palestine: Clippings, Articles, Resolutions</unittitle>
+            <unitdate datechar="creation" normal="1935/1948" type="inclusive">1935-1948</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b40b699603966b5aa1403d7d10f517bd" label="Mixed Materials [31142062773596]" type="Box">3</container>
+            <container id="aspace_95fe069cc06e426d4669ecdea23e7cc1" parent="aspace_b40b699603966b5aa1403d7d10f517bd" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Palestine: Speeches on</unittitle>
+            <unitdate datechar="creation" normal="1938/1948" type="inclusive">1938-1948</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b259b1f02e062b9022fc2724fd39b274" label="Mixed Materials [31142062773596]" type="Box">3</container>
+            <container id="aspace_5c5c4412f35f933ab41a8dfc496f44c2" parent="aspace_b259b1f02e062b9022fc2724fd39b274" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Palestine: Trip to</unittitle>
+            <unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dcf2cd39d286700fdb88c8e103cb284c" label="Mixed Materials [31142062773596]" type="Box">3</container>
+            <container id="aspace_60b937d18a2d9dfdbd394074a0b1ac5c" parent="aspace_dcf2cd39d286700fdb88c8e103cb284c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Political Activities and Endorsements</unittitle>
+            <unitdate datechar="creation" normal="1935/1950" type="inclusive">1935-1950</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4c69a0f6267bcf981b578a0731828760" label="Mixed Materials [31142062773596]" type="Box">3</container>
+            <container id="aspace_201678b326f40a940d30a537b8f8a6ad" parent="aspace_4c69a0f6267bcf981b578a0731828760" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Presidential Elector (Roosevelt)</unittitle>
+            <unitdate datechar="creation" normal="1936/1936" type="inclusive">1936</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_684f0293455674c675c863adb9804bb1" label="Mixed Materials [31142062773596]" type="Box">3</container>
+            <container id="aspace_cc99166dcf4407e53ca33dc8a32745b1" parent="aspace_684f0293455674c675c863adb9804bb1" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Radio Addresses</unittitle>
+            <unitdate datechar="creation" normal="1935/1950" type="inclusive">1935-1950</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1a4e76e1242c2b0e06148df0fe0f90d3" label="Mixed Materials [31142062773596]" type="Box">3</container>
+            <container id="aspace_802cd5dc40fa7ce4d178a91c27682ab3" parent="aspace_1a4e76e1242c2b0e06148df0fe0f90d3" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Retirement / Convention of Hatters Union</unittitle>
+            <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_353216acf03c11a01ad0482c81176347" label="Mixed Materials [31142062773596]" type="Box">3</container>
+            <container id="aspace_3d5f429225edf28e9713100a60dda131" parent="aspace_353216acf03c11a01ad0482c81176347" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Saturday Evening Post Article: "Can Labor Prosper Under Free Enterprise?" [Jan 30, 1943]</unittitle>
+            <unitdate datechar="creation" normal="1942/1943" type="inclusive">1942-1943</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_898c8e0dd380db031efb6f80eb604055" label="Mixed Materials [31142062773596]" type="Box">3</container>
+            <container id="aspace_e8963e115c60ffede8230c063b6037ee" parent="aspace_898c8e0dd380db031efb6f80eb604055" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Speeches Given at Conventions of Other Labor Unions</unittitle>
+            <unitdate datechar="creation" normal="1930/1938" type="inclusive">1930-1938</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9000dd4fa7d142303d047f50a9292988" label="Mixed Materials [31142062773596]" type="Box">3</container>
+            <container id="aspace_634610fd8cccd484e715f179e254e059" parent="aspace_9000dd4fa7d142303d047f50a9292988" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>To the Industry (Addresses)</unittitle>
+            <unitdate datechar="creation" normal="1931/1943" type="inclusive">1931-1943</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_016b53d84a6a10b8a9f6be3bef5c5ba6" label="Mixed Materials [31142062773596]" type="Box">3</container>
+            <container id="aspace_0f39ab86a7006dbc095386231c14f362" parent="aspace_016b53d84a6a10b8a9f6be3bef5c5ba6" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>U.S. Government Citations and Honors</unittitle>
+            <unitdate datechar="creation" normal="1945/1952" type="inclusive">1945-1952</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bf3406f3bc0dacca4840b9951d60ad02" label="Mixed Materials [31142062773596]" type="Box">3</container>
+            <container id="aspace_1f6ba94329ea30c17a6f0d3f2aeca46a" parent="aspace_bf3406f3bc0dacca4840b9951d60ad02" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>William Green Dinner</unittitle>
+            <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cfcf765183c8cdf150af7c097fbd48a6" label="Mixed Materials [31142062773596]" type="Box">3</container>
+            <container id="aspace_31185ec3d7fd9b89b23b1d10ef06c96e" parent="aspace_cfcf765183c8cdf150af7c097fbd48a6" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>William Green Dinner (American Trade Union Council for Histadrut)</unittitle>
+            <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9d6a5d34680f93a8c559ff45e047a3d1" label="Mixed Materials [31142062773596]" type="Box">3</container>
+            <container id="aspace_0cc41de10be9bbb6c2b8c9e3a93cf181" parent="aspace_9d6a5d34680f93a8c559ff45e047a3d1" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>World War I: Liberty Loan Committee, Other Fundraising</unittitle>
+            <unitdate datechar="creation" normal="1918/1918" type="inclusive">1918</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ad4af80794e2fe2104efa1c80f1ec7e4" label="Mixed Materials [31142062773596]" type="Box">3</container>
+            <container id="aspace_1694532cd6893cae2e6752f759383ed5" parent="aspace_ad4af80794e2fe2104efa1c80f1ec7e4" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>World War II: Addresses</unittitle>
+            <unitdate datechar="creation" normal="1942/1946" type="inclusive">1942-1946</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_540cd17e8c82ab9ffc74b4ce9717844c" label="Mixed Materials [31142062773596]" type="Box">3</container>
+            <container id="aspace_811471b90ec70b0b1dc3abb4046649b2" parent="aspace_540cd17e8c82ab9ffc74b4ce9717844c" type="Folder">15</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

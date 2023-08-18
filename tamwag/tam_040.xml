@@ -1,79 +1,375 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_040">tam_040</eadid><filedesc><titlestmt><titleproper>Guide to the Girolamo Valenti Papers <num>TAM.040</num></titleproper><author>Tamiment staff</author></titlestmt><editionstmt><p>This version was derived from Valenti template.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:33:42 -0400</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Girolamo Valenti Papers</unittitle>
-    <origination label="Creator">
-      <persname source="naf">Valenti, Girolamo</persname>
-    </origination>
-    <origination label="source">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/tam_040">tam_040</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Girolamo Valenti Papers <num>TAM.040</num></titleproper>
+        <author>Tamiment staff</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from Valenti template.doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:33:42 -0400</date>.</creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Girolamo Valenti Papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Valenti, Girolamo</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Valenti, Sylvia</persname>
+      </origination>
+      <unitid>TAM.040</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+        <extent altrender="carrier">(2 boxes)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1925/1977" type="inclusive">1925-1977</unitdate>
+      <unitdate datechar="creation" normal="1930/1958" type="bulk">1930-1958</unitdate>
+      <abstract id="aspace_5cba65e36227b0c5de72d29bb1a21b44" label="Abstract">Girolamo Valenti (1892-1958) was an anti-Fascist, anti-Communist editor, socialist, and labor leader who emigrated to the United States from Italy in 1911. The papers include correspondence, radio scripts, manuscripts, clippings and obituaries, the majority in Italian, relating to labor and political issues concerning Italy and Italian Americans.</abstract>
+      <langmaterial id="aspace_64928d3edb17dc259103328d7a298990">Materials are in English and Italian.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_9de45699a54ea7ce1e044461c122178c">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <bioghist id="aspace_c140cb1b01cc645fdc7e90e30ed30601">
+      <head>Historical/Biographical Note</head>
+      <p>Girolamo Valenti was an anti-Fascist, anti-Communist socialist, editor, and labor leader. Born April 16, 1892 in Valguarnera, Italy, he immigrated to the United States in 1911. He helped organize the Italian Socialist Federation (1913-1916), the Italian Chamber of Labor (1920-1921) and was active in the Amalgamated Clothing Workers of America (1916-1917). He edited Avanti, the organ of the Italian Socialist Federation (1917-1919), La Folla (1919-1920), La Parola del Popolo, organ of the Italian Socialist Federation of the Socialist Party (ca. 1921- ca.1948), and Il Nuovo Mondo and its successor La Stampa Libera, liberal dailies (ca. 1925 – 1940s). During World War II he consulted for the OSS (Office of Strategic Services), and in the post-war years, he was an Italian-language radio commentator whose programs were broadcast in New York, several other U.S. cities, and in Italy. He wrote several pamphlets concerning socialism and participated in socialist campaigns and strikes. He was a member of the Socialist Party, and a leader of the Circolo Matteotti, an anti-fascist organization. He died in New York City on February 20, 1958.</p>
+    </bioghist>
+    <scopecontent id="aspace_56743d9fdffe92ca1a61ef322245fb46">
+      <head>Scope and Content Note</head>
+      <p>The papers include correspondence, radio scripts, manuscripts (article-length), clippings and obituaries, the majority in Italian, relating to labor and political issues concerning Italy and Italian Americans, and to his radio career. Among the letters are two from Estelle Sylvia Pankhurst regarding Circolo Matteotti, and a few letters each from Velia Matteotti, Pietro Nenni, Count Carlo Sforza, and Ignazio Silone. Included are scripts from Italian language radio shows on current events that were broadcast on WOV (New York), WHNC (New Haven, Connecticut), Italy, and elsewhere; a file containing obituaries and other biographical portraits, material on the Pope Affair, and letters to Valenti's wife, Sylvia, after his death, including several from Norman Thomas.</p>
+    </scopecontent>
+    <arrangement id="aspace_e881c7d2b9f33b46b413b1ad402ade4b">
+      <head>Arrangement</head>
+      <p>The folders are arranged alphabetically.</p>
+      <p>The files are grouped into 1 series:</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>Container list.</item>
+      </list>
+    </arrangement>
+    <userestrict id="aspace_0104c4e8b29a3548913158d2a7158bc9">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, donated by Sylvia Valenti was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <prefercite id="aspace_306fef5cd73c6f8c004f02485f16d9ed">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <acqinfo id="aspace_a171226ef4c3aed81b474281cb3d23ad">
+      <head>Immediate Source of Acquisition</head>
+      <p>Purchased from Sylvia Valenti in 1965. The accession number associated with this gift is 1965.002. Typescripts by Sylvia Valenti were found in repository in April of 2014 and were added to this collection. The accession number associated with this material is 2014.081.</p>
+    </acqinfo>
+    <separatedmaterial id="aspace_410af983ac9420d4df667552e010070d">
+      <head>Separated Materials</head>
+      <p>Photographs were separated from this collection during initial processing and were established as a separate collection, the Girolamo Valenti Photographs (PHOTOS 039).</p>
+    </separatedmaterial>
+    <controlaccess>
+      <genreform source="aat">Obituaries.</genreform>
+      <genreform source="aat">Manuscripts for publication.</genreform>
+      <genreform source="aat">Radio scripts.</genreform>
+      <subject source="lcsh">Socialists -- United States.</subject>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <subject source="lcsh">Anti-fascist movements -- United States.</subject>
+      <subject source="lcsh">Italian American labor leaders.</subject>
+      <subject source="lcsh">Italian American newspaper editors.</subject>
+      <subject source="lcsh">Italian American socialists.</subject>
+      <subject source="lcsh">Italian Americans</subject>
+      <genreform source="aat">Correspondence.</genreform>
+      <persname source="naf">Matteotti, Velia, 1890-1938</persname>
+      <persname source="naf">Pankhurst, E. Sylvia (Estelle Sylvia), 1882-1960.</persname>
+      <persname source="naf">Nenni, Pietro, 1891-1980.</persname>
+      <persname source="naf">Sforza, Carlo, conte, 1872-1952</persname>
+      <persname source="ingest">Pope, Generoso.</persname>
+      <persname source="naf">Thomas, Norman, 1884-1968</persname>
+      <persname source="naf">Silone, Ignazio, 1900-1978</persname>
+      <persname rules="dacs" source="local">Valenti, Sylvia</persname>
+      <corpname source="local">WHNC (Radio station : New Haven, Conn.)</corpname>
+      <corpname source="local">WOV (Radio station : New York, N.Y.)</corpname>
+      <corpname source="local">Circolo Matteotti</corpname>
       <persname role="dnr" rules="dacs" source="local">Valenti, Sylvia</persname>
-    </origination>
-    <unitid>TAM.040</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
-      <extent altrender="carrier">(2 boxes)</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1925/1977" type="inclusive">1925-1977</unitdate>
-    <unitdate datechar="creation" normal="1930/1958" type="bulk">1930-1958</unitdate>
-    <abstract id="aspace_5cba65e36227b0c5de72d29bb1a21b44" label="Abstract">Girolamo Valenti (1892-1958) was an anti-Fascist, anti-Communist editor, socialist, and labor leader who emigrated to the United States from Italy in 1911. The papers include correspondence, radio scripts, manuscripts, clippings and obituaries, the majority in Italian, relating to labor and political issues concerning Italy and Italian Americans.</abstract>
-    <langmaterial id="aspace_64928d3edb17dc259103328d7a298990">Materials are in English and Italian.</langmaterial>
-  </did>
-  <accessrestrict id="aspace_9de45699a54ea7ce1e044461c122178c">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <bioghist id="aspace_c140cb1b01cc645fdc7e90e30ed30601">
-    <head>Historical/Biographical Note</head>
-<p>Girolamo Valenti was an anti-Fascist, anti-Communist socialist, editor, and labor leader. Born April 16, 1892 in Valguarnera, Italy, he immigrated to the United States in 1911. He helped organize the Italian Socialist Federation (1913-1916), the Italian Chamber of Labor (1920-1921) and was active in the Amalgamated Clothing Workers of America (1916-1917). He edited Avanti, the organ of the Italian Socialist Federation (1917-1919), La Folla (1919-1920), La Parola del Popolo, organ of the Italian Socialist Federation of the Socialist Party (ca. 1921- ca.1948), and Il Nuovo Mondo and its successor La Stampa Libera, liberal dailies (ca. 1925 – 1940s). During World War II he consulted for the OSS (Office of Strategic Services), and in the post-war years, he was an Italian-language radio commentator whose programs were broadcast in New York, several other U.S. cities, and in Italy. He wrote several pamphlets concerning socialism and participated in socialist campaigns and strikes. He was a member of the Socialist Party, and a leader of the Circolo Matteotti, an anti-fascist organization. He died in New York City on February 20, 1958.</p>  </bioghist>
-  <scopecontent id="aspace_56743d9fdffe92ca1a61ef322245fb46">
-    <head>Scope and Content Note</head>
-<p>The papers include correspondence, radio scripts, manuscripts (article-length), clippings and obituaries, the majority in Italian, relating to labor and political issues concerning Italy and Italian Americans, and to his radio career. Among the letters are two from Estelle Sylvia Pankhurst regarding Circolo Matteotti, and a few letters each from Velia Matteotti, Pietro Nenni, Count Carlo Sforza, and Ignazio Silone. Included are scripts from Italian language radio shows on current events that were broadcast on WOV (New York), WHNC (New Haven, Connecticut), Italy, and elsewhere; a file containing obituaries and other biographical portraits, material on the Pope Affair, and letters to Valenti's wife, Sylvia, after his death, including several from Norman Thomas.</p>  </scopecontent>
-  <arrangement id="aspace_e881c7d2b9f33b46b413b1ad402ade4b">
-    <head>Arrangement</head>
-<p>The folders are arranged alphabetically.</p><p>The files are grouped into 1 series:</p>    <list type="ordered">
-      <head>Missing Title</head>
-      <item>Container list.</item>
-    </list>
-  </arrangement>
-  <userestrict id="aspace_0104c4e8b29a3548913158d2a7158bc9">
-    <head>Conditions Governing Use</head>
-<p>Copyright (or related rights to publicity and privacy) for materials in this collection, donated by Sylvia Valenti was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
-  <prefercite id="aspace_306fef5cd73c6f8c004f02485f16d9ed">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
-  <acqinfo id="aspace_a171226ef4c3aed81b474281cb3d23ad">
-    <head>Immediate Source of Acquisition</head>
-<p>Purchased from Sylvia Valenti in 1965. The accession number associated with this gift is 1965.002. Typescripts by Sylvia Valenti were found in repository in April of 2014 and were added to this collection. The accession number associated with this material is 2014.081.</p>  </acqinfo>
-  <separatedmaterial id="aspace_410af983ac9420d4df667552e010070d">
-    <head>Separated Materials</head>
-<p>Photographs were separated from this collection during initial processing and were established as a separate collection, the Girolamo Valenti Photographs (PHOTOS 039).</p>  </separatedmaterial>
-  <controlaccess>
-    <genreform source="aat">Obituaries.</genreform>
-    <genreform source="aat">Manuscripts for publication.</genreform>
-    <genreform source="aat">Radio scripts.</genreform>
-    <subject source="lcsh">Socialists -- United States.</subject>
-    <genreform source="aat">Clippings (information artifacts)</genreform>
-    <subject source="lcsh">Anti-fascist movements -- United States.</subject>
-    <subject source="lcsh">Italian American labor leaders.</subject>
-    <subject source="lcsh">Italian American newspaper editors.</subject>
-    <subject source="lcsh">Italian American socialists.</subject>
-    <subject source="lcsh">Italian Americans</subject>
-    <genreform source="aat">Correspondence.</genreform>
-    <persname source="naf">Matteotti, Velia, 1890-1938</persname>
-    <persname source="naf">Pankhurst, E. Sylvia (Estelle Sylvia), 1882-1960.</persname>
-    <persname source="naf">Nenni, Pietro, 1891-1980.</persname>
-    <persname source="naf">Sforza, Carlo, conte, 1872-1952</persname>
-    <persname source="ingest">Pope, Generoso.</persname>
-    <persname source="naf">Thomas, Norman, 1884-1968</persname>
-    <persname source="naf">Silone, Ignazio, 1900-1978</persname>
-    <persname rules="dacs" source="local">Valenti, Sylvia</persname>
-    <corpname source="local">WHNC (Radio station : New Haven, Conn.)</corpname>
-    <corpname source="local">WOV (Radio station : New York, N.Y.)</corpname>
-    <corpname source="local">Circolo Matteotti</corpname>
-    <persname role="dnr" rules="dacs" source="local">Valenti, Sylvia</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref14" level="series"><did><unittitle>Container list</unittitle></did><c id="aspace_ref15" level="otherlevel" otherlevel="unspecified"><did><unittitle>Bibliography: Valenti Writings in Newspapers, 1933-1937</unittitle><unitdate datechar="creation" normal="1925/1977" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_2d695981caa01baa59a1dcef6a012954" label="Mixed Materials [31142062773950]" type="Box">1</container><container id="aspace_c3e5daadd5fabb69c137ec923864bc26" parent="aspace_2d695981caa01baa59a1dcef6a012954" type="Folder">1</container></did></c><c id="aspace_ref16" level="otherlevel" otherlevel="unspecified"><did><unittitle>Biographical (includes John Nicholas Beffel notes and Sylvia Valenti Writings)</unittitle><unitdate datechar="creation" normal="1956/1978" type="inclusive">1956-1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_a1d116fe8edec97beca420da156906e9" label="Mixed Materials [31142062773950]" type="Box">1</container><container id="aspace_a5da8502c731341d34631cbe7a73f00f" parent="aspace_a1d116fe8edec97beca420da156906e9" type="Folder">2</container></did></c><c id="aspace_ref46" level="otherlevel" otherlevel="unspecified"><did><unittitle>Carl Tresca Memorial Meeting: Flier</unittitle><unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Manuscript box - Legal" id="aspace_af11248336ccc3ec81b59d1fedb4cd31" label="Mixed Materials [31142062773950]" type="Box">1</container><container id="aspace_b3bb13ca36b14337d72cc71dd9448247" parent="aspace_af11248336ccc3ec81b59d1fedb4cd31" type="Folder">2a</container></did></c><c id="aspace_ref30" level="otherlevel" otherlevel="unspecified"><did><unittitle>Clippings (Mainly Italian)</unittitle><unitdate datechar="creation" normal="1957/1957" type="inclusive">1957 , undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_4cfacdfcff299e8ed77b811b6485a06d" label="Mixed Materials [31142062773950]" type="Box">1</container><container id="aspace_6e20c904c4b0a87e351301f71ddc2d52" parent="aspace_4cfacdfcff299e8ed77b811b6485a06d" type="Folder">3</container></did></c><c id="aspace_ref17" level="otherlevel" otherlevel="unspecified"><did><unittitle>Condolences</unittitle><unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate><container altrender="Manuscript box - Legal" id="aspace_c7a1496a69b5f20200e135ed6365d281" label="Mixed Materials [31142062773950]" type="Box">1</container><container id="aspace_cf3186eaaa5a1fa1679abd1600a5ee9a" parent="aspace_c7a1496a69b5f20200e135ed6365d281" type="Folder">4</container></did></c><c id="aspace_ref18" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1930/1939" type="inclusive">1930-1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_001f77a0ecbf0887d7327ac805c17136" label="Mixed Materials [31142062773950]" type="Box">1</container><container id="aspace_b5abaf414ac20de51dc81ffe0d3219d2" parent="aspace_001f77a0ecbf0887d7327ac805c17136" type="Folder">5</container></did></c><c id="aspace_ref19" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1940/1944" type="inclusive">1940-1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_96944d959eee3e73ca04c9d3583cf87a" label="Mixed Materials [31142062773950]" type="Box">1</container><container id="aspace_65c70068c8efc494230dedb3c1dea3cc" parent="aspace_96944d959eee3e73ca04c9d3583cf87a" type="Folder">6</container></did></c><c id="aspace_ref20" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1945/1950" type="inclusive">1945-1950</unitdate><container altrender="Manuscript box - Legal" id="aspace_378fc11e9bc5ab98657845370f212ea7" label="Mixed Materials [31142062773950]" type="Box">1</container><container id="aspace_77a7a52433351c721a18f24aff7b1012" parent="aspace_378fc11e9bc5ab98657845370f212ea7" type="Folder">7</container></did></c><c id="aspace_ref21" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1951/1955" type="inclusive">1951-1955</unitdate><container altrender="Manuscript box - Legal" id="aspace_4171c72cc42a9f05df6fb001a6f52b92" label="Mixed Materials [31142062773950]" type="Box">1</container><container id="aspace_1522996839c40d44f33bf8c9a20de9f3" parent="aspace_4171c72cc42a9f05df6fb001a6f52b92" type="Folder">8</container></did></c><c id="aspace_ref22" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1956/1958" type="inclusive">1956-1958</unitdate><container altrender="Manuscript box - Legal" id="aspace_f58b292c6cae47ea95515ceddeb8ff67" label="Mixed Materials [31142062773950]" type="Box">1</container><container id="aspace_ce29f61db0a09c991c21665f5ac0b2ea" parent="aspace_f58b292c6cae47ea95515ceddeb8ff67" type="Folder">9</container></did></c><c id="aspace_ref23" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence: Matteotti, Velia</unittitle><unitdate datechar="creation" normal="1925/1925" type="inclusive">1925</unitdate><container altrender="Manuscript box - Legal" id="aspace_b52f297672f4e08b97fac43107bf64aa" label="Mixed Materials [31142062773950]" type="Box">1</container><container id="aspace_dc5c19621b20d2a0d78124f321d9db55" parent="aspace_b52f297672f4e08b97fac43107bf64aa" type="Folder">10</container></did></c><c id="aspace_ref24" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence: Nenni, Pietro</unittitle><unitdate datechar="creation" normal="1925/1977" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_0a2eff323ba5660500dbb2ba6c38b872" label="Mixed Materials [31142062773950]" type="Box">1</container><container id="aspace_d91595ce4e422816327b203a1e850c1e" parent="aspace_0a2eff323ba5660500dbb2ba6c38b872" type="Folder">11</container></did></c><c id="aspace_ref25" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence: Pankhurst, Sylvia</unittitle><unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate><container altrender="Manuscript box - Legal" id="aspace_a0f821558d993745f36782eca432a28e" label="Mixed Materials [31142062773950]" type="Box">1</container><container id="aspace_b074068d7d6626dd8797dd5c29220e08" parent="aspace_a0f821558d993745f36782eca432a28e" type="Folder">12</container></did></c><c id="aspace_ref26" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence: Sforza, Carlo</unittitle><unitdate datechar="creation" normal="1925/1977" type="inclusive">1943 , undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_abbbf1e9c0c7d03870c56d8e43e863a5" label="Mixed Materials [31142062773950]" type="Box">1</container><container id="aspace_4bb616312094f88b1e61e588c6ac412b" parent="aspace_abbbf1e9c0c7d03870c56d8e43e863a5" type="Folder">13</container></did></c><c id="aspace_ref27" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence: Silone, Ignazio</unittitle><unitdate datechar="creation" normal="1935/1936" type="inclusive">1935-1936</unitdate><container altrender="Manuscript box - Legal" id="aspace_86ac29d30c64fb4d4fc4af72f4de2d9b" label="Mixed Materials [31142062773950]" type="Box">1</container><container id="aspace_f1c8b12f4c3e094e7720909deeaf1bdd" parent="aspace_86ac29d30c64fb4d4fc4af72f4de2d9b" type="Folder">14</container></did></c><c id="aspace_ref28" level="otherlevel" otherlevel="unspecified"><did><unittitle>Correspondence: Valenti, Sylvia</unittitle><unitdate datechar="creation" normal="1958/1977" type="inclusive">1958-1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_fdc134baad87c7c2f94e6485ddc70023" label="Mixed Materials [31142062773950]" type="Box">1</container><container id="aspace_e1c638cf11905ced3a2d20b5fae47a92" parent="aspace_fdc134baad87c7c2f94e6485ddc70023" type="Folder">15</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>"Fascist Propaganda in the United States" (Typescript)</unittitle><unitdate datechar="creation">Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_9856b5c467e5bb7aa8fb4e94fd06443d" label="Mixed Materials [31142062773950]" type="Box">1</container><container id="aspace_744edc13a9ab08e9eabfdfc5ec41f5f0" parent="aspace_9856b5c467e5bb7aa8fb4e94fd06443d" type="Folder">16</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Giovannitti, Arturo</unittitle><unitdate datechar="creation" normal="1942/1960" type="inclusive">1942-1960</unitdate><container altrender="Manuscript box - Legal" id="aspace_bc611571260cbe75c4f19eee093532c0" label="Mixed Materials [31142062773950]" type="Box">1</container><container id="aspace_83e47609aac93094d5d12452e6521dff" parent="aspace_bc611571260cbe75c4f19eee093532c0" type="Folder">17</container></did></c><c id="aspace_ref31" level="otherlevel" otherlevel="unspecified"><did><unittitle>Obituaries</unittitle><unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate><container altrender="Manuscript box - Legal" id="aspace_339ef5b9d236875e1870da509b1c0311" label="Mixed Materials [31142062773950]" type="Box">1</container><container id="aspace_496c759db6c598739833847ed13436e4" parent="aspace_339ef5b9d236875e1870da509b1c0311" type="Folder">18</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Pope Affair: Clippings from <emph render="italic">Il Progresso Italo-Americano</emph></unittitle><unitdate datechar="creation" normal="1955/1957" type="inclusive">1955-1957, Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_aa69a9d453d901214664205be6bbd87c" label="Mixed Materials [31142062773950]" type="Box">1</container><container id="aspace_051d5e5d9e0216e57daa6f8fc4cab547" parent="aspace_aa69a9d453d901214664205be6bbd87c" type="Folder">19</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Pope Affair: <emph render="italic">Fascism, Anti-Semitism Rampant in Editorial Room of "Il Progresso Italo-Americano," An Open Letter to its Editor and Publisher Fortune R. Pope</emph> [Girolamo Valenti]; also includes "The Story of the Pamphlet," by Sylvia Valenti</unittitle><unitdate datechar="creation" normal="1957/1957" type="inclusive">c.1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_4720709afa56f5f1ddf21cc37ee9bed6" label="Mixed Materials [31142062773950]" type="Box">1</container><container id="aspace_e08d75aa76a6fb6c4873f9fb2c0151fe" parent="aspace_4720709afa56f5f1ddf21cc37ee9bed6" type="Folder">20</container></did></c><c id="aspace_ref29" level="otherlevel" otherlevel="unspecified"><did><unittitle>Pope Affair: General</unittitle><unitdate datechar="creation" normal="1931/1958" type="inclusive">c.1941-1958, Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_efaf34b674db83ba3ee07faf7ad8d687" label="Mixed Materials [31142062773968]" type="Box">2</container><container id="aspace_bd9fbe3db9e0e5d6558578fa9c0bf6b4" parent="aspace_efaf34b674db83ba3ee07faf7ad8d687" type="Folder">1</container></did></c><c id="aspace_ref32" level="otherlevel" otherlevel="unspecified"><did><unittitle>Radio Programs</unittitle><unitdate datechar="creation" normal="1925/1977" type="inclusive">1955 , undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_7ddcef008fd4e2f407d5edd94b765f10" label="Mixed Materials [31142062773968]" type="Box">2</container><container id="aspace_8a3be644d3870a7413dab245ca566597" parent="aspace_7ddcef008fd4e2f407d5edd94b765f10" type="Folder">2</container></did></c><c id="aspace_ref33" level="otherlevel" otherlevel="unspecified"><did><unittitle>Radio Programs</unittitle><unitdate datechar="creation" normal="1925/1977" type="inclusive">1955-1956 , undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_f1115c5f7468ae499046496b1dfc2143" label="Mixed Materials [31142062773968]" type="Box">2</container><container id="aspace_52be3d7b9f96a27bd302ea8a49da8d0d" parent="aspace_f1115c5f7468ae499046496b1dfc2143" type="Folder">3</container></did></c><c id="aspace_ref34" level="otherlevel" otherlevel="unspecified"><did><unittitle>Radio Programs</unittitle><unitdate datechar="creation" normal="1925/1977" type="inclusive">1956 , undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_d0aa43f15967d747d8848c56e39f2ace" label="Mixed Materials [31142062773968]" type="Box">2</container><container id="aspace_86e2b740cdf0a35f5db8f93d551d9cfc" parent="aspace_d0aa43f15967d747d8848c56e39f2ace" type="Folder">4</container></did></c><c id="aspace_ref35" level="otherlevel" otherlevel="unspecified"><did><unittitle>Radio Programs</unittitle><unitdate datechar="creation" normal="1925/1977" type="inclusive">1957 , undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_71b165b2e577dda9e8c6e1de9d40f981" label="Mixed Materials [31142062773968]" type="Box">2</container><container id="aspace_1f7f3dfa5b279299da10517025760356" parent="aspace_71b165b2e577dda9e8c6e1de9d40f981" type="Folder">5</container></did></c><c id="aspace_ref36" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbooks</unittitle><unitdate datechar="creation" normal="1939/1940" type="inclusive">1939-1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_fb4dbee245ec01113afde685eef6fafb" label="Mixed Materials [31142062773968]" type="Box">2</container><container id="aspace_31b0b2e772070e54b98aacaba1a32ef5" parent="aspace_fb4dbee245ec01113afde685eef6fafb" type="Folder">6</container></did></c><c id="aspace_ref45" level="otherlevel" otherlevel="unspecified"><did><unittitle>Socialist Party: Flier (in Italian)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_2ab7d28dc8fbed286fd90b68e14c234f" label="Mixed Materials [31142062773968]" type="Box">2</container><container id="aspace_3315242e119d873451e7d078b235b7da" parent="aspace_2ab7d28dc8fbed286fd90b68e14c234f" type="Folder">6a</container></did></c><c id="aspace_ref37" level="otherlevel" otherlevel="unspecified"><did><unittitle>Writings, Manuscripts &amp; Typescripts</unittitle><unitdate datechar="creation" normal="1925/1977" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_2a76078f47804034ee1c5c1489b549ed" label="Mixed Materials [31142062773968]" type="Box">2</container><container id="aspace_2292dc9c018d9bd373808a5ec6d955d8" parent="aspace_2a76078f47804034ee1c5c1489b549ed" type="Folder">7</container></did></c><c id="aspace_ref38" level="otherlevel" otherlevel="unspecified"><did><unittitle>Writings, Published (articles &amp; pamphlets)</unittitle><unitdate datechar="creation" normal="1920/1957" type="inclusive">1920 , 1954-1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_83820bb359ff6fd3433e0d7c5d57aad1" label="Mixed Materials [31142062773968]" type="Box">2</container><container id="aspace_509b0818144d49a1761984f7ee29350d" parent="aspace_83820bb359ff6fd3433e0d7c5d57aad1" type="Folder">8</container></did></c><c id="aspace_ref47" level="otherlevel" otherlevel="unspecified"><did><unittitle>Sylvia Valenti Writings (The Journey A-Cross, The $50 Psychiatrist, personal notes)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_6f6bd111c551b8dacef5bee714aa80b1" label="Mixed Materials [31142062773968]" type="Box">2</container><container id="aspace_95d79f233415a2b64ec427ddb5c8d942" parent="aspace_6f6bd111c551b8dacef5bee714aa80b1" type="Folder">9</container></did></c></c></dsc>
-</archdesc>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref14" level="series">
+        <did>
+          <unittitle>Container list</unittitle>
+        </did>
+        <c id="aspace_ref15" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Bibliography: Valenti Writings in Newspapers, 1933-1937</unittitle>
+            <unitdate datechar="creation" normal="1925/1977" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2d695981caa01baa59a1dcef6a012954" label="Mixed Materials [31142062773950]" type="Box">1</container>
+            <container id="aspace_c3e5daadd5fabb69c137ec923864bc26" parent="aspace_2d695981caa01baa59a1dcef6a012954" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Biographical (includes John Nicholas Beffel notes and Sylvia Valenti Writings)</unittitle>
+            <unitdate datechar="creation" normal="1956/1978" type="inclusive">1956-1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a1d116fe8edec97beca420da156906e9" label="Mixed Materials [31142062773950]" type="Box">1</container>
+            <container id="aspace_a5da8502c731341d34631cbe7a73f00f" parent="aspace_a1d116fe8edec97beca420da156906e9" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Carl Tresca Memorial Meeting: Flier</unittitle>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_af11248336ccc3ec81b59d1fedb4cd31" label="Mixed Materials [31142062773950]" type="Box">1</container>
+            <container id="aspace_b3bb13ca36b14337d72cc71dd9448247" parent="aspace_af11248336ccc3ec81b59d1fedb4cd31" type="Folder">2a</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Clippings (Mainly Italian)</unittitle>
+            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957 , undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4cfacdfcff299e8ed77b811b6485a06d" label="Mixed Materials [31142062773950]" type="Box">1</container>
+            <container id="aspace_6e20c904c4b0a87e351301f71ddc2d52" parent="aspace_4cfacdfcff299e8ed77b811b6485a06d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Condolences</unittitle>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c7a1496a69b5f20200e135ed6365d281" label="Mixed Materials [31142062773950]" type="Box">1</container>
+            <container id="aspace_cf3186eaaa5a1fa1679abd1600a5ee9a" parent="aspace_c7a1496a69b5f20200e135ed6365d281" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1930/1939" type="inclusive">1930-1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_001f77a0ecbf0887d7327ac805c17136" label="Mixed Materials [31142062773950]" type="Box">1</container>
+            <container id="aspace_b5abaf414ac20de51dc81ffe0d3219d2" parent="aspace_001f77a0ecbf0887d7327ac805c17136" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1940/1944" type="inclusive">1940-1944</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_96944d959eee3e73ca04c9d3583cf87a" label="Mixed Materials [31142062773950]" type="Box">1</container>
+            <container id="aspace_65c70068c8efc494230dedb3c1dea3cc" parent="aspace_96944d959eee3e73ca04c9d3583cf87a" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1945/1950" type="inclusive">1945-1950</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_378fc11e9bc5ab98657845370f212ea7" label="Mixed Materials [31142062773950]" type="Box">1</container>
+            <container id="aspace_77a7a52433351c721a18f24aff7b1012" parent="aspace_378fc11e9bc5ab98657845370f212ea7" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1951/1955" type="inclusive">1951-1955</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4171c72cc42a9f05df6fb001a6f52b92" label="Mixed Materials [31142062773950]" type="Box">1</container>
+            <container id="aspace_1522996839c40d44f33bf8c9a20de9f3" parent="aspace_4171c72cc42a9f05df6fb001a6f52b92" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1956/1958" type="inclusive">1956-1958</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f58b292c6cae47ea95515ceddeb8ff67" label="Mixed Materials [31142062773950]" type="Box">1</container>
+            <container id="aspace_ce29f61db0a09c991c21665f5ac0b2ea" parent="aspace_f58b292c6cae47ea95515ceddeb8ff67" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence: Matteotti, Velia</unittitle>
+            <unitdate datechar="creation" normal="1925/1925" type="inclusive">1925</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b52f297672f4e08b97fac43107bf64aa" label="Mixed Materials [31142062773950]" type="Box">1</container>
+            <container id="aspace_dc5c19621b20d2a0d78124f321d9db55" parent="aspace_b52f297672f4e08b97fac43107bf64aa" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence: Nenni, Pietro</unittitle>
+            <unitdate datechar="creation" normal="1925/1977" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0a2eff323ba5660500dbb2ba6c38b872" label="Mixed Materials [31142062773950]" type="Box">1</container>
+            <container id="aspace_d91595ce4e422816327b203a1e850c1e" parent="aspace_0a2eff323ba5660500dbb2ba6c38b872" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence: Pankhurst, Sylvia</unittitle>
+            <unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a0f821558d993745f36782eca432a28e" label="Mixed Materials [31142062773950]" type="Box">1</container>
+            <container id="aspace_b074068d7d6626dd8797dd5c29220e08" parent="aspace_a0f821558d993745f36782eca432a28e" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence: Sforza, Carlo</unittitle>
+            <unitdate datechar="creation" normal="1925/1977" type="inclusive">1943 , undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_abbbf1e9c0c7d03870c56d8e43e863a5" label="Mixed Materials [31142062773950]" type="Box">1</container>
+            <container id="aspace_4bb616312094f88b1e61e588c6ac412b" parent="aspace_abbbf1e9c0c7d03870c56d8e43e863a5" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence: Silone, Ignazio</unittitle>
+            <unitdate datechar="creation" normal="1935/1936" type="inclusive">1935-1936</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_86ac29d30c64fb4d4fc4af72f4de2d9b" label="Mixed Materials [31142062773950]" type="Box">1</container>
+            <container id="aspace_f1c8b12f4c3e094e7720909deeaf1bdd" parent="aspace_86ac29d30c64fb4d4fc4af72f4de2d9b" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence: Valenti, Sylvia</unittitle>
+            <unitdate datechar="creation" normal="1958/1977" type="inclusive">1958-1977</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fdc134baad87c7c2f94e6485ddc70023" label="Mixed Materials [31142062773950]" type="Box">1</container>
+            <container id="aspace_e1c638cf11905ced3a2d20b5fae47a92" parent="aspace_fdc134baad87c7c2f94e6485ddc70023" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>"Fascist Propaganda in the United States" (Typescript)</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9856b5c467e5bb7aa8fb4e94fd06443d" label="Mixed Materials [31142062773950]" type="Box">1</container>
+            <container id="aspace_744edc13a9ab08e9eabfdfc5ec41f5f0" parent="aspace_9856b5c467e5bb7aa8fb4e94fd06443d" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Giovannitti, Arturo</unittitle>
+            <unitdate datechar="creation" normal="1942/1960" type="inclusive">1942-1960</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bc611571260cbe75c4f19eee093532c0" label="Mixed Materials [31142062773950]" type="Box">1</container>
+            <container id="aspace_83e47609aac93094d5d12452e6521dff" parent="aspace_bc611571260cbe75c4f19eee093532c0" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Obituaries</unittitle>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_339ef5b9d236875e1870da509b1c0311" label="Mixed Materials [31142062773950]" type="Box">1</container>
+            <container id="aspace_496c759db6c598739833847ed13436e4" parent="aspace_339ef5b9d236875e1870da509b1c0311" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Pope Affair: Clippings from <emph render="italic">Il Progresso Italo-Americano</emph></unittitle>
+            <unitdate datechar="creation" normal="1955/1957" type="inclusive">1955-1957, Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_aa69a9d453d901214664205be6bbd87c" label="Mixed Materials [31142062773950]" type="Box">1</container>
+            <container id="aspace_051d5e5d9e0216e57daa6f8fc4cab547" parent="aspace_aa69a9d453d901214664205be6bbd87c" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Pope Affair: <emph render="italic">Fascism, Anti-Semitism Rampant in Editorial Room of "Il Progresso Italo-Americano," An Open Letter to its Editor and Publisher Fortune R. Pope</emph> [Girolamo Valenti]; also includes "The Story of the Pamphlet," by Sylvia Valenti</unittitle>
+            <unitdate datechar="creation" normal="1957/1957" type="inclusive">c.1957</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4720709afa56f5f1ddf21cc37ee9bed6" label="Mixed Materials [31142062773950]" type="Box">1</container>
+            <container id="aspace_e08d75aa76a6fb6c4873f9fb2c0151fe" parent="aspace_4720709afa56f5f1ddf21cc37ee9bed6" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pope Affair: General</unittitle>
+            <unitdate datechar="creation" normal="1931/1958" type="inclusive">c.1941-1958, Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_efaf34b674db83ba3ee07faf7ad8d687" label="Mixed Materials [31142062773968]" type="Box">2</container>
+            <container id="aspace_bd9fbe3db9e0e5d6558578fa9c0bf6b4" parent="aspace_efaf34b674db83ba3ee07faf7ad8d687" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Radio Programs</unittitle>
+            <unitdate datechar="creation" normal="1925/1977" type="inclusive">1955 , undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7ddcef008fd4e2f407d5edd94b765f10" label="Mixed Materials [31142062773968]" type="Box">2</container>
+            <container id="aspace_8a3be644d3870a7413dab245ca566597" parent="aspace_7ddcef008fd4e2f407d5edd94b765f10" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Radio Programs</unittitle>
+            <unitdate datechar="creation" normal="1925/1977" type="inclusive">1955-1956 , undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f1115c5f7468ae499046496b1dfc2143" label="Mixed Materials [31142062773968]" type="Box">2</container>
+            <container id="aspace_52be3d7b9f96a27bd302ea8a49da8d0d" parent="aspace_f1115c5f7468ae499046496b1dfc2143" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Radio Programs</unittitle>
+            <unitdate datechar="creation" normal="1925/1977" type="inclusive">1956 , undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d0aa43f15967d747d8848c56e39f2ace" label="Mixed Materials [31142062773968]" type="Box">2</container>
+            <container id="aspace_86e2b740cdf0a35f5db8f93d551d9cfc" parent="aspace_d0aa43f15967d747d8848c56e39f2ace" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Radio Programs</unittitle>
+            <unitdate datechar="creation" normal="1925/1977" type="inclusive">1957 , undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_71b165b2e577dda9e8c6e1de9d40f981" label="Mixed Materials [31142062773968]" type="Box">2</container>
+            <container id="aspace_1f7f3dfa5b279299da10517025760356" parent="aspace_71b165b2e577dda9e8c6e1de9d40f981" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Scrapbooks</unittitle>
+            <unitdate datechar="creation" normal="1939/1940" type="inclusive">1939-1940</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fb4dbee245ec01113afde685eef6fafb" label="Mixed Materials [31142062773968]" type="Box">2</container>
+            <container id="aspace_31b0b2e772070e54b98aacaba1a32ef5" parent="aspace_fb4dbee245ec01113afde685eef6fafb" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Socialist Party: Flier (in Italian)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2ab7d28dc8fbed286fd90b68e14c234f" label="Mixed Materials [31142062773968]" type="Box">2</container>
+            <container id="aspace_3315242e119d873451e7d078b235b7da" parent="aspace_2ab7d28dc8fbed286fd90b68e14c234f" type="Folder">6a</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Writings, Manuscripts &amp; Typescripts</unittitle>
+            <unitdate datechar="creation" normal="1925/1977" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2a76078f47804034ee1c5c1489b549ed" label="Mixed Materials [31142062773968]" type="Box">2</container>
+            <container id="aspace_2292dc9c018d9bd373808a5ec6d955d8" parent="aspace_2a76078f47804034ee1c5c1489b549ed" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Writings, Published (articles &amp; pamphlets)</unittitle>
+            <unitdate datechar="creation" normal="1920/1957" type="inclusive">1920 , 1954-1957</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_83820bb359ff6fd3433e0d7c5d57aad1" label="Mixed Materials [31142062773968]" type="Box">2</container>
+            <container id="aspace_509b0818144d49a1761984f7ee29350d" parent="aspace_83820bb359ff6fd3433e0d7c5d57aad1" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Sylvia Valenti Writings (The Journey A-Cross, The $50 Psychiatrist, personal notes)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6f6bd111c551b8dacef5bee714aa80b1" label="Mixed Materials [31142062773968]" type="Box">2</container>
+            <container id="aspace_95d79f233415a2b64ec427ddb5c8d942" parent="aspace_6f6bd111c551b8dacef5bee714aa80b1" type="Folder">9</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

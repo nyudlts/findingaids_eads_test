@@ -1,54 +1,321 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_261">mss_261</eadid><filedesc><titlestmt><titleproper>Guide to the Miscellany Magazine Collection, 1929-1943 <num>MSS.261</num></titleproper><author>Laura Newsome, 2014.</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 06:53:54 -0400</date>.</creation><langusage>Description written in English</langusage></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Fales Library and Special Collections</corpname>
-    </repository>
-    <unittitle>Miscellany Magazine Collection</unittitle>
-    <origination label="Creator">
-      <corpname rules="dacs" source="local">The Miscellany</corpname>
-    </origination>
-    <unitid>MSS.261</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
-      <extent altrender="carrier">in 1 half manuscript box.</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1929/1943" type="inclusive">1929-1943</unitdate>
-    <unitdate datechar="creation" normal="1929/1930" type="bulk">1929-1930</unitdate>
-    <abstract id="aspace_5b9d742cc9c7c92a88beda2f4a7c2ce1">Miscellany Magazine ran from 1929 - 1931 and comprised 6 issues. The magazine featured poetry, essays, and film, art, and literature reviews. It was based in New York City. The collection contains correspondence, advertisers, contributions, subscriber lists, and reviews of Miscellany Magazine. There is also one issue of the magazine.</abstract>
-    <langmaterial id="aspace_48559e5e746a1f47b58d38b9a01a9f0d">Materials are in English.</langmaterial>
-  </did>
-  <accessrestrict id="aspace_5edf9784f81c896126fb2e542a78947c">
-    <head>Conditions Governing Access</head>
-<p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </accessrestrict>
-  <arrangement id="aspace_4cf3cc5e1d42b8280a028671db9aa5fc">
-    <head>Arrangement</head>
-<p>The collection is arranged alphabetically in two series.</p>  </arrangement>
-  <bioghist id="aspace_e8f0dde51a7d7d2068d0ff2e95f241e3">
-    <head>Historical Note</head>
-<p>Miscellany Magazine ran from 1929 - 1931 and comprised 6 issues. It was edited by Frederick W. Dupee, Geoffrey T. Hellman, George L. Kingsland Morris, and Dwight MacDonald. The magazine featured poetry, essays, and film, art, and literature reviews. It was based in New York City.</p>  </bioghist>
-  <custodhist id="aspace_245f69aaca923773ddd83e9651df0dd2">
-    <head>Custodial History</head>
-<p>The collection had been housed at NYU's Fales Library from at least the 1990s. The provenance of the collection is unclear.</p>  </custodhist>
-  <prefercite id="aspace_d3dad1ff87c4c1f0173c7122d3335f0d">
-    <head>Preferred Citation</head>
-<p>Published citations should take the
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_261">mss_261</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Miscellany Magazine Collection, 1929-1943 <num>MSS.261</num></titleproper>
+        <author>Laura Newsome, 2014.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 06:53:54 -0400</date>.</creation>
+      <langusage>Description written in English</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>Miscellany Magazine Collection</unittitle>
+      <origination label="Creator">
+        <corpname rules="dacs" source="local">The Miscellany</corpname>
+      </origination>
+      <unitid>MSS.261</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+        <extent altrender="carrier">in 1 half manuscript box.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1929/1943" type="inclusive">1929-1943</unitdate>
+      <unitdate datechar="creation" normal="1929/1930" type="bulk">1929-1930</unitdate>
+      <abstract id="aspace_5b9d742cc9c7c92a88beda2f4a7c2ce1">Miscellany Magazine ran from 1929 - 1931 and comprised 6 issues. The magazine featured poetry, essays, and film, art, and literature reviews. It was based in New York City. The collection contains correspondence, advertisers, contributions, subscriber lists, and reviews of Miscellany Magazine. There is also one issue of the magazine.</abstract>
+      <langmaterial id="aspace_48559e5e746a1f47b58d38b9a01a9f0d">Materials are in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_5edf9784f81c896126fb2e542a78947c">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </accessrestrict>
+    <arrangement id="aspace_4cf3cc5e1d42b8280a028671db9aa5fc">
+      <head>Arrangement</head>
+      <p>The collection is arranged alphabetically in two series.</p>
+    </arrangement>
+    <bioghist id="aspace_e8f0dde51a7d7d2068d0ff2e95f241e3">
+      <head>Historical Note</head>
+      <p>Miscellany Magazine ran from 1929 - 1931 and comprised 6 issues. It was edited by Frederick W. Dupee, Geoffrey T. Hellman, George L. Kingsland Morris, and Dwight MacDonald. The magazine featured poetry, essays, and film, art, and literature reviews. It was based in New York City.</p>
+    </bioghist>
+    <custodhist id="aspace_245f69aaca923773ddd83e9651df0dd2">
+      <head>Custodial History</head>
+      <p>The collection had been housed at NYU's Fales Library from at least the 1990s. The provenance of the collection is unclear.</p>
+    </custodhist>
+    <prefercite id="aspace_d3dad1ff87c4c1f0173c7122d3335f0d">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the
 following form:<lb/><lb/>
-Identification of item,  date (if known); Miscellany Magazine Collection; MSS 261; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>  </prefercite>
-  <scopecontent id="aspace_6ee5f3ef0a01cc319c13b8f50a31fe54">
-    <head>Scope and Contents</head>
-<p>This collection contains correspondence, advertisers, contributions, subscriber lists, and reviews of Miscellany Magazine. There is also one issue of the magazine.</p>  </scopecontent>
-  <userestrict id="aspace_011ef94b057a64ec4870ed276d1f2285">
-    <head>Conditions Governing Use</head>
-<p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </userestrict>
-  <controlaccess>
-    <genreform source="aat">Magazines (Periodicals)</genreform>
-    <title source="local">The Miscellany (New York, N.Y.)</title>
-    <persname source="naf">Macdonald, Dwight</persname>
-    <persname rules="dacs" source="naf">Dupee, Frederick W., 1904-</persname>
-    <persname rules="dacs" source="naf">Morris, George L. K., 1905-1975</persname>
-    <persname source="naf">Hellman, Geoffrey, 1907-</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref1" level="series"><did><unittitle>Series I: Correspondence</unittitle></did><c id="aspace_ref3" level="file"><did><unittitle>Aiken, Conrad; Afard, Walter R.; Allen, Hervey; Arevalo, Betty Wison; Arvin, Newton</unittitle><unitdate datechar="creation" normal="1929/1930" type="inclusive">1929-1930</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_dca6e20ba4b08e5862146e6689ca16f8" label="Mixed Materials [31142063601549]" type="Box">1</container><container id="aspace_4e494765a3fb51119bb8b58ce60b5aac" parent="aspace_dca6e20ba4b08e5862146e6689ca16f8" type="Folder">1</container></did></c><c id="aspace_ref4" level="file"><did><unittitle>Bakchy, Alexander; Barnes, Clare Jr.; Blackmur, R.P.</unittitle><unitdate datechar="creation">1930</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_493f58bc2960bb9c7fc2c9fb66287a60" label="Mixed Materials [31142063601549]" type="Box">1</container><container id="aspace_3fe363887c3f7a2188f35972e22914f3" parent="aspace_493f58bc2960bb9c7fc2c9fb66287a60" type="Folder">2</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>Briscoe, Louise; Brooke, Tucker; Brooks, Cleanth; Brown, Hamilton</unittitle><unitdate datechar="creation">1930</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_f49d6dd248646b39aff524c1ff7596d1" label="Mixed Materials [31142063601549]" type="Box">1</container><container id="aspace_1cdd2bd422e8d22e2702fcd8fc6ba81f" parent="aspace_f49d6dd248646b39aff524c1ff7596d1" type="Folder">3</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Bryan, Hamish; Buckner, M.M.; Burke, Kenneth</unittitle><unitdate datechar="creation">1930</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_01885aa26201ff36206bec448b87f595" label="Mixed Materials [31142063601549]" type="Box">1</container><container id="aspace_d70361559e5cff0c0bff9bc1e81b1d32" parent="aspace_01885aa26201ff36206bec448b87f595" type="Folder">4</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Caldwell, Erskine; Carey, Marjorie; Carter, Hodding</unittitle><unitdate datechar="creation">1930</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_7c3287fc5d58bf5245355b2d1b59596a" label="Mixed Materials [31142063601549]" type="Box">1</container><container id="aspace_317448a27e985c049fd72d465b93a96d" parent="aspace_7c3287fc5d58bf5245355b2d1b59596a" type="Folder">5</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Charvat, William; Clevas, Mary A.; Coughlin, Miss E.B.</unittitle><unitdate datechar="creation" normal="1929/1930" type="inclusive">1929-1930</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_7442615335ecbfb3bc0208eb59748208" label="Mixed Materials [31142063601549]" type="Box">1</container><container id="aspace_acc3c958f80ed3d3691fbec2893b3ada" parent="aspace_7442615335ecbfb3bc0208eb59748208" type="Folder">6</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Cranford; Davidson, Donald; Davis, H.L.; DeJong; David Cornel</unittitle><unitdate datechar="creation" normal="1929/1930" type="inclusive">1929-1930</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_4b06d66a67b054d5a516e5e0da7499ab" label="Mixed Materials [31142063601549]" type="Box">1</container><container id="aspace_2f8449d15017a31064533c483f25737d" parent="aspace_4b06d66a67b054d5a516e5e0da7499ab" type="Folder">7</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Delehanty, Thornton; Dinsmore; Ellion, R.; Finch, Everett L.</unittitle><unitdate datechar="creation" normal="1929/1930" type="inclusive">1929-1930</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_f34d550149ef4fc7ee98582329689796" label="Mixed Materials [31142063601549]" type="Box">1</container><container id="aspace_8e8b9fcec4a7d86346ec833ea22c0994" parent="aspace_f34d550149ef4fc7ee98582329689796" type="Folder">8</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Foster, Thomas Jr.; Gallatin; Gottfried, Manfred; Gould, Wallace</unittitle><unitdate datechar="creation">1930</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_089ebce66c681a7a521ecfe3de9b2eb7" label="Mixed Materials [31142063601549]" type="Box">1</container><container id="aspace_5f1486bcb500adb79321616f6725effc" parent="aspace_089ebce66c681a7a521ecfe3de9b2eb7" type="Folder">9</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Grattam, G. Hartley; Grey, J.C.; Griswold; Haase, Paul G.</unittitle><unitdate datechar="creation" normal="1929/1930" type="inclusive">1929-1930</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_d240f3965d921a43f7587192d3ab81f3" label="Mixed Materials [31142063601549]" type="Box">1</container><container id="aspace_6817fdc6d421cd9aefff37692ebe4277" parent="aspace_d240f3965d921a43f7587192d3ab81f3" type="Folder">10</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Hansen, Harry; Heap, Jane; Hess, Peggy</unittitle><unitdate datechar="creation">1929</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_581d022d3fe5efa1fbb1f7d474771e10" label="Mixed Materials [31142063601549]" type="Box">1</container><container id="aspace_f62de95666e81c025d15d322d574271a" parent="aspace_581d022d3fe5efa1fbb1f7d474771e10" type="Folder">11</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Hoffrek; Ada Mae; Humphries, Rolf; Jeffers, Robinson; Jones, Llewellyn</unittitle><unitdate datechar="creation" normal="1929/1930" type="inclusive">1929-1930</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_de1f4fe01abbb7f85e9a33f219509e96" label="Mixed Materials [31142063601549]" type="Box">1</container><container id="aspace_860bb235f24f626a020f2aeca736fcbd" parent="aspace_de1f4fe01abbb7f85e9a33f219509e96" type="Folder">12</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Kapustin, Harry; Kelly, Kathryn H.; Kirsten, Lincoln</unittitle><unitdate datechar="creation" normal="1929/1930" type="inclusive">1929-1930</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_81bf1156d855cb755fc5db776bef5583" label="Mixed Materials [31142063601549]" type="Box">1</container><container id="aspace_5a25f04c7a7ca48049656458d31ccd90" parent="aspace_81bf1156d855cb755fc5db776bef5583" type="Folder">13</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Kreymborg, Alfred; Lambert, George; Loftus, John; Lowe, Robert Liddell</unittitle><unitdate datechar="creation">1930</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_cd0087e2c9cd6a586a519bdad71b73c7" label="Mixed Materials [31142063601549]" type="Box">1</container><container id="aspace_db24c33c0c7561043731bc15f687acb2" parent="aspace_cd0087e2c9cd6a586a519bdad71b73c7" type="Folder">14</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Lowenstein, M.; Mangun, Sherry; Marcley, George C.</unittitle><unitdate datechar="creation">1930</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_2e9541d15558e2511f513670630b9281" label="Mixed Materials [31142063601549]" type="Box">1</container><container id="aspace_fad4be540e99e23676eb79c5496df10a" parent="aspace_2e9541d15558e2511f513670630b9281" type="Folder">15</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Milburn, George; Moloff, Pete; Munson, Gorham B.</unittitle><unitdate datechar="creation">1930</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_21ff8540a9cc9d11f9d5266cf487358f" label="Mixed Materials [31142063601549]" type="Box">1</container><container id="aspace_9dc6de7b60863b7ddd6867eff4247ebb" parent="aspace_21ff8540a9cc9d11f9d5266cf487358f" type="Folder">16</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Newton, George A.; Nubs, Brairg; O'Brien, Edward; Old Corner Book Store</unittitle><unitdate datechar="creation">1930</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_98ef4d0e3ed1f696e790ff44cb3b1bf9" label="Mixed Materials [31142063601549]" type="Box">1</container><container id="aspace_d6997df7d5861eaf9c02ca6a5e95065f" parent="aspace_98ef4d0e3ed1f696e790ff44cb3b1bf9" type="Folder">17</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Phelps, William Lyon; Preston, George Hyde; Robson, Bill; Rosenfield, Paul</unittitle><unitdate datechar="creation" normal="1929/1930" type="inclusive">1929-1930</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_6dbdae5979b7e45e805a7dc7c6a38fa5" label="Mixed Materials [31142063601549]" type="Box">1</container><container id="aspace_2dcd8b4880285b109e53fe3c8bcfebe0" parent="aspace_6dbdae5979b7e45e805a7dc7c6a38fa5" type="Folder">18</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Sampson, Ashley; Sheridan, Kathleen; Smart, C.A.; Smith, Logan Pearsall</unittitle><unitdate datechar="creation" normal="1929/1930" type="inclusive">1929-1930</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_e098f49ab0a0cc49f0bb85bfd1931361" label="Mixed Materials [31142063601549]" type="Box">1</container><container id="aspace_dd8a3e8520162ccc6172822ce28419ac" parent="aspace_e098f49ab0a0cc49f0bb85bfd1931361" type="Folder">19</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Stewart, Laura; Swanson, Minerva; Tate, Elizabeth; Tharp, Willard</unittitle><unitdate datechar="creation">1930; 1943</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_e14e5a353b433408adb5fae75bea9adf" label="Mixed Materials [31142063601549]" type="Box">1</container><container id="aspace_fd2ca99857d355e49bda0958fa4981cf" parent="aspace_e14e5a353b433408adb5fae75bea9adf" type="Folder">20</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Vogel, Joseph; Wheeler, Dinsmore; Wheeler, Richard Page; Williams, William Carlos</unittitle><unitdate datechar="creation" normal="1929/1930" type="inclusive">1929-1930</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_8561a33ad932ada10ae6d93df97224dd" label="Mixed Materials [31142063601549]" type="Box">1</container><container id="aspace_b000d29d7c4bfca6d574efd2e831d785" parent="aspace_8561a33ad932ada10ae6d93df97224dd" type="Folder">21</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Wilson, Edmund; Winters, Yvor; Witherspoon, Alexander M.</unittitle><unitdate datechar="creation" normal="1929/1930" type="inclusive">1929-1930</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_ab609fe26bac98dfb3f19e3362e9ae3e" label="Mixed Materials [31142063601549]" type="Box">1</container><container id="aspace_b5d7f6ca5a70f8bdc69043e4870224ec" parent="aspace_ab609fe26bac98dfb3f19e3362e9ae3e" type="Folder">22</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Unidentified / Illegible</unittitle><unitdate datechar="creation">1930</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_f08d53d6f32659c11918045c28a240d0" label="Mixed Materials [31142063601549]" type="Box">1</container><container id="aspace_593ab4bb3887a2e93d5ff00bfefaa58d" parent="aspace_f08d53d6f32659c11918045c28a240d0" type="Folder">23</container></did></c></c><c id="aspace_ref2" level="series"><did><unittitle>Series II: Administrative Papers</unittitle></did><c id="aspace_ref26" level="file"><did><unittitle>Advertising</unittitle><unitdate datechar="creation">Undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_0ce95376e674722f8a73d0e91c188128" label="Mixed Materials [31142063601549]" type="Box">1</container><container id="aspace_0e3ef6adbec9e9158fd719394c1c2217" parent="aspace_0ce95376e674722f8a73d0e91c188128" type="Folder">24</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Contributors</unittitle><unitdate datechar="creation">Undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_e6d8c7d7e8c909bef33d3600e80eaed2" label="Mixed Materials [31142063601549]" type="Box">1</container><container id="aspace_7632e5b581e485709c2973dbdba912cf" parent="aspace_e6d8c7d7e8c909bef33d3600e80eaed2" type="Folder">25</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Potential Subscribers list</unittitle><unitdate datechar="creation">1930</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_89b8b4090dcc7353d39e84e3a7db66b9" label="Mixed Materials [31142063601549]" type="Box">1</container><container id="aspace_421f2d048acde41cefcac3025000f740" parent="aspace_89b8b4090dcc7353d39e84e3a7db66b9" type="Folder">26</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Reviews</unittitle><unitdate datechar="creation" normal="1929/1930" type="inclusive">1929-1930</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_15ce593e78cf23279c79ba41492f7f45" label="Mixed Materials [31142063601549]" type="Box">1</container><container id="aspace_31c8e04f84fc8ad3300a2b34ac5b9600" parent="aspace_15ce593e78cf23279c79ba41492f7f45" type="Folder">27</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Subscribers</unittitle><unitdate datechar="creation" normal="1929/1943" type="inclusive">1929-1943</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_3618f570f91b8075fb700ba405e9828e" label="Mixed Materials [31142063601549]" type="Box">1</container><container id="aspace_f0e05356d3023702e6924332f476cb77" parent="aspace_3618f570f91b8075fb700ba405e9828e" type="Folder">28</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>The Miscellany - Vol. 1, No. 6</unittitle><unitdate datechar="creation">March 1931</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_2ccd3aee4c6ed36d424f1f58be57fc42" label="Mixed Materials [31142063601549]" type="Box">1</container><container id="aspace_c8a59cd757b65ffc258f1d20aa6910e6" parent="aspace_2ccd3aee4c6ed36d424f1f58be57fc42" type="Folder">29</container></did></c></c></dsc>
-</archdesc>
+Identification of item,  date (if known); Miscellany Magazine Collection; MSS 261; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>
+    </prefercite>
+    <scopecontent id="aspace_6ee5f3ef0a01cc319c13b8f50a31fe54">
+      <head>Scope and Contents</head>
+      <p>This collection contains correspondence, advertisers, contributions, subscriber lists, and reviews of Miscellany Magazine. There is also one issue of the magazine.</p>
+    </scopecontent>
+    <userestrict id="aspace_011ef94b057a64ec4870ed276d1f2285">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </userestrict>
+    <controlaccess>
+      <genreform source="aat">Magazines (Periodicals)</genreform>
+      <title source="local">The Miscellany (New York, N.Y.)</title>
+      <persname source="naf">Macdonald, Dwight</persname>
+      <persname rules="dacs" source="naf">Dupee, Frederick W., 1904-</persname>
+      <persname rules="dacs" source="naf">Morris, George L. K., 1905-1975</persname>
+      <persname source="naf">Hellman, Geoffrey, 1907-</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref1" level="series">
+        <did>
+          <unittitle>Series I: Correspondence</unittitle>
+        </did>
+        <c id="aspace_ref3" level="file">
+          <did>
+            <unittitle>Aiken, Conrad; Afard, Walter R.; Allen, Hervey; Arevalo, Betty Wison; Arvin, Newton</unittitle>
+            <unitdate datechar="creation" normal="1929/1930" type="inclusive">1929-1930</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_dca6e20ba4b08e5862146e6689ca16f8" label="Mixed Materials [31142063601549]" type="Box">1</container>
+            <container id="aspace_4e494765a3fb51119bb8b58ce60b5aac" parent="aspace_dca6e20ba4b08e5862146e6689ca16f8" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref4" level="file">
+          <did>
+            <unittitle>Bakchy, Alexander; Barnes, Clare Jr.; Blackmur, R.P.</unittitle>
+            <unitdate datechar="creation">1930</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_493f58bc2960bb9c7fc2c9fb66287a60" label="Mixed Materials [31142063601549]" type="Box">1</container>
+            <container id="aspace_3fe363887c3f7a2188f35972e22914f3" parent="aspace_493f58bc2960bb9c7fc2c9fb66287a60" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref5" level="file">
+          <did>
+            <unittitle>Briscoe, Louise; Brooke, Tucker; Brooks, Cleanth; Brown, Hamilton</unittitle>
+            <unitdate datechar="creation">1930</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_f49d6dd248646b39aff524c1ff7596d1" label="Mixed Materials [31142063601549]" type="Box">1</container>
+            <container id="aspace_1cdd2bd422e8d22e2702fcd8fc6ba81f" parent="aspace_f49d6dd248646b39aff524c1ff7596d1" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref6" level="file">
+          <did>
+            <unittitle>Bryan, Hamish; Buckner, M.M.; Burke, Kenneth</unittitle>
+            <unitdate datechar="creation">1930</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_01885aa26201ff36206bec448b87f595" label="Mixed Materials [31142063601549]" type="Box">1</container>
+            <container id="aspace_d70361559e5cff0c0bff9bc1e81b1d32" parent="aspace_01885aa26201ff36206bec448b87f595" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref7" level="file">
+          <did>
+            <unittitle>Caldwell, Erskine; Carey, Marjorie; Carter, Hodding</unittitle>
+            <unitdate datechar="creation">1930</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_7c3287fc5d58bf5245355b2d1b59596a" label="Mixed Materials [31142063601549]" type="Box">1</container>
+            <container id="aspace_317448a27e985c049fd72d465b93a96d" parent="aspace_7c3287fc5d58bf5245355b2d1b59596a" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref8" level="file">
+          <did>
+            <unittitle>Charvat, William; Clevas, Mary A.; Coughlin, Miss E.B.</unittitle>
+            <unitdate datechar="creation" normal="1929/1930" type="inclusive">1929-1930</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_7442615335ecbfb3bc0208eb59748208" label="Mixed Materials [31142063601549]" type="Box">1</container>
+            <container id="aspace_acc3c958f80ed3d3691fbec2893b3ada" parent="aspace_7442615335ecbfb3bc0208eb59748208" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref9" level="file">
+          <did>
+            <unittitle>Cranford; Davidson, Donald; Davis, H.L.; DeJong; David Cornel</unittitle>
+            <unitdate datechar="creation" normal="1929/1930" type="inclusive">1929-1930</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_4b06d66a67b054d5a516e5e0da7499ab" label="Mixed Materials [31142063601549]" type="Box">1</container>
+            <container id="aspace_2f8449d15017a31064533c483f25737d" parent="aspace_4b06d66a67b054d5a516e5e0da7499ab" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>Delehanty, Thornton; Dinsmore; Ellion, R.; Finch, Everett L.</unittitle>
+            <unitdate datechar="creation" normal="1929/1930" type="inclusive">1929-1930</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_f34d550149ef4fc7ee98582329689796" label="Mixed Materials [31142063601549]" type="Box">1</container>
+            <container id="aspace_8e8b9fcec4a7d86346ec833ea22c0994" parent="aspace_f34d550149ef4fc7ee98582329689796" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>Foster, Thomas Jr.; Gallatin; Gottfried, Manfred; Gould, Wallace</unittitle>
+            <unitdate datechar="creation">1930</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_089ebce66c681a7a521ecfe3de9b2eb7" label="Mixed Materials [31142063601549]" type="Box">1</container>
+            <container id="aspace_5f1486bcb500adb79321616f6725effc" parent="aspace_089ebce66c681a7a521ecfe3de9b2eb7" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>Grattam, G. Hartley; Grey, J.C.; Griswold; Haase, Paul G.</unittitle>
+            <unitdate datechar="creation" normal="1929/1930" type="inclusive">1929-1930</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_d240f3965d921a43f7587192d3ab81f3" label="Mixed Materials [31142063601549]" type="Box">1</container>
+            <container id="aspace_6817fdc6d421cd9aefff37692ebe4277" parent="aspace_d240f3965d921a43f7587192d3ab81f3" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>Hansen, Harry; Heap, Jane; Hess, Peggy</unittitle>
+            <unitdate datechar="creation">1929</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_581d022d3fe5efa1fbb1f7d474771e10" label="Mixed Materials [31142063601549]" type="Box">1</container>
+            <container id="aspace_f62de95666e81c025d15d322d574271a" parent="aspace_581d022d3fe5efa1fbb1f7d474771e10" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Hoffrek; Ada Mae; Humphries, Rolf; Jeffers, Robinson; Jones, Llewellyn</unittitle>
+            <unitdate datechar="creation" normal="1929/1930" type="inclusive">1929-1930</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_de1f4fe01abbb7f85e9a33f219509e96" label="Mixed Materials [31142063601549]" type="Box">1</container>
+            <container id="aspace_860bb235f24f626a020f2aeca736fcbd" parent="aspace_de1f4fe01abbb7f85e9a33f219509e96" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Kapustin, Harry; Kelly, Kathryn H.; Kirsten, Lincoln</unittitle>
+            <unitdate datechar="creation" normal="1929/1930" type="inclusive">1929-1930</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_81bf1156d855cb755fc5db776bef5583" label="Mixed Materials [31142063601549]" type="Box">1</container>
+            <container id="aspace_5a25f04c7a7ca48049656458d31ccd90" parent="aspace_81bf1156d855cb755fc5db776bef5583" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Kreymborg, Alfred; Lambert, George; Loftus, John; Lowe, Robert Liddell</unittitle>
+            <unitdate datechar="creation">1930</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_cd0087e2c9cd6a586a519bdad71b73c7" label="Mixed Materials [31142063601549]" type="Box">1</container>
+            <container id="aspace_db24c33c0c7561043731bc15f687acb2" parent="aspace_cd0087e2c9cd6a586a519bdad71b73c7" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Lowenstein, M.; Mangun, Sherry; Marcley, George C.</unittitle>
+            <unitdate datechar="creation">1930</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_2e9541d15558e2511f513670630b9281" label="Mixed Materials [31142063601549]" type="Box">1</container>
+            <container id="aspace_fad4be540e99e23676eb79c5496df10a" parent="aspace_2e9541d15558e2511f513670630b9281" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Milburn, George; Moloff, Pete; Munson, Gorham B.</unittitle>
+            <unitdate datechar="creation">1930</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_21ff8540a9cc9d11f9d5266cf487358f" label="Mixed Materials [31142063601549]" type="Box">1</container>
+            <container id="aspace_9dc6de7b60863b7ddd6867eff4247ebb" parent="aspace_21ff8540a9cc9d11f9d5266cf487358f" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Newton, George A.; Nubs, Brairg; O'Brien, Edward; Old Corner Book Store</unittitle>
+            <unitdate datechar="creation">1930</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_98ef4d0e3ed1f696e790ff44cb3b1bf9" label="Mixed Materials [31142063601549]" type="Box">1</container>
+            <container id="aspace_d6997df7d5861eaf9c02ca6a5e95065f" parent="aspace_98ef4d0e3ed1f696e790ff44cb3b1bf9" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Phelps, William Lyon; Preston, George Hyde; Robson, Bill; Rosenfield, Paul</unittitle>
+            <unitdate datechar="creation" normal="1929/1930" type="inclusive">1929-1930</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_6dbdae5979b7e45e805a7dc7c6a38fa5" label="Mixed Materials [31142063601549]" type="Box">1</container>
+            <container id="aspace_2dcd8b4880285b109e53fe3c8bcfebe0" parent="aspace_6dbdae5979b7e45e805a7dc7c6a38fa5" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Sampson, Ashley; Sheridan, Kathleen; Smart, C.A.; Smith, Logan Pearsall</unittitle>
+            <unitdate datechar="creation" normal="1929/1930" type="inclusive">1929-1930</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_e098f49ab0a0cc49f0bb85bfd1931361" label="Mixed Materials [31142063601549]" type="Box">1</container>
+            <container id="aspace_dd8a3e8520162ccc6172822ce28419ac" parent="aspace_e098f49ab0a0cc49f0bb85bfd1931361" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Stewart, Laura; Swanson, Minerva; Tate, Elizabeth; Tharp, Willard</unittitle>
+            <unitdate datechar="creation">1930; 1943</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_e14e5a353b433408adb5fae75bea9adf" label="Mixed Materials [31142063601549]" type="Box">1</container>
+            <container id="aspace_fd2ca99857d355e49bda0958fa4981cf" parent="aspace_e14e5a353b433408adb5fae75bea9adf" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Vogel, Joseph; Wheeler, Dinsmore; Wheeler, Richard Page; Williams, William Carlos</unittitle>
+            <unitdate datechar="creation" normal="1929/1930" type="inclusive">1929-1930</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_8561a33ad932ada10ae6d93df97224dd" label="Mixed Materials [31142063601549]" type="Box">1</container>
+            <container id="aspace_b000d29d7c4bfca6d574efd2e831d785" parent="aspace_8561a33ad932ada10ae6d93df97224dd" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Wilson, Edmund; Winters, Yvor; Witherspoon, Alexander M.</unittitle>
+            <unitdate datechar="creation" normal="1929/1930" type="inclusive">1929-1930</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_ab609fe26bac98dfb3f19e3362e9ae3e" label="Mixed Materials [31142063601549]" type="Box">1</container>
+            <container id="aspace_b5d7f6ca5a70f8bdc69043e4870224ec" parent="aspace_ab609fe26bac98dfb3f19e3362e9ae3e" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Unidentified / Illegible</unittitle>
+            <unitdate datechar="creation">1930</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_f08d53d6f32659c11918045c28a240d0" label="Mixed Materials [31142063601549]" type="Box">1</container>
+            <container id="aspace_593ab4bb3887a2e93d5ff00bfefaa58d" parent="aspace_f08d53d6f32659c11918045c28a240d0" type="Folder">23</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref2" level="series">
+        <did>
+          <unittitle>Series II: Administrative Papers</unittitle>
+        </did>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Advertising</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_0ce95376e674722f8a73d0e91c188128" label="Mixed Materials [31142063601549]" type="Box">1</container>
+            <container id="aspace_0e3ef6adbec9e9158fd719394c1c2217" parent="aspace_0ce95376e674722f8a73d0e91c188128" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Contributors</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_e6d8c7d7e8c909bef33d3600e80eaed2" label="Mixed Materials [31142063601549]" type="Box">1</container>
+            <container id="aspace_7632e5b581e485709c2973dbdba912cf" parent="aspace_e6d8c7d7e8c909bef33d3600e80eaed2" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Potential Subscribers list</unittitle>
+            <unitdate datechar="creation">1930</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_89b8b4090dcc7353d39e84e3a7db66b9" label="Mixed Materials [31142063601549]" type="Box">1</container>
+            <container id="aspace_421f2d048acde41cefcac3025000f740" parent="aspace_89b8b4090dcc7353d39e84e3a7db66b9" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Reviews</unittitle>
+            <unitdate datechar="creation" normal="1929/1930" type="inclusive">1929-1930</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_15ce593e78cf23279c79ba41492f7f45" label="Mixed Materials [31142063601549]" type="Box">1</container>
+            <container id="aspace_31c8e04f84fc8ad3300a2b34ac5b9600" parent="aspace_15ce593e78cf23279c79ba41492f7f45" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Subscribers</unittitle>
+            <unitdate datechar="creation" normal="1929/1943" type="inclusive">1929-1943</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_3618f570f91b8075fb700ba405e9828e" label="Mixed Materials [31142063601549]" type="Box">1</container>
+            <container id="aspace_f0e05356d3023702e6924332f476cb77" parent="aspace_3618f570f91b8075fb700ba405e9828e" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>The Miscellany - Vol. 1, No. 6</unittitle>
+            <unitdate datechar="creation">March 1931</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_2ccd3aee4c6ed36d424f1f58be57fc42" label="Mixed Materials [31142063601549]" type="Box">1</container>
+            <container id="aspace_c8a59cd757b65ffc258f1d20aa6910e6" parent="aspace_2ccd3aee4c6ed36d424f1f58be57fc42" type="Folder">29</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

@@ -1,77 +1,456 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_331">tam_331</eadid><filedesc><titlestmt><titleproper>Guide to the Keep America Out of War Congress Records <num>TAM.331</num></titleproper><author>Jan Hilley</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>02/02/10</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:15:01 -0400</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Keep America Out of War Congress Records, 1936-1946</unittitle>
-    <origination label="source">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/tam_331">tam_331</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Keep America Out of War Congress Records <num>TAM.331</num></titleproper>
+        <author>Jan Hilley</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>02/02/10</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:15:01 -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Keep America Out of War Congress Records, 1936-1946</unittitle>
+      <origination label="source">
+        <persname role="dnr" source="naf">Dodge, Alice L.</persname>
+      </origination>
+      <origination label="Creator">
+        <corpname authfilenumber="(lccn)n90662975" source="naf">Keep America Out of War Congress</corpname>
+      </origination>
+      <unitid>TAM.331</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+        <extent altrender="carrier">In 1 record carton and 2 oversize flat boxes.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1936/1946" type="inclusive">1936-1946</unitdate>
+      <abstract id="aspace_9e42433c02328ab5cd0a280364ce492f" label="Abstract">Initiated in March of 1938, the Keep America Out of War Congress was a pacifist-socialist coalition whose goal was to preserve and strengthen the anti-war movement.  After the attack on Pearl Harbor in December 1941, the group dissolved and briefly became the Provisional Committee Toward a Democratic Peace.  In early 1942 it was reorganized into the Post War World Council.  This collection contains membership cards and mailing lists, correspondence, meeting minutes, topical files on various pertinent subjects, receipt books and a number of pamphlets published by the organizations.</abstract>
+      <langmaterial id="aspace_b4c5b0bed94e6a3820e3a1f00f00cbe1">Materials are in English</langmaterial>
+    </did>
+    <accessrestrict id="aspace_d9e5f1ab2713f26e6d2a38ce8a1232fe">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_22dbb335570f1d8146c61de6dc3f26fb">
+      <head>Immediate Source of Acquisition</head>
+      <p>Materials donated by Alice Dodge Wolfson in 2001. The accession number associated with this gift is 2001.207.</p>
+    </acqinfo>
+    <arrangement id="aspace_7ef2553940ca6f417fc93711a7aa37ed">
+      <head>Arrangement</head>
+      <p>Folders are arranged alphabetically within one series:</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>Series I: Keep America Out of War Congress and Subsequent Organizations, 1936-1946.</item>
+      </list>
+    </arrangement>
+    <bioghist id="aspace_b127e81b3863597aaf2803ff99cdaa39">
+      <head>Historical/Biographical Note</head>
+      <p>The Keep America Out of War Congress (KAOWC) was officially founded at a rally held on March 6, 1938, in the New York Hippodrome.  The host and sponsor was the Socialist Party, and the chairman, veteran pacifist reformer Oswald Garrison Villard.  Speakers included Robert M. LaFollette Jr., socialist leader Norman Thomas and columnist John T. Flynn.  The national platform called for withdrawal from such 'imperialist' involvement as the stationing of American ships and marines in China's war zones; the scrapping of plans for industrial mobilization, conscription, and foreign alliances; the termination of war trade; and national adoption of a war referendum.  The Congress created a skeletal organization (initially called the Keep America Out of War Committee), and made provision for state and local units.</p>
+      <p>For most of its life, the KAOWC was a coalition composed of the Socialist Party and six militant peace organizations: The Peace Section of the American Friends Service Committee; The Fellowship of Reconciliation; The World Peace Commission of the Methodist Church; The American Section of the Women's International League for Peace and Freedom; The National Council for the Prevention of War; and The War Resisters League.</p>
+      <p>One controversial aspect of the organization, given its liberal constituency, was its relationship with the America First Committee.  While opposing America First's stress upon rearmament and its silence concerning conscription, the KAOWC still welcomed its formation, accepted significant donations and co-sponsored some New York rallies.  When Charles A. Lindbergh, America First's most noted leader, gave a speech on September 11, 1941, claiming that 'Jewish groups' were among those agitating for war, the Congress governing committee strongly objected on the grounds that he was encouraging domestic intolerance.</p>
+      <p>In December of 1941, when the Japanese attacked Pearl Harbor, the KAOWC quickly dissolved.  Property was turned over to a hastily formed body, the Provisional Committee Toward a Democratic Peace, which, in early 1942, became the Post War World Council.  The new organization was created by Norman Thomas and his associates to work toward a democratic, non-imperialist peace settlement.  Thomas was committed to developing plans for peace that would prevent all future wars, promoting  international relations and universal disarmament in newsletters, editorials, press releases and letters to government officials and guiding the organization as it published pamphlets and organized conferences.  Activities slowed down in 1965 because of his failing health.  Some efforts, including a newsletter, continued until December 1967 when the organization was officially dissolved after Thomas suffered a severe stroke.</p>
+    </bioghist>
+    <prefercite id="aspace_d7e246060272a75c38d8c1e085991766">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Keep America Out of War; TAM 331; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <relatedmaterial id="aspace_ab615cdff70b34400680e893d23c6e0f">
+      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+      <p>Oral History of the American Left: Radical Histories Collection, Interviews with Alice Dodge Wolfson and Fay Bennet. (OH 002)   </p>
+      <p>Daniel Bell Research Files on US Communism, Socialism, and the Labor Movement. (TAM 080)</p>
+      <p>Norman Thomas Papers (TAM 423)</p>
+      <p>Sources:  
+The Swarthmore College Peace Collection holds records of both the Keep America Out of War Congress, 1938-1942 (Collection CDG-A) and the Post War World Council, 1942-1967 (Collection DG 062).</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_dd34c13ba0b9bf88992858ae729ead5e">
+      <head>Scope and Content Note</head>
+      <p>The majority of items within this collection relate to the Keep America Out of War Congress. Included are a small amount of correspondence, minutes of several governing committee meetings and internal memoranda.  There are two receipt books (October 1941 through February 1942) that reflect contributions, membership dues, and purchases of publications and event tickets. Many annotations have been made on the duplicate receipts. In addition, a card file contains member names and addresses, pledges, payment of dues, some descriptions of the individuals (e.g. job, age), comments about correspondence, special requests, event attendance and various other notations. Many topical files are included, touching on such subjects as "Anti-Nazi Activities and Unrest in Europe," "Labor and War," "Post War Problems," "Wiretapping," and "What War Would Do to America." The files contain articles, newspaper clippings, speeches, correspondence, press releases, newsletters, pamphlets, excerpts from <emph render="italic">The Congressional Record</emph>, bulletins and notes. </p>
+      <p>There is a relatively small amount of material associated with the Post War World Council, including correspondence, descriptive fliers and pamphlets on topics such as peacetime conscription, world federation, international cartels and world peace, disarmament and self-determination for Puerto Rico.</p>
+      <p>The items in this collection were accumulated by Alice L. Dodge (Wolfson) who served as the Organization Secretary for the Keep American Out of War Congress.</p>
+    </scopecontent>
+    <userestrict id="aspace_82781f7d628299a9290344192cad6947">
+      <head>Conditions Governing Use</head>
+      <p>Tamiment Library and Robert F. Wagner Labor Archive has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1936-1946, are expected to enter the public domain in 2066.</p>
+    </userestrict>
+    <controlaccess>
+      <genreform source="aat">Minutes (administrative records)</genreform>
+      <genreform source="aat">Pamphlets.</genreform>
+      <genreform source="aat">Membership lists.</genreform>
+      <subject source="lcsh">Socialism -- United States.</subject>
+      <genreform source="aat">Press releases.</genreform>
+      <subject source="lcsh">Peace movements -- United States.</subject>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Notes.</genreform>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <subject source="lcsh">World War, 1939-1945.</subject>
+      <genreform source="aat">Brochures.</genreform>
+      <genreform source="aat">Circulars (fliers)</genreform>
+      <genreform source="aat">Card files.</genreform>
+      <genreform source="aat">Bulletins.</genreform>
+      <subject source="lcsh">Pacifists |z United States.</subject>
       <persname role="dnr" source="naf">Dodge, Alice L.</persname>
-    </origination>
-    <origination label="Creator">
       <corpname authfilenumber="(lccn)n90662975" source="naf">Keep America Out of War Congress</corpname>
-    </origination>
-    <unitid>TAM.331</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
-      <extent altrender="carrier">In 1 record carton and 2 oversize flat boxes.</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1936/1946" type="inclusive">1936-1946</unitdate>
-    <abstract id="aspace_9e42433c02328ab5cd0a280364ce492f" label="Abstract">Initiated in March of 1938, the Keep America Out of War Congress was a pacifist-socialist coalition whose goal was to preserve and strengthen the anti-war movement.  After the attack on Pearl Harbor in December 1941, the group dissolved and briefly became the Provisional Committee Toward a Democratic Peace.  In early 1942 it was reorganized into the Post War World Council.  This collection contains membership cards and mailing lists, correspondence, meeting minutes, topical files on various pertinent subjects, receipt books and a number of pamphlets published by the organizations.</abstract>
-    <langmaterial id="aspace_b4c5b0bed94e6a3820e3a1f00f00cbe1">Materials are in English</langmaterial>
-  </did>
-  <accessrestrict id="aspace_d9e5f1ab2713f26e6d2a38ce8a1232fe">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_22dbb335570f1d8146c61de6dc3f26fb">
-    <head>Immediate Source of Acquisition</head>
-<p>Materials donated by Alice Dodge Wolfson in 2001. The accession number associated with this gift is 2001.207.</p>  </acqinfo>
-  <arrangement id="aspace_7ef2553940ca6f417fc93711a7aa37ed">
-    <head>Arrangement</head>
-<p>Folders are arranged alphabetically within one series:</p>    <list type="ordered">
-      <head>Missing Title</head>
-      <item>Series I: Keep America Out of War Congress and Subsequent Organizations, 1936-1946.</item>
-    </list>
-  </arrangement>
-  <bioghist id="aspace_b127e81b3863597aaf2803ff99cdaa39">
-    <head>Historical/Biographical Note</head>
-<p>The Keep America Out of War Congress (KAOWC) was officially founded at a rally held on March 6, 1938, in the New York Hippodrome.  The host and sponsor was the Socialist Party, and the chairman, veteran pacifist reformer Oswald Garrison Villard.  Speakers included Robert M. LaFollette Jr., socialist leader Norman Thomas and columnist John T. Flynn.  The national platform called for withdrawal from such 'imperialist' involvement as the stationing of American ships and marines in China's war zones; the scrapping of plans for industrial mobilization, conscription, and foreign alliances; the termination of war trade; and national adoption of a war referendum.  The Congress created a skeletal organization (initially called the Keep America Out of War Committee), and made provision for state and local units.</p><p>For most of its life, the KAOWC was a coalition composed of the Socialist Party and six militant peace organizations: The Peace Section of the American Friends Service Committee; The Fellowship of Reconciliation; The World Peace Commission of the Methodist Church; The American Section of the Women's International League for Peace and Freedom; The National Council for the Prevention of War; and The War Resisters League.</p><p>One controversial aspect of the organization, given its liberal constituency, was its relationship with the America First Committee.  While opposing America First's stress upon rearmament and its silence concerning conscription, the KAOWC still welcomed its formation, accepted significant donations and co-sponsored some New York rallies.  When Charles A. Lindbergh, America First's most noted leader, gave a speech on September 11, 1941, claiming that 'Jewish groups' were among those agitating for war, the Congress governing committee strongly objected on the grounds that he was encouraging domestic intolerance.</p><p>In December of 1941, when the Japanese attacked Pearl Harbor, the KAOWC quickly dissolved.  Property was turned over to a hastily formed body, the Provisional Committee Toward a Democratic Peace, which, in early 1942, became the Post War World Council.  The new organization was created by Norman Thomas and his associates to work toward a democratic, non-imperialist peace settlement.  Thomas was committed to developing plans for peace that would prevent all future wars, promoting  international relations and universal disarmament in newsletters, editorials, press releases and letters to government officials and guiding the organization as it published pamphlets and organized conferences.  Activities slowed down in 1965 because of his failing health.  Some efforts, including a newsletter, continued until December 1967 when the organization was officially dissolved after Thomas suffered a severe stroke.</p>  </bioghist>
-  <prefercite id="aspace_d7e246060272a75c38d8c1e085991766">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Keep America Out of War; TAM 331; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <relatedmaterial id="aspace_ab615cdff70b34400680e893d23c6e0f">
-    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-<p>Oral History of the American Left: Radical Histories Collection, Interviews with Alice Dodge Wolfson and Fay Bennet. (OH 002)   </p><p>Daniel Bell Research Files on US Communism, Socialism, and the Labor Movement. (TAM 080)</p><p>Norman Thomas Papers (TAM 423)</p><p>Sources:  
-The Swarthmore College Peace Collection holds records of both the Keep America Out of War Congress, 1938-1942 (Collection CDG-A) and the Post War World Council, 1942-1967 (Collection DG 062).</p>  </relatedmaterial>
-  <scopecontent id="aspace_dd34c13ba0b9bf88992858ae729ead5e">
-    <head>Scope and Content Note</head>
-<p>The majority of items within this collection relate to the Keep America Out of War Congress. Included are a small amount of correspondence, minutes of several governing committee meetings and internal memoranda.  There are two receipt books (October 1941 through February 1942) that reflect contributions, membership dues, and purchases of publications and event tickets. Many annotations have been made on the duplicate receipts. In addition, a card file contains member names and addresses, pledges, payment of dues, some descriptions of the individuals (e.g. job, age), comments about correspondence, special requests, event attendance and various other notations. Many topical files are included, touching on such subjects as "Anti-Nazi Activities and Unrest in Europe," "Labor and War," "Post War Problems," "Wiretapping," and "What War Would Do to America." The files contain articles, newspaper clippings, speeches, correspondence, press releases, newsletters, pamphlets, excerpts from <emph render="italic">The Congressional Record</emph>, bulletins and notes. </p><p>There is a relatively small amount of material associated with the Post War World Council, including correspondence, descriptive fliers and pamphlets on topics such as peacetime conscription, world federation, international cartels and world peace, disarmament and self-determination for Puerto Rico.</p><p>The items in this collection were accumulated by Alice L. Dodge (Wolfson) who served as the Organization Secretary for the Keep American Out of War Congress.</p>  </scopecontent>
-  <userestrict id="aspace_82781f7d628299a9290344192cad6947">
-    <head>Conditions Governing Use</head>
-<p>Tamiment Library and Robert F. Wagner Labor Archive has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1936-1946, are expected to enter the public domain in 2066.</p>  </userestrict>
-  <controlaccess>
-    <genreform source="aat">Minutes (administrative records)</genreform>
-    <genreform source="aat">Pamphlets.</genreform>
-    <genreform source="aat">Membership lists.</genreform>
-    <subject source="lcsh">Socialism -- United States.</subject>
-    <genreform source="aat">Press releases.</genreform>
-    <subject source="lcsh">Peace movements -- United States.</subject>
-    <genreform source="aat">Correspondence.</genreform>
-    <genreform source="aat">Notes.</genreform>
-    <genreform source="aat">Clippings (information artifacts)</genreform>
-    <subject source="lcsh">World War, 1939-1945.</subject>
-    <genreform source="aat">Brochures.</genreform>
-    <genreform source="aat">Circulars (fliers)</genreform>
-    <genreform source="aat">Card files.</genreform>
-    <genreform source="aat">Bulletins.</genreform>
-    <subject source="lcsh">Pacifists |z United States.</subject>
-    <persname role="dnr" source="naf">Dodge, Alice L.</persname>
-    <corpname authfilenumber="(lccn)n90662975" source="naf">Keep America Out of War Congress</corpname>
-    <corpname authfilenumber="(lccn)n88116780" source="naf">America First Committee</corpname>
-    <corpname authfilenumber="(lccn)n90691369" source="naf">Post War World Council</corpname>
-    <corpname authfilenumber="(lccn)n90691365" source="naf">Provisional Committee Toward a Democratic Peace</corpname>
-    <persname source="naf">Thomas, Norman, 1884-1968</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref2" level="series"><did><unittitle>Series I: Keep America Out of War Congress and Successor Organizations, 1936-1946.</unittitle><unitdate datechar="creation" normal="1936/1946" type="inclusive">1936-1946</unitdate></did><c id="aspace_ref3" level="file"><did><unittitle>Keep America Out of War Congress </unittitle><unitdate datechar="creation">1939-1940, undated</unitdate><container altrender="Record carton" id="aspace_5a2e1471afc746b05de6514617230f22" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_04fedae800f2881dc81dd9c8c907cdbe" parent="aspace_5a2e1471afc746b05de6514617230f22" type="Folder">1</container></did></c><c id="aspace_ref4" level="file"><did><unittitle>Keep America Out of War Congress: Card File - Members, Addresses, Dues and Contributions, Notes (I)</unittitle><unitdate datechar="creation" normal="1938/1941" type="inclusive">1938-1941</unitdate><container altrender="Card Box - 6.5" id="aspace_784d80b5c347824a502f86ddd7288815" label="Mixed Materials [31142054617173]" type="Box">2</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>Keep America Out of War Congress: Card File - Members, Addresses, Dues and Contributions, Notes (II)</unittitle><unitdate datechar="creation" normal="1938/1941" type="inclusive">1938-1941</unitdate><container altrender="Card Box - 6.5" id="aspace_105b58741b065e04c2a880557477b096" label="Mixed Materials [31142054617181]" type="Box">3</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Keep America Out of War Congress: Duplicate Receipts</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">Oct 14, 1941 - Dec 3, 1941</unitdate><container altrender="Record carton" id="aspace_e5fb33177f932ec265ee4b38666c93a8" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_be3970730648a1fad8b9d755168f6e96" parent="aspace_e5fb33177f932ec265ee4b38666c93a8" type="Folder">2</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Keep America Out of War Congress: Duplicate Receipts ( Provisional Committee Toward a Democratic Peace begins at Jan 12, 1942)</unittitle><unitdate datechar="creation" normal="1941/1942" type="inclusive">Dec 3, 1941 - Feb 25, 1942</unitdate><container altrender="Record carton" id="aspace_4044d613986fa3d6aa36e97eaf292d27" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_d26c4e416c24eaa04bb8519ac15e7e52" parent="aspace_4044d613986fa3d6aa36e97eaf292d27" type="Folder">3</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - Anti-Labor Legislation</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Record carton" id="aspace_af62d08cbaa794fe2a38ffdb02ac6014" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_87a521f713fab1ee9ee247aaf83bfd7e" parent="aspace_af62d08cbaa794fe2a38ffdb02ac6014" type="Folder">4</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - Anti-Nazi Activities and Unrest in Europe</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Record carton" id="aspace_690fe14e3920eda58390b7220ba0c199" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_3c50f59873f83e27f663f6b48f82ce09" parent="aspace_690fe14e3920eda58390b7220ba0c199" type="Folder">5</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - Army Morale</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Record carton" id="aspace_ca8bb0fce4bbf4e950733a9a741f2f2f" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_517f597a84f0ae2edb09697a6a22929a" parent="aspace_ca8bb0fce4bbf4e950733a9a741f2f2f" type="Folder">6</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - Britain and War</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Record carton" id="aspace_87eee2e69c6a73f8c4ff33af2eb20252" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_656f545386ff3c8df51f93f3a2be4655" parent="aspace_87eee2e69c6a73f8c4ff33af2eb20252" type="Folder">7</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - Causes of Entry into Last War</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Record carton" id="aspace_442c3dd1670b8e10cfd7ea3f2e411b0d" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_ec8b4da12cf328864e7377eb35c51039" parent="aspace_442c3dd1670b8e10cfd7ea3f2e411b0d" type="Folder">8</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - Eight Points</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Record carton" id="aspace_71ef46738a1cdaf511fc4a2e7a51fc35" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_a91ac63819c8350de8d207e505172841" parent="aspace_71ef46738a1cdaf511fc4a2e7a51fc35" type="Folder">9</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - Farmers</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Record carton" id="aspace_fde5b98b91b2bdd30ef3e9b954e5ea3b" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_3051c1877410cb5bdd9a86876c9ae4a7" parent="aspace_fde5b98b91b2bdd30ef3e9b954e5ea3b" type="Folder">10</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - Food for Europe</unittitle><unitdate datechar="creation" normal="1940/1941" type="inclusive">1940-1941</unitdate><container altrender="Record carton" id="aspace_6d3fed9c36528f6c47582c923f369e98" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_8ee4cafe2abb83f85ea69c829d8a75a9" parent="aspace_6d3fed9c36528f6c47582c923f369e98" type="Folder">11</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - Impossibility of Invasion</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Record carton" id="aspace_4e2979fe37d323dd85936bb0ad46e7cd" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_ed79882fb873a47199972800fb340530" parent="aspace_4e2979fe37d323dd85936bb0ad46e7cd" type="Folder">12</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - India</unittitle><unitdate datechar="creation" normal="1940/1941" type="inclusive">1940-1941</unitdate><container altrender="Record carton" id="aspace_2f7992df425b92ff0dc4445a712bf865" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_9048abc7d7d984930a64579ae2b00fb3" parent="aspace_2f7992df425b92ff0dc4445a712bf865" type="Folder">13</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - Inflation</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Record carton" id="aspace_8c4fcab6678dc3b5cb51edb826f072fe" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_56c6d69d08018ea46a29ab37db98934a" parent="aspace_8c4fcab6678dc3b5cb51edb826f072fe" type="Folder">14</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - Japan</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Record carton" id="aspace_48c1a5603d48873321bbbeb8b7e086e5" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_866001ef1e16f58dea613e2341e8ed0f" parent="aspace_48c1a5603d48873321bbbeb8b7e086e5" type="Folder">15</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - Labor and War</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Record carton" id="aspace_11158b7fd05c4ccb19a8f170d9af8e13" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_a78d9dfbafb2c01876347ae22c721d19" parent="aspace_11158b7fd05c4ccb19a8f170d9af8e13" type="Folder">16</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - Local Notes</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Record carton" id="aspace_95bd2ea0da761fe900360e79dd1192f3" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_8554757d50a5e4d642b989d0b67a7817" parent="aspace_95bd2ea0da761fe900360e79dd1192f3" type="Folder">17</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - Negroes</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Record carton" id="aspace_5f36b8860299f4ce231f6c93272c30b5" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_49acef9ed5d8c637eca715a9f1b22355" parent="aspace_5f36b8860299f4ce231f6c93272c30b5" type="Folder">18</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - Neutrality Campaign, Ship Sinkings and Roosevelt's May Day Speech</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Record carton" id="aspace_40fbb7e31a50339ca028d740c17d9547" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_18747ee8aacf9cd4b9b59e1afeff1f93" parent="aspace_40fbb7e31a50339ca028d740c17d9547" type="Folder">19</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - Organizational Suggestions and Actions</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Record carton" id="aspace_1b051a67f21ac4f38475980c9d17e7c8" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_3c935eaa4a18d70eb4a80e4e42c88d33" parent="aspace_1b051a67f21ac4f38475980c9d17e7c8" type="Folder">20</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - Peace Offensive</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Record carton" id="aspace_3f44bdb01ff9e814f2b2c80db2967423" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_6d12c48b9a9a5ec6e14649e0615dde06" parent="aspace_3f44bdb01ff9e814f2b2c80db2967423" type="Folder">21</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - Post War Problems</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Record carton" id="aspace_6ffacdcce775cdb10343cb9071eb8fcc" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_231dbda3bdbceb1a17a64ac8dfe5c709" parent="aspace_6ffacdcce775cdb10343cb9071eb8fcc" type="Folder">22</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - Priority Unemployment</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Record carton" id="aspace_3e8a88fed0aca14b00d0c168cb65b185" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_f17a7704b202be0ea2dc49135277d643" parent="aspace_3e8a88fed0aca14b00d0c168cb65b185" type="Folder">23</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - Roosevelt (FDR) Quotes</unittitle><unitdate datechar="creation" normal="1936/1941" type="inclusive">1936-1941</unitdate><container altrender="Record carton" id="aspace_bb3ba0e75a852c401352fc03943d5e71" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_5489901ab64918867c887d8625285caa" parent="aspace_bb3ba0e75a852c401352fc03943d5e71" type="Folder">24</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - Smear Campaign</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Record carton" id="aspace_d04fb053216e2141ade798c2600bba2c" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_ec91c85c2b4bbc8d941b0ef44488ec5e" parent="aspace_d04fb053216e2141ade798c2600bba2c" type="Folder">25</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - Social Security Revision</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Record carton" id="aspace_63d253eb23855bc150d1449d50a454c6" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_21d4e5d6d479786ea8467b73a7a1f07e" parent="aspace_63d253eb23855bc150d1449d50a454c6" type="Folder">26</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - Taxation, Profits and Cost of Living</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Record carton" id="aspace_fb0bdce5d4daf101c31783386bedf3e7" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_151e9a47e27571b688e3f620aef1ee54" parent="aspace_fb0bdce5d4daf101c31783386bedf3e7" type="Folder">27</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - US Raw Materials to the Axis</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Record carton" id="aspace_63b2d4a8ecff84938be722f5eb248c0e" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_c6af4d480dba6ba3bd0932580b9802a4" parent="aspace_63b2d4a8ecff84938be722f5eb248c0e" type="Folder">28</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - Various Anti-War Items</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Record carton" id="aspace_aa616c595a96d492869762441027a88a" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_029806d412806656b22dbeccd7a32da3" parent="aspace_aa616c595a96d492869762441027a88a" type="Folder">29</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - War Aims, Britain During and After the War</unittitle><unitdate datechar="creation" normal="1940/1941" type="inclusive">1940-1941</unitdate><container altrender="Record carton" id="aspace_ec431a3cfb70f0fa89897104486c531a" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_f45fb9945aa2f24d9eec5ab7e3717e73" parent="aspace_ec431a3cfb70f0fa89897104486c531a" type="Folder">30</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - War and Foreign Trade</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Record carton" id="aspace_f7f9f319bac8791594e956571fa0b52f" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_5bef1765a1c58ebad625bf232762e829" parent="aspace_f7f9f319bac8791594e956571fa0b52f" type="Folder">31</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - War Economy and Armament Economics</unittitle><unitdate datechar="creation" normal="1940/1941" type="inclusive">1940-1941</unitdate><container altrender="Record carton" id="aspace_42546bad5a1105c426788469e95f2601" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_38b28aa42a1eb9b20baae5212eeef063" parent="aspace_42546bad5a1105c426788469e95f2601" type="Folder">32</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - What Does the Peace Movement Accomplish?</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Record carton" id="aspace_9010b5dbae0f81fc1f0f39a930803538" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_e8132efdd3eaccd78ca8381a91b395a2" parent="aspace_9010b5dbae0f81fc1f0f39a930803538" type="Folder">33</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - What War Would Do to America</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Record carton" id="aspace_dc0bce49f0c58a1412f488dd1ea7b356" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_ebc99fa814bd4fb4099ce925fee28830" parent="aspace_dc0bce49f0c58a1412f488dd1ea7b356" type="Folder">34</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Keep America Out of War Congress: Subject Files - Wiretapping</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Record carton" id="aspace_c22616d0836ca6366b3498dccd819def" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_12bb36a9134915c5989d68a44ce538e8" parent="aspace_c22616d0836ca6366b3498dccd819def" type="Folder">35</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Mailing Addresses</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_6f03c9d88e721110310542992c5cedf3" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_968a89fe56fcb8443c9fa08a2af0f5cc" parent="aspace_6f03c9d88e721110310542992c5cedf3" type="Folder">36</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Post War World Council</unittitle><unitdate datechar="creation" normal="1942/1945" type="inclusive">1942-1945, undated</unitdate><container altrender="Record carton" id="aspace_7211ef4d5903615361ffd06771f3dc30" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_002ea4984847ee84cc5b6649b07459a6" parent="aspace_7211ef4d5903615361ffd06771f3dc30" type="Folder">37</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Post War World Council: Peacetime Conscription</unittitle><unitdate datechar="creation" normal="1944/1945" type="inclusive">1944-1945, undated</unitdate><container altrender="Record carton" id="aspace_f9c27f40cceffd43f867f551122e6576" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_091e2fe7dc3ea50a13c4fa7493aa2d54" parent="aspace_f9c27f40cceffd43f867f551122e6576" type="Folder">38</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Post War World Council: Pamphlets - Various Topics</unittitle><unitdate datechar="creation" normal="1942/1946" type="inclusive">1942-1946, undated</unitdate><container altrender="Record carton" id="aspace_d7b167c23dcfff727cca2b4fc805938d" label="Mixed Materials [31142054617165]" type="Box">1</container><container id="aspace_00a0b26082be4adfc57f3fd668e5e144" parent="aspace_d7b167c23dcfff727cca2b4fc805938d" type="Folder">39</container></did></c></c></dsc>
-</archdesc>
+      <corpname authfilenumber="(lccn)n88116780" source="naf">America First Committee</corpname>
+      <corpname authfilenumber="(lccn)n90691369" source="naf">Post War World Council</corpname>
+      <corpname authfilenumber="(lccn)n90691365" source="naf">Provisional Committee Toward a Democratic Peace</corpname>
+      <persname source="naf">Thomas, Norman, 1884-1968</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref2" level="series">
+        <did>
+          <unittitle>Series I: Keep America Out of War Congress and Successor Organizations, 1936-1946.</unittitle>
+          <unitdate datechar="creation" normal="1936/1946" type="inclusive">1936-1946</unitdate>
+        </did>
+        <c id="aspace_ref3" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress </unittitle>
+            <unitdate datechar="creation">1939-1940, undated</unitdate>
+            <container altrender="Record carton" id="aspace_5a2e1471afc746b05de6514617230f22" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_04fedae800f2881dc81dd9c8c907cdbe" parent="aspace_5a2e1471afc746b05de6514617230f22" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref4" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Card File - Members, Addresses, Dues and Contributions, Notes (I)</unittitle>
+            <unitdate datechar="creation" normal="1938/1941" type="inclusive">1938-1941</unitdate>
+            <container altrender="Card Box - 6.5" id="aspace_784d80b5c347824a502f86ddd7288815" label="Mixed Materials [31142054617173]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref5" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Card File - Members, Addresses, Dues and Contributions, Notes (II)</unittitle>
+            <unitdate datechar="creation" normal="1938/1941" type="inclusive">1938-1941</unitdate>
+            <container altrender="Card Box - 6.5" id="aspace_105b58741b065e04c2a880557477b096" label="Mixed Materials [31142054617181]" type="Box">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref6" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Duplicate Receipts</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">Oct 14, 1941 - Dec 3, 1941</unitdate>
+            <container altrender="Record carton" id="aspace_e5fb33177f932ec265ee4b38666c93a8" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_be3970730648a1fad8b9d755168f6e96" parent="aspace_e5fb33177f932ec265ee4b38666c93a8" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref7" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Duplicate Receipts ( Provisional Committee Toward a Democratic Peace begins at Jan 12, 1942)</unittitle>
+            <unitdate datechar="creation" normal="1941/1942" type="inclusive">Dec 3, 1941 - Feb 25, 1942</unitdate>
+            <container altrender="Record carton" id="aspace_4044d613986fa3d6aa36e97eaf292d27" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_d26c4e416c24eaa04bb8519ac15e7e52" parent="aspace_4044d613986fa3d6aa36e97eaf292d27" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref8" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - Anti-Labor Legislation</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_af62d08cbaa794fe2a38ffdb02ac6014" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_87a521f713fab1ee9ee247aaf83bfd7e" parent="aspace_af62d08cbaa794fe2a38ffdb02ac6014" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref9" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - Anti-Nazi Activities and Unrest in Europe</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_690fe14e3920eda58390b7220ba0c199" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_3c50f59873f83e27f663f6b48f82ce09" parent="aspace_690fe14e3920eda58390b7220ba0c199" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - Army Morale</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_ca8bb0fce4bbf4e950733a9a741f2f2f" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_517f597a84f0ae2edb09697a6a22929a" parent="aspace_ca8bb0fce4bbf4e950733a9a741f2f2f" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - Britain and War</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_87eee2e69c6a73f8c4ff33af2eb20252" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_656f545386ff3c8df51f93f3a2be4655" parent="aspace_87eee2e69c6a73f8c4ff33af2eb20252" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - Causes of Entry into Last War</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_442c3dd1670b8e10cfd7ea3f2e411b0d" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_ec8b4da12cf328864e7377eb35c51039" parent="aspace_442c3dd1670b8e10cfd7ea3f2e411b0d" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - Eight Points</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_71ef46738a1cdaf511fc4a2e7a51fc35" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_a91ac63819c8350de8d207e505172841" parent="aspace_71ef46738a1cdaf511fc4a2e7a51fc35" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - Farmers</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_fde5b98b91b2bdd30ef3e9b954e5ea3b" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_3051c1877410cb5bdd9a86876c9ae4a7" parent="aspace_fde5b98b91b2bdd30ef3e9b954e5ea3b" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - Food for Europe</unittitle>
+            <unitdate datechar="creation" normal="1940/1941" type="inclusive">1940-1941</unitdate>
+            <container altrender="Record carton" id="aspace_6d3fed9c36528f6c47582c923f369e98" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_8ee4cafe2abb83f85ea69c829d8a75a9" parent="aspace_6d3fed9c36528f6c47582c923f369e98" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - Impossibility of Invasion</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_4e2979fe37d323dd85936bb0ad46e7cd" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_ed79882fb873a47199972800fb340530" parent="aspace_4e2979fe37d323dd85936bb0ad46e7cd" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - India</unittitle>
+            <unitdate datechar="creation" normal="1940/1941" type="inclusive">1940-1941</unitdate>
+            <container altrender="Record carton" id="aspace_2f7992df425b92ff0dc4445a712bf865" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_9048abc7d7d984930a64579ae2b00fb3" parent="aspace_2f7992df425b92ff0dc4445a712bf865" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - Inflation</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_8c4fcab6678dc3b5cb51edb826f072fe" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_56c6d69d08018ea46a29ab37db98934a" parent="aspace_8c4fcab6678dc3b5cb51edb826f072fe" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - Japan</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_48c1a5603d48873321bbbeb8b7e086e5" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_866001ef1e16f58dea613e2341e8ed0f" parent="aspace_48c1a5603d48873321bbbeb8b7e086e5" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - Labor and War</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_11158b7fd05c4ccb19a8f170d9af8e13" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_a78d9dfbafb2c01876347ae22c721d19" parent="aspace_11158b7fd05c4ccb19a8f170d9af8e13" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - Local Notes</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_95bd2ea0da761fe900360e79dd1192f3" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_8554757d50a5e4d642b989d0b67a7817" parent="aspace_95bd2ea0da761fe900360e79dd1192f3" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - Negroes</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_5f36b8860299f4ce231f6c93272c30b5" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_49acef9ed5d8c637eca715a9f1b22355" parent="aspace_5f36b8860299f4ce231f6c93272c30b5" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - Neutrality Campaign, Ship Sinkings and Roosevelt's May Day Speech</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_40fbb7e31a50339ca028d740c17d9547" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_18747ee8aacf9cd4b9b59e1afeff1f93" parent="aspace_40fbb7e31a50339ca028d740c17d9547" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - Organizational Suggestions and Actions</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_1b051a67f21ac4f38475980c9d17e7c8" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_3c935eaa4a18d70eb4a80e4e42c88d33" parent="aspace_1b051a67f21ac4f38475980c9d17e7c8" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - Peace Offensive</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_3f44bdb01ff9e814f2b2c80db2967423" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_6d12c48b9a9a5ec6e14649e0615dde06" parent="aspace_3f44bdb01ff9e814f2b2c80db2967423" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - Post War Problems</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_6ffacdcce775cdb10343cb9071eb8fcc" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_231dbda3bdbceb1a17a64ac8dfe5c709" parent="aspace_6ffacdcce775cdb10343cb9071eb8fcc" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - Priority Unemployment</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_3e8a88fed0aca14b00d0c168cb65b185" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_f17a7704b202be0ea2dc49135277d643" parent="aspace_3e8a88fed0aca14b00d0c168cb65b185" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - Roosevelt (FDR) Quotes</unittitle>
+            <unitdate datechar="creation" normal="1936/1941" type="inclusive">1936-1941</unitdate>
+            <container altrender="Record carton" id="aspace_bb3ba0e75a852c401352fc03943d5e71" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_5489901ab64918867c887d8625285caa" parent="aspace_bb3ba0e75a852c401352fc03943d5e71" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - Smear Campaign</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_d04fb053216e2141ade798c2600bba2c" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_ec91c85c2b4bbc8d941b0ef44488ec5e" parent="aspace_d04fb053216e2141ade798c2600bba2c" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - Social Security Revision</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_63d253eb23855bc150d1449d50a454c6" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_21d4e5d6d479786ea8467b73a7a1f07e" parent="aspace_63d253eb23855bc150d1449d50a454c6" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - Taxation, Profits and Cost of Living</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_fb0bdce5d4daf101c31783386bedf3e7" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_151e9a47e27571b688e3f620aef1ee54" parent="aspace_fb0bdce5d4daf101c31783386bedf3e7" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - US Raw Materials to the Axis</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_63b2d4a8ecff84938be722f5eb248c0e" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_c6af4d480dba6ba3bd0932580b9802a4" parent="aspace_63b2d4a8ecff84938be722f5eb248c0e" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - Various Anti-War Items</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_aa616c595a96d492869762441027a88a" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_029806d412806656b22dbeccd7a32da3" parent="aspace_aa616c595a96d492869762441027a88a" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - War Aims, Britain During and After the War</unittitle>
+            <unitdate datechar="creation" normal="1940/1941" type="inclusive">1940-1941</unitdate>
+            <container altrender="Record carton" id="aspace_ec431a3cfb70f0fa89897104486c531a" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_f45fb9945aa2f24d9eec5ab7e3717e73" parent="aspace_ec431a3cfb70f0fa89897104486c531a" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - War and Foreign Trade</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_f7f9f319bac8791594e956571fa0b52f" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_5bef1765a1c58ebad625bf232762e829" parent="aspace_f7f9f319bac8791594e956571fa0b52f" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - War Economy and Armament Economics</unittitle>
+            <unitdate datechar="creation" normal="1940/1941" type="inclusive">1940-1941</unitdate>
+            <container altrender="Record carton" id="aspace_42546bad5a1105c426788469e95f2601" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_38b28aa42a1eb9b20baae5212eeef063" parent="aspace_42546bad5a1105c426788469e95f2601" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - What Does the Peace Movement Accomplish?</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_9010b5dbae0f81fc1f0f39a930803538" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_e8132efdd3eaccd78ca8381a91b395a2" parent="aspace_9010b5dbae0f81fc1f0f39a930803538" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - What War Would Do to America</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_dc0bce49f0c58a1412f488dd1ea7b356" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_ebc99fa814bd4fb4099ce925fee28830" parent="aspace_dc0bce49f0c58a1412f488dd1ea7b356" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Keep America Out of War Congress: Subject Files - Wiretapping</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_c22616d0836ca6366b3498dccd819def" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_12bb36a9134915c5989d68a44ce538e8" parent="aspace_c22616d0836ca6366b3498dccd819def" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Mailing Addresses</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_6f03c9d88e721110310542992c5cedf3" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_968a89fe56fcb8443c9fa08a2af0f5cc" parent="aspace_6f03c9d88e721110310542992c5cedf3" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Post War World Council</unittitle>
+            <unitdate datechar="creation" normal="1942/1945" type="inclusive">1942-1945, undated</unitdate>
+            <container altrender="Record carton" id="aspace_7211ef4d5903615361ffd06771f3dc30" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_002ea4984847ee84cc5b6649b07459a6" parent="aspace_7211ef4d5903615361ffd06771f3dc30" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Post War World Council: Peacetime Conscription</unittitle>
+            <unitdate datechar="creation" normal="1944/1945" type="inclusive">1944-1945, undated</unitdate>
+            <container altrender="Record carton" id="aspace_f9c27f40cceffd43f867f551122e6576" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_091e2fe7dc3ea50a13c4fa7493aa2d54" parent="aspace_f9c27f40cceffd43f867f551122e6576" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Post War World Council: Pamphlets - Various Topics</unittitle>
+            <unitdate datechar="creation" normal="1942/1946" type="inclusive">1942-1946, undated</unitdate>
+            <container altrender="Record carton" id="aspace_d7b167c23dcfff727cca2b4fc805938d" label="Mixed Materials [31142054617165]" type="Box">1</container>
+            <container id="aspace_00a0b26082be4adfc57f3fd668e5e144" parent="aspace_d7b167c23dcfff727cca2b4fc805938d" type="Folder">39</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

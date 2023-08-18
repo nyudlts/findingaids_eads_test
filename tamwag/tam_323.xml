@@ -1,72 +1,339 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_323">tam_323</eadid><filedesc><titlestmt><titleproper>Guide to the Miriam Bogorad Gittelson Papers and Photographs <num>TAM.323</num></titleproper><author>Peter Filardo</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>11/20/2010</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:14:08 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Miriam Bogorad Gittelson Papers and Photographs</unittitle>
-    <origination label="source">
-      <persname role="dnr" source="local">Gittelson, Miriam Bogorad</persname>
-    </origination>
-    <origination label="Creator">
-      <persname source="local">Gittelson, Miriam Bogorad</persname>
-    </origination>
-    <unitid>TAM.323</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
-      <extent altrender="carrier">in two manuscript boxes, one oversize flat box, and three oversize folders</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1925/1975" type="inclusive">1925-1975</unitdate>
-    <unitdate datechar="creation" normal="1930/1945" type="bulk">1930-1945</unitdate>
-    <abstract id="aspace_071f456051dae26707ab0e67854bfa28">Miriam Bogorad Gittelson (1916 – 2006), a life-long political activist, joined the Communist Party's Young Pioneers as a child and worked for left-wing and labor organizations such as the American Youth Congress, the Young Communist League, Camp Kinderland, and the Greater New York City CIO in the 1930s and 1940s.  She also pursued a lifelong interest in music, playing several instruments, singing in a Yiddish choral society, and editing, with singer-songwriter Earl Robinson, a songbook  of American ballads and American and international folk-songs.
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/tam_323">tam_323</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Miriam Bogorad Gittelson Papers and Photographs <num>TAM.323</num></titleproper>
+        <author>Peter Filardo</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>11/20/2010</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:14:08 -0400</date>.</creation>
+      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Miriam Bogorad Gittelson Papers and Photographs</unittitle>
+      <origination label="source">
+        <persname role="dnr" source="local">Gittelson, Miriam Bogorad</persname>
+      </origination>
+      <origination label="Creator">
+        <persname source="local">Gittelson, Miriam Bogorad</persname>
+      </origination>
+      <unitid>TAM.323</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+        <extent altrender="carrier">in two manuscript boxes, one oversize flat box, and three oversize folders</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1925/1975" type="inclusive">1925-1975</unitdate>
+      <unitdate datechar="creation" normal="1930/1945" type="bulk">1930-1945</unitdate>
+      <abstract id="aspace_071f456051dae26707ab0e67854bfa28">Miriam Bogorad Gittelson (1916 – 2006), a life-long political activist, joined the Communist Party's Young Pioneers as a child and worked for left-wing and labor organizations such as the American Youth Congress, the Young Communist League, Camp Kinderland, and the Greater New York City CIO in the 1930s and 1940s.  She also pursued a lifelong interest in music, playing several instruments, singing in a Yiddish choral society, and editing, with singer-songwriter Earl Robinson, a songbook  of American ballads and American and international folk-songs.
  
 The contents of this collection are largely sheet music, songsheets and scores, published and unpublished song books accumulated by Gittelson. The bulk of the materials were created or published between the early 1930s through the 1940s.  The political point of view represented in them ranges from strongly left-wing--including support for the Communist Party of the United States--to more liberal mainstream positions supporting labor unions and international cooperation.  The collection also contains photographs, including an album with snapshots of delegates attending the Second World Youth Congress in August 1938.</abstract>
-    <langmaterial id="aspace_d77309e9bdc561b1ef983dad1586a60f">Materials are in English</langmaterial>
-  </did>
-  <accessrestrict id="aspace_9c2bef6ddd99dd97aa003a6892946de4">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_ee464043c7ba57cb9107d25d58eb94b9">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Miriam B. Gittelson in 2004. The accession numbers associated with this gift are 2005.017, 2005.018, and NPA.2004.084.</p>  </acqinfo>
-  <arrangement id="aspace_3ef92af7e294bbeef064c3aa80f1c758">
-    <head>Arrangement</head>
-<p>No original order was evident when these materials were received. Materials were therefore grouped in folders with titles assigned by the processing archivist and the folders were then arranged in alphabetical order by folder title.</p>  </arrangement>
-  <bioghist id="aspace_228ab539521df179b42bf1e9b55f230d">
-    <head>Historical/Biographical Note</head>
-<p>Miriam Bogorad Gittelson (1916 – 2006) lived in Passaic, New Jersey as a child and moved to New York City as a teenager.  A  political activist from childhood, she joined Young Pioneers (a children's Communist Party organization); as a young adult she was employed by leftwing and progressive organizations. After stints in a garment shop and at a Woolworth five-and-dime store in the early 1930s, she worked as the administrative secretary for the American Youth Congress from 1935-1938.  Next, she had worked as Activities Director for the Young Communist League.  In 1941 she married Lester Gittelson, an American veteran of the Spanish Civil War, who had served in the Abraham Lincoln Brigade.  In the summer of 1943 Gittelson served as activities director and social activities director at Camp Kinderland (which she had attended as a child).  From 1943-1947 she worked as administrative assistant and then director of cultural activities for the Greater New York City CIO.  From 1951-1963, she worked as an executive secretary/personal assistant for the president of the Ideal Toy Company, where her responsibilities included helping to promote a short-lived mass-produced African American play doll, and working with nonprofit and charitable organizations.  From the company president's executive secretary she rose to become its imports director.  After her retirement from Ideal she worked as an imports consultant, and continued her involvement with progressive organizations, among them, Camp Kinderland, on whose board she served.  Gittelson also pursued a serious interest in music, particularly folk music—she played piano and accordion and belonged to a Yiddish choral society.  She also edited, with singer-songwriter Earl Robinson and others, a songbook,<emph render="italic">Songs for America -- American ballads, folk-songs, marching songs, songs of other lands</emph>, which was published in 1939 by the Workers Library Publishers (a publishing house of the Communist Party of the United States).</p>  </bioghist>
-  <prefercite id="aspace_07db9fe5bf4fe84cb65bbf237849fc60">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Miriam Bogorad Gittelson Papers and Photographs; TAM 323; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <processinfo id="aspace_84024905f23469be760095a918b10823">
-    <head>Processing Information</head>
-<p>Photographs from this collection were established as a separate collection:  Miriam Bogorad Gittelson: American Youth Congress Photographs (PHOTOS 192).  In October 2013 this collection was reincorporated into the Miriam Bogorad Gittelson Papers (now re-named the Miriam Bogorad Gittelson Papers and Photographs).  Selected fragile manuscript materials have been enclosed in mylar envelopes.</p>  </processinfo>
-  <relatedmaterial id="aspace_69d0c758d3e4e6d84af47af79f60d347">
-    <head>Related Archival Materials</head>
-<p>OH-001 - New Yorkers At Work Oral History Collection  (Taped interview with Miriam Gittelson and interview transcript)</p><p>Activist Women's Voices Oral History Project and Archive (Includes interview with Miriam Gittelson)
-City University of New York Graduate Center - Mina Rees Library - Special Collections (see: http://activistwomen.commons.gc.cuny.edu/activists/#sthash.IFGtthP8.ngURO7Tu.dpuf )</p>  </relatedmaterial>
-  <scopecontent id="aspace_b796dded0bc86c011f03a8f2adb3d317">
-    <head>Scope and Content Note</head>
-<p>This collection is largely made up of sheet music, songsheets and scores, published and unpublished song books. The bulk of the materials were created or published between the early 1930s through the 1940s, with the political point of view represented in them ranging from strongly leftwing--including support for the Communist Party of the United States--to more liberal mainstream positions supporting labor unions and international cooperation.  The progressive political concerns (including occasional political realignments), cultural interests (such as folk music and popular culture),  and the events of these times are reflected in the titles of songs, musical theater performances, and song books in the collection, such as "My Bolshevik Girl!," "Strike Me Red," "The Ballad of Tom Mooney,"  the Spanish Civil War's "No Pasaran," (the popular pro-union musical) "Pins and Needles," the anti-lynching lament  "Strange Fruit," support for the German-Soviet Nonagression Pact of 1939-1941 in "The Yanks Are Not Coming," changing to support for the Soviet Union once it joined the allied side during World War II, in  "Song of Stalingrad." Almost all the scores are without attribution; some appear to be original works, while others are arrangements or transcriptions of published songs.   Also included are a folder of unpublished sheet music by Ray and Lida Auville, a folder of songs by "Lewis Alan" (the pseudonym for Abel Meeropol), numerous published songbooks and sheet music for individual songs, a folder containing a compilation  of lyrics and a few sheets of music apparently compiled by Miriam Gittelson in connection with her work with the American Youth Congress (a number of the items in this folder are antiwar songs, probably from the period of the Nonagression Pact), an International Workers Order membership certificate for Miriam Gittleson's husband, Lester Lazarus Gittelson, and the text of "The Jewish Cultural Clubs and Societies in These Challenging Times," a radio talk by Sam Pevzner, broadcast on WBAI (New York City) in 1969.
+      <langmaterial id="aspace_d77309e9bdc561b1ef983dad1586a60f">Materials are in English</langmaterial>
+    </did>
+    <accessrestrict id="aspace_9c2bef6ddd99dd97aa003a6892946de4">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_ee464043c7ba57cb9107d25d58eb94b9">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Miriam B. Gittelson in 2004. The accession numbers associated with this gift are 2005.017, 2005.018, and NPA.2004.084.</p>
+    </acqinfo>
+    <arrangement id="aspace_3ef92af7e294bbeef064c3aa80f1c758">
+      <head>Arrangement</head>
+      <p>No original order was evident when these materials were received. Materials were therefore grouped in folders with titles assigned by the processing archivist and the folders were then arranged in alphabetical order by folder title.</p>
+    </arrangement>
+    <bioghist id="aspace_228ab539521df179b42bf1e9b55f230d">
+      <head>Historical/Biographical Note</head>
+      <p>Miriam Bogorad Gittelson (1916 – 2006) lived in Passaic, New Jersey as a child and moved to New York City as a teenager.  A  political activist from childhood, she joined Young Pioneers (a children's Communist Party organization); as a young adult she was employed by leftwing and progressive organizations. After stints in a garment shop and at a Woolworth five-and-dime store in the early 1930s, she worked as the administrative secretary for the American Youth Congress from 1935-1938.  Next, she had worked as Activities Director for the Young Communist League.  In 1941 she married Lester Gittelson, an American veteran of the Spanish Civil War, who had served in the Abraham Lincoln Brigade.  In the summer of 1943 Gittelson served as activities director and social activities director at Camp Kinderland (which she had attended as a child).  From 1943-1947 she worked as administrative assistant and then director of cultural activities for the Greater New York City CIO.  From 1951-1963, she worked as an executive secretary/personal assistant for the president of the Ideal Toy Company, where her responsibilities included helping to promote a short-lived mass-produced African American play doll, and working with nonprofit and charitable organizations.  From the company president's executive secretary she rose to become its imports director.  After her retirement from Ideal she worked as an imports consultant, and continued her involvement with progressive organizations, among them, Camp Kinderland, on whose board she served.  Gittelson also pursued a serious interest in music, particularly folk music—she played piano and accordion and belonged to a Yiddish choral society.  She also edited, with singer-songwriter Earl Robinson and others, a songbook,<emph render="italic">Songs for America -- American ballads, folk-songs, marching songs, songs of other lands</emph>, which was published in 1939 by the Workers Library Publishers (a publishing house of the Communist Party of the United States).</p>
+    </bioghist>
+    <prefercite id="aspace_07db9fe5bf4fe84cb65bbf237849fc60">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Miriam Bogorad Gittelson Papers and Photographs; TAM 323; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_84024905f23469be760095a918b10823">
+      <head>Processing Information</head>
+      <p>Photographs from this collection were established as a separate collection:  Miriam Bogorad Gittelson: American Youth Congress Photographs (PHOTOS 192).  In October 2013 this collection was reincorporated into the Miriam Bogorad Gittelson Papers (now re-named the Miriam Bogorad Gittelson Papers and Photographs).  Selected fragile manuscript materials have been enclosed in mylar envelopes.</p>
+    </processinfo>
+    <relatedmaterial id="aspace_69d0c758d3e4e6d84af47af79f60d347">
+      <head>Related Archival Materials</head>
+      <p>OH-001 - New Yorkers At Work Oral History Collection  (Taped interview with Miriam Gittelson and interview transcript)</p>
+      <p>Activist Women's Voices Oral History Project and Archive (Includes interview with Miriam Gittelson)
+City University of New York Graduate Center - Mina Rees Library - Special Collections (see: http://activistwomen.commons.gc.cuny.edu/activists/#sthash.IFGtthP8.ngURO7Tu.dpuf )</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_b796dded0bc86c011f03a8f2adb3d317">
+      <head>Scope and Content Note</head>
+      <p>This collection is largely made up of sheet music, songsheets and scores, published and unpublished song books. The bulk of the materials were created or published between the early 1930s through the 1940s, with the political point of view represented in them ranging from strongly leftwing--including support for the Communist Party of the United States--to more liberal mainstream positions supporting labor unions and international cooperation.  The progressive political concerns (including occasional political realignments), cultural interests (such as folk music and popular culture),  and the events of these times are reflected in the titles of songs, musical theater performances, and song books in the collection, such as "My Bolshevik Girl!," "Strike Me Red," "The Ballad of Tom Mooney,"  the Spanish Civil War's "No Pasaran," (the popular pro-union musical) "Pins and Needles," the anti-lynching lament  "Strange Fruit," support for the German-Soviet Nonagression Pact of 1939-1941 in "The Yanks Are Not Coming," changing to support for the Soviet Union once it joined the allied side during World War II, in  "Song of Stalingrad." Almost all the scores are without attribution; some appear to be original works, while others are arrangements or transcriptions of published songs.   Also included are a folder of unpublished sheet music by Ray and Lida Auville, a folder of songs by "Lewis Alan" (the pseudonym for Abel Meeropol), numerous published songbooks and sheet music for individual songs, a folder containing a compilation  of lyrics and a few sheets of music apparently compiled by Miriam Gittelson in connection with her work with the American Youth Congress (a number of the items in this folder are antiwar songs, probably from the period of the Nonagression Pact), an International Workers Order membership certificate for Miriam Gittleson's husband, Lester Lazarus Gittelson, and the text of "The Jewish Cultural Clubs and Societies in These Challenging Times," a radio talk by Sam Pevzner, broadcast on WBAI (New York City) in 1969.
   
-The collection also contains photographs, including an album of snapshots of international delegates attending the Second World Youth Congress (held in August of 1938, at Vassar College),  a panoramic formal group shot of several hundred delegates to the same meeting, autographed on the back by many of them with the names of their countries written next to their signatures, and an undated photograph of Howard Fast, speaking from the podium at a public event with a portion of a banner in Yiddish seen in the background.</p>  </scopecontent>
-  <userestrict id="aspace_8cab3cba4877ed2463acf2301c0f0bec">
-    <head>Conditions Governing Use</head>
-<p>Tamiment Library and Robert F. Wagner Labor Archive has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1925-1975, are expected to enter the public domain in 2095.</p>  </userestrict>
-  <controlaccess>
-    <genreform source="aat">Songs (document genre)</genreform>
-    <genreform source="lcsh">Scores.</genreform>
-    <genreform source="aat">Photographs.</genreform>
-    <subject source="lcsh">Jewish communists -- New York (State) -- New York.</subject>
-    <subject source="lcsh">Women communists |z New York (State) |z New York.</subject>
-    <subject source="lcsh">Communism and music -- United States.</subject>
-    <subject source="lcsh">Political ballads and songs -- United States.</subject>
-    <persname source="local">Auville, Lida</persname>
-    <persname source="naf">Fast, Howard, 1914-2003 -- |v Pictorial works</persname>
-    <persname source="naf">Meeropol, Abel, 1903-1986 -- Songs and music</persname>
-    <persname role="dnr" source="local">Gittelson, Miriam Bogorad</persname>
-    <persname source="local">Gittelson, Miriam Bogorad</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref9" level="file"><did><unittitle>Auville, Lida and Ray -- Unpublished Sheet Music</unittitle><unitdate datechar="creation" normal="1930/1939" type="inclusive">circa 1930-139</unitdate><container altrender="Manuscript box - Legal" id="aspace_9dbb5ededc8bf0ef32c2988b5f94e099" label="Mixed Materials [31142062730463]" type="Box">1</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Clippings - Re Marc Blitzstein and "Cradle Will Rock"</unittitle><unitdate datechar="creation" normal="1930/1939" type="inclusive">1930s</unitdate><container altrender="Manuscript box - Legal" id="aspace_443f4e3708747e448d2308958162eef6" label="Mixed Materials [31142062730463]" type="Box">1</container><container id="aspace_ff51964dc450e550404b9cb084707980" parent="aspace_443f4e3708747e448d2308958162eef6" type="Folder">2</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>International Workers Order (Lester Lazarus Gittleson's Membership Certificate)</unittitle><unitdate datechar="creation" normal="1949/1949" type="inclusive">1949 May 1</unitdate><container altrender="Manuscript box - Legal" id="aspace_64f0d41c799ad70d4e2c525e44da9a32" label="Mixed Materials [31142062730463]" type="Box">1</container><container id="aspace_a003bcd0141cb062709d0e524fd56ac4" parent="aspace_64f0d41c799ad70d4e2c525e44da9a32" type="Folder">3</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Photographs - Howard Fast speaking in front of banner written in Yiddish (ca. 1940s); Mr. and Mrs. Bogin [at] Mohegan Lake; Croton Lake, September 1925</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">3 items</extent></physdesc><unitdate datechar="creation" normal="1925/1950" type="inclusive">circa 1940, circa 1925, 1925</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_b8939c485112d289122e4e84670ff138" label="Mixed Materials [31142062730471]" type="Box">2</container><container id="aspace_1a19493aff603a30dfa8d35bf2b9b968" parent="aspace_b8939c485112d289122e4e84670ff138" type="Folder">4</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Photographs - Panoramic Group Photograph of Several Hundred Delegates to the Second World Youth Congress</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 items</extent><extent altrender="carrier">in one oversize folder</extent></physdesc><unitdate datechar="creation" normal="1938/1938" type="inclusive">August 1938 </unitdate><container altrender="Oversize Folder - 47.75 x 8.9" id="aspace_b46bb5083cb14cb6a7842416b56e2d92" label="Mixed Materials [31142062666774]" type="Flat-File-Folder">1, Tray 1</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Photographs - Photograph Album (Mainly of Second World Youth Congress, August 1938)</unittitle><unitdate datechar="creation" normal="1936/1938" type="inclusive">1936, 1937, August 1938</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_bb0cec980f6aa21b9bb8cda3004a185a" label="Mixed Materials [31142062730471]" type="Box">2</container><container id="aspace_3db5ff662934f1c14717dea21cfbfc18" parent="aspace_bb0cec980f6aa21b9bb8cda3004a185a" type="Folder">5</container><container altrender="Flat Box 11.75 x 15.5 - thin" id="aspace_441d62462dcc548a1ea00439f06770d6" label="Mixed Materials [31142062667236]" type="Box">3</container></did><phystech id="aspace_4a13d0a188794145ccac602707ec14f1"><head>Physical Characteristics and Technical Requirements</head><p>This photograph album has been removed to preserve it.  Researchers are asked to use the reference photocopies made of the items within it instead of using the fragile original.</p></phystech></c><c id="aspace_ref21" level="file"><did><unittitle>Photographs - Reference Photocopy of Photograph Album (Mainly of Second World Youth Congress, August 1938)</unittitle><unitdate datechar="creation" normal="1936/1938" type="inclusive">1936, 1937, August 1938</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_4fc3d12a74de8b3afda681af037d92c9" label="Mixed Materials [31142062730471]" type="Box">2</container><container id="aspace_95f1dd5938c3afaf5c3bd69a41bada30" parent="aspace_4fc3d12a74de8b3afda681af037d92c9" type="Folder">6</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Pierre Degeyter Music Club and Composers Collective - Resolution; Sheet Music</unittitle><unitdate datechar="creation" normal="1930/1939" type="inclusive">1935, circa 1930s</unitdate><container altrender="Manuscript box - Legal" id="aspace_cf0fce39a2a1cb59d4ae674943b14079" label="Mixed Materials [31142062730463]" type="Box">1</container><container id="aspace_29cc5a6d386bff26d877c8f2e48e7b73" parent="aspace_cf0fce39a2a1cb59d4ae674943b14079" type="Folder">4</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>"Pulling the Strings - A Handbook of Puppetry" (published by the Junior Section of the International Workers Order)</unittitle><unitdate datechar="creation" normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Legal" id="aspace_4bc61b15bbfd76c3ad827038c7ea9bfd" label="Mixed Materials [31142062730463]" type="Box">1</container><container id="aspace_1f3bf15cbeb552fe8d2214114515871a" parent="aspace_4bc61b15bbfd76c3ad827038c7ea9bfd" type="Folder">5</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Score for Operetta "Strike Me Red"</unittitle><unitdate datechar="creation" normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Legal" id="aspace_380b9be1c83cbd49fc69c0a964bc64d4" label="Mixed Materials [31142062730463]" type="Box">1</container><container id="aspace_cbd3d395ae79cb5070112c4962145592" parent="aspace_380b9be1c83cbd49fc69c0a964bc64d4" type="Folder">6</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Scores (Handwritten, Including Instrumental and Voice Parts) for Different Songs for Musical Theater Performance(s?)</unittitle><unitdate datechar="creation" normal="1930/1945" type="inclusive">circa 1930-1945</unitdate><container altrender="Flat OS Box 17" id="aspace_b3be7c8a89686d08c66c12c5ddbe6f58" label="Mixed Materials [31142062759934]" type="Box">Shared Tamiment MSOS004</container><container id="aspace_6c1c124ba590545a9ff041bf72f7887a" parent="aspace_b3be7c8a89686d08c66c12c5ddbe6f58" type="Folder">1</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Script for "Let's Get Together - A Musical Play With Satirical Interludes"</unittitle><unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_4723f6091fddc1b50fbd6fcd4f682021" label="Mixed Materials [31142062730463]" type="Box">1</container><container id="aspace_3b60862c7d831dcdc8e5969895def191" parent="aspace_4723f6091fddc1b50fbd6fcd4f682021" type="Folder">7</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Scripts of Plays Published by The National Conference of Christians and Jews, "[for] Performances for Radio, School Assemblies. and Church and Club Groups"</unittitle><unitdate datechar="creation" normal="1950/1960" type="inclusive">circa 1950s</unitdate><container altrender="Manuscript box - Legal" id="aspace_1bb3da7a860cebc390122b9ef4c6edc0" label="Mixed Materials [31142062730463]" type="Box">1</container><container id="aspace_b9966be52dc31b86172bce457583ce87" parent="aspace_1bb3da7a860cebc390122b9ef4c6edc0" type="Folder">8</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Sheet Music and Song Sheets - American Youth Congress</unittitle><unitdate datechar="creation" normal="1935/1940" type="inclusive">circa 1935-1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_de8fa9cc256cf2da42ea6bf71f639b1d" label="Mixed Materials [31142062730463]" type="Box">1</container><container id="aspace_f571fec8e7e82ad8a03dd22cd1e058d0" parent="aspace_de8fa9cc256cf2da42ea6bf71f639b1d" type="Folder">9</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Sheet Music and Song Sheets – By Title, A through S </unittitle><unitdate datechar="creation" normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Manuscript box - Legal" id="aspace_76edce2a55a732703926977fced255dc" label="Mixed Materials [31142062730463]" type="Box">1</container><container id="aspace_b88ae13529696b93c5b7f0b065840494" parent="aspace_76edce2a55a732703926977fced255dc" type="Folder">10</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Sheet Music and Song Sheets – By Title, S through Y </unittitle><unitdate datechar="creation" normal="1930/1959" type="inclusive">1930s-1950s</unitdate><container altrender="Manuscript box - Legal" id="aspace_2b0feebbd3202d1b5e6108aa2b027c01" label="Mixed Materials [31142062730463]" type="Box">1</container><container id="aspace_0f8eb565b7591c008255c48e5f523dd6" parent="aspace_2b0feebbd3202d1b5e6108aa2b027c01" type="Folder">11</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Sheet Music and Song Sheets for "Brotherhood Songs"</unittitle><unitdate datechar="creation" normal="1930/1949" type="inclusive">1930s-1940s</unitdate><container altrender="Manuscript box - Legal" id="aspace_450874705520c4fe04f279a8f90c709a" label="Mixed Materials [31142062730463]" type="Box">1</container><container id="aspace_4a4ab2b20034e4173ad1bdfa6c4948bc" parent="aspace_450874705520c4fe04f279a8f90c709a" type="Folder">12</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Sheet Music and Song Sheets – Re Spanish Civil War</unittitle><unitdate datechar="creation" normal="1937/1950" type="inclusive">circa 1937-1950</unitdate><container altrender="Manuscript box - Legal" id="aspace_5df622b83e6d32535bfcc83752544235" label="Mixed Materials [31142062730463]" type="Box">1</container><container id="aspace_c90f84ad7bd28cbd569c4f66606b77d8" parent="aspace_5df622b83e6d32535bfcc83752544235" type="Folder">13</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Sheet Music - Handwritten</unittitle><unitdate datechar="creation" normal="1930/1939" type="inclusive">circa 1930s</unitdate><container altrender="Flat OS Box 17" id="aspace_6f0560488f1346e258ce9bdda5c7459a" label="Mixed Materials [31142062759934]" type="Box">Shared Tamiment MSOS004</container><container id="aspace_79e33bab90b0db4a7d71806f4f43136c" parent="aspace_6f0560488f1346e258ce9bdda5c7459a" type="Folder">2</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Sheet Music – Individual Songs from "Pins and Needles" Musical </unittitle><unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_73c399f2a165d6ffdae09cb613e7fdbe" label="Mixed Materials [31142062730463]" type="Box">1</container><container id="aspace_6e4af3e4dc2028ee3711d9635e5a64e0" parent="aspace_73c399f2a165d6ffdae09cb613e7fdbe" type="Folder">14</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Sheet Music – Songs by Lewis Alan (pseudonym for Abel Meeropol)</unittitle><unitdate datechar="creation" normal="1939/1940" type="inclusive">1939-1940, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_2e3835570c059fdbd0b959d73d1fbd1b" label="Mixed Materials [31142062730463]" type="Box">1</container><container id="aspace_72a526f328dc02468c831ddd9fcede69" parent="aspace_2e3835570c059fdbd0b959d73d1fbd1b" type="Folder">15</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Sheet Music – "Songs for Political Action"</unittitle><unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_2118e13335e7a86006021dabab391ab3" label="Mixed Materials [31142062730463]" type="Box">1</container><container id="aspace_82a5b520c3e1cb0f570ae03c4bf14cb5" parent="aspace_2118e13335e7a86006021dabab391ab3" type="Folder">16</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Songbook and Songsheet for Henry Wallace Presidential Campaign</unittitle><unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate><container altrender="Manuscript box - Legal" id="aspace_6e3ba6bea1992fc84b9e90a1a01b37ce" label="Mixed Materials [31142062730463]" type="Box">1</container><container id="aspace_2927cb7d9ee53862b26f1d13621c44a3" parent="aspace_6e3ba6bea1992fc84b9e90a1a01b37ce" type="Folder">17</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Songbooks - By Title, A through S</unittitle><unitdate datechar="creation" normal="1933/1973" type="inclusive">1933,1935,1940,1973, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_dd0207e9f287ac2c8691f38d5a79417f" label="Mixed Materials [31142062730463]" type="Box">1</container><container id="aspace_4d12a9da6b9531dcf94515d95cc45833" parent="aspace_dd0207e9f287ac2c8691f38d5a79417f" type="Folder">18</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Songbooks - By Title, S through Y</unittitle><unitdate datechar="creation" normal="1935/1975" type="inclusive">1935-1940, 1975</unitdate><unitdate datechar="creation" normal="1935/1940" type="bulk">1935-1940</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_969de26f5e5f617ed3cdd41679676be0" label="Mixed Materials [31142062730471]" type="Box">2</container><container id="aspace_d99a2b1eb6dd1c8b5ee48bbb2f1f5639" parent="aspace_969de26f5e5f617ed3cdd41679676be0" type="Folder">1</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Songbooks – Title Unknown</unittitle><container altrender="Manuscript box - Legal - Half" id="aspace_922cbec27afc93a3a0169e94783bbdfd" label="Mixed Materials [31142062730471]" type="Box">2</container><container id="aspace_e4aba7d1a0aa807a219f95999af1a40a" parent="aspace_922cbec27afc93a3a0169e94783bbdfd" type="Folder">2</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Text of Talk by Sam Pevzner,"Jewish Cultural Clubs and Societies in These Challenging Times," Broadcast on Radio Station WBAI (New York City)</unittitle><unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_4b9903a0537c1037c5254501759c6325" label="Mixed Materials [31142062730471]" type="Box">2</container><container id="aspace_825ef424fba76817fe1bc34e01455a9b" parent="aspace_4b9903a0537c1037c5254501759c6325" type="Folder">3</container></did></c></dsc>
-</archdesc>
+The collection also contains photographs, including an album of snapshots of international delegates attending the Second World Youth Congress (held in August of 1938, at Vassar College),  a panoramic formal group shot of several hundred delegates to the same meeting, autographed on the back by many of them with the names of their countries written next to their signatures, and an undated photograph of Howard Fast, speaking from the podium at a public event with a portion of a banner in Yiddish seen in the background.</p>
+    </scopecontent>
+    <userestrict id="aspace_8cab3cba4877ed2463acf2301c0f0bec">
+      <head>Conditions Governing Use</head>
+      <p>Tamiment Library and Robert F. Wagner Labor Archive has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1925-1975, are expected to enter the public domain in 2095.</p>
+    </userestrict>
+    <controlaccess>
+      <genreform source="aat">Songs (document genre)</genreform>
+      <genreform source="lcsh">Scores.</genreform>
+      <genreform source="aat">Photographs.</genreform>
+      <subject source="lcsh">Jewish communists -- New York (State) -- New York.</subject>
+      <subject source="lcsh">Women communists |z New York (State) |z New York.</subject>
+      <subject source="lcsh">Communism and music -- United States.</subject>
+      <subject source="lcsh">Political ballads and songs -- United States.</subject>
+      <persname source="local">Auville, Lida</persname>
+      <persname source="naf">Fast, Howard, 1914-2003 -- |v Pictorial works</persname>
+      <persname source="naf">Meeropol, Abel, 1903-1986 -- Songs and music</persname>
+      <persname role="dnr" source="local">Gittelson, Miriam Bogorad</persname>
+      <persname source="local">Gittelson, Miriam Bogorad</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref9" level="file">
+        <did>
+          <unittitle>Auville, Lida and Ray -- Unpublished Sheet Music</unittitle>
+          <unitdate datechar="creation" normal="1930/1939" type="inclusive">circa 1930-139</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9dbb5ededc8bf0ef32c2988b5f94e099" label="Mixed Materials [31142062730463]" type="Box">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref10" level="file">
+        <did>
+          <unittitle>Clippings - Re Marc Blitzstein and "Cradle Will Rock"</unittitle>
+          <unitdate datechar="creation" normal="1930/1939" type="inclusive">1930s</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_443f4e3708747e448d2308958162eef6" label="Mixed Materials [31142062730463]" type="Box">1</container>
+          <container id="aspace_ff51964dc450e550404b9cb084707980" parent="aspace_443f4e3708747e448d2308958162eef6" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref11" level="file">
+        <did>
+          <unittitle>International Workers Order (Lester Lazarus Gittleson's Membership Certificate)</unittitle>
+          <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949 May 1</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_64f0d41c799ad70d4e2c525e44da9a32" label="Mixed Materials [31142062730463]" type="Box">1</container>
+          <container id="aspace_a003bcd0141cb062709d0e524fd56ac4" parent="aspace_64f0d41c799ad70d4e2c525e44da9a32" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref37" level="file">
+        <did>
+          <unittitle>Photographs - Howard Fast speaking in front of banner written in Yiddish (ca. 1940s); Mr. and Mrs. Bogin [at] Mohegan Lake; Croton Lake, September 1925</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">3 items</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1925/1950" type="inclusive">circa 1940, circa 1925, 1925</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_b8939c485112d289122e4e84670ff138" label="Mixed Materials [31142062730471]" type="Box">2</container>
+          <container id="aspace_1a19493aff603a30dfa8d35bf2b9b968" parent="aspace_b8939c485112d289122e4e84670ff138" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref22" level="file">
+        <did>
+          <unittitle>Photographs - Panoramic Group Photograph of Several Hundred Delegates to the Second World Youth Congress</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 items</extent>
+            <extent altrender="carrier">in one oversize folder</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1938/1938" type="inclusive">August 1938 </unitdate>
+          <container altrender="Oversize Folder - 47.75 x 8.9" id="aspace_b46bb5083cb14cb6a7842416b56e2d92" label="Mixed Materials [31142062666774]" type="Flat-File-Folder">1, Tray 1</container>
+        </did>
+      </c>
+      <c id="aspace_ref20" level="file">
+        <did>
+          <unittitle>Photographs - Photograph Album (Mainly of Second World Youth Congress, August 1938)</unittitle>
+          <unitdate datechar="creation" normal="1936/1938" type="inclusive">1936, 1937, August 1938</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_bb0cec980f6aa21b9bb8cda3004a185a" label="Mixed Materials [31142062730471]" type="Box">2</container>
+          <container id="aspace_3db5ff662934f1c14717dea21cfbfc18" parent="aspace_bb0cec980f6aa21b9bb8cda3004a185a" type="Folder">5</container>
+          <container altrender="Flat Box 11.75 x 15.5 - thin" id="aspace_441d62462dcc548a1ea00439f06770d6" label="Mixed Materials [31142062667236]" type="Box">3</container>
+        </did>
+        <phystech id="aspace_4a13d0a188794145ccac602707ec14f1">
+          <head>Physical Characteristics and Technical Requirements</head>
+          <p>This photograph album has been removed to preserve it.  Researchers are asked to use the reference photocopies made of the items within it instead of using the fragile original.</p>
+        </phystech>
+      </c>
+      <c id="aspace_ref21" level="file">
+        <did>
+          <unittitle>Photographs - Reference Photocopy of Photograph Album (Mainly of Second World Youth Congress, August 1938)</unittitle>
+          <unitdate datechar="creation" normal="1936/1938" type="inclusive">1936, 1937, August 1938</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_4fc3d12a74de8b3afda681af037d92c9" label="Mixed Materials [31142062730471]" type="Box">2</container>
+          <container id="aspace_95f1dd5938c3afaf5c3bd69a41bada30" parent="aspace_4fc3d12a74de8b3afda681af037d92c9" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref12" level="file">
+        <did>
+          <unittitle>Pierre Degeyter Music Club and Composers Collective - Resolution; Sheet Music</unittitle>
+          <unitdate datechar="creation" normal="1930/1939" type="inclusive">1935, circa 1930s</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_cf0fce39a2a1cb59d4ae674943b14079" label="Mixed Materials [31142062730463]" type="Box">1</container>
+          <container id="aspace_29cc5a6d386bff26d877c8f2e48e7b73" parent="aspace_cf0fce39a2a1cb59d4ae674943b14079" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref13" level="file">
+        <did>
+          <unittitle>"Pulling the Strings - A Handbook of Puppetry" (published by the Junior Section of the International Workers Order)</unittitle>
+          <unitdate datechar="creation" normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4bc61b15bbfd76c3ad827038c7ea9bfd" label="Mixed Materials [31142062730463]" type="Box">1</container>
+          <container id="aspace_1f3bf15cbeb552fe8d2214114515871a" parent="aspace_4bc61b15bbfd76c3ad827038c7ea9bfd" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref14" level="file">
+        <did>
+          <unittitle>Score for Operetta "Strike Me Red"</unittitle>
+          <unitdate datechar="creation" normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_380b9be1c83cbd49fc69c0a964bc64d4" label="Mixed Materials [31142062730463]" type="Box">1</container>
+          <container id="aspace_cbd3d395ae79cb5070112c4962145592" parent="aspace_380b9be1c83cbd49fc69c0a964bc64d4" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref15" level="file">
+        <did>
+          <unittitle>Scores (Handwritten, Including Instrumental and Voice Parts) for Different Songs for Musical Theater Performance(s?)</unittitle>
+          <unitdate datechar="creation" normal="1930/1945" type="inclusive">circa 1930-1945</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_b3be7c8a89686d08c66c12c5ddbe6f58" label="Mixed Materials [31142062759934]" type="Box">Shared Tamiment MSOS004</container>
+          <container id="aspace_6c1c124ba590545a9ff041bf72f7887a" parent="aspace_b3be7c8a89686d08c66c12c5ddbe6f58" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref16" level="file">
+        <did>
+          <unittitle>Script for "Let's Get Together - A Musical Play With Satirical Interludes"</unittitle>
+          <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4723f6091fddc1b50fbd6fcd4f682021" label="Mixed Materials [31142062730463]" type="Box">1</container>
+          <container id="aspace_3b60862c7d831dcdc8e5969895def191" parent="aspace_4723f6091fddc1b50fbd6fcd4f682021" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref17" level="file">
+        <did>
+          <unittitle>Scripts of Plays Published by The National Conference of Christians and Jews, "[for] Performances for Radio, School Assemblies. and Church and Club Groups"</unittitle>
+          <unitdate datechar="creation" normal="1950/1960" type="inclusive">circa 1950s</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1bb3da7a860cebc390122b9ef4c6edc0" label="Mixed Materials [31142062730463]" type="Box">1</container>
+          <container id="aspace_b9966be52dc31b86172bce457583ce87" parent="aspace_1bb3da7a860cebc390122b9ef4c6edc0" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref18" level="file">
+        <did>
+          <unittitle>Sheet Music and Song Sheets - American Youth Congress</unittitle>
+          <unitdate datechar="creation" normal="1935/1940" type="inclusive">circa 1935-1940</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_de8fa9cc256cf2da42ea6bf71f639b1d" label="Mixed Materials [31142062730463]" type="Box">1</container>
+          <container id="aspace_f571fec8e7e82ad8a03dd22cd1e058d0" parent="aspace_de8fa9cc256cf2da42ea6bf71f639b1d" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref27" level="file">
+        <did>
+          <unittitle>Sheet Music and Song Sheets – By Title, A through S </unittitle>
+          <unitdate datechar="creation" normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_76edce2a55a732703926977fced255dc" label="Mixed Materials [31142062730463]" type="Box">1</container>
+          <container id="aspace_b88ae13529696b93c5b7f0b065840494" parent="aspace_76edce2a55a732703926977fced255dc" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref28" level="file">
+        <did>
+          <unittitle>Sheet Music and Song Sheets – By Title, S through Y </unittitle>
+          <unitdate datechar="creation" normal="1930/1959" type="inclusive">1930s-1950s</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2b0feebbd3202d1b5e6108aa2b027c01" label="Mixed Materials [31142062730463]" type="Box">1</container>
+          <container id="aspace_0f8eb565b7591c008255c48e5f523dd6" parent="aspace_2b0feebbd3202d1b5e6108aa2b027c01" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref26" level="file">
+        <did>
+          <unittitle>Sheet Music and Song Sheets for "Brotherhood Songs"</unittitle>
+          <unitdate datechar="creation" normal="1930/1949" type="inclusive">1930s-1940s</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_450874705520c4fe04f279a8f90c709a" label="Mixed Materials [31142062730463]" type="Box">1</container>
+          <container id="aspace_4a4ab2b20034e4173ad1bdfa6c4948bc" parent="aspace_450874705520c4fe04f279a8f90c709a" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref29" level="file">
+        <did>
+          <unittitle>Sheet Music and Song Sheets – Re Spanish Civil War</unittitle>
+          <unitdate datechar="creation" normal="1937/1950" type="inclusive">circa 1937-1950</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5df622b83e6d32535bfcc83752544235" label="Mixed Materials [31142062730463]" type="Box">1</container>
+          <container id="aspace_c90f84ad7bd28cbd569c4f66606b77d8" parent="aspace_5df622b83e6d32535bfcc83752544235" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref19" level="file">
+        <did>
+          <unittitle>Sheet Music - Handwritten</unittitle>
+          <unitdate datechar="creation" normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_6f0560488f1346e258ce9bdda5c7459a" label="Mixed Materials [31142062759934]" type="Box">Shared Tamiment MSOS004</container>
+          <container id="aspace_79e33bab90b0db4a7d71806f4f43136c" parent="aspace_6f0560488f1346e258ce9bdda5c7459a" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref23" level="file">
+        <did>
+          <unittitle>Sheet Music – Individual Songs from "Pins and Needles" Musical </unittitle>
+          <unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_73c399f2a165d6ffdae09cb613e7fdbe" label="Mixed Materials [31142062730463]" type="Box">1</container>
+          <container id="aspace_6e4af3e4dc2028ee3711d9635e5a64e0" parent="aspace_73c399f2a165d6ffdae09cb613e7fdbe" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref25" level="file">
+        <did>
+          <unittitle>Sheet Music – Songs by Lewis Alan (pseudonym for Abel Meeropol)</unittitle>
+          <unitdate datechar="creation" normal="1939/1940" type="inclusive">1939-1940, undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2e3835570c059fdbd0b959d73d1fbd1b" label="Mixed Materials [31142062730463]" type="Box">1</container>
+          <container id="aspace_72a526f328dc02468c831ddd9fcede69" parent="aspace_2e3835570c059fdbd0b959d73d1fbd1b" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref24" level="file">
+        <did>
+          <unittitle>Sheet Music – "Songs for Political Action"</unittitle>
+          <unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2118e13335e7a86006021dabab391ab3" label="Mixed Materials [31142062730463]" type="Box">1</container>
+          <container id="aspace_82a5b520c3e1cb0f570ae03c4bf14cb5" parent="aspace_2118e13335e7a86006021dabab391ab3" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref30" level="file">
+        <did>
+          <unittitle>Songbook and Songsheet for Henry Wallace Presidential Campaign</unittitle>
+          <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6e3ba6bea1992fc84b9e90a1a01b37ce" label="Mixed Materials [31142062730463]" type="Box">1</container>
+          <container id="aspace_2927cb7d9ee53862b26f1d13621c44a3" parent="aspace_6e3ba6bea1992fc84b9e90a1a01b37ce" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref31" level="file">
+        <did>
+          <unittitle>Songbooks - By Title, A through S</unittitle>
+          <unitdate datechar="creation" normal="1933/1973" type="inclusive">1933,1935,1940,1973, undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_dd0207e9f287ac2c8691f38d5a79417f" label="Mixed Materials [31142062730463]" type="Box">1</container>
+          <container id="aspace_4d12a9da6b9531dcf94515d95cc45833" parent="aspace_dd0207e9f287ac2c8691f38d5a79417f" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref32" level="file">
+        <did>
+          <unittitle>Songbooks - By Title, S through Y</unittitle>
+          <unitdate datechar="creation" normal="1935/1975" type="inclusive">1935-1940, 1975</unitdate>
+          <unitdate datechar="creation" normal="1935/1940" type="bulk">1935-1940</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_969de26f5e5f617ed3cdd41679676be0" label="Mixed Materials [31142062730471]" type="Box">2</container>
+          <container id="aspace_d99a2b1eb6dd1c8b5ee48bbb2f1f5639" parent="aspace_969de26f5e5f617ed3cdd41679676be0" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref33" level="file">
+        <did>
+          <unittitle>Songbooks – Title Unknown</unittitle>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_922cbec27afc93a3a0169e94783bbdfd" label="Mixed Materials [31142062730471]" type="Box">2</container>
+          <container id="aspace_e4aba7d1a0aa807a219f95999af1a40a" parent="aspace_922cbec27afc93a3a0169e94783bbdfd" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref34" level="file">
+        <did>
+          <unittitle>Text of Talk by Sam Pevzner,"Jewish Cultural Clubs and Societies in These Challenging Times," Broadcast on Radio Station WBAI (New York City)</unittitle>
+          <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_4b9903a0537c1037c5254501759c6325" label="Mixed Materials [31142062730471]" type="Box">2</container>
+          <container id="aspace_825ef424fba76817fe1bc34e01455a9b" parent="aspace_4b9903a0537c1037c5254501759c6325" type="Folder">3</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

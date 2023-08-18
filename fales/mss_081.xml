@@ -1,58 +1,955 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_081">mss_081</eadid><filedesc><titlestmt><titleproper>Guide to the William Anthony Papers,1955-2013 (Bulk 1976-2013) <num>MSS.081</num></titleproper><author>Laura Newsome, 2011. Accretions processed by Nicholas Martin, 2014.</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:23:29 -0400</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage></profiledesc><revisiondesc><change><date>February 2023</date><item>Record updated by Rachel Searcy to reflect 2022 accretion</item></change></revisiondesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Fales Library and Special Collections</corpname>
-    </repository>
-    <unittitle>William Anthony Papers</unittitle>
-    <origination label="Creator">
-      <persname source="local">Anthony, William</persname>
-    </origination>
-    <unitid>MSS.081</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
-      <extent altrender="carrier">in 2 record cartons and 1 folder in shared housing</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1955/2022" type="inclusive">1955-2022</unitdate>
-    <unitdate datechar="creation" normal="1976/2013" type="bulk">1976-2013</unitdate>
-    <abstract id="aspace_d092ec7b3601b0c7ae7b170408a0ce7b">William Anthony (1934-2022) was an American painter, illustrator, and graphic artist working in satire. This William Anthony Papers primarily contain facsimiles of Anthony's work, documenting his artistic career from 1976 though 2004. There are also some original artworks, photographs of Anthony, and other personal materials.</abstract>
-    <physloc id="aspace_555557fcd871b353182ea90e44187249">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
-    <langmaterial id="aspace_7ce19a257b687060e5e4ec9175cb07a0">Materials are in English.</langmaterial>
-  </did>
-  <bioghist id="aspace_6844e425139a43f2dd24b64de29523fd">
-    <head>Biographical Note</head>
-<p>William Anthony (1934-2022) was an American painter, illustrator, and graphic artist working in satire. Anthony was born in Ft. Monmouth, New Jersey in 1934, and grew up in Washington State. He graduated from Yale in 1958, majoring in history and taking art courses, including Josef Albers's drawing course.  Shortly after graduation he moved to the San Francisco Bay Area where he studied briefly at art schools.</p><p>Anthony taught figure drawing at a commercial art school in San Francisco in 1962.  This experience resulted in a his first book, A New Approach to Figure Drawing, 1965, (Crown, NY, and Odhams, 1967, London).  His other books, all of satirical drawings, include Bible Stories, 1978, (The Jargon Society, Winston-Salem), Bill Anthony's Greatest Hits, (1988, The Jargon Society), and War Is Swell, 2000, (Smart Art Press, Santa Monica).</p><p>His drawings have been commissioned for Artforum, The Paris Review, Art In America, and by Andy Warhol for his magazine Interview.</p><p>The Museum of Modern Art, the Metropolitan Museum of Art, the Whitney Museum, the Guggenheim Museum, the Brooklyn Museum and 20 other museums include Anthony's work in their collections.</p><p>Anthony lived in New York since 1964 and passed away in 2022.</p>  </bioghist>
-  <scopecontent id="aspace_f37b904be0855c6691faad39ddc91482">
-    <head>Scope and Contents</head>
-<p>This collection primarily contains facsimiles of Anthony's work, documenting his artistic career from 1976 though 2022. There are also some original artworks, photographs of Anthony, and other personal materials.</p>  </scopecontent>
-  <arrangement id="aspace_705ad24fd624a00c0dd625b161b7776f">
-    <head>Arrangement</head>
-<p>This collection was arranged and described by the donor. Minor changes have been made by the archivist to improve accessibility.</p>  </arrangement>
-  <accessrestrict id="aspace_ba510d92a0e90baa9741eead7b60657f">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </accessrestrict>
-  <userestrict id="aspace_f075c9f2074de1e0b9cba9b2866a6db9">
-    <head>Conditions Governing Use</head>
-<p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>  </userestrict>
-  <acqinfo id="aspace_b82260ba41d0eaa275c4404268ac362a">
-    <head>Immediate Source of Acquisition</head>
-<p>The William Anthony Papers were donated to NYU's Fales Library and Special Collections by William Anthony in 1996, 2009 and 2013. In 2022, an accretion was donated by the estate of William Anthony; the accession number associated with this accretion is 2023.009.</p>  </acqinfo>
-  <prefercite id="aspace_58f600b6d8d3df599145b5b2ec2d4012">
-    <head>Preferred Citation</head>
-<p>Published citations should take the
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_081">mss_081</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the William Anthony Papers,1955-2013 (Bulk 1976-2013) <num>MSS.081</num></titleproper>
+        <author>Laura Newsome, 2011. Accretions processed by Nicholas Martin, 2014.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:23:29 -0400</date>.</creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>February 2023</date>
+        <item>Record updated by Rachel Searcy to reflect 2022 accretion</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>William Anthony Papers</unittitle>
+      <origination label="Creator">
+        <persname source="local">Anthony, William</persname>
+      </origination>
+      <unitid>MSS.081</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+        <extent altrender="carrier">in 2 record cartons and 1 folder in shared housing</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1955/2022" type="inclusive">1955-2022</unitdate>
+      <unitdate datechar="creation" normal="1976/2013" type="bulk">1976-2013</unitdate>
+      <abstract id="aspace_d092ec7b3601b0c7ae7b170408a0ce7b">William Anthony (1934-2022) was an American painter, illustrator, and graphic artist working in satire. This William Anthony Papers primarily contain facsimiles of Anthony's work, documenting his artistic career from 1976 though 2004. There are also some original artworks, photographs of Anthony, and other personal materials.</abstract>
+      <physloc id="aspace_555557fcd871b353182ea90e44187249">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_7ce19a257b687060e5e4ec9175cb07a0">Materials are in English.</langmaterial>
+    </did>
+    <bioghist id="aspace_6844e425139a43f2dd24b64de29523fd">
+      <head>Biographical Note</head>
+      <p>William Anthony (1934-2022) was an American painter, illustrator, and graphic artist working in satire. Anthony was born in Ft. Monmouth, New Jersey in 1934, and grew up in Washington State. He graduated from Yale in 1958, majoring in history and taking art courses, including Josef Albers's drawing course.  Shortly after graduation he moved to the San Francisco Bay Area where he studied briefly at art schools.</p>
+      <p>Anthony taught figure drawing at a commercial art school in San Francisco in 1962.  This experience resulted in a his first book, A New Approach to Figure Drawing, 1965, (Crown, NY, and Odhams, 1967, London).  His other books, all of satirical drawings, include Bible Stories, 1978, (The Jargon Society, Winston-Salem), Bill Anthony's Greatest Hits, (1988, The Jargon Society), and War Is Swell, 2000, (Smart Art Press, Santa Monica).</p>
+      <p>His drawings have been commissioned for Artforum, The Paris Review, Art In America, and by Andy Warhol for his magazine Interview.</p>
+      <p>The Museum of Modern Art, the Metropolitan Museum of Art, the Whitney Museum, the Guggenheim Museum, the Brooklyn Museum and 20 other museums include Anthony's work in their collections.</p>
+      <p>Anthony lived in New York since 1964 and passed away in 2022.</p>
+    </bioghist>
+    <scopecontent id="aspace_f37b904be0855c6691faad39ddc91482">
+      <head>Scope and Contents</head>
+      <p>This collection primarily contains facsimiles of Anthony's work, documenting his artistic career from 1976 though 2022. There are also some original artworks, photographs of Anthony, and other personal materials.</p>
+    </scopecontent>
+    <arrangement id="aspace_705ad24fd624a00c0dd625b161b7776f">
+      <head>Arrangement</head>
+      <p>This collection was arranged and described by the donor. Minor changes have been made by the archivist to improve accessibility.</p>
+    </arrangement>
+    <accessrestrict id="aspace_ba510d92a0e90baa9741eead7b60657f">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </accessrestrict>
+    <userestrict id="aspace_f075c9f2074de1e0b9cba9b2866a6db9">
+      <head>Conditions Governing Use</head>
+      <p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>
+    </userestrict>
+    <acqinfo id="aspace_b82260ba41d0eaa275c4404268ac362a">
+      <head>Immediate Source of Acquisition</head>
+      <p>The William Anthony Papers were donated to NYU's Fales Library and Special Collections by William Anthony in 1996, 2009 and 2013. In 2022, an accretion was donated by the estate of William Anthony; the accession number associated with this accretion is 2023.009.</p>
+    </acqinfo>
+    <prefercite id="aspace_58f600b6d8d3df599145b5b2ec2d4012">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the
 following form:<lb/><lb/>
-Identification of item,  date (if known); The William Anthony Papers; MSS 081; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>  </prefercite>
-  <processinfo id="aspace_995917956837679455dffbe82118e10b">
-    <head>Processing Information</head>
-<p>Decisions concerning the arrangement, description, and physical interventions taken on this collection prior to 2023 have not been recorded. In February 2023, an accretion was rehoused in an archival folder and box, and intellectually integrated into the collection as its own series in keeping with the collection's existing arrangement structure.</p>  </processinfo>
-  <controlaccess>
-    <genreform source="aat">Drawings</genreform>
-    <subject source="lcsh">Mail Art.</subject>
-    <subject source="lcsh">Artists -- United States.</subject>
-    <genreform source="aat">Photographs.</genreform>
-    <genreform source="aat">Announcements.</genreform>
-    <persname source="local">Anthony, William</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref1" level="series"><did><unittitle>Series I: Record of artwork</unittitle><unitdate datechar="creation" normal="1976/2005" type="inclusive">1976-2005</unitdate></did><c id="aspace_ref5" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1976</unitdate><container id="aspace_3c1df1edb2affaed333cdebdfbbf9366" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_dcd07d7c269ed8e119afcef096843150" parent="aspace_3c1df1edb2affaed333cdebdfbbf9366" type="Folder">1</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1977</unitdate><container id="aspace_f2b80739cd2ff8439333b9a2e80ed6c4" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_99f5209f9a594453ed979469887f0b61" parent="aspace_f2b80739cd2ff8439333b9a2e80ed6c4" type="Folder">2</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1977</unitdate><container id="aspace_05bd20e05b7cf9d9101281390ab24cdb" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_cf6d13ae848f0d194935e05d405405a2" parent="aspace_05bd20e05b7cf9d9101281390ab24cdb" type="Folder">3</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1978</unitdate><container id="aspace_5e0aee329a79ffe1696bd25d8695f889" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_04df1092a62078930d7b97fa5adef842" parent="aspace_5e0aee329a79ffe1696bd25d8695f889" type="Folder">4</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1979</unitdate><container id="aspace_6c0c1219465cb5b9ce412af390ae35a5" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_869a9cdce0fe5683b8e5b8b59b2f1493" parent="aspace_6c0c1219465cb5b9ce412af390ae35a5" type="Folder">5</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1980</unitdate><container id="aspace_4e4464f6228f56cb2dabfd3aacf5799d" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_d8cf8ee7a7c7fb9094a0a709696bd1d8" parent="aspace_4e4464f6228f56cb2dabfd3aacf5799d" type="Folder">6</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1980</unitdate><container id="aspace_a2bfd8a68eae4172b72a0f37384522fc" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_b4639ef51d43a03e69ffc72db85efc34" parent="aspace_a2bfd8a68eae4172b72a0f37384522fc" type="Folder">7</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1981</unitdate><container id="aspace_437b6e0ef3515e17afd35e0fc0fd812a" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_4199112a4afff32cc91deeded38e40a3" parent="aspace_437b6e0ef3515e17afd35e0fc0fd812a" type="Folder">8</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1982</unitdate><container id="aspace_e16cd7fb2848f7a47df7fd79021e1adf" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_d2844df5c5835730b693bbbba1375353" parent="aspace_e16cd7fb2848f7a47df7fd79021e1adf" type="Folder">9</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1983</unitdate><container id="aspace_6df93a1baff2d5f58a2ec85769918ebc" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_0ea2cda12cf437577077f0dd7994ce4a" parent="aspace_6df93a1baff2d5f58a2ec85769918ebc" type="Folder">10</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1984</unitdate><container id="aspace_6c361b7663af95436bdcbc87d40c5e40" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_6bc2597f1704bf21e0f0b12ebe835f3a" parent="aspace_6c361b7663af95436bdcbc87d40c5e40" type="Folder">11</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1984</unitdate><container id="aspace_b8276060a3553c15573e678cdcb7fa36" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_07eae17f5c5a123db0527771c64d8bd0" parent="aspace_b8276060a3553c15573e678cdcb7fa36" type="Folder">12</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1984</unitdate><container id="aspace_586082ab7ed8d2a75ba64fc4bb662bdc" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_922a767efd05ed6a0650a50476ecce04" parent="aspace_586082ab7ed8d2a75ba64fc4bb662bdc" type="Folder">13</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1985</unitdate><container id="aspace_7cadd4575885f1ebcd566941d6a18a7e" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_2ae2d95971fdcf23ee892f19507eaabd" parent="aspace_7cadd4575885f1ebcd566941d6a18a7e" type="Folder">14</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1986</unitdate><container id="aspace_4a91ec22a7e66146283fdb38d58cf37c" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_2893d22fe9039eb7279dc0e4166f4b68" parent="aspace_4a91ec22a7e66146283fdb38d58cf37c" type="Folder">15</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1987</unitdate><container id="aspace_37005c53ab6188a9167e6329ffe6b992" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_9e0123460642a6d73cbb53f9eef6d15d" parent="aspace_37005c53ab6188a9167e6329ffe6b992" type="Folder">16</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1987</unitdate><container id="aspace_8c88315302eb21b21f2176f6ec0e31c9" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_43c863dcfda247ec0add1ec374151783" parent="aspace_8c88315302eb21b21f2176f6ec0e31c9" type="Folder">17</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1987</unitdate><container id="aspace_31862d7312b91fdbbc0840dea909fe46" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_7295a66030c4bdf2aaa5fe25b09c40f5" parent="aspace_31862d7312b91fdbbc0840dea909fe46" type="Folder">18</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1988</unitdate><container id="aspace_d9dcb270cf026d5ebd4b8a24055b0cbb" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_8461a87ebfba58c926a459b4fbad5cb7" parent="aspace_d9dcb270cf026d5ebd4b8a24055b0cbb" type="Folder">19</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1989</unitdate><container id="aspace_474c46c75e166e46388d528601dbb46b" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_1cac545a9e9b1c2a91fc05bbfd924525" parent="aspace_474c46c75e166e46388d528601dbb46b" type="Folder">20</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1989</unitdate><container id="aspace_41442ae24e038ad1d90362cab22b4ef5" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_286e1b75ffca0477018d8ee3cb6a6908" parent="aspace_41442ae24e038ad1d90362cab22b4ef5" type="Folder">21</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1990</unitdate><container id="aspace_75e06fa763a5330cd4cb69872d153398" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_e5c3641007dab1fc36664986733b0bb4" parent="aspace_75e06fa763a5330cd4cb69872d153398" type="Folder">22</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1990</unitdate><container id="aspace_edd2e4eac63471df6b0d50e90241cd69" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_7e8c54fbb1c9496401518ea6958e87eb" parent="aspace_edd2e4eac63471df6b0d50e90241cd69" type="Folder">23</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1991</unitdate><container id="aspace_3aa55a950e4a221761d5dd45afa92b61" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_9918f58a6d066ac41dee23e89cbfa6da" parent="aspace_3aa55a950e4a221761d5dd45afa92b61" type="Folder">24</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1991</unitdate><container id="aspace_e781f5e1101a61800393234d89d1482d" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_8c7715131327c5dad42879307a698eab" parent="aspace_e781f5e1101a61800393234d89d1482d" type="Folder">25</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1992</unitdate><container id="aspace_6c156ace51cfa73eb7f21a32e777e2b9" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_488e2471651198df5bd17e85dd468273" parent="aspace_6c156ace51cfa73eb7f21a32e777e2b9" type="Folder">26</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1993</unitdate><container id="aspace_a197607d3a7c21038bd19238baafa129" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_8ed5798b5d2f4087c96f853d35419eb1" parent="aspace_a197607d3a7c21038bd19238baafa129" type="Folder">27</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1993</unitdate><container id="aspace_e6f4877a7502c961988fbf5b2d846f3b" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_bf575e8a46d5ca3d095f4819a2734751" parent="aspace_e6f4877a7502c961988fbf5b2d846f3b" type="Folder">28</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1994</unitdate><container id="aspace_eed5969bd7b14500e31f5673f8b45df8" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_617812304d7e064c39ee672be132bf46" parent="aspace_eed5969bd7b14500e31f5673f8b45df8" type="Folder">29</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1994</unitdate><container id="aspace_47a502d78682a2d1846e2fb1db3985a7" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_6b4ebf505992385367f78225760a1a9e" parent="aspace_47a502d78682a2d1846e2fb1db3985a7" type="Folder">30</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1994</unitdate><container id="aspace_d05a511ca36910801cd7427eb13677ff" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_6929dbb53ad7eb2ee33cfbeedb3be1d5" parent="aspace_d05a511ca36910801cd7427eb13677ff" type="Folder">31</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1995</unitdate><container id="aspace_89b5dd7f863783255b1613c41115b131" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_496fb587b7dcd72dd27b83b1304f8bd6" parent="aspace_89b5dd7f863783255b1613c41115b131" type="Folder">32</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1995</unitdate><container id="aspace_b85088cc3f22a667c76a3b1a0dcffc2c" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_7872cfb5183a20daae16127f756ca725" parent="aspace_b85088cc3f22a667c76a3b1a0dcffc2c" type="Folder">33</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1996</unitdate><container id="aspace_099310bd69e4a066adb915a0a515f6ec" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_510016a8579c7b9e027518b05a06accc" parent="aspace_099310bd69e4a066adb915a0a515f6ec" type="Folder">34</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1996</unitdate><container id="aspace_65390c6d0253f8e913524dbdbc9eaffa" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_7aa012652683d5dc3a50869dea8ae973" parent="aspace_65390c6d0253f8e913524dbdbc9eaffa" type="Folder">35</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1997</unitdate><container id="aspace_6c6794e9bbd9cd8ebe9e8df395864fc2" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_24b1db6da71a1b3f7800e423448d1385" parent="aspace_6c6794e9bbd9cd8ebe9e8df395864fc2" type="Folder">36</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1997</unitdate><container id="aspace_044300ca18e7509eef44843376f016ae" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_97d034c96ed54e6424b56932f8272d13" parent="aspace_044300ca18e7509eef44843376f016ae" type="Folder">37</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1997</unitdate><container id="aspace_2589cec8b670e1e34562b6d6f4bc4b2a" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_3370299adfffd5fb3ca5545032dab56b" parent="aspace_2589cec8b670e1e34562b6d6f4bc4b2a" type="Folder">38</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1998</unitdate><container id="aspace_e1998e99b0e5ebd7293f4fcec0b7aa67" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_75dc4a5a05fe9b392db9627eda91fbce" parent="aspace_e1998e99b0e5ebd7293f4fcec0b7aa67" type="Folder">39</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1998</unitdate><container id="aspace_08961d07c21ebec891bda114c4047d24" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_33e95624f49c38a7a81d8f2a62a4bf8c" parent="aspace_08961d07c21ebec891bda114c4047d24" type="Folder">40</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1999</unitdate><container id="aspace_f0ec911c598757b0f068e48f93690c06" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_12776e7865696e2cc8b4fdecbacf49a8" parent="aspace_f0ec911c598757b0f068e48f93690c06" type="Folder">41</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1999</unitdate><container id="aspace_ae6c792da5b3118bc1e5d877e0d8d6f7" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_3316dc4a3a92ac80344d572e17e52611" parent="aspace_ae6c792da5b3118bc1e5d877e0d8d6f7" type="Folder">42</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">1999</unitdate><container id="aspace_b541dcb6b1b35089c2b79c93ca671ce1" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_01decc436e8ea3f172eeb16a763f4eec" parent="aspace_b541dcb6b1b35089c2b79c93ca671ce1" type="Folder">43</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">2000</unitdate><container id="aspace_e62380338d28b64ab5b8e1ab02eec158" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_0f4f623f2b09be09a6003df599476f83" parent="aspace_e62380338d28b64ab5b8e1ab02eec158" type="Folder">44</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">2000</unitdate><container id="aspace_a6b3b024a2f27a4c66501047f8e7068e" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_ab473060fc8fd83b47dc439a12a558d2" parent="aspace_a6b3b024a2f27a4c66501047f8e7068e" type="Folder">45</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">2000</unitdate><container id="aspace_7ca23c07f4e36ae32cdb897ca4583652" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_098ad82807dd0aa96d43bbf74444c645" parent="aspace_7ca23c07f4e36ae32cdb897ca4583652" type="Folder">46</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">2000</unitdate><container id="aspace_c54b0d1a63b8aae7885516d975aa0bdf" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_e8e170c250744ffe175e574abd3bff55" parent="aspace_c54b0d1a63b8aae7885516d975aa0bdf" type="Folder">47</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">2001</unitdate><container id="aspace_5925a1ae831783f5c48cbba92e0a7fd9" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_0f42d2e0915d83d9f377d80f8dc70316" parent="aspace_5925a1ae831783f5c48cbba92e0a7fd9" type="Folder">48</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">2001</unitdate><container id="aspace_32203f57b45ce55923636a56b7a31244" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_1f5e972fcac9eb946d89560b981a3a36" parent="aspace_32203f57b45ce55923636a56b7a31244" type="Folder">49</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">2002</unitdate><container id="aspace_d320e424c08c8a2f30576e57227bf514" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_e23975be35896e185b80919636c95555" parent="aspace_d320e424c08c8a2f30576e57227bf514" type="Folder">50</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">2002</unitdate><container id="aspace_b546a41098d5676692c32afa753bae16" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_8f42aac0a747d14950ed2b446ff29256" parent="aspace_b546a41098d5676692c32afa753bae16" type="Folder">51</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">2003</unitdate><container id="aspace_d8f16309e4decc39f6c610f06679368b" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_ab32342af179d533a5c601c7c26c320b" parent="aspace_d8f16309e4decc39f6c610f06679368b" type="Folder">52</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">2003</unitdate><container id="aspace_09713b31074bf49a47f3bc1118618d9d" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_174d91e528945a07eba5861cba8e70f9" parent="aspace_09713b31074bf49a47f3bc1118618d9d" type="Folder">53</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">2003</unitdate><container id="aspace_72e3395ebeb0a2eb954fb0a03224dcc8" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_1c2ffba7692d88debf94bf75d6627ec5" parent="aspace_72e3395ebeb0a2eb954fb0a03224dcc8" type="Folder">54</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation">2004</unitdate><container id="aspace_c44f63afdb85c3f142289cb5e6a7c222" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_49d75c42b48ab98a3e17a17fb89877b9" parent="aspace_c44f63afdb85c3f142289cb5e6a7c222" type="Folder">55</container></did></c></c><c id="aspace_ref2" level="series"><did><unittitle>Series II: Original Artwork</unittitle></did><c id="aspace_ref60" level="file"><did><unittitle>"On the Beach", "High Sign", "Gunslinger", "Backside", "Signature"</unittitle><unitdate datechar="creation" normal="1972/1994" type="inclusive">1972-1994</unitdate><container id="aspace_ceccdfe2fa92094ea14b2e273c5089c5" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_7efd7e335dcc4dea373545714bbb860f" parent="aspace_ceccdfe2fa92094ea14b2e273c5089c5" type="Folder">56</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>"Sunny Side of the Street", "Three Strikes and You're Out", "High Roller", "Orangerie IV"</unittitle><unitdate datechar="creation" normal="1982/1994" type="inclusive">1982-1994</unitdate><container id="aspace_126909be4e8d262c94991b6c2b66c4c5" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_f590af0f84ed3b433944af469fec252d" parent="aspace_126909be4e8d262c94991b6c2b66c4c5" type="Folder">57</container></did></c></c><c id="aspace_ref3" level="series"><did><unittitle>Series III: Personal material</unittitle></did><c id="aspace_ref62" level="file"><did><unittitle>Announcements of exhibits, review, etc...</unittitle><unitdate datechar="creation">1991, 1994</unitdate><container id="aspace_4482876692af0623540cbdd24444df15" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_763415ec978c894b58644a6f089ea228" parent="aspace_4482876692af0623540cbdd24444df15" type="Folder">58</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>Personal photographs of William Anthony</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_d8f42cea9daccb635690c66c19ae03bd" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_6dede4ecef87a903e82e85c5ea8109e6" parent="aspace_d8f42cea9daccb635690c66c19ae03bd" type="Folder">59</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>Photos and Xeroxes of artwork</unittitle><unitdate datechar="creation">1960's</unitdate><container id="aspace_9776594c27dd8f8e030b6b40e7265e7f" label="Mixed Materials [31142042242704]" type="Box">1</container><container id="aspace_2026abb0fa31860017b359996238f7f9" parent="aspace_9776594c27dd8f8e030b6b40e7265e7f" type="Folder">60</container></did></c></c><c id="aspace_ref4" level="series"><did><unittitle>Series IV: Miscellany </unittitle></did><c id="aspace_ref65" level="file"><did><unittitle>Announcements of exhibitions, xeroxes, price lists, reviews, letters, etc...</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_da786cd350eff21bbe723af6e815967d" label="Mixed Materials [31142042242712]" type="Box">2</container><container id="aspace_ec52cdec6754e916d750dee39bff2bc2" parent="aspace_da786cd350eff21bbe723af6e815967d" type="Folder">1</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>Announcements of exhibitions, xeroxes, price lists, reviews, letters, etc...</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_90356711f4b657ecf46789ff7daa0671" label="Mixed Materials [31142042242712]" type="Box">2</container><container id="aspace_c11e92b6c0c04285126999b6688eaf67" parent="aspace_90356711f4b657ecf46789ff7daa0671" type="Folder">2</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>Announcements of exhibitions, xeroxes, price lists, reviews, letters, etc...</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_4afb38e21587e71a45d3959763ddd2bf" label="Mixed Materials [31142042242712]" type="Box">2</container><container id="aspace_e6bce9fa92323667a530847fb2f61ddf" parent="aspace_4afb38e21587e71a45d3959763ddd2bf" type="Folder">3</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>Announcements of exhibitions, xeroxes, price lists, reviews, letters, etc...</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_574e8b078c5b24c18b8480d66a166229" label="Mixed Materials [31142042242712]" type="Box">2</container><container id="aspace_3913b7e5d8b25984679ac84de757fce3" parent="aspace_574e8b078c5b24c18b8480d66a166229" type="Folder">4</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Announcements of exhibitions, xeroxes, price lists, reviews, letters, etc...</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_7a5d07a943d0b7ef0fdca6e065a0f338" label="Mixed Materials [31142042242712]" type="Box">2</container><container id="aspace_ef682e03c47a0a5bf4b4a8ede9ff6ed7" parent="aspace_7a5d07a943d0b7ef0fdca6e065a0f338" type="Folder">5</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Letters, lists, Archives of American Art info, artist's statement, etc...</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_fe2a9cfb0f2f4f92fbee7aba9a752667" label="Mixed Materials [31142042242712]" type="Box">2</container><container id="aspace_b9278b912bc241a6803d85fc0a2df382" parent="aspace_fe2a9cfb0f2f4f92fbee7aba9a752667" type="Folder">6</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Multiple lists, chronology, etc...</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_a984fc281a3e592c3be10cc0dfa5cdd7" label="Mixed Materials [31142042242712]" type="Box">2</container><container id="aspace_7b9040493a8045ad1cb3f77690312da0" parent="aspace_a984fc281a3e592c3be10cc0dfa5cdd7" type="Folder">7</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Reviews and letters, exhibition info, etc...</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_1081b6d146fae6864245290ac15a538d" label="Mixed Materials [31142042242712]" type="Box">2</container><container id="aspace_c4ffc08b7d819ae9d3348fd9b90e21e0" parent="aspace_1081b6d146fae6864245290ac15a538d" type="Folder">8</container></did></c><c id="aspace_ref73" level="file"><did><unittitle>Various exhibition info</unittitle><unitdate datechar="creation" normal="1996/1998" type="inclusive">1996-1998</unitdate><container id="aspace_382337076479a7fcf56a5843eb789d30" label="Mixed Materials [31142042242712]" type="Box">2</container><container id="aspace_40643f919ee4862a3c62a79c278c5655" parent="aspace_382337076479a7fcf56a5843eb789d30" type="Folder">9</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>Various exhibition info</unittitle><unitdate datechar="creation" normal="1999/2000" type="inclusive">1999-2000</unitdate><container id="aspace_a31f61d4f0c2564cab69856b6342ef1f" label="Mixed Materials [31142042242712]" type="Box">2</container><container id="aspace_b99de7d98a40f58c8238f410aad6d720" parent="aspace_a31f61d4f0c2564cab69856b6342ef1f" type="Folder">10</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>Publications other than reviews</unittitle><unitdate datechar="creation">Undated</unitdate><container id="aspace_60ae673b18af9a04f65ca9ed7bd83416" label="Mixed Materials [31142042242712]" type="Box">2</container><container id="aspace_ff670b5e70da1db4a7e0983c52fa1d0c" parent="aspace_60ae673b18af9a04f65ca9ed7bd83416" type="Folder">11</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>Group shows in Europe</unittitle><unitdate datechar="creation" normal="1997/2002" type="inclusive">1997-2002</unitdate><container id="aspace_f4380d24b4db11b78b72746b9e180520" label="Mixed Materials [31142042242712]" type="Box">2</container><container id="aspace_f7bf8f9d2d7f072d83c1e1fca4c8bfa2" parent="aspace_f4380d24b4db11b78b72746b9e180520" type="Folder">12</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>Group shows in the U.S.A.</unittitle><unitdate datechar="creation" normal="1996/2002" type="inclusive">1996-2002</unitdate><container id="aspace_dbdb0f5c6f1250807579c5bbda8c8fbb" label="Mixed Materials [31142042242712]" type="Box">2</container><container id="aspace_59bda4784af7e9dcc1996fc83958b6e5" parent="aspace_dbdb0f5c6f1250807579c5bbda8c8fbb" type="Folder">13</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>Xerox editions - "The Dream" and "Pomfleur"</unittitle><unitdate datechar="creation">1998, 2001-2002</unitdate><container id="aspace_fd6bd64ecc0ec14fd19f9c1de072f0fc" label="Mixed Materials [31142042242712]" type="Box">2</container><container id="aspace_68a618b651eb41eba7b903976857dedb" parent="aspace_fd6bd64ecc0ec14fd19f9c1de072f0fc" type="Folder">14</container></did></c></c><c id="aspace_ref79" level="series"><did><unittitle>Oversize Series II: Original Artwork</unittitle></did><c id="aspace_ref80" level="file"><did><unittitle>Blonde in Blue</unittitle><unitdate datechar="creation">1996</unitdate><container altrender="OS Flat Box - 19 " id="aspace_884a0b2137b202d2e1a459d80c155fca" label="Mixed Materials [31142063406105]" type="Box">3</container><container id="aspace_9b718e46d69b64096a471f86ed4248ef" parent="aspace_884a0b2137b202d2e1a459d80c155fca" type="Folder">1</container></did></c><c id="aspace_ref81" level="file"><did><unittitle>Lew Ayres in "All Quiet on the Western Front"</unittitle><unitdate datechar="creation">2000</unitdate><container altrender="OS Flat Box - 19 " id="aspace_5cc80729b68e75719e075492d8492cb5" label="Mixed Materials [31142063406105]" type="Box">3</container><container id="aspace_a7a913c7c168a9fcae8e7e152aec3b4a" parent="aspace_5cc80729b68e75719e075492d8492cb5" type="Folder">2</container></did></c><c id="aspace_ref82" level="file"><did><unittitle>Dornier - 17</unittitle><unitdate datechar="creation">2000</unitdate><container altrender="OS Flat Box - 19 " id="aspace_128fcc119cf463468996313157c0538d" label="Mixed Materials [31142063406105]" type="Box">3</container><container id="aspace_6748db0a06727e5611dfb3220f89ed73" parent="aspace_128fcc119cf463468996313157c0538d" type="Folder">3</container></did></c><c id="aspace_ref83" level="file"><did><unittitle>Maruru</unittitle><unitdate datechar="creation">1993</unitdate><container altrender="OS Flat Box - 19 " id="aspace_0958c62272ad6743a9ab065c99aa181d" label="Mixed Materials [31142063406105]" type="Box">3</container><container id="aspace_2202cd29b99a5b8286441247948a8ce5" parent="aspace_0958c62272ad6743a9ab065c99aa181d" type="Folder">4</container></did></c><c id="aspace_ref84" level="file"><did><unittitle>Sweetly Smiling</unittitle><unitdate datechar="creation">1994</unitdate><container altrender="OS Flat Box - 19 " id="aspace_ef55741429b6b6ee2784df49e6c47f1a" label="Mixed Materials [31142063406105]" type="Box">3</container><container id="aspace_648eb2fb3414685484d6e385122b2343" parent="aspace_ef55741429b6b6ee2784df49e6c47f1a" type="Folder">5</container></did></c><c id="aspace_ref85" level="file"><did><unittitle>Bill Anthony's Greatest Hits</unittitle><unitdate datechar="creation">1987</unitdate><container altrender="OS Flat Box - 19 " id="aspace_2229b6ab537775398eb2c02fcd2a5b99" label="Mixed Materials [31142063406105]" type="Box">3</container><container id="aspace_3d4edebad642ecec2eb470ab19bf9074" parent="aspace_2229b6ab537775398eb2c02fcd2a5b99" type="Folder">6</container></did></c><c id="aspace_ref86" level="file"><did><unittitle>Flaming Creature</unittitle><unitdate datechar="creation">1989</unitdate><container altrender="OS Flat Box - 19 " id="aspace_01fd962f1872a6129f9bf6f35a298e31" label="Mixed Materials [31142063406105]" type="Box">3</container><container id="aspace_5631e2b72daab776212954c6920399c2" parent="aspace_01fd962f1872a6129f9bf6f35a298e31" type="Folder">7</container></did></c><c id="aspace_ref87" level="file"><did><unittitle>Suburban Ambush</unittitle><unitdate datechar="creation">1990</unitdate><container altrender="OS Flat Box - 19 " id="aspace_fc1f182f239b20b24ade3279c920dbf6" label="Mixed Materials [31142063406105]" type="Box">3</container><container id="aspace_f00f2ac09ab867a40ffe2fccb735e31c" parent="aspace_fc1f182f239b20b24ade3279c920dbf6" type="Folder">8</container></did></c><c id="aspace_ref88" level="file"><did><unittitle>Teckningan - exhibit poster</unittitle><unitdate datechar="creation">1975</unitdate><container altrender="OS Flat Box - 19 " id="aspace_0f1052430f8ed0626c02fec48f8027c6" label="Mixed Materials [31142063406105]" type="Box">3</container><container id="aspace_1eeb0c6d0fdd567bc6978c29d8872394" parent="aspace_0f1052430f8ed0626c02fec48f8027c6" type="Folder">9</container></did></c></c><c id="aspace_ref97" level="series"><did><unittitle>Accretion 2009 - Series I: Record of Artwork</unittitle></did><c id="aspace_ref98" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation" normal="2005/2005" type="inclusive">2005</unitdate><container altrender="Manuscript box - Letter" id="aspace_2ac40e73194509052b256bcb0eb21f00" label="Mixed Materials [31142054880706]" type="Box">4</container><container id="aspace_15af08787a4eee304c4e3efc6f93bd0d" parent="aspace_2ac40e73194509052b256bcb0eb21f00" type="Folder">1</container></did></c><c id="aspace_ref99" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation" normal="2006/2006" type="inclusive">2006</unitdate><container altrender="Manuscript box - Letter" id="aspace_6859f8c260c0dc80e2c47bc6039754cc" label="Mixed Materials [31142054880706]" type="Box">4</container><container id="aspace_f8b14350b2ec9c9d7c3193f07aa3a7fb" parent="aspace_6859f8c260c0dc80e2c47bc6039754cc" type="Folder">2</container></did></c><c id="aspace_ref101" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation" normal="2007/2007" type="inclusive">2007</unitdate><container altrender="Manuscript box - Letter" id="aspace_c804fb2030ddf9bc95eb001bf531e8d4" label="Mixed Materials [31142054880706]" type="Box">4</container><container id="aspace_b7c1c1d86dcde2833be67594fc0237fe" parent="aspace_c804fb2030ddf9bc95eb001bf531e8d4" type="Folder">3</container></did></c><c id="aspace_ref102" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate><container altrender="Manuscript box - Letter" id="aspace_5a2c9763280265936229daf7b19515c2" label="Mixed Materials [31142054880706]" type="Box">4</container><container id="aspace_1c96d2a986e3baae4543c5d2d26913e1" parent="aspace_5a2c9763280265936229daf7b19515c2" type="Folder">4</container></did></c><c id="aspace_ref103" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation" normal="2009/2009" type="inclusive">2009</unitdate><container altrender="Manuscript box - Letter" id="aspace_51b371bd7b5bd50b1e35bd29c7f787bb" label="Mixed Materials [31142054880706]" type="Box">4</container><container id="aspace_d85b3c572eccf494752d5e927ffc4a77" parent="aspace_51b371bd7b5bd50b1e35bd29c7f787bb" type="Folder">5</container></did></c></c><c id="aspace_ref104" level="series"><did><unittitle>Accretion 2009 - Series IV: Miscellany</unittitle></did><c id="aspace_ref105" level="file"><did><unittitle>Correspondence, exhibition info, records of damaged, altered or discovered artworks</unittitle><unitdate datechar="creation" normal="1955/2006" type="inclusive">1955-2006</unitdate><container altrender="Manuscript box - Letter" id="aspace_a1cc88e27fba31124e0187f63d75c5c6" label="Mixed Materials [31142054880706]" type="Box">4</container><container id="aspace_b6d26b7a2d03d4b89710277663ba0477" parent="aspace_a1cc88e27fba31124e0187f63d75c5c6" type="Folder">6</container></did></c></c><c id="aspace_ref106" level="series"><did><unittitle>Accretion 2013 - Series I: Record of artwork</unittitle></did><c id="aspace_ref108" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation" normal="2009/2009" type="inclusive">2009</unitdate><container altrender="Manuscript box - Letter" id="aspace_f7d5c45b703d54e708bc63b77ba557bb" label="Mixed Materials [31142054880706]" type="Box">4</container><container id="aspace_9ea80b558835841898fd8d8332714809" parent="aspace_f7d5c45b703d54e708bc63b77ba557bb" type="Folder">7</container></did></c><c id="aspace_ref109" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation" normal="2010/2010" type="inclusive">2010</unitdate><container altrender="Manuscript box - Letter" id="aspace_141abc66c48011e88c2fcfbf6acfca21" label="Mixed Materials [31142054880706]" type="Box">4</container><container id="aspace_e6c3e23e7ea7f4fc9e8026b35bfee712" parent="aspace_141abc66c48011e88c2fcfbf6acfca21" type="Folder">8</container></did></c><c id="aspace_ref110" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation" normal="2011/2011" type="inclusive">2011</unitdate><container altrender="Manuscript box - Letter" id="aspace_1395ab828301f325a71b4a03af41c057" label="Mixed Materials [31142054880706]" type="Box">4</container><container id="aspace_868a87b60ac336ab17e665a3f97fa4ad" parent="aspace_1395ab828301f325a71b4a03af41c057" type="Folder">9</container></did></c><c id="aspace_ref111" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation" normal="2012/2012" type="inclusive">2012</unitdate><container altrender="Manuscript box - Letter" id="aspace_3227d9cd5547ae8445e299c5c6afe0a7" label="Mixed Materials [31142054880706]" type="Box">4</container><container id="aspace_05c77b5841c5348520e86da206ba407f" parent="aspace_3227d9cd5547ae8445e299c5c6afe0a7" type="Folder">10</container></did></c><c id="aspace_ref112" level="file"><did><unittitle>Artwork (copies)</unittitle><unitdate datechar="creation" normal="2013/2013" type="inclusive">2013</unitdate><container altrender="Manuscript box - Letter" id="aspace_4db461f030b44a2033867e673081070d" label="Mixed Materials [31142054880706]" type="Box">4</container><container id="aspace_3e34974590a3ba3f9db4c38cf7e9c5ed" parent="aspace_4db461f030b44a2033867e673081070d" type="Folder">11</container></did></c><c id="aspace_ref115" level="file"><did><unittitle>Mail Art sent to Sam Jedig (copies)</unittitle><unitdate datechar="creation" normal="2009/2013" type="inclusive">2009-2013</unitdate><container altrender="Manuscript box - Letter" id="aspace_8d21201392fbd7ade050b30da02779e6" label="Mixed Materials [31142054880706]" type="Box">4</container><container id="aspace_e02299e670a52ec587b1a137560656ee" parent="aspace_8d21201392fbd7ade050b30da02779e6" type="Folder">12</container></did></c></c><c id="aspace_ref113" level="series"><did><unittitle>Accretion 2013 - Series II: Original Artwork</unittitle></did><c id="aspace_ref114" level="file"><did><unittitle>Drawings for <emph render="italic">A New Approach to Figure Drawing</emph></unittitle><unitdate datechar="creation" normal="2010/2010" type="inclusive">2010</unitdate><container altrender="Manuscript box - Letter" id="aspace_1fb0b54e6933565831272dc55902340d" label="Mixed Materials [31142054880706]" type="Box">4</container><container id="aspace_f2ee040c9ff6fc5d03a72fc02c13c625" parent="aspace_1fb0b54e6933565831272dc55902340d" type="Folder">13</container></did></c></c><c id="aspace_ref116" level="series"><did><unittitle>Accretion 2013 - Series IV: Miscellany</unittitle></did><c id="aspace_ref117" level="file"><did><unittitle>Photographs, announcements, letters, commercial cartoons, a price list, decorative stamps, copy of envelope "Tribute to Judy Hoffberg", front door decor</unittitle><unitdate datechar="creation" normal="1965/2013" type="inclusive">1965-2013</unitdate><container altrender="Manuscript box - Letter" id="aspace_91c5bddb2fe42975aa4513928a7c4d0f" label="Mixed Materials [31142054880706]" type="Box">4</container><container id="aspace_def089ec3e783c44a31da2025975bac6" parent="aspace_91c5bddb2fe42975aa4513928a7c4d0f" type="Folder">14</container></did></c><c id="aspace_ref118" level="file"><did><unittitle>Lists of discarded artworks</unittitle><unitdate datechar="creation" normal="2005/2013" type="inclusive">2005-2013</unitdate><container altrender="Manuscript box - Letter" id="aspace_aa86269bc523edf315ce042a4049fc8c" label="Mixed Materials [31142054880706]" type="Box">4</container><container id="aspace_498d78da56eb9afea8a0f36f79c58cf1" parent="aspace_aa86269bc523edf315ce042a4049fc8c" type="Folder">15</container></did></c><c id="aspace_ref119" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation" normal="2007/2013" type="inclusive">2007-2013</unitdate><container altrender="Manuscript box - Letter" id="aspace_e337935fdc614b96dad4b52d27cc6880" label="Mixed Materials [31142054880706]" type="Box">4</container><container id="aspace_3340e5a3ebc12a23b655021fb6751c2a" parent="aspace_e337935fdc614b96dad4b52d27cc6880" type="Folder">16</container></did></c></c><c id="aspace_52952bfd2507d5bd546a9819acdf23e6" level="series"><did><unittitle>Accretion 2022</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">.1 linear feet</extent><extent altrender="carrier">in 1 folder in shared housing</extent></physdesc><unitdate datechar="creation" normal="2021/2022" type="inclusive">2021-2022</unitdate></did><c id="aspace_d09d1067ebe885b4533a583733fe4162" level="file"><did><unittitle>Drawings (Mostly Print-Outs and Photocopies)</unittitle><unitdate datechar="creation" normal="2021/2022" type="inclusive">2021-2022</unitdate><container altrender="Manuscript box - Legal" id="aspace_8ae6c40f2266b45195a9884fd8a19578" label="Mixed Materials [31142067168453]" type="Box">Shared Fales 041</container><container id="aspace_49d2f9aec3c226fdcc87afd627f1dc8b" parent="aspace_8ae6c40f2266b45195a9884fd8a19578" type="Folder">17</container></did></c></c></dsc>
-</archdesc>
+Identification of item,  date (if known); The William Anthony Papers; MSS 081; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>
+    </prefercite>
+    <processinfo id="aspace_995917956837679455dffbe82118e10b">
+      <head>Processing Information</head>
+      <p>Decisions concerning the arrangement, description, and physical interventions taken on this collection prior to 2023 have not been recorded. In February 2023, an accretion was rehoused in an archival folder and box, and intellectually integrated into the collection as its own series in keeping with the collection's existing arrangement structure.</p>
+    </processinfo>
+    <controlaccess>
+      <genreform source="aat">Drawings</genreform>
+      <subject source="lcsh">Mail Art.</subject>
+      <subject source="lcsh">Artists -- United States.</subject>
+      <genreform source="aat">Photographs.</genreform>
+      <genreform source="aat">Announcements.</genreform>
+      <persname source="local">Anthony, William</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref1" level="series">
+        <did>
+          <unittitle>Series I: Record of artwork</unittitle>
+          <unitdate datechar="creation" normal="1976/2005" type="inclusive">1976-2005</unitdate>
+        </did>
+        <c id="aspace_ref5" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1976</unitdate>
+            <container id="aspace_3c1df1edb2affaed333cdebdfbbf9366" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_dcd07d7c269ed8e119afcef096843150" parent="aspace_3c1df1edb2affaed333cdebdfbbf9366" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref6" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1977</unitdate>
+            <container id="aspace_f2b80739cd2ff8439333b9a2e80ed6c4" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_99f5209f9a594453ed979469887f0b61" parent="aspace_f2b80739cd2ff8439333b9a2e80ed6c4" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref7" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1977</unitdate>
+            <container id="aspace_05bd20e05b7cf9d9101281390ab24cdb" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_cf6d13ae848f0d194935e05d405405a2" parent="aspace_05bd20e05b7cf9d9101281390ab24cdb" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref8" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1978</unitdate>
+            <container id="aspace_5e0aee329a79ffe1696bd25d8695f889" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_04df1092a62078930d7b97fa5adef842" parent="aspace_5e0aee329a79ffe1696bd25d8695f889" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref9" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1979</unitdate>
+            <container id="aspace_6c0c1219465cb5b9ce412af390ae35a5" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_869a9cdce0fe5683b8e5b8b59b2f1493" parent="aspace_6c0c1219465cb5b9ce412af390ae35a5" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1980</unitdate>
+            <container id="aspace_4e4464f6228f56cb2dabfd3aacf5799d" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_d8cf8ee7a7c7fb9094a0a709696bd1d8" parent="aspace_4e4464f6228f56cb2dabfd3aacf5799d" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1980</unitdate>
+            <container id="aspace_a2bfd8a68eae4172b72a0f37384522fc" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_b4639ef51d43a03e69ffc72db85efc34" parent="aspace_a2bfd8a68eae4172b72a0f37384522fc" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1981</unitdate>
+            <container id="aspace_437b6e0ef3515e17afd35e0fc0fd812a" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_4199112a4afff32cc91deeded38e40a3" parent="aspace_437b6e0ef3515e17afd35e0fc0fd812a" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container id="aspace_e16cd7fb2848f7a47df7fd79021e1adf" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_d2844df5c5835730b693bbbba1375353" parent="aspace_e16cd7fb2848f7a47df7fd79021e1adf" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1983</unitdate>
+            <container id="aspace_6df93a1baff2d5f58a2ec85769918ebc" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_0ea2cda12cf437577077f0dd7994ce4a" parent="aspace_6df93a1baff2d5f58a2ec85769918ebc" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1984</unitdate>
+            <container id="aspace_6c361b7663af95436bdcbc87d40c5e40" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_6bc2597f1704bf21e0f0b12ebe835f3a" parent="aspace_6c361b7663af95436bdcbc87d40c5e40" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1984</unitdate>
+            <container id="aspace_b8276060a3553c15573e678cdcb7fa36" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_07eae17f5c5a123db0527771c64d8bd0" parent="aspace_b8276060a3553c15573e678cdcb7fa36" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1984</unitdate>
+            <container id="aspace_586082ab7ed8d2a75ba64fc4bb662bdc" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_922a767efd05ed6a0650a50476ecce04" parent="aspace_586082ab7ed8d2a75ba64fc4bb662bdc" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1985</unitdate>
+            <container id="aspace_7cadd4575885f1ebcd566941d6a18a7e" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_2ae2d95971fdcf23ee892f19507eaabd" parent="aspace_7cadd4575885f1ebcd566941d6a18a7e" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1986</unitdate>
+            <container id="aspace_4a91ec22a7e66146283fdb38d58cf37c" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_2893d22fe9039eb7279dc0e4166f4b68" parent="aspace_4a91ec22a7e66146283fdb38d58cf37c" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1987</unitdate>
+            <container id="aspace_37005c53ab6188a9167e6329ffe6b992" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_9e0123460642a6d73cbb53f9eef6d15d" parent="aspace_37005c53ab6188a9167e6329ffe6b992" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1987</unitdate>
+            <container id="aspace_8c88315302eb21b21f2176f6ec0e31c9" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_43c863dcfda247ec0add1ec374151783" parent="aspace_8c88315302eb21b21f2176f6ec0e31c9" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1987</unitdate>
+            <container id="aspace_31862d7312b91fdbbc0840dea909fe46" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_7295a66030c4bdf2aaa5fe25b09c40f5" parent="aspace_31862d7312b91fdbbc0840dea909fe46" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1988</unitdate>
+            <container id="aspace_d9dcb270cf026d5ebd4b8a24055b0cbb" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_8461a87ebfba58c926a459b4fbad5cb7" parent="aspace_d9dcb270cf026d5ebd4b8a24055b0cbb" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1989</unitdate>
+            <container id="aspace_474c46c75e166e46388d528601dbb46b" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_1cac545a9e9b1c2a91fc05bbfd924525" parent="aspace_474c46c75e166e46388d528601dbb46b" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1989</unitdate>
+            <container id="aspace_41442ae24e038ad1d90362cab22b4ef5" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_286e1b75ffca0477018d8ee3cb6a6908" parent="aspace_41442ae24e038ad1d90362cab22b4ef5" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container id="aspace_75e06fa763a5330cd4cb69872d153398" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_e5c3641007dab1fc36664986733b0bb4" parent="aspace_75e06fa763a5330cd4cb69872d153398" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container id="aspace_edd2e4eac63471df6b0d50e90241cd69" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_7e8c54fbb1c9496401518ea6958e87eb" parent="aspace_edd2e4eac63471df6b0d50e90241cd69" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1991</unitdate>
+            <container id="aspace_3aa55a950e4a221761d5dd45afa92b61" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_9918f58a6d066ac41dee23e89cbfa6da" parent="aspace_3aa55a950e4a221761d5dd45afa92b61" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1991</unitdate>
+            <container id="aspace_e781f5e1101a61800393234d89d1482d" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_8c7715131327c5dad42879307a698eab" parent="aspace_e781f5e1101a61800393234d89d1482d" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1992</unitdate>
+            <container id="aspace_6c156ace51cfa73eb7f21a32e777e2b9" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_488e2471651198df5bd17e85dd468273" parent="aspace_6c156ace51cfa73eb7f21a32e777e2b9" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1993</unitdate>
+            <container id="aspace_a197607d3a7c21038bd19238baafa129" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_8ed5798b5d2f4087c96f853d35419eb1" parent="aspace_a197607d3a7c21038bd19238baafa129" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1993</unitdate>
+            <container id="aspace_e6f4877a7502c961988fbf5b2d846f3b" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_bf575e8a46d5ca3d095f4819a2734751" parent="aspace_e6f4877a7502c961988fbf5b2d846f3b" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1994</unitdate>
+            <container id="aspace_eed5969bd7b14500e31f5673f8b45df8" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_617812304d7e064c39ee672be132bf46" parent="aspace_eed5969bd7b14500e31f5673f8b45df8" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1994</unitdate>
+            <container id="aspace_47a502d78682a2d1846e2fb1db3985a7" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_6b4ebf505992385367f78225760a1a9e" parent="aspace_47a502d78682a2d1846e2fb1db3985a7" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1994</unitdate>
+            <container id="aspace_d05a511ca36910801cd7427eb13677ff" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_6929dbb53ad7eb2ee33cfbeedb3be1d5" parent="aspace_d05a511ca36910801cd7427eb13677ff" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1995</unitdate>
+            <container id="aspace_89b5dd7f863783255b1613c41115b131" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_496fb587b7dcd72dd27b83b1304f8bd6" parent="aspace_89b5dd7f863783255b1613c41115b131" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1995</unitdate>
+            <container id="aspace_b85088cc3f22a667c76a3b1a0dcffc2c" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_7872cfb5183a20daae16127f756ca725" parent="aspace_b85088cc3f22a667c76a3b1a0dcffc2c" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1996</unitdate>
+            <container id="aspace_099310bd69e4a066adb915a0a515f6ec" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_510016a8579c7b9e027518b05a06accc" parent="aspace_099310bd69e4a066adb915a0a515f6ec" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1996</unitdate>
+            <container id="aspace_65390c6d0253f8e913524dbdbc9eaffa" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_7aa012652683d5dc3a50869dea8ae973" parent="aspace_65390c6d0253f8e913524dbdbc9eaffa" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1997</unitdate>
+            <container id="aspace_6c6794e9bbd9cd8ebe9e8df395864fc2" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_24b1db6da71a1b3f7800e423448d1385" parent="aspace_6c6794e9bbd9cd8ebe9e8df395864fc2" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1997</unitdate>
+            <container id="aspace_044300ca18e7509eef44843376f016ae" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_97d034c96ed54e6424b56932f8272d13" parent="aspace_044300ca18e7509eef44843376f016ae" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1997</unitdate>
+            <container id="aspace_2589cec8b670e1e34562b6d6f4bc4b2a" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_3370299adfffd5fb3ca5545032dab56b" parent="aspace_2589cec8b670e1e34562b6d6f4bc4b2a" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1998</unitdate>
+            <container id="aspace_e1998e99b0e5ebd7293f4fcec0b7aa67" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_75dc4a5a05fe9b392db9627eda91fbce" parent="aspace_e1998e99b0e5ebd7293f4fcec0b7aa67" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1998</unitdate>
+            <container id="aspace_08961d07c21ebec891bda114c4047d24" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_33e95624f49c38a7a81d8f2a62a4bf8c" parent="aspace_08961d07c21ebec891bda114c4047d24" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1999</unitdate>
+            <container id="aspace_f0ec911c598757b0f068e48f93690c06" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_12776e7865696e2cc8b4fdecbacf49a8" parent="aspace_f0ec911c598757b0f068e48f93690c06" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1999</unitdate>
+            <container id="aspace_ae6c792da5b3118bc1e5d877e0d8d6f7" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_3316dc4a3a92ac80344d572e17e52611" parent="aspace_ae6c792da5b3118bc1e5d877e0d8d6f7" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">1999</unitdate>
+            <container id="aspace_b541dcb6b1b35089c2b79c93ca671ce1" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_01decc436e8ea3f172eeb16a763f4eec" parent="aspace_b541dcb6b1b35089c2b79c93ca671ce1" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">2000</unitdate>
+            <container id="aspace_e62380338d28b64ab5b8e1ab02eec158" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_0f4f623f2b09be09a6003df599476f83" parent="aspace_e62380338d28b64ab5b8e1ab02eec158" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">2000</unitdate>
+            <container id="aspace_a6b3b024a2f27a4c66501047f8e7068e" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_ab473060fc8fd83b47dc439a12a558d2" parent="aspace_a6b3b024a2f27a4c66501047f8e7068e" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">2000</unitdate>
+            <container id="aspace_7ca23c07f4e36ae32cdb897ca4583652" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_098ad82807dd0aa96d43bbf74444c645" parent="aspace_7ca23c07f4e36ae32cdb897ca4583652" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">2000</unitdate>
+            <container id="aspace_c54b0d1a63b8aae7885516d975aa0bdf" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_e8e170c250744ffe175e574abd3bff55" parent="aspace_c54b0d1a63b8aae7885516d975aa0bdf" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">2001</unitdate>
+            <container id="aspace_5925a1ae831783f5c48cbba92e0a7fd9" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_0f42d2e0915d83d9f377d80f8dc70316" parent="aspace_5925a1ae831783f5c48cbba92e0a7fd9" type="Folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">2001</unitdate>
+            <container id="aspace_32203f57b45ce55923636a56b7a31244" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_1f5e972fcac9eb946d89560b981a3a36" parent="aspace_32203f57b45ce55923636a56b7a31244" type="Folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">2002</unitdate>
+            <container id="aspace_d320e424c08c8a2f30576e57227bf514" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_e23975be35896e185b80919636c95555" parent="aspace_d320e424c08c8a2f30576e57227bf514" type="Folder">50</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">2002</unitdate>
+            <container id="aspace_b546a41098d5676692c32afa753bae16" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_8f42aac0a747d14950ed2b446ff29256" parent="aspace_b546a41098d5676692c32afa753bae16" type="Folder">51</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">2003</unitdate>
+            <container id="aspace_d8f16309e4decc39f6c610f06679368b" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_ab32342af179d533a5c601c7c26c320b" parent="aspace_d8f16309e4decc39f6c610f06679368b" type="Folder">52</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">2003</unitdate>
+            <container id="aspace_09713b31074bf49a47f3bc1118618d9d" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_174d91e528945a07eba5861cba8e70f9" parent="aspace_09713b31074bf49a47f3bc1118618d9d" type="Folder">53</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">2003</unitdate>
+            <container id="aspace_72e3395ebeb0a2eb954fb0a03224dcc8" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_1c2ffba7692d88debf94bf75d6627ec5" parent="aspace_72e3395ebeb0a2eb954fb0a03224dcc8" type="Folder">54</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation">2004</unitdate>
+            <container id="aspace_c44f63afdb85c3f142289cb5e6a7c222" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_49d75c42b48ab98a3e17a17fb89877b9" parent="aspace_c44f63afdb85c3f142289cb5e6a7c222" type="Folder">55</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref2" level="series">
+        <did>
+          <unittitle>Series II: Original Artwork</unittitle>
+        </did>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>"On the Beach", "High Sign", "Gunslinger", "Backside", "Signature"</unittitle>
+            <unitdate datechar="creation" normal="1972/1994" type="inclusive">1972-1994</unitdate>
+            <container id="aspace_ceccdfe2fa92094ea14b2e273c5089c5" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_7efd7e335dcc4dea373545714bbb860f" parent="aspace_ceccdfe2fa92094ea14b2e273c5089c5" type="Folder">56</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>"Sunny Side of the Street", "Three Strikes and You're Out", "High Roller", "Orangerie IV"</unittitle>
+            <unitdate datechar="creation" normal="1982/1994" type="inclusive">1982-1994</unitdate>
+            <container id="aspace_126909be4e8d262c94991b6c2b66c4c5" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_f590af0f84ed3b433944af469fec252d" parent="aspace_126909be4e8d262c94991b6c2b66c4c5" type="Folder">57</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref3" level="series">
+        <did>
+          <unittitle>Series III: Personal material</unittitle>
+        </did>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Announcements of exhibits, review, etc...</unittitle>
+            <unitdate datechar="creation">1991, 1994</unitdate>
+            <container id="aspace_4482876692af0623540cbdd24444df15" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_763415ec978c894b58644a6f089ea228" parent="aspace_4482876692af0623540cbdd24444df15" type="Folder">58</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Personal photographs of William Anthony</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_d8f42cea9daccb635690c66c19ae03bd" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_6dede4ecef87a903e82e85c5ea8109e6" parent="aspace_d8f42cea9daccb635690c66c19ae03bd" type="Folder">59</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Photos and Xeroxes of artwork</unittitle>
+            <unitdate datechar="creation">1960's</unitdate>
+            <container id="aspace_9776594c27dd8f8e030b6b40e7265e7f" label="Mixed Materials [31142042242704]" type="Box">1</container>
+            <container id="aspace_2026abb0fa31860017b359996238f7f9" parent="aspace_9776594c27dd8f8e030b6b40e7265e7f" type="Folder">60</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref4" level="series">
+        <did>
+          <unittitle>Series IV: Miscellany </unittitle>
+        </did>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Announcements of exhibitions, xeroxes, price lists, reviews, letters, etc...</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_da786cd350eff21bbe723af6e815967d" label="Mixed Materials [31142042242712]" type="Box">2</container>
+            <container id="aspace_ec52cdec6754e916d750dee39bff2bc2" parent="aspace_da786cd350eff21bbe723af6e815967d" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Announcements of exhibitions, xeroxes, price lists, reviews, letters, etc...</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_90356711f4b657ecf46789ff7daa0671" label="Mixed Materials [31142042242712]" type="Box">2</container>
+            <container id="aspace_c11e92b6c0c04285126999b6688eaf67" parent="aspace_90356711f4b657ecf46789ff7daa0671" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Announcements of exhibitions, xeroxes, price lists, reviews, letters, etc...</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_4afb38e21587e71a45d3959763ddd2bf" label="Mixed Materials [31142042242712]" type="Box">2</container>
+            <container id="aspace_e6bce9fa92323667a530847fb2f61ddf" parent="aspace_4afb38e21587e71a45d3959763ddd2bf" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Announcements of exhibitions, xeroxes, price lists, reviews, letters, etc...</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_574e8b078c5b24c18b8480d66a166229" label="Mixed Materials [31142042242712]" type="Box">2</container>
+            <container id="aspace_3913b7e5d8b25984679ac84de757fce3" parent="aspace_574e8b078c5b24c18b8480d66a166229" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Announcements of exhibitions, xeroxes, price lists, reviews, letters, etc...</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_7a5d07a943d0b7ef0fdca6e065a0f338" label="Mixed Materials [31142042242712]" type="Box">2</container>
+            <container id="aspace_ef682e03c47a0a5bf4b4a8ede9ff6ed7" parent="aspace_7a5d07a943d0b7ef0fdca6e065a0f338" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Letters, lists, Archives of American Art info, artist's statement, etc...</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_fe2a9cfb0f2f4f92fbee7aba9a752667" label="Mixed Materials [31142042242712]" type="Box">2</container>
+            <container id="aspace_b9278b912bc241a6803d85fc0a2df382" parent="aspace_fe2a9cfb0f2f4f92fbee7aba9a752667" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Multiple lists, chronology, etc...</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_a984fc281a3e592c3be10cc0dfa5cdd7" label="Mixed Materials [31142042242712]" type="Box">2</container>
+            <container id="aspace_7b9040493a8045ad1cb3f77690312da0" parent="aspace_a984fc281a3e592c3be10cc0dfa5cdd7" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Reviews and letters, exhibition info, etc...</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_1081b6d146fae6864245290ac15a538d" label="Mixed Materials [31142042242712]" type="Box">2</container>
+            <container id="aspace_c4ffc08b7d819ae9d3348fd9b90e21e0" parent="aspace_1081b6d146fae6864245290ac15a538d" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Various exhibition info</unittitle>
+            <unitdate datechar="creation" normal="1996/1998" type="inclusive">1996-1998</unitdate>
+            <container id="aspace_382337076479a7fcf56a5843eb789d30" label="Mixed Materials [31142042242712]" type="Box">2</container>
+            <container id="aspace_40643f919ee4862a3c62a79c278c5655" parent="aspace_382337076479a7fcf56a5843eb789d30" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>Various exhibition info</unittitle>
+            <unitdate datechar="creation" normal="1999/2000" type="inclusive">1999-2000</unitdate>
+            <container id="aspace_a31f61d4f0c2564cab69856b6342ef1f" label="Mixed Materials [31142042242712]" type="Box">2</container>
+            <container id="aspace_b99de7d98a40f58c8238f410aad6d720" parent="aspace_a31f61d4f0c2564cab69856b6342ef1f" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Publications other than reviews</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_60ae673b18af9a04f65ca9ed7bd83416" label="Mixed Materials [31142042242712]" type="Box">2</container>
+            <container id="aspace_ff670b5e70da1db4a7e0983c52fa1d0c" parent="aspace_60ae673b18af9a04f65ca9ed7bd83416" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Group shows in Europe</unittitle>
+            <unitdate datechar="creation" normal="1997/2002" type="inclusive">1997-2002</unitdate>
+            <container id="aspace_f4380d24b4db11b78b72746b9e180520" label="Mixed Materials [31142042242712]" type="Box">2</container>
+            <container id="aspace_f7bf8f9d2d7f072d83c1e1fca4c8bfa2" parent="aspace_f4380d24b4db11b78b72746b9e180520" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Group shows in the U.S.A.</unittitle>
+            <unitdate datechar="creation" normal="1996/2002" type="inclusive">1996-2002</unitdate>
+            <container id="aspace_dbdb0f5c6f1250807579c5bbda8c8fbb" label="Mixed Materials [31142042242712]" type="Box">2</container>
+            <container id="aspace_59bda4784af7e9dcc1996fc83958b6e5" parent="aspace_dbdb0f5c6f1250807579c5bbda8c8fbb" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>Xerox editions - "The Dream" and "Pomfleur"</unittitle>
+            <unitdate datechar="creation">1998, 2001-2002</unitdate>
+            <container id="aspace_fd6bd64ecc0ec14fd19f9c1de072f0fc" label="Mixed Materials [31142042242712]" type="Box">2</container>
+            <container id="aspace_68a618b651eb41eba7b903976857dedb" parent="aspace_fd6bd64ecc0ec14fd19f9c1de072f0fc" type="Folder">14</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref79" level="series">
+        <did>
+          <unittitle>Oversize Series II: Original Artwork</unittitle>
+        </did>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>Blonde in Blue</unittitle>
+            <unitdate datechar="creation">1996</unitdate>
+            <container altrender="OS Flat Box - 19 " id="aspace_884a0b2137b202d2e1a459d80c155fca" label="Mixed Materials [31142063406105]" type="Box">3</container>
+            <container id="aspace_9b718e46d69b64096a471f86ed4248ef" parent="aspace_884a0b2137b202d2e1a459d80c155fca" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>Lew Ayres in "All Quiet on the Western Front"</unittitle>
+            <unitdate datechar="creation">2000</unitdate>
+            <container altrender="OS Flat Box - 19 " id="aspace_5cc80729b68e75719e075492d8492cb5" label="Mixed Materials [31142063406105]" type="Box">3</container>
+            <container id="aspace_a7a913c7c168a9fcae8e7e152aec3b4a" parent="aspace_5cc80729b68e75719e075492d8492cb5" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>Dornier - 17</unittitle>
+            <unitdate datechar="creation">2000</unitdate>
+            <container altrender="OS Flat Box - 19 " id="aspace_128fcc119cf463468996313157c0538d" label="Mixed Materials [31142063406105]" type="Box">3</container>
+            <container id="aspace_6748db0a06727e5611dfb3220f89ed73" parent="aspace_128fcc119cf463468996313157c0538d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Maruru</unittitle>
+            <unitdate datechar="creation">1993</unitdate>
+            <container altrender="OS Flat Box - 19 " id="aspace_0958c62272ad6743a9ab065c99aa181d" label="Mixed Materials [31142063406105]" type="Box">3</container>
+            <container id="aspace_2202cd29b99a5b8286441247948a8ce5" parent="aspace_0958c62272ad6743a9ab065c99aa181d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Sweetly Smiling</unittitle>
+            <unitdate datechar="creation">1994</unitdate>
+            <container altrender="OS Flat Box - 19 " id="aspace_ef55741429b6b6ee2784df49e6c47f1a" label="Mixed Materials [31142063406105]" type="Box">3</container>
+            <container id="aspace_648eb2fb3414685484d6e385122b2343" parent="aspace_ef55741429b6b6ee2784df49e6c47f1a" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>Bill Anthony's Greatest Hits</unittitle>
+            <unitdate datechar="creation">1987</unitdate>
+            <container altrender="OS Flat Box - 19 " id="aspace_2229b6ab537775398eb2c02fcd2a5b99" label="Mixed Materials [31142063406105]" type="Box">3</container>
+            <container id="aspace_3d4edebad642ecec2eb470ab19bf9074" parent="aspace_2229b6ab537775398eb2c02fcd2a5b99" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Flaming Creature</unittitle>
+            <unitdate datechar="creation">1989</unitdate>
+            <container altrender="OS Flat Box - 19 " id="aspace_01fd962f1872a6129f9bf6f35a298e31" label="Mixed Materials [31142063406105]" type="Box">3</container>
+            <container id="aspace_5631e2b72daab776212954c6920399c2" parent="aspace_01fd962f1872a6129f9bf6f35a298e31" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Suburban Ambush</unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container altrender="OS Flat Box - 19 " id="aspace_fc1f182f239b20b24ade3279c920dbf6" label="Mixed Materials [31142063406105]" type="Box">3</container>
+            <container id="aspace_f00f2ac09ab867a40ffe2fccb735e31c" parent="aspace_fc1f182f239b20b24ade3279c920dbf6" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>Teckningan - exhibit poster</unittitle>
+            <unitdate datechar="creation">1975</unitdate>
+            <container altrender="OS Flat Box - 19 " id="aspace_0f1052430f8ed0626c02fec48f8027c6" label="Mixed Materials [31142063406105]" type="Box">3</container>
+            <container id="aspace_1eeb0c6d0fdd567bc6978c29d8872394" parent="aspace_0f1052430f8ed0626c02fec48f8027c6" type="Folder">9</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref97" level="series">
+        <did>
+          <unittitle>Accretion 2009 - Series I: Record of Artwork</unittitle>
+        </did>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation" normal="2005/2005" type="inclusive">2005</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_2ac40e73194509052b256bcb0eb21f00" label="Mixed Materials [31142054880706]" type="Box">4</container>
+            <container id="aspace_15af08787a4eee304c4e3efc6f93bd0d" parent="aspace_2ac40e73194509052b256bcb0eb21f00" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation" normal="2006/2006" type="inclusive">2006</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_6859f8c260c0dc80e2c47bc6039754cc" label="Mixed Materials [31142054880706]" type="Box">4</container>
+            <container id="aspace_f8b14350b2ec9c9d7c3193f07aa3a7fb" parent="aspace_6859f8c260c0dc80e2c47bc6039754cc" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation" normal="2007/2007" type="inclusive">2007</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_c804fb2030ddf9bc95eb001bf531e8d4" label="Mixed Materials [31142054880706]" type="Box">4</container>
+            <container id="aspace_b7c1c1d86dcde2833be67594fc0237fe" parent="aspace_c804fb2030ddf9bc95eb001bf531e8d4" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_5a2c9763280265936229daf7b19515c2" label="Mixed Materials [31142054880706]" type="Box">4</container>
+            <container id="aspace_1c96d2a986e3baae4543c5d2d26913e1" parent="aspace_5a2c9763280265936229daf7b19515c2" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation" normal="2009/2009" type="inclusive">2009</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_51b371bd7b5bd50b1e35bd29c7f787bb" label="Mixed Materials [31142054880706]" type="Box">4</container>
+            <container id="aspace_d85b3c572eccf494752d5e927ffc4a77" parent="aspace_51b371bd7b5bd50b1e35bd29c7f787bb" type="Folder">5</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref104" level="series">
+        <did>
+          <unittitle>Accretion 2009 - Series IV: Miscellany</unittitle>
+        </did>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>Correspondence, exhibition info, records of damaged, altered or discovered artworks</unittitle>
+            <unitdate datechar="creation" normal="1955/2006" type="inclusive">1955-2006</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_a1cc88e27fba31124e0187f63d75c5c6" label="Mixed Materials [31142054880706]" type="Box">4</container>
+            <container id="aspace_b6d26b7a2d03d4b89710277663ba0477" parent="aspace_a1cc88e27fba31124e0187f63d75c5c6" type="Folder">6</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref106" level="series">
+        <did>
+          <unittitle>Accretion 2013 - Series I: Record of artwork</unittitle>
+        </did>
+        <c id="aspace_ref108" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation" normal="2009/2009" type="inclusive">2009</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_f7d5c45b703d54e708bc63b77ba557bb" label="Mixed Materials [31142054880706]" type="Box">4</container>
+            <container id="aspace_9ea80b558835841898fd8d8332714809" parent="aspace_f7d5c45b703d54e708bc63b77ba557bb" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation" normal="2010/2010" type="inclusive">2010</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_141abc66c48011e88c2fcfbf6acfca21" label="Mixed Materials [31142054880706]" type="Box">4</container>
+            <container id="aspace_e6c3e23e7ea7f4fc9e8026b35bfee712" parent="aspace_141abc66c48011e88c2fcfbf6acfca21" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation" normal="2011/2011" type="inclusive">2011</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_1395ab828301f325a71b4a03af41c057" label="Mixed Materials [31142054880706]" type="Box">4</container>
+            <container id="aspace_868a87b60ac336ab17e665a3f97fa4ad" parent="aspace_1395ab828301f325a71b4a03af41c057" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation" normal="2012/2012" type="inclusive">2012</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_3227d9cd5547ae8445e299c5c6afe0a7" label="Mixed Materials [31142054880706]" type="Box">4</container>
+            <container id="aspace_05c77b5841c5348520e86da206ba407f" parent="aspace_3227d9cd5547ae8445e299c5c6afe0a7" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="file">
+          <did>
+            <unittitle>Artwork (copies)</unittitle>
+            <unitdate datechar="creation" normal="2013/2013" type="inclusive">2013</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_4db461f030b44a2033867e673081070d" label="Mixed Materials [31142054880706]" type="Box">4</container>
+            <container id="aspace_3e34974590a3ba3f9db4c38cf7e9c5ed" parent="aspace_4db461f030b44a2033867e673081070d" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="file">
+          <did>
+            <unittitle>Mail Art sent to Sam Jedig (copies)</unittitle>
+            <unitdate datechar="creation" normal="2009/2013" type="inclusive">2009-2013</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_8d21201392fbd7ade050b30da02779e6" label="Mixed Materials [31142054880706]" type="Box">4</container>
+            <container id="aspace_e02299e670a52ec587b1a137560656ee" parent="aspace_8d21201392fbd7ade050b30da02779e6" type="Folder">12</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref113" level="series">
+        <did>
+          <unittitle>Accretion 2013 - Series II: Original Artwork</unittitle>
+        </did>
+        <c id="aspace_ref114" level="file">
+          <did>
+            <unittitle>Drawings for <emph render="italic">A New Approach to Figure Drawing</emph></unittitle>
+            <unitdate datechar="creation" normal="2010/2010" type="inclusive">2010</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_1fb0b54e6933565831272dc55902340d" label="Mixed Materials [31142054880706]" type="Box">4</container>
+            <container id="aspace_f2ee040c9ff6fc5d03a72fc02c13c625" parent="aspace_1fb0b54e6933565831272dc55902340d" type="Folder">13</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref116" level="series">
+        <did>
+          <unittitle>Accretion 2013 - Series IV: Miscellany</unittitle>
+        </did>
+        <c id="aspace_ref117" level="file">
+          <did>
+            <unittitle>Photographs, announcements, letters, commercial cartoons, a price list, decorative stamps, copy of envelope "Tribute to Judy Hoffberg", front door decor</unittitle>
+            <unitdate datechar="creation" normal="1965/2013" type="inclusive">1965-2013</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_91c5bddb2fe42975aa4513928a7c4d0f" label="Mixed Materials [31142054880706]" type="Box">4</container>
+            <container id="aspace_def089ec3e783c44a31da2025975bac6" parent="aspace_91c5bddb2fe42975aa4513928a7c4d0f" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref118" level="file">
+          <did>
+            <unittitle>Lists of discarded artworks</unittitle>
+            <unitdate datechar="creation" normal="2005/2013" type="inclusive">2005-2013</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_aa86269bc523edf315ce042a4049fc8c" label="Mixed Materials [31142054880706]" type="Box">4</container>
+            <container id="aspace_498d78da56eb9afea8a0f36f79c58cf1" parent="aspace_aa86269bc523edf315ce042a4049fc8c" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref119" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate datechar="creation" normal="2007/2013" type="inclusive">2007-2013</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_e337935fdc614b96dad4b52d27cc6880" label="Mixed Materials [31142054880706]" type="Box">4</container>
+            <container id="aspace_3340e5a3ebc12a23b655021fb6751c2a" parent="aspace_e337935fdc614b96dad4b52d27cc6880" type="Folder">16</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_52952bfd2507d5bd546a9819acdf23e6" level="series">
+        <did>
+          <unittitle>Accretion 2022</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">.1 linear feet</extent>
+            <extent altrender="carrier">in 1 folder in shared housing</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="2021/2022" type="inclusive">2021-2022</unitdate>
+        </did>
+        <c id="aspace_d09d1067ebe885b4533a583733fe4162" level="file">
+          <did>
+            <unittitle>Drawings (Mostly Print-Outs and Photocopies)</unittitle>
+            <unitdate datechar="creation" normal="2021/2022" type="inclusive">2021-2022</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8ae6c40f2266b45195a9884fd8a19578" label="Mixed Materials [31142067168453]" type="Box">Shared Fales 041</container>
+            <container id="aspace_49d2f9aec3c226fdcc87afd627f1dc8b" parent="aspace_8ae6c40f2266b45195a9884fd8a19578" type="Folder">17</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

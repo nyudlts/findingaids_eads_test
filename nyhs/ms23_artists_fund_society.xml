@@ -1,32 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NHi" url="http://dlib.nyu.edu/findingaids/html/nyhs/artistsfund/">ms23_artists_fund_society</eadid><filedesc><titlestmt><titleproper>Guide to the Artists' Fund Society Records<lb/>1859-1937<lb/> <num>MS 23</num></titleproper><author>Annie Tummino</author></titlestmt><publicationstmt><publisher>New-York Historical Society</publisher><p><date>2010</date></p><address><addressline>170 Central Park West</addressline><addressline>New York, NY 10024</addressline><addressline>Telephone: (212) 873-3400</addressline><addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-05-25 10:02:36 -0400</date>.</creation><langusage>Finding Aid is written in English.<lb/></langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>New-York Historical Society</corpname>
-    </repository>
-    <unittitle>Artists' Fund Society records</unittitle>
-    <origination label="Creator">
-      <corpname source="naf">Artists' Fund Society of the City of New York</corpname>
-    </origination>
-    <unitid>MS 23</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">5.5 Linear feet</extent>
-      <extent altrender="carrier">(10 boxes and 13 bound volumes)</extent>
-    </physdesc>
-    <unitdate datechar="creation" type="inclusive">1859-1937 </unitdate>
-    <abstract id="aspace_644383a810d58e4b67c1b7aa23a76bb3" label="Abstract">The collection documents the history of the Artists' Fund Society, a New York based organization founded in 1859 to assist members and their families in cases of illness, old age and death; and to provide aid to non-member artists in distress. It includes meeting minutes, reports, membership materials, financial records, and correspondence.</abstract>
-    <physloc id="aspace_5d009ea5cfb8dd8cbf15d103b37029ca">Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</physloc>
-    <langmaterial id="aspace_1331132cf8d12172c0d75e57ffec24eb">The documents in this collection are in English.</langmaterial>
-  </did>
-  <accessrestrict id="aspace_ba29162bef4888c8fe5985ef60860919">
-    <head>Access Restrictions</head>
-<p>Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</p>  </accessrestrict>
-  <acqinfo id="aspace_5bbe0bb7ac068cbdbec81eb679c8feae">
-    <head>Immediate Source of Acquisition</head>
-<p>This collection is made up of two acquisitions:</p><p>1. The papers of Alexander C. Morgan, Series I, President of the Artists' Fund Society from 1910-1933, acquired in 1941.</p><p>2. Artists' Fund Society records, Series II through X, donated by the Society of Illustrators in 2008.</p>  </acqinfo>
-  <arrangement id="aspace_bf83bea1600b07f54d2471e34301c836">
-    <head>Arrangement</head>
-<p>The collection is organized in ten series:<lb/>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NHi" url="http://dlib.nyu.edu/findingaids/html/nyhs/artistsfund/">ms23_artists_fund_society</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Artists' Fund Society Records<lb/>1859-1937<lb/> <num>MS 23</num></titleproper>
+        <author>Annie Tummino</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>New-York Historical Society</publisher>
+        <p>
+          <date>2010</date>
+        </p>
+        <address>
+          <addressline>170 Central Park West</addressline>
+          <addressline>New York, NY 10024</addressline>
+          <addressline>Telephone: (212) 873-3400</addressline>
+          <addressline>URL: <extptr xlink:href="https://www.nyhistory.org" xlink:show="new" xlink:title="https://www.nyhistory.org" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-05-25 10:02:36 -0400</date>.</creation>
+      <langusage>Finding Aid is written in English.<lb/></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New-York Historical Society</corpname>
+      </repository>
+      <unittitle>Artists' Fund Society records</unittitle>
+      <origination label="Creator">
+        <corpname source="naf">Artists' Fund Society of the City of New York</corpname>
+      </origination>
+      <unitid>MS 23</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">5.5 Linear feet</extent>
+        <extent altrender="carrier">(10 boxes and 13 bound volumes)</extent>
+      </physdesc>
+      <unitdate datechar="creation" type="inclusive">1859-1937 </unitdate>
+      <abstract id="aspace_644383a810d58e4b67c1b7aa23a76bb3" label="Abstract">The collection documents the history of the Artists' Fund Society, a New York based organization founded in 1859 to assist members and their families in cases of illness, old age and death; and to provide aid to non-member artists in distress. It includes meeting minutes, reports, membership materials, financial records, and correspondence.</abstract>
+      <physloc id="aspace_5d009ea5cfb8dd8cbf15d103b37029ca">Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</physloc>
+      <langmaterial id="aspace_1331132cf8d12172c0d75e57ffec24eb">The documents in this collection are in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_ba29162bef4888c8fe5985ef60860919">
+      <head>Access Restrictions</head>
+      <p>Materials in this collection may be stored offsite. For more information on making arrangements to consult them, please visit www.nyhistory.org/library/visit.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_5bbe0bb7ac068cbdbec81eb679c8feae">
+      <head>Immediate Source of Acquisition</head>
+      <p>This collection is made up of two acquisitions:</p>
+      <p>1. The papers of Alexander C. Morgan, Series I, President of the Artists' Fund Society from 1910-1933, acquired in 1941.</p>
+      <p>2. Artists' Fund Society records, Series II through X, donated by the Society of Illustrators in 2008.</p>
+    </acqinfo>
+    <arrangement id="aspace_bf83bea1600b07f54d2471e34301c836">
+      <head>Arrangement</head>
+      <p>The collection is organized in ten series:<lb/>
 <lb/>
 Series I: Alexander C. Morgan Papers<lb/>
 Series II: Constitution and Amendments<lb/>
@@ -41,46 +72,1318 @@ Series X: Other Artists' Funds<lb/>
 <lb/>
 Series I contains the papers of Alexander C. Morgan, a financier and amateur artist who served as president of the Artists' Fund Society from 1910-1932.<lb/>
 <lb/>
-Series II through X contain Artists' Fund Society records (1859-1937) arranged by type.</p>  </arrangement>
-  <bioghist id="aspace_7db92a6dee30c49490dbca6a38f34740">
-    <head>Historical Note</head>
-<p>During the late nineteenth and early twentieth centuries, millions of Americans received life insurance and other social welfare benefits through fraternal and mutual aid societies. The Artists' Fund Society was one such society. It was founded on February 5th, 1859, and incorporated on April 13, 1861. The primary mission of the organization was to provide aid to members experiencing disablement, sickness and distress, and to provide assistance to the widows, children and families of deceased members. In 1862 the Society additionally created a benevolent fund to provide aid to artists who were not members.</p><p>The original constitution of 1859 simply stated that members were required to be "artists by profession." However, by the 1930s amendments stipulated that members must live in New York City or close enough to attend meetings, and that no person over the age of 45 could become a member.</p><p>The organization's leadership consisted of a "Board of Control" comprised of a president, vice-president, secretary, treasurer and five other members. The Board of Control met monthly, and the Society sponsored an Annual Meeting for all members followed by an Annual Dinner for members and friends.</p><p>From 1860 through 1889, members were required to annually contribute a piece of art work to be exhibited and sold at auction. Money from the sales was deposited in a Special Investment Fund. Investments were made on first class bonds and mortgages and stocks of the United States and State of New York. Widows were paid annual interest on a sum of $1500, and then paid a lump sum of $1500 when their youngest child reached age 21. (The sum was raised over the years per amendments to the Constitution.)</p><p>In 1890, the system of selling art work was replaced with a system of "assessments." The Society required members to pay an assessment fee of $5 within 30 days of the death of a member; the beneficiary of the member received a percentage of the total amount collected.</p><p>Records indicate that in 1936 the Board of Control was considering re-organizing or dissolving the Society due to an increase in the number of members unable to pay their assessments, difficulty finding new young members and "a general lack of interest in the society." A decade later, in 1946, the Artists' Fund Society was formally consolidated with the Society of Illustrators, Inc.</p>  </bioghist>
-  <prefercite id="aspace_3e90e5d3fdc719bf98967b7d2f566606">
-    <head>Preferred Citation</head>
-<p>This collection should be cited as the Artists' Fund Society Records, MS 23, The New-York Historical Society.</p>  </prefercite>
-  <relatedmaterial id="aspace_af972d078c9a9eb77445d1514b90c364">
-    <head>Related Materials</head>
-<p>Quadriennial, Biennal and Annual Reports of the Artists' Fund Society can be found in the New-York Historical Society's Library.</p><p>The Princeton University Library, Department of Rare Books and Special Collections, has a set of Artists' Fund Society sale catalogues, 1860-1889.</p>  </relatedmaterial>
-  <scopecontent id="aspace_909e279faf9b19c1823173385f868126">
-    <head>Scope and Contents</head>
-<p>The collection offers insight into the mission and operation of a New York based mutual aid society for artists. The records span from the Society's founding in 1859 through 1937, a decade before it consolidated with the Society of Illustrators.</p><p>The records document the organization's structure, decision making, and finances. Meeting minutes, reports, amendments to the constitution, correspondence, resignations, wills, and financial records all demonstrate how the organization operated and changed over time. </p><p>Much of the correspondence in the collection describes the conditions of artists in need of help, including struggles with illness, disability, and economic hardship. </p><p>Sales ledgers documenting  annual art auctions from 1861 to 1889 include artist names, titles of paintings, names of purchasers, and purchase prices. </p><p>Series I of the collection consists of the papers of Alexander C. Morgan, a long time member of the Society who served as president from 1910 through 1933. Series II through X are made up of Society records arranged by type. Morgan's papers were acquired by the New-York Historical Society in 1941; the rest of the materials were donated by the Society of Illustrators in 2008. </p>  </scopecontent>
-  <userestrict id="aspace_4a2508a9c557eaba964fdd553e4fd858">
-    <head>Use Restrictions</head>
-<p>Taking images of documents from the library collections for reference purposes by using hand-held cameras and in accordance with the library's photography guidelines is encouraged. As an alternative, patrons may request up to 20 images per day from staff.</p><p>Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New-York Historical Society, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org. Phone: (212) 873-3400 ext. 282.</p><p>Copyrights and other proprietary rights may subsist in individuals and entities other than the New-York Historical Society, in which case the patron is responsible for securing permission from those parties. For fuller information about rights and reproductions from N-YHS visit: <extref xlink:actuate="onRequest" xlink:href="https://www.nyhistory.org/about/rights-reproductions">https://www.nyhistory.org/about/rights-reproductions</extref></p>  </userestrict>
-  <controlaccess>
-    <genreform source="aat">Agreements</genreform>
-    <genreform source="aat">Bankbooks.</genreform>
-    <genreform source="aat">Bank statements.</genreform>
-    <genreform source="aat">Checkbooks</genreform>
-    <genreform source="aat">Checks (bank checks)</genreform>
-    <genreform source="aat">Clippings (information artifacts)</genreform>
-    <genreform source="aat">Correspondence.</genreform>
-    <genreform source="aat">Financial records.</genreform>
-    <genreform source="aat">Minutes (administrative records)</genreform>
-    <genreform source="aat">Receipts (financial records)</genreform>
-    <genreform source="aat">Registers (lists)</genreform>
-    <genreform source="aat">Reports.</genreform>
-    <subject source="lcsh">Artists -- New York (State).</subject>
-    <subject source="lcsh">Artists -- Pensions -- New York (State).</subject>
-    <subject source="lcsh">Charities -- New York (State)  -- New York. </subject>
-    <subject source="lcsh">Fraternal organizations -- New York (State)  -- New York. </subject>
-    <geogname source="lcsh">New York (N.Y.) -- Social conditions.</geogname>
-    <persname rules="rda" source="local">Dunsmore, John Ward </persname>
-    <persname source="naf">Falconer, John Mackie, 1820-1903</persname>
-    <persname rules="rda" source="local">Morgan, Alexander C. </persname>
-    <corpname rules="rda" source="local">Fund for Superannuated Artists (New York, N.Y.)</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_ref8_4d5" level="series"><did><unittitle>Series I: Alexander C. Morgan Papers</unittitle><unitdate datechar="creation" normal="1881/1936" type="inclusive">1881-1936 </unitdate></did><scopecontent id="aspace_54c9d78fb431d64051c4407ccb6ab621"><head>Scope and Content Note</head><p>Series 1 consists of the papers of Alexander C. Morgan, arranged in 6 subseries: a) Correspondence b) Relief Cases c) Membership d) Related Artists' Fund Societies e) Financial and Real Estate and f) Notes and Clippings. </p><p>Morgan (1849-1933) was a financier and amateur landscape painter who served as president of the Artists' Fund Society from 1910-1933. A cousin of J. P. Morgan, he entered the stock brokerage business at an early age and founded the firm A.C. Morgan &amp; Co., serving as its head until 1928. He was a founder of the Salmagundi Club, a life member of the Metropolitan Museum of Art, and a fellow in perpetuity of the National Academy of Design. His artwork was exhibited at a number of private showings. </p></scopecontent><c id="aspace_ref194_ixv" level="series"><did><unittitle>Subseries A: Correspondence</unittitle></did><scopecontent id="aspace_696aa8c3ad217cbfdaad877636ce9b40"><head>Scope and Content Note</head><p>Correspondence is arranged alphabetically by correspondent. Letters consist largely of requests for assistance and thank you letters. Letters requesting assistance describe conditions of poverty, disability, illness, and old age, and are written by the artists themselves, as well as by family members, friends and charitable organizations on their behalf. Correspondents include John Ward Dunsmore, Secretary of the Artists' Fund Society, and William Merritt Post, Treasurer of the Artists' Fund Society.</p></scopecontent><c id="aspace_ref195_15w" level="file"><did><unittitle>Anderson-Aylward</unittitle><unitdate datechar="creation" normal="1923/1933" type="inclusive">1923-1933</unitdate><container id="aspace_e2ee6f35b7aae1f83904e0ce13595444" label="Mixed Materials" type="Box">1</container><container id="aspace_fbeb4ab2336cadc2315e09d36e46f540" parent="aspace_e2ee6f35b7aae1f83904e0ce13595444" type="Folder">1</container></did></c><c id="aspace_ref199_2ey" level="file"><did><unittitle>Dunsmore-Dutton</unittitle><unitdate datechar="creation" normal="1924/1933" type="inclusive">1924-1933</unitdate><container id="aspace_7c09c0d38be6badc9bc160ae8a84ba5c" label="Mixed Materials" type="Box">1</container><container id="aspace_1221e5c3afa3160678eb4cd1a1958417" parent="aspace_7c09c0d38be6badc9bc160ae8a84ba5c" type="Folder">2</container></did></c><c id="aspace_ref200_kr8" level="file"><did><unittitle>Berneker-Buehler</unittitle><unitdate datechar="creation" normal="1929/1933" type="inclusive">1929-1933</unitdate><container id="aspace_ed0b80f72c1f776db9ff631bcd82c406" label="Mixed Materials" type="Box">1</container><container id="aspace_37c3bb3c519e077a2627c8ad6771debf" parent="aspace_ed0b80f72c1f776db9ff631bcd82c406" type="Folder">3</container></did></c><c id="aspace_ref201_qbx" level="file"><did><unittitle>Chapman-Dewey</unittitle><unitdate datechar="creation" normal="1923/1931" type="inclusive">1923-1931</unitdate><container id="aspace_c1c882a4e490abe4be743581b7189b03" label="Mixed Materials" type="Box">1</container><container id="aspace_73272949c875e8d294e080d1330e90d5" parent="aspace_c1c882a4e490abe4be743581b7189b03" type="Folder">4</container></did></c><c id="aspace_ref202_9pl" level="file"><did><unittitle>Finley-French</unittitle><unitdate datechar="creation" normal="1926/1933" type="inclusive">1926-1933</unitdate><container id="aspace_00dda269e3d63baed08c3a6c7ceb1d7c" label="Mixed Materials" type="Box">1</container><container id="aspace_4c651e72402a6c665b1de96f7eccea64" parent="aspace_00dda269e3d63baed08c3a6c7ceb1d7c" type="Folder">5</container></did></c><c id="aspace_ref203_27y" level="file"><did><unittitle>Granville-Isador</unittitle><unitdate datechar="creation" normal="1925/1932" type="inclusive">1925-1932</unitdate><container id="aspace_5f86d66fabffe988a145fe257fb0764b" label="Mixed Materials" type="Box">1</container><container id="aspace_7d6392e85fe197e624c5037d973faa97" parent="aspace_5f86d66fabffe988a145fe257fb0764b" type="Folder">6</container></did></c><c id="aspace_ref204_66q" level="file"><did><unittitle>Jackson-Loweth</unittitle><unitdate datechar="creation" normal="1924/1933" type="inclusive">1924-1933</unitdate><container id="aspace_6cd13b25c50396bdaf1b06d9df5421c4" label="Mixed Materials" type="Box">1</container><container id="aspace_291e88487f2edb1ea86e6e59400015fe" parent="aspace_6cd13b25c50396bdaf1b06d9df5421c4" type="Folder">7</container></did></c><c id="aspace_ref205_xjy" level="file"><did><unittitle>MacDowell-Nichols</unittitle><unitdate datechar="creation" normal="1927/1933" type="inclusive">1927-1933</unitdate><container id="aspace_4fed065147d94ca71ca3e7e673c05773" label="Mixed Materials" type="Box">1</container><container id="aspace_7d670589e401bbd63c887f05a4c23546" parent="aspace_4fed065147d94ca71ca3e7e673c05773" type="Folder">8</container></did></c><c id="aspace_ref206_rjr" level="file"><did><unittitle>Nordell-Phelps</unittitle><unitdate datechar="creation" normal="1925/1933" type="inclusive">1925-1933</unitdate><container id="aspace_23409716ca797cd3ed6ba79517ac75fb" label="Mixed Materials" type="Box">1</container><container id="aspace_36e923621fe100e47e0a2a565f85d811" parent="aspace_23409716ca797cd3ed6ba79517ac75fb" type="Folder">9</container></did></c><c id="aspace_ref207_yip" level="file"><did><unittitle>Post</unittitle><unitdate datechar="creation" normal="1923/1933" type="inclusive">1923-1933</unitdate><container id="aspace_abe9edf6a5accb674d1f29f8d9c1abbb" label="Mixed Materials" type="Box">2</container><container id="aspace_147b4271a1d48a956af2ba70b48a0b1a" parent="aspace_abe9edf6a5accb674d1f29f8d9c1abbb" type="Folder">1</container></did></c><c id="aspace_ref208_d4y" level="file"><did><unittitle>Potthast-Price</unittitle><unitdate datechar="creation" normal="1925/1932" type="inclusive">1925-1932</unitdate><container id="aspace_7964fca3b4ae79ecfd4f1594aa11be06" label="Mixed Materials" type="Box">2</container><container id="aspace_df074689c85d95380dcd7f41e415bd1b" parent="aspace_7964fca3b4ae79ecfd4f1594aa11be06" type="Folder">2</container></did></c><c id="aspace_ref209_3ia" level="file"><did><unittitle>Raynor-Streatfeild</unittitle><unitdate datechar="creation" normal="1925/1933" type="inclusive">1925-1933</unitdate><container id="aspace_7e4562942ab8f74ace7941a5abd5948f" label="Mixed Materials" type="Box">2</container><container id="aspace_9e60cad041fe516c6c1da4e81287ba64" parent="aspace_7e4562942ab8f74ace7941a5abd5948f" type="Folder">3</container></did></c><c id="aspace_ref210_nh8" level="file"><did><unittitle>Tompkins-Winsor</unittitle><unitdate datechar="creation" normal="1929/1933" type="inclusive">1929-1933</unitdate><container id="aspace_a6c347233fc0f352b532f08919d1694a" label="Mixed Materials" type="Box">2</container><container id="aspace_eac990a4cec9baace49c19bab3c38de0" parent="aspace_a6c347233fc0f352b532f08919d1694a" type="Folder">4</container></did></c></c><c id="aspace_ref44_b73" level="subseries"><did><unittitle>Subseries B: Relief Cases</unittitle></did><scopecontent id="aspace_e1260b5c339ba0043b96d0555cf2dfc9"><head>Scope and Content Note</head><p>This bound volume documents aid to artists provided by the Artists' Fund Society. It includes an alphabetized list of recipients followed by brief descriptions of each artist's circumstances and actions taken by the Society to provide help.</p></scopecontent><c id="aspace_ref46_sbu" level="file"><did><unittitle>Relief Cases, Board of Control</unittitle><unitdate datechar="creation" normal="1931/1933" type="inclusive">1931-1933</unitdate><container id="aspace_4350db5aa8a4df088354d8303c71c924" label="Mixed Materials" type="Volume">1</container></did></c></c><c id="aspace_ref82_muy" level="subseries"><did><unittitle>Subseries C: Membership</unittitle></did><scopecontent id="aspace_3e19cbdf5ed5158cd139a843ae0eb9f3"><head>Scope and Content Note</head><p>These records document activities of the membership and legal agreements pertaining to assistance to families of deceased members. The Artists' Fund Society souvenir includes a small landscape painting by Arthur E. Powell.</p></scopecontent><c id="aspace_ref83_cfs" level="file"><did><unittitle>Annual Dinner Souvenir and Ephemera</unittitle><unitdate datechar="creation" normal="1911/1911" type="inclusive">1911 and undated</unitdate><container id="aspace_da40047185a93dd4106f4f6c9660c0c0" label="Mixed Materials" type="Box">2</container><container id="aspace_193a90d0815d7e46eefca9a5da1c8d9e" parent="aspace_da40047185a93dd4106f4f6c9660c0c0" type="Folder">5</container></did></c><c id="aspace_ref84_e1k" level="file"><did><unittitle>Meeting Notices</unittitle><unitdate datechar="creation" normal="1924/1933" type="inclusive">1924-1933</unitdate><container id="aspace_0b6f342179acb1e786957281c99fddcc" label="Mixed Materials" type="Box">2</container><container id="aspace_7ec14c0d7b33a337924ea85e8fb31830" parent="aspace_0b6f342179acb1e786957281c99fddcc" type="Folder">6</container></did></c><c id="aspace_ref85_r1y" level="file"><did><unittitle>Wills and Estates</unittitle><unitdate datechar="creation" normal="1923/1931" type="inclusive">1923-1931</unitdate><container id="aspace_82ccc74c68baea3e417ff027330dc87a" label="Mixed Materials" type="Box">2</container><container id="aspace_8b4e0fd8f9f997c0c80f31d758794cbf" parent="aspace_82ccc74c68baea3e417ff027330dc87a" type="Folder">7</container></did></c></c><c id="aspace_ref86_rj8" level="subseries"><did><unittitle>Subseries D: Related Artist Fund Societies</unittitle></did><scopecontent id="aspace_dd5536ca5938666ed3d2be323e4d8824"><head>Scope and Content Note</head><p>The Fund for Superannuated Artists was established in the early 1900s to assist aged artists in maintaining suitable homes. It was founded by members of the Artists' Fund Society and the Artists' Aid Society, and in 1932 it dissolved, dividing its money between the two organizations. Correspondence, meeting minutes, notes and memorandums document this history and the 1932 agreement.</p></scopecontent><c id="aspace_ref87_fes" level="file"><did><unittitle>Fund for Superannuated Artists</unittitle><unitdate datechar="creation" normal="1923/1932" type="inclusive">1923-1932</unitdate><container id="aspace_8aa9fed229ada54ad144c55d99a1e159" label="Mixed Materials" type="Box">2</container><container id="aspace_795d009246a985ff08aeca679376c1f0" parent="aspace_8aa9fed229ada54ad144c55d99a1e159" type="Folder">8</container></did></c></c><c id="aspace_ref88_v9p" level="subseries"><did><unittitle>Subseries E: Financial and Real Estate</unittitle></did><scopecontent id="aspace_62e48744d9b9098b0c9cd8294a417af1"><head>Scope and Content Note</head><p>The majority of these records document the Society's real estate investments.</p></scopecontent><c id="aspace_ref90_xjp" level="file"><did><unittitle>Bills and Receipts</unittitle><unitdate datechar="creation" normal="1920/1931" type="inclusive">1920-1931</unitdate><container id="aspace_66389327fa27ef7ce17cb35e61dbd1b8" label="Mixed Materials" type="Box">2</container><container id="aspace_403996f7f68dfbcd99b42b2f6e0476e8" parent="aspace_66389327fa27ef7ce17cb35e61dbd1b8" type="Folder">9</container></did></c><c id="aspace_ref92_v5q" level="file"><did><unittitle>Mortgages, Becker-Kertyczak</unittitle><unitdate datechar="creation" normal="1923/1934" type="inclusive">1923-1934</unitdate><container id="aspace_fe42f11950a0b2e6448502a151923b41" label="Mixed Materials" type="Box">2</container><container id="aspace_434b7f916e64eafb5b584fdd7a7f6dc2" parent="aspace_fe42f11950a0b2e6448502a151923b41" type="Folder">10</container></did></c><c id="aspace_ref93_m05" level="file"><did><unittitle>Mortgages, Marx-Villosio</unittitle><unitdate datechar="creation" normal="1924/1934" type="inclusive">1924-1934</unitdate><container id="aspace_3ff7e135105f162005f7662d07bedd8a" label="Mixed Materials" type="Box">2</container><container id="aspace_bf3f3890da8d8f61bf3778ff26a953d8" parent="aspace_3ff7e135105f162005f7662d07bedd8a" type="Folder">11</container></did></c><c id="aspace_ref94_f0o" level="file"><did><unittitle>Real Estate Documents</unittitle><unitdate datechar="creation" normal="1924/1933" type="inclusive">1924-1933</unitdate><container id="aspace_c319ddac86d27bb7d8f7cbeead9a2043" label="Mixed Materials" type="Box">2</container><container id="aspace_0c120d9e70c63b4fe6835a2e385283cd" parent="aspace_c319ddac86d27bb7d8f7cbeead9a2043" type="Folder">12</container></did></c></c><c id="aspace_ref95_ttu" level="subseries"><did><unittitle>Subseries F: Notes and Clippings</unittitle></did><scopecontent id="aspace_2aaafbd6735e1ff0fc05d41aa2bf00f9"><head>Scope and Content Note</head><p>This subseries consists largely of Morgan's hand written notes. A small quantity of newspaper clippings document Artists' Fund Society activities and external developments impacting the Society.</p></scopecontent><c id="aspace_ref96_mjq" level="file"><did><unittitle>Newspaper Clippings</unittitle><unitdate datechar="creation" normal="1881/1933" type="inclusive">1881-1933</unitdate><container id="aspace_fa5145862434793350b9e461de46e723" label="Mixed Materials" type="Box">3</container><container id="aspace_88337e6e15311fb763005b00d21e149b" parent="aspace_fa5145862434793350b9e461de46e723" type="Folder">1</container></did></c><c id="aspace_ref97_fw6" level="file"><did><unittitle>Notes (Hand Written)</unittitle><unitdate datechar="creation" normal="1926/1933" type="inclusive">1926-1933</unitdate><container id="aspace_4e376374f8fc3368a9d96e6f0edc1a66" label="Mixed Materials" type="Box">3</container><container id="aspace_f8f764c247beb2d6e3016abda1c31ef2" parent="aspace_4e376374f8fc3368a9d96e6f0edc1a66" type="Folder">2</container></did></c></c></c><c id="aspace_ref15_8hm" level="series"><did><unittitle>Series II: Constitution and Amendments</unittitle></did><scopecontent id="aspace_2a6511a22fe2f4bdb00d6763d74279f5"><head>Scope and Content Note</head><p>This series consists of multiple versions of the constitution (printed and hand written), as well as proposals to amend the constitution over the years.</p></scopecontent><c id="aspace_ref16_0o7" level="file"><did><unittitle>Constitution (Hand Written)</unittitle><unitdate datechar="creation" normal="1859/1859" type="inclusive">1859</unitdate><container id="aspace_85d2069f31a3685b006e42e6b3cfb102" label="Mixed Materials" type="Box">3</container><container id="aspace_edc9058005e91213cf4ce61f01d4d0bc" parent="aspace_85d2069f31a3685b006e42e6b3cfb102" type="Folder">3</container></did></c><c id="aspace_ref35_i0w" level="file"><did><unittitle>Constitution (Printed)</unittitle><unitdate datechar="creation" normal="1859/1859" type="inclusive">1859</unitdate><container id="aspace_07fc0eedfe1856231a7dbf8d8bce5ba6" label="Mixed Materials" type="Box">3</container><container id="aspace_22bdb666f8a0851211c70181bb72f9f4" parent="aspace_07fc0eedfe1856231a7dbf8d8bce5ba6" type="Folder">4</container></did></c><c id="aspace_ref36_a20" level="file"><did><unittitle>Constitution (Printed)</unittitle><unitdate datechar="creation">Circa 1860</unitdate><container id="aspace_9f0c27f38f74f8644c2eb18f20904f83" label="Mixed Materials" type="Box">3</container><container id="aspace_62f5b69b2de8d24973a71cc6e9ed9b92" parent="aspace_9f0c27f38f74f8644c2eb18f20904f83" type="Folder">5</container></did></c><c id="aspace_ref37_if9" level="file"><did><unittitle>Amendments and Resolutions
-</unittitle><unitdate datechar="creation" normal="1860/1936" type="inclusive">1860 June 6-1936 March 12</unitdate><container id="aspace_037835e71415f21a64bed8e5c1da5bdc" label="Mixed Materials" type="Box">3</container><container id="aspace_83244286f035f921ee794dbcecc7ddca" parent="aspace_037835e71415f21a64bed8e5c1da5bdc" type="Folder">6</container></did></c></c><c id="aspace_ref17_u0z" level="series"><did><unittitle>Series III: Minutes</unittitle></did><scopecontent id="aspace_e3b5adb3d220a21764d8e15d31247f10"><head>Scope and Content Note</head><p>Meeting minutes are hand written and arranged chronologically in bound volumes. They are continuous from February 5, 1859 through April 1, 1873 and from February 8, 1876 through March 12, 1922. They include annual and quarterly (or later, "semi-annual") meetings of the membership, as well as monthly meetings of the Board of Control. Business discussed includes nomination and election of general and board members, financial investments, aid to members and non-members, planning of annual exhibits and dinners, and proposals to amend the constitution. Officers and names of those present are listed for each meeting.</p></scopecontent><c id="aspace_ref18_9h3" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1859/1873" type="inclusive">1859 February 5-1873 April 1</unitdate><container id="aspace_86678aa7645da7bd078c246c8416bc8a" label="Mixed Materials" type="Volume">2</container></did></c><c id="aspace_ref71_v77" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1876/1885" type="inclusive">1876 February 8-1885 May 5</unitdate><container id="aspace_69c6250f7a19f1dfad1e8404858cbac0" label="Mixed Materials" type="Volume">3</container></did></c><c id="aspace_ref72_8ji" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation" normal="1885/1897" type="inclusive">1885 May 12-1897 April 13</unitdate><container id="aspace_e3c8463b92c5ed1ee22e4c6379725062" label="Mixed Materials" type="Volume">4</container></did></c><c id="aspace_ref73_i2f" level="file"><did><unittitle>Minutes</unittitle><unitdate datechar="creation">1897 April 20-1922 March 12</unitdate><container id="aspace_71f2168e555c52a7c12487f057341ae4" label="Mixed Materials" type="Volume">5</container></did></c></c><c id="aspace_ref19_h4d" level="series"><did><unittitle>Series IV: Reports</unittitle></did><scopecontent id="aspace_b4f6694911b041267406c3abae948cc7"><head>Scope and Content Note</head><p>Reports are grouped by type. With the exception of Biennial Reports (which were formally published), most of these reports are hand written or typed drafts with hand written corrections and notations. The presidential and secretarial reports appear to be speeches that were read at the annual meeting or dinner. These reports discuss the overall health and activities of the organization, note deaths of members, and welcome new members.</p></scopecontent><c id="aspace_ref20_i2z" level="file"><did><unittitle>Biennial Reports</unittitle><unitdate datechar="creation" normal="1916/1916" type="inclusive">1916</unitdate><container id="aspace_afe4a291ce8dee66ed57401cb8e5be5c" label="Mixed Materials" type="Box">3</container><container id="aspace_308a9316ba87efb9be664607b698d5f0" parent="aspace_afe4a291ce8dee66ed57401cb8e5be5c" type="Folder">7</container></did></c><c id="aspace_ref251_93w" level="file"><did><unittitle>Leaflets</unittitle><unitdate datechar="creation" normal="1888/1888" type="inclusive">Circa 1888</unitdate><container id="aspace_d27734764cf231e16a6967ffab01783d" label="Mixed Materials" type="Box">3</container><container id="aspace_b2e7a87d72302dfc5b48f20beb7464ce" parent="aspace_d27734764cf231e16a6967ffab01783d" type="Folder">8</container></did></c><c id="aspace_ref74_sih" level="file"><did><unittitle>Nominations Committee Reports</unittitle><unitdate datechar="creation" normal="1896/1930" type="inclusive">1896-1930</unitdate><container id="aspace_f56b313822836f6aba9bf3dd6b8c285e" label="Mixed Materials" type="Box">3</container><container id="aspace_dd93ab2ccd9938644942599e05442f1e" parent="aspace_f56b313822836f6aba9bf3dd6b8c285e" type="Folder">9</container></did></c><c id="aspace_ref75_yo8" level="file"><did><unittitle>President's Reports</unittitle><unitdate datechar="creation" normal="1885/1900" type="inclusive">1895-1900 and undated</unitdate><container id="aspace_ab5aad19f9b492c232483830a4b8a6dd" label="Mixed Materials" type="Box">3</container><container id="aspace_d7f868c2ebcc034463e1a38ff1da0823" parent="aspace_ab5aad19f9b492c232483830a4b8a6dd" type="Folder">10</container></did></c><c id="aspace_ref76_avx" level="file"><did><unittitle>Secretary's Reports</unittitle><unitdate datechar="creation" normal="1917/1931" type="inclusive">1917-1931</unitdate><container id="aspace_988ff211b6fbf793e1b6b04ef7d66ca1" label="Mixed Materials" type="Box">3</container><container id="aspace_c6a4f29fe71789098e7b6ac6efa5bcf7" parent="aspace_988ff211b6fbf793e1b6b04ef7d66ca1" type="Folder">11</container></did></c><c id="aspace_ref77_k8y" level="file"><did><unittitle>Special Committee Reports</unittitle><unitdate datechar="creation" normal="1883/1916" type="inclusive">1883-1916</unitdate><container id="aspace_ed09cd67f976df9a702dd8d1960bfc67" label="Mixed Materials" type="Box">3</container><container id="aspace_72737fdc1e92266cbb688d5dae0aaff1" parent="aspace_ed09cd67f976df9a702dd8d1960bfc67" type="Folder">12</container></did></c><c id="aspace_ref78_smp" level="file"><did><unittitle>Treasurer and Auditor Reports</unittitle><unitdate datechar="creation" normal="1916/1923" type="inclusive">1916-1923</unitdate><container id="aspace_b4626697fc81791282b61e7dfeb5ffd8" label="Mixed Materials" type="Box">3</container><container id="aspace_a36147441d30f6e801c8c3e4caf0c06f" parent="aspace_b4626697fc81791282b61e7dfeb5ffd8" type="Folder">13</container></did></c><c id="aspace_ref79_qub" level="file"><did><unittitle>Treasurer and Auditor Reports</unittitle><unitdate datechar="creation" normal="1924/1937" type="inclusive">1924-1937</unitdate><container id="aspace_2b5edc6d95a153150f624538100be314" label="Mixed Materials" type="Box">3</container><container id="aspace_95ebe425ba5494bcfe4eda3a75d1d50c" parent="aspace_2b5edc6d95a153150f624538100be314" type="Folder">14</container></did></c></c><c id="aspace_ref21_hed" level="series"><did><unittitle>Series V: Correspondence</unittitle></did><scopecontent id="aspace_fc64f3465ebc9b8b80bb2e719d4d13a9"><head>Scope and Content Note</head><p>This series consists of letters received by Artists' Fund Society officers and board members arranged alphabetically by recipient. Additionally, correspondence associated with particular committees and positions is grouped at the end. Letters address a range of activities and issues, including assistance to artists in need, updates on the health of those receiving aid, notifications of deaths of members, payment of assessment fees, honorary memberships, thank you letters, resignations, nominations for membership or service on the Board of Control, and other Society business.</p></scopecontent><c id="aspace_ref105_au8" level="file"><did><unittitle>de Forest, Lockwood</unittitle><unitdate datechar="creation" normal="1894/1905" type="inclusive">1894-1905</unitdate><container id="aspace_392115744515429fae1bd2eeab3d6aac" label="Mixed Materials" type="Box">4</container><container id="aspace_58ab36b7b68cb5d1e723e833d6164903" parent="aspace_392115744515429fae1bd2eeab3d6aac" type="Folder">1</container></did></c><c id="aspace_ref254_1u0" level="file"><did><unittitle>Department of Health</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_e15ee729e395ad06b8e5f08f14f7cff4" label="Mixed Materials" type="Box">4</container><container id="aspace_91ac60888480e156bdb46e031f1889d7" parent="aspace_e15ee729e395ad06b8e5f08f14f7cff4" type="Folder">2</container></did></c><c id="aspace_ref116_t4b" level="file"><did><unittitle>Dunsmore, John Ward</unittitle><unitdate datechar="creation" normal="1925/1930" type="inclusive">1925-1930</unitdate><container id="aspace_cae54cf46cdc661caff644ab59e5b208" label="Mixed Materials" type="Box">4</container><container id="aspace_7d2936a8664ca9ba51d837b95690deac" parent="aspace_cae54cf46cdc661caff644ab59e5b208" type="Folder">3</container></did></c><c id="aspace_ref115_vdf" level="file"><did><unittitle>Dunsmore, John Ward</unittitle><unitdate datechar="creation" normal="1931/1935" type="inclusive">1931-1936</unitdate><container id="aspace_a5622f581df4db50a1d62b652ed43bc3" label="Mixed Materials" type="Box">4</container><container id="aspace_1379f6ce421b1e8c9ee19646f8b13f96" parent="aspace_a5622f581df4db50a1d62b652ed43bc3" type="Folder">4</container></did></c><c id="aspace_ref106_i2g" level="file"><did><unittitle>Dustin, Silas</unittitle><unitdate datechar="creation" normal="1908/1909" type="inclusive">1908-1909</unitdate><container id="aspace_928585831b94449b193755aefcd43b02" label="Mixed Materials" type="Box">4</container><container id="aspace_c374c3c0b0ea103a0cd0aab30213996d" parent="aspace_928585831b94449b193755aefcd43b02" type="Folder">5</container></did></c><c id="aspace_ref107_rhi" level="file"><did><unittitle>Falconer, John M. </unittitle><unitdate datechar="creation" normal="1878/1878" type="inclusive">1878</unitdate><container id="aspace_cf5fda0bb9ca7ac8f4b0477646da0e68" label="Mixed Materials" type="Box">4</container><container id="aspace_e324776e17b78457128e57df6b629b95" parent="aspace_cf5fda0bb9ca7ac8f4b0477646da0e68" type="Folder">6</container></did></c><c id="aspace_ref108_sdc" level="file"><did><unittitle>Hicks, Thomas</unittitle><unitdate datechar="creation" normal="1876/1876" type="inclusive">1876</unitdate><container id="aspace_7ff954e3d0958ff551e61cb0469e4410" label="Mixed Materials" type="Box">4</container><container id="aspace_9e975df8d26e2bd550193ac0cb3302c2" parent="aspace_7ff954e3d0958ff551e61cb0469e4410" type="Folder">7</container></did></c><c id="aspace_ref109_8ra" level="file"><did><unittitle>Hunt, Leigh</unittitle><unitdate datechar="creation" normal="1907/1909" type="inclusive">1907-1909</unitdate><container id="aspace_e29ceb2586ef20c7015e09aac944f6c2" label="Mixed Materials" type="Box">4</container><container id="aspace_7be128bd67bc1a87eccd846bd1628aa5" parent="aspace_e29ceb2586ef20c7015e09aac944f6c2" type="Folder">8</container></did></c><c id="aspace_ref110_p86" level="file"><did><unittitle>Post, William Merritt</unittitle><unitdate datechar="creation" normal="1910/1935" type="inclusive">1910-1935</unitdate><container id="aspace_f9603933d8506c746c4c43dfce531616" label="Mixed Materials" type="Box">4</container><container id="aspace_8ca6ce7cf9a87a9d3c5cf7035bd9370c" parent="aspace_f9603933d8506c746c4c43dfce531616" type="Folder">9</container></did></c><c id="aspace_ref111_zlb" level="file"><did><unittitle>Shurtleff, R. M.</unittitle><unitdate datechar="creation" normal="1893/1893" type="inclusive">1893 and undated</unitdate><container id="aspace_13be8c713c06bec315a076d9661d7586" label="Mixed Materials" type="Box">4</container><container id="aspace_6c38696a4a4e009f5d79179749b3fd71" parent="aspace_13be8c713c06bec315a076d9661d7586" type="Folder">10</container></did></c><c id="aspace_ref112_ch7" level="file"><did><unittitle>Sindelar, T. A.</unittitle><unitdate datechar="creation" normal="1914/1914" type="inclusive">1914</unitdate><container id="aspace_07a294e98c37e66bd1d2375e97b99dea" label="Mixed Materials" type="Box">4</container><container id="aspace_edac44be87d800f7c35f076ae4bb1151" parent="aspace_07a294e98c37e66bd1d2375e97b99dea" type="Folder">11</container></did></c><c id="aspace_ref113_gok" level="file"><did><unittitle>Williams, John Alonzo</unittitle><unitdate datechar="creation" normal="1935/1937" type="inclusive">1935-1937</unitdate><container id="aspace_542a0de7b65e465d123734781b7764b4" label="Mixed Materials" type="Box">4</container><container id="aspace_00d14dc22f8a19689513c7ff774f264d" parent="aspace_542a0de7b65e465d123734781b7764b4" type="Folder">12</container></did></c><c id="aspace_ref114_17i" level="file"><did><unittitle>Yewell, George H.</unittitle><unitdate datechar="creation" normal="1892/1899" type="inclusive">1892-1899</unitdate><container id="aspace_3675b303d80204c058d1173b455deedd" label="Mixed Materials" type="Box">4</container><container id="aspace_c33a380e28023a9a69eb64f693b95e1b" parent="aspace_3675b303d80204c058d1173b455deedd" type="Folder">13</container></did></c><c id="aspace_ref117_i3m" level="file"><did><unittitle>Yewell, George H.</unittitle><unitdate datechar="creation" normal="1900/1909" type="inclusive">1900-1909</unitdate><container id="aspace_6ede46d90a02e5264be788bde1068707" label="Mixed Materials" type="Box">4</container><container id="aspace_b166065262215a2a583a4ef8fc3422a6" parent="aspace_6ede46d90a02e5264be788bde1068707" type="Folder">14</container></did></c><c id="aspace_ref118_sf8" level="file"><did><unittitle>Artists' Fund Society, General</unittitle><unitdate datechar="creation" normal="1888/1919" type="inclusive">1888-1919</unitdate><container id="aspace_59e37d3b0160f7e9dd9bff2e1386e149" label="Mixed Materials" type="Box">4</container><container id="aspace_8d2de7cd3f20146f93c9eea24de92b65" parent="aspace_59e37d3b0160f7e9dd9bff2e1386e149" type="Folder">15</container></did></c><c id="aspace_ref119_26s" level="file"><did><unittitle>Special Committee</unittitle><unitdate datechar="creation" normal="1885/1885" type="inclusive">1885</unitdate><container id="aspace_6e0f3cefe748a556abd14cd28056f10a" label="Mixed Materials" type="Box">4</container><container id="aspace_80520066ef12ec26d3147b7c00d2f710" parent="aspace_6e0f3cefe748a556abd14cd28056f10a" type="Folder">16</container></did></c><c id="aspace_ref154_bud" level="file"><did><unittitle>Board Members and Officers </unittitle><unitdate datechar="creation" normal="1860/1880" type="inclusive">1860-1880</unitdate><container id="aspace_fbc221513a00dc5f1cea7a3b41518630" label="Mixed Materials" type="Volume">6</container></did></c><c id="aspace_ref155_5mj" level="file"><did><unittitle>Treasurer </unittitle><unitdate datechar="creation" normal="1897/1906" type="inclusive">1897-1906</unitdate><container id="aspace_d001af2061b38138f67b6c8c49de7850" label="Mixed Materials" type="Volume">7</container></did></c></c><c id="aspace_ref23_x1e" level="series"><did><unittitle>Series VI: Membership</unittitle></did><scopecontent id="aspace_3ae5913028141973d70bceed289ecdfd"><head>Scope and Content Note</head><p>Lists, nominations, honorary memberships, notifications of member deaths, and resignations all track the composition and structure of Artists' Fund Society membership over time. Additionally, death of members and fees lists, designation of benefits forms, will and estate documents, and receipts documenting benefit payments all demonstrate how assistance was administered to widows, children and families of deceased members.</p></scopecontent><c id="aspace_ref227_0aa" level="file"><did><unittitle>Annual Meeting and Dinner Notices</unittitle><unitdate datechar="creation" normal="1920/1924" type="inclusive">1920-1924</unitdate><container id="aspace_20ef52ed5fd044bcaa0559f2ff4ca5fe" label="Mixed Materials" type="Box">4</container><container id="aspace_0beb4d9eb4ee6bebc5f9d24acc70a975" parent="aspace_20ef52ed5fd044bcaa0559f2ff4ca5fe" type="Folder">17</container></did></c><c id="aspace_ref124_otj" level="file"><did><unittitle>Death of Members and Fees List</unittitle><unitdate datechar="creation" normal="1903/1908" type="inclusive">1903-1908</unitdate><container id="aspace_4abac6f1a8392b665615084a483c5012" label="Mixed Materials" type="Box">4</container><container id="aspace_86ffb0a3aac94fee1e01d46ce453978d" parent="aspace_4abac6f1a8392b665615084a483c5012" type="Folder">18</container></did></c><c id="aspace_ref143_lc0" level="file"><did><unittitle>Death of Members Notices</unittitle><unitdate datechar="creation" normal="1867/1905" type="inclusive">1867-1905</unitdate><container id="aspace_f60af9fd4d7b5ce19566d56f97f71e46" label="Mixed Materials" type="Box">4</container><container id="aspace_32d2fc70cb81b466c7c3fdb3a3c5d5c7" parent="aspace_f60af9fd4d7b5ce19566d56f97f71e46" type="Folder">19</container></did></c><c id="aspace_ref126_mfc" level="file"><did><unittitle>Death of Members Since 1925 List</unittitle><unitdate datechar="creation" normal="1935/1935" type="inclusive">Circa 1935</unitdate><container id="aspace_78ebd082e85fdf9fe36688601453fc14" label="Mixed Materials" type="Box">5</container><container id="aspace_1d351381f2983af8c8fd1a8e02a864c2" parent="aspace_78ebd082e85fdf9fe36688601453fc14" type="Folder">1</container></did></c><c id="aspace_ref144_rk5" level="file"><did><unittitle>Death of Members, Unpaid Assessments</unittitle><unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate><container id="aspace_95cef2b3c579f164177be72d5a689d7d" label="Mixed Materials" type="Box">5</container><container id="aspace_e5edc898e04fd22a436b1fa5108005de" parent="aspace_95cef2b3c579f164177be72d5a689d7d" type="Folder">2</container></did></c><c id="aspace_ref148_81u" level="file"><did><unittitle>Designation of Benefits, Adams-Ennis</unittitle><unitdate datechar="creation" normal="1896/1932" type="inclusive">1896-1932</unitdate><container id="aspace_c97b79fa8e3290eb3494917efd8ea6d5" label="Mixed Materials" type="Box">5</container><container id="aspace_fe1fd9f094486f804af4ee6b436f5468" parent="aspace_c97b79fa8e3290eb3494917efd8ea6d5" type="Folder">3</container></did></c><c id="aspace_ref149_2gj" level="file"><did><unittitle>Designation of Benefits, Fassett-Loomis</unittitle><unitdate datechar="creation" normal="1896/1932" type="inclusive">1896-1932</unitdate><container id="aspace_f5deda503c491e5a64d0a4fbd48ab492" label="Mixed Materials" type="Box">5</container><container id="aspace_cfc9c5a343edc5167934f36a10af4f47" parent="aspace_f5deda503c491e5a64d0a4fbd48ab492" type="Folder">4</container></did></c><c id="aspace_ref150_b00" level="file"><did><unittitle>Designation of Benefits, Macy-Ryder</unittitle><unitdate datechar="creation" normal="1896/1931" type="inclusive">1896-1931</unitdate><container id="aspace_b25a983b9c80026b45b48957302bfebb" label="Mixed Materials" type="Box">5</container><container id="aspace_50c3529eabf79948e176a9833724dde5" parent="aspace_b25a983b9c80026b45b48957302bfebb" type="Folder">5</container></did></c><c id="aspace_ref151_ftj" level="file"><did><unittitle>Designation of Benefits, Sandor-Wood</unittitle><unitdate datechar="creation" normal="1896/1932" type="inclusive">1896-1932</unitdate><container id="aspace_15170f12c091f56fa597ef045c370e91" label="Mixed Materials" type="Box">5</container><container id="aspace_cb47326b429d19d3dd4b6ef3c5ac4424" parent="aspace_15170f12c091f56fa597ef045c370e91" type="Folder">6</container></did></c><c id="aspace_ref128_fhu" level="file"><did><unittitle>Honorary Memberships</unittitle><unitdate datechar="creation" normal="1892/1892" type="inclusive">1892</unitdate><container id="aspace_1fcb62b2e7fe711b0914d1b1f9fedf32" label="Mixed Materials" type="Box">5</container><container id="aspace_2bcfcf4b81142ace0b8b69896e83a214" parent="aspace_1fcb62b2e7fe711b0914d1b1f9fedf32" type="Folder">7</container></did></c><c id="aspace_ref129_mbj" level="file"><did><unittitle>Membership List</unittitle><unitdate datechar="creation" normal="1883/1934" type="inclusive">Circa 1883-1934</unitdate><container id="aspace_f8a58066c74c6305a306f778cff202c2" label="Mixed Materials" type="Box">5</container><container id="aspace_715564cc6e1f3767dbc7b7d4b6b4a75b" parent="aspace_f8a58066c74c6305a306f778cff202c2" type="Folder">8</container></did></c><c id="aspace_ref130_nie" level="file"><did><unittitle>Membership List</unittitle><unitdate datechar="creation">Circa 1935</unitdate><container id="aspace_82d163c75d34443841fc9cb6b8fb8e83" label="Mixed Materials" type="Box">5</container><container id="aspace_7f7403b55d4dc3820f002d8f8b5bcf50" parent="aspace_82d163c75d34443841fc9cb6b8fb8e83" type="Folder">9</container></did></c><c id="aspace_ref226_nzt" level="file"><did><unittitle>Newspaper Clippings</unittitle><unitdate datechar="creation" normal="1927/1927" type="inclusive">1927 and undated</unitdate><container id="aspace_96c92a80fd6a1b34ecb726a0609116f5" label="Mixed Materials" type="Box">5</container><container id="aspace_94524e481fb8a850ecc959785f68d982" parent="aspace_96c92a80fd6a1b34ecb726a0609116f5" type="Folder">10</container></did></c><c id="aspace_ref132_mfm" level="file"><did><unittitle>Nominations for Membership</unittitle><unitdate datechar="creation" normal="1897/1921" type="inclusive">1897-1921</unitdate><container id="aspace_780350bfdadbfc4a8332f160b64d330a" label="Mixed Materials" type="Box">5</container><container id="aspace_72687b16098d90c791535cae224e4a20" parent="aspace_780350bfdadbfc4a8332f160b64d330a" type="Folder">11</container></did></c><c id="aspace_ref145_8r8" level="file"><did><unittitle>Receipt of Payment Upon Resignations and Deaths</unittitle><unitdate datechar="creation" normal="1885/1887" type="inclusive">1885-1887</unitdate><container id="aspace_5f28c13082aa646bdaa84f88086503d2" label="Mixed Materials" type="Box">5</container><container id="aspace_14991720626cf51472de794af27e3f8b" parent="aspace_5f28c13082aa646bdaa84f88086503d2" type="Folder">12</container></did></c><c id="aspace_ref146_xqq" level="file"><did><unittitle>Receipt of Payment Upon Deaths</unittitle><unitdate datechar="creation" normal="1914/1919" type="inclusive">1914-1919</unitdate><container id="aspace_9ed06c66b3ecaba94981ca600f824ec4" label="Mixed Materials" type="Box">5</container><container id="aspace_1aefce68a3af7411c74b66952a0c031f" parent="aspace_9ed06c66b3ecaba94981ca600f824ec4" type="Folder">13</container></did></c><c id="aspace_ref147_onh" level="file"><did><unittitle>Receipt of Payment Upon Deaths</unittitle><unitdate datechar="creation" normal="1932/1935" type="inclusive">1932-1935</unitdate><container id="aspace_67d571607a5085c9687f7ebfa2d116fe" label="Mixed Materials" type="Box">5</container><container id="aspace_9a674607f582832328c9c0f24f2c7127" parent="aspace_67d571607a5085c9687f7ebfa2d116fe" type="Folder">14</container></did></c><c id="aspace_ref133_ijj" level="file"><did><unittitle>Resignation Documents</unittitle><unitdate datechar="creation" normal="1885/1885" type="inclusive">1885</unitdate><container id="aspace_fd89926cb2b5ce252097ec8a0674b732" label="Mixed Materials" type="Box">6</container><container id="aspace_e83e5b2ea19d01536b9c522f3094ca42" parent="aspace_fd89926cb2b5ce252097ec8a0674b732" type="Folder">1</container></did></c><c id="aspace_ref134_2z5" level="file"><did><unittitle>Resignation Documents</unittitle><unitdate datechar="creation" normal="1885/1885" type="inclusive">1885</unitdate><container id="aspace_0e0ecb64ee76cd5764192c14038bca42" label="Mixed Materials" type="Box">6</container><container id="aspace_1739c8ad6d59fec8e3013b2a77138171" parent="aspace_0e0ecb64ee76cd5764192c14038bca42" type="Folder">2</container></did></c><c id="aspace_ref135_pl6" level="file"><did><unittitle>Resignation Documents</unittitle><unitdate datechar="creation" normal="1886/1886" type="inclusive">1886</unitdate><container id="aspace_246ebe75410b7e8d166dfb5faa59026b" label="Mixed Materials" type="Box">6</container><container id="aspace_ccbbe86babc491039e025509de039437" parent="aspace_246ebe75410b7e8d166dfb5faa59026b" type="Folder">3</container></did></c><c id="aspace_ref136_nfz" level="file"><did><unittitle>Resignation Documents</unittitle><unitdate datechar="creation" normal="1887/1887" type="inclusive">1887</unitdate><container id="aspace_0178219a96acd622f9d1bfef1062251f" label="Mixed Materials" type="Box">6</container><container id="aspace_c65b6f9c891a5d0115c742b8e07156a8" parent="aspace_0178219a96acd622f9d1bfef1062251f" type="Folder">4</container></did></c><c id="aspace_ref137_rfg" level="file"><did><unittitle>Resignation Documents</unittitle><unitdate datechar="creation" normal="1888/1889" type="inclusive">1888-1889</unitdate><container id="aspace_e22fa8bbd782f565a90bc4cf6572e610" label="Mixed Materials" type="Box">6</container><container id="aspace_683f4ec79405db4fdb63513d7bf867e3" parent="aspace_e22fa8bbd782f565a90bc4cf6572e610" type="Folder">5</container></did></c><c id="aspace_ref138_x0l" level="file"><did><unittitle>Will and Estate Documents</unittitle><unitdate datechar="creation" normal="1881/1881" type="inclusive">1881</unitdate><container id="aspace_0450a7770d87ad145d25fd57457be9d2" label="Mixed Materials" type="Box">6</container><container id="aspace_a9e049b2ef2b8886fd507711adf573c5" parent="aspace_0450a7770d87ad145d25fd57457be9d2" type="Folder">6</container></did></c><c id="aspace_ref139_ou8" level="file"><did><unittitle>Will and Estate Documents</unittitle><unitdate datechar="creation" normal="1885/1887" type="inclusive">1885-1887</unitdate><container id="aspace_092bb6e2b48716587383b9256358ed38" label="Mixed Materials" type="Box">6</container><container id="aspace_05b16c2758ad75f96439d6b2a20aab64" parent="aspace_092bb6e2b48716587383b9256358ed38" type="Folder">7</container></did></c><c id="aspace_ref140_cbd" level="file"><did><unittitle>Will and Estate Documents</unittitle><unitdate datechar="creation" normal="1888/1888" type="inclusive">1888</unitdate><container id="aspace_0a96ad2ec35d122b099856f37999f509" label="Mixed Materials" type="Box">6</container><container id="aspace_92868a27971373f965908a67489a1f1e" parent="aspace_0a96ad2ec35d122b099856f37999f509" type="Folder">8</container></did></c><c id="aspace_ref141_ov4" level="file"><did><unittitle>Will and Estate Documents</unittitle><unitdate datechar="creation" normal="1889/1890" type="inclusive">1889-1890</unitdate><container id="aspace_6646fbe8a7fa108cfc83cdf5addc84d6" label="Mixed Materials" type="Box">6</container><container id="aspace_e3d699689035227326c4acb4cbfd9399" parent="aspace_6646fbe8a7fa108cfc83cdf5addc84d6" type="Folder">9</container></did></c><c id="aspace_ref142_c5e" level="file"><did><unittitle>Will and Estate Documents</unittitle><unitdate datechar="creation" normal="1904/1907" type="inclusive">1904-1907</unitdate><container id="aspace_4b122f88bb2a2796d4327cd384d1845e" label="Mixed Materials" type="Box">6</container><container id="aspace_5f019cfd83c1304adec08385e66f8778" parent="aspace_4b122f88bb2a2796d4327cd384d1845e" type="Folder">10</container></did></c><c id="aspace_ref125_exh" level="file"><did><unittitle>Death of Members and Fees List </unittitle><unitdate datechar="creation" normal="1909/1933" type="inclusive">1909-1933</unitdate><container id="aspace_e4aafe54579910bfa7493053de0bf1c0" label="Mixed Materials" type="Volume">8</container></did></c></c><c id="aspace_ref25_5m7" level="series"><did><unittitle>Series VII: Financial</unittitle></did><scopecontent id="aspace_9744f59a4c4ff096d4645cbcd3d68b71"><head>Scope and Content Note</head><p>This series is divided into two subseries.</p><p>Subseries A, Financial Records, includes correspondence with banks, bank statements, bankbooks, canceled checks, and bills and receipts. There are five bound volumes, including a cash transaction book and four volumes of check stubs of the Second National Bank. </p><p>Subseries B, John Mackie Falconer Papers, documents the investigation of J.M. Falconer, who served as Treasurer of the Artists' Fund Society from its inception until February 1883. Auditors determined that Falconer used deceptive record keeping practices to misappropriate $8,713.72. The final report on the affair said it was "the most painful and important" episode in the organization's history. These materials were bundled together by the Artists' Fund Society and are arranged in their own subseries to preserve this context.</p></scopecontent><c id="aspace_ref230_kjo" level="subseries"><did><unittitle>Subseries A: Financial Records</unittitle></did><scopecontent id="aspace_6bc3fdec31f30ca190a71e1324f82722"><head>Scope and Content Note</head><p>Financial Records include correspondence with banks, bank statements, bankbooks, canceled checks, and bills and receipts. There are five bound volumes, including a cash transaction book and four volumes of check stubs of the Second National Bank.</p></scopecontent><c id="aspace_ref172_95r" level="file"><did><unittitle>Bank Correspondence</unittitle><unitdate datechar="creation" normal="1935/1936" type="inclusive">1935-1936</unitdate><container id="aspace_a28bd2b6a86d5e3e154a099b1bffdbc2" label="Mixed Materials" type="Box">7</container><container id="aspace_607c2c797024191d3d3bef4adf40fb9e" parent="aspace_a28bd2b6a86d5e3e154a099b1bffdbc2" type="Folder">1</container></did></c><c id="aspace_ref171_wjz" level="file"><did><unittitle>Bank Statements</unittitle><unitdate datechar="creation" normal="1929/1935" type="inclusive">1929-1935</unitdate><container id="aspace_a1e5a9a7c2d66aee7f9f3289e84b1db8" label="Mixed Materials" type="Box">7</container><container id="aspace_e131134ad12a783474ce89b0dd91254f" parent="aspace_a1e5a9a7c2d66aee7f9f3289e84b1db8" type="Folder">2</container></did></c><c id="aspace_ref160_oyu" level="file"><did><unittitle>Bankbooks, Manhattan Company</unittitle><unitdate datechar="creation" normal="1871/1881" type="inclusive">1871-1881</unitdate><container id="aspace_be3f45a3cd180ea038a893f9e7377191" label="Mixed Materials" type="Box">7</container><container id="aspace_502d27198f617a6c9d287e2101a1a9c5" parent="aspace_be3f45a3cd180ea038a893f9e7377191" type="Folder">3</container></did></c><c id="aspace_ref161_mgx" level="file"><did><unittitle>Bankbooks, National City Bank of New York</unittitle><unitdate datechar="creation" normal="1930/1934" type="inclusive">1930-1934</unitdate><container id="aspace_c7179fe2e99a87901de6329037920373" label="Mixed Materials" type="Box">7</container><container id="aspace_b5972854713a4567b2c64b4097c34ca8" parent="aspace_c7179fe2e99a87901de6329037920373" type="Folder">4</container></did></c><c id="aspace_ref162_3ds" level="file"><did><unittitle>Bankbooks, Second National Bank</unittitle><unitdate datechar="creation" normal="1883/1922" type="inclusive">1883-1922</unitdate><container id="aspace_72d2dcc7063dbd553b0750b339daa328" label="Mixed Materials" type="Box">7</container><container id="aspace_b66c24f94361ec8df3c26ef2e6339245" parent="aspace_72d2dcc7063dbd553b0750b339daa328" type="Folder">5</container></did></c><c id="aspace_ref163_x0t" level="file"><did><unittitle>Bankbooks, Union Square Savings Bank</unittitle><unitdate datechar="creation" normal="1911/1936" type="inclusive">1911-1936</unitdate><container id="aspace_d0c63eabfa0d3cacb34aff08be101f68" label="Mixed Materials" type="Box">7</container><container id="aspace_c7eddd7725a2d469db6f29c926716be3" parent="aspace_d0c63eabfa0d3cacb34aff08be101f68" type="Folder">6</container></did></c><c id="aspace_ref165_e5b" level="file"><did><unittitle>Bills and Receipts</unittitle><unitdate datechar="creation" normal="1879/1887" type="inclusive">1879-1887</unitdate><container id="aspace_697509537bd564aad6f3ae56c88720ef" label="Mixed Materials" type="Box">7</container><container id="aspace_0865ac843b247fc1b2da0f1fa1c1251c" parent="aspace_697509537bd564aad6f3ae56c88720ef" type="Folder">7</container></did></c><c id="aspace_ref166_e8f" level="file"><did><unittitle>Bills and Receipts</unittitle><unitdate datechar="creation" normal="1903/1910" type="inclusive">1903-1910</unitdate><container id="aspace_8ae1b988a0bf3b914dd5223cff13dcd2" label="Mixed Materials" type="Box">7</container><container id="aspace_1b11e9314b900416951cc7713fc28f3c" parent="aspace_8ae1b988a0bf3b914dd5223cff13dcd2" type="Folder">8</container></did></c><c id="aspace_ref167_w25" level="file"><did><unittitle>Bills and Receipts</unittitle><unitdate datechar="creation" normal="1911/1920" type="inclusive">1911-1920</unitdate><container id="aspace_d7a9958ce355aa55a7384542ce2f4ba6" label="Mixed Materials" type="Box">7</container><container id="aspace_fdd4dd38306cb479231869acc93def80" parent="aspace_d7a9958ce355aa55a7384542ce2f4ba6" type="Folder">9</container></did></c><c id="aspace_ref168_r6s" level="file"><did><unittitle>Bills and Receipts</unittitle><unitdate datechar="creation" normal="1921/1929" type="inclusive">1921-1929</unitdate><container id="aspace_50d12ccd438adb4ad58881f4508a3a97" label="Mixed Materials" type="Box">7</container><container id="aspace_2fb0d4b402cc85bd21a925c5a198cd86" parent="aspace_50d12ccd438adb4ad58881f4508a3a97" type="Folder">10</container></did></c><c id="aspace_ref169_an9" level="file"><did><unittitle>Bills and Receipts</unittitle><unitdate datechar="creation" normal="1930/1937" type="inclusive">1930-1937</unitdate><container id="aspace_2a00d6dc97678a2902cc253fd3540319" label="Mixed Materials" type="Box">8</container><container id="aspace_fb892df93e73e3c1660dc3e374dba06c" parent="aspace_2a00d6dc97678a2902cc253fd3540319" type="Folder">1</container></did></c><c id="aspace_ref170_yba" level="collection"><did><unittitle>Bills and Receipts (Blank Forms)</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_9473a7c7d414459fcbe9e00bd155246d" label="Mixed Materials" type="Box">8</container><container id="aspace_0ffb148909947d8b3f12407f9c5948dc" parent="aspace_9473a7c7d414459fcbe9e00bd155246d" type="Folder">2</container></did></c><c id="aspace_ref178_fuf" level="file"><did><unittitle>Canceled Checks</unittitle><unitdate datechar="creation" normal="1879/1886" type="inclusive">1879-1886</unitdate><container id="aspace_6d41cdd3267fe63272e7a1600e6452a3" label="Mixed Materials" type="Box">8</container><container id="aspace_a890b4480d388c3147675be0b2875c5a" parent="aspace_6d41cdd3267fe63272e7a1600e6452a3" type="Folder">3</container></did></c><c id="aspace_ref179_g0j" level="file"><did><unittitle>Canceled Checks</unittitle><unitdate datechar="creation" normal="1908/1910" type="inclusive">1908-1910</unitdate><container id="aspace_24b4de317552a57ececf3a0bfd53a6f4" label="Mixed Materials" type="Box">8</container><container id="aspace_79a5d2d17ae868cd5f66b0ae654b5b30" parent="aspace_24b4de317552a57ececf3a0bfd53a6f4" type="Folder">4</container></did></c><c id="aspace_ref180_qwd" level="file"><did><unittitle>Canceled Checks</unittitle><unitdate datechar="creation" normal="1922/1930" type="inclusive">1922-1930</unitdate><container id="aspace_fc44d99b8526a460b9a29fcc01d3aa06" label="Mixed Materials" type="Box">8</container><container id="aspace_d06610516bf77e02d5072c02a96d0c46" parent="aspace_fc44d99b8526a460b9a29fcc01d3aa06" type="Folder">5</container></did></c><c id="aspace_ref181_gvt" level="file"><did><unittitle>Canceled Checks</unittitle><unitdate datechar="creation" normal="1931/1935" type="inclusive">1931-1925</unitdate><container id="aspace_212397c302db38f2c7bbf6c6d36c2ae9" label="Mixed Materials" type="Box">8</container><container id="aspace_a916d17163135addd876c4064c9e568d" parent="aspace_212397c302db38f2c7bbf6c6d36c2ae9" type="Folder">6</container></did></c><c id="aspace_ref173_ar3" level="file"><did><unittitle>Credits to Bank Accounts</unittitle><unitdate datechar="creation" normal="1906/1906" type="inclusive">1906</unitdate><container id="aspace_7908e596956a01fd0498c102140fb5fe" label="Mixed Materials" type="Box">8</container><container id="aspace_4c3f456ba8ccbf3160cdc1f79f862891" parent="aspace_7908e596956a01fd0498c102140fb5fe" type="Folder">7</container></did></c><c id="aspace_ref174_nss" level="file"><did><unittitle>Credits to Bank Accounts</unittitle><unitdate datechar="creation" normal="1932/1937" type="inclusive">1932-1937</unitdate><container id="aspace_a9bd749b7dfa9d2de83e97e8aee8fe65" label="Mixed Materials" type="Box">8</container><container id="aspace_5dcc9b0eabbb6453b58292c231853b67" parent="aspace_a9bd749b7dfa9d2de83e97e8aee8fe65" type="Folder">8</container></did></c><c id="aspace_ref175_5c7" level="file"><did><unittitle>Dividend Payment Receipts</unittitle><unitdate datechar="creation" normal="1885/1886" type="inclusive">1885-1886</unitdate><container id="aspace_3525c853a7d6f36b8f9944d21b326523" label="Mixed Materials" type="Box">8</container><container id="aspace_e7dc622f97c0faef68269d1f783a1496" parent="aspace_3525c853a7d6f36b8f9944d21b326523" type="Folder">9</container></did></c><c id="aspace_ref177_trk" level="file"><did><unittitle>Notes (Hand Written)</unittitle><unitdate datechar="creation" normal="1933/1934" type="inclusive">1933-1934 and undated</unitdate><container id="aspace_975032c59cbbc93b4ba4344b08add41d" label="Mixed Materials" type="Box">8</container><container id="aspace_278061137aa7f89277b5fbc376a76e1a" parent="aspace_975032c59cbbc93b4ba4344b08add41d" type="Folder">10</container></did></c><c id="aspace_ref176_beq" level="file"><did><unittitle>Safe Deposit Box Documents</unittitle><unitdate datechar="creation" normal="1931/1931" type="inclusive">1931</unitdate><container id="aspace_f7ebaa1428d8274c57a0f59ff451edb4" label="Mixed Materials" type="Box">8</container><container id="aspace_e7f2450af40c9fbcee72086736985133" parent="aspace_f7ebaa1428d8274c57a0f59ff451edb4" type="Folder">11</container></did></c><c id="aspace_ref26_1ui" level="file"><did><unittitle>Cash Book</unittitle><unitdate datechar="creation" normal="1859/1891" type="inclusive">1859-1891</unitdate><container id="aspace_513012524ece0b3595464a6f7b42bd1e" label="Mixed Materials" type="Volume">9</container></did></c><c id="aspace_ref156_23e" level="file"><did><unittitle>Checks, Second National Bank, 1-300</unittitle><unitdate datechar="creation" normal="1883/1885" type="inclusive">1883-1885</unitdate><container id="aspace_691186ef0663ea1e7c0247060f7e0a6e" label="Mixed Materials" type="Volume">10</container></did></c><c id="aspace_ref157_8sn" level="file"><did><unittitle>Checks, Second National Bank, 301-900</unittitle><unitdate datechar="creation" normal="1885/1890" type="inclusive">1885-1890</unitdate><container id="aspace_4fb980a0d4cc93809936f162ded6aa2c" label="Mixed Materials" type="Volume">11</container></did></c><c id="aspace_ref159_ps9" level="file"><did><unittitle>Checks, Second National Bank, 1501-2000</unittitle><unitdate datechar="creation" normal="1912/1922" type="inclusive">1912 April 10-1922 February 23</unitdate><container id="aspace_93b382f7d78d4023e8cb57c580b767cf" label="Mixed Materials" type="Volume">12</container></did></c><c id="aspace_ref158_8r6" level="file"><did><unittitle>Checks, Second National Bank, 1252-1500</unittitle><unitdate datechar="creation" normal="1900/1912" type="inclusive">1900-1912</unitdate><container id="aspace_c5ce4915ae08154b43808a801433d1e4" label="Mixed Materials" type="Volume">13</container></did></c></c><c id="aspace_ref232_cbz" level="subseries"><did><unittitle>Subseries B: John Mackie Falconer Papers </unittitle></did><scopecontent id="aspace_0f2fe26ed69285b5ccf604ba7c93ab93"><head>Scope and Content Note</head><p>This subseries documents the investgation of John Mackie Falconer, who served as Treasurer of the Artists' Fund Society from its inception until February 1883, when he was found guilty of misappropriating $8,713.72. These materials were bundled together by the Artists' Fund Society and are arranged in their own subseries to preserve this context.</p></scopecontent><c id="aspace_ref233_a54" level="file"><did><unittitle>Auditor Reports</unittitle><unitdate datechar="creation" normal="1182/1883" type="inclusive">1882 November 14 - 1883 February 7</unitdate><container id="aspace_b3de8f4f5caf0c6e4327193f226be8bf" label="Mixed Materials" type="Box">8</container><container id="aspace_5ee06b7c20bd3cd8113f29ef8716c003" parent="aspace_b3de8f4f5caf0c6e4327193f226be8bf" type="Folder">12</container></did></c><c id="aspace_ref235_bz3" level="file"><did><unittitle>Correspondence and Notes</unittitle><unitdate datechar="creation" normal="1882/1882" type="inclusive">1882</unitdate><container id="aspace_e1cc5bc23c2dcd1f10ff4cd9b741c608" label="Mixed Materials" type="Box">8</container><container id="aspace_d0a32064b13c2a1d51706f00dd33c298" parent="aspace_e1cc5bc23c2dcd1f10ff4cd9b741c608" type="Folder">13</container></did></c><c id="aspace_ref234_eh2" level="file"><did><unittitle>Legal Agreement </unittitle><unitdate datechar="creation" normal="1882/1882" type="inclusive">1882 December 19</unitdate><container id="aspace_23f3d9f8cdd3e5a5c48a8843f9af3021" label="Mixed Materials" type="Box">8</container><container id="aspace_0198434abff82e76d970d4235494ffbe" parent="aspace_23f3d9f8cdd3e5a5c48a8843f9af3021" type="Folder">14</container></did></c><c id="aspace_ref236_j8b" level="file"><did><unittitle>Report on Falconer's Property</unittitle><unitdate datechar="creation" normal="1882/1882" type="inclusive">1882 December 12</unitdate><container id="aspace_8cee31db01ad6db133e0cd1bc2990763" label="Mixed Materials" type="Box">9</container><container id="aspace_9e69014d4494fb7b1d89beeb138a582d" parent="aspace_8cee31db01ad6db133e0cd1bc2990763" type="Folder">1</container></did></c><c id="aspace_ref237_m2r" level="file"><did><unittitle>Resignation Letters</unittitle><unitdate datechar="creation" normal="1883/1883" type="inclusive">1883</unitdate><container id="aspace_668cacefd59fca772084f7936b1f10f2" label="Mixed Materials" type="Box">9</container><container id="aspace_756c517f76898fe3acd14eedb81b3c23" parent="aspace_668cacefd59fca772084f7936b1f10f2" type="Folder">2</container></did></c><c id="aspace_ref238_sss" level="file"><did><unittitle>Treasury Reports by Falconer</unittitle><unitdate datechar="creation" normal="1861/1862" type="inclusive">1861-1862</unitdate><container id="aspace_b714508c0d7b5937b8b6642540d7152e" label="Mixed Materials" type="Box">9</container><container id="aspace_7154a769b1d5d6d64e2a308e3a8e1064" parent="aspace_b714508c0d7b5937b8b6642540d7152e" type="Folder">3</container></did></c><c id="aspace_ref239_8cx" level="file"><did><unittitle>Treasury Reports by Falconer</unittitle><unitdate datechar="creation" normal="1874/1881" type="inclusive">1874-1881</unitdate><container id="aspace_ef4704336a56f0635e8ef7b25b5d731e" label="Mixed Materials" type="Box">9</container><container id="aspace_58bc93a3bae58513567a4646256d31db" parent="aspace_ef4704336a56f0635e8ef7b25b5d731e" type="Folder">4</container></did></c></c></c><c id="aspace_ref27_7ev" level="series"><did><unittitle>Series VIII: Real Estate</unittitle></did><scopecontent id="aspace_2f1b5ccf3a9da6e67d7128c046242b66"><head>Scope and Content Note</head><p>This series consists of correspondence, legal agreements, reports and other records documenting the Society's real estate investments.</p></scopecontent><c id="aspace_ref186_ho1" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1924/1936" type="inclusive">1924-1936</unitdate><container id="aspace_913505e0f0adf923148bd7af5a1dc459" label="Mixed Materials" type="Box">9</container><container id="aspace_f936375af7c1d6b1367164cec0ff7ad2" parent="aspace_913505e0f0adf923148bd7af5a1dc459" type="Folder">5</container></did></c><c id="aspace_ref187_51h" level="file"><did><unittitle>Legal Agreements</unittitle><unitdate datechar="creation" normal="1897/1903" type="inclusive">1897-1903</unitdate><container id="aspace_a6743a499da63de3a27ef91adf65e1e7" label="Mixed Materials" type="Box">9</container><container id="aspace_4217c4995385e43694e8f076525c5f1f" parent="aspace_a6743a499da63de3a27ef91adf65e1e7" type="Folder">6</container></did></c><c id="aspace_ref188_anu" level="file"><did><unittitle>Legal Agreements</unittitle><unitdate datechar="creation" normal="1912/1927" type="inclusive">1912-1927</unitdate><container id="aspace_98c3e01b3b9610ccac95232871b6b00d" label="Mixed Materials" type="Box">9</container><container id="aspace_21dc9d32fff4c2b7d47765b6846173b4" parent="aspace_98c3e01b3b9610ccac95232871b6b00d" type="Folder">7</container></did></c><c id="aspace_ref189_k3y" level="file"><did><unittitle>Legal Agreements</unittitle><unitdate datechar="creation" normal="1930/1933" type="inclusive">1930-1933</unitdate><container id="aspace_3e8c9704ff32feb0ccfe6bec0ef256ab" label="Mixed Materials" type="Box">9</container><container id="aspace_78970ef2f8fde31fe66cad15795f8c26" parent="aspace_3e8c9704ff32feb0ccfe6bec0ef256ab" type="Folder">8</container></did></c><c id="aspace_ref28_rg7" level="file"><did><unittitle>Lists of Mortgages Held by the Artists' Fund Society</unittitle><unitdate datechar="creation" normal="1889/1934" type="inclusive">1889-1934</unitdate><container id="aspace_66aa36eb05a5f67f83dde1b1a51e5b42" label="Mixed Materials" type="Box">9</container><container id="aspace_83bf801be7452a69592f4eba7137ee0d" parent="aspace_66aa36eb05a5f67f83dde1b1a51e5b42" type="Folder">9</container></did></c><c id="aspace_ref182_44m" level="file"><did><unittitle>Memorandums</unittitle><unitdate datechar="creation" normal="1934/1934" type="inclusive">1934</unitdate><container id="aspace_45427c000eb3290aee48aeeab5eaf89a" label="Mixed Materials" type="Box">9</container><container id="aspace_d417a83eaca5d1ac0324fd063486ce5f" parent="aspace_45427c000eb3290aee48aeeab5eaf89a" type="Folder">10</container></did></c><c id="aspace_ref183_jxo" level="file"><did><unittitle>Newspaper Clippings</unittitle><unitdate datechar="creation" normal="1934/1934" type="inclusive">1934</unitdate><container id="aspace_95a3519a6aafec9f3c76418a936a70f7" label="Mixed Materials" type="Box">9</container><container id="aspace_7b02f374efd39aef301f67027083d214" parent="aspace_95a3519a6aafec9f3c76418a936a70f7" type="Folder">11</container></did></c><c id="aspace_ref184_nwn" level="file"><did><unittitle>Notes (Hand Written)</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_18c1c6eb6d0fd7816b8c11fbdbc2db30" label="Mixed Materials" type="Box">9</container><container id="aspace_08a4a7bf2c9c16e34b3d875a52b79b64" parent="aspace_18c1c6eb6d0fd7816b8c11fbdbc2db30" type="Folder">12</container></did></c><c id="aspace_ref185_a1a" level="file"><did><unittitle>Reports on Mortgage Company Reform </unittitle><unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate><container id="aspace_97afedca1b4b3e47b77d80a16d2e0d59" label="Mixed Materials" type="Box">9</container><container id="aspace_e0223348d49fb1e56c13bf412653311a" parent="aspace_97afedca1b4b3e47b77d80a16d2e0d59" type="Folder">13</container></did></c></c><c id="aspace_ref29_eev" level="series"><did><unittitle>Series IX: Art Exhibitions and Sales</unittitle></did><scopecontent id="aspace_2a761690358ed783fe8cda425cdbda61"><head>Scope and Content Note</head><p>From 1860 through 1889, members were required to annually contribute a piece of art work to be exhibited and sold at auction. Money from the sales was deposited in a Special Investment Fund used for life insurance benefits. This series contains ledgers documenting auction sales, including artist names, titles of paintings, names of purchasers, and purchase prices. It also contains notices to members regarding the logistics of the exhibitions, and an exhibit catalog from 1876.</p></scopecontent><c id="aspace_ref30_2zm" level="file"><did><unittitle>Catalogs</unittitle><unitdate datechar="creation" normal="1876/1876" type="inclusive">1876</unitdate><container id="aspace_a1c484ce80587363fd1300ba9b4fb979" label="Mixed Materials" type="Box">9</container><container id="aspace_3544de85f48c9380b8dec02f995c7b28" parent="aspace_a1c484ce80587363fd1300ba9b4fb979" type="Folder">14</container></did></c><c id="aspace_ref190_frc" level="file"><did><unittitle>Notices to Members</unittitle><unitdate datechar="creation" normal="1868/1889" type="inclusive">1868-1889</unitdate><container id="aspace_e1b642330f700805a9b233039820c7b6" label="Mixed Materials" type="Box">9</container><container id="aspace_8dd3df66418fbf96c56519f879594e00" parent="aspace_e1b642330f700805a9b233039820c7b6" type="Folder">15</container></did></c><c id="aspace_ref191_0z7" level="file"><did><unittitle>Sales Ledgers</unittitle><unitdate datechar="creation" normal="1861/1867" type="inclusive">1861-1867</unitdate><container id="aspace_d2f3c38c399f91d667b5f14379b69d25" label="Mixed Materials" type="Box">10</container><container id="aspace_5ade9b2f792546908af667ed3ff0310f" parent="aspace_d2f3c38c399f91d667b5f14379b69d25" type="Folder">1</container></did></c><c id="aspace_ref192_qio" level="file"><did><unittitle>Sales Ledgers</unittitle><unitdate datechar="creation" normal="1871/1881" type="inclusive">1871-1881</unitdate><container id="aspace_3f9e0493f36e9f7198142776ad1d3762" label="Mixed Materials" type="Box">10</container><container id="aspace_79d87e4749d2501c3cac057065fbd8f7" parent="aspace_3f9e0493f36e9f7198142776ad1d3762" type="Folder">2</container></did></c><c id="aspace_ref193_c71" level="file"><did><unittitle>Sales Ledgers</unittitle><unitdate datechar="creation" normal="1882/1889" type="inclusive">1882-1889</unitdate><container id="aspace_26e8123e60ce136dc3e5792b0c63175f" label="Mixed Materials" type="Box">10</container><container id="aspace_0a42481176c71c8e114ba745e15cca6a" parent="aspace_26e8123e60ce136dc3e5792b0c63175f" type="Folder">3</container></did></c></c><c id="aspace_ref240_sbv" level="series"><did><unittitle>Series X: Other Artists' Funds</unittitle></did><scopecontent id="aspace_21eefdef4f7fb3dcc791ff7b5a4dfb18"><head>Scope and Content Note</head><p>This series contains materials by and about other Artists' Funds in the United States, the United Kindgdom and Germany, including reports, pamphlets, invitations, newspaper clippings and correspondence.</p></scopecontent><c id="aspace_ref241_w79" level="file"><did><unittitle>Artists' Aid Society</unittitle><unitdate datechar="creation" normal="1910/1910" type="inclusive">1910</unitdate><container id="aspace_2e662e050d80c11fe10ab64e9c815621" label="Mixed Materials" type="Box">10</container><container id="aspace_6cfdf6e2e6c2120a9ecae15c2a7bc561" parent="aspace_2e662e050d80c11fe10ab64e9c815621" type="Folder">4</container></did></c><c id="aspace_ref242_qtk" level="file"><did><unittitle>Artists' General Benevolent Institution </unittitle><unitdate datechar="creation" normal="1862/1904" type="inclusive">1862-1904</unitdate><container id="aspace_30b1b0af99a6933d5c57936ee4227b92" label="Mixed Materials" type="Box">10</container><container id="aspace_d3873b57d09d67323400f08a7d08fc8f" parent="aspace_30b1b0af99a6933d5c57936ee4227b92" type="Folder">5</container></did></c><c id="aspace_ref243_dy2" level="file"><did><unittitle>Fund for Superannuated Artists </unittitle><unitdate datechar="creation" normal="1904/1904" type="inclusive">1904 and undated</unitdate><container id="aspace_03a02e4236f7e5a609dfc391f1a85a76" label="Mixed Materials" type="Box">10</container><container id="aspace_d5abcbfa83458f4d0b39c60c61ef6876" parent="aspace_03a02e4236f7e5a609dfc391f1a85a76" type="Folder">6</container></did><scopecontent id="aspace_df76447633817f1e7ad8b4ee50bed333"><head>Scope and Content Note</head><p>See Series I: Alexander C. Morgan, Subseries D, for more documents related to the Fund for Superannuated Artists. (link back to that section).</p></scopecontent></c><c id="aspace_ref244_9ns" level="file"><did><unittitle>German Language Materials</unittitle><unitdate datechar="creation" normal="1863/1863" type="inclusive">1863</unitdate><container id="aspace_c2155367f5f0b1cf22a3c96566621e6a" label="Mixed Materials" type="Box">10</container><container id="aspace_54bd79bba92e06cde411261011c9a908" parent="aspace_c2155367f5f0b1cf22a3c96566621e6a" type="Folder">7</container></did></c></c></dsc>
-</archdesc>
+Series II through X contain Artists' Fund Society records (1859-1937) arranged by type.</p>
+    </arrangement>
+    <bioghist id="aspace_7db92a6dee30c49490dbca6a38f34740">
+      <head>Historical Note</head>
+      <p>During the late nineteenth and early twentieth centuries, millions of Americans received life insurance and other social welfare benefits through fraternal and mutual aid societies. The Artists' Fund Society was one such society. It was founded on February 5th, 1859, and incorporated on April 13, 1861. The primary mission of the organization was to provide aid to members experiencing disablement, sickness and distress, and to provide assistance to the widows, children and families of deceased members. In 1862 the Society additionally created a benevolent fund to provide aid to artists who were not members.</p>
+      <p>The original constitution of 1859 simply stated that members were required to be "artists by profession." However, by the 1930s amendments stipulated that members must live in New York City or close enough to attend meetings, and that no person over the age of 45 could become a member.</p>
+      <p>The organization's leadership consisted of a "Board of Control" comprised of a president, vice-president, secretary, treasurer and five other members. The Board of Control met monthly, and the Society sponsored an Annual Meeting for all members followed by an Annual Dinner for members and friends.</p>
+      <p>From 1860 through 1889, members were required to annually contribute a piece of art work to be exhibited and sold at auction. Money from the sales was deposited in a Special Investment Fund. Investments were made on first class bonds and mortgages and stocks of the United States and State of New York. Widows were paid annual interest on a sum of $1500, and then paid a lump sum of $1500 when their youngest child reached age 21. (The sum was raised over the years per amendments to the Constitution.)</p>
+      <p>In 1890, the system of selling art work was replaced with a system of "assessments." The Society required members to pay an assessment fee of $5 within 30 days of the death of a member; the beneficiary of the member received a percentage of the total amount collected.</p>
+      <p>Records indicate that in 1936 the Board of Control was considering re-organizing or dissolving the Society due to an increase in the number of members unable to pay their assessments, difficulty finding new young members and "a general lack of interest in the society." A decade later, in 1946, the Artists' Fund Society was formally consolidated with the Society of Illustrators, Inc.</p>
+    </bioghist>
+    <prefercite id="aspace_3e90e5d3fdc719bf98967b7d2f566606">
+      <head>Preferred Citation</head>
+      <p>This collection should be cited as the Artists' Fund Society Records, MS 23, The New-York Historical Society.</p>
+    </prefercite>
+    <relatedmaterial id="aspace_af972d078c9a9eb77445d1514b90c364">
+      <head>Related Materials</head>
+      <p>Quadriennial, Biennal and Annual Reports of the Artists' Fund Society can be found in the New-York Historical Society's Library.</p>
+      <p>The Princeton University Library, Department of Rare Books and Special Collections, has a set of Artists' Fund Society sale catalogues, 1860-1889.</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_909e279faf9b19c1823173385f868126">
+      <head>Scope and Contents</head>
+      <p>The collection offers insight into the mission and operation of a New York based mutual aid society for artists. The records span from the Society's founding in 1859 through 1937, a decade before it consolidated with the Society of Illustrators.</p>
+      <p>The records document the organization's structure, decision making, and finances. Meeting minutes, reports, amendments to the constitution, correspondence, resignations, wills, and financial records all demonstrate how the organization operated and changed over time. </p>
+      <p>Much of the correspondence in the collection describes the conditions of artists in need of help, including struggles with illness, disability, and economic hardship. </p>
+      <p>Sales ledgers documenting  annual art auctions from 1861 to 1889 include artist names, titles of paintings, names of purchasers, and purchase prices. </p>
+      <p>Series I of the collection consists of the papers of Alexander C. Morgan, a long time member of the Society who served as president from 1910 through 1933. Series II through X are made up of Society records arranged by type. Morgan's papers were acquired by the New-York Historical Society in 1941; the rest of the materials were donated by the Society of Illustrators in 2008. </p>
+    </scopecontent>
+    <userestrict id="aspace_4a2508a9c557eaba964fdd553e4fd858">
+      <head>Use Restrictions</head>
+      <p>Taking images of documents from the library collections for reference purposes by using hand-held cameras and in accordance with the library's photography guidelines is encouraged. As an alternative, patrons may request up to 20 images per day from staff.</p>
+      <p>Application to use images from this collection for publication should be made in writing to: Department of Rights and Reproductions, The New-York Historical Society, 170 Central Park West, New York, NY 10024-5194, rightsandrepro@nyhistory.org. Phone: (212) 873-3400 ext. 282.</p>
+      <p>Copyrights and other proprietary rights may subsist in individuals and entities other than the New-York Historical Society, in which case the patron is responsible for securing permission from those parties. For fuller information about rights and reproductions from N-YHS visit: <extref xlink:actuate="onRequest" xlink:href="https://www.nyhistory.org/about/rights-reproductions">https://www.nyhistory.org/about/rights-reproductions</extref></p>
+    </userestrict>
+    <controlaccess>
+      <genreform source="aat">Agreements</genreform>
+      <genreform source="aat">Bankbooks.</genreform>
+      <genreform source="aat">Bank statements.</genreform>
+      <genreform source="aat">Checkbooks</genreform>
+      <genreform source="aat">Checks (bank checks)</genreform>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Financial records.</genreform>
+      <genreform source="aat">Minutes (administrative records)</genreform>
+      <genreform source="aat">Receipts (financial records)</genreform>
+      <genreform source="aat">Registers (lists)</genreform>
+      <genreform source="aat">Reports.</genreform>
+      <subject source="lcsh">Artists -- New York (State).</subject>
+      <subject source="lcsh">Artists -- Pensions -- New York (State).</subject>
+      <subject source="lcsh">Charities -- New York (State)  -- New York. </subject>
+      <subject source="lcsh">Fraternal organizations -- New York (State)  -- New York. </subject>
+      <geogname source="lcsh">New York (N.Y.) -- Social conditions.</geogname>
+      <persname rules="rda" source="local">Dunsmore, John Ward </persname>
+      <persname source="naf">Falconer, John Mackie, 1820-1903</persname>
+      <persname rules="rda" source="local">Morgan, Alexander C. </persname>
+      <corpname rules="rda" source="local">Fund for Superannuated Artists (New York, N.Y.)</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref8_4d5" level="series">
+        <did>
+          <unittitle>Series I: Alexander C. Morgan Papers</unittitle>
+          <unitdate datechar="creation" normal="1881/1936" type="inclusive">1881-1936 </unitdate>
+        </did>
+        <scopecontent id="aspace_54c9d78fb431d64051c4407ccb6ab621">
+          <head>Scope and Content Note</head>
+          <p>Series 1 consists of the papers of Alexander C. Morgan, arranged in 6 subseries: a) Correspondence b) Relief Cases c) Membership d) Related Artists' Fund Societies e) Financial and Real Estate and f) Notes and Clippings. </p>
+          <p>Morgan (1849-1933) was a financier and amateur landscape painter who served as president of the Artists' Fund Society from 1910-1933. A cousin of J. P. Morgan, he entered the stock brokerage business at an early age and founded the firm A.C. Morgan &amp; Co., serving as its head until 1928. He was a founder of the Salmagundi Club, a life member of the Metropolitan Museum of Art, and a fellow in perpetuity of the National Academy of Design. His artwork was exhibited at a number of private showings. </p>
+        </scopecontent>
+        <c id="aspace_ref194_ixv" level="series">
+          <did>
+            <unittitle>Subseries A: Correspondence</unittitle>
+          </did>
+          <scopecontent id="aspace_696aa8c3ad217cbfdaad877636ce9b40">
+            <head>Scope and Content Note</head>
+            <p>Correspondence is arranged alphabetically by correspondent. Letters consist largely of requests for assistance and thank you letters. Letters requesting assistance describe conditions of poverty, disability, illness, and old age, and are written by the artists themselves, as well as by family members, friends and charitable organizations on their behalf. Correspondents include John Ward Dunsmore, Secretary of the Artists' Fund Society, and William Merritt Post, Treasurer of the Artists' Fund Society.</p>
+          </scopecontent>
+          <c id="aspace_ref195_15w" level="file">
+            <did>
+              <unittitle>Anderson-Aylward</unittitle>
+              <unitdate datechar="creation" normal="1923/1933" type="inclusive">1923-1933</unitdate>
+              <container id="aspace_e2ee6f35b7aae1f83904e0ce13595444" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_fbeb4ab2336cadc2315e09d36e46f540" parent="aspace_e2ee6f35b7aae1f83904e0ce13595444" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref199_2ey" level="file">
+            <did>
+              <unittitle>Dunsmore-Dutton</unittitle>
+              <unitdate datechar="creation" normal="1924/1933" type="inclusive">1924-1933</unitdate>
+              <container id="aspace_7c09c0d38be6badc9bc160ae8a84ba5c" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_1221e5c3afa3160678eb4cd1a1958417" parent="aspace_7c09c0d38be6badc9bc160ae8a84ba5c" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref200_kr8" level="file">
+            <did>
+              <unittitle>Berneker-Buehler</unittitle>
+              <unitdate datechar="creation" normal="1929/1933" type="inclusive">1929-1933</unitdate>
+              <container id="aspace_ed0b80f72c1f776db9ff631bcd82c406" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_37c3bb3c519e077a2627c8ad6771debf" parent="aspace_ed0b80f72c1f776db9ff631bcd82c406" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref201_qbx" level="file">
+            <did>
+              <unittitle>Chapman-Dewey</unittitle>
+              <unitdate datechar="creation" normal="1923/1931" type="inclusive">1923-1931</unitdate>
+              <container id="aspace_c1c882a4e490abe4be743581b7189b03" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_73272949c875e8d294e080d1330e90d5" parent="aspace_c1c882a4e490abe4be743581b7189b03" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref202_9pl" level="file">
+            <did>
+              <unittitle>Finley-French</unittitle>
+              <unitdate datechar="creation" normal="1926/1933" type="inclusive">1926-1933</unitdate>
+              <container id="aspace_00dda269e3d63baed08c3a6c7ceb1d7c" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_4c651e72402a6c665b1de96f7eccea64" parent="aspace_00dda269e3d63baed08c3a6c7ceb1d7c" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref203_27y" level="file">
+            <did>
+              <unittitle>Granville-Isador</unittitle>
+              <unitdate datechar="creation" normal="1925/1932" type="inclusive">1925-1932</unitdate>
+              <container id="aspace_5f86d66fabffe988a145fe257fb0764b" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_7d6392e85fe197e624c5037d973faa97" parent="aspace_5f86d66fabffe988a145fe257fb0764b" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref204_66q" level="file">
+            <did>
+              <unittitle>Jackson-Loweth</unittitle>
+              <unitdate datechar="creation" normal="1924/1933" type="inclusive">1924-1933</unitdate>
+              <container id="aspace_6cd13b25c50396bdaf1b06d9df5421c4" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_291e88487f2edb1ea86e6e59400015fe" parent="aspace_6cd13b25c50396bdaf1b06d9df5421c4" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref205_xjy" level="file">
+            <did>
+              <unittitle>MacDowell-Nichols</unittitle>
+              <unitdate datechar="creation" normal="1927/1933" type="inclusive">1927-1933</unitdate>
+              <container id="aspace_4fed065147d94ca71ca3e7e673c05773" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_7d670589e401bbd63c887f05a4c23546" parent="aspace_4fed065147d94ca71ca3e7e673c05773" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref206_rjr" level="file">
+            <did>
+              <unittitle>Nordell-Phelps</unittitle>
+              <unitdate datechar="creation" normal="1925/1933" type="inclusive">1925-1933</unitdate>
+              <container id="aspace_23409716ca797cd3ed6ba79517ac75fb" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_36e923621fe100e47e0a2a565f85d811" parent="aspace_23409716ca797cd3ed6ba79517ac75fb" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref207_yip" level="file">
+            <did>
+              <unittitle>Post</unittitle>
+              <unitdate datechar="creation" normal="1923/1933" type="inclusive">1923-1933</unitdate>
+              <container id="aspace_abe9edf6a5accb674d1f29f8d9c1abbb" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_147b4271a1d48a956af2ba70b48a0b1a" parent="aspace_abe9edf6a5accb674d1f29f8d9c1abbb" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref208_d4y" level="file">
+            <did>
+              <unittitle>Potthast-Price</unittitle>
+              <unitdate datechar="creation" normal="1925/1932" type="inclusive">1925-1932</unitdate>
+              <container id="aspace_7964fca3b4ae79ecfd4f1594aa11be06" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_df074689c85d95380dcd7f41e415bd1b" parent="aspace_7964fca3b4ae79ecfd4f1594aa11be06" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref209_3ia" level="file">
+            <did>
+              <unittitle>Raynor-Streatfeild</unittitle>
+              <unitdate datechar="creation" normal="1925/1933" type="inclusive">1925-1933</unitdate>
+              <container id="aspace_7e4562942ab8f74ace7941a5abd5948f" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_9e60cad041fe516c6c1da4e81287ba64" parent="aspace_7e4562942ab8f74ace7941a5abd5948f" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref210_nh8" level="file">
+            <did>
+              <unittitle>Tompkins-Winsor</unittitle>
+              <unitdate datechar="creation" normal="1929/1933" type="inclusive">1929-1933</unitdate>
+              <container id="aspace_a6c347233fc0f352b532f08919d1694a" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_eac990a4cec9baace49c19bab3c38de0" parent="aspace_a6c347233fc0f352b532f08919d1694a" type="Folder">4</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref44_b73" level="subseries">
+          <did>
+            <unittitle>Subseries B: Relief Cases</unittitle>
+          </did>
+          <scopecontent id="aspace_e1260b5c339ba0043b96d0555cf2dfc9">
+            <head>Scope and Content Note</head>
+            <p>This bound volume documents aid to artists provided by the Artists' Fund Society. It includes an alphabetized list of recipients followed by brief descriptions of each artist's circumstances and actions taken by the Society to provide help.</p>
+          </scopecontent>
+          <c id="aspace_ref46_sbu" level="file">
+            <did>
+              <unittitle>Relief Cases, Board of Control</unittitle>
+              <unitdate datechar="creation" normal="1931/1933" type="inclusive">1931-1933</unitdate>
+              <container id="aspace_4350db5aa8a4df088354d8303c71c924" label="Mixed Materials" type="Volume">1</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref82_muy" level="subseries">
+          <did>
+            <unittitle>Subseries C: Membership</unittitle>
+          </did>
+          <scopecontent id="aspace_3e19cbdf5ed5158cd139a843ae0eb9f3">
+            <head>Scope and Content Note</head>
+            <p>These records document activities of the membership and legal agreements pertaining to assistance to families of deceased members. The Artists' Fund Society souvenir includes a small landscape painting by Arthur E. Powell.</p>
+          </scopecontent>
+          <c id="aspace_ref83_cfs" level="file">
+            <did>
+              <unittitle>Annual Dinner Souvenir and Ephemera</unittitle>
+              <unitdate datechar="creation" normal="1911/1911" type="inclusive">1911 and undated</unitdate>
+              <container id="aspace_da40047185a93dd4106f4f6c9660c0c0" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_193a90d0815d7e46eefca9a5da1c8d9e" parent="aspace_da40047185a93dd4106f4f6c9660c0c0" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref84_e1k" level="file">
+            <did>
+              <unittitle>Meeting Notices</unittitle>
+              <unitdate datechar="creation" normal="1924/1933" type="inclusive">1924-1933</unitdate>
+              <container id="aspace_0b6f342179acb1e786957281c99fddcc" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_7ec14c0d7b33a337924ea85e8fb31830" parent="aspace_0b6f342179acb1e786957281c99fddcc" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref85_r1y" level="file">
+            <did>
+              <unittitle>Wills and Estates</unittitle>
+              <unitdate datechar="creation" normal="1923/1931" type="inclusive">1923-1931</unitdate>
+              <container id="aspace_82ccc74c68baea3e417ff027330dc87a" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_8b4e0fd8f9f997c0c80f31d758794cbf" parent="aspace_82ccc74c68baea3e417ff027330dc87a" type="Folder">7</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref86_rj8" level="subseries">
+          <did>
+            <unittitle>Subseries D: Related Artist Fund Societies</unittitle>
+          </did>
+          <scopecontent id="aspace_dd5536ca5938666ed3d2be323e4d8824">
+            <head>Scope and Content Note</head>
+            <p>The Fund for Superannuated Artists was established in the early 1900s to assist aged artists in maintaining suitable homes. It was founded by members of the Artists' Fund Society and the Artists' Aid Society, and in 1932 it dissolved, dividing its money between the two organizations. Correspondence, meeting minutes, notes and memorandums document this history and the 1932 agreement.</p>
+          </scopecontent>
+          <c id="aspace_ref87_fes" level="file">
+            <did>
+              <unittitle>Fund for Superannuated Artists</unittitle>
+              <unitdate datechar="creation" normal="1923/1932" type="inclusive">1923-1932</unitdate>
+              <container id="aspace_8aa9fed229ada54ad144c55d99a1e159" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_795d009246a985ff08aeca679376c1f0" parent="aspace_8aa9fed229ada54ad144c55d99a1e159" type="Folder">8</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref88_v9p" level="subseries">
+          <did>
+            <unittitle>Subseries E: Financial and Real Estate</unittitle>
+          </did>
+          <scopecontent id="aspace_62e48744d9b9098b0c9cd8294a417af1">
+            <head>Scope and Content Note</head>
+            <p>The majority of these records document the Society's real estate investments.</p>
+          </scopecontent>
+          <c id="aspace_ref90_xjp" level="file">
+            <did>
+              <unittitle>Bills and Receipts</unittitle>
+              <unitdate datechar="creation" normal="1920/1931" type="inclusive">1920-1931</unitdate>
+              <container id="aspace_66389327fa27ef7ce17cb35e61dbd1b8" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_403996f7f68dfbcd99b42b2f6e0476e8" parent="aspace_66389327fa27ef7ce17cb35e61dbd1b8" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref92_v5q" level="file">
+            <did>
+              <unittitle>Mortgages, Becker-Kertyczak</unittitle>
+              <unitdate datechar="creation" normal="1923/1934" type="inclusive">1923-1934</unitdate>
+              <container id="aspace_fe42f11950a0b2e6448502a151923b41" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_434b7f916e64eafb5b584fdd7a7f6dc2" parent="aspace_fe42f11950a0b2e6448502a151923b41" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref93_m05" level="file">
+            <did>
+              <unittitle>Mortgages, Marx-Villosio</unittitle>
+              <unitdate datechar="creation" normal="1924/1934" type="inclusive">1924-1934</unitdate>
+              <container id="aspace_3ff7e135105f162005f7662d07bedd8a" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_bf3f3890da8d8f61bf3778ff26a953d8" parent="aspace_3ff7e135105f162005f7662d07bedd8a" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref94_f0o" level="file">
+            <did>
+              <unittitle>Real Estate Documents</unittitle>
+              <unitdate datechar="creation" normal="1924/1933" type="inclusive">1924-1933</unitdate>
+              <container id="aspace_c319ddac86d27bb7d8f7cbeead9a2043" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_0c120d9e70c63b4fe6835a2e385283cd" parent="aspace_c319ddac86d27bb7d8f7cbeead9a2043" type="Folder">12</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref95_ttu" level="subseries">
+          <did>
+            <unittitle>Subseries F: Notes and Clippings</unittitle>
+          </did>
+          <scopecontent id="aspace_2aaafbd6735e1ff0fc05d41aa2bf00f9">
+            <head>Scope and Content Note</head>
+            <p>This subseries consists largely of Morgan's hand written notes. A small quantity of newspaper clippings document Artists' Fund Society activities and external developments impacting the Society.</p>
+          </scopecontent>
+          <c id="aspace_ref96_mjq" level="file">
+            <did>
+              <unittitle>Newspaper Clippings</unittitle>
+              <unitdate datechar="creation" normal="1881/1933" type="inclusive">1881-1933</unitdate>
+              <container id="aspace_fa5145862434793350b9e461de46e723" label="Mixed Materials" type="Box">3</container>
+              <container id="aspace_88337e6e15311fb763005b00d21e149b" parent="aspace_fa5145862434793350b9e461de46e723" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref97_fw6" level="file">
+            <did>
+              <unittitle>Notes (Hand Written)</unittitle>
+              <unitdate datechar="creation" normal="1926/1933" type="inclusive">1926-1933</unitdate>
+              <container id="aspace_4e376374f8fc3368a9d96e6f0edc1a66" label="Mixed Materials" type="Box">3</container>
+              <container id="aspace_f8f764c247beb2d6e3016abda1c31ef2" parent="aspace_4e376374f8fc3368a9d96e6f0edc1a66" type="Folder">2</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref15_8hm" level="series">
+        <did>
+          <unittitle>Series II: Constitution and Amendments</unittitle>
+        </did>
+        <scopecontent id="aspace_2a6511a22fe2f4bdb00d6763d74279f5">
+          <head>Scope and Content Note</head>
+          <p>This series consists of multiple versions of the constitution (printed and hand written), as well as proposals to amend the constitution over the years.</p>
+        </scopecontent>
+        <c id="aspace_ref16_0o7" level="file">
+          <did>
+            <unittitle>Constitution (Hand Written)</unittitle>
+            <unitdate datechar="creation" normal="1859/1859" type="inclusive">1859</unitdate>
+            <container id="aspace_85d2069f31a3685b006e42e6b3cfb102" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_edc9058005e91213cf4ce61f01d4d0bc" parent="aspace_85d2069f31a3685b006e42e6b3cfb102" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref35_i0w" level="file">
+          <did>
+            <unittitle>Constitution (Printed)</unittitle>
+            <unitdate datechar="creation" normal="1859/1859" type="inclusive">1859</unitdate>
+            <container id="aspace_07fc0eedfe1856231a7dbf8d8bce5ba6" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_22bdb666f8a0851211c70181bb72f9f4" parent="aspace_07fc0eedfe1856231a7dbf8d8bce5ba6" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref36_a20" level="file">
+          <did>
+            <unittitle>Constitution (Printed)</unittitle>
+            <unitdate datechar="creation">Circa 1860</unitdate>
+            <container id="aspace_9f0c27f38f74f8644c2eb18f20904f83" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_62f5b69b2de8d24973a71cc6e9ed9b92" parent="aspace_9f0c27f38f74f8644c2eb18f20904f83" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref37_if9" level="file">
+          <did>
+            <unittitle>Amendments and Resolutions
+</unittitle>
+            <unitdate datechar="creation" normal="1860/1936" type="inclusive">1860 June 6-1936 March 12</unitdate>
+            <container id="aspace_037835e71415f21a64bed8e5c1da5bdc" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_83244286f035f921ee794dbcecc7ddca" parent="aspace_037835e71415f21a64bed8e5c1da5bdc" type="Folder">6</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref17_u0z" level="series">
+        <did>
+          <unittitle>Series III: Minutes</unittitle>
+        </did>
+        <scopecontent id="aspace_e3b5adb3d220a21764d8e15d31247f10">
+          <head>Scope and Content Note</head>
+          <p>Meeting minutes are hand written and arranged chronologically in bound volumes. They are continuous from February 5, 1859 through April 1, 1873 and from February 8, 1876 through March 12, 1922. They include annual and quarterly (or later, "semi-annual") meetings of the membership, as well as monthly meetings of the Board of Control. Business discussed includes nomination and election of general and board members, financial investments, aid to members and non-members, planning of annual exhibits and dinners, and proposals to amend the constitution. Officers and names of those present are listed for each meeting.</p>
+        </scopecontent>
+        <c id="aspace_ref18_9h3" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1859/1873" type="inclusive">1859 February 5-1873 April 1</unitdate>
+            <container id="aspace_86678aa7645da7bd078c246c8416bc8a" label="Mixed Materials" type="Volume">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref71_v77" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1876/1885" type="inclusive">1876 February 8-1885 May 5</unitdate>
+            <container id="aspace_69c6250f7a19f1dfad1e8404858cbac0" label="Mixed Materials" type="Volume">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref72_8ji" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1885/1897" type="inclusive">1885 May 12-1897 April 13</unitdate>
+            <container id="aspace_e3c8463b92c5ed1ee22e4c6379725062" label="Mixed Materials" type="Volume">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref73_i2f" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation">1897 April 20-1922 March 12</unitdate>
+            <container id="aspace_71f2168e555c52a7c12487f057341ae4" label="Mixed Materials" type="Volume">5</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref19_h4d" level="series">
+        <did>
+          <unittitle>Series IV: Reports</unittitle>
+        </did>
+        <scopecontent id="aspace_b4f6694911b041267406c3abae948cc7">
+          <head>Scope and Content Note</head>
+          <p>Reports are grouped by type. With the exception of Biennial Reports (which were formally published), most of these reports are hand written or typed drafts with hand written corrections and notations. The presidential and secretarial reports appear to be speeches that were read at the annual meeting or dinner. These reports discuss the overall health and activities of the organization, note deaths of members, and welcome new members.</p>
+        </scopecontent>
+        <c id="aspace_ref20_i2z" level="file">
+          <did>
+            <unittitle>Biennial Reports</unittitle>
+            <unitdate datechar="creation" normal="1916/1916" type="inclusive">1916</unitdate>
+            <container id="aspace_afe4a291ce8dee66ed57401cb8e5be5c" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_308a9316ba87efb9be664607b698d5f0" parent="aspace_afe4a291ce8dee66ed57401cb8e5be5c" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref251_93w" level="file">
+          <did>
+            <unittitle>Leaflets</unittitle>
+            <unitdate datechar="creation" normal="1888/1888" type="inclusive">Circa 1888</unitdate>
+            <container id="aspace_d27734764cf231e16a6967ffab01783d" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_b2e7a87d72302dfc5b48f20beb7464ce" parent="aspace_d27734764cf231e16a6967ffab01783d" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref74_sih" level="file">
+          <did>
+            <unittitle>Nominations Committee Reports</unittitle>
+            <unitdate datechar="creation" normal="1896/1930" type="inclusive">1896-1930</unitdate>
+            <container id="aspace_f56b313822836f6aba9bf3dd6b8c285e" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_dd93ab2ccd9938644942599e05442f1e" parent="aspace_f56b313822836f6aba9bf3dd6b8c285e" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref75_yo8" level="file">
+          <did>
+            <unittitle>President's Reports</unittitle>
+            <unitdate datechar="creation" normal="1885/1900" type="inclusive">1895-1900 and undated</unitdate>
+            <container id="aspace_ab5aad19f9b492c232483830a4b8a6dd" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_d7f868c2ebcc034463e1a38ff1da0823" parent="aspace_ab5aad19f9b492c232483830a4b8a6dd" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref76_avx" level="file">
+          <did>
+            <unittitle>Secretary's Reports</unittitle>
+            <unitdate datechar="creation" normal="1917/1931" type="inclusive">1917-1931</unitdate>
+            <container id="aspace_988ff211b6fbf793e1b6b04ef7d66ca1" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_c6a4f29fe71789098e7b6ac6efa5bcf7" parent="aspace_988ff211b6fbf793e1b6b04ef7d66ca1" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref77_k8y" level="file">
+          <did>
+            <unittitle>Special Committee Reports</unittitle>
+            <unitdate datechar="creation" normal="1883/1916" type="inclusive">1883-1916</unitdate>
+            <container id="aspace_ed09cd67f976df9a702dd8d1960bfc67" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_72737fdc1e92266cbb688d5dae0aaff1" parent="aspace_ed09cd67f976df9a702dd8d1960bfc67" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref78_smp" level="file">
+          <did>
+            <unittitle>Treasurer and Auditor Reports</unittitle>
+            <unitdate datechar="creation" normal="1916/1923" type="inclusive">1916-1923</unitdate>
+            <container id="aspace_b4626697fc81791282b61e7dfeb5ffd8" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_a36147441d30f6e801c8c3e4caf0c06f" parent="aspace_b4626697fc81791282b61e7dfeb5ffd8" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref79_qub" level="file">
+          <did>
+            <unittitle>Treasurer and Auditor Reports</unittitle>
+            <unitdate datechar="creation" normal="1924/1937" type="inclusive">1924-1937</unitdate>
+            <container id="aspace_2b5edc6d95a153150f624538100be314" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_95ebe425ba5494bcfe4eda3a75d1d50c" parent="aspace_2b5edc6d95a153150f624538100be314" type="Folder">14</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref21_hed" level="series">
+        <did>
+          <unittitle>Series V: Correspondence</unittitle>
+        </did>
+        <scopecontent id="aspace_fc64f3465ebc9b8b80bb2e719d4d13a9">
+          <head>Scope and Content Note</head>
+          <p>This series consists of letters received by Artists' Fund Society officers and board members arranged alphabetically by recipient. Additionally, correspondence associated with particular committees and positions is grouped at the end. Letters address a range of activities and issues, including assistance to artists in need, updates on the health of those receiving aid, notifications of deaths of members, payment of assessment fees, honorary memberships, thank you letters, resignations, nominations for membership or service on the Board of Control, and other Society business.</p>
+        </scopecontent>
+        <c id="aspace_ref105_au8" level="file">
+          <did>
+            <unittitle>de Forest, Lockwood</unittitle>
+            <unitdate datechar="creation" normal="1894/1905" type="inclusive">1894-1905</unitdate>
+            <container id="aspace_392115744515429fae1bd2eeab3d6aac" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_58ab36b7b68cb5d1e723e833d6164903" parent="aspace_392115744515429fae1bd2eeab3d6aac" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref254_1u0" level="file">
+          <did>
+            <unittitle>Department of Health</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e15ee729e395ad06b8e5f08f14f7cff4" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_91ac60888480e156bdb46e031f1889d7" parent="aspace_e15ee729e395ad06b8e5f08f14f7cff4" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref116_t4b" level="file">
+          <did>
+            <unittitle>Dunsmore, John Ward</unittitle>
+            <unitdate datechar="creation" normal="1925/1930" type="inclusive">1925-1930</unitdate>
+            <container id="aspace_cae54cf46cdc661caff644ab59e5b208" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_7d2936a8664ca9ba51d837b95690deac" parent="aspace_cae54cf46cdc661caff644ab59e5b208" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref115_vdf" level="file">
+          <did>
+            <unittitle>Dunsmore, John Ward</unittitle>
+            <unitdate datechar="creation" normal="1931/1935" type="inclusive">1931-1936</unitdate>
+            <container id="aspace_a5622f581df4db50a1d62b652ed43bc3" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_1379f6ce421b1e8c9ee19646f8b13f96" parent="aspace_a5622f581df4db50a1d62b652ed43bc3" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref106_i2g" level="file">
+          <did>
+            <unittitle>Dustin, Silas</unittitle>
+            <unitdate datechar="creation" normal="1908/1909" type="inclusive">1908-1909</unitdate>
+            <container id="aspace_928585831b94449b193755aefcd43b02" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_c374c3c0b0ea103a0cd0aab30213996d" parent="aspace_928585831b94449b193755aefcd43b02" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref107_rhi" level="file">
+          <did>
+            <unittitle>Falconer, John M. </unittitle>
+            <unitdate datechar="creation" normal="1878/1878" type="inclusive">1878</unitdate>
+            <container id="aspace_cf5fda0bb9ca7ac8f4b0477646da0e68" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_e324776e17b78457128e57df6b629b95" parent="aspace_cf5fda0bb9ca7ac8f4b0477646da0e68" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref108_sdc" level="file">
+          <did>
+            <unittitle>Hicks, Thomas</unittitle>
+            <unitdate datechar="creation" normal="1876/1876" type="inclusive">1876</unitdate>
+            <container id="aspace_7ff954e3d0958ff551e61cb0469e4410" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_9e975df8d26e2bd550193ac0cb3302c2" parent="aspace_7ff954e3d0958ff551e61cb0469e4410" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref109_8ra" level="file">
+          <did>
+            <unittitle>Hunt, Leigh</unittitle>
+            <unitdate datechar="creation" normal="1907/1909" type="inclusive">1907-1909</unitdate>
+            <container id="aspace_e29ceb2586ef20c7015e09aac944f6c2" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_7be128bd67bc1a87eccd846bd1628aa5" parent="aspace_e29ceb2586ef20c7015e09aac944f6c2" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref110_p86" level="file">
+          <did>
+            <unittitle>Post, William Merritt</unittitle>
+            <unitdate datechar="creation" normal="1910/1935" type="inclusive">1910-1935</unitdate>
+            <container id="aspace_f9603933d8506c746c4c43dfce531616" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_8ca6ce7cf9a87a9d3c5cf7035bd9370c" parent="aspace_f9603933d8506c746c4c43dfce531616" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref111_zlb" level="file">
+          <did>
+            <unittitle>Shurtleff, R. M.</unittitle>
+            <unitdate datechar="creation" normal="1893/1893" type="inclusive">1893 and undated</unitdate>
+            <container id="aspace_13be8c713c06bec315a076d9661d7586" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_6c38696a4a4e009f5d79179749b3fd71" parent="aspace_13be8c713c06bec315a076d9661d7586" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref112_ch7" level="file">
+          <did>
+            <unittitle>Sindelar, T. A.</unittitle>
+            <unitdate datechar="creation" normal="1914/1914" type="inclusive">1914</unitdate>
+            <container id="aspace_07a294e98c37e66bd1d2375e97b99dea" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_edac44be87d800f7c35f076ae4bb1151" parent="aspace_07a294e98c37e66bd1d2375e97b99dea" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref113_gok" level="file">
+          <did>
+            <unittitle>Williams, John Alonzo</unittitle>
+            <unitdate datechar="creation" normal="1935/1937" type="inclusive">1935-1937</unitdate>
+            <container id="aspace_542a0de7b65e465d123734781b7764b4" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_00d14dc22f8a19689513c7ff774f264d" parent="aspace_542a0de7b65e465d123734781b7764b4" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref114_17i" level="file">
+          <did>
+            <unittitle>Yewell, George H.</unittitle>
+            <unitdate datechar="creation" normal="1892/1899" type="inclusive">1892-1899</unitdate>
+            <container id="aspace_3675b303d80204c058d1173b455deedd" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_c33a380e28023a9a69eb64f693b95e1b" parent="aspace_3675b303d80204c058d1173b455deedd" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref117_i3m" level="file">
+          <did>
+            <unittitle>Yewell, George H.</unittitle>
+            <unitdate datechar="creation" normal="1900/1909" type="inclusive">1900-1909</unitdate>
+            <container id="aspace_6ede46d90a02e5264be788bde1068707" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_b166065262215a2a583a4ef8fc3422a6" parent="aspace_6ede46d90a02e5264be788bde1068707" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref118_sf8" level="file">
+          <did>
+            <unittitle>Artists' Fund Society, General</unittitle>
+            <unitdate datechar="creation" normal="1888/1919" type="inclusive">1888-1919</unitdate>
+            <container id="aspace_59e37d3b0160f7e9dd9bff2e1386e149" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_8d2de7cd3f20146f93c9eea24de92b65" parent="aspace_59e37d3b0160f7e9dd9bff2e1386e149" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref119_26s" level="file">
+          <did>
+            <unittitle>Special Committee</unittitle>
+            <unitdate datechar="creation" normal="1885/1885" type="inclusive">1885</unitdate>
+            <container id="aspace_6e0f3cefe748a556abd14cd28056f10a" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_80520066ef12ec26d3147b7c00d2f710" parent="aspace_6e0f3cefe748a556abd14cd28056f10a" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref154_bud" level="file">
+          <did>
+            <unittitle>Board Members and Officers </unittitle>
+            <unitdate datechar="creation" normal="1860/1880" type="inclusive">1860-1880</unitdate>
+            <container id="aspace_fbc221513a00dc5f1cea7a3b41518630" label="Mixed Materials" type="Volume">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref155_5mj" level="file">
+          <did>
+            <unittitle>Treasurer </unittitle>
+            <unitdate datechar="creation" normal="1897/1906" type="inclusive">1897-1906</unitdate>
+            <container id="aspace_d001af2061b38138f67b6c8c49de7850" label="Mixed Materials" type="Volume">7</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref23_x1e" level="series">
+        <did>
+          <unittitle>Series VI: Membership</unittitle>
+        </did>
+        <scopecontent id="aspace_3ae5913028141973d70bceed289ecdfd">
+          <head>Scope and Content Note</head>
+          <p>Lists, nominations, honorary memberships, notifications of member deaths, and resignations all track the composition and structure of Artists' Fund Society membership over time. Additionally, death of members and fees lists, designation of benefits forms, will and estate documents, and receipts documenting benefit payments all demonstrate how assistance was administered to widows, children and families of deceased members.</p>
+        </scopecontent>
+        <c id="aspace_ref227_0aa" level="file">
+          <did>
+            <unittitle>Annual Meeting and Dinner Notices</unittitle>
+            <unitdate datechar="creation" normal="1920/1924" type="inclusive">1920-1924</unitdate>
+            <container id="aspace_20ef52ed5fd044bcaa0559f2ff4ca5fe" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_0beb4d9eb4ee6bebc5f9d24acc70a975" parent="aspace_20ef52ed5fd044bcaa0559f2ff4ca5fe" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref124_otj" level="file">
+          <did>
+            <unittitle>Death of Members and Fees List</unittitle>
+            <unitdate datechar="creation" normal="1903/1908" type="inclusive">1903-1908</unitdate>
+            <container id="aspace_4abac6f1a8392b665615084a483c5012" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_86ffb0a3aac94fee1e01d46ce453978d" parent="aspace_4abac6f1a8392b665615084a483c5012" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref143_lc0" level="file">
+          <did>
+            <unittitle>Death of Members Notices</unittitle>
+            <unitdate datechar="creation" normal="1867/1905" type="inclusive">1867-1905</unitdate>
+            <container id="aspace_f60af9fd4d7b5ce19566d56f97f71e46" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_32d2fc70cb81b466c7c3fdb3a3c5d5c7" parent="aspace_f60af9fd4d7b5ce19566d56f97f71e46" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref126_mfc" level="file">
+          <did>
+            <unittitle>Death of Members Since 1925 List</unittitle>
+            <unitdate datechar="creation" normal="1935/1935" type="inclusive">Circa 1935</unitdate>
+            <container id="aspace_78ebd082e85fdf9fe36688601453fc14" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_1d351381f2983af8c8fd1a8e02a864c2" parent="aspace_78ebd082e85fdf9fe36688601453fc14" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref144_rk5" level="file">
+          <did>
+            <unittitle>Death of Members, Unpaid Assessments</unittitle>
+            <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+            <container id="aspace_95cef2b3c579f164177be72d5a689d7d" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_e5edc898e04fd22a436b1fa5108005de" parent="aspace_95cef2b3c579f164177be72d5a689d7d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref148_81u" level="file">
+          <did>
+            <unittitle>Designation of Benefits, Adams-Ennis</unittitle>
+            <unitdate datechar="creation" normal="1896/1932" type="inclusive">1896-1932</unitdate>
+            <container id="aspace_c97b79fa8e3290eb3494917efd8ea6d5" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_fe1fd9f094486f804af4ee6b436f5468" parent="aspace_c97b79fa8e3290eb3494917efd8ea6d5" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref149_2gj" level="file">
+          <did>
+            <unittitle>Designation of Benefits, Fassett-Loomis</unittitle>
+            <unitdate datechar="creation" normal="1896/1932" type="inclusive">1896-1932</unitdate>
+            <container id="aspace_f5deda503c491e5a64d0a4fbd48ab492" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_cfc9c5a343edc5167934f36a10af4f47" parent="aspace_f5deda503c491e5a64d0a4fbd48ab492" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref150_b00" level="file">
+          <did>
+            <unittitle>Designation of Benefits, Macy-Ryder</unittitle>
+            <unitdate datechar="creation" normal="1896/1931" type="inclusive">1896-1931</unitdate>
+            <container id="aspace_b25a983b9c80026b45b48957302bfebb" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_50c3529eabf79948e176a9833724dde5" parent="aspace_b25a983b9c80026b45b48957302bfebb" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref151_ftj" level="file">
+          <did>
+            <unittitle>Designation of Benefits, Sandor-Wood</unittitle>
+            <unitdate datechar="creation" normal="1896/1932" type="inclusive">1896-1932</unitdate>
+            <container id="aspace_15170f12c091f56fa597ef045c370e91" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_cb47326b429d19d3dd4b6ef3c5ac4424" parent="aspace_15170f12c091f56fa597ef045c370e91" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref128_fhu" level="file">
+          <did>
+            <unittitle>Honorary Memberships</unittitle>
+            <unitdate datechar="creation" normal="1892/1892" type="inclusive">1892</unitdate>
+            <container id="aspace_1fcb62b2e7fe711b0914d1b1f9fedf32" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_2bcfcf4b81142ace0b8b69896e83a214" parent="aspace_1fcb62b2e7fe711b0914d1b1f9fedf32" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref129_mbj" level="file">
+          <did>
+            <unittitle>Membership List</unittitle>
+            <unitdate datechar="creation" normal="1883/1934" type="inclusive">Circa 1883-1934</unitdate>
+            <container id="aspace_f8a58066c74c6305a306f778cff202c2" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_715564cc6e1f3767dbc7b7d4b6b4a75b" parent="aspace_f8a58066c74c6305a306f778cff202c2" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref130_nie" level="file">
+          <did>
+            <unittitle>Membership List</unittitle>
+            <unitdate datechar="creation">Circa 1935</unitdate>
+            <container id="aspace_82d163c75d34443841fc9cb6b8fb8e83" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_7f7403b55d4dc3820f002d8f8b5bcf50" parent="aspace_82d163c75d34443841fc9cb6b8fb8e83" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref226_nzt" level="file">
+          <did>
+            <unittitle>Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1927/1927" type="inclusive">1927 and undated</unitdate>
+            <container id="aspace_96c92a80fd6a1b34ecb726a0609116f5" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_94524e481fb8a850ecc959785f68d982" parent="aspace_96c92a80fd6a1b34ecb726a0609116f5" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref132_mfm" level="file">
+          <did>
+            <unittitle>Nominations for Membership</unittitle>
+            <unitdate datechar="creation" normal="1897/1921" type="inclusive">1897-1921</unitdate>
+            <container id="aspace_780350bfdadbfc4a8332f160b64d330a" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_72687b16098d90c791535cae224e4a20" parent="aspace_780350bfdadbfc4a8332f160b64d330a" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref145_8r8" level="file">
+          <did>
+            <unittitle>Receipt of Payment Upon Resignations and Deaths</unittitle>
+            <unitdate datechar="creation" normal="1885/1887" type="inclusive">1885-1887</unitdate>
+            <container id="aspace_5f28c13082aa646bdaa84f88086503d2" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_14991720626cf51472de794af27e3f8b" parent="aspace_5f28c13082aa646bdaa84f88086503d2" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref146_xqq" level="file">
+          <did>
+            <unittitle>Receipt of Payment Upon Deaths</unittitle>
+            <unitdate datechar="creation" normal="1914/1919" type="inclusive">1914-1919</unitdate>
+            <container id="aspace_9ed06c66b3ecaba94981ca600f824ec4" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_1aefce68a3af7411c74b66952a0c031f" parent="aspace_9ed06c66b3ecaba94981ca600f824ec4" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref147_onh" level="file">
+          <did>
+            <unittitle>Receipt of Payment Upon Deaths</unittitle>
+            <unitdate datechar="creation" normal="1932/1935" type="inclusive">1932-1935</unitdate>
+            <container id="aspace_67d571607a5085c9687f7ebfa2d116fe" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_9a674607f582832328c9c0f24f2c7127" parent="aspace_67d571607a5085c9687f7ebfa2d116fe" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref133_ijj" level="file">
+          <did>
+            <unittitle>Resignation Documents</unittitle>
+            <unitdate datechar="creation" normal="1885/1885" type="inclusive">1885</unitdate>
+            <container id="aspace_fd89926cb2b5ce252097ec8a0674b732" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_e83e5b2ea19d01536b9c522f3094ca42" parent="aspace_fd89926cb2b5ce252097ec8a0674b732" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref134_2z5" level="file">
+          <did>
+            <unittitle>Resignation Documents</unittitle>
+            <unitdate datechar="creation" normal="1885/1885" type="inclusive">1885</unitdate>
+            <container id="aspace_0e0ecb64ee76cd5764192c14038bca42" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_1739c8ad6d59fec8e3013b2a77138171" parent="aspace_0e0ecb64ee76cd5764192c14038bca42" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref135_pl6" level="file">
+          <did>
+            <unittitle>Resignation Documents</unittitle>
+            <unitdate datechar="creation" normal="1886/1886" type="inclusive">1886</unitdate>
+            <container id="aspace_246ebe75410b7e8d166dfb5faa59026b" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_ccbbe86babc491039e025509de039437" parent="aspace_246ebe75410b7e8d166dfb5faa59026b" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref136_nfz" level="file">
+          <did>
+            <unittitle>Resignation Documents</unittitle>
+            <unitdate datechar="creation" normal="1887/1887" type="inclusive">1887</unitdate>
+            <container id="aspace_0178219a96acd622f9d1bfef1062251f" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_c65b6f9c891a5d0115c742b8e07156a8" parent="aspace_0178219a96acd622f9d1bfef1062251f" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref137_rfg" level="file">
+          <did>
+            <unittitle>Resignation Documents</unittitle>
+            <unitdate datechar="creation" normal="1888/1889" type="inclusive">1888-1889</unitdate>
+            <container id="aspace_e22fa8bbd782f565a90bc4cf6572e610" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_683f4ec79405db4fdb63513d7bf867e3" parent="aspace_e22fa8bbd782f565a90bc4cf6572e610" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref138_x0l" level="file">
+          <did>
+            <unittitle>Will and Estate Documents</unittitle>
+            <unitdate datechar="creation" normal="1881/1881" type="inclusive">1881</unitdate>
+            <container id="aspace_0450a7770d87ad145d25fd57457be9d2" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_a9e049b2ef2b8886fd507711adf573c5" parent="aspace_0450a7770d87ad145d25fd57457be9d2" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref139_ou8" level="file">
+          <did>
+            <unittitle>Will and Estate Documents</unittitle>
+            <unitdate datechar="creation" normal="1885/1887" type="inclusive">1885-1887</unitdate>
+            <container id="aspace_092bb6e2b48716587383b9256358ed38" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_05b16c2758ad75f96439d6b2a20aab64" parent="aspace_092bb6e2b48716587383b9256358ed38" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref140_cbd" level="file">
+          <did>
+            <unittitle>Will and Estate Documents</unittitle>
+            <unitdate datechar="creation" normal="1888/1888" type="inclusive">1888</unitdate>
+            <container id="aspace_0a96ad2ec35d122b099856f37999f509" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_92868a27971373f965908a67489a1f1e" parent="aspace_0a96ad2ec35d122b099856f37999f509" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref141_ov4" level="file">
+          <did>
+            <unittitle>Will and Estate Documents</unittitle>
+            <unitdate datechar="creation" normal="1889/1890" type="inclusive">1889-1890</unitdate>
+            <container id="aspace_6646fbe8a7fa108cfc83cdf5addc84d6" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_e3d699689035227326c4acb4cbfd9399" parent="aspace_6646fbe8a7fa108cfc83cdf5addc84d6" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref142_c5e" level="file">
+          <did>
+            <unittitle>Will and Estate Documents</unittitle>
+            <unitdate datechar="creation" normal="1904/1907" type="inclusive">1904-1907</unitdate>
+            <container id="aspace_4b122f88bb2a2796d4327cd384d1845e" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_5f019cfd83c1304adec08385e66f8778" parent="aspace_4b122f88bb2a2796d4327cd384d1845e" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref125_exh" level="file">
+          <did>
+            <unittitle>Death of Members and Fees List </unittitle>
+            <unitdate datechar="creation" normal="1909/1933" type="inclusive">1909-1933</unitdate>
+            <container id="aspace_e4aafe54579910bfa7493053de0bf1c0" label="Mixed Materials" type="Volume">8</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref25_5m7" level="series">
+        <did>
+          <unittitle>Series VII: Financial</unittitle>
+        </did>
+        <scopecontent id="aspace_9744f59a4c4ff096d4645cbcd3d68b71">
+          <head>Scope and Content Note</head>
+          <p>This series is divided into two subseries.</p>
+          <p>Subseries A, Financial Records, includes correspondence with banks, bank statements, bankbooks, canceled checks, and bills and receipts. There are five bound volumes, including a cash transaction book and four volumes of check stubs of the Second National Bank. </p>
+          <p>Subseries B, John Mackie Falconer Papers, documents the investigation of J.M. Falconer, who served as Treasurer of the Artists' Fund Society from its inception until February 1883. Auditors determined that Falconer used deceptive record keeping practices to misappropriate $8,713.72. The final report on the affair said it was "the most painful and important" episode in the organization's history. These materials were bundled together by the Artists' Fund Society and are arranged in their own subseries to preserve this context.</p>
+        </scopecontent>
+        <c id="aspace_ref230_kjo" level="subseries">
+          <did>
+            <unittitle>Subseries A: Financial Records</unittitle>
+          </did>
+          <scopecontent id="aspace_6bc3fdec31f30ca190a71e1324f82722">
+            <head>Scope and Content Note</head>
+            <p>Financial Records include correspondence with banks, bank statements, bankbooks, canceled checks, and bills and receipts. There are five bound volumes, including a cash transaction book and four volumes of check stubs of the Second National Bank.</p>
+          </scopecontent>
+          <c id="aspace_ref172_95r" level="file">
+            <did>
+              <unittitle>Bank Correspondence</unittitle>
+              <unitdate datechar="creation" normal="1935/1936" type="inclusive">1935-1936</unitdate>
+              <container id="aspace_a28bd2b6a86d5e3e154a099b1bffdbc2" label="Mixed Materials" type="Box">7</container>
+              <container id="aspace_607c2c797024191d3d3bef4adf40fb9e" parent="aspace_a28bd2b6a86d5e3e154a099b1bffdbc2" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref171_wjz" level="file">
+            <did>
+              <unittitle>Bank Statements</unittitle>
+              <unitdate datechar="creation" normal="1929/1935" type="inclusive">1929-1935</unitdate>
+              <container id="aspace_a1e5a9a7c2d66aee7f9f3289e84b1db8" label="Mixed Materials" type="Box">7</container>
+              <container id="aspace_e131134ad12a783474ce89b0dd91254f" parent="aspace_a1e5a9a7c2d66aee7f9f3289e84b1db8" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref160_oyu" level="file">
+            <did>
+              <unittitle>Bankbooks, Manhattan Company</unittitle>
+              <unitdate datechar="creation" normal="1871/1881" type="inclusive">1871-1881</unitdate>
+              <container id="aspace_be3f45a3cd180ea038a893f9e7377191" label="Mixed Materials" type="Box">7</container>
+              <container id="aspace_502d27198f617a6c9d287e2101a1a9c5" parent="aspace_be3f45a3cd180ea038a893f9e7377191" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref161_mgx" level="file">
+            <did>
+              <unittitle>Bankbooks, National City Bank of New York</unittitle>
+              <unitdate datechar="creation" normal="1930/1934" type="inclusive">1930-1934</unitdate>
+              <container id="aspace_c7179fe2e99a87901de6329037920373" label="Mixed Materials" type="Box">7</container>
+              <container id="aspace_b5972854713a4567b2c64b4097c34ca8" parent="aspace_c7179fe2e99a87901de6329037920373" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref162_3ds" level="file">
+            <did>
+              <unittitle>Bankbooks, Second National Bank</unittitle>
+              <unitdate datechar="creation" normal="1883/1922" type="inclusive">1883-1922</unitdate>
+              <container id="aspace_72d2dcc7063dbd553b0750b339daa328" label="Mixed Materials" type="Box">7</container>
+              <container id="aspace_b66c24f94361ec8df3c26ef2e6339245" parent="aspace_72d2dcc7063dbd553b0750b339daa328" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref163_x0t" level="file">
+            <did>
+              <unittitle>Bankbooks, Union Square Savings Bank</unittitle>
+              <unitdate datechar="creation" normal="1911/1936" type="inclusive">1911-1936</unitdate>
+              <container id="aspace_d0c63eabfa0d3cacb34aff08be101f68" label="Mixed Materials" type="Box">7</container>
+              <container id="aspace_c7eddd7725a2d469db6f29c926716be3" parent="aspace_d0c63eabfa0d3cacb34aff08be101f68" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref165_e5b" level="file">
+            <did>
+              <unittitle>Bills and Receipts</unittitle>
+              <unitdate datechar="creation" normal="1879/1887" type="inclusive">1879-1887</unitdate>
+              <container id="aspace_697509537bd564aad6f3ae56c88720ef" label="Mixed Materials" type="Box">7</container>
+              <container id="aspace_0865ac843b247fc1b2da0f1fa1c1251c" parent="aspace_697509537bd564aad6f3ae56c88720ef" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref166_e8f" level="file">
+            <did>
+              <unittitle>Bills and Receipts</unittitle>
+              <unitdate datechar="creation" normal="1903/1910" type="inclusive">1903-1910</unitdate>
+              <container id="aspace_8ae1b988a0bf3b914dd5223cff13dcd2" label="Mixed Materials" type="Box">7</container>
+              <container id="aspace_1b11e9314b900416951cc7713fc28f3c" parent="aspace_8ae1b988a0bf3b914dd5223cff13dcd2" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref167_w25" level="file">
+            <did>
+              <unittitle>Bills and Receipts</unittitle>
+              <unitdate datechar="creation" normal="1911/1920" type="inclusive">1911-1920</unitdate>
+              <container id="aspace_d7a9958ce355aa55a7384542ce2f4ba6" label="Mixed Materials" type="Box">7</container>
+              <container id="aspace_fdd4dd38306cb479231869acc93def80" parent="aspace_d7a9958ce355aa55a7384542ce2f4ba6" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref168_r6s" level="file">
+            <did>
+              <unittitle>Bills and Receipts</unittitle>
+              <unitdate datechar="creation" normal="1921/1929" type="inclusive">1921-1929</unitdate>
+              <container id="aspace_50d12ccd438adb4ad58881f4508a3a97" label="Mixed Materials" type="Box">7</container>
+              <container id="aspace_2fb0d4b402cc85bd21a925c5a198cd86" parent="aspace_50d12ccd438adb4ad58881f4508a3a97" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref169_an9" level="file">
+            <did>
+              <unittitle>Bills and Receipts</unittitle>
+              <unitdate datechar="creation" normal="1930/1937" type="inclusive">1930-1937</unitdate>
+              <container id="aspace_2a00d6dc97678a2902cc253fd3540319" label="Mixed Materials" type="Box">8</container>
+              <container id="aspace_fb892df93e73e3c1660dc3e374dba06c" parent="aspace_2a00d6dc97678a2902cc253fd3540319" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref170_yba" level="collection">
+            <did>
+              <unittitle>Bills and Receipts (Blank Forms)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_9473a7c7d414459fcbe9e00bd155246d" label="Mixed Materials" type="Box">8</container>
+              <container id="aspace_0ffb148909947d8b3f12407f9c5948dc" parent="aspace_9473a7c7d414459fcbe9e00bd155246d" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref178_fuf" level="file">
+            <did>
+              <unittitle>Canceled Checks</unittitle>
+              <unitdate datechar="creation" normal="1879/1886" type="inclusive">1879-1886</unitdate>
+              <container id="aspace_6d41cdd3267fe63272e7a1600e6452a3" label="Mixed Materials" type="Box">8</container>
+              <container id="aspace_a890b4480d388c3147675be0b2875c5a" parent="aspace_6d41cdd3267fe63272e7a1600e6452a3" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref179_g0j" level="file">
+            <did>
+              <unittitle>Canceled Checks</unittitle>
+              <unitdate datechar="creation" normal="1908/1910" type="inclusive">1908-1910</unitdate>
+              <container id="aspace_24b4de317552a57ececf3a0bfd53a6f4" label="Mixed Materials" type="Box">8</container>
+              <container id="aspace_79a5d2d17ae868cd5f66b0ae654b5b30" parent="aspace_24b4de317552a57ececf3a0bfd53a6f4" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref180_qwd" level="file">
+            <did>
+              <unittitle>Canceled Checks</unittitle>
+              <unitdate datechar="creation" normal="1922/1930" type="inclusive">1922-1930</unitdate>
+              <container id="aspace_fc44d99b8526a460b9a29fcc01d3aa06" label="Mixed Materials" type="Box">8</container>
+              <container id="aspace_d06610516bf77e02d5072c02a96d0c46" parent="aspace_fc44d99b8526a460b9a29fcc01d3aa06" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref181_gvt" level="file">
+            <did>
+              <unittitle>Canceled Checks</unittitle>
+              <unitdate datechar="creation" normal="1931/1935" type="inclusive">1931-1925</unitdate>
+              <container id="aspace_212397c302db38f2c7bbf6c6d36c2ae9" label="Mixed Materials" type="Box">8</container>
+              <container id="aspace_a916d17163135addd876c4064c9e568d" parent="aspace_212397c302db38f2c7bbf6c6d36c2ae9" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref173_ar3" level="file">
+            <did>
+              <unittitle>Credits to Bank Accounts</unittitle>
+              <unitdate datechar="creation" normal="1906/1906" type="inclusive">1906</unitdate>
+              <container id="aspace_7908e596956a01fd0498c102140fb5fe" label="Mixed Materials" type="Box">8</container>
+              <container id="aspace_4c3f456ba8ccbf3160cdc1f79f862891" parent="aspace_7908e596956a01fd0498c102140fb5fe" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref174_nss" level="file">
+            <did>
+              <unittitle>Credits to Bank Accounts</unittitle>
+              <unitdate datechar="creation" normal="1932/1937" type="inclusive">1932-1937</unitdate>
+              <container id="aspace_a9bd749b7dfa9d2de83e97e8aee8fe65" label="Mixed Materials" type="Box">8</container>
+              <container id="aspace_5dcc9b0eabbb6453b58292c231853b67" parent="aspace_a9bd749b7dfa9d2de83e97e8aee8fe65" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref175_5c7" level="file">
+            <did>
+              <unittitle>Dividend Payment Receipts</unittitle>
+              <unitdate datechar="creation" normal="1885/1886" type="inclusive">1885-1886</unitdate>
+              <container id="aspace_3525c853a7d6f36b8f9944d21b326523" label="Mixed Materials" type="Box">8</container>
+              <container id="aspace_e7dc622f97c0faef68269d1f783a1496" parent="aspace_3525c853a7d6f36b8f9944d21b326523" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref177_trk" level="file">
+            <did>
+              <unittitle>Notes (Hand Written)</unittitle>
+              <unitdate datechar="creation" normal="1933/1934" type="inclusive">1933-1934 and undated</unitdate>
+              <container id="aspace_975032c59cbbc93b4ba4344b08add41d" label="Mixed Materials" type="Box">8</container>
+              <container id="aspace_278061137aa7f89277b5fbc376a76e1a" parent="aspace_975032c59cbbc93b4ba4344b08add41d" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref176_beq" level="file">
+            <did>
+              <unittitle>Safe Deposit Box Documents</unittitle>
+              <unitdate datechar="creation" normal="1931/1931" type="inclusive">1931</unitdate>
+              <container id="aspace_f7ebaa1428d8274c57a0f59ff451edb4" label="Mixed Materials" type="Box">8</container>
+              <container id="aspace_e7f2450af40c9fbcee72086736985133" parent="aspace_f7ebaa1428d8274c57a0f59ff451edb4" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref26_1ui" level="file">
+            <did>
+              <unittitle>Cash Book</unittitle>
+              <unitdate datechar="creation" normal="1859/1891" type="inclusive">1859-1891</unitdate>
+              <container id="aspace_513012524ece0b3595464a6f7b42bd1e" label="Mixed Materials" type="Volume">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref156_23e" level="file">
+            <did>
+              <unittitle>Checks, Second National Bank, 1-300</unittitle>
+              <unitdate datechar="creation" normal="1883/1885" type="inclusive">1883-1885</unitdate>
+              <container id="aspace_691186ef0663ea1e7c0247060f7e0a6e" label="Mixed Materials" type="Volume">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref157_8sn" level="file">
+            <did>
+              <unittitle>Checks, Second National Bank, 301-900</unittitle>
+              <unitdate datechar="creation" normal="1885/1890" type="inclusive">1885-1890</unitdate>
+              <container id="aspace_4fb980a0d4cc93809936f162ded6aa2c" label="Mixed Materials" type="Volume">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref159_ps9" level="file">
+            <did>
+              <unittitle>Checks, Second National Bank, 1501-2000</unittitle>
+              <unitdate datechar="creation" normal="1912/1922" type="inclusive">1912 April 10-1922 February 23</unitdate>
+              <container id="aspace_93b382f7d78d4023e8cb57c580b767cf" label="Mixed Materials" type="Volume">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref158_8r6" level="file">
+            <did>
+              <unittitle>Checks, Second National Bank, 1252-1500</unittitle>
+              <unitdate datechar="creation" normal="1900/1912" type="inclusive">1900-1912</unitdate>
+              <container id="aspace_c5ce4915ae08154b43808a801433d1e4" label="Mixed Materials" type="Volume">13</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref232_cbz" level="subseries">
+          <did>
+            <unittitle>Subseries B: John Mackie Falconer Papers </unittitle>
+          </did>
+          <scopecontent id="aspace_0f2fe26ed69285b5ccf604ba7c93ab93">
+            <head>Scope and Content Note</head>
+            <p>This subseries documents the investgation of John Mackie Falconer, who served as Treasurer of the Artists' Fund Society from its inception until February 1883, when he was found guilty of misappropriating $8,713.72. These materials were bundled together by the Artists' Fund Society and are arranged in their own subseries to preserve this context.</p>
+          </scopecontent>
+          <c id="aspace_ref233_a54" level="file">
+            <did>
+              <unittitle>Auditor Reports</unittitle>
+              <unitdate datechar="creation" normal="1182/1883" type="inclusive">1882 November 14 - 1883 February 7</unitdate>
+              <container id="aspace_b3de8f4f5caf0c6e4327193f226be8bf" label="Mixed Materials" type="Box">8</container>
+              <container id="aspace_5ee06b7c20bd3cd8113f29ef8716c003" parent="aspace_b3de8f4f5caf0c6e4327193f226be8bf" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref235_bz3" level="file">
+            <did>
+              <unittitle>Correspondence and Notes</unittitle>
+              <unitdate datechar="creation" normal="1882/1882" type="inclusive">1882</unitdate>
+              <container id="aspace_e1cc5bc23c2dcd1f10ff4cd9b741c608" label="Mixed Materials" type="Box">8</container>
+              <container id="aspace_d0a32064b13c2a1d51706f00dd33c298" parent="aspace_e1cc5bc23c2dcd1f10ff4cd9b741c608" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref234_eh2" level="file">
+            <did>
+              <unittitle>Legal Agreement </unittitle>
+              <unitdate datechar="creation" normal="1882/1882" type="inclusive">1882 December 19</unitdate>
+              <container id="aspace_23f3d9f8cdd3e5a5c48a8843f9af3021" label="Mixed Materials" type="Box">8</container>
+              <container id="aspace_0198434abff82e76d970d4235494ffbe" parent="aspace_23f3d9f8cdd3e5a5c48a8843f9af3021" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref236_j8b" level="file">
+            <did>
+              <unittitle>Report on Falconer's Property</unittitle>
+              <unitdate datechar="creation" normal="1882/1882" type="inclusive">1882 December 12</unitdate>
+              <container id="aspace_8cee31db01ad6db133e0cd1bc2990763" label="Mixed Materials" type="Box">9</container>
+              <container id="aspace_9e69014d4494fb7b1d89beeb138a582d" parent="aspace_8cee31db01ad6db133e0cd1bc2990763" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref237_m2r" level="file">
+            <did>
+              <unittitle>Resignation Letters</unittitle>
+              <unitdate datechar="creation" normal="1883/1883" type="inclusive">1883</unitdate>
+              <container id="aspace_668cacefd59fca772084f7936b1f10f2" label="Mixed Materials" type="Box">9</container>
+              <container id="aspace_756c517f76898fe3acd14eedb81b3c23" parent="aspace_668cacefd59fca772084f7936b1f10f2" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref238_sss" level="file">
+            <did>
+              <unittitle>Treasury Reports by Falconer</unittitle>
+              <unitdate datechar="creation" normal="1861/1862" type="inclusive">1861-1862</unitdate>
+              <container id="aspace_b714508c0d7b5937b8b6642540d7152e" label="Mixed Materials" type="Box">9</container>
+              <container id="aspace_7154a769b1d5d6d64e2a308e3a8e1064" parent="aspace_b714508c0d7b5937b8b6642540d7152e" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref239_8cx" level="file">
+            <did>
+              <unittitle>Treasury Reports by Falconer</unittitle>
+              <unitdate datechar="creation" normal="1874/1881" type="inclusive">1874-1881</unitdate>
+              <container id="aspace_ef4704336a56f0635e8ef7b25b5d731e" label="Mixed Materials" type="Box">9</container>
+              <container id="aspace_58bc93a3bae58513567a4646256d31db" parent="aspace_ef4704336a56f0635e8ef7b25b5d731e" type="Folder">4</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref27_7ev" level="series">
+        <did>
+          <unittitle>Series VIII: Real Estate</unittitle>
+        </did>
+        <scopecontent id="aspace_2f1b5ccf3a9da6e67d7128c046242b66">
+          <head>Scope and Content Note</head>
+          <p>This series consists of correspondence, legal agreements, reports and other records documenting the Society's real estate investments.</p>
+        </scopecontent>
+        <c id="aspace_ref186_ho1" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1924/1936" type="inclusive">1924-1936</unitdate>
+            <container id="aspace_913505e0f0adf923148bd7af5a1dc459" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_f936375af7c1d6b1367164cec0ff7ad2" parent="aspace_913505e0f0adf923148bd7af5a1dc459" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref187_51h" level="file">
+          <did>
+            <unittitle>Legal Agreements</unittitle>
+            <unitdate datechar="creation" normal="1897/1903" type="inclusive">1897-1903</unitdate>
+            <container id="aspace_a6743a499da63de3a27ef91adf65e1e7" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_4217c4995385e43694e8f076525c5f1f" parent="aspace_a6743a499da63de3a27ef91adf65e1e7" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref188_anu" level="file">
+          <did>
+            <unittitle>Legal Agreements</unittitle>
+            <unitdate datechar="creation" normal="1912/1927" type="inclusive">1912-1927</unitdate>
+            <container id="aspace_98c3e01b3b9610ccac95232871b6b00d" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_21dc9d32fff4c2b7d47765b6846173b4" parent="aspace_98c3e01b3b9610ccac95232871b6b00d" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref189_k3y" level="file">
+          <did>
+            <unittitle>Legal Agreements</unittitle>
+            <unitdate datechar="creation" normal="1930/1933" type="inclusive">1930-1933</unitdate>
+            <container id="aspace_3e8c9704ff32feb0ccfe6bec0ef256ab" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_78970ef2f8fde31fe66cad15795f8c26" parent="aspace_3e8c9704ff32feb0ccfe6bec0ef256ab" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref28_rg7" level="file">
+          <did>
+            <unittitle>Lists of Mortgages Held by the Artists' Fund Society</unittitle>
+            <unitdate datechar="creation" normal="1889/1934" type="inclusive">1889-1934</unitdate>
+            <container id="aspace_66aa36eb05a5f67f83dde1b1a51e5b42" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_83bf801be7452a69592f4eba7137ee0d" parent="aspace_66aa36eb05a5f67f83dde1b1a51e5b42" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref182_44m" level="file">
+          <did>
+            <unittitle>Memorandums</unittitle>
+            <unitdate datechar="creation" normal="1934/1934" type="inclusive">1934</unitdate>
+            <container id="aspace_45427c000eb3290aee48aeeab5eaf89a" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_d417a83eaca5d1ac0324fd063486ce5f" parent="aspace_45427c000eb3290aee48aeeab5eaf89a" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref183_jxo" level="file">
+          <did>
+            <unittitle>Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1934/1934" type="inclusive">1934</unitdate>
+            <container id="aspace_95a3519a6aafec9f3c76418a936a70f7" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_7b02f374efd39aef301f67027083d214" parent="aspace_95a3519a6aafec9f3c76418a936a70f7" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref184_nwn" level="file">
+          <did>
+            <unittitle>Notes (Hand Written)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_18c1c6eb6d0fd7816b8c11fbdbc2db30" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_08a4a7bf2c9c16e34b3d875a52b79b64" parent="aspace_18c1c6eb6d0fd7816b8c11fbdbc2db30" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref185_a1a" level="file">
+          <did>
+            <unittitle>Reports on Mortgage Company Reform </unittitle>
+            <unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate>
+            <container id="aspace_97afedca1b4b3e47b77d80a16d2e0d59" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_e0223348d49fb1e56c13bf412653311a" parent="aspace_97afedca1b4b3e47b77d80a16d2e0d59" type="Folder">13</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref29_eev" level="series">
+        <did>
+          <unittitle>Series IX: Art Exhibitions and Sales</unittitle>
+        </did>
+        <scopecontent id="aspace_2a761690358ed783fe8cda425cdbda61">
+          <head>Scope and Content Note</head>
+          <p>From 1860 through 1889, members were required to annually contribute a piece of art work to be exhibited and sold at auction. Money from the sales was deposited in a Special Investment Fund used for life insurance benefits. This series contains ledgers documenting auction sales, including artist names, titles of paintings, names of purchasers, and purchase prices. It also contains notices to members regarding the logistics of the exhibitions, and an exhibit catalog from 1876.</p>
+        </scopecontent>
+        <c id="aspace_ref30_2zm" level="file">
+          <did>
+            <unittitle>Catalogs</unittitle>
+            <unitdate datechar="creation" normal="1876/1876" type="inclusive">1876</unitdate>
+            <container id="aspace_a1c484ce80587363fd1300ba9b4fb979" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_3544de85f48c9380b8dec02f995c7b28" parent="aspace_a1c484ce80587363fd1300ba9b4fb979" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref190_frc" level="file">
+          <did>
+            <unittitle>Notices to Members</unittitle>
+            <unitdate datechar="creation" normal="1868/1889" type="inclusive">1868-1889</unitdate>
+            <container id="aspace_e1b642330f700805a9b233039820c7b6" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_8dd3df66418fbf96c56519f879594e00" parent="aspace_e1b642330f700805a9b233039820c7b6" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref191_0z7" level="file">
+          <did>
+            <unittitle>Sales Ledgers</unittitle>
+            <unitdate datechar="creation" normal="1861/1867" type="inclusive">1861-1867</unitdate>
+            <container id="aspace_d2f3c38c399f91d667b5f14379b69d25" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_5ade9b2f792546908af667ed3ff0310f" parent="aspace_d2f3c38c399f91d667b5f14379b69d25" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref192_qio" level="file">
+          <did>
+            <unittitle>Sales Ledgers</unittitle>
+            <unitdate datechar="creation" normal="1871/1881" type="inclusive">1871-1881</unitdate>
+            <container id="aspace_3f9e0493f36e9f7198142776ad1d3762" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_79d87e4749d2501c3cac057065fbd8f7" parent="aspace_3f9e0493f36e9f7198142776ad1d3762" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref193_c71" level="file">
+          <did>
+            <unittitle>Sales Ledgers</unittitle>
+            <unitdate datechar="creation" normal="1882/1889" type="inclusive">1882-1889</unitdate>
+            <container id="aspace_26e8123e60ce136dc3e5792b0c63175f" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_0a42481176c71c8e114ba745e15cca6a" parent="aspace_26e8123e60ce136dc3e5792b0c63175f" type="Folder">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref240_sbv" level="series">
+        <did>
+          <unittitle>Series X: Other Artists' Funds</unittitle>
+        </did>
+        <scopecontent id="aspace_21eefdef4f7fb3dcc791ff7b5a4dfb18">
+          <head>Scope and Content Note</head>
+          <p>This series contains materials by and about other Artists' Funds in the United States, the United Kindgdom and Germany, including reports, pamphlets, invitations, newspaper clippings and correspondence.</p>
+        </scopecontent>
+        <c id="aspace_ref241_w79" level="file">
+          <did>
+            <unittitle>Artists' Aid Society</unittitle>
+            <unitdate datechar="creation" normal="1910/1910" type="inclusive">1910</unitdate>
+            <container id="aspace_2e662e050d80c11fe10ab64e9c815621" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_6cfdf6e2e6c2120a9ecae15c2a7bc561" parent="aspace_2e662e050d80c11fe10ab64e9c815621" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref242_qtk" level="file">
+          <did>
+            <unittitle>Artists' General Benevolent Institution </unittitle>
+            <unitdate datechar="creation" normal="1862/1904" type="inclusive">1862-1904</unitdate>
+            <container id="aspace_30b1b0af99a6933d5c57936ee4227b92" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_d3873b57d09d67323400f08a7d08fc8f" parent="aspace_30b1b0af99a6933d5c57936ee4227b92" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref243_dy2" level="file">
+          <did>
+            <unittitle>Fund for Superannuated Artists </unittitle>
+            <unitdate datechar="creation" normal="1904/1904" type="inclusive">1904 and undated</unitdate>
+            <container id="aspace_03a02e4236f7e5a609dfc391f1a85a76" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_d5abcbfa83458f4d0b39c60c61ef6876" parent="aspace_03a02e4236f7e5a609dfc391f1a85a76" type="Folder">6</container>
+          </did>
+          <scopecontent id="aspace_df76447633817f1e7ad8b4ee50bed333">
+            <head>Scope and Content Note</head>
+            <p>See Series I: Alexander C. Morgan, Subseries D, for more documents related to the Fund for Superannuated Artists. (link back to that section).</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref244_9ns" level="file">
+          <did>
+            <unittitle>German Language Materials</unittitle>
+            <unitdate datechar="creation" normal="1863/1863" type="inclusive">1863</unitdate>
+            <container id="aspace_c2155367f5f0b1cf22a3c96566621e6a" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_54bd79bba92e06cde411261011c9a908" parent="aspace_c2155367f5f0b1cf22a3c96566621e6a" type="Folder">7</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

@@ -1,83 +1,353 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_066">tam_066</eadid><filedesc><titlestmt><titleproper>Guide to the Hugo Oehler: Factional Documents and Spanish Civil War Reports, Correspondence and Ephemera <num>TAM.066</num></titleproper><author>Tamiment staff and Ariel Zambenedetti, 2008</author></titlestmt><editionstmt><p>This version was derived from Oehler Fractional Docs.Doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:37:03 -0400</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546"></language>.</langusage></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Hugo Oehler: Factional Documents and Spanish Civil War Reports, Correspondence and Ephemera</unittitle>
-    <origination label="Creator">
-      <persname source="naf">Oehler, Hugo</persname>
-    </origination>
-    <origination label="source">
-      <persname role="dnr" source="naf">Oehler, Hugo</persname>
-    </origination>
-    <unitid>TAM.066</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
-      <extent altrender="carrier">(1 box)</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1932/1937" type="inclusive">1932-1937</unitdate>
-    <abstract id="aspace_94b5642ad83a71359dfb28a84340272f" label="Abstract">The Revolutionary Workers League of the U.S. was a Trotskyist group organized in 1935 by the Left Wing Group of the Workers Party, who had been expelled from the Workers Party (U.S.). The records contain letters and reports (1936-1937) written from Paris and Barcelona by League members Hugo Oehler and R. Martin, largely relating to political developments in the Republic of Spain from a Trotskyist perspective. The collection also includes printed ephemera in Spanish distributed by Spanish Leftist groups. Also included are sixteen folders of material compiled for "special issues" of <emph render="italic">International News</emph>, an internal bulletin of the Workers Party (U.S.), Left Wing Group. The bulletins reproduce documents relating to predecessor organizations, including the Communist League of America, and discussions pertaining to the formation of the Fourth International; correspondence in these files includes two 1933 letters to Oehler from James P. Cannon on the letterhead of the Communist League of America.</abstract>
-    <langmaterial>
-      <language langcode="eng" scriptcode="Latn">English</language>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/tam_066">tam_066</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Hugo Oehler: Factional Documents and Spanish Civil War Reports, Correspondence and Ephemera <num>TAM.066</num></titleproper>
+        <author>Tamiment staff and Ariel Zambenedetti, 2008</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from Oehler Fractional Docs.Doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:37:03 -0400</date>.</creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546"/>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Hugo Oehler: Factional Documents and Spanish Civil War Reports, Correspondence and Ephemera</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Oehler, Hugo</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" source="naf">Oehler, Hugo</persname>
+      </origination>
+      <unitid>TAM.066</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
+        <extent altrender="carrier">(1 box)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1932/1937" type="inclusive">1932-1937</unitdate>
+      <abstract id="aspace_94b5642ad83a71359dfb28a84340272f" label="Abstract">The Revolutionary Workers League of the U.S. was a Trotskyist group organized in 1935 by the Left Wing Group of the Workers Party, who had been expelled from the Workers Party (U.S.). The records contain letters and reports (1936-1937) written from Paris and Barcelona by League members Hugo Oehler and R. Martin, largely relating to political developments in the Republic of Spain from a Trotskyist perspective. The collection also includes printed ephemera in Spanish distributed by Spanish Leftist groups. Also included are sixteen folders of material compiled for "special issues" of <emph render="italic">International News</emph>, an internal bulletin of the Workers Party (U.S.), Left Wing Group. The bulletins reproduce documents relating to predecessor organizations, including the Communist League of America, and discussions pertaining to the formation of the Fourth International; correspondence in these files includes two 1933 letters to Oehler from James P. Cannon on the letterhead of the Communist League of America.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
 .    </langmaterial>
-  </did>
-  <acqinfo id="aspace_650c4db98ef60d974572a185aba7a399">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Hugo Oehler, 1975. The accession number associated with this gift is 1975.001.</p>  </acqinfo>
-  <accessrestrict id="aspace_b76be912e91e63f5a1b52140dfdbb627">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <bioghist id="aspace_c34f3f726cad009b8c042d23e5adf335">
-    <head>Historical/Biographical Note</head>
-<p>The Revolutionary Workers League of the U.S. was a Trotskyist group organized in 1935 by the Left Wing Group of the Workers Party, who had been expelled from the Workers Party (U. S.). After several months of internal conflict, at the October Plenum of 1935, Workers Party leaders James P. Cannon and Max Shachtman were able to mobilize a majority to reject the demand of the left faction for an independent publication, and to warn them against violation of party discipline. Shortly afterwards, Hugo Oehler, Thomas Stamm and their followers were expelled and established the RWL, of which Oehler served as National Secretary. The Revolutionary Workers League was the largest group to emerge from the Communist League of America and the Workers Party (U.S.). Oehler and Stamm had opposed the "French turn" in America, that is, the decision to join the Socialist Party in anticipation of attracting left wing socialists to the Trotskyist movement.</p><p>Hugo Oehler traveled to Spain after the outbreak of the Spanish Civil War and made contact with a wide range of Trotskyist and other leftist groups and individuals. He was an eyewitness to the May 1937 insurrection in Barcelona, described in his published account, <emph render="italic">Barricades in Barcelona</emph>(NY: Demos Press, 1937).</p>  </bioghist>
-  <scopecontent id="aspace_63eae024084f98f52a3a421301c4bf3f">
-    <head>Scope and Content Note</head>
-<p><emph render="bold">Series I: Spanish Civil War: Letters, Reports, and Printed Ephemera, 1936-1937</emph>is made up of two parts. The first consists of reports made by Hugh Oehler and R. Martin to party offices in Chicago and New York. These letters narrate the political developments of the war in Spain in 1937, with particular focus on Catalunya, Valencia, and Aragon. Written from a Trotskyist perspective, they describe both specific events, such as the Insurrection of May 3-6, 1937 in Barcelona, and the more general and theoretical dynamics of the politics of the region. Oehler's reports are detailed first-hand accounts and reflect upon cultural, political, and socio-economic activities with the utmost descriptive specificity. Also of note are accounts of meetings of the "Friends of Durruti," and accounts of logistical problems that Oehler confronted during his visits to Spain and Paris. The second part of the series consists of propaganda distributed by a variety of left-wing groups from Eastern/South-Eastern Spain. Several groups of propaganda photographs, distributed by the "Comissariat de Propaganda de la Generalitat de Catalunya," depict the aftermath of fascist bombardments in Barcelona and children killed by fascist bombs (possibly from the air-raid at Lérida). Three folders of propaganda flyers represent the spectrum of leftist organizations vying for power in Barcelona; best represented is the <emph render="italic">Partido Obrero de Unificación Marxista</emph>(POUM), but also included are the <emph render="italic">Federación Anarquista Ibérica</emph>(FIA), the anarcho-syndicalist group <emph render="italic">Confederación Nacional del Trabajo</emph>(CNT), the <emph render="italic">Alianza Internacional de Trabajadore</emph>(AIT), the <emph render="italic">Sindicat de la Frusta</emph>and various radical youth groups, including the <emph render="italic">Juventudes Libertarias</emph>. Some of this material is harshly anti-Republican and nationalist/separatist in nature.</p><p><emph render="bold">Series II: International News "Special Issues," 1932-1936</emph>, consists of compilations of material intended for internal distribution to members of the Workers Party (U.S.)'s Left Wing Group. Each issue consists of documents, such as position papers, correspondence, draft proposals and resolutions, minutes, etc., often on a single theme. Most of the documents are concerned with practical and theoretical developments in the Workers Party and in closely related left-wing groups active during the period. Most are written by members of the Left Wing Group, including Oehler, Tom Stamm, Louis Basky, and Arne Swabeck. Some of the material contained in the "Special Issues" was included in the version of International News produced for wider distribution by the Left Wing Group beginning in 1935. <emph render="italic">Note that the dates listed for folders in Series II reflect the dates of individual documents included, not the dates of distribution of the "Special Issues."</emph></p>  </scopecontent>
-  <arrangement id="aspace_b551068e37747798bab1b740f8934ada">
-    <head>Arrangement</head>
-<p>Series I is arranged alphabetically; series II is arranged by "Special Issue" number.</p><p>The files are grouped into two series:</p>    <list type="ordered">
-      <head>Missing Title</head>
-      <item>I, Spanish Civil War: Letters, Reports and Printed Ephemera, 1936-1937</item>
-      <item>II, International News, "Special Issues," 1932-1936</item>
-    </list>
-  </arrangement>
-  <userestrict id="aspace_7a77e5d601585e3cbc31f0673c2f6005">
-    <head>Conditions Governing Use</head>
-<p>Tamiment Library has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1932-1937, are expected to enter the public domain in 2058.</p>  </userestrict>
-  <prefercite id="aspace_1d1c8c87928f53d05d007a341e82a835">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
-  <controlaccess>
-    <subject source="lcsh">Right and left (Political science).</subject>
-    <subject source="local">Trotskyism |z Spain.</subject>
-    <subject source="lcsh">Syndicalism |z Spain.</subject>
-    <subject source="lcsh">Socialism |z Spain.</subject>
-    <genreform source="aat">Black-and-white photographs.</genreform>
-    <genreform source="aat">Minutes (administrative records)</genreform>
-    <genreform source="aat">Correspondence.</genreform>
-    <subject source="local">Trotskyism -- United States.</subject>
-    <genreform source="aat">Periodicals</genreform>
-    <subject source="lcsh">Socialism -- United States.</subject>
-    <subject source="lcsh">Anarchism -- Spain.</subject>
-    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939.</geogname>
-    <title source="local"> International news</title>
-    <corpname authfilenumber="(lccn)no99070033" source="naf">Workers Party (1940-1949)</corpname>
-    <corpname authfilenumber="(lccn)nr93021778" source="naf">Revolutionary Workers League of the U.S.</corpname>
-    <corpname authfilenumber="(lccn)n86150496" source="naf">Partido Obrero de Unificación Marxista</corpname>
-    <persname source="naf">Swabeck, Arne</persname>
-    <persname source="naf">Cannon, James Patrick, 1890-1974</persname>
-    <corpname source="local">Sindicat de la Frusta</corpname>
-    <corpname authfilenumber="(lccn)nr93020647" source="naf">Workers Party (U.S.). Left Wing Group</corpname>
-    <corpname authfilenumber="(lccn)n86138263" source="naf">F.A.I. (Organization : Spain)</corpname>
-    <corpname authfilenumber="(lccn)n80146702" rules="dacs" source="naf">Confederación Nacional del Trabajo (Spain)</corpname>
-    <corpname authfilenumber="(lccn)no94033166" source="naf">Communist League of America (Opposition)</corpname>
-    <corpname authfilenumber="(lccn)n2006053733" source="naf">Catalonia (Spain). Comissariat de Propaganda</corpname>
-    <corpname authfilenumber="(lccn)n79019761" source="naf">Amigos de Durruti</corpname>
-    <corpname source="local">Alianza Internacional de Trabajadores</corpname>
-    <persname rules="dacs" source="local">Stamm, Thomas</persname>
-    <persname role="dnr" source="naf">Oehler, Hugo</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref13" level="series"><did><unittitle>Series I: Letters, Reports and Printed Ephemera, 1936-1937.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref14" level="file"><did><unittitle>Oehler, Hugo/Martin, R.: Letters and Reports from Spain</unittitle><unitdate datechar="creation">Feb 1937-Mar 1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_10afda95e3ce7026822cff4070db3d08" label="Mixed Materials [31142062728806]" type="Box">1</container><container id="aspace_375be9e5f16aa5dcc32f74429bc05de3" parent="aspace_10afda95e3ce7026822cff4070db3d08" type="Folder">1</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Oehler, Hugo/Martin, R.: Letters and Reports from Spain</unittitle><unitdate datechar="creation">Apr 1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_4d76c3e4efb652072f8751ee9e36faea" label="Mixed Materials [31142062728806]" type="Box">1</container><container id="aspace_8409eed3edb8ea9118444243990a5c37" parent="aspace_4d76c3e4efb652072f8751ee9e36faea" type="Folder">2</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Oehler, Hugo/Martin, R.: Letters and Reports from Spain</unittitle><unitdate datechar="creation">May 1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_61d7d28553c6c6d8fbbe3558f50e1696" label="Mixed Materials [31142062728806]" type="Box">1</container><container id="aspace_fd95b31ff9a0458dd52f41dec6c35ce4" parent="aspace_61d7d28553c6c6d8fbbe3558f50e1696" type="Folder">3</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Oehler, Hugo/Martin, R.: Letters and Reports from Spain</unittitle><unitdate datechar="creation">Jun 1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_ab07020a19901c5717d7bd6ba20e9a97" label="Mixed Materials [31142062728806]" type="Box">1</container><container id="aspace_d99f12f951827872f6e1b10c62155406" parent="aspace_ab07020a19901c5717d7bd6ba20e9a97" type="Folder">4</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Oehler, Hugo: Timeline of War Events in Barcelona from Proletariat Perspective, Fragments of Letters</unittitle><unitdate datechar="creation" normal="1937/1937" type="inclusive">[1937]</unitdate><container altrender="Manuscript box - Legal" id="aspace_c40092495c2c22b1278ac682581ebf0b" label="Mixed Materials [31142062728806]" type="Box">1</container><container id="aspace_c5ee7d83f7778b08d6142b90a8d5b0ec" parent="aspace_c40092495c2c22b1278ac682581ebf0b" type="Folder">5</container></did></c><c id="aspace_ref19" level="file"><did><unittitle><emph render="italic">Partido Obrero de Unificación Marxista</emph> (POUM): Letter from RWL (in Spanish)</unittitle><unitdate datechar="creation">Sep 26, 1936</unitdate><container altrender="Manuscript box - Legal" id="aspace_fdc4c96f6b99379ca95b08084fde6b8d" label="Mixed Materials [31142062728806]" type="Box">1</container><container id="aspace_e968a592f48a24228b09f2788cf845c1" parent="aspace_fdc4c96f6b99379ca95b08084fde6b8d" type="Folder">6</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Printed Ephemera: Cards and Currency</unittitle><unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_a7d14802e6abbf30d76518ad685224c2" label="Mixed Materials [31142062728806]" type="Box">1</container><container id="aspace_0854e1d5d646241d2899cacf40b2256d" parent="aspace_a7d14802e6abbf30d76518ad685224c2" type="Folder">7</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Printed Ephemera: Leftist Propaganda Photos</unittitle><unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_725ae8781800985ede8d7c55ac5d260e" label="Mixed Materials [31142062728806]" type="Box">1</container><container id="aspace_304ccb7257c4c4c29730d2b1579a0fdf" parent="aspace_725ae8781800985ede8d7c55ac5d260e" type="Folder">8</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Printed Ephemera: Propaganda Flyers of Spanish Leftist Groups</unittitle><unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_693f3682d8a990ab18d9ef077d71a4fa" label="Mixed Materials [31142062728806]" type="Box">1</container><container id="aspace_637f58b7ce92264c9ea04e94f48a67d3" parent="aspace_693f3682d8a990ab18d9ef077d71a4fa" type="Folder">9</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Printed Ephemera: Propaganda Flyers of Spanish Leftist Groups</unittitle><unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_6d8ebdfa06dd7c7f6129471855ee63fe" label="Mixed Materials [31142062728806]" type="Box">1</container><container id="aspace_86796e086ad25db28933a9d17f6b055f" parent="aspace_6d8ebdfa06dd7c7f6129471855ee63fe" type="Folder">10</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Printed Ephemera: Propaganda Flyers of Spanish Leftist Groups</unittitle><unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_9b4995d0a36412f3ce14e2d0c7e86ce8" label="Mixed Materials [31142062728806]" type="Box">1</container><container id="aspace_b74cf6dcb95a37498666215bfe8a3b1e" parent="aspace_9b4995d0a36412f3ce14e2d0c7e86ce8" type="Folder">11</container></did></c></c><c id="aspace_ref25" level="series"><did><unittitle>Series II: <emph render="italic">International News</emph>, "Special Issues," 1932-1936.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref26" level="file"><did><unittitle>Special #2: Documents on the New Turn of the International Communist League (ICL): Correspondence with Crux ("Organization Name of Leon Trotsky")</unittitle><unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_08385f6e8a6e1ebf5fa4f2e9f18ee4a2" label="Mixed Materials [31142062728806]" type="Box">1</container><container id="aspace_3a33eb6797fad6d5dc6b3c009eb44a12" parent="aspace_08385f6e8a6e1ebf5fa4f2e9f18ee4a2" type="Folder">12</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Special #3: Suppressed Articles (Communist Conference in Gillespie, IL/ Correspondence between Oehler and Cannon)</unittitle><unitdate datechar="creation" normal="1932/1933" type="inclusive">1932-1933</unitdate><container altrender="Manuscript box - Legal" id="aspace_1bbc5b43709a5ee2fec38ef72627bc46" label="Mixed Materials [31142062728806]" type="Box">1</container><container id="aspace_727b5abbc4fd5d8c8308be680e0e0d88" parent="aspace_1bbc5b43709a5ee2fec38ef72627bc46" type="Folder">13</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Special #4: Suppressed Articles: European War Threat and the ICL (Reports by Oehler and L. Basky)</unittitle><unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1934</unitdate><container altrender="Manuscript box - Legal" id="aspace_11b1ddb241e28c7268f07825b09353b3" label="Mixed Materials [31142062728806]" type="Box">1</container><container id="aspace_1726e223719f0cc4709ca698611c1e0e" parent="aspace_11b1ddb241e28c7268f07825b09353b3" type="Folder">14</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Special #5: Workers Party Caucus: Minutes, Correspondence, etc.</unittitle><unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_ba7cb73d84b74fee3696f171e7ea4fe4" label="Mixed Materials [31142062728806]" type="Box">1</container><container id="aspace_537e59b6996a4b11fba1dbd75d16143c" parent="aspace_ba7cb73d84b74fee3696f171e7ea4fe4" type="Folder">15</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Special #17: Expulsion of Joseph Zack and Simon Williamson from the WPUS: Correspondence</unittitle><unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_cf4d466203b7f2c207b7bacda49e6bfc" label="Mixed Materials [31142062728806]" type="Box">1</container><container id="aspace_19ce22d3b570c150ad11198b48b89137" parent="aspace_cf4d466203b7f2c207b7bacda49e6bfc" type="Folder">16</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Special #18: New York Plenum of the Workers Party: Correspondence, Resolutions, etc.</unittitle><unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_510bc8296662bbba1889685fc1fbab9f" label="Mixed Materials [31142062728806]" type="Box">1</container><container id="aspace_a656ae2034b18a8ec3e59c97226a0a06" parent="aspace_510bc8296662bbba1889685fc1fbab9f" type="Folder">17</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Special #19: New York Plenum: Resolutions, Statements, Reports</unittitle><unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_6b75388034467ecaf122e9cf6869603c" label="Mixed Materials [31142062728806]" type="Box">1</container><container id="aspace_b600608869a7b6b3358393b9a5081d73" parent="aspace_6b75388034467ecaf122e9cf6869603c" type="Folder">18</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Special #20: Pittsburgh Plenum of the Workers Party: Correspondence, Statements</unittitle><unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1935</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_ce7cd461b43cc8eb66eadda0526c38f7" label="Mixed Materials [31142062728814]" type="Box">2</container><container id="aspace_e900a2f25ad7cab57a195cb9338210f5" parent="aspace_ce7cd461b43cc8eb66eadda0526c38f7" type="Folder">1</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Special #21: Pittsburgh Plenum: Correspondence, Resolutions</unittitle><unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1935</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_4a521ed8459ab2f872edb94b650f200e" label="Mixed Materials [31142062728814]" type="Box">2</container><container id="aspace_680ca8d1bec518d3a4615bd9c033edfd" parent="aspace_4a521ed8459ab2f872edb94b650f200e" type="Folder">2</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Special #22: Pittsburgh Plenum: Program of Action</unittitle><unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1935</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_1df0c995239e6d3fb45dc1eedc79659d" label="Mixed Materials [31142062728814]" type="Box">2</container><container id="aspace_e5e7672c869720cf9aeb02548a7c3f43" parent="aspace_1df0c995239e6d3fb45dc1eedc79659d" type="Folder">3</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Special #27: Trade Union Dispute with Joseph Zach: Resolutions, Leaflet</unittitle><unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1935</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_7c4c36de9f323075d87a4e459dd81b14" label="Mixed Materials [31142062728814]" type="Box">2</container><container id="aspace_9f051918237cfb6a6c405f93a446bebd" parent="aspace_7c4c36de9f323075d87a4e459dd81b14" type="Folder">4</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Special #31a: CLA Convention: Latin America and the "Negro Question"</unittitle><unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1934</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_679b2ffd239252e7b6d98d2b96ec0a8f" label="Mixed Materials [31142062728814]" type="Box">2</container><container id="aspace_c2a918b47dd12041314e39c849593f8e" parent="aspace_679b2ffd239252e7b6d98d2b96ec0a8f" type="Folder">5</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Special #34: Declaration of Principles</unittitle><unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1934</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_20f01e0437bcd5b3027296f8904dfef0" label="Mixed Materials [31142062728814]" type="Box">2</container><container id="aspace_3c3e567d8e868d6bf879f196e4619db8" parent="aspace_20f01e0437bcd5b3027296f8904dfef0" type="Folder">6</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Special #36: CLA: International Question: Statements and Resolutions</unittitle><unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1934</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_3339a72ea3db0e13f8d5247f57d97893" label="Mixed Materials [31142062728814]" type="Box">2</container><container id="aspace_6a29a60229e7827c951c63b551735f90" parent="aspace_3339a72ea3db0e13f8d5247f57d97893" type="Folder">7</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Special #37: CLA: International Question: Statements and Resolutions</unittitle><unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1935</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_3d66bc99bc9a7d474639c798e212dc79" label="Mixed Materials [31142062728814]" type="Box">2</container><container id="aspace_43f452dd826819390ecb75023ec68dd5" parent="aspace_3d66bc99bc9a7d474639c798e212dc79" type="Folder">8</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Special #39: CLA: New Party Dispute: Correspondence, Draft Programs</unittitle><unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1933-1934</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_c089a0d7abc5f6743ddf0a5e90230da0" label="Mixed Materials [31142062728814]" type="Box">2</container><container id="aspace_6cc9a773b066fd76c8173b59bd84c608" parent="aspace_c089a0d7abc5f6743ddf0a5e90230da0" type="Folder">9</container></did></c></c></dsc>
-</archdesc>
+    </did>
+    <acqinfo id="aspace_650c4db98ef60d974572a185aba7a399">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Hugo Oehler, 1975. The accession number associated with this gift is 1975.001.</p>
+    </acqinfo>
+    <accessrestrict id="aspace_b76be912e91e63f5a1b52140dfdbb627">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <bioghist id="aspace_c34f3f726cad009b8c042d23e5adf335">
+      <head>Historical/Biographical Note</head>
+      <p>The Revolutionary Workers League of the U.S. was a Trotskyist group organized in 1935 by the Left Wing Group of the Workers Party, who had been expelled from the Workers Party (U. S.). After several months of internal conflict, at the October Plenum of 1935, Workers Party leaders James P. Cannon and Max Shachtman were able to mobilize a majority to reject the demand of the left faction for an independent publication, and to warn them against violation of party discipline. Shortly afterwards, Hugo Oehler, Thomas Stamm and their followers were expelled and established the RWL, of which Oehler served as National Secretary. The Revolutionary Workers League was the largest group to emerge from the Communist League of America and the Workers Party (U.S.). Oehler and Stamm had opposed the "French turn" in America, that is, the decision to join the Socialist Party in anticipation of attracting left wing socialists to the Trotskyist movement.</p>
+      <p>Hugo Oehler traveled to Spain after the outbreak of the Spanish Civil War and made contact with a wide range of Trotskyist and other leftist groups and individuals. He was an eyewitness to the May 1937 insurrection in Barcelona, described in his published account, <emph render="italic">Barricades in Barcelona</emph>(NY: Demos Press, 1937).</p>
+    </bioghist>
+    <scopecontent id="aspace_63eae024084f98f52a3a421301c4bf3f">
+      <head>Scope and Content Note</head>
+      <p><emph render="bold">Series I: Spanish Civil War: Letters, Reports, and Printed Ephemera, 1936-1937</emph>is made up of two parts. The first consists of reports made by Hugh Oehler and R. Martin to party offices in Chicago and New York. These letters narrate the political developments of the war in Spain in 1937, with particular focus on Catalunya, Valencia, and Aragon. Written from a Trotskyist perspective, they describe both specific events, such as the Insurrection of May 3-6, 1937 in Barcelona, and the more general and theoretical dynamics of the politics of the region. Oehler's reports are detailed first-hand accounts and reflect upon cultural, political, and socio-economic activities with the utmost descriptive specificity. Also of note are accounts of meetings of the "Friends of Durruti," and accounts of logistical problems that Oehler confronted during his visits to Spain and Paris. The second part of the series consists of propaganda distributed by a variety of left-wing groups from Eastern/South-Eastern Spain. Several groups of propaganda photographs, distributed by the "Comissariat de Propaganda de la Generalitat de Catalunya," depict the aftermath of fascist bombardments in Barcelona and children killed by fascist bombs (possibly from the air-raid at Lérida). Three folders of propaganda flyers represent the spectrum of leftist organizations vying for power in Barcelona; best represented is the <emph render="italic">Partido Obrero de Unificación Marxista</emph>(POUM), but also included are the <emph render="italic">Federación Anarquista Ibérica</emph>(FIA), the anarcho-syndicalist group <emph render="italic">Confederación Nacional del Trabajo</emph>(CNT), the <emph render="italic">Alianza Internacional de Trabajadore</emph>(AIT), the <emph render="italic">Sindicat de la Frusta</emph>and various radical youth groups, including the <emph render="italic">Juventudes Libertarias</emph>. Some of this material is harshly anti-Republican and nationalist/separatist in nature.</p>
+      <p><emph render="bold">Series II: International News "Special Issues," 1932-1936</emph>, consists of compilations of material intended for internal distribution to members of the Workers Party (U.S.)'s Left Wing Group. Each issue consists of documents, such as position papers, correspondence, draft proposals and resolutions, minutes, etc., often on a single theme. Most of the documents are concerned with practical and theoretical developments in the Workers Party and in closely related left-wing groups active during the period. Most are written by members of the Left Wing Group, including Oehler, Tom Stamm, Louis Basky, and Arne Swabeck. Some of the material contained in the "Special Issues" was included in the version of International News produced for wider distribution by the Left Wing Group beginning in 1935. <emph render="italic">Note that the dates listed for folders in Series II reflect the dates of individual documents included, not the dates of distribution of the "Special Issues."</emph></p>
+    </scopecontent>
+    <arrangement id="aspace_b551068e37747798bab1b740f8934ada">
+      <head>Arrangement</head>
+      <p>Series I is arranged alphabetically; series II is arranged by "Special Issue" number.</p>
+      <p>The files are grouped into two series:</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>I, Spanish Civil War: Letters, Reports and Printed Ephemera, 1936-1937</item>
+        <item>II, International News, "Special Issues," 1932-1936</item>
+      </list>
+    </arrangement>
+    <userestrict id="aspace_7a77e5d601585e3cbc31f0673c2f6005">
+      <head>Conditions Governing Use</head>
+      <p>Tamiment Library has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1932-1937, are expected to enter the public domain in 2058.</p>
+    </userestrict>
+    <prefercite id="aspace_1d1c8c87928f53d05d007a341e82a835">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <controlaccess>
+      <subject source="lcsh">Right and left (Political science).</subject>
+      <subject source="local">Trotskyism |z Spain.</subject>
+      <subject source="lcsh">Syndicalism |z Spain.</subject>
+      <subject source="lcsh">Socialism |z Spain.</subject>
+      <genreform source="aat">Black-and-white photographs.</genreform>
+      <genreform source="aat">Minutes (administrative records)</genreform>
+      <genreform source="aat">Correspondence.</genreform>
+      <subject source="local">Trotskyism -- United States.</subject>
+      <genreform source="aat">Periodicals</genreform>
+      <subject source="lcsh">Socialism -- United States.</subject>
+      <subject source="lcsh">Anarchism -- Spain.</subject>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939.</geogname>
+      <title source="local"> International news</title>
+      <corpname authfilenumber="(lccn)no99070033" source="naf">Workers Party (1940-1949)</corpname>
+      <corpname authfilenumber="(lccn)nr93021778" source="naf">Revolutionary Workers League of the U.S.</corpname>
+      <corpname authfilenumber="(lccn)n86150496" source="naf">Partido Obrero de Unificación Marxista</corpname>
+      <persname source="naf">Swabeck, Arne</persname>
+      <persname source="naf">Cannon, James Patrick, 1890-1974</persname>
+      <corpname source="local">Sindicat de la Frusta</corpname>
+      <corpname authfilenumber="(lccn)nr93020647" source="naf">Workers Party (U.S.). Left Wing Group</corpname>
+      <corpname authfilenumber="(lccn)n86138263" source="naf">F.A.I. (Organization : Spain)</corpname>
+      <corpname authfilenumber="(lccn)n80146702" rules="dacs" source="naf">Confederación Nacional del Trabajo (Spain)</corpname>
+      <corpname authfilenumber="(lccn)no94033166" source="naf">Communist League of America (Opposition)</corpname>
+      <corpname authfilenumber="(lccn)n2006053733" source="naf">Catalonia (Spain). Comissariat de Propaganda</corpname>
+      <corpname authfilenumber="(lccn)n79019761" source="naf">Amigos de Durruti</corpname>
+      <corpname source="local">Alianza Internacional de Trabajadores</corpname>
+      <persname rules="dacs" source="local">Stamm, Thomas</persname>
+      <persname role="dnr" source="naf">Oehler, Hugo</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref13" level="series">
+        <did>
+          <unittitle>Series I: Letters, Reports and Printed Ephemera, 1936-1937.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Oehler, Hugo/Martin, R.: Letters and Reports from Spain</unittitle>
+            <unitdate datechar="creation">Feb 1937-Mar 1937</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_10afda95e3ce7026822cff4070db3d08" label="Mixed Materials [31142062728806]" type="Box">1</container>
+            <container id="aspace_375be9e5f16aa5dcc32f74429bc05de3" parent="aspace_10afda95e3ce7026822cff4070db3d08" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Oehler, Hugo/Martin, R.: Letters and Reports from Spain</unittitle>
+            <unitdate datechar="creation">Apr 1937</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4d76c3e4efb652072f8751ee9e36faea" label="Mixed Materials [31142062728806]" type="Box">1</container>
+            <container id="aspace_8409eed3edb8ea9118444243990a5c37" parent="aspace_4d76c3e4efb652072f8751ee9e36faea" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Oehler, Hugo/Martin, R.: Letters and Reports from Spain</unittitle>
+            <unitdate datechar="creation">May 1937</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_61d7d28553c6c6d8fbbe3558f50e1696" label="Mixed Materials [31142062728806]" type="Box">1</container>
+            <container id="aspace_fd95b31ff9a0458dd52f41dec6c35ce4" parent="aspace_61d7d28553c6c6d8fbbe3558f50e1696" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Oehler, Hugo/Martin, R.: Letters and Reports from Spain</unittitle>
+            <unitdate datechar="creation">Jun 1937</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ab07020a19901c5717d7bd6ba20e9a97" label="Mixed Materials [31142062728806]" type="Box">1</container>
+            <container id="aspace_d99f12f951827872f6e1b10c62155406" parent="aspace_ab07020a19901c5717d7bd6ba20e9a97" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Oehler, Hugo: Timeline of War Events in Barcelona from Proletariat Perspective, Fragments of Letters</unittitle>
+            <unitdate datechar="creation" normal="1937/1937" type="inclusive">[1937]</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c40092495c2c22b1278ac682581ebf0b" label="Mixed Materials [31142062728806]" type="Box">1</container>
+            <container id="aspace_c5ee7d83f7778b08d6142b90a8d5b0ec" parent="aspace_c40092495c2c22b1278ac682581ebf0b" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle><emph render="italic">Partido Obrero de Unificación Marxista</emph> (POUM): Letter from RWL (in Spanish)</unittitle>
+            <unitdate datechar="creation">Sep 26, 1936</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fdc4c96f6b99379ca95b08084fde6b8d" label="Mixed Materials [31142062728806]" type="Box">1</container>
+            <container id="aspace_e968a592f48a24228b09f2788cf845c1" parent="aspace_fdc4c96f6b99379ca95b08084fde6b8d" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Printed Ephemera: Cards and Currency</unittitle>
+            <unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a7d14802e6abbf30d76518ad685224c2" label="Mixed Materials [31142062728806]" type="Box">1</container>
+            <container id="aspace_0854e1d5d646241d2899cacf40b2256d" parent="aspace_a7d14802e6abbf30d76518ad685224c2" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Printed Ephemera: Leftist Propaganda Photos</unittitle>
+            <unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_725ae8781800985ede8d7c55ac5d260e" label="Mixed Materials [31142062728806]" type="Box">1</container>
+            <container id="aspace_304ccb7257c4c4c29730d2b1579a0fdf" parent="aspace_725ae8781800985ede8d7c55ac5d260e" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Printed Ephemera: Propaganda Flyers of Spanish Leftist Groups</unittitle>
+            <unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1937</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_693f3682d8a990ab18d9ef077d71a4fa" label="Mixed Materials [31142062728806]" type="Box">1</container>
+            <container id="aspace_637f58b7ce92264c9ea04e94f48a67d3" parent="aspace_693f3682d8a990ab18d9ef077d71a4fa" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Printed Ephemera: Propaganda Flyers of Spanish Leftist Groups</unittitle>
+            <unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1937</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6d8ebdfa06dd7c7f6129471855ee63fe" label="Mixed Materials [31142062728806]" type="Box">1</container>
+            <container id="aspace_86796e086ad25db28933a9d17f6b055f" parent="aspace_6d8ebdfa06dd7c7f6129471855ee63fe" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Printed Ephemera: Propaganda Flyers of Spanish Leftist Groups</unittitle>
+            <unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1937</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9b4995d0a36412f3ce14e2d0c7e86ce8" label="Mixed Materials [31142062728806]" type="Box">1</container>
+            <container id="aspace_b74cf6dcb95a37498666215bfe8a3b1e" parent="aspace_9b4995d0a36412f3ce14e2d0c7e86ce8" type="Folder">11</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref25" level="series">
+        <did>
+          <unittitle>Series II: <emph render="italic">International News</emph>, "Special Issues," 1932-1936.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Special #2: Documents on the New Turn of the International Communist League (ICL): Correspondence with Crux ("Organization Name of Leon Trotsky")</unittitle>
+            <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_08385f6e8a6e1ebf5fa4f2e9f18ee4a2" label="Mixed Materials [31142062728806]" type="Box">1</container>
+            <container id="aspace_3a33eb6797fad6d5dc6b3c009eb44a12" parent="aspace_08385f6e8a6e1ebf5fa4f2e9f18ee4a2" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Special #3: Suppressed Articles (Communist Conference in Gillespie, IL/ Correspondence between Oehler and Cannon)</unittitle>
+            <unitdate datechar="creation" normal="1932/1933" type="inclusive">1932-1933</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1bbc5b43709a5ee2fec38ef72627bc46" label="Mixed Materials [31142062728806]" type="Box">1</container>
+            <container id="aspace_727b5abbc4fd5d8c8308be680e0e0d88" parent="aspace_1bbc5b43709a5ee2fec38ef72627bc46" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Special #4: Suppressed Articles: European War Threat and the ICL (Reports by Oehler and L. Basky)</unittitle>
+            <unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1934</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_11b1ddb241e28c7268f07825b09353b3" label="Mixed Materials [31142062728806]" type="Box">1</container>
+            <container id="aspace_1726e223719f0cc4709ca698611c1e0e" parent="aspace_11b1ddb241e28c7268f07825b09353b3" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Special #5: Workers Party Caucus: Minutes, Correspondence, etc.</unittitle>
+            <unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ba7cb73d84b74fee3696f171e7ea4fe4" label="Mixed Materials [31142062728806]" type="Box">1</container>
+            <container id="aspace_537e59b6996a4b11fba1dbd75d16143c" parent="aspace_ba7cb73d84b74fee3696f171e7ea4fe4" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Special #17: Expulsion of Joseph Zack and Simon Williamson from the WPUS: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cf4d466203b7f2c207b7bacda49e6bfc" label="Mixed Materials [31142062728806]" type="Box">1</container>
+            <container id="aspace_19ce22d3b570c150ad11198b48b89137" parent="aspace_cf4d466203b7f2c207b7bacda49e6bfc" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Special #18: New York Plenum of the Workers Party: Correspondence, Resolutions, etc.</unittitle>
+            <unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_510bc8296662bbba1889685fc1fbab9f" label="Mixed Materials [31142062728806]" type="Box">1</container>
+            <container id="aspace_a656ae2034b18a8ec3e59c97226a0a06" parent="aspace_510bc8296662bbba1889685fc1fbab9f" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Special #19: New York Plenum: Resolutions, Statements, Reports</unittitle>
+            <unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6b75388034467ecaf122e9cf6869603c" label="Mixed Materials [31142062728806]" type="Box">1</container>
+            <container id="aspace_b600608869a7b6b3358393b9a5081d73" parent="aspace_6b75388034467ecaf122e9cf6869603c" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Special #20: Pittsburgh Plenum of the Workers Party: Correspondence, Statements</unittitle>
+            <unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1935</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_ce7cd461b43cc8eb66eadda0526c38f7" label="Mixed Materials [31142062728814]" type="Box">2</container>
+            <container id="aspace_e900a2f25ad7cab57a195cb9338210f5" parent="aspace_ce7cd461b43cc8eb66eadda0526c38f7" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Special #21: Pittsburgh Plenum: Correspondence, Resolutions</unittitle>
+            <unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1935</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_4a521ed8459ab2f872edb94b650f200e" label="Mixed Materials [31142062728814]" type="Box">2</container>
+            <container id="aspace_680ca8d1bec518d3a4615bd9c033edfd" parent="aspace_4a521ed8459ab2f872edb94b650f200e" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Special #22: Pittsburgh Plenum: Program of Action</unittitle>
+            <unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1935</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_1df0c995239e6d3fb45dc1eedc79659d" label="Mixed Materials [31142062728814]" type="Box">2</container>
+            <container id="aspace_e5e7672c869720cf9aeb02548a7c3f43" parent="aspace_1df0c995239e6d3fb45dc1eedc79659d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Special #27: Trade Union Dispute with Joseph Zach: Resolutions, Leaflet</unittitle>
+            <unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1935</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_7c4c36de9f323075d87a4e459dd81b14" label="Mixed Materials [31142062728814]" type="Box">2</container>
+            <container id="aspace_9f051918237cfb6a6c405f93a446bebd" parent="aspace_7c4c36de9f323075d87a4e459dd81b14" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Special #31a: CLA Convention: Latin America and the "Negro Question"</unittitle>
+            <unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1934</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_679b2ffd239252e7b6d98d2b96ec0a8f" label="Mixed Materials [31142062728814]" type="Box">2</container>
+            <container id="aspace_c2a918b47dd12041314e39c849593f8e" parent="aspace_679b2ffd239252e7b6d98d2b96ec0a8f" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Special #34: Declaration of Principles</unittitle>
+            <unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1934</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_20f01e0437bcd5b3027296f8904dfef0" label="Mixed Materials [31142062728814]" type="Box">2</container>
+            <container id="aspace_3c3e567d8e868d6bf879f196e4619db8" parent="aspace_20f01e0437bcd5b3027296f8904dfef0" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Special #36: CLA: International Question: Statements and Resolutions</unittitle>
+            <unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1934</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_3339a72ea3db0e13f8d5247f57d97893" label="Mixed Materials [31142062728814]" type="Box">2</container>
+            <container id="aspace_6a29a60229e7827c951c63b551735f90" parent="aspace_3339a72ea3db0e13f8d5247f57d97893" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Special #37: CLA: International Question: Statements and Resolutions</unittitle>
+            <unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1935</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_3d66bc99bc9a7d474639c798e212dc79" label="Mixed Materials [31142062728814]" type="Box">2</container>
+            <container id="aspace_43f452dd826819390ecb75023ec68dd5" parent="aspace_3d66bc99bc9a7d474639c798e212dc79" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Special #39: CLA: New Party Dispute: Correspondence, Draft Programs</unittitle>
+            <unitdate datechar="creation" normal="1932/1937" type="inclusive">Undated , 1933-1934</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_c089a0d7abc5f6743ddf0a5e90230da0" label="Mixed Materials [31142062728814]" type="Box">2</container>
+            <container id="aspace_6cc9a773b066fd76c8173b59bd84c608" parent="aspace_c089a0d7abc5f6743ddf0a5e90230da0" type="Folder">9</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

@@ -1,69 +1,385 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_338">tam_338</eadid><filedesc><titlestmt><titleproper>Guide to the Peter K. Hawley and Jane Benedict Papers <num>TAM.338</num></titleproper><author>Heather Mulliner</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2/23/2015</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:15:37 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Peter K. Hawley and Jane Benedict Papers</unittitle>
-    <origination label="Creator">
-      <persname rules="dacs" source="naf">Hawley, Peter K., 1901-</persname>
-    </origination>
-    <origination label="Creator">
-      <persname rules="dacs" source="local">Benedict, Jane</persname>
-    </origination>
-    <origination label="source">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/tam_338">tam_338</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Peter K. Hawley and Jane Benedict Papers <num>TAM.338</num></titleproper>
+        <author>Heather Mulliner</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2/23/2015</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:15:37 -0400</date>.</creation>
+      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Peter K. Hawley and Jane Benedict Papers</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="naf">Hawley, Peter K., 1901-</persname>
+      </origination>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Benedict, Jane</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Hawley, Ellen</persname>
+      </origination>
+      <unitid>TAM.338</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+        <extent altrender="carrier">1 record carton, 1 manuscript box</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1935/2000" type="inclusive">1935-2000</unitdate>
+      <abstract id="aspace_ace778e88ced244c413adede74ad93d2">This collection contains the papers of labor organizers and housing rights activists Peter K. Hawley and Jane Benedict. Much of the material in this collection relates to Hawley's work as a National Representative for the United Office of Professional Workers of America (UOPWA)-Congress of Industrial Organizations (CIO). These materials consist of arbitration briefs, labor reports and surveys, handbooks, Hawley's UOPWA-CIO office files, and pamphlets. The collection also contains materials related to Hawley's and Benedict's work with the Metropolitan Council on Housing, including a number of Met Council on Housing publications, Peter Hawley's notes and correspondence, and a small amount of Jane Benedict's correspondence.</abstract>
+      <physloc id="aspace_8d6b5db9cff4ca1f0377189f7660e9a4">Materials are located at the Tamiment Library.</physloc>
+      <langmaterial id="aspace_d44ec64a6dd80d84ee4f25275e769625">Materials are in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_714a5de87191ebd6efb495bcafc2150a">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_c3a235ed24f42788703e5d8052ca7980">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Ellen Hawley in 2005. The accession number associated with this gift is 2005.025.</p>
+    </acqinfo>
+    <appraisal id="aspace_eb253ac3f970e2282bc893b7e42a0699">
+      <head>Appraisal</head>
+      <p>No materials were separated from this collection.</p>
+    </appraisal>
+    <arrangement id="aspace_6a4557171cd085ffba4a01e1fc15dfcb">
+      <head>Arrangement</head>
+      <p>Materials in this collection are arranged chronologically.</p>
+    </arrangement>
+    <bioghist id="aspace_7e04bf5bab93e10000c6745f8f391cc2">
+      <head>Biographical / Historical</head>
+      <p>Jane Benedict and Peter K. Hawley were union organizers and housing rights activists in New York City.
+Peter Hawley was born in New York in 1901. In the 1920s he began working at the Amalgamated Bank of New York, which was owned by the Amalgamated Clothing Workers of America. Through his work at the bank he became a member of the Bookkeeper's, Stenographer's, and Accountant's Union, Local 12646, which he joined in 1929. Hawley eventually became a board member of the Bookkeeper's, Stenographer's, and Accountant's Union and later became involved in the United Office of Professional Workers of America (UOPWA), serving for a time as president of UOPWA, Local 16. Peter Hawley was also involved in the Metropolitan Council on Housing, and was at one time the organization's treasurer. Hawley died in 1996 at the age of 94.</p>
+      <p>Born in Manhattan in 1911, Jane Benedict first became involved in unions when she joined the Book and Magazine Guild between 1936 and 1937 while working in the publishing industry. Shortly after joining the Book and Magazine Guild, the union joined with the Union of Office and Professional Workers of America (UOPWA), which was part of the Congress of Industrial Organizations (CIO). Although the UOPWA was technically a white collar union, its affiliation with the CIO made it implicitly an industrial union. She later became an organizer in the UOPWA. Benedict met her second husband Peter Hawley at a UOPWA convention in 1940, where they both served on the General Executive Board committee. </p>
+      <p>In 1958 Benedict helped found the Metropolitan Council on Housing and served as its chairwoman for many years. The Met Council on Housing grew out of Benedict's work organizing the Yorkville Save Our Homes Committee, where she lobbied for the construction of low-cost and racially integrated public housing. The committee eventually joined with other New York City tenants' rights groups to form the Metropolitan Council on Housing. Benedict also ran for governor of New York as a member of the Unity Party in 1982. She died in 2005 at the age of 96.</p>
+    </bioghist>
+    <prefercite id="aspace_b8ce6fe03da99cf817621637fc5d67e8">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Peter K. Hawley and Jane Benedict Papers; TAM 338; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_f010d8ce57a6d7bd7f6ab99c03134b9f">
+      <head>Processing Information</head>
+      <p>Materials in this collection were received with no apparent order. They have been rehoused into archival folders and arranged chronologically.</p>
+    </processinfo>
+    <scopecontent id="aspace_dba42e350c013a9c5af8b2c27acf2dae">
+      <head>Scope and Content Note</head>
+      <p>This collection contains the papers of labor organizers and housing rights activists Peter K. Hawley and Jane Benedict. The bulk of the materials in this collection were created by Peter Hawley for his work in labor organizing and work with the United Office of Professional Workers of America (UOPWA)-Congress of Industrial Organizations (CIO) and consist of arbitration briefs, labor reports and surveys, handbooks, Hawley's UOPWA-CIO office files, and pamphlets.</p>
+      <p>The collection also contains materials related to Hawley and Benedict's work with the Metropolitan Council on Housing. The majority of the material related to the Met Council on Housing were created or compiled by Hawley and consist of his notes, memoranda, newsletters, and a number of Met Council on Housing publications. Other materials related to housing rights activism were created by Jane Benedict who was the Director of the Met Council on Housing for many years. These materials consist of a small amount of correspondence, a civil action summons, as well as assorted pamphlets and flyers. Hawley and Benedict worked closely in their promotion of housing rights and in many cases the creator of certain documents is difficult to discern.</p>
+      <p>The collection also contains transcripts of three interviews conducted by Richard Lewis with Peter Hawley, Jane Benedict, and Vicki Gavin discussing their work in white-collar unions.</p>
+    </scopecontent>
+    <userestrict id="aspace_0657b916f0bf0eacd64d1e1c98a4ec36">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (and related rights to publicity and privacy) to materials in this collection, created by Jane Benedict and Peter Hawley, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="lcsh">Housing -- New York (N.Y.)</subject>
+      <subject source="lcsh">Arbitration, Industrial |z New York (State) |z New York.</subject>
+      <subject source="lcsh">Rent control -- New York (State) -- New York</subject>
+      <subject source="lcsh">Labor disputes -- New York (State) -- New York.</subject>
+      <subject source="lcsh">White collar workers |x Labor unions |z New York (State) |z New York.</subject>
+      <corpname authfilenumber="(lccn)no2007108165" rules="dacs" source="naf">Metropolitan Council on Housing (New York, N.Y.)</corpname>
+      <corpname source="naf">American Federation of Labor. Congress for Industrial Organization</corpname>
+      <corpname source="local">American Federation of Labor. Bookkeepers, Stenographers and Accountants Union</corpname>
+      <corpname authfilenumber="(lccn)n80081625" rules="dacs" source="naf">Congress of Industrial Organizations (U.S.)</corpname>
       <persname role="dnr" rules="dacs" source="local">Hawley, Ellen</persname>
-    </origination>
-    <unitid>TAM.338</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
-      <extent altrender="carrier">1 record carton, 1 manuscript box</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1935/2000" type="inclusive">1935-2000</unitdate>
-    <abstract id="aspace_ace778e88ced244c413adede74ad93d2">This collection contains the papers of labor organizers and housing rights activists Peter K. Hawley and Jane Benedict. Much of the material in this collection relates to Hawley's work as a National Representative for the United Office of Professional Workers of America (UOPWA)-Congress of Industrial Organizations (CIO). These materials consist of arbitration briefs, labor reports and surveys, handbooks, Hawley's UOPWA-CIO office files, and pamphlets. The collection also contains materials related to Hawley's and Benedict's work with the Metropolitan Council on Housing, including a number of Met Council on Housing publications, Peter Hawley's notes and correspondence, and a small amount of Jane Benedict's correspondence.</abstract>
-    <physloc id="aspace_8d6b5db9cff4ca1f0377189f7660e9a4">Materials are located at the Tamiment Library.</physloc>
-    <langmaterial id="aspace_d44ec64a6dd80d84ee4f25275e769625">Materials are in English.</langmaterial>
-  </did>
-  <accessrestrict id="aspace_714a5de87191ebd6efb495bcafc2150a">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_c3a235ed24f42788703e5d8052ca7980">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Ellen Hawley in 2005. The accession number associated with this gift is 2005.025.</p>  </acqinfo>
-  <appraisal id="aspace_eb253ac3f970e2282bc893b7e42a0699">
-    <head>Appraisal</head>
-<p>No materials were separated from this collection.</p>  </appraisal>
-  <arrangement id="aspace_6a4557171cd085ffba4a01e1fc15dfcb">
-    <head>Arrangement</head>
-<p>Materials in this collection are arranged chronologically.</p>  </arrangement>
-  <bioghist id="aspace_7e04bf5bab93e10000c6745f8f391cc2">
-    <head>Biographical / Historical</head>
-<p>Jane Benedict and Peter K. Hawley were union organizers and housing rights activists in New York City.
-Peter Hawley was born in New York in 1901. In the 1920s he began working at the Amalgamated Bank of New York, which was owned by the Amalgamated Clothing Workers of America. Through his work at the bank he became a member of the Bookkeeper's, Stenographer's, and Accountant's Union, Local 12646, which he joined in 1929. Hawley eventually became a board member of the Bookkeeper's, Stenographer's, and Accountant's Union and later became involved in the United Office of Professional Workers of America (UOPWA), serving for a time as president of UOPWA, Local 16. Peter Hawley was also involved in the Metropolitan Council on Housing, and was at one time the organization's treasurer. Hawley died in 1996 at the age of 94.</p><p>Born in Manhattan in 1911, Jane Benedict first became involved in unions when she joined the Book and Magazine Guild between 1936 and 1937 while working in the publishing industry. Shortly after joining the Book and Magazine Guild, the union joined with the Union of Office and Professional Workers of America (UOPWA), which was part of the Congress of Industrial Organizations (CIO). Although the UOPWA was technically a white collar union, its affiliation with the CIO made it implicitly an industrial union. She later became an organizer in the UOPWA. Benedict met her second husband Peter Hawley at a UOPWA convention in 1940, where they both served on the General Executive Board committee. </p><p>In 1958 Benedict helped found the Metropolitan Council on Housing and served as its chairwoman for many years. The Met Council on Housing grew out of Benedict's work organizing the Yorkville Save Our Homes Committee, where she lobbied for the construction of low-cost and racially integrated public housing. The committee eventually joined with other New York City tenants' rights groups to form the Metropolitan Council on Housing. Benedict also ran for governor of New York as a member of the Unity Party in 1982. She died in 2005 at the age of 96.</p>  </bioghist>
-  <prefercite id="aspace_b8ce6fe03da99cf817621637fc5d67e8">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Peter K. Hawley and Jane Benedict Papers; TAM 338; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <processinfo id="aspace_f010d8ce57a6d7bd7f6ab99c03134b9f">
-    <head>Processing Information</head>
-<p>Materials in this collection were received with no apparent order. They have been rehoused into archival folders and arranged chronologically.</p>  </processinfo>
-  <scopecontent id="aspace_dba42e350c013a9c5af8b2c27acf2dae">
-    <head>Scope and Content Note</head>
-<p>This collection contains the papers of labor organizers and housing rights activists Peter K. Hawley and Jane Benedict. The bulk of the materials in this collection were created by Peter Hawley for his work in labor organizing and work with the United Office of Professional Workers of America (UOPWA)-Congress of Industrial Organizations (CIO) and consist of arbitration briefs, labor reports and surveys, handbooks, Hawley's UOPWA-CIO office files, and pamphlets.</p><p>The collection also contains materials related to Hawley and Benedict's work with the Metropolitan Council on Housing. The majority of the material related to the Met Council on Housing were created or compiled by Hawley and consist of his notes, memoranda, newsletters, and a number of Met Council on Housing publications. Other materials related to housing rights activism were created by Jane Benedict who was the Director of the Met Council on Housing for many years. These materials consist of a small amount of correspondence, a civil action summons, as well as assorted pamphlets and flyers. Hawley and Benedict worked closely in their promotion of housing rights and in many cases the creator of certain documents is difficult to discern.</p><p>The collection also contains transcripts of three interviews conducted by Richard Lewis with Peter Hawley, Jane Benedict, and Vicki Gavin discussing their work in white-collar unions.</p>  </scopecontent>
-  <userestrict id="aspace_0657b916f0bf0eacd64d1e1c98a4ec36">
-    <head>Conditions Governing Use</head>
-<p>Copyright (and related rights to publicity and privacy) to materials in this collection, created by Jane Benedict and Peter Hawley, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
-  <controlaccess>
-    <subject source="lcsh">Housing -- New York (N.Y.)</subject>
-    <subject source="lcsh">Arbitration, Industrial |z New York (State) |z New York.</subject>
-    <subject source="lcsh">Rent control -- New York (State) -- New York</subject>
-    <subject source="lcsh">Labor disputes -- New York (State) -- New York.</subject>
-    <subject source="lcsh">White collar workers |x Labor unions |z New York (State) |z New York.</subject>
-    <corpname authfilenumber="(lccn)no2007108165" rules="dacs" source="naf">Metropolitan Council on Housing (New York, N.Y.)</corpname>
-    <corpname source="naf">American Federation of Labor. Congress for Industrial Organization</corpname>
-    <corpname source="local">American Federation of Labor. Bookkeepers, Stenographers and Accountants Union</corpname>
-    <corpname authfilenumber="(lccn)n80081625" rules="dacs" source="naf">Congress of Industrial Organizations (U.S.)</corpname>
-    <persname role="dnr" rules="dacs" source="local">Hawley, Ellen</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref6" level="file"><did><unittitle>Arbitration Briefs: Amalgamated Bank vs. Professional Workers of America, Local 16</unittitle><unitdate datechar="creation" normal="1935/1939" type="inclusive">1935, 1939</unitdate><container altrender="Record carton" id="aspace_fb0741bc91e1635f0fb8c9ff12af946e" label="Mixed Materials [31142062764439]" type="Box">1</container><container id="aspace_8d01cc88b890ec1c572b927ca3f0bca3" parent="aspace_fb0741bc91e1635f0fb8c9ff12af946e" type="Folder">1</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Pamphlets: Labor</unittitle><unitdate datechar="creation" normal="1939/1947" type="inclusive">1939-1947</unitdate><container altrender="Record carton" id="aspace_afdc03ef9750a3366936f2eaa7e4782c" label="Mixed Materials [31142062764439]" type="Box">1</container><container id="aspace_1e40416e74fd1a51d0c5f0b573ccde12" parent="aspace_afdc03ef9750a3366936f2eaa7e4782c" type="Folder">2</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Labor Surveys and Reports</unittitle><unitdate datechar="creation" normal="1930/1949" type="inclusive">circa 1930s - 1940s</unitdate><container altrender="Record carton" id="aspace_dca4d8dcfcb360ae5766a5ebdf325db3" label="Mixed Materials [31142062764439]" type="Box">1</container><container id="aspace_782b2fcffc9cd74222163364498417aa" parent="aspace_dca4d8dcfcb360ae5766a5ebdf325db3" type="Folder">3</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Arbitration Brief: United Office and Professional Workers, Local 16 vs. Mail Advertising Service Association, Inc.</unittitle><unitdate datechar="creation" normal="1942/1942" type="inclusive">Sep 1942</unitdate><container altrender="Record carton" id="aspace_44654456bd70319288e693da336bebd7" label="Mixed Materials [31142062764439]" type="Box">1</container><container id="aspace_516e86ade03e9ad312d8cb0fc52a8807" parent="aspace_44654456bd70319288e693da336bebd7" type="Folder">4</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Report: Job Rating by the Pitometer Log Corporation</unittitle><unitdate datechar="creation" normal="1943/1943" type="inclusive">Jan 1943</unitdate><container altrender="Record carton" id="aspace_8e2e917a52dcabea2f79c2bcebaeb1c1" label="Mixed Materials [31142062764439]" type="Box">1</container><container id="aspace_23bae3d18d9da0ba13ab2433bc530112" parent="aspace_8e2e917a52dcabea2f79c2bcebaeb1c1" type="Folder">5</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Report: Job Evaluation by the American Gas Accumulator Company </unittitle><unitdate datechar="creation" normal="1943/1943" type="inclusive">Aug 31, 1943</unitdate><container altrender="Record carton" id="aspace_79d40fe62c968e13e198fdc154ad24dd" label="Mixed Materials [31142062764439]" type="Box">1</container><container id="aspace_f8c5cdada5bbe88e0bbbd07ddb402fbf" parent="aspace_79d40fe62c968e13e198fdc154ad24dd" type="Folder">6</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>CIO Conference Programs</unittitle><unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate><container altrender="Record carton" id="aspace_e87f398bcc944921b6fa1f9bdc9f10f9" label="Mixed Materials [31142062764439]" type="Box">1</container><container id="aspace_951236081d52cff92214c26bc79763ef" parent="aspace_e87f398bcc944921b6fa1f9bdc9f10f9" type="Folder">7</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Peter K Hawley: UOPWA-CIO Office Files</unittitle><unitdate datechar="creation" normal="1940/1950" type="inclusive">1940-1950</unitdate><container altrender="Record carton" id="aspace_d6194963b10b81d039bb274345c6ae7e" label="Mixed Materials [31142062764439]" type="Box">1</container><container id="aspace_0e69c0f0a0f5a33379b72975f9fa3494" parent="aspace_d6194963b10b81d039bb274345c6ae7e" type="Folder">8-9</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>CIO War Labor Board Newsletter</unittitle><unitdate datechar="creation" normal="1944/1945" type="inclusive">1944-1945</unitdate><container altrender="Record carton" id="aspace_a4859a06650f95b0c144d37df2fede66" label="Mixed Materials [31142062764439]" type="Box">1</container><container id="aspace_4629b998c28a9d5d912ad7e402af01b9" parent="aspace_a4859a06650f95b0c144d37df2fede66" type="Folder">10</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Pamphlets: Civil Rights</unittitle><unitdate datechar="creation" normal="1944/1978" type="inclusive">1944-1978</unitdate><container altrender="Record carton" id="aspace_b83f9ecbeb8e98d0c2a6aa77551432e2" label="Mixed Materials [31142062764439]" type="Box">1</container><container id="aspace_83bf7f041b3142ecb4b57db64fe9da44" parent="aspace_b83f9ecbeb8e98d0c2a6aa77551432e2" type="Folder">11</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Economic Brief: The Facts of Life: An Economic Document by th UOPWA-CIO</unittitle><unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate><container altrender="Record carton" id="aspace_22e9888039aecd158bd57606f9a5c8ab" label="Mixed Materials [31142062764439]" type="Box">1</container><container id="aspace_4f90216628ac26eefd77b7f940be89d7" parent="aspace_22e9888039aecd158bd57606f9a5c8ab" type="Folder">12</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Peter K Hawley: CIO War Labor Board</unittitle><unitdate datechar="creation" normal="1954/1955" type="inclusive">1954-1955</unitdate><container altrender="Record carton" id="aspace_cc5f47a0d1e5790f1f8f469e6eb80e5a" label="Mixed Materials [31142062764439]" type="Box">1</container><container id="aspace_f9d411882619c69e47fccf3bdded90c6" parent="aspace_cc5f47a0d1e5790f1f8f469e6eb80e5a" type="Folder">13-14</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Documents related to Communism</unittitle><unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate><container altrender="Record carton" id="aspace_ed1925498a99f56678261439671066a0" label="Mixed Materials [31142062764439]" type="Box">1</container><container id="aspace_a6ed57d59b22a7efd8499fd72d7f222a" parent="aspace_ed1925498a99f56678261439671066a0" type="Folder">15</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>A Citizens' Survey of Available Land by The Metropolitan Council on Housing </unittitle><unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate><container altrender="Record carton" id="aspace_554d9332b909f609e36cb87e3b862f06" label="Mixed Materials [31142062764439]" type="Box">1</container><container id="aspace_540eb5579959781990ab0c7c72a9e98f" parent="aspace_554d9332b909f609e36cb87e3b862f06" type="Folder">16</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Organizing Handbook: For Immediate Repairs and Services by the Metropolitan Council on Housing </unittitle><unitdate datechar="creation" normal="1966/1966" type="inclusive">Nov 1966</unitdate><container altrender="Record carton" id="aspace_645a93aad42c55abfaf5742048f60812" label="Mixed Materials [31142062764439]" type="Box">1</container><container id="aspace_b15d4de0c2b7069ba1e9e45c1feffa5c" parent="aspace_645a93aad42c55abfaf5742048f60812" type="Folder">17</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Jane Benedict: Metropolitan Council on Housing Documents</unittitle><unitdate datechar="creation" normal="1970/1987" type="inclusive">1970-1974, 1987</unitdate><container altrender="Record carton" id="aspace_c66f061f81651947c761011416b0f8db" label="Mixed Materials [31142062764439]" type="Box">1</container><container id="aspace_0fb9ea3620f037446348ae8359b68ac9" parent="aspace_c66f061f81651947c761011416b0f8db" type="Folder">18</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Jane Benedict: Summons in Civil Action </unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">May 1970</unitdate><container altrender="Record carton" id="aspace_8088ae4963256a4064ba2bb9b1532acd" label="Mixed Materials [31142062764439]" type="Box">1</container><container id="aspace_37eaff143f7c31c24777c2c748f3d00a" parent="aspace_8088ae4963256a4064ba2bb9b1532acd" type="Folder">21</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Decent Housing for New York's People, Second Edition by Leif Johnson for Met Council Community Improvement Fund, Inc.</unittitle><unitdate datechar="creation" normal="1971/1971" type="inclusive">Oct 1971</unitdate><container altrender="Record carton" id="aspace_13f663c42837157fcb6b29183ab8a21d" label="Mixed Materials [31142062764439]" type="Box">1</container><container id="aspace_0aaadc748229d95a0256fbf68e77e94e" parent="aspace_13f663c42837157fcb6b29183ab8a21d" type="Folder">20</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Proposal to Stem the Process of Housing Abandonment by Peter K Hawley for the Metropolitan Council on Housing </unittitle><unitdate datechar="creation" normal="1972/1972" type="inclusive">Apr 1972</unitdate><container altrender="Record carton" id="aspace_b9f37fc9ddacad288bc7404356845482" label="Mixed Materials [31142062764439]" type="Box">1</container><container id="aspace_aed0a10cba9efbb621448b92d7082eca" parent="aspace_b9f37fc9ddacad288bc7404356845482" type="Folder">19</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Peter K Hawley: Met Council on Housing Materials </unittitle><unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate><container altrender="Manuscript box - Legal" id="aspace_e87b521781955a6b5e2f9637b54fa181" label="Mixed Materials [31142062764447]" type="Box">2</container><container id="aspace_9ae70e50f27be7becab26e241f486345" parent="aspace_e87b521781955a6b5e2f9637b54fa181" type="Folder">1</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Peter K Hawley: Met Council on Housing "Notes on Work" </unittitle><unitdate datechar="creation" normal="1976/1977" type="inclusive">1976-1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_2fe2aa0572b23af2519da840054feab9" label="Mixed Materials [31142062764447]" type="Box">2</container><container id="aspace_ac17a9ab11b3810a9f60964ecd0884e1" parent="aspace_2fe2aa0572b23af2519da840054feab9" type="Folder">2</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Correspondence regarding Handschu vs. Special Services Division of the City of New York</unittitle><unitdate datechar="creation" normal="1985/1985" type="inclusive">Jun 21, 1985</unitdate><container altrender="Manuscript box - Legal" id="aspace_93338e5cb46d507f26fa167e22d1f7a5" label="Mixed Materials [31142062764447]" type="Box">2</container><container id="aspace_2a192dc148b94306bc1ee92c1c43afc7" parent="aspace_93338e5cb46d507f26fa167e22d1f7a5" type="Folder">3</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Jane Benedict, Peter Hawley, and Vicki Gavin interviews with R. Lewis regarding white-collar unions</unittitle><unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Manuscript box - Legal" id="aspace_de9cb9bbd1508f2b01436ff53bc2d900" label="Mixed Materials [31142062764447]" type="Box">2</container><container id="aspace_fae5427bdecb33573e6c5b9c219f88d2" parent="aspace_de9cb9bbd1508f2b01436ff53bc2d900" type="Folder">4</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Bleak House: DHCR at the Crossroads - Findings and Recommendations of the Join Assembly Committees' Investigation of Rent Administration in New York State by Daniel Conviser</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate><container altrender="Manuscript box - Legal" id="aspace_de498af428033c6f7b751fe57fe1d291" label="Mixed Materials [31142062764447]" type="Box">2</container><container id="aspace_9cf8827a807f46558e5d6ca0fc219762" parent="aspace_de498af428033c6f7b751fe57fe1d291" type="Folder">5</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Jane Benedict: Incoming Correspondence</unittitle><unitdate datechar="creation" normal="1987/2000" type="inclusive">1987-1988, 1995-2000</unitdate><container altrender="Manuscript box - Legal" id="aspace_9c0e2231f62e1001395ce84f2e382f38" label="Mixed Materials [31142062764447]" type="Box">2</container><container id="aspace_a0665082176b5536fb19330346bc38d4" parent="aspace_9c0e2231f62e1001395ce84f2e382f38" type="Folder">6</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Jane Benedict 80th Birthday Celebration Program; Tribute to WEB Dubois</unittitle><unitdate datechar="creation" normal="1991/1993" type="inclusive">1991, 1993</unitdate><container altrender="Manuscript box - Legal" id="aspace_1e93610fd59c884ff3bdbf2df15bd379" label="Mixed Materials [31142062764447]" type="Box">2</container><container id="aspace_fac52f06749d8fc58d51293c40286122" parent="aspace_1e93610fd59c884ff3bdbf2df15bd379" type="Folder">7</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Assorted images and clip art related to housing</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_cb33ed84fcdd10a1970faae2d3c34125" label="Mixed Materials [31142062759124]" type="Box">Shared Tamiment OS009</container><container id="aspace_ccfc58ca9a99640850be2ea67f705c09" parent="aspace_cb33ed84fcdd10a1970faae2d3c34125" type="Folder">1</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Biography: Selma Arnold</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_f834ecd10b175785fe5b0e92dd5cd59f" label="Mixed Materials [31142062764447]" type="Box">2</container><container id="aspace_41384c83d9c199e3c78a2c9ecf9ea3e2" parent="aspace_f834ecd10b175785fe5b0e92dd5cd59f" type="Folder">8</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Draft: A Tale fo Two Cities: The Coney Island Searise Experience, by Emil Shaw</unittitle><unitdate datechar="creation">undated </unitdate><container altrender="Manuscript box - Legal" id="aspace_0435a6bca9e8850003ba84cea02158af" label="Mixed Materials [31142062764447]" type="Box">2</container><container id="aspace_a341417584b8284f2d6ab1145d8f31aa" parent="aspace_0435a6bca9e8850003ba84cea02158af" type="Folder">9</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Drawing: "Fighting in Spain" by the Veterans of the Abraham Lincoln Brigades</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_03fecef6e8d20f318ce8a549d65343e6" label="Mixed Materials [31142062759124]" type="Box">Shared Tamiment OS009</container><container id="aspace_1634da72de05b3db94e38efc61863223" parent="aspace_03fecef6e8d20f318ce8a549d65343e6" type="Folder">1</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Housing Photographs by Peter K Hawley and Mark Klamkin</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_6ffe82198b1159ccbcdc73bcd095fc2e" label="Mixed Materials [31142062764447]" type="Box">2</container><container id="aspace_ad874f5638b38dc790d275b7320ac38a" parent="aspace_6ffe82198b1159ccbcdc73bcd095fc2e" type="Folder">10</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Jackdaw No. 42: The Russian Revolution</unittitle><unitdate datechar="creation">undated </unitdate><container altrender="Manuscript box - Legal" id="aspace_7de6de1b04ab07f676e7ccc63a19aff9" label="Mixed Materials [31142062764447]" type="Box">2</container><container id="aspace_1d81f961949b9fef4eab93acb8e62c32" parent="aspace_7de6de1b04ab07f676e7ccc63a19aff9" type="Folder">11</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Notebook Index</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_82bfa248a241a1e4efe2d59a22f90f78" label="Mixed Materials [31142062764447]" type="Box">2</container><container id="aspace_cd03e78ceab7ba780cc919a31b18abd5" parent="aspace_82bfa248a241a1e4efe2d59a22f90f78" type="Folder">12</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Sketch: Political Cartoon critiquing Senator Daniel Moynihan stance on rent control</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_9065235fde58187d32d23ee6e8ec06eb" label="Mixed Materials [31142062759124]" type="Box">Shared Tamiment OS009</container><container id="aspace_2d3d44e7b1a197970825f31e634ee4df" parent="aspace_9065235fde58187d32d23ee6e8ec06eb" type="Folder">1</container></did></c></dsc>
-</archdesc>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref6" level="file">
+        <did>
+          <unittitle>Arbitration Briefs: Amalgamated Bank vs. Professional Workers of America, Local 16</unittitle>
+          <unitdate datechar="creation" normal="1935/1939" type="inclusive">1935, 1939</unitdate>
+          <container altrender="Record carton" id="aspace_fb0741bc91e1635f0fb8c9ff12af946e" label="Mixed Materials [31142062764439]" type="Box">1</container>
+          <container id="aspace_8d01cc88b890ec1c572b927ca3f0bca3" parent="aspace_fb0741bc91e1635f0fb8c9ff12af946e" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref7" level="file">
+        <did>
+          <unittitle>Pamphlets: Labor</unittitle>
+          <unitdate datechar="creation" normal="1939/1947" type="inclusive">1939-1947</unitdate>
+          <container altrender="Record carton" id="aspace_afdc03ef9750a3366936f2eaa7e4782c" label="Mixed Materials [31142062764439]" type="Box">1</container>
+          <container id="aspace_1e40416e74fd1a51d0c5f0b573ccde12" parent="aspace_afdc03ef9750a3366936f2eaa7e4782c" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref8" level="file">
+        <did>
+          <unittitle>Labor Surveys and Reports</unittitle>
+          <unitdate datechar="creation" normal="1930/1949" type="inclusive">circa 1930s - 1940s</unitdate>
+          <container altrender="Record carton" id="aspace_dca4d8dcfcb360ae5766a5ebdf325db3" label="Mixed Materials [31142062764439]" type="Box">1</container>
+          <container id="aspace_782b2fcffc9cd74222163364498417aa" parent="aspace_dca4d8dcfcb360ae5766a5ebdf325db3" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref9" level="file">
+        <did>
+          <unittitle>Arbitration Brief: United Office and Professional Workers, Local 16 vs. Mail Advertising Service Association, Inc.</unittitle>
+          <unitdate datechar="creation" normal="1942/1942" type="inclusive">Sep 1942</unitdate>
+          <container altrender="Record carton" id="aspace_44654456bd70319288e693da336bebd7" label="Mixed Materials [31142062764439]" type="Box">1</container>
+          <container id="aspace_516e86ade03e9ad312d8cb0fc52a8807" parent="aspace_44654456bd70319288e693da336bebd7" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref10" level="file">
+        <did>
+          <unittitle>Report: Job Rating by the Pitometer Log Corporation</unittitle>
+          <unitdate datechar="creation" normal="1943/1943" type="inclusive">Jan 1943</unitdate>
+          <container altrender="Record carton" id="aspace_8e2e917a52dcabea2f79c2bcebaeb1c1" label="Mixed Materials [31142062764439]" type="Box">1</container>
+          <container id="aspace_23bae3d18d9da0ba13ab2433bc530112" parent="aspace_8e2e917a52dcabea2f79c2bcebaeb1c1" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref11" level="file">
+        <did>
+          <unittitle>Report: Job Evaluation by the American Gas Accumulator Company </unittitle>
+          <unitdate datechar="creation" normal="1943/1943" type="inclusive">Aug 31, 1943</unitdate>
+          <container altrender="Record carton" id="aspace_79d40fe62c968e13e198fdc154ad24dd" label="Mixed Materials [31142062764439]" type="Box">1</container>
+          <container id="aspace_f8c5cdada5bbe88e0bbbd07ddb402fbf" parent="aspace_79d40fe62c968e13e198fdc154ad24dd" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref12" level="file">
+        <did>
+          <unittitle>CIO Conference Programs</unittitle>
+          <unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate>
+          <container altrender="Record carton" id="aspace_e87f398bcc944921b6fa1f9bdc9f10f9" label="Mixed Materials [31142062764439]" type="Box">1</container>
+          <container id="aspace_951236081d52cff92214c26bc79763ef" parent="aspace_e87f398bcc944921b6fa1f9bdc9f10f9" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref13" level="file">
+        <did>
+          <unittitle>Peter K Hawley: UOPWA-CIO Office Files</unittitle>
+          <unitdate datechar="creation" normal="1940/1950" type="inclusive">1940-1950</unitdate>
+          <container altrender="Record carton" id="aspace_d6194963b10b81d039bb274345c6ae7e" label="Mixed Materials [31142062764439]" type="Box">1</container>
+          <container id="aspace_0e69c0f0a0f5a33379b72975f9fa3494" parent="aspace_d6194963b10b81d039bb274345c6ae7e" type="Folder">8-9</container>
+        </did>
+      </c>
+      <c id="aspace_ref14" level="file">
+        <did>
+          <unittitle>CIO War Labor Board Newsletter</unittitle>
+          <unitdate datechar="creation" normal="1944/1945" type="inclusive">1944-1945</unitdate>
+          <container altrender="Record carton" id="aspace_a4859a06650f95b0c144d37df2fede66" label="Mixed Materials [31142062764439]" type="Box">1</container>
+          <container id="aspace_4629b998c28a9d5d912ad7e402af01b9" parent="aspace_a4859a06650f95b0c144d37df2fede66" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref15" level="file">
+        <did>
+          <unittitle>Pamphlets: Civil Rights</unittitle>
+          <unitdate datechar="creation" normal="1944/1978" type="inclusive">1944-1978</unitdate>
+          <container altrender="Record carton" id="aspace_b83f9ecbeb8e98d0c2a6aa77551432e2" label="Mixed Materials [31142062764439]" type="Box">1</container>
+          <container id="aspace_83bf7f041b3142ecb4b57db64fe9da44" parent="aspace_b83f9ecbeb8e98d0c2a6aa77551432e2" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref16" level="file">
+        <did>
+          <unittitle>Economic Brief: The Facts of Life: An Economic Document by th UOPWA-CIO</unittitle>
+          <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
+          <container altrender="Record carton" id="aspace_22e9888039aecd158bd57606f9a5c8ab" label="Mixed Materials [31142062764439]" type="Box">1</container>
+          <container id="aspace_4f90216628ac26eefd77b7f940be89d7" parent="aspace_22e9888039aecd158bd57606f9a5c8ab" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref17" level="file">
+        <did>
+          <unittitle>Peter K Hawley: CIO War Labor Board</unittitle>
+          <unitdate datechar="creation" normal="1954/1955" type="inclusive">1954-1955</unitdate>
+          <container altrender="Record carton" id="aspace_cc5f47a0d1e5790f1f8f469e6eb80e5a" label="Mixed Materials [31142062764439]" type="Box">1</container>
+          <container id="aspace_f9d411882619c69e47fccf3bdded90c6" parent="aspace_cc5f47a0d1e5790f1f8f469e6eb80e5a" type="Folder">13-14</container>
+        </did>
+      </c>
+      <c id="aspace_ref18" level="file">
+        <did>
+          <unittitle>Documents related to Communism</unittitle>
+          <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
+          <container altrender="Record carton" id="aspace_ed1925498a99f56678261439671066a0" label="Mixed Materials [31142062764439]" type="Box">1</container>
+          <container id="aspace_a6ed57d59b22a7efd8499fd72d7f222a" parent="aspace_ed1925498a99f56678261439671066a0" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref19" level="file">
+        <did>
+          <unittitle>A Citizens' Survey of Available Land by The Metropolitan Council on Housing </unittitle>
+          <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+          <container altrender="Record carton" id="aspace_554d9332b909f609e36cb87e3b862f06" label="Mixed Materials [31142062764439]" type="Box">1</container>
+          <container id="aspace_540eb5579959781990ab0c7c72a9e98f" parent="aspace_554d9332b909f609e36cb87e3b862f06" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref20" level="file">
+        <did>
+          <unittitle>Organizing Handbook: For Immediate Repairs and Services by the Metropolitan Council on Housing </unittitle>
+          <unitdate datechar="creation" normal="1966/1966" type="inclusive">Nov 1966</unitdate>
+          <container altrender="Record carton" id="aspace_645a93aad42c55abfaf5742048f60812" label="Mixed Materials [31142062764439]" type="Box">1</container>
+          <container id="aspace_b15d4de0c2b7069ba1e9e45c1feffa5c" parent="aspace_645a93aad42c55abfaf5742048f60812" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref21" level="file">
+        <did>
+          <unittitle>Jane Benedict: Metropolitan Council on Housing Documents</unittitle>
+          <unitdate datechar="creation" normal="1970/1987" type="inclusive">1970-1974, 1987</unitdate>
+          <container altrender="Record carton" id="aspace_c66f061f81651947c761011416b0f8db" label="Mixed Materials [31142062764439]" type="Box">1</container>
+          <container id="aspace_0fb9ea3620f037446348ae8359b68ac9" parent="aspace_c66f061f81651947c761011416b0f8db" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref24" level="file">
+        <did>
+          <unittitle>Jane Benedict: Summons in Civil Action </unittitle>
+          <unitdate datechar="creation" normal="1970/1970" type="inclusive">May 1970</unitdate>
+          <container altrender="Record carton" id="aspace_8088ae4963256a4064ba2bb9b1532acd" label="Mixed Materials [31142062764439]" type="Box">1</container>
+          <container id="aspace_37eaff143f7c31c24777c2c748f3d00a" parent="aspace_8088ae4963256a4064ba2bb9b1532acd" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_ref23" level="file">
+        <did>
+          <unittitle>Decent Housing for New York's People, Second Edition by Leif Johnson for Met Council Community Improvement Fund, Inc.</unittitle>
+          <unitdate datechar="creation" normal="1971/1971" type="inclusive">Oct 1971</unitdate>
+          <container altrender="Record carton" id="aspace_13f663c42837157fcb6b29183ab8a21d" label="Mixed Materials [31142062764439]" type="Box">1</container>
+          <container id="aspace_0aaadc748229d95a0256fbf68e77e94e" parent="aspace_13f663c42837157fcb6b29183ab8a21d" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_ref22" level="file">
+        <did>
+          <unittitle>Proposal to Stem the Process of Housing Abandonment by Peter K Hawley for the Metropolitan Council on Housing </unittitle>
+          <unitdate datechar="creation" normal="1972/1972" type="inclusive">Apr 1972</unitdate>
+          <container altrender="Record carton" id="aspace_b9f37fc9ddacad288bc7404356845482" label="Mixed Materials [31142062764439]" type="Box">1</container>
+          <container id="aspace_aed0a10cba9efbb621448b92d7082eca" parent="aspace_b9f37fc9ddacad288bc7404356845482" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_ref25" level="file">
+        <did>
+          <unittitle>Peter K Hawley: Met Council on Housing Materials </unittitle>
+          <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e87b521781955a6b5e2f9637b54fa181" label="Mixed Materials [31142062764447]" type="Box">2</container>
+          <container id="aspace_9ae70e50f27be7becab26e241f486345" parent="aspace_e87b521781955a6b5e2f9637b54fa181" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref26" level="file">
+        <did>
+          <unittitle>Peter K Hawley: Met Council on Housing "Notes on Work" </unittitle>
+          <unitdate datechar="creation" normal="1976/1977" type="inclusive">1976-1977</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2fe2aa0572b23af2519da840054feab9" label="Mixed Materials [31142062764447]" type="Box">2</container>
+          <container id="aspace_ac17a9ab11b3810a9f60964ecd0884e1" parent="aspace_2fe2aa0572b23af2519da840054feab9" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref27" level="file">
+        <did>
+          <unittitle>Correspondence regarding Handschu vs. Special Services Division of the City of New York</unittitle>
+          <unitdate datechar="creation" normal="1985/1985" type="inclusive">Jun 21, 1985</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_93338e5cb46d507f26fa167e22d1f7a5" label="Mixed Materials [31142062764447]" type="Box">2</container>
+          <container id="aspace_2a192dc148b94306bc1ee92c1c43afc7" parent="aspace_93338e5cb46d507f26fa167e22d1f7a5" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref28" level="file">
+        <did>
+          <unittitle>Jane Benedict, Peter Hawley, and Vicki Gavin interviews with R. Lewis regarding white-collar unions</unittitle>
+          <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_de9cb9bbd1508f2b01436ff53bc2d900" label="Mixed Materials [31142062764447]" type="Box">2</container>
+          <container id="aspace_fae5427bdecb33573e6c5b9c219f88d2" parent="aspace_de9cb9bbd1508f2b01436ff53bc2d900" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref29" level="file">
+        <did>
+          <unittitle>Bleak House: DHCR at the Crossroads - Findings and Recommendations of the Join Assembly Committees' Investigation of Rent Administration in New York State by Daniel Conviser</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_de498af428033c6f7b751fe57fe1d291" label="Mixed Materials [31142062764447]" type="Box">2</container>
+          <container id="aspace_9cf8827a807f46558e5d6ca0fc219762" parent="aspace_de498af428033c6f7b751fe57fe1d291" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref30" level="file">
+        <did>
+          <unittitle>Jane Benedict: Incoming Correspondence</unittitle>
+          <unitdate datechar="creation" normal="1987/2000" type="inclusive">1987-1988, 1995-2000</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9c0e2231f62e1001395ce84f2e382f38" label="Mixed Materials [31142062764447]" type="Box">2</container>
+          <container id="aspace_a0665082176b5536fb19330346bc38d4" parent="aspace_9c0e2231f62e1001395ce84f2e382f38" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref31" level="file">
+        <did>
+          <unittitle>Jane Benedict 80th Birthday Celebration Program; Tribute to WEB Dubois</unittitle>
+          <unitdate datechar="creation" normal="1991/1993" type="inclusive">1991, 1993</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1e93610fd59c884ff3bdbf2df15bd379" label="Mixed Materials [31142062764447]" type="Box">2</container>
+          <container id="aspace_fac52f06749d8fc58d51293c40286122" parent="aspace_1e93610fd59c884ff3bdbf2df15bd379" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref39" level="file">
+        <did>
+          <unittitle>Assorted images and clip art related to housing</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_cb33ed84fcdd10a1970faae2d3c34125" label="Mixed Materials [31142062759124]" type="Box">Shared Tamiment OS009</container>
+          <container id="aspace_ccfc58ca9a99640850be2ea67f705c09" parent="aspace_cb33ed84fcdd10a1970faae2d3c34125" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref32" level="file">
+        <did>
+          <unittitle>Biography: Selma Arnold</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f834ecd10b175785fe5b0e92dd5cd59f" label="Mixed Materials [31142062764447]" type="Box">2</container>
+          <container id="aspace_41384c83d9c199e3c78a2c9ecf9ea3e2" parent="aspace_f834ecd10b175785fe5b0e92dd5cd59f" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref36" level="file">
+        <did>
+          <unittitle>Draft: A Tale fo Two Cities: The Coney Island Searise Experience, by Emil Shaw</unittitle>
+          <unitdate datechar="creation">undated </unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0435a6bca9e8850003ba84cea02158af" label="Mixed Materials [31142062764447]" type="Box">2</container>
+          <container id="aspace_a341417584b8284f2d6ab1145d8f31aa" parent="aspace_0435a6bca9e8850003ba84cea02158af" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref38" level="file">
+        <did>
+          <unittitle>Drawing: "Fighting in Spain" by the Veterans of the Abraham Lincoln Brigades</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_03fecef6e8d20f318ce8a549d65343e6" label="Mixed Materials [31142062759124]" type="Box">Shared Tamiment OS009</container>
+          <container id="aspace_1634da72de05b3db94e38efc61863223" parent="aspace_03fecef6e8d20f318ce8a549d65343e6" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref33" level="file">
+        <did>
+          <unittitle>Housing Photographs by Peter K Hawley and Mark Klamkin</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6ffe82198b1159ccbcdc73bcd095fc2e" label="Mixed Materials [31142062764447]" type="Box">2</container>
+          <container id="aspace_ad874f5638b38dc790d275b7320ac38a" parent="aspace_6ffe82198b1159ccbcdc73bcd095fc2e" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref34" level="file">
+        <did>
+          <unittitle>Jackdaw No. 42: The Russian Revolution</unittitle>
+          <unitdate datechar="creation">undated </unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7de6de1b04ab07f676e7ccc63a19aff9" label="Mixed Materials [31142062764447]" type="Box">2</container>
+          <container id="aspace_1d81f961949b9fef4eab93acb8e62c32" parent="aspace_7de6de1b04ab07f676e7ccc63a19aff9" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref35" level="file">
+        <did>
+          <unittitle>Notebook Index</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_82bfa248a241a1e4efe2d59a22f90f78" label="Mixed Materials [31142062764447]" type="Box">2</container>
+          <container id="aspace_cd03e78ceab7ba780cc919a31b18abd5" parent="aspace_82bfa248a241a1e4efe2d59a22f90f78" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref37" level="file">
+        <did>
+          <unittitle>Sketch: Political Cartoon critiquing Senator Daniel Moynihan stance on rent control</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_9065235fde58187d32d23ee6e8ec06eb" label="Mixed Materials [31142062759124]" type="Box">Shared Tamiment OS009</container>
+          <container id="aspace_2d3d44e7b1a197970825f31e634ee4df" parent="aspace_9065235fde58187d32d23ee6e8ec06eb" type="Folder">1</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

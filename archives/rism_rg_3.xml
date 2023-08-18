@@ -1,90 +1,1160 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/nyuarchives/rism_rg_3">rism_rg_3</eadid><filedesc><titlestmt><titleproper>Guide to the Records of the Puerto Rico Project <num>RISM.RG.3</num></titleproper><author>Emilyn L. Brown.  Inventory prepared by Katie Ehrlich and Stephanie Schmeling, September 2010.</author></titlestmt><editionstmt><p>This version was derived from puertoricoproject.doc</p></editionstmt><publicationstmt><publisher>New York University Archives</publisher><p><date>2006</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 06:46:56 -0400</date>.</creation><langusage>Description is in English.</langusage></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>New York University Archives</corpname>
-    </repository>
-    <unittitle>Records of the Puerto Rico Study</unittitle>
-    <origination label="Creator">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/nyuarchives/rism_rg_3">rism_rg_3</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Records of the Puerto Rico Project <num>RISM.RG.3</num></titleproper>
+        <author>Emilyn L. Brown.  Inventory prepared by Katie Ehrlich and Stephanie Schmeling, September 2010.</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from puertoricoproject.doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+        <p>
+          <date>2006</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 06:46:56 -0400</date>.</creation>
+      <langusage>Description is in English.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>Records of the Puerto Rico Study</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Steward, Julian Haynes, 1902-1972</persname>
+      </origination>
+      <unitid>RISM.RG.3</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1943/1951" type="inclusive">1943-1951</unitdate>
+      <unitdate datechar="creation" normal="1948/1949" type="bulk">1948-1949</unitdate>
+      <abstract id="aspace_0b651554190f4dd1afc4b06669d7f257" label="Abstract">The Puerto Rico Project was a comprehensive study conducted by Dr. Julian H. Steward and a select team of anthropologists between 1947 and 1949. The collection includes correspondence, minutes, interviews, reports, journal accounts, fieldwork reports, printed matter, manuscripts, thesis, maps, and ephemera.</abstract>
+      <physloc id="aspace_d055d406310bef6c6e0515939f1bc76b">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_7fef12f18a707916b98031d8875c1019">Materials are in English and Spanish.</langmaterial>
+    </did>
+    <arrangement id="aspace_bddee8a65e338f921606314dcc9173c5">
+      <head>Arrangement</head>
+      <p>The Puerto Rico Study Collection has been organized chronologically and arranged into the following series:</p>
+      <list type="ordered">
+        <item>I. Correspondence</item>
+        <item>II. Minutes</item>
+        <item>III. Interviews</item>
+        <item>IV. Journal Entries</item>
+        <item>V. Project Reports</item>
+        <item>VI. Draft Manuscript Papers</item>
+        <item>VII. Miscellaneous Papers</item>
+        <item>VIII. Maps</item>
+      </list>
+    </arrangement>
+    <separatedmaterial id="aspace_9513ee02842990ca0f5e9dddd920055a">
+      <head>Separated Material</head>
+      <p>No materials have been removed from the collection.</p>
+    </separatedmaterial>
+    <relatedmaterial id="aspace_60b33a18d2904a7e169b9abd13dacbc6">
+      <head>Related Material at the Reed Foundation</head>
+      <p>The Vera D. Rubin Papers, RISM RG 1</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_c2d9a50fb5d93369388aa25b9c48f4b1">
+      <head>Scope and Contents</head>
+      <p>The records of the Puerto Rico Project comprise 4.0 linear feet and span the years 1943 to 1951. The bulk of the records, generated between 1947 and 1949, represent a unique, cooperative effort in modern anthropology. The collection includes bilingual correspondence, conference papers, minutes, interviews, journal entries, fieldwork reports, manuscripts, clippings, printed matter, miscellaneous papers, and maps.  Descriptive details are included in the scope and content note for each series. </p>
+      <p>Although the collection represents a small portion of a comprehensive study, the records provide critical insight into the impact of industrialization on the Island's cultural history, demography, land use patterns, economics, race relations, migration, and family kinship structure. The records also highlight the influence of external economic and political forces. </p>
+      <p>Although critical gaps occur between Nov - Jun 1948, Jun 1949 - 1950, and during the final phase of the Project, Series I details the Project's development and highlights the relationships of the fieldwork team. Series II provides insight into the research structure of the Project with particular emphasis on the development of hypotheses and fieldwork methodology. Although there is some overlap between Series III and Series IV, the records in both series detail day-to-day life in Puerto Rico during the transitional period. Series V consists of field data submitted by and circulated among members of the fieldwork team. These reports helped shape and guide the research methodology. </p>
+      <p>Although Series VI is incomplete, it sheds light on the way in which the final report was organized. Series VII includes notes, political flyers, brochures and some photographs. A unique set of local and regional maps of Puerto Rico, published prior to the Project, comprise Series VIII. </p>
+      <p>Two items, formerly housed in RISM's Library for Caribbean Research (LCR), have been appended to the collection. Report on the Selection of a Community for Anthropological Study, a thesis written by Irene Caro, documents fieldwork in Puerto Rico and contains a valuable glossary of common terms in the Spanish language. The second document, Canamelar: The Subculture of a Rural Sugar Plantation Proletariat, written by Sidney Mintz, appears to be a chapter of a larger, unidentified manuscript. </p>
+    </scopecontent>
+    <bioghist id="aspace_a633ce855e0faf8fbcac3b3a75088e6c">
+      <head>Historical Note</head>
+      <p>The Puerto Rico Project was an in-depth study of the Island's population organized by Dr. Jaime Benitez, chancellor of the University of Puerto Rico, Rio Piedras Campus, with the assistance of Clarence Senior, director of the University's Center of Social Science Investigations. In early 1947, the proposed study was brought to the attention of Dr. Julian Steward, chair of Columbia University's Anthropology Department. </p>
+      <p>By December 1947 the organization of project goals, research hypotheses and methodology were underway. The fieldwork phase of the project began in February 1948, coinciding with Operation Bootstrap ("Operación Manos a la Obra"), the Puerto Rico government's ambitious plan to industrialize the Island. Dr. Steward chose many of his graduate students to head fieldwork investigations. This core group included noted leaders in the field of anthropology: Sidney Mintz, Eric R. Wolf, Elena Padilla Seda, Robert A. Manners, John Murra, Raymond Scheele and others. Students from the Universities of Puerto Rico and Chicago also assisted in the study to gain professional training. </p>
+      <p>In contrast to previous anthropological studies that investigated communities as isolated units, the Puerto Rico Project not only assessed the impact of industrialization among rural communities, but it also produced an analysis of the relationship between those communities and the Island through oral history, labor studies, and comparative surveys of sociocultural patterns. </p>
+      <p>Fieldwork activities concluded in August 1949, followed by a year of supplemental library research. A preliminary report was published in 1951. Funding from the University of Puerto Rico, the Rockefeller Foundation, the Wenner-Gren Foundation, and the Research Board of the University of Illinois helped to facilitate completion of the final report, published as <emph render="italic">The People of Puerto Rico: A Study in Social Anthropology</emph>.</p>
+      <p>
+Sources: </p>
+      <p>Shimkin, Demetri B. "Julian H. Steward: A Contributor to Fact and Theory in Cultural Anthropology," <emph render="italic">Process and Patterns in Culture: Essays in Honor of Julian H. Steward</emph>. Robert A. Manners, ed.  Steward, Julian H., et al, eds. "Preface."  <emph render="italic">The People of Puerto Rico: A Study in Social Anthropology</emph>. A Social Science Research Center Study, College of Social Sciences, University of Puerto Rico, University of Illinois Press, 1956 (located at the Reed Foundation).  Material from the collection was also used to compose the finding aid. </p>
+    </bioghist>
+    <prefercite id="aspace_11eb5b50e54b1287a15c1f5d1ae6a269">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form:<lb/><lb/>Identification of item, Date(s) (if known); The Records of the Puerto Rico Project; RISM RG 3; box number; folder number;<lb/><address><addressline>Research Institute for the Study of Man Collection</addressline><addressline>New York University Archives</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>New York, NY 10012</addressline></address></p>
+    </prefercite>
+    <userestrict id="aspace_268468bee65985a7df166e546e6b6878">
+      <head>Conditions Governing Use</head>
+      <p>Permission to publish materials must be obtained in writing from the:<lb/><address><addressline>New York University Archives<lb/> </addressline><addressline>Elmer Holmes Bobst Library<lb/> </addressline><addressline>70 Washington Square South<lb/> </addressline><addressline>New York, NY 10012<lb/> </addressline><addressline>Phone: (212) 998-2646<lb/> </addressline><addressline>Fax: (212) 995-4225<lb/> </addressline><addressline>E-mail: university-archives@nyu.edu<lb/> </addressline></address></p>
+    </userestrict>
+    <accessrestrict id="aspace_5f02a0f67ab74e1ad494dc0bde18023a">
+      <head>Conditions Governing Access</head>
+      <p>This collection is open for research without restrictions.</p>
+    </accessrestrict>
+    <custodhist id="aspace_a7d362ec509f1bc742ab503aa4da2ca2">
+      <head>Provenance</head>
+      <p>The Records of the Puerto Rico Project were generated by a team of professional anthropologists under the direction of Dr. Julian H. Steward, chair of the anthropology department at Columbia University. Dr. Steward and other members of the team were professional associates of Dr. Vera D. Rubin, founder and director of the Research Institute for the Study of Man (RISM) and may have transferred the collection to RISM headquarters.</p>
+    </custodhist>
+    <controlaccess>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <geogname source="lcsh">New York (N.Y.).</geogname>
+      <genreform source="aat">Minutes (administrative records)</genreform>
+      <genreform source="aat">Interviews.</genreform>
+      <genreform source="aat">Manuscripts</genreform>
+      <genreform source="aat">Theses.</genreform>
+      <genreform source="aat">Photographs.</genreform>
+      <geogname source="lcsh">Puerto Rico.</geogname>
+      <subject source="lcsh">Puerto Rico |x Social conditions.</subject>
+      <subject source="lcsh">Economic development |z Puerto Rico.</subject>
+      <subject source="lcsh">Puerto Rico |x Economic conditions.</subject>
+      <genreform source="aat">Correspondence.</genreform>
+      <subject source="lcsh">Puerto Rico |x Social life and customs.</subject>
+      <genreform source="aat">Journals (periodicals)</genreform>
+      <genreform source="aat">Maps.</genreform>
+      <persname source="naf">Murra, John V.</persname>
+      <persname source="naf">Padilla, Elena, 1923-</persname>
+      <corpname source="naf">Partido Popular Democrático (P.R.).</corpname>
+      <corpname source="naf">University of Puerto Rico (Río Piedras Campus)</corpname>
+      <persname source="naf">Wolf, Eric R., 1923-</persname>
+      <corpname authfilenumber="(lccn)n81024714" source="naf">Columbia University -- Faculty</corpname>
       <persname source="naf">Steward, Julian Haynes, 1902-1972</persname>
-    </origination>
-    <unitid>RISM.RG.3</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">4 Linear Feet</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1943/1951" type="inclusive">1943-1951</unitdate>
-    <unitdate datechar="creation" normal="1948/1949" type="bulk">1948-1949</unitdate>
-    <abstract id="aspace_0b651554190f4dd1afc4b06669d7f257" label="Abstract">The Puerto Rico Project was a comprehensive study conducted by Dr. Julian H. Steward and a select team of anthropologists between 1947 and 1949. The collection includes correspondence, minutes, interviews, reports, journal accounts, fieldwork reports, printed matter, manuscripts, thesis, maps, and ephemera.</abstract>
-    <physloc id="aspace_d055d406310bef6c6e0515939f1bc76b">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
-    <langmaterial id="aspace_7fef12f18a707916b98031d8875c1019">Materials are in English and Spanish.</langmaterial>
-  </did>
-  <arrangement id="aspace_bddee8a65e338f921606314dcc9173c5">
-    <head>Arrangement</head>
-<p>The Puerto Rico Study Collection has been organized chronologically and arranged into the following series:</p>    <list type="ordered">
-      <item>I. Correspondence</item>
-      <item>II. Minutes</item>
-      <item>III. Interviews</item>
-      <item>IV. Journal Entries</item>
-      <item>V. Project Reports</item>
-      <item>VI. Draft Manuscript Papers</item>
-      <item>VII. Miscellaneous Papers</item>
-      <item>VIII. Maps</item>
-    </list>
-  </arrangement>
-  <separatedmaterial id="aspace_9513ee02842990ca0f5e9dddd920055a">
-    <head>Separated Material</head>
-<p>No materials have been removed from the collection.</p>  </separatedmaterial>
-  <relatedmaterial id="aspace_60b33a18d2904a7e169b9abd13dacbc6">
-    <head>Related Material at the Reed Foundation</head>
-<p>The Vera D. Rubin Papers, RISM RG 1</p>  </relatedmaterial>
-  <scopecontent id="aspace_c2d9a50fb5d93369388aa25b9c48f4b1">
-    <head>Scope and Contents</head>
-<p>The records of the Puerto Rico Project comprise 4.0 linear feet and span the years 1943 to 1951. The bulk of the records, generated between 1947 and 1949, represent a unique, cooperative effort in modern anthropology. The collection includes bilingual correspondence, conference papers, minutes, interviews, journal entries, fieldwork reports, manuscripts, clippings, printed matter, miscellaneous papers, and maps.  Descriptive details are included in the scope and content note for each series. </p><p>Although the collection represents a small portion of a comprehensive study, the records provide critical insight into the impact of industrialization on the Island's cultural history, demography, land use patterns, economics, race relations, migration, and family kinship structure. The records also highlight the influence of external economic and political forces. </p><p>Although critical gaps occur between Nov - Jun 1948, Jun 1949 - 1950, and during the final phase of the Project, Series I details the Project's development and highlights the relationships of the fieldwork team. Series II provides insight into the research structure of the Project with particular emphasis on the development of hypotheses and fieldwork methodology. Although there is some overlap between Series III and Series IV, the records in both series detail day-to-day life in Puerto Rico during the transitional period. Series V consists of field data submitted by and circulated among members of the fieldwork team. These reports helped shape and guide the research methodology. </p><p>Although Series VI is incomplete, it sheds light on the way in which the final report was organized. Series VII includes notes, political flyers, brochures and some photographs. A unique set of local and regional maps of Puerto Rico, published prior to the Project, comprise Series VIII. </p><p>Two items, formerly housed in RISM's Library for Caribbean Research (LCR), have been appended to the collection. Report on the Selection of a Community for Anthropological Study, a thesis written by Irene Caro, documents fieldwork in Puerto Rico and contains a valuable glossary of common terms in the Spanish language. The second document, Canamelar: The Subculture of a Rural Sugar Plantation Proletariat, written by Sidney Mintz, appears to be a chapter of a larger, unidentified manuscript. </p>  </scopecontent>
-  <bioghist id="aspace_a633ce855e0faf8fbcac3b3a75088e6c">
-    <head>Historical Note</head>
-<p>The Puerto Rico Project was an in-depth study of the Island's population organized by Dr. Jaime Benitez, chancellor of the University of Puerto Rico, Rio Piedras Campus, with the assistance of Clarence Senior, director of the University's Center of Social Science Investigations. In early 1947, the proposed study was brought to the attention of Dr. Julian Steward, chair of Columbia University's Anthropology Department. </p><p>By December 1947 the organization of project goals, research hypotheses and methodology were underway. The fieldwork phase of the project began in February 1948, coinciding with Operation Bootstrap ("Operación Manos a la Obra"), the Puerto Rico government's ambitious plan to industrialize the Island. Dr. Steward chose many of his graduate students to head fieldwork investigations. This core group included noted leaders in the field of anthropology: Sidney Mintz, Eric R. Wolf, Elena Padilla Seda, Robert A. Manners, John Murra, Raymond Scheele and others. Students from the Universities of Puerto Rico and Chicago also assisted in the study to gain professional training. </p><p>In contrast to previous anthropological studies that investigated communities as isolated units, the Puerto Rico Project not only assessed the impact of industrialization among rural communities, but it also produced an analysis of the relationship between those communities and the Island through oral history, labor studies, and comparative surveys of sociocultural patterns. </p><p>Fieldwork activities concluded in August 1949, followed by a year of supplemental library research. A preliminary report was published in 1951. Funding from the University of Puerto Rico, the Rockefeller Foundation, the Wenner-Gren Foundation, and the Research Board of the University of Illinois helped to facilitate completion of the final report, published as <emph render="italic">The People of Puerto Rico: A Study in Social Anthropology</emph>.</p><p>
-Sources: </p><p>Shimkin, Demetri B. "Julian H. Steward: A Contributor to Fact and Theory in Cultural Anthropology," <emph render="italic">Process and Patterns in Culture: Essays in Honor of Julian H. Steward</emph>. Robert A. Manners, ed.  Steward, Julian H., et al, eds. "Preface."  <emph render="italic">The People of Puerto Rico: A Study in Social Anthropology</emph>. A Social Science Research Center Study, College of Social Sciences, University of Puerto Rico, University of Illinois Press, 1956 (located at the Reed Foundation).  Material from the collection was also used to compose the finding aid. </p>  </bioghist>
-  <prefercite id="aspace_11eb5b50e54b1287a15c1f5d1ae6a269">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form:<lb/><lb/>Identification of item, Date(s) (if known); The Records of the Puerto Rico Project; RISM RG 3; box number; folder number;<lb/><address><addressline>Research Institute for the Study of Man Collection</addressline><addressline>New York University Archives</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>New York, NY 10012</addressline></address></p>  </prefercite>
-  <userestrict id="aspace_268468bee65985a7df166e546e6b6878">
-    <head>Conditions Governing Use</head>
-<p>Permission to publish materials must be obtained in writing from the:<lb/><address><addressline>New York University Archives<lb/> </addressline><addressline>Elmer Holmes Bobst Library<lb/> </addressline><addressline>70 Washington Square South<lb/> </addressline><addressline>New York, NY 10012<lb/> </addressline><addressline>Phone: (212) 998-2646<lb/> </addressline><addressline>Fax: (212) 995-4225<lb/> </addressline><addressline>E-mail: university-archives@nyu.edu<lb/> </addressline></address></p>  </userestrict>
-  <accessrestrict id="aspace_5f02a0f67ab74e1ad494dc0bde18023a">
-    <head>Conditions Governing Access</head>
-<p>This collection is open for research without restrictions.</p>  </accessrestrict>
-  <custodhist id="aspace_a7d362ec509f1bc742ab503aa4da2ca2">
-    <head>Provenance</head>
-<p>The Records of the Puerto Rico Project were generated by a team of professional anthropologists under the direction of Dr. Julian H. Steward, chair of the anthropology department at Columbia University. Dr. Steward and other members of the team were professional associates of Dr. Vera D. Rubin, founder and director of the Research Institute for the Study of Man (RISM) and may have transferred the collection to RISM headquarters.</p>  </custodhist>
-  <controlaccess>
-    <genreform source="aat">Clippings (information artifacts)</genreform>
-    <geogname source="lcsh">New York (N.Y.).</geogname>
-    <genreform source="aat">Minutes (administrative records)</genreform>
-    <genreform source="aat">Interviews.</genreform>
-    <genreform source="aat">Manuscripts</genreform>
-    <genreform source="aat">Theses.</genreform>
-    <genreform source="aat">Photographs.</genreform>
-    <geogname source="lcsh">Puerto Rico.</geogname>
-    <subject source="lcsh">Puerto Rico |x Social conditions.</subject>
-    <subject source="lcsh">Economic development |z Puerto Rico.</subject>
-    <subject source="lcsh">Puerto Rico |x Economic conditions.</subject>
-    <genreform source="aat">Correspondence.</genreform>
-    <subject source="lcsh">Puerto Rico |x Social life and customs.</subject>
-    <genreform source="aat">Journals (periodicals)</genreform>
-    <genreform source="aat">Maps.</genreform>
-    <persname source="naf">Murra, John V.</persname>
-    <persname source="naf">Padilla, Elena, 1923-</persname>
-    <corpname source="naf">Partido Popular Democrático (P.R.).</corpname>
-    <corpname source="naf">University of Puerto Rico (Río Piedras Campus)</corpname>
-    <persname source="naf">Wolf, Eric R., 1923-</persname>
-    <corpname authfilenumber="(lccn)n81024714" source="naf">Columbia University -- Faculty</corpname>
-    <persname source="naf">Steward, Julian Haynes, 1902-1972</persname>
-    <persname source="naf">Armstrong, Robert G., 1917-1987</persname>
-    <persname source="naf">Muñoz Marín, Luis, 1898-1980</persname>
-    <persname source="naf">Mintz, Sidney W. (Sidney Wilfred), 1922-2015</persname>
-    <persname source="naf">Manners, Robert A. (Robert Alan), 1913-1996</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref21" level="series"><did><unittitle>Series I: Correspondence, April 1948 - August 1950, undated</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_24be27c348160d4b111766a1c7d31ba1"><head>Scope and Contents note</head><p>7 folders, arranged chronologically. This series consists of incoming and outgoing letters between fieldworkers in Puerto Rico and field director John Murra in New York.</p></scopecontent><c id="aspace_ref22" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation">Apr-Jun 1948</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_6f9b376f26e95160450b299aea933034" label="Mixed Materials [31142042275910]" type="Box">1</container><container id="aspace_ac2ff1a3501b092404026f33a2fc8fa8" parent="aspace_6f9b376f26e95160450b299aea933034" type="Folder">1</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation">Jul 1948</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_33da2b33d9245fd05da869bcc04a0b4a" label="Mixed Materials [31142042275910]" type="Box">1</container><container id="aspace_93724c61fade679e06a934bbd10198d7" parent="aspace_33da2b33d9245fd05da869bcc04a0b4a" type="Folder">2</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation">Aug 1948</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_982de376d9867d8c15e9f0e2b65a0fa4" label="Mixed Materials [31142042275910]" type="Box">1</container><container id="aspace_532824a52bff8700bffe2174af69dcc3" parent="aspace_982de376d9867d8c15e9f0e2b65a0fa4" type="Folder">3</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation">Sep 1948</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_b57bd097dc304efe6245dc6104562498" label="Mixed Materials [31142042275910]" type="Box">1</container><container id="aspace_695904f645d1257c6b1bc9b28b588d25" parent="aspace_b57bd097dc304efe6245dc6104562498" type="Folder">4</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation">Oct-Nov 1948</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_0f01ec3a667ab710ed8135be1e19ebcd" label="Mixed Materials [31142042275910]" type="Box">1</container><container id="aspace_767d9699d695a64d9391c2036673aa06" parent="aspace_0f01ec3a667ab710ed8135be1e19ebcd" type="Folder">5</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation">Jun 1949-Aug 1950</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_5199c11aa35543f8189a024c91655c74" label="Mixed Materials [31142042275910]" type="Box">1</container><container id="aspace_b3e9e571dcfda9e8171b8cddf8bfd377" parent="aspace_5199c11aa35543f8189a024c91655c74" type="Folder">6</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_597ef1357c300cecb751659bd53c99ce" label="Mixed Materials [31142042275910]" type="Box">1</container><container id="aspace_0b75dceac2e85e5d9457e7074fb4d7fd" parent="aspace_597ef1357c300cecb751659bd53c99ce" type="Folder">7</container></did></c></c><c id="aspace_ref31" level="series"><did><unittitle>Series II: Minutes, December 1947 - January 1949</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_05398678b8123b5c0651c9c95d6fd268"><head>Scope and Contents note</head><p>9 folders, arranged chronologically. This series mainly consists of minutes generated during Project conferences and meetings. The papers, which highlight planning details and methodology of fieldwork investigation, include agendas, minutes, research categories, work plans and notes. Several reports referenced in the minutes are also included.</p></scopecontent><c id="aspace_ref32" level="file"><did><unittitle>Typescript minutes, notes, ephemera</unittitle><unitdate datechar="creation">Dec 1947-Feb 1948</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_4cce29e94f600a9e3cd386fbc5be43d3" label="Mixed Materials [31142042275910]" type="Box">1</container><container id="aspace_8c1ac6834b5b01e87ba1369cfdeb09b7" parent="aspace_4cce29e94f600a9e3cd386fbc5be43d3" type="Folder">8</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Proposed conference agenda, research categories</unittitle><unitdate datechar="creation">May 1948</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_83b8b12e854159c0851498a276f5da4d" label="Mixed Materials [31142042275910]" type="Box">1</container><container id="aspace_31c76015715a4b5e515560d661dbce80" parent="aspace_83b8b12e854159c0851498a276f5da4d" type="Folder">9</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Minutes, reports </unittitle><unitdate datechar="creation">May 1948</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_2cbf22a73c5b1a8a042d627c04569fc5" label="Mixed Materials [31142042275910]" type="Box">1</container><container id="aspace_84f87f0b7619bb52eef1f9c92a239fa8" parent="aspace_2cbf22a73c5b1a8a042d627c04569fc5" type="Folder">10</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Minutes, community studies form, notes</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">May 1948-June 1948, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_628386806a40b067875c50bb1e10a12e" label="Mixed Materials [31142042275910]" type="Box">1</container><container id="aspace_4a22345e7abdff4b5ab40e5e31cfb637" parent="aspace_628386806a40b067875c50bb1e10a12e" type="Folder">11</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Notes (handwritten)</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">May 1948, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_d374e2836eaa52e564370f4e230e4978" label="Mixed Materials [31142042275910]" type="Box">1</container><container id="aspace_bedd78641363135fcf0cd66fcdaf1849" parent="aspace_d374e2836eaa52e564370f4e230e4978" type="Folder">12</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Typescript minutes</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">May 1948-Jun 1948, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_056d59bad46b9cb1c4231ceefc03962f" label="Mixed Materials [31142042275910]" type="Box">1</container><container id="aspace_ecb1973b6f4fb044e5a6d88b8435bdf5" parent="aspace_056d59bad46b9cb1c4231ceefc03962f" type="Folder">13</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Typescript minutes, notes</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">Jun 1948-Jul 1948, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_aba86eb6b760d2a294035f7febb80556" label="Mixed Materials [31142042275910]" type="Box">1</container><container id="aspace_13f8150d323628f99ae4190cd0a45190" parent="aspace_aba86eb6b760d2a294035f7febb80556" type="Folder">14</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Typescript and handwritten minutes</unittitle><unitdate datechar="creation">Jul 1948</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_a84c8c57d3c604649aff6745a2e09432" label="Mixed Materials [31142042275910]" type="Box">1</container><container id="aspace_8a97dd1d9ad188d897ec359e93a62516" parent="aspace_a84c8c57d3c604649aff6745a2e09432" type="Folder">15</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Project meeting work plan, class taxonomy by community, comparative community data </unittitle><unitdate datechar="creation">Jan 1949</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_11cc063cb2452e9da22e1ca7026d965d" label="Mixed Materials [31142042275910]" type="Box">1</container><container id="aspace_b994bc8fe42e84f42beefb88f936f8aa" parent="aspace_11cc063cb2452e9da22e1ca7026d965d" type="Folder">16</container></did></c></c><c id="aspace_ref43" level="series"><did><unittitle>Series III: Interviews, August - October 1948, undated</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_b1d82c1108827b9287abfcc333eb9206"><head>Scope and Contents note</head><p>5 folders, arranged chronologically. This series consists of typescript field interviews conducted by Sidney Mintz and Charles Rosario, a student at the University of Puerto Rico. Coded to conform the Project hypotheses, the interviews address issues of land reform, labor patterns, race relations, religion, and culture.</p></scopecontent><c id="aspace_ref44" level="file"><did><unittitle>Instructions for use of questionnaire</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_7c38da1b6872dccdc9499112cd5f11f5" label="Mixed Materials [31142042275928]" type="Box">2</container><container id="aspace_f8edd7e891309cb1211cb2a695d5c3d0" parent="aspace_7c38da1b6872dccdc9499112cd5f11f5" type="Folder">1</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Interviews</unittitle><unitdate datechar="creation">Aug 1948</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_6ff5f789c610e6616eae9525369a824b" label="Mixed Materials [31142042275928]" type="Box">2</container><container id="aspace_9be6359896584b6e2aaa16d9251442b7" parent="aspace_6ff5f789c610e6616eae9525369a824b" type="Folder">2</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Interviews</unittitle><unitdate datechar="creation">Sep 1984</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_09424276dfd3edb97fe8c236c4c8f6f6" label="Mixed Materials [31142042275928]" type="Box">2</container><container id="aspace_f95aa87a9766cc420cf9a8a8529edfb4" parent="aspace_09424276dfd3edb97fe8c236c4c8f6f6" type="Folder">3</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Interviews</unittitle><unitdate datechar="creation">Oct 1948</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_baa9c51a0e534a0f7438f2e5403789a0" label="Mixed Materials [31142042275928]" type="Box">2</container><container id="aspace_88750d26f6a836b18c54266206f2d2a6" parent="aspace_baa9c51a0e534a0f7438f2e5403789a0" type="Folder">4</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Interview questionnaires (blank)</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_779dd6724ed738c89e13aff319c4b2bb" label="Mixed Materials [31142042275928]" type="Box">2</container><container id="aspace_66df16a3cc252e376da10a0952f685bb" parent="aspace_779dd6724ed738c89e13aff319c4b2bb" type="Folder">5</container></did></c></c><c id="aspace_ref51" level="series"><did><unittitle>Series IV: Journal Entries, January 1948 - April [1949?]</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_6756fafdea5e2fa2c3397f72d7e34ab2"><head>Scope and Contents note</head><p>Approximately .5 linear feet, arranged chronologically. This series is comprised of bilingual, typescript accounts of field observations that were originally maintained as a journal. Although most of the entries appear to have been submitted by Sidney Mintz and Charles Rosario, the bracketed question marks represent unauthored entries. A small journal kept by Elena Padilla Seda is also included.</p></scopecontent><c id="aspace_ref52" level="file"><did><unittitle>Journal Entires - unsigned</unittitle><unitdate datechar="creation">Jan 1948</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_bdc92e2ab1c43c6a3190b7aa64dd8aca" label="Mixed Materials [31142042275928]" type="Box">2</container><container id="aspace_8457124de7cb04de9e8633192510578c" parent="aspace_bdc92e2ab1c43c6a3190b7aa64dd8aca" type="Folder">6</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Descriptive and historic notes related to interviews, entries S. Mintz</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">Aug-Sep 1948, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_5a18c3ab86df74fcc6beca8c577b1f05" label="Mixed Materials [31142042275928]" type="Box">2</container><container id="aspace_78c96073cc815ba36e088074281d9018" parent="aspace_5a18c3ab86df74fcc6beca8c577b1f05" type="Folder">7</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Journal Entires, S. Mintz</unittitle><unitdate datechar="creation">Oct 1948</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_43f6dd5ce08c64c735ee0c4e4d2e71e0" label="Mixed Materials [31142042275928]" type="Box">2</container><container id="aspace_af146670bbb14deffc73d5562e03cc7f" parent="aspace_43f6dd5ce08c64c735ee0c4e4d2e71e0" type="Folder">8</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Journal Entires, S. Mintz</unittitle><unitdate datechar="creation">Oct 1948</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_c6922591f60cccabc38143b16d7a944e" label="Mixed Materials [31142042275928]" type="Box">2</container><container id="aspace_06e52de21c64d8abb1c65d6ab7ef3308" parent="aspace_c6922591f60cccabc38143b16d7a944e" type="Folder">9</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Journal Entires, S. Mintz</unittitle><unitdate datechar="creation">Oct 1948</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_8997fdc8306b3d197362f3fc81026c46" label="Mixed Materials [31142042275928]" type="Box">2</container><container id="aspace_0d9da8c2245757a1a71eadfb239d8330" parent="aspace_8997fdc8306b3d197362f3fc81026c46" type="Folder">10</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Journal Entires, C. Rosario</unittitle><unitdate datechar="creation">Oct-Nov 1948</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_2baad309ff77f763a88adab86f8a7457" label="Mixed Materials [31142042275928]" type="Box">2</container><container id="aspace_ac0465305d8c360f0d60df7d3ab15120" parent="aspace_2baad309ff77f763a88adab86f8a7457" type="Folder">11</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Journal Entires, S. Mintz</unittitle><unitdate datechar="creation">Nov 1948</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_16c9443c9caf538ce51afa9e58b2127a" label="Mixed Materials [31142042275928]" type="Box">2</container><container id="aspace_f009a1f10b8714f9be3a04527e6a331a" parent="aspace_16c9443c9caf538ce51afa9e58b2127a" type="Folder">12</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Journal Entires, S. Mintz</unittitle><unitdate datechar="creation">Nov 1948</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_1d8f16d54da9d3cffe3502e6fabf872c" label="Mixed Materials [31142042275928]" type="Box">2</container><container id="aspace_da9af0a1849c861cc39f92bea15a8988" parent="aspace_1d8f16d54da9d3cffe3502e6fabf872c" type="Folder">13</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Journal Entires, S. Mintz</unittitle><unitdate datechar="creation">Dec 1948</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_602f35602b7f2652a5809a06983acc7b" label="Mixed Materials [31142042275928]" type="Box">2</container><container id="aspace_66f03c14dc6ace215a2f960f1aede92e" parent="aspace_602f35602b7f2652a5809a06983acc7b" type="Folder">14</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>Journal Entires, C. Rosario [?]</unittitle><unitdate datechar="creation">Dec 1948</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_d77a1bbd5773be53ef287b62f22c3674" label="Mixed Materials [31142042275928]" type="Box">2</container><container id="aspace_2760054c6f163cf0319958b0a3a0a106" parent="aspace_d77a1bbd5773be53ef287b62f22c3674" type="Folder">15</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>Journal Entires, S. Mintz</unittitle><unitdate datechar="creation">Jan 1949</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_6cc1b1d2a873f696af5d1f55efaa918e" label="Mixed Materials [31142042275928]" type="Box">2</container><container id="aspace_fbf699d6c234f3e0e21d5da1478c964a" parent="aspace_6cc1b1d2a873f696af5d1f55efaa918e" type="Folder">16</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>Journal Entires, C. Rosario [?]</unittitle><unitdate datechar="creation">Jan 1949</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_ec283592c0d658c7aa70837f2b27c21f" label="Mixed Materials [31142042275928]" type="Box">2</container><container id="aspace_91582f9f107d6bd3bee8a346d3507f1f" parent="aspace_ec283592c0d658c7aa70837f2b27c21f" type="Folder">17</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>Journal Entires, C. Rosario [?]</unittitle><unitdate datechar="creation">Jan 1949</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_409d449e094a8aa6ba8012df885f47b4" label="Mixed Materials [31142042275928]" type="Box">2</container><container id="aspace_bf64d8564a35ddef829f17a687aa2806" parent="aspace_409d449e094a8aa6ba8012df885f47b4" type="Folder">18</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Journal Entires, C. Rosario [?]; small, partially used journal containing notes and drawings by Elena Padilla Seda </unittitle><unitdate datechar="creation">Feb 1948-Aug 1949</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_b911b20ae716e15cf030fad8d2983be7" label="Mixed Materials [31142042275928]" type="Box">2</container><container id="aspace_48ae33c4c981bd8f6be2b2f6b86da6fe" parent="aspace_b911b20ae716e15cf030fad8d2983be7" type="Folder">19</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>Journal Entires, C. Rosario [?]
-</unittitle><unitdate datechar="creation" normal="1949/1949" type="inclusive">April [1949?]</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_fb61a94597fff800a04553a91590b6ef" label="Mixed Materials [31142042275928]" type="Box">2</container><container id="aspace_a5895d044b68df31d54d4509bb90a3cf" parent="aspace_fb61a94597fff800a04553a91590b6ef" type="Folder">20</container></did></c></c><c id="aspace_ref69" level="series"><did><unittitle>Series V: Project Reports, 1946 - April 1950</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_07f4ba84b8e55779be0badbbed6d0442"><head>Scope and Contents note</head><p>1.0 linear feet arranged chronologically. This series features a number of typescript reports that have been organized as two subseries. Subseries A details the development of research hypotheses. Subseries B consists of statistical data, community studies and reference maps used in the study. Report titles appear in italics.</p></scopecontent><c id="aspace_ref70" level="subseries"><did><unittitle>Subseries A. Research Methodology</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref71" level="file"><did><unittitle>Correspondence, master lists of hypotheses</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">May-Jun 1948, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_bdc886bac7f1b1185ef7367cddb4381b" label="Mixed Materials [31142042275936]" type="Box">3</container><container id="aspace_3afef241de4ab2095e85405730d7ebdf" parent="aspace_bdc886bac7f1b1185ef7367cddb4381b" type="Folder">1</container></did></c><c id="aspace_ref72" level="file"><did><unittitle><emph render="italic">Criteria of Organization and Integration,</emph> Robert Armstrong, <emph render="italic">Third Sugar Community--Problem of Selection, Summary of Comparative Data</emph>  </unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">May 1948, undated</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container id="aspace_02d0999026778088888145664e727df9" label="Mixed Materials [31142042275936]" type="Box">3</container><container id="aspace_e29dfb345cff49fadf5109612fba93c6" parent="aspace_02d0999026778088888145664e727df9" type="Folder">2</container></did></c><c id="aspace_ref73" level="file"><did><unittitle>Untitled report regarding research categories; Quantitative data for localities [John Murra?]</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">Nov 1948, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_a037a3deb597bac8d59328c0153685a9" label="Mixed Materials [31142042275936]" type="Box">3</container><container id="aspace_56b41c489cb742a03d6e1f887588a5c6" parent="aspace_a037a3deb597bac8d59328c0153685a9" type="Folder">3</container></did></c></c><c id="aspace_ref74" level="subseries"><did><unittitle>Subseries B. Field Research</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref75" level="file"><did><unittitle>Statistical data; <emph render="italic">Programa De Trabajo</emph> [soil conservation map transferred to Series VIII, Oversized Materials], <emph render="italic">Plan De Trabajo from Distrito De Conservacion De Suelos Oeste</emph></unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">Nov 1946-Nov 1947</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container id="aspace_0342fede288ae8e7aaac68a73c771905" label="Mixed Materials [31142042275936]" type="Box">3</container><container id="aspace_61f3f9d5e62ce9e1ca3d7880042afeac" parent="aspace_0342fede288ae8e7aaac68a73c771905" type="Folder">4</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>Reports on local crops, land use, labor, population, and working conditions organized by research category</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">Jan 1948, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_aad49a120d0841a09fd37737e881bce7" label="Mixed Materials [31142042275936]" type="Box">3</container><container id="aspace_4bdc2296da7dad4595f9686ff7e82206" parent="aspace_aad49a120d0841a09fd37737e881bce7" type="Folder">5</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>Reports on Palmas Altas [one incomplete]; chilidren's artwork and writings; notes</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">Jan 1948-May 1949, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_6598da6167a8b1591f7729fc7c2281ff" label="Mixed Materials [31142042275936]" type="Box">3</container><container id="aspace_50e26c62660780e1d2b58c47dc827512" parent="aspace_6598da6167a8b1591f7729fc7c2281ff" type="Folder">6</container></did></c><c id="aspace_ref78" level="file"><did><unittitle><emph render="italic">Information Relative to Selection of Urban Industrial Community,</emph> statistical data, printed matter, notes</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">Apr-May 1948, undated</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container id="aspace_7a7fe36b4c109ff6dbc273cadf70a08e" label="Mixed Materials [31142042275936]" type="Box">3</container><container id="aspace_f093ad55f0374b5e59c97200c498f2ad" parent="aspace_7a7fe36b4c109ff6dbc273cadf70a08e" type="Folder">7</container></did></c><c id="aspace_ref79" level="file"><did><unittitle><emph render ="italic">Conversation with F. Romero Salvatore Consentino,</emph> National Labor Review Board (NLRB), and David Sachs </unittitle><unitdate datechar="creation">May 1948</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container id="aspace_88c8257498c93a4702efce9d9615d96b" label="Mixed Materials [31142042275936]" type="Box">3</container><container id="aspace_4e72174de48270fe6d9e155071419c29" parent="aspace_88c8257498c93a4702efce9d9615d96b" type="Folder">8</container></did></c><c id="aspace_ref80" level="file"><did><unittitle><emph render="italic">PIP Meeting at Quebradillas,</emph> notes</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">Jun 1948, undated</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container id="aspace_11e734193eef39acb0c0621cce14b85e" label="Mixed Materials [31142042275936]" type="Box">3</container><container id="aspace_45f2febb2dcc530bf91349196a7ed107" parent="aspace_11e734193eef39acb0c0621cce14b85e" type="Folder">9</container></did></c><c id="aspace_ref81" level="file"><did><unittitle>Special report on race, submitted by S. Mintz and C. Rosario</unittitle><unitdate datechar="creation">Aug 1948</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_6e1b9a340b7365faa51b019db050267a" label="Mixed Materials [31142042275936]" type="Box">3</container><container id="aspace_1e271a8cdf3a27f3b18d0718806e87bf" parent="aspace_6e1b9a340b7365faa51b019db050267a" type="Folder">10</container></did></c><c id="aspace_ref82" level="file"><did><unittitle>Bi-weekly reports submited by Eric Wolf, Angelina Saavedra de Rosa, Robert Manners and others</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">Aug-Dec 1948, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_ec1b01f4ce79c5adf98388d300169ec0" label="Mixed Materials [31142042275936]" type="Box">3</container><container id="aspace_3d0a761d2f7d32fe0957ac3853906f21" parent="aspace_ec1b01f4ce79c5adf98388d300169ec0" type="Folder">11</container></did></c><c id="aspace_ref83" level="file"><did><unittitle><emph render="italic">Some Thinking on National Culture,</emph> Eric Wolf: <emph render="italic">Puerto Rico and a National Culture,</emph> Bob Manners</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">Sep 1948, undated</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container id="aspace_848ba8c5a6b63fdeba68e0ac5a1f50c0" label="Mixed Materials [31142042275936]" type="Box">3</container><container id="aspace_1ce24b66b3f6d633205d732d0250e222" parent="aspace_848ba8c5a6b63fdeba68e0ac5a1f50c0" type="Folder">12</container></did></c><c id="aspace_ref84" level="file"><did><unittitle><emph render="italic">Costo de Cosecho por Tonelada</emph> Marzo 1946 - Zafra 1946</unittitle><unitdate datechar="creation">Dec 1948</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container id="aspace_633c869efaab4b4a16bd6f2cf4112818" label="Mixed Materials [31142042275936]" type="Box">3</container><container id="aspace_72e23a58361af4716836cf83e608093d" parent="aspace_633c869efaab4b4a16bd6f2cf4112818" type="Folder">13</container></did></c><c id="aspace_ref85" level="file"><did><unittitle>Reports on marketing, export crops, standard of living, economics, communications organized by </unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">Jan 1948-Feb 1949 , undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_242f49705e13682edcc0ca5fc228b03f" label="Mixed Materials [31142042275936]" type="Box">3</container><container id="aspace_c4fa43ce877cf706c9fb2866bb6c984e" parent="aspace_242f49705e13682edcc0ca5fc228b03f" type="Folder">14</container></did></c><c id="aspace_ref86" level="file"><did><unittitle>Draft theses, notes</unittitle><unitdate datechar="creation">Mar 1948-Apr 1950</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_92b5d836e92470baa95a1d67f9e6c944" label="Mixed Materials [31142042275936]" type="Box">3</container><container id="aspace_800d92013847aacb390225578c9b9a3f" parent="aspace_92b5d836e92470baa95a1d67f9e6c944" type="Folder">15</container></did></c><c id="aspace_ref87" level="file"><did><unittitle><emph render="italic">Concepts and Problems Under-lying Field Research</emph> [author unknown]</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container id="aspace_b8a6cd609ed5246ea4a221521e0f6cfe" label="Mixed Materials [31142042275936]" type="Box">3</container><container id="aspace_2689e8a06a24780fe4ce10d2d2b0dc3f" parent="aspace_b8a6cd609ed5246ea4a221521e0f6cfe" type="Folder">16</container></did></c><c id="aspace_ref88" level="file"><did><unittitle><emph render="italic">Information Relative to Urban and Industrial Communities in Puerto Rico</emph></unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container id="aspace_b66673198f6b72402e737f803cf37905" label="Mixed Materials [31142042275936]" type="Box">3</container><container id="aspace_60af4649432cd0139da6a5e8bf502a0f" parent="aspace_b66673198f6b72402e737f803cf37905" type="Folder">17</container></did></c><c id="aspace_ref89" level="file"><did><unittitle>Survey Report: Santa Isabel, S. Mintz</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_967c1a0e0b4467aa130eeed3080ec4bd" label="Mixed Materials [31142042275936]" type="Box">3</container><container id="aspace_8c88230ab04d35b7439d92f3ccc865d1" parent="aspace_967c1a0e0b4467aa130eeed3080ec4bd" type="Folder">18</container></did></c><c id="aspace_ref90" level="file"><did><unittitle><emph render="italic">Some Temporary Thinking on National Culture as an Area Problem</emph> [author unknown]</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container id="aspace_7052c04de70d47074525c24be27161c2" label="Mixed Materials [31142042275936]" type="Box">3</container><container id="aspace_1677279b15d71c82de819840e5460858" parent="aspace_7052c04de70d47074525c24be27161c2" type="Folder">19</container></did></c><c id="aspace_ref91" level="file"><did><unittitle>Details to be Observed [relates to children], Kay Wolf</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_29c3f64686dee7074507d48dc5983edc" label="Mixed Materials [31142042275936]" type="Box">3</container><container id="aspace_34ea2e37f7257b9526a1f67e17945344" parent="aspace_29c3f64686dee7074507d48dc5983edc" type="Folder">20</container></did></c><c id="aspace_ref92" level="file"><did><unittitle><emph render="italic">San Jose: A Coffee Growing Community, A Thumbnail Sketch,</emph> Eric Wolf </unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container id="aspace_69d934009bc0a72d0027bc0b155541c6" label="Mixed Materials [31142042275936]" type="Box">3</container><container id="aspace_4b5f3879c654208695b991080211068f" parent="aspace_69d934009bc0a72d0027bc0b155541c6" type="Folder">21</container></did></c><c id="aspace_ref93" level="file"><did><unittitle><emph render="italic">Azucar y Poblacion,</emph> [Sidney Mintz?]</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container id="aspace_f227aca2596a228fac9fe227d7ed66b0" label="Mixed Materials [31142042275936]" type="Box">3</container><container id="aspace_a70dd3855cb4d097afa5d9abc2785367" parent="aspace_f227aca2596a228fac9fe227d7ed66b0" type="Folder">22</container></did></c><c id="aspace_ref94" level="file"><did><unittitle><emph render="italic">Aspects and Interpretations of the Development and Function of Religion in Puerto Rico</emph> [author unknown]</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container id="aspace_947b09770ebd95130bd2705ca56ca100" label="Mixed Materials [31142042275944]" type="Box">4</container><container id="aspace_be60ad7cbe009e59a9a43d802d627a71" parent="aspace_947b09770ebd95130bd2705ca56ca100" type="Folder">1</container></did></c><c id="aspace_ref95" level="file"><did><unittitle><emph render="italic">Aspects and Interpretations of the Development and Functioning of Family in Puerto Rico</emph> [author unknown]</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container id="aspace_a3731f062f27b71afc2074a5bdca09cc" label="Mixed Materials [31142042275944]" type="Box">4</container><container id="aspace_7854b13397520cf4a01e2ec1572d24d1" parent="aspace_a3731f062f27b71afc2074a5bdca09cc" type="Folder">2</container></did></c><c id="aspace_ref96" level="file"><did><unittitle><emph render="italic">Description Geografica Del Municipo De Caguas,</emph> Ramon Granfa Cordova; handwritten notes</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container id="aspace_b1f856dfc983ada69f26113883737091" label="Mixed Materials [31142042275944]" type="Box">4</container><container id="aspace_13023a785eda44e943c399d8e17760dc" parent="aspace_b1f856dfc983ada69f26113883737091" type="Folder">3</container></did></c><c id="aspace_ref97" level="file"><did><unittitle><emph render="italic">Puerto Rico - Government and Politics, Fifty Years of American Rule</emph> [author unknown]</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container id="aspace_575457b3ec7d49089fe8e64a4c8bf45e" label="Mixed Materials [31142042275944]" type="Box">4</container><container id="aspace_a269d26a35ccb0e4d490033f85b56189" parent="aspace_575457b3ec7d49089fe8e64a4c8bf45e" type="Folder">4</container></did></c><c id="aspace_ref98" level="file"><did><unittitle>Summary of <emph render="italic">Hist. Politics Soc. De P.R.</emph> [author unknown]</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container id="aspace_2d6a2ba6db453eb7e7b883a6093b46eb" label="Mixed Materials [31142042275944]" type="Box">4</container><container id="aspace_ffacf3d3c3aaaaf67c7a0977b98ece96" parent="aspace_2d6a2ba6db453eb7e7b883a6093b46eb" type="Folder">5</container></did></c><c id="aspace_ref99" level="file"><did><unittitle>Research notes: Puerto Rico's government and political party system</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_4f1bb7c26fd27f65f6e886c18e5e7aff" label="Mixed Materials [31142042275944]" type="Box">4</container><container id="aspace_861db7857fcb5338f8b9e6e606a3a443" parent="aspace_4f1bb7c26fd27f65f6e886c18e5e7aff" type="Folder">6</container></did></c><c id="aspace_ref100" level="file"><did><unittitle>Research citations, <emph render="italic">The U.S. and P.R., Trial by Jury, The Civil Service System</emph></unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container id="aspace_40d35c9f8a5181641a71dbf75593b633" label="Mixed Materials [31142042275944]" type="Box">4</container><container id="aspace_617a2256383862623c18e1aed21b9ac6" parent="aspace_40d35c9f8a5181641a71dbf75593b633" type="Folder">7</container></did></c><c id="aspace_ref101" level="file"><did><unittitle>Research citations, <emph render="italic">The Study of Society,</emph> draft notes</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container id="aspace_24b2ed2db8bebd631b5069ab6159e545" label="Mixed Materials [31142042275944]" type="Box">4</container><container id="aspace_a180b102a6047c18dcde6cb67cc2b897" parent="aspace_24b2ed2db8bebd631b5069ab6159e545" type="Folder">8</container></did></c><c id="aspace_ref102" level="file"><did><unittitle><emph render="italic">The Local Upper Class</emph> [author unknown], draft notes</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container id="aspace_510777a6fd81c491c61604a6c7861193" label="Mixed Materials [31142042275944]" type="Box">4</container><container id="aspace_bca97621ee827ebeae2853b0e3ee6f2b" parent="aspace_510777a6fd81c491c61604a6c7861193" type="Folder">9</container></did></c><c id="aspace_ref103" level="file"><did><unittitle><emph render="italic">Discussion of Characteristics, Barrio Pozas</emph> [author unknown]; miscellaneous, incomplete reports  </unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container id="aspace_1950c01ba62e100eb5501131abe310e5" label="Mixed Materials [31142042275944]" type="Box">4</container><container id="aspace_e8fd2d3bc26f49a8580e5658f2195114" parent="aspace_1950c01ba62e100eb5501131abe310e5" type="Folder">10</container></did></c></c></c><c id="aspace_ref106" level="series"><did><unittitle>Series VI: Draft Manuscript Papers, 1948 - 1950, undated</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_a474d456398c50051bf73c19fb7c627a"><head>Scope and Contents note</head><p>Approximately .75 linear feet (1 AB, four folders), arranged chronologically. This series consists of a draft manuscript, that may represent efforts to organize the final report. Sequentially numbered and coded to conform to the Project hypotheses (see Series V. Project Reports, subseries a. Research Methodology), the manuscript is a compilation of journal entries, interviews and community studies. The following sections are missing: pp. 124 - 235, 236 - 304, 563 - 734, and 1412 - 1571.</p></scopecontent><c id="aspace_ref107" level="file"><did><unittitle>Draft Manuscripts: Introductory material</unittitle><unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949[?]</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_bd5e6ac665c71f6d231567e4b68c8504" label="Mixed Materials [31142042275944]" type="Box">4</container><container id="aspace_941c610d02b93bc0ca96a862b3a22b04" parent="aspace_bd5e6ac665c71f6d231567e4b68c8504" type="Folder">11</container></did></c><c id="aspace_ref108" level="file"><did><unittitle>Draft Manuscripts: pp. 447 - 476</unittitle><unitdate datechar="creation">Oct 1948</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_44dc2ab013803a99c2937047a461c8c5" label="Mixed Materials [31142042275944]" type="Box">4</container><container id="aspace_92b2265f961d576f78767bbe527a06b3" parent="aspace_44dc2ab013803a99c2937047a461c8c5" type="Folder">12</container></did></c><c id="aspace_ref109" level="file"><did><unittitle>Draft Manuscripts: pp. 477 - 493</unittitle><unitdate datechar="creation">Oct 1948</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_4e5d3e94a23183a055d4657f7506676d" label="Mixed Materials [31142042275944]" type="Box">4</container><container id="aspace_1f50dd8dbc0799b44449f8f551abb61d" parent="aspace_4e5d3e94a23183a055d4657f7506676d" type="Folder">13</container></did></c><c id="aspace_ref110" level="file"><did><unittitle>Draft Manuscripts: pp. 494 - 527</unittitle><unitdate datechar="creation">Oct 1948</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_e09a001dbb4cdb08ce85d53964e50a7f" label="Mixed Materials [31142042275944]" type="Box">4</container><container id="aspace_22b865e6edae97a08874aec87c4ea021" parent="aspace_e09a001dbb4cdb08ce85d53964e50a7f" type="Folder">14</container></did></c><c id="aspace_ref111" level="file"><did><unittitle>Draft Manuscripts: pp. 528 - 562</unittitle><unitdate datechar="creation">Oct 1948</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_45500aa57d4384ab14ccda8c194981ee" label="Mixed Materials [31142042275944]" type="Box">4</container><container id="aspace_55f376a3e26c4cb796b2654cf43fb578" parent="aspace_45500aa57d4384ab14ccda8c194981ee" type="Folder">15</container></did></c><c id="aspace_ref112" level="file"><did><unittitle>Draft Manuscripts: [Note: Fieldwork in Norcora], genealogical chart, pp. 946 - 1006</unittitle><unitdate datechar="creation">Jan 1949</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_46c68ba402cec78278645495dafe5ec6" label="Mixed Materials [31142042275944]" type="Box">4</container><container id="aspace_9730d16345c553b4c46f45443caf4474" parent="aspace_46c68ba402cec78278645495dafe5ec6" type="Folder">16</container></did></c><c id="aspace_ref113" level="file"><did><unittitle>Draft Manuscripts: pp. 1007 - 1063</unittitle><unitdate datechar="creation">Jan 1949</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_b06e36bb9f0bf799a0beefc64d9ce05b" label="Mixed Materials [31142042275944]" type="Box">4</container><container id="aspace_54142a768b8f65d1f711fd213a7a06e9" parent="aspace_b06e36bb9f0bf799a0beefc64d9ce05b" type="Folder">17</container></did></c><c id="aspace_ref114" level="file"><did><unittitle>Draft Manuscripts: pp. 1064 - 1100</unittitle><unitdate datechar="creation">Feb 1949</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_99942844eb88761df525f6ba411c9b50" label="Mixed Materials [31142042275951]" type="Box">5</container><container id="aspace_b5afd7fc8308c2047ff16ae8e5115ebe" parent="aspace_99942844eb88761df525f6ba411c9b50" type="Folder">1</container></did></c><c id="aspace_ref115" level="file"><did><unittitle>Draft Manuscripts: pp. 1101 - 1162</unittitle><unitdate datechar="creation">Feb 1949</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_abdec232e9cfd2dfc75225b1f9c8d873" label="Mixed Materials [31142042275951]" type="Box">5</container><container id="aspace_6d27e4038ec761e897724b8fc91ad4f6" parent="aspace_abdec232e9cfd2dfc75225b1f9c8d873" type="Folder">2</container></did></c><c id="aspace_ref116" level="file"><did><unittitle>Draft Manuscripts: pp. 1288 - 1367</unittitle><unitdate datechar="creation">Apr 1949</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_040a3cae59e8e22f728d8660f93a9f98" label="Mixed Materials [31142042275951]" type="Box">5</container><container id="aspace_5c6d0951dd881230ea20664724b7f7ea" parent="aspace_040a3cae59e8e22f728d8660f93a9f98" type="Folder">3</container></did></c><c id="aspace_ref117" level="file"><did><unittitle>Draft Manuscripts: Memo from JHS [Julian H. Steward] manuscript outline</unittitle><unitdate datechar="creation">Jul 1950</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_df6dc37e1c5ae2e6e436cc12b6899004" label="Mixed Materials [31142042275951]" type="Box">5</container><container id="aspace_a87605846103cebbab37f0a839302efb" parent="aspace_df6dc37e1c5ae2e6e436cc12b6899004" type="Folder">4</container></did></c></c><c id="aspace_ref120" level="series"><did><unittitle>Series VII: Miscellaneous Papers, Dec 1943; 1947 - Feb 1949, undated</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_350a927fe89d290467c5af3dfc42b178"><head>Scope and Contents note</head><p>.5 linear feet (1 AB). Arranged chronologically. This series contains varied materials, including printed matter, theatre advertisements, a photograph contact sheet and ephemera. Items of special interest include a form letter signed by former Puerto Rico governor Luis Munoz and political flyers.</p></scopecontent><c id="aspace_ref121" level="file"><did><unittitle>Form letter signed by former Governor Luis Munoz Marin</unittitle><unitdate datechar="creation">Dec. 1943</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_22cceffa0d59c5522cfd47cb5171b217" label="Mixed Materials [31142042275951]" type="Box">5</container><container id="aspace_e9f267f180b5b0c7cfcfff0eb44fb19e" parent="aspace_22cceffa0d59c5522cfd47cb5171b217" type="Folder">5</container></did></c><c id="aspace_ref122" level="file"><did><unittitle>Anthrolopogy-Sociology class calendar; outline, bibliography; essay on folk society, notes</unittitle><unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_c4b778604391f27121267d77368169a4" label="Mixed Materials [31142042275951]" type="Box">5</container><container id="aspace_7a3ef184ec54e3aff0c26e2213415ecf" parent="aspace_c4b778604391f27121267d77368169a4" type="Folder">6</container></did></c><c id="aspace_ref123" level="file"><did><unittitle>Programs for Teatro Taboas and Teatro Boringuen in Manati, Puerto Rico</unittitle><unitdate datechar="creation">Jun 1948-Jul 1948</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_a2a7574a8fe6d696f60d9dec62b88f0e" label="Mixed Materials [31142042275951]" type="Box">5</container><container id="aspace_e8801a3b6b8aae11e1d7a7099c661634" parent="aspace_a2a7574a8fe6d696f60d9dec62b88f0e" type="Folder">7</container></did></c><c id="aspace_ref124" level="file"><did><unittitle>Political flyers for <emph render="italic">Partido Independista Puertorriqueno</emph> in Cauguas, Puerto Rico; related voting material</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">Sep 1948 , undated</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container id="aspace_39b0c5be2bba2c548bee9b7a42136bcc" label="Mixed Materials [31142042275951]" type="Box">5</container><container id="aspace_debebd55d640b414360317ff73ba64e8" parent="aspace_39b0c5be2bba2c548bee9b7a42136bcc" type="Folder">8</container></did></c><c id="aspace_ref125" level="file"><did><unittitle>Brochures and print material detailing cooperative credit unions in Puerto Rico</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_7542ad633aca242e59a4c29d91087daa" label="Mixed Materials [31142042275951]" type="Box">5</container><container id="aspace_0334c50b3c1ebeeb55f7615220d8e2ea" parent="aspace_7542ad633aca242e59a4c29d91087daa" type="Folder">9</container></did></c><c id="aspace_ref126" level="file"><did><unittitle>Photo Contact sheet of children in urban setting</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_97228ff3cd01b8e7ae5c2544c82ca775" label="Mixed Materials [31142042275951]" type="Box">5</container><container id="aspace_08ff384b01a8dd98a574b3c517f13d60" parent="aspace_97228ff3cd01b8e7ae5c2544c82ca775" type="Folder">10</container></did></c><c id="aspace_ref127" level="file"><did><unittitle>Notes</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_addfa5502b7c7b5c9969f82cddb0df65" label="Mixed Materials [31142042275951]" type="Box">5</container><container id="aspace_46c826c5882e092b371add1fc1864490" parent="aspace_addfa5502b7c7b5c9969f82cddb0df65" type="Folder">11</container></did></c><c id="aspace_ref128" level="file"><did><unittitle>Notes</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_6c12805e394d9e365d39cbcc5e8369f8" label="Mixed Materials [31142042275951]" type="Box">5</container><container id="aspace_9466f7087209c88405eed9b63d0d1ded" parent="aspace_6c12805e394d9e365d39cbcc5e8369f8" type="Folder">12</container></did></c></c><c id="aspace_ref131" level="series"><did><unittitle>Series VIII: Maps, Mar 1944 - May 1946, undated</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_1c961b10c699b8cf0be9de94fcd668a6"><head>Scope and Contents note</head><p>1.0 linear feet (2 folders, 1 oversized box), arranged according to size. The oversized material in this series includes government, regional and land use maps of Puerto Rico. Hand drawn maps of local communities are also included.</p></scopecontent><c id="aspace_ref132" level="file"><did><unittitle><emph render="italic">Municipo Del Hormigueros,</emph> topographical map prepared by the Dept. of Interior</unittitle><unitdate datechar="creation">May 1946</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container id="aspace_c2df1e6803fc42352e55c73fa01b2d60" label="Mixed Materials [31142042275951]" type="Box">5</container><container id="aspace_184572b5365636057657675f32dff10d" parent="aspace_c2df1e6803fc42352e55c73fa01b2d60" type="Folder">13</container></did><odd id="aspace_86f7a1da903e1d6b38934c8c8085df1a"><head>Barcode</head><p>31142042275951</p></odd></c><c id="aspace_ref133" level="file"><did><unittitle><emph render="italic">Junta de Planificacion de Puerto Rico</emph>; hand drawn map of the <emph render="italic">General Configuration of the Agrarian Reform Society</emph></unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate><langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial><container id="aspace_a089e73c4b9cb72f53696437b246e6af" label="Mixed Materials [31142042275951]" type="Box">5</container><container id="aspace_580237c618073bfbcdda5d0592a1fa57" parent="aspace_a089e73c4b9cb72f53696437b246e6af" type="Folder">14</container></did><odd id="aspace_a2759f2eee105be2abf455557de4ba51"><head>Barcode</head><p>31142042275951</p></odd></c><c id="aspace_ref134" level="file"><did><unittitle><title render="italic">Oeste SC District Map, </title>U.S. Dept. of Conservation Service</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="OS Flat Box - 15.5" id="aspace_af5e2212c956552eba931650b3f65a78" label="Mixed Materials [31142062736817]" type="Box">6</container><container id="aspace_6b18f05dcdeaf62fa53e0ced294f9455" parent="aspace_af5e2212c956552eba931650b3f65a78" type="Item">1</container></did><odd id="aspace_5291739e5139fb57bf0709d1162b9a2e"><head>Barcode</head><p>31142042275977</p></odd></c><c id="aspace_ref135" level="file"><did><unittitle><title render="italic">Municipo De Camuy, </title>U.S. Geological Survey and the Dept. of the Interior</unittitle><unitdate datechar="creation">May 1946</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="OS Flat Box - 15.5" id="aspace_0605db399ec6e7d79a3726cfa2a56216" label="Mixed Materials [31142062736817]" type="Box">6</container><container id="aspace_70695e3a8311861cdf40c2c9c4de0186" parent="aspace_0605db399ec6e7d79a3726cfa2a56216" type="Item">2</container></did><odd id="aspace_5869a821e9ff36aee12c0c1ff8eec173"><head>Barcode</head><p>31142042275977</p></odd></c><c id="aspace_ref136" level="file"><did><unittitle>Hand drawn map of sugar cane farms</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="OS Flat Box - 15.5" id="aspace_715d8115d86e8c3528c33934582e9e34" label="Mixed Materials [31142062736817]" type="Box">6</container><container id="aspace_cdd6d38bdf352d2727497e006e6dfbdd" parent="aspace_715d8115d86e8c3528c33934582e9e34" type="Item">3</container></did><odd id="aspace_dcbaa225046d156b12b392ec7f8f2c50"><head>Barcode</head><p>31142042275977</p></odd></c><c id="aspace_ref137" level="file"><did><unittitle>Hand drawn map of Ciales</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="OS Flat Box - 15.5" id="aspace_01928d447f1ab6de5d1aceb4ed12251b" label="Mixed Materials [31142062736817]" type="Box">6</container><container id="aspace_ec22b378242730880169f30667d7ab81" parent="aspace_01928d447f1ab6de5d1aceb4ed12251b" type="Item">4</container></did><odd id="aspace_366ce764d5d4de8cab9ee456c355e5e8"><head>Barcode</head><p>31142042275977</p></odd></c><c id="aspace_ref138" level="file"><did><unittitle><title render="italic">Censo de Transito</title> [Traffic Map] of Puerto Rico, Dept. of the Interior</unittitle><unitdate datechar="creation">Mar 1944</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="OS Flat Box - 15.5" id="aspace_5eefe10cffdc8ebccd96f83443372e58" label="Mixed Materials [31142062736817]" type="Box">6</container><container id="aspace_07cb61afda3ded936732681e6d850e3f" parent="aspace_5eefe10cffdc8ebccd96f83443372e58" type="Item">5</container></did><odd id="aspace_9dc3de90769e80875b94420e7948fc61"><head>Barcode</head><p>31142042275977</p></odd></c><c id="aspace_ref139" level="file"><did><unittitle>Geographical survey maps of Florida and Ciales, Puerto Rico</unittitle><unitdate datechar="creation" normal="1946/1946" type="inclusive">1946</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="OS Flat Box - 15.5" id="aspace_df36cc9470e1d37d3261a22b01ee2285" label="Mixed Materials [31142062736817]" type="Box">6</container><container id="aspace_79b1258a816be98f5f37a57adf96a149" parent="aspace_df36cc9470e1d37d3261a22b01ee2285" type="Item">6</container></did><odd id="aspace_e8b96bc0ed9297b7fcbe0e479585cb22"><head>Barcode</head><p>31142042275977</p></odd></c><c id="aspace_ref140" level="file"><did><unittitle><title render="italic">Land Use Map of Puerto Rico</title> Puerto Rico Planning Board</unittitle><unitdate datechar="creation">Jun 1944</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="OS Flat Box - 15.5" id="aspace_ddc8f6261d65fd32f5adad272f9c0b18" label="Mixed Materials [31142062736817]" type="Box">6</container><container id="aspace_d3c376ccb1bf870815939ee378069851" parent="aspace_ddc8f6261d65fd32f5adad272f9c0b18" type="Item">7</container></did><odd id="aspace_f203faf56e1ccc46ca33538ea5ff2591"><head>Barcode</head><p>31142042275977</p></odd></c></c><c id="aspace_ref143" level="series"><did><unittitle>Appendix</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_92615c378b49d72cdebaa066684c9a58"><head>Scope and Contents note</head><p>Two additional monographs, a thesis and manuscript, formerly housed in the Library for Caribbean Research (LCR) at the Research Institute for the Study of Man, have been appended to the collection. These items provide document the fieldwork phase of the Project.</p></scopecontent><c id="aspace_ref144" level="file"><did><unittitle><title render="italic">Report on the Selection of a Community for Anthropological Study</title>, by Isabel S. Caro</unittitle><unitdate datechar="creation">Dec 1951</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Flat Box - 9.25" id="aspace_9ebddac8f45ed9b4b79b0d5cdf839857" label="Mixed Materials [31142062736825]" type="Box">7</container><container id="aspace_a64582e3dd2850c2bf82e2b787c5e168" parent="aspace_9ebddac8f45ed9b4b79b0d5cdf839857" type="Item">1</container></did></c><c id="aspace_ref145" level="file"><did><unittitle><title render="italic">Canamelar: The Subculture of a Rural Sugar Plantation Proletariat</title>, by Sidney Mintz</unittitle><unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Flat Box - 9.25" id="aspace_c1b17489dc44fbb2ef7beead5f72e773" label="Mixed Materials [31142062736825]" type="Box">7</container><container id="aspace_2859d8c2bdb058812328177a3c2ed563" parent="aspace_c1b17489dc44fbb2ef7beead5f72e773" type="Item">2</container></did></c><c id="aspace_1d7aefadb61a43f300ca745e145d3929" level="file"><did><unittitle>Unprocessed</unittitle><container altrender="Manuscript box - Legal" id="aspace_e0e6d76a7c8481217de573df390a080b" label="Mixed Materials [31142062901650]" type="Box">Shared University Archives 021</container></did></c></c></dsc>
-</archdesc>
+      <persname source="naf">Armstrong, Robert G., 1917-1987</persname>
+      <persname source="naf">Muñoz Marín, Luis, 1898-1980</persname>
+      <persname source="naf">Mintz, Sidney W. (Sidney Wilfred), 1922-2015</persname>
+      <persname source="naf">Manners, Robert A. (Robert Alan), 1913-1996</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref21" level="series">
+        <did>
+          <unittitle>Series I: Correspondence, April 1948 - August 1950, undated</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_24be27c348160d4b111766a1c7d31ba1">
+          <head>Scope and Contents note</head>
+          <p>7 folders, arranged chronologically. This series consists of incoming and outgoing letters between fieldworkers in Puerto Rico and field director John Murra in New York.</p>
+        </scopecontent>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation">Apr-Jun 1948</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_6f9b376f26e95160450b299aea933034" label="Mixed Materials [31142042275910]" type="Box">1</container>
+            <container id="aspace_ac2ff1a3501b092404026f33a2fc8fa8" parent="aspace_6f9b376f26e95160450b299aea933034" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation">Jul 1948</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_33da2b33d9245fd05da869bcc04a0b4a" label="Mixed Materials [31142042275910]" type="Box">1</container>
+            <container id="aspace_93724c61fade679e06a934bbd10198d7" parent="aspace_33da2b33d9245fd05da869bcc04a0b4a" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation">Aug 1948</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_982de376d9867d8c15e9f0e2b65a0fa4" label="Mixed Materials [31142042275910]" type="Box">1</container>
+            <container id="aspace_532824a52bff8700bffe2174af69dcc3" parent="aspace_982de376d9867d8c15e9f0e2b65a0fa4" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation">Sep 1948</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_b57bd097dc304efe6245dc6104562498" label="Mixed Materials [31142042275910]" type="Box">1</container>
+            <container id="aspace_695904f645d1257c6b1bc9b28b588d25" parent="aspace_b57bd097dc304efe6245dc6104562498" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation">Oct-Nov 1948</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_0f01ec3a667ab710ed8135be1e19ebcd" label="Mixed Materials [31142042275910]" type="Box">1</container>
+            <container id="aspace_767d9699d695a64d9391c2036673aa06" parent="aspace_0f01ec3a667ab710ed8135be1e19ebcd" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation">Jun 1949-Aug 1950</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_5199c11aa35543f8189a024c91655c74" label="Mixed Materials [31142042275910]" type="Box">1</container>
+            <container id="aspace_b3e9e571dcfda9e8171b8cddf8bfd377" parent="aspace_5199c11aa35543f8189a024c91655c74" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_597ef1357c300cecb751659bd53c99ce" label="Mixed Materials [31142042275910]" type="Box">1</container>
+            <container id="aspace_0b75dceac2e85e5d9457e7074fb4d7fd" parent="aspace_597ef1357c300cecb751659bd53c99ce" type="Folder">7</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref31" level="series">
+        <did>
+          <unittitle>Series II: Minutes, December 1947 - January 1949</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_05398678b8123b5c0651c9c95d6fd268">
+          <head>Scope and Contents note</head>
+          <p>9 folders, arranged chronologically. This series mainly consists of minutes generated during Project conferences and meetings. The papers, which highlight planning details and methodology of fieldwork investigation, include agendas, minutes, research categories, work plans and notes. Several reports referenced in the minutes are also included.</p>
+        </scopecontent>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Typescript minutes, notes, ephemera</unittitle>
+            <unitdate datechar="creation">Dec 1947-Feb 1948</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_4cce29e94f600a9e3cd386fbc5be43d3" label="Mixed Materials [31142042275910]" type="Box">1</container>
+            <container id="aspace_8c1ac6834b5b01e87ba1369cfdeb09b7" parent="aspace_4cce29e94f600a9e3cd386fbc5be43d3" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Proposed conference agenda, research categories</unittitle>
+            <unitdate datechar="creation">May 1948</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_83b8b12e854159c0851498a276f5da4d" label="Mixed Materials [31142042275910]" type="Box">1</container>
+            <container id="aspace_31c76015715a4b5e515560d661dbce80" parent="aspace_83b8b12e854159c0851498a276f5da4d" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Minutes, reports </unittitle>
+            <unitdate datechar="creation">May 1948</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_2cbf22a73c5b1a8a042d627c04569fc5" label="Mixed Materials [31142042275910]" type="Box">1</container>
+            <container id="aspace_84f87f0b7619bb52eef1f9c92a239fa8" parent="aspace_2cbf22a73c5b1a8a042d627c04569fc5" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Minutes, community studies form, notes</unittitle>
+            <unitdate datechar="creation" normal="1943/1951" type="inclusive">May 1948-June 1948, undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_628386806a40b067875c50bb1e10a12e" label="Mixed Materials [31142042275910]" type="Box">1</container>
+            <container id="aspace_4a22345e7abdff4b5ab40e5e31cfb637" parent="aspace_628386806a40b067875c50bb1e10a12e" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Notes (handwritten)</unittitle>
+            <unitdate datechar="creation" normal="1943/1951" type="inclusive">May 1948, undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_d374e2836eaa52e564370f4e230e4978" label="Mixed Materials [31142042275910]" type="Box">1</container>
+            <container id="aspace_bedd78641363135fcf0cd66fcdaf1849" parent="aspace_d374e2836eaa52e564370f4e230e4978" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Typescript minutes</unittitle>
+            <unitdate datechar="creation" normal="1943/1951" type="inclusive">May 1948-Jun 1948, undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_056d59bad46b9cb1c4231ceefc03962f" label="Mixed Materials [31142042275910]" type="Box">1</container>
+            <container id="aspace_ecb1973b6f4fb044e5a6d88b8435bdf5" parent="aspace_056d59bad46b9cb1c4231ceefc03962f" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Typescript minutes, notes</unittitle>
+            <unitdate datechar="creation" normal="1943/1951" type="inclusive">Jun 1948-Jul 1948, undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_aba86eb6b760d2a294035f7febb80556" label="Mixed Materials [31142042275910]" type="Box">1</container>
+            <container id="aspace_13f8150d323628f99ae4190cd0a45190" parent="aspace_aba86eb6b760d2a294035f7febb80556" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Typescript and handwritten minutes</unittitle>
+            <unitdate datechar="creation">Jul 1948</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_a84c8c57d3c604649aff6745a2e09432" label="Mixed Materials [31142042275910]" type="Box">1</container>
+            <container id="aspace_8a97dd1d9ad188d897ec359e93a62516" parent="aspace_a84c8c57d3c604649aff6745a2e09432" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Project meeting work plan, class taxonomy by community, comparative community data </unittitle>
+            <unitdate datechar="creation">Jan 1949</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_11cc063cb2452e9da22e1ca7026d965d" label="Mixed Materials [31142042275910]" type="Box">1</container>
+            <container id="aspace_b994bc8fe42e84f42beefb88f936f8aa" parent="aspace_11cc063cb2452e9da22e1ca7026d965d" type="Folder">16</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref43" level="series">
+        <did>
+          <unittitle>Series III: Interviews, August - October 1948, undated</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_b1d82c1108827b9287abfcc333eb9206">
+          <head>Scope and Contents note</head>
+          <p>5 folders, arranged chronologically. This series consists of typescript field interviews conducted by Sidney Mintz and Charles Rosario, a student at the University of Puerto Rico. Coded to conform the Project hypotheses, the interviews address issues of land reform, labor patterns, race relations, religion, and culture.</p>
+        </scopecontent>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Instructions for use of questionnaire</unittitle>
+            <unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_7c38da1b6872dccdc9499112cd5f11f5" label="Mixed Materials [31142042275928]" type="Box">2</container>
+            <container id="aspace_f8edd7e891309cb1211cb2a695d5c3d0" parent="aspace_7c38da1b6872dccdc9499112cd5f11f5" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Interviews</unittitle>
+            <unitdate datechar="creation">Aug 1948</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_6ff5f789c610e6616eae9525369a824b" label="Mixed Materials [31142042275928]" type="Box">2</container>
+            <container id="aspace_9be6359896584b6e2aaa16d9251442b7" parent="aspace_6ff5f789c610e6616eae9525369a824b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Interviews</unittitle>
+            <unitdate datechar="creation">Sep 1984</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_09424276dfd3edb97fe8c236c4c8f6f6" label="Mixed Materials [31142042275928]" type="Box">2</container>
+            <container id="aspace_f95aa87a9766cc420cf9a8a8529edfb4" parent="aspace_09424276dfd3edb97fe8c236c4c8f6f6" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Interviews</unittitle>
+            <unitdate datechar="creation">Oct 1948</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_baa9c51a0e534a0f7438f2e5403789a0" label="Mixed Materials [31142042275928]" type="Box">2</container>
+            <container id="aspace_88750d26f6a836b18c54266206f2d2a6" parent="aspace_baa9c51a0e534a0f7438f2e5403789a0" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Interview questionnaires (blank)</unittitle>
+            <unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_779dd6724ed738c89e13aff319c4b2bb" label="Mixed Materials [31142042275928]" type="Box">2</container>
+            <container id="aspace_66df16a3cc252e376da10a0952f685bb" parent="aspace_779dd6724ed738c89e13aff319c4b2bb" type="Folder">5</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref51" level="series">
+        <did>
+          <unittitle>Series IV: Journal Entries, January 1948 - April [1949?]</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_6756fafdea5e2fa2c3397f72d7e34ab2">
+          <head>Scope and Contents note</head>
+          <p>Approximately .5 linear feet, arranged chronologically. This series is comprised of bilingual, typescript accounts of field observations that were originally maintained as a journal. Although most of the entries appear to have been submitted by Sidney Mintz and Charles Rosario, the bracketed question marks represent unauthored entries. A small journal kept by Elena Padilla Seda is also included.</p>
+        </scopecontent>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Journal Entires - unsigned</unittitle>
+            <unitdate datechar="creation">Jan 1948</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_bdc92e2ab1c43c6a3190b7aa64dd8aca" label="Mixed Materials [31142042275928]" type="Box">2</container>
+            <container id="aspace_8457124de7cb04de9e8633192510578c" parent="aspace_bdc92e2ab1c43c6a3190b7aa64dd8aca" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Descriptive and historic notes related to interviews, entries S. Mintz</unittitle>
+            <unitdate datechar="creation" normal="1943/1951" type="inclusive">Aug-Sep 1948, undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_5a18c3ab86df74fcc6beca8c577b1f05" label="Mixed Materials [31142042275928]" type="Box">2</container>
+            <container id="aspace_78c96073cc815ba36e088074281d9018" parent="aspace_5a18c3ab86df74fcc6beca8c577b1f05" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Journal Entires, S. Mintz</unittitle>
+            <unitdate datechar="creation">Oct 1948</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_43f6dd5ce08c64c735ee0c4e4d2e71e0" label="Mixed Materials [31142042275928]" type="Box">2</container>
+            <container id="aspace_af146670bbb14deffc73d5562e03cc7f" parent="aspace_43f6dd5ce08c64c735ee0c4e4d2e71e0" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Journal Entires, S. Mintz</unittitle>
+            <unitdate datechar="creation">Oct 1948</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_c6922591f60cccabc38143b16d7a944e" label="Mixed Materials [31142042275928]" type="Box">2</container>
+            <container id="aspace_06e52de21c64d8abb1c65d6ab7ef3308" parent="aspace_c6922591f60cccabc38143b16d7a944e" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Journal Entires, S. Mintz</unittitle>
+            <unitdate datechar="creation">Oct 1948</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_8997fdc8306b3d197362f3fc81026c46" label="Mixed Materials [31142042275928]" type="Box">2</container>
+            <container id="aspace_0d9da8c2245757a1a71eadfb239d8330" parent="aspace_8997fdc8306b3d197362f3fc81026c46" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Journal Entires, C. Rosario</unittitle>
+            <unitdate datechar="creation">Oct-Nov 1948</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_2baad309ff77f763a88adab86f8a7457" label="Mixed Materials [31142042275928]" type="Box">2</container>
+            <container id="aspace_ac0465305d8c360f0d60df7d3ab15120" parent="aspace_2baad309ff77f763a88adab86f8a7457" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Journal Entires, S. Mintz</unittitle>
+            <unitdate datechar="creation">Nov 1948</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_16c9443c9caf538ce51afa9e58b2127a" label="Mixed Materials [31142042275928]" type="Box">2</container>
+            <container id="aspace_f009a1f10b8714f9be3a04527e6a331a" parent="aspace_16c9443c9caf538ce51afa9e58b2127a" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Journal Entires, S. Mintz</unittitle>
+            <unitdate datechar="creation">Nov 1948</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_1d8f16d54da9d3cffe3502e6fabf872c" label="Mixed Materials [31142042275928]" type="Box">2</container>
+            <container id="aspace_da9af0a1849c861cc39f92bea15a8988" parent="aspace_1d8f16d54da9d3cffe3502e6fabf872c" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Journal Entires, S. Mintz</unittitle>
+            <unitdate datechar="creation">Dec 1948</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_602f35602b7f2652a5809a06983acc7b" label="Mixed Materials [31142042275928]" type="Box">2</container>
+            <container id="aspace_66f03c14dc6ace215a2f960f1aede92e" parent="aspace_602f35602b7f2652a5809a06983acc7b" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Journal Entires, C. Rosario [?]</unittitle>
+            <unitdate datechar="creation">Dec 1948</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_d77a1bbd5773be53ef287b62f22c3674" label="Mixed Materials [31142042275928]" type="Box">2</container>
+            <container id="aspace_2760054c6f163cf0319958b0a3a0a106" parent="aspace_d77a1bbd5773be53ef287b62f22c3674" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Journal Entires, S. Mintz</unittitle>
+            <unitdate datechar="creation">Jan 1949</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_6cc1b1d2a873f696af5d1f55efaa918e" label="Mixed Materials [31142042275928]" type="Box">2</container>
+            <container id="aspace_fbf699d6c234f3e0e21d5da1478c964a" parent="aspace_6cc1b1d2a873f696af5d1f55efaa918e" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Journal Entires, C. Rosario [?]</unittitle>
+            <unitdate datechar="creation">Jan 1949</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_ec283592c0d658c7aa70837f2b27c21f" label="Mixed Materials [31142042275928]" type="Box">2</container>
+            <container id="aspace_91582f9f107d6bd3bee8a346d3507f1f" parent="aspace_ec283592c0d658c7aa70837f2b27c21f" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Journal Entires, C. Rosario [?]</unittitle>
+            <unitdate datechar="creation">Jan 1949</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_409d449e094a8aa6ba8012df885f47b4" label="Mixed Materials [31142042275928]" type="Box">2</container>
+            <container id="aspace_bf64d8564a35ddef829f17a687aa2806" parent="aspace_409d449e094a8aa6ba8012df885f47b4" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Journal Entires, C. Rosario [?]; small, partially used journal containing notes and drawings by Elena Padilla Seda </unittitle>
+            <unitdate datechar="creation">Feb 1948-Aug 1949</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_b911b20ae716e15cf030fad8d2983be7" label="Mixed Materials [31142042275928]" type="Box">2</container>
+            <container id="aspace_48ae33c4c981bd8f6be2b2f6b86da6fe" parent="aspace_b911b20ae716e15cf030fad8d2983be7" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Journal Entires, C. Rosario [?]
+</unittitle>
+            <unitdate datechar="creation" normal="1949/1949" type="inclusive">April [1949?]</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_fb61a94597fff800a04553a91590b6ef" label="Mixed Materials [31142042275928]" type="Box">2</container>
+            <container id="aspace_a5895d044b68df31d54d4509bb90a3cf" parent="aspace_fb61a94597fff800a04553a91590b6ef" type="Folder">20</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref69" level="series">
+        <did>
+          <unittitle>Series V: Project Reports, 1946 - April 1950</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_07f4ba84b8e55779be0badbbed6d0442">
+          <head>Scope and Contents note</head>
+          <p>1.0 linear feet arranged chronologically. This series features a number of typescript reports that have been organized as two subseries. Subseries A details the development of research hypotheses. Subseries B consists of statistical data, community studies and reference maps used in the study. Report titles appear in italics.</p>
+        </scopecontent>
+        <c id="aspace_ref70" level="subseries">
+          <did>
+            <unittitle>Subseries A. Research Methodology</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+          <c id="aspace_ref71" level="file">
+            <did>
+              <unittitle>Correspondence, master lists of hypotheses</unittitle>
+              <unitdate datechar="creation" normal="1943/1951" type="inclusive">May-Jun 1948, undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_bdc886bac7f1b1185ef7367cddb4381b" label="Mixed Materials [31142042275936]" type="Box">3</container>
+              <container id="aspace_3afef241de4ab2095e85405730d7ebdf" parent="aspace_bdc886bac7f1b1185ef7367cddb4381b" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref72" level="file">
+            <did>
+              <unittitle><emph render="italic">Criteria of Organization and Integration,</emph> Robert Armstrong, <emph render="italic">Third Sugar Community--Problem of Selection, Summary of Comparative Data</emph>  </unittitle>
+              <unitdate datechar="creation" normal="1943/1951" type="inclusive">May 1948, undated</unitdate>
+              <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+              <container id="aspace_02d0999026778088888145664e727df9" label="Mixed Materials [31142042275936]" type="Box">3</container>
+              <container id="aspace_e29dfb345cff49fadf5109612fba93c6" parent="aspace_02d0999026778088888145664e727df9" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref73" level="file">
+            <did>
+              <unittitle>Untitled report regarding research categories; Quantitative data for localities [John Murra?]</unittitle>
+              <unitdate datechar="creation" normal="1943/1951" type="inclusive">Nov 1948, undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_a037a3deb597bac8d59328c0153685a9" label="Mixed Materials [31142042275936]" type="Box">3</container>
+              <container id="aspace_56b41c489cb742a03d6e1f887588a5c6" parent="aspace_a037a3deb597bac8d59328c0153685a9" type="Folder">3</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref74" level="subseries">
+          <did>
+            <unittitle>Subseries B. Field Research</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+          <c id="aspace_ref75" level="file">
+            <did>
+              <unittitle>Statistical data; <emph render="italic">Programa De Trabajo</emph> [soil conservation map transferred to Series VIII, Oversized Materials], <emph render="italic">Plan De Trabajo from Distrito De Conservacion De Suelos Oeste</emph></unittitle>
+              <unitdate datechar="creation" normal="1943/1951" type="inclusive">Nov 1946-Nov 1947</unitdate>
+              <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+              <container id="aspace_0342fede288ae8e7aaac68a73c771905" label="Mixed Materials [31142042275936]" type="Box">3</container>
+              <container id="aspace_61f3f9d5e62ce9e1ca3d7880042afeac" parent="aspace_0342fede288ae8e7aaac68a73c771905" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref76" level="file">
+            <did>
+              <unittitle>Reports on local crops, land use, labor, population, and working conditions organized by research category</unittitle>
+              <unitdate datechar="creation" normal="1943/1951" type="inclusive">Jan 1948, undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_aad49a120d0841a09fd37737e881bce7" label="Mixed Materials [31142042275936]" type="Box">3</container>
+              <container id="aspace_4bdc2296da7dad4595f9686ff7e82206" parent="aspace_aad49a120d0841a09fd37737e881bce7" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref77" level="file">
+            <did>
+              <unittitle>Reports on Palmas Altas [one incomplete]; chilidren's artwork and writings; notes</unittitle>
+              <unitdate datechar="creation" normal="1943/1951" type="inclusive">Jan 1948-May 1949, undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_6598da6167a8b1591f7729fc7c2281ff" label="Mixed Materials [31142042275936]" type="Box">3</container>
+              <container id="aspace_50e26c62660780e1d2b58c47dc827512" parent="aspace_6598da6167a8b1591f7729fc7c2281ff" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref78" level="file">
+            <did>
+              <unittitle><emph render="italic">Information Relative to Selection of Urban Industrial Community,</emph> statistical data, printed matter, notes</unittitle>
+              <unitdate datechar="creation" normal="1943/1951" type="inclusive">Apr-May 1948, undated</unitdate>
+              <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+              <container id="aspace_7a7fe36b4c109ff6dbc273cadf70a08e" label="Mixed Materials [31142042275936]" type="Box">3</container>
+              <container id="aspace_f093ad55f0374b5e59c97200c498f2ad" parent="aspace_7a7fe36b4c109ff6dbc273cadf70a08e" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref79" level="file">
+            <did>
+              <unittitle><emph render="italic">Conversation with F. Romero Salvatore Consentino,</emph> National Labor Review Board (NLRB), and David Sachs </unittitle>
+              <unitdate datechar="creation">May 1948</unitdate>
+              <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+              <container id="aspace_88c8257498c93a4702efce9d9615d96b" label="Mixed Materials [31142042275936]" type="Box">3</container>
+              <container id="aspace_4e72174de48270fe6d9e155071419c29" parent="aspace_88c8257498c93a4702efce9d9615d96b" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref80" level="file">
+            <did>
+              <unittitle><emph render="italic">PIP Meeting at Quebradillas,</emph> notes</unittitle>
+              <unitdate datechar="creation" normal="1943/1951" type="inclusive">Jun 1948, undated</unitdate>
+              <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+              <container id="aspace_11e734193eef39acb0c0621cce14b85e" label="Mixed Materials [31142042275936]" type="Box">3</container>
+              <container id="aspace_45f2febb2dcc530bf91349196a7ed107" parent="aspace_11e734193eef39acb0c0621cce14b85e" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref81" level="file">
+            <did>
+              <unittitle>Special report on race, submitted by S. Mintz and C. Rosario</unittitle>
+              <unitdate datechar="creation">Aug 1948</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_6e1b9a340b7365faa51b019db050267a" label="Mixed Materials [31142042275936]" type="Box">3</container>
+              <container id="aspace_1e271a8cdf3a27f3b18d0718806e87bf" parent="aspace_6e1b9a340b7365faa51b019db050267a" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref82" level="file">
+            <did>
+              <unittitle>Bi-weekly reports submited by Eric Wolf, Angelina Saavedra de Rosa, Robert Manners and others</unittitle>
+              <unitdate datechar="creation" normal="1943/1951" type="inclusive">Aug-Dec 1948, undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_ec1b01f4ce79c5adf98388d300169ec0" label="Mixed Materials [31142042275936]" type="Box">3</container>
+              <container id="aspace_3d0a761d2f7d32fe0957ac3853906f21" parent="aspace_ec1b01f4ce79c5adf98388d300169ec0" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref83" level="file">
+            <did>
+              <unittitle><emph render="italic">Some Thinking on National Culture,</emph> Eric Wolf: <emph render="italic">Puerto Rico and a National Culture,</emph> Bob Manners</unittitle>
+              <unitdate datechar="creation" normal="1943/1951" type="inclusive">Sep 1948, undated</unitdate>
+              <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+              <container id="aspace_848ba8c5a6b63fdeba68e0ac5a1f50c0" label="Mixed Materials [31142042275936]" type="Box">3</container>
+              <container id="aspace_1ce24b66b3f6d633205d732d0250e222" parent="aspace_848ba8c5a6b63fdeba68e0ac5a1f50c0" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref84" level="file">
+            <did>
+              <unittitle><emph render="italic">Costo de Cosecho por Tonelada</emph> Marzo 1946 - Zafra 1946</unittitle>
+              <unitdate datechar="creation">Dec 1948</unitdate>
+              <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+              <container id="aspace_633c869efaab4b4a16bd6f2cf4112818" label="Mixed Materials [31142042275936]" type="Box">3</container>
+              <container id="aspace_72e23a58361af4716836cf83e608093d" parent="aspace_633c869efaab4b4a16bd6f2cf4112818" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref85" level="file">
+            <did>
+              <unittitle>Reports on marketing, export crops, standard of living, economics, communications organized by </unittitle>
+              <unitdate datechar="creation" normal="1943/1951" type="inclusive">Jan 1948-Feb 1949 , undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_242f49705e13682edcc0ca5fc228b03f" label="Mixed Materials [31142042275936]" type="Box">3</container>
+              <container id="aspace_c4fa43ce877cf706c9fb2866bb6c984e" parent="aspace_242f49705e13682edcc0ca5fc228b03f" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref86" level="file">
+            <did>
+              <unittitle>Draft theses, notes</unittitle>
+              <unitdate datechar="creation">Mar 1948-Apr 1950</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_92b5d836e92470baa95a1d67f9e6c944" label="Mixed Materials [31142042275936]" type="Box">3</container>
+              <container id="aspace_800d92013847aacb390225578c9b9a3f" parent="aspace_92b5d836e92470baa95a1d67f9e6c944" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref87" level="file">
+            <did>
+              <unittitle><emph render="italic">Concepts and Problems Under-lying Field Research</emph> [author unknown]</unittitle>
+              <unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate>
+              <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+              <container id="aspace_b8a6cd609ed5246ea4a221521e0f6cfe" label="Mixed Materials [31142042275936]" type="Box">3</container>
+              <container id="aspace_2689e8a06a24780fe4ce10d2d2b0dc3f" parent="aspace_b8a6cd609ed5246ea4a221521e0f6cfe" type="Folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_ref88" level="file">
+            <did>
+              <unittitle>
+                <emph render="italic">Information Relative to Urban and Industrial Communities in Puerto Rico</emph>
+              </unittitle>
+              <unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate>
+              <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+              <container id="aspace_b66673198f6b72402e737f803cf37905" label="Mixed Materials [31142042275936]" type="Box">3</container>
+              <container id="aspace_60af4649432cd0139da6a5e8bf502a0f" parent="aspace_b66673198f6b72402e737f803cf37905" type="Folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_ref89" level="file">
+            <did>
+              <unittitle>Survey Report: Santa Isabel, S. Mintz</unittitle>
+              <unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_967c1a0e0b4467aa130eeed3080ec4bd" label="Mixed Materials [31142042275936]" type="Box">3</container>
+              <container id="aspace_8c88230ab04d35b7439d92f3ccc865d1" parent="aspace_967c1a0e0b4467aa130eeed3080ec4bd" type="Folder">18</container>
+            </did>
+          </c>
+          <c id="aspace_ref90" level="file">
+            <did>
+              <unittitle><emph render="italic">Some Temporary Thinking on National Culture as an Area Problem</emph> [author unknown]</unittitle>
+              <unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate>
+              <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+              <container id="aspace_7052c04de70d47074525c24be27161c2" label="Mixed Materials [31142042275936]" type="Box">3</container>
+              <container id="aspace_1677279b15d71c82de819840e5460858" parent="aspace_7052c04de70d47074525c24be27161c2" type="Folder">19</container>
+            </did>
+          </c>
+          <c id="aspace_ref91" level="file">
+            <did>
+              <unittitle>Details to be Observed [relates to children], Kay Wolf</unittitle>
+              <unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_29c3f64686dee7074507d48dc5983edc" label="Mixed Materials [31142042275936]" type="Box">3</container>
+              <container id="aspace_34ea2e37f7257b9526a1f67e17945344" parent="aspace_29c3f64686dee7074507d48dc5983edc" type="Folder">20</container>
+            </did>
+          </c>
+          <c id="aspace_ref92" level="file">
+            <did>
+              <unittitle><emph render="italic">San Jose: A Coffee Growing Community, A Thumbnail Sketch,</emph> Eric Wolf </unittitle>
+              <unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate>
+              <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+              <container id="aspace_69d934009bc0a72d0027bc0b155541c6" label="Mixed Materials [31142042275936]" type="Box">3</container>
+              <container id="aspace_4b5f3879c654208695b991080211068f" parent="aspace_69d934009bc0a72d0027bc0b155541c6" type="Folder">21</container>
+            </did>
+          </c>
+          <c id="aspace_ref93" level="file">
+            <did>
+              <unittitle><emph render="italic">Azucar y Poblacion,</emph> [Sidney Mintz?]</unittitle>
+              <unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate>
+              <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+              <container id="aspace_f227aca2596a228fac9fe227d7ed66b0" label="Mixed Materials [31142042275936]" type="Box">3</container>
+              <container id="aspace_a70dd3855cb4d097afa5d9abc2785367" parent="aspace_f227aca2596a228fac9fe227d7ed66b0" type="Folder">22</container>
+            </did>
+          </c>
+          <c id="aspace_ref94" level="file">
+            <did>
+              <unittitle><emph render="italic">Aspects and Interpretations of the Development and Function of Religion in Puerto Rico</emph> [author unknown]</unittitle>
+              <unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate>
+              <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+              <container id="aspace_947b09770ebd95130bd2705ca56ca100" label="Mixed Materials [31142042275944]" type="Box">4</container>
+              <container id="aspace_be60ad7cbe009e59a9a43d802d627a71" parent="aspace_947b09770ebd95130bd2705ca56ca100" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref95" level="file">
+            <did>
+              <unittitle><emph render="italic">Aspects and Interpretations of the Development and Functioning of Family in Puerto Rico</emph> [author unknown]</unittitle>
+              <unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate>
+              <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+              <container id="aspace_a3731f062f27b71afc2074a5bdca09cc" label="Mixed Materials [31142042275944]" type="Box">4</container>
+              <container id="aspace_7854b13397520cf4a01e2ec1572d24d1" parent="aspace_a3731f062f27b71afc2074a5bdca09cc" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref96" level="file">
+            <did>
+              <unittitle><emph render="italic">Description Geografica Del Municipo De Caguas,</emph> Ramon Granfa Cordova; handwritten notes</unittitle>
+              <unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate>
+              <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+              <container id="aspace_b1f856dfc983ada69f26113883737091" label="Mixed Materials [31142042275944]" type="Box">4</container>
+              <container id="aspace_13023a785eda44e943c399d8e17760dc" parent="aspace_b1f856dfc983ada69f26113883737091" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref97" level="file">
+            <did>
+              <unittitle><emph render="italic">Puerto Rico - Government and Politics, Fifty Years of American Rule</emph> [author unknown]</unittitle>
+              <unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate>
+              <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+              <container id="aspace_575457b3ec7d49089fe8e64a4c8bf45e" label="Mixed Materials [31142042275944]" type="Box">4</container>
+              <container id="aspace_a269d26a35ccb0e4d490033f85b56189" parent="aspace_575457b3ec7d49089fe8e64a4c8bf45e" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref98" level="file">
+            <did>
+              <unittitle>Summary of <emph render="italic">Hist. Politics Soc. De P.R.</emph> [author unknown]</unittitle>
+              <unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate>
+              <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+              <container id="aspace_2d6a2ba6db453eb7e7b883a6093b46eb" label="Mixed Materials [31142042275944]" type="Box">4</container>
+              <container id="aspace_ffacf3d3c3aaaaf67c7a0977b98ece96" parent="aspace_2d6a2ba6db453eb7e7b883a6093b46eb" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref99" level="file">
+            <did>
+              <unittitle>Research notes: Puerto Rico's government and political party system</unittitle>
+              <unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container id="aspace_4f1bb7c26fd27f65f6e886c18e5e7aff" label="Mixed Materials [31142042275944]" type="Box">4</container>
+              <container id="aspace_861db7857fcb5338f8b9e6e606a3a443" parent="aspace_4f1bb7c26fd27f65f6e886c18e5e7aff" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref100" level="file">
+            <did>
+              <unittitle>Research citations, <emph render="italic">The U.S. and P.R., Trial by Jury, The Civil Service System</emph></unittitle>
+              <unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate>
+              <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+              <container id="aspace_40d35c9f8a5181641a71dbf75593b633" label="Mixed Materials [31142042275944]" type="Box">4</container>
+              <container id="aspace_617a2256383862623c18e1aed21b9ac6" parent="aspace_40d35c9f8a5181641a71dbf75593b633" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref101" level="file">
+            <did>
+              <unittitle>Research citations, <emph render="italic">The Study of Society,</emph> draft notes</unittitle>
+              <unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate>
+              <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+              <container id="aspace_24b2ed2db8bebd631b5069ab6159e545" label="Mixed Materials [31142042275944]" type="Box">4</container>
+              <container id="aspace_a180b102a6047c18dcde6cb67cc2b897" parent="aspace_24b2ed2db8bebd631b5069ab6159e545" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref102" level="file">
+            <did>
+              <unittitle><emph render="italic">The Local Upper Class</emph> [author unknown], draft notes</unittitle>
+              <unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate>
+              <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+              <container id="aspace_510777a6fd81c491c61604a6c7861193" label="Mixed Materials [31142042275944]" type="Box">4</container>
+              <container id="aspace_bca97621ee827ebeae2853b0e3ee6f2b" parent="aspace_510777a6fd81c491c61604a6c7861193" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref103" level="file">
+            <did>
+              <unittitle><emph render="italic">Discussion of Characteristics, Barrio Pozas</emph> [author unknown]; miscellaneous, incomplete reports  </unittitle>
+              <unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate>
+              <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+              <container id="aspace_1950c01ba62e100eb5501131abe310e5" label="Mixed Materials [31142042275944]" type="Box">4</container>
+              <container id="aspace_e8fd2d3bc26f49a8580e5658f2195114" parent="aspace_1950c01ba62e100eb5501131abe310e5" type="Folder">10</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref106" level="series">
+        <did>
+          <unittitle>Series VI: Draft Manuscript Papers, 1948 - 1950, undated</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_a474d456398c50051bf73c19fb7c627a">
+          <head>Scope and Contents note</head>
+          <p>Approximately .75 linear feet (1 AB, four folders), arranged chronologically. This series consists of a draft manuscript, that may represent efforts to organize the final report. Sequentially numbered and coded to conform to the Project hypotheses (see Series V. Project Reports, subseries a. Research Methodology), the manuscript is a compilation of journal entries, interviews and community studies. The following sections are missing: pp. 124 - 235, 236 - 304, 563 - 734, and 1412 - 1571.</p>
+        </scopecontent>
+        <c id="aspace_ref107" level="file">
+          <did>
+            <unittitle>Draft Manuscripts: Introductory material</unittitle>
+            <unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949[?]</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_bd5e6ac665c71f6d231567e4b68c8504" label="Mixed Materials [31142042275944]" type="Box">4</container>
+            <container id="aspace_941c610d02b93bc0ca96a862b3a22b04" parent="aspace_bd5e6ac665c71f6d231567e4b68c8504" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="file">
+          <did>
+            <unittitle>Draft Manuscripts: pp. 447 - 476</unittitle>
+            <unitdate datechar="creation">Oct 1948</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_44dc2ab013803a99c2937047a461c8c5" label="Mixed Materials [31142042275944]" type="Box">4</container>
+            <container id="aspace_92b2265f961d576f78767bbe527a06b3" parent="aspace_44dc2ab013803a99c2937047a461c8c5" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>Draft Manuscripts: pp. 477 - 493</unittitle>
+            <unitdate datechar="creation">Oct 1948</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_4e5d3e94a23183a055d4657f7506676d" label="Mixed Materials [31142042275944]" type="Box">4</container>
+            <container id="aspace_1f50dd8dbc0799b44449f8f551abb61d" parent="aspace_4e5d3e94a23183a055d4657f7506676d" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="file">
+          <did>
+            <unittitle>Draft Manuscripts: pp. 494 - 527</unittitle>
+            <unitdate datechar="creation">Oct 1948</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_e09a001dbb4cdb08ce85d53964e50a7f" label="Mixed Materials [31142042275944]" type="Box">4</container>
+            <container id="aspace_22b865e6edae97a08874aec87c4ea021" parent="aspace_e09a001dbb4cdb08ce85d53964e50a7f" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>Draft Manuscripts: pp. 528 - 562</unittitle>
+            <unitdate datechar="creation">Oct 1948</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_45500aa57d4384ab14ccda8c194981ee" label="Mixed Materials [31142042275944]" type="Box">4</container>
+            <container id="aspace_55f376a3e26c4cb796b2654cf43fb578" parent="aspace_45500aa57d4384ab14ccda8c194981ee" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="file">
+          <did>
+            <unittitle>Draft Manuscripts: [Note: Fieldwork in Norcora], genealogical chart, pp. 946 - 1006</unittitle>
+            <unitdate datechar="creation">Jan 1949</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_46c68ba402cec78278645495dafe5ec6" label="Mixed Materials [31142042275944]" type="Box">4</container>
+            <container id="aspace_9730d16345c553b4c46f45443caf4474" parent="aspace_46c68ba402cec78278645495dafe5ec6" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref113" level="file">
+          <did>
+            <unittitle>Draft Manuscripts: pp. 1007 - 1063</unittitle>
+            <unitdate datechar="creation">Jan 1949</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_b06e36bb9f0bf799a0beefc64d9ce05b" label="Mixed Materials [31142042275944]" type="Box">4</container>
+            <container id="aspace_54142a768b8f65d1f711fd213a7a06e9" parent="aspace_b06e36bb9f0bf799a0beefc64d9ce05b" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="file">
+          <did>
+            <unittitle>Draft Manuscripts: pp. 1064 - 1100</unittitle>
+            <unitdate datechar="creation">Feb 1949</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_99942844eb88761df525f6ba411c9b50" label="Mixed Materials [31142042275951]" type="Box">5</container>
+            <container id="aspace_b5afd7fc8308c2047ff16ae8e5115ebe" parent="aspace_99942844eb88761df525f6ba411c9b50" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="file">
+          <did>
+            <unittitle>Draft Manuscripts: pp. 1101 - 1162</unittitle>
+            <unitdate datechar="creation">Feb 1949</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_abdec232e9cfd2dfc75225b1f9c8d873" label="Mixed Materials [31142042275951]" type="Box">5</container>
+            <container id="aspace_6d27e4038ec761e897724b8fc91ad4f6" parent="aspace_abdec232e9cfd2dfc75225b1f9c8d873" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref116" level="file">
+          <did>
+            <unittitle>Draft Manuscripts: pp. 1288 - 1367</unittitle>
+            <unitdate datechar="creation">Apr 1949</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_040a3cae59e8e22f728d8660f93a9f98" label="Mixed Materials [31142042275951]" type="Box">5</container>
+            <container id="aspace_5c6d0951dd881230ea20664724b7f7ea" parent="aspace_040a3cae59e8e22f728d8660f93a9f98" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref117" level="file">
+          <did>
+            <unittitle>Draft Manuscripts: Memo from JHS [Julian H. Steward] manuscript outline</unittitle>
+            <unitdate datechar="creation">Jul 1950</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_df6dc37e1c5ae2e6e436cc12b6899004" label="Mixed Materials [31142042275951]" type="Box">5</container>
+            <container id="aspace_a87605846103cebbab37f0a839302efb" parent="aspace_df6dc37e1c5ae2e6e436cc12b6899004" type="Folder">4</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref120" level="series">
+        <did>
+          <unittitle>Series VII: Miscellaneous Papers, Dec 1943; 1947 - Feb 1949, undated</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_350a927fe89d290467c5af3dfc42b178">
+          <head>Scope and Contents note</head>
+          <p>.5 linear feet (1 AB). Arranged chronologically. This series contains varied materials, including printed matter, theatre advertisements, a photograph contact sheet and ephemera. Items of special interest include a form letter signed by former Puerto Rico governor Luis Munoz and political flyers.</p>
+        </scopecontent>
+        <c id="aspace_ref121" level="file">
+          <did>
+            <unittitle>Form letter signed by former Governor Luis Munoz Marin</unittitle>
+            <unitdate datechar="creation">Dec. 1943</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_22cceffa0d59c5522cfd47cb5171b217" label="Mixed Materials [31142042275951]" type="Box">5</container>
+            <container id="aspace_e9f267f180b5b0c7cfcfff0eb44fb19e" parent="aspace_22cceffa0d59c5522cfd47cb5171b217" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref122" level="file">
+          <did>
+            <unittitle>Anthrolopogy-Sociology class calendar; outline, bibliography; essay on folk society, notes</unittitle>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_c4b778604391f27121267d77368169a4" label="Mixed Materials [31142042275951]" type="Box">5</container>
+            <container id="aspace_7a3ef184ec54e3aff0c26e2213415ecf" parent="aspace_c4b778604391f27121267d77368169a4" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref123" level="file">
+          <did>
+            <unittitle>Programs for Teatro Taboas and Teatro Boringuen in Manati, Puerto Rico</unittitle>
+            <unitdate datechar="creation">Jun 1948-Jul 1948</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_a2a7574a8fe6d696f60d9dec62b88f0e" label="Mixed Materials [31142042275951]" type="Box">5</container>
+            <container id="aspace_e8801a3b6b8aae11e1d7a7099c661634" parent="aspace_a2a7574a8fe6d696f60d9dec62b88f0e" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref124" level="file">
+          <did>
+            <unittitle>Political flyers for <emph render="italic">Partido Independista Puertorriqueno</emph> in Cauguas, Puerto Rico; related voting material</unittitle>
+            <unitdate datechar="creation" normal="1943/1951" type="inclusive">Sep 1948 , undated</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container id="aspace_39b0c5be2bba2c548bee9b7a42136bcc" label="Mixed Materials [31142042275951]" type="Box">5</container>
+            <container id="aspace_debebd55d640b414360317ff73ba64e8" parent="aspace_39b0c5be2bba2c548bee9b7a42136bcc" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref125" level="file">
+          <did>
+            <unittitle>Brochures and print material detailing cooperative credit unions in Puerto Rico</unittitle>
+            <unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_7542ad633aca242e59a4c29d91087daa" label="Mixed Materials [31142042275951]" type="Box">5</container>
+            <container id="aspace_0334c50b3c1ebeeb55f7615220d8e2ea" parent="aspace_7542ad633aca242e59a4c29d91087daa" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref126" level="file">
+          <did>
+            <unittitle>Photo Contact sheet of children in urban setting</unittitle>
+            <unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_97228ff3cd01b8e7ae5c2544c82ca775" label="Mixed Materials [31142042275951]" type="Box">5</container>
+            <container id="aspace_08ff384b01a8dd98a574b3c517f13d60" parent="aspace_97228ff3cd01b8e7ae5c2544c82ca775" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref127" level="file">
+          <did>
+            <unittitle>Notes</unittitle>
+            <unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_addfa5502b7c7b5c9969f82cddb0df65" label="Mixed Materials [31142042275951]" type="Box">5</container>
+            <container id="aspace_46c826c5882e092b371add1fc1864490" parent="aspace_addfa5502b7c7b5c9969f82cddb0df65" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref128" level="file">
+          <did>
+            <unittitle>Notes</unittitle>
+            <unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_6c12805e394d9e365d39cbcc5e8369f8" label="Mixed Materials [31142042275951]" type="Box">5</container>
+            <container id="aspace_9466f7087209c88405eed9b63d0d1ded" parent="aspace_6c12805e394d9e365d39cbcc5e8369f8" type="Folder">12</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref131" level="series">
+        <did>
+          <unittitle>Series VIII: Maps, Mar 1944 - May 1946, undated</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_1c961b10c699b8cf0be9de94fcd668a6">
+          <head>Scope and Contents note</head>
+          <p>1.0 linear feet (2 folders, 1 oversized box), arranged according to size. The oversized material in this series includes government, regional and land use maps of Puerto Rico. Hand drawn maps of local communities are also included.</p>
+        </scopecontent>
+        <c id="aspace_ref132" level="file">
+          <did>
+            <unittitle><emph render="italic">Municipo Del Hormigueros,</emph> topographical map prepared by the Dept. of Interior</unittitle>
+            <unitdate datechar="creation">May 1946</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container id="aspace_c2df1e6803fc42352e55c73fa01b2d60" label="Mixed Materials [31142042275951]" type="Box">5</container>
+            <container id="aspace_184572b5365636057657675f32dff10d" parent="aspace_c2df1e6803fc42352e55c73fa01b2d60" type="Folder">13</container>
+          </did>
+          <odd id="aspace_86f7a1da903e1d6b38934c8c8085df1a">
+            <head>Barcode</head>
+            <p>31142042275951</p>
+          </odd>
+        </c>
+        <c id="aspace_ref133" level="file">
+          <did>
+            <unittitle><emph render="italic">Junta de Planificacion de Puerto Rico</emph>; hand drawn map of the <emph render="italic">General Configuration of the Agrarian Reform Society</emph></unittitle>
+            <unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+            <container id="aspace_a089e73c4b9cb72f53696437b246e6af" label="Mixed Materials [31142042275951]" type="Box">5</container>
+            <container id="aspace_580237c618073bfbcdda5d0592a1fa57" parent="aspace_a089e73c4b9cb72f53696437b246e6af" type="Folder">14</container>
+          </did>
+          <odd id="aspace_a2759f2eee105be2abf455557de4ba51">
+            <head>Barcode</head>
+            <p>31142042275951</p>
+          </odd>
+        </c>
+        <c id="aspace_ref134" level="file">
+          <did>
+            <unittitle><title render="italic">Oeste SC District Map, </title>U.S. Dept. of Conservation Service</unittitle>
+            <unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="OS Flat Box - 15.5" id="aspace_af5e2212c956552eba931650b3f65a78" label="Mixed Materials [31142062736817]" type="Box">6</container>
+            <container id="aspace_6b18f05dcdeaf62fa53e0ced294f9455" parent="aspace_af5e2212c956552eba931650b3f65a78" type="Item">1</container>
+          </did>
+          <odd id="aspace_5291739e5139fb57bf0709d1162b9a2e">
+            <head>Barcode</head>
+            <p>31142042275977</p>
+          </odd>
+        </c>
+        <c id="aspace_ref135" level="file">
+          <did>
+            <unittitle><title render="italic">Municipo De Camuy, </title>U.S. Geological Survey and the Dept. of the Interior</unittitle>
+            <unitdate datechar="creation">May 1946</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="OS Flat Box - 15.5" id="aspace_0605db399ec6e7d79a3726cfa2a56216" label="Mixed Materials [31142062736817]" type="Box">6</container>
+            <container id="aspace_70695e3a8311861cdf40c2c9c4de0186" parent="aspace_0605db399ec6e7d79a3726cfa2a56216" type="Item">2</container>
+          </did>
+          <odd id="aspace_5869a821e9ff36aee12c0c1ff8eec173">
+            <head>Barcode</head>
+            <p>31142042275977</p>
+          </odd>
+        </c>
+        <c id="aspace_ref136" level="file">
+          <did>
+            <unittitle>Hand drawn map of sugar cane farms</unittitle>
+            <unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="OS Flat Box - 15.5" id="aspace_715d8115d86e8c3528c33934582e9e34" label="Mixed Materials [31142062736817]" type="Box">6</container>
+            <container id="aspace_cdd6d38bdf352d2727497e006e6dfbdd" parent="aspace_715d8115d86e8c3528c33934582e9e34" type="Item">3</container>
+          </did>
+          <odd id="aspace_dcbaa225046d156b12b392ec7f8f2c50">
+            <head>Barcode</head>
+            <p>31142042275977</p>
+          </odd>
+        </c>
+        <c id="aspace_ref137" level="file">
+          <did>
+            <unittitle>Hand drawn map of Ciales</unittitle>
+            <unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="OS Flat Box - 15.5" id="aspace_01928d447f1ab6de5d1aceb4ed12251b" label="Mixed Materials [31142062736817]" type="Box">6</container>
+            <container id="aspace_ec22b378242730880169f30667d7ab81" parent="aspace_01928d447f1ab6de5d1aceb4ed12251b" type="Item">4</container>
+          </did>
+          <odd id="aspace_366ce764d5d4de8cab9ee456c355e5e8">
+            <head>Barcode</head>
+            <p>31142042275977</p>
+          </odd>
+        </c>
+        <c id="aspace_ref138" level="file">
+          <did>
+            <unittitle><title render="italic">Censo de Transito</title> [Traffic Map] of Puerto Rico, Dept. of the Interior</unittitle>
+            <unitdate datechar="creation">Mar 1944</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="OS Flat Box - 15.5" id="aspace_5eefe10cffdc8ebccd96f83443372e58" label="Mixed Materials [31142062736817]" type="Box">6</container>
+            <container id="aspace_07cb61afda3ded936732681e6d850e3f" parent="aspace_5eefe10cffdc8ebccd96f83443372e58" type="Item">5</container>
+          </did>
+          <odd id="aspace_9dc3de90769e80875b94420e7948fc61">
+            <head>Barcode</head>
+            <p>31142042275977</p>
+          </odd>
+        </c>
+        <c id="aspace_ref139" level="file">
+          <did>
+            <unittitle>Geographical survey maps of Florida and Ciales, Puerto Rico</unittitle>
+            <unitdate datechar="creation" normal="1946/1946" type="inclusive">1946</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="OS Flat Box - 15.5" id="aspace_df36cc9470e1d37d3261a22b01ee2285" label="Mixed Materials [31142062736817]" type="Box">6</container>
+            <container id="aspace_79b1258a816be98f5f37a57adf96a149" parent="aspace_df36cc9470e1d37d3261a22b01ee2285" type="Item">6</container>
+          </did>
+          <odd id="aspace_e8b96bc0ed9297b7fcbe0e479585cb22">
+            <head>Barcode</head>
+            <p>31142042275977</p>
+          </odd>
+        </c>
+        <c id="aspace_ref140" level="file">
+          <did>
+            <unittitle><title render="italic">Land Use Map of Puerto Rico</title> Puerto Rico Planning Board</unittitle>
+            <unitdate datechar="creation">Jun 1944</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="OS Flat Box - 15.5" id="aspace_ddc8f6261d65fd32f5adad272f9c0b18" label="Mixed Materials [31142062736817]" type="Box">6</container>
+            <container id="aspace_d3c376ccb1bf870815939ee378069851" parent="aspace_ddc8f6261d65fd32f5adad272f9c0b18" type="Item">7</container>
+          </did>
+          <odd id="aspace_f203faf56e1ccc46ca33538ea5ff2591">
+            <head>Barcode</head>
+            <p>31142042275977</p>
+          </odd>
+        </c>
+      </c>
+      <c id="aspace_ref143" level="series">
+        <did>
+          <unittitle>Appendix</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_92615c378b49d72cdebaa066684c9a58">
+          <head>Scope and Contents note</head>
+          <p>Two additional monographs, a thesis and manuscript, formerly housed in the Library for Caribbean Research (LCR) at the Research Institute for the Study of Man, have been appended to the collection. These items provide document the fieldwork phase of the Project.</p>
+        </scopecontent>
+        <c id="aspace_ref144" level="file">
+          <did>
+            <unittitle><title render="italic">Report on the Selection of a Community for Anthropological Study</title>, by Isabel S. Caro</unittitle>
+            <unitdate datechar="creation">Dec 1951</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Flat Box - 9.25" id="aspace_9ebddac8f45ed9b4b79b0d5cdf839857" label="Mixed Materials [31142062736825]" type="Box">7</container>
+            <container id="aspace_a64582e3dd2850c2bf82e2b787c5e168" parent="aspace_9ebddac8f45ed9b4b79b0d5cdf839857" type="Item">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref145" level="file">
+          <did>
+            <unittitle><title render="italic">Canamelar: The Subculture of a Rural Sugar Plantation Proletariat</title>, by Sidney Mintz</unittitle>
+            <unitdate datechar="creation" normal="1943/1951" type="inclusive">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Flat Box - 9.25" id="aspace_c1b17489dc44fbb2ef7beead5f72e773" label="Mixed Materials [31142062736825]" type="Box">7</container>
+            <container id="aspace_2859d8c2bdb058812328177a3c2ed563" parent="aspace_c1b17489dc44fbb2ef7beead5f72e773" type="Item">2</container>
+          </did>
+        </c>
+        <c id="aspace_1d7aefadb61a43f300ca745e145d3929" level="file">
+          <did>
+            <unittitle>Unprocessed</unittitle>
+            <container altrender="Manuscript box - Legal" id="aspace_e0e6d76a7c8481217de573df390a080b" label="Mixed Materials [31142062901650]" type="Box">Shared University Archives 021</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

@@ -1,61 +1,799 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/pe_044">pe_044</eadid><filedesc><titlestmt><titleproper>Guide to the Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on the Industrial Workers of the World <num>PE.044</num></titleproper><author>Mei Tuggle, Adrien Hilton</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 06:58:22 -0400</date>.</creation><langusage>Description is in English</langusage></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on the Industrial Workers of the World</unittitle>
-    <origination label="Creator">
-      <corpname authfilenumber="(lccn)n50068362" source="naf">Tamiment Library</corpname>
-    </origination>
-    <origination label="source">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/pe_044">pe_044</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on the Industrial Workers of the World <num>PE.044</num></titleproper>
+        <author>Mei Tuggle, Adrien Hilton</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 06:58:22 -0400</date>.</creation>
+      <langusage>Description is in English</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on the Industrial Workers of the World</unittitle>
+      <origination label="Creator">
+        <corpname authfilenumber="(lccn)n50068362" source="naf">Tamiment Library</corpname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Sherwood, Susan Parker</persname>
+      </origination>
+      <unitid>PE.044</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+        <extent altrender="carrier">(2 boxes)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1905/2005" type="inclusive">1905-2005</unitdate>
+      <abstract id="aspace_aecfd77d6a7349ffd2af9f4e92119a21">The Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on the Industrial Workers of the World is an articial collection, collected and assembled by the Tamiment Library over the course of several decades. It features the publications, pamphlets, news articles, and convention reports of the Industrial Workers of the World (IWW), a labor organization founded in 1905 in Chicago. The IWW fought for increased wages, better working conditions, and fewer hours by attempting to organize workers from all industry lines around the country.</abstract>
+      <langmaterial id="aspace_4c14da856e99aba06dfee33073da3217">Materials are in English</langmaterial>
+    </did>
+    <accessrestrict id="aspace_73e057fcd717bcc858cda2b212999d3f">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <userestrict id="aspace_b0248596cfb31cdff9453de324612c1c">
+      <head>Conditions Governing Use</head>
+      <p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. Tamiment Library and Robert F. Wagner Archives is not authorized to grant permission to publish or reproduce materials from this collection.</p>
+    </userestrict>
+    <prefercite id="aspace_9ce18b795e889857f8266d725c22c627">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <processinfo id="aspace_3a28290e3486543516b081ca115094c2">
+      <head>Processing Information</head>
+      <p>Material in the general files originated from several different sources. However, the material from the New York Branch came in as a separate collection.</p>
+    </processinfo>
+    <arrangement id="aspace_6232b178ae7216c4071c58f73b9e7996">
+      <head>Arrangement</head>
+      <p>The collection is arranged into two series: Series I: General Files, 1905-2005; Series II: New York City Branch, 1905-1976. Folders are arranged alphabetically within series.</p>
+    </arrangement>
+    <scopecontent id="aspace_06efe9a3d78adb0b7b771975fba1af6b">
+      <head>Scope and Content Note</head>
+      <p>The collection is organized into two series. Series I contains the general files of the IWW. Series II was acquired from the IWW's New York City Branch.</p>
+      <p>Series I: General Files, 1905-2005, consists of pamphlets, fliers/leaflets, articles, circular letters, songbooks, and other material from various branches and committees, including the Starbucks Workers Union, Chicago Branch, New York General Membership Branch, Metal and Machinery Workers Union No. 440, and Coal Mine Workers Industrial Union No. 220. </p>
+      <p>Series II: New York City Branch, 1905-1976, consists of material acquired from the IWW's New York General Membership Branch, which includes various pamphlets, publications, news articles, fliers/leaflets, convention reports, and general records from the General Defense Committee, Centralia Publicity Committee, and One Big Union Workers' Bulletin. </p>
+    </scopecontent>
+    <bioghist id="aspace_681b5d36c200748902b27d49da96feb3">
+      <head>Historical/Biographical Note</head>
+      <p>The Industrial Workers of the World (IWW) was founded on June 27, 1905 in Chicago by representatives from 43 groups. The organization was established in response to the wage system of capitalism as well as the organizing methods of the American Federation of Labor. At its founding, the IWW sought to include all industrial workers in order to create One Big Union that would effectively gain better workers' rights, such as increased wages, fewer hours, and improved working conditions. Some of the founding leaders included Daniel De Leon of the Socialist Labor Party, William D. Haywood of the Western Federation of Miners, and Eugene V. Debs of the Socialist Party, who later withdrew his membership as the IWW became more radical. Although often employing militant tactics, the IWW also utilized protest methods that espoused the philosophy of "folded arms." In which they would withhold their labor from employers. Some methods of this included slow downs and massive sickouts. The IWW preferred "striking on the job" over traditional striking and picket lines as workers would often lose their jobs during strikes to scabs. In addition, many IWW members engaged in free speech fights. The IWW encouraged its members to openly recruit new members and voice grievances. They would consequently get arrested and put in jail—costing cities a lot of money. These methods proved effective as free speech bans were often lifted, such as in Spokane, WA in 1909. In 1912, the IWW had an estimated 50,000 members from various industries. In 1923, the IWW saw the height of its membership with roughly 100,000 members. In 1924, the IWW suffered a split due to two differing organizing visions, that of the centralists and the decentralists. The centralists called for the universalization of the IWW, eventually resulting in the IWW taking over the functions of the federal government. Meanwhile, the decentralists envisioned a free industrial society, in which independent local groups would organize and establish laws as they saw fit. After the 1924 split, the IWW saw a decline in membership, but continues to be active today.</p>
+    </bioghist>
+    <custodhist id="aspace_2a8c53218d262f381161a81744bfc589">
+      <head>Custodial History</head>
+      <p>The provenance of the materials is varied. Items were obtained through purchases, donations, standing orders with publishers, arrangements with labor unions and other organizations, exchanges with other libraries, and through ongoing collecting by Tamiment staff.</p>
+    </custodhist>
+    <acqinfo id="aspace_98143695f5ee1cd22d83f5f8f261b823">
+      <head>Immediate Source of Acquisition</head>
+      <p>Materials in this collection have been compiled by the Tamiment Library. The accession number associated with this collection is 1950.261.</p>
+      <p>Some materials were donated by Susan Parker Sherwood at an unknown date. The accession number associated with this gift is NPA.2003.058.</p>
+    </acqinfo>
+    <controlaccess>
+      <subject source="lcsh">Centralia Massacre, Centralia, Wash., 1919.</subject>
+      <subject source="lcsh">Syndicalism |z United States.</subject>
+      <subject source="lcsh">Political prisoners -- United States.</subject>
+      <corpname authfilenumber="(lccn)nr93047846" source="naf">Industrial Workers of the World. G.R.U. Branch (New York, N.Y.)</corpname>
+      <corpname authfilenumber="(lccn)n89612052" source="naf">Industrial Workers of the World. General Defense Committee</corpname>
+      <corpname authfilenumber="(lccn)n80079695" rules="dacs" source="naf">Industrial Workers of the World</corpname>
       <persname role="dnr" rules="dacs" source="local">Sherwood, Susan Parker</persname>
-    </origination>
-    <unitid>PE.044</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
-      <extent altrender="carrier">(2 boxes)</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1905/2005" type="inclusive">1905-2005</unitdate>
-    <abstract id="aspace_aecfd77d6a7349ffd2af9f4e92119a21">The Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on the Industrial Workers of the World is an articial collection, collected and assembled by the Tamiment Library over the course of several decades. It features the publications, pamphlets, news articles, and convention reports of the Industrial Workers of the World (IWW), a labor organization founded in 1905 in Chicago. The IWW fought for increased wages, better working conditions, and fewer hours by attempting to organize workers from all industry lines around the country.</abstract>
-    <langmaterial id="aspace_4c14da856e99aba06dfee33073da3217">Materials are in English</langmaterial>
-  </did>
-  <accessrestrict id="aspace_73e057fcd717bcc858cda2b212999d3f">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <userestrict id="aspace_b0248596cfb31cdff9453de324612c1c">
-    <head>Conditions Governing Use</head>
-<p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. Tamiment Library and Robert F. Wagner Archives is not authorized to grant permission to publish or reproduce materials from this collection.</p>  </userestrict>
-  <prefercite id="aspace_9ce18b795e889857f8266d725c22c627">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
-  <processinfo id="aspace_3a28290e3486543516b081ca115094c2">
-    <head>Processing Information</head>
-<p>Material in the general files originated from several different sources. However, the material from the New York Branch came in as a separate collection.</p>  </processinfo>
-  <arrangement id="aspace_6232b178ae7216c4071c58f73b9e7996">
-    <head>Arrangement</head>
-<p>The collection is arranged into two series: Series I: General Files, 1905-2005; Series II: New York City Branch, 1905-1976. Folders are arranged alphabetically within series.</p>  </arrangement>
-  <scopecontent id="aspace_06efe9a3d78adb0b7b771975fba1af6b">
-    <head>Scope and Content Note</head>
-<p>The collection is organized into two series. Series I contains the general files of the IWW. Series II was acquired from the IWW's New York City Branch.</p><p>Series I: General Files, 1905-2005, consists of pamphlets, fliers/leaflets, articles, circular letters, songbooks, and other material from various branches and committees, including the Starbucks Workers Union, Chicago Branch, New York General Membership Branch, Metal and Machinery Workers Union No. 440, and Coal Mine Workers Industrial Union No. 220. </p><p>Series II: New York City Branch, 1905-1976, consists of material acquired from the IWW's New York General Membership Branch, which includes various pamphlets, publications, news articles, fliers/leaflets, convention reports, and general records from the General Defense Committee, Centralia Publicity Committee, and One Big Union Workers' Bulletin. </p>  </scopecontent>
-  <bioghist id="aspace_681b5d36c200748902b27d49da96feb3">
-    <head>Historical/Biographical Note</head>
-<p>The Industrial Workers of the World (IWW) was founded on June 27, 1905 in Chicago by representatives from 43 groups. The organization was established in response to the wage system of capitalism as well as the organizing methods of the American Federation of Labor. At its founding, the IWW sought to include all industrial workers in order to create One Big Union that would effectively gain better workers' rights, such as increased wages, fewer hours, and improved working conditions. Some of the founding leaders included Daniel De Leon of the Socialist Labor Party, William D. Haywood of the Western Federation of Miners, and Eugene V. Debs of the Socialist Party, who later withdrew his membership as the IWW became more radical. Although often employing militant tactics, the IWW also utilized protest methods that espoused the philosophy of "folded arms." In which they would withhold their labor from employers. Some methods of this included slow downs and massive sickouts. The IWW preferred "striking on the job" over traditional striking and picket lines as workers would often lose their jobs during strikes to scabs. In addition, many IWW members engaged in free speech fights. The IWW encouraged its members to openly recruit new members and voice grievances. They would consequently get arrested and put in jail—costing cities a lot of money. These methods proved effective as free speech bans were often lifted, such as in Spokane, WA in 1909. In 1912, the IWW had an estimated 50,000 members from various industries. In 1923, the IWW saw the height of its membership with roughly 100,000 members. In 1924, the IWW suffered a split due to two differing organizing visions, that of the centralists and the decentralists. The centralists called for the universalization of the IWW, eventually resulting in the IWW taking over the functions of the federal government. Meanwhile, the decentralists envisioned a free industrial society, in which independent local groups would organize and establish laws as they saw fit. After the 1924 split, the IWW saw a decline in membership, but continues to be active today.</p>  </bioghist>
-  <custodhist id="aspace_2a8c53218d262f381161a81744bfc589">
-    <head>Custodial History</head>
-<p>The provenance of the materials is varied. Items were obtained through purchases, donations, standing orders with publishers, arrangements with labor unions and other organizations, exchanges with other libraries, and through ongoing collecting by Tamiment staff.</p>  </custodhist>
-  <acqinfo id="aspace_98143695f5ee1cd22d83f5f8f261b823">
-    <head>Immediate Source of Acquisition</head>
-<p>Materials in this collection have been compiled by the Tamiment Library. The accession number associated with this collection is 1950.261.</p><p>Some materials were donated by Susan Parker Sherwood at an unknown date. The accession number associated with this gift is NPA.2003.058.</p>  </acqinfo>
-  <controlaccess>
-    <subject source="lcsh">Centralia Massacre, Centralia, Wash., 1919.</subject>
-    <subject source="lcsh">Syndicalism |z United States.</subject>
-    <subject source="lcsh">Political prisoners -- United States.</subject>
-    <corpname authfilenumber="(lccn)nr93047846" source="naf">Industrial Workers of the World. G.R.U. Branch (New York, N.Y.)</corpname>
-    <corpname authfilenumber="(lccn)n89612052" source="naf">Industrial Workers of the World. General Defense Committee</corpname>
-    <corpname authfilenumber="(lccn)n80079695" rules="dacs" source="naf">Industrial Workers of the World</corpname>
-    <persname role="dnr" rules="dacs" source="local">Sherwood, Susan Parker</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref5" level="series"><did><unittitle>Series I: General Files, 1905-2005</unittitle><unitdate datechar="creation">1905-2005</unitdate></did><c id="aspace_ref8" level="file"><did><unittitle>Application for Membership</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_e3e78a3b40aa6970b0f043b06689fbba" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Articles and Newspaper Clippings </unittitle><unitdate datechar="creation" normal="1928/2005" type="inclusive">1928-2005, undated</unitdate><container altrender="Record carton" id="aspace_60d08bd2f1e5b9723a066e0516b938fb" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref10" level="item"><did><unittitle>Bibliographies</unittitle><unitdate datechar="creation" normal="1969/2005" type="inclusive">1969-2005, undated</unitdate><container altrender="Record carton" id="aspace_589086e9e5ebd786fa1f5bbe1b6dae9a" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Boston Area Local Branch</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_cff5f0a71a3b943bb3b88675a7bd0613" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Canada</unittitle><unitdate datechar="creation" normal="1924/1924" type="inclusive">1924</unitdate><container altrender="Record carton" id="aspace_0ee88a7247abe259b0a18831c44ff363" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref13" level="item"><did><unittitle>Cartoons</unittitle><unitdate datechar="creation" normal="1925/1987" type="inclusive">1925-1987, undated</unitdate><container altrender="Record carton" id="aspace_210dd5403ff2a001044e1b7a30e4ef2b" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref14" level="item"><did><unittitle>Chicago Branch</unittitle><unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate><container altrender="Record carton" id="aspace_ef8f7db5b8090b0ab568155d0c66f186" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Chicago General Membership Branch</unittitle><unitdate datechar="creation" normal="1976/1976" type="inclusive">1976, undated</unitdate><container altrender="Record carton" id="aspace_7fb798a8db2dc0b613d76e75978c2b2b" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref16" level="item"><did><unittitle>Circular Letters</unittitle><unitdate datechar="creation" normal="1964/1996" type="inclusive">1964-1996, undated</unitdate><container altrender="Record carton" id="aspace_e501f019c2aa5e97bd61f5a1151d4a71" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Coal Mine Workers Industrial Union, No. 220</unittitle><unitdate datechar="creation" normal="1929/1929" type="inclusive">1929</unitdate><container altrender="Record carton" id="aspace_9eb5549ae12a45067990ebf524511d90" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Collective Bargaining</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Record carton" id="aspace_23d13c08e423bfec8f9228603bed0b7f" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Conferences</unittitle><unitdate datechar="creation" normal="2005/2005" type="inclusive">2005</unitdate><container altrender="Record carton" id="aspace_986f1a36326eb5733c2a28de6415efbd" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Fliers and Leaflets</unittitle><unitdate datechar="creation" normal="1971/1990" type="inclusive">1971-1990, undated</unitdate><container altrender="Record carton" id="aspace_9085a5645000b509982088c522e64ca5" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Foodstuff Workers' Industrial Union, No. 460</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_86280a31633e6efe4150d4ecfe268cd0" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>General Defense Committee</unittitle><unitdate datechar="creation" normal="1973/1976" type="inclusive">1973-1976, undated</unitdate><container altrender="Record carton" id="aspace_ac994384c993428eb78b4c755ccd3324" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>General Organization Bulletin</unittitle><unitdate datechar="creation" normal="1987/1994" type="inclusive">1987-1994</unitdate><container altrender="Record carton" id="aspace_073d00d42e5cea078191ca44fbdeac07" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>General Organizing Committee</unittitle><unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate><container altrender="Record carton" id="aspace_9f963d3fbc28a402b957039e745b73a7" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>General Recruiting Union</unittitle><unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate><container altrender="Record carton" id="aspace_669d3130062fe196d4b2fbb480b54f64" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref26" level="item"><did><unittitle>General Referendum Ballot</unittitle><unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Record carton" id="aspace_179588a04b6cd0474adc1af828283c78" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Great Britain</unittitle><unitdate datechar="creation" normal="1980/1981" type="inclusive">1980-1981</unitdate><container altrender="Record carton" id="aspace_c33824e2e681d5a0be660b12e8c95221" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Hawaii</unittitle><unitdate datechar="creation" normal="1976/1978" type="inclusive">1976-1978</unitdate><container altrender="Record carton" id="aspace_b4c0ad1fdbf7eee65d04657f433d1e65" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Health Service Workers, No. 610</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_5fdc0b4229f6870c62ae78d57f185973" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>History/Structure</unittitle><unitdate datechar="creation" normal="1905/1919" type="inclusive">1905-1919, undated</unitdate><container altrender="Record carton" id="aspace_8eef328b1468a823853e05fc5cb725c6" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_a0cf943aed5a94c3b40ce92d27839acd" level="file"><did><unittitle>Industrial Union Manifesto</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_f7afe5ebf1ccc1b1f3a5f0a4399d21dc" label="Mixed Materials [31142062881985]" type="Box">Shared Tamiment 006</container><container id="aspace_b0351a056cf14e63617f65297160d9fd" parent="aspace_f7afe5ebf1ccc1b1f3a5f0a4399d21dc" type="Folder">13</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Industrial Transportation Project</unittitle><unitdate datechar="creation" normal="1990/2002" type="inclusive">1990-2002</unitdate><container altrender="Record carton" id="aspace_995e3c855d3b8b59b2002eb567c61901" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Labor History Calendar</unittitle><unitdate datechar="creation" normal="1995/2000" type="inclusive">1995-2000</unitdate><container altrender="Record carton" id="aspace_2b22937c6042a94c9da5a2055096b2d3" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Labor History Calendar (100th Anniversary of the Struggle for the 8-Hour Day)</unittitle><unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate><container altrender="Record carton" id="aspace_20591272e945cfd38761e7b32ed32718" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>LeHigh Valley</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate><container altrender="Record carton" id="aspace_0c5786dae2dcdb4236ef7864029467ec" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref109" level="file"><did><unittitle>Madison (WI)</unittitle><unitdate datechar="creation">2011</unitdate><container altrender="Record carton" id="aspace_965629296fe91c912dcb9f3b8574529c" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_82fb82cbe6863160b668eb4940caa450" level="file"><did><unittitle>Membership books</unittitle><unitdate datechar="creation" normal="1906/1949" type="inclusive">1906-1949</unitdate><container altrender="Record carton" id="aspace_3f119de8c5595df838128fc617cd66a3" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Metal and Machinery Workers Union, No. 440</unittitle><unitdate datechar="creation">1933, undated</unitdate><container altrender="Record carton" id="aspace_6507ea7ed79981b8b2b0f01ddf13a365" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>New York Branch I</unittitle><unitdate datechar="creation" normal="1971/1976" type="inclusive">1971-1976, undated</unitdate><container altrender="Record carton" id="aspace_2689fb5a8bb33184698b61bdf1a280e6" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>New York Branch II</unittitle><unitdate datechar="creation">1971-1972, undated</unitdate><container altrender="Record carton" id="aspace_0750778bfb2acb380e0c4ea8b802e098" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>New York General Membership Branch I</unittitle><unitdate datechar="creation">1973, undated</unitdate><container altrender="Record carton" id="aspace_16fdeae2ff1c7b88db676cbd41df4084" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>New York General Membership Branch II</unittitle><unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate><container altrender="Record carton" id="aspace_a200224ecbc795196c1b8578e16ec938" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>No. 450</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_c6c2e74962510456fd0ad3826522b4d7" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>NY Organizing Committee</unittitle><unitdate datechar="creation">1981-1982, undated</unitdate><container altrender="Record carton" id="aspace_3abb60369db08a0be034b58c6acfd0b6" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>One Big Union Job Committee</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_6f83d6e4ab60929668f206c00c43f5e5" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Organizing Manual</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Record carton" id="aspace_83b3954239f1bd3d159ab36144787e5c" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Pamphlets I</unittitle><unitdate datechar="creation">1905-1999, undated</unitdate><container altrender="Record carton" id="aspace_85e1162f882a746d790c8d5fcdb82933" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Pamphlets II</unittitle><unitdate datechar="creation">1979-1989, undated</unitdate><container altrender="Record carton" id="aspace_c73ea80432b0d17856f144c5f76ecd9d" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Pamphlets III</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_396f7274b57d8ea5eddfbe7f011e344a" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Preamble and Constitution</unittitle><unitdate datechar="creation" normal="1968/1993" type="inclusive">1968-1993, undated</unitdate><container altrender="Record carton" id="aspace_29d1807e64c4cb33a94c8e2082d5e262" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Publications Relating To</unittitle><unitdate datechar="creation" normal="1918/1918" type="inclusive">1918, undated</unitdate><container altrender="Record carton" id="aspace_ad8d7d88a9a215b5f32d370bd14c3394" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Publishing Bureau</unittitle><unitdate datechar="creation">1918, undated</unitdate><container altrender="Record carton" id="aspace_d1f2ae1b9f3fe99cfbcee4bbc51a65f1" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Railroad Workers Industrial Union, No 520</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_65d06456d4fcb50faf0b4d8c291e5c4a" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Rank-and-File Organizing Committee</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_1b3bc86a3d2a33bb8783a92e9bbdb2bc" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>San Fernando Valley State College Job Branch of 620</unittitle><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970, undated</unitdate><container altrender="Record carton" id="aspace_56afaf45c2e9a18673a7d7db3a63b7a4" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Shoe Workers Industrial Union Local 168 - Buccafori Defense Committee</unittitle><unitdate datechar="creation" normal="1911/1911" type="inclusive">1911</unitdate><container altrender="Record carton" id="aspace_a916dba2e7998b83ddfe9a7372666b4f" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Songbooks</unittitle><unitdate datechar="creation" normal="1953/1984" type="inclusive">1953-1984, undated</unitdate><container altrender="Record carton" id="aspace_580d781c3dd2cf5c047c4aeaa2351de9" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Starbucks Workers Union</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_4f8505191f63de2618b51d95b6c4f677" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Strike Support</unittitle><unitdate datechar="creation">1972, undated</unitdate><container altrender="Record carton" id="aspace_2eca193095ab38f4c1e17d91f1ea810b" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Tacoma-Olympia Branch</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Record carton" id="aspace_242c2d727d395ae634c3f2a4b264a703" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c></c><c id="aspace_ref6" level="series"><did><unittitle>Series II: New York City Branch, 1905-1976</unittitle><unitdate datechar="creation">1905-1976</unitdate></did><c id="aspace_ref58" level="file"><did><unittitle>Agricultural Workers Industrial Union, 110</unittitle><unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate><container altrender="Record carton" id="aspace_6e78df02b7459895cf3d2c4d0c55ee05" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Articles and Newspaper Clippings I</unittitle><unitdate datechar="creation" normal="1918/1971" type="inclusive">1918-1971</unitdate><container altrender="Record carton" id="aspace_8fe299c15c6a00a47c19cb33bb9a9a21" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Articles and Newspaper Clippings II</unittitle><unitdate datechar="creation" normal="1918/1918" type="inclusive">1918</unitdate><container altrender="Record carton" id="aspace_f67846a3730550f9235293b91a1b9ad6" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>Australia and New Zealand General Organizing Committee Bulletin</unittitle><unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate><container altrender="Record carton" id="aspace_df10f1f6105c05b20d754740bfa48127" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>Ballot Committee</unittitle><unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate><container altrender="Record carton" id="aspace_867d902bf21880e21691228087692714" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>Bibliographies</unittitle><unitdate datechar="creation" normal="1923/1970" type="inclusive">1923-1970, undated</unitdate><container altrender="Record carton" id="aspace_62ed00d76b363105367571cf5daabafc" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>Brot-Backer Der West Side: Branch 3, Local 46</unittitle><unitdate datechar="creation" normal="1908/1908" type="inclusive">1908</unitdate><container altrender="Record carton" id="aspace_4c4b156d81ae0da9c6f50146838c8cd3" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Cartoons and Stickers</unittitle><unitdate datechar="creation" normal="1932/1971" type="inclusive">1932-1971, undated</unitdate><container altrender="Record carton" id="aspace_41533575e9dd11c24108264d93b287cf" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>Centralia Publicity Committee</unittitle><unitdate datechar="creation" normal="1919/1928" type="inclusive">1919-1928, undated</unitdate><container altrender="Record carton" id="aspace_d33d2ce5b3cc15acfae28543ee19ad12" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>Circular Letters</unittitle><unitdate datechar="creation" normal="1959/1963" type="inclusive">1959-1963, undated</unitdate><container altrender="Record carton" id="aspace_b8f1c836dd242ff64ecdad8588cab972" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>Conventions</unittitle><unitdate datechar="creation" normal="1934/1936" type="inclusive">1934-1936</unitdate><container altrender="Record carton" id="aspace_178b3955c134faac3eb5a8a4f1810c5c" label="Mixed Materials [31142062770956]" type="Box">1</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1915/1959" type="inclusive">1915-1959, undated</unitdate><container altrender="Record carton" id="aspace_2c8d5c7fcea8c2b671162b36685348b0" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Fliers/Leaflets I</unittitle><unitdate datechar="creation" normal="1905/1945" type="inclusive">1905-1945, undated</unitdate><container altrender="Record carton" id="aspace_36b3fabccf97930529cee0ea6fc9f36c" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Fliers/Leaflets II</unittitle><unitdate datechar="creation" normal="1906/1962" type="inclusive">1906-1962, undated</unitdate><container altrender="Record carton" id="aspace_b05e0fbfa31f8102767144ff92daa450" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>General Construction Workers Industrial Union No. 310</unittitle><unitdate datechar="creation" normal="1924/1924" type="inclusive">1924</unitdate><container altrender="Record carton" id="aspace_689994de687e1d1cc9abbb0156c6ece4" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref73" level="file"><did><unittitle>General Defense Committee</unittitle><unitdate datechar="creation" normal="1919/1948" type="inclusive">1919-1948, undated</unitdate><container altrender="Record carton" id="aspace_df390581e164678cf9f70aa248084288" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>General Defense Committee: Defense Bulletin</unittitle><unitdate datechar="creation" normal="1924/1938" type="inclusive">1924-1938</unitdate><container altrender="Record carton" id="aspace_e66c06f2f8fcb4835f5980b2f17bc585" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>General Defense Committee: Defense News Service I</unittitle><unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate><container altrender="Record carton" id="aspace_8eaa2994d9f2134c4cad23cdb0c0976e" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>General Defense Committee: Defense News Service II</unittitle><unitdate datechar="creation" normal="1922/1925" type="inclusive">1922-1925</unitdate><container altrender="Record carton" id="aspace_8ca65800c1f1b5b036834ce34786fa06" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>General Defense Committee: General Defense Bulletin</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Record carton" id="aspace_3599e13647896a9ec508a2939d0411df" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>General Defense Committee: Workers Defense</unittitle><unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate><container altrender="Record carton" id="aspace_fd1d630bd2e43b4b131f6053571ac06d" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref79" level="file"><did><unittitle>General Executive Board</unittitle><unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate><container altrender="Record carton" id="aspace_bd4f3d9d05f370e7cc73aea48d87a615" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref80" level="file"><did><unittitle>General Labor Union</unittitle><unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate><container altrender="Record carton" id="aspace_352ea77dac15ab43dc2c3989deef971b" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref81" level="file"><did><unittitle>General Office Bulletin</unittitle><unitdate datechar="creation" normal="1923/1923" type="inclusive">1923</unitdate><container altrender="Record carton" id="aspace_32de96bbab33dcfceaff22beb10fb5e9" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref83" level="item"><did><unittitle>General Organization Bulletin</unittitle><unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record carton" id="aspace_c89fae6e2f536b3c0ebcf983ca72f6fa" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref84" level="file"><did><unittitle>General Recruiting Union</unittitle><unitdate datechar="creation" normal="1966/1967" type="inclusive">1966-1967, undated</unitdate><container altrender="Record carton" id="aspace_44d80d7a83e8593545965a8c89ab67a4" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref85" level="file"><did><unittitle>Los Angeles General Membership</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_386f3559e2021ed8507b91c92cc29712" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref86" level="file"><did><unittitle>Marine Transport Workers Industrial Union No. 510</unittitle><unitdate datechar="creation" normal="1936/1936" type="inclusive">1936</unitdate><container altrender="Record carton" id="aspace_fb50da30a368696b23cb64647dbb7c39" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref87" level="file"><did><unittitle>New York Defense Committee</unittitle><unitdate datechar="creation" normal="1919/1919" type="inclusive">1919</unitdate><container altrender="Record carton" id="aspace_f13b3343b2007f1575a4bd1df0851eb0" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref88" level="file"><did><unittitle>Notes</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_268e0e58759426786b51b7dc7de7e676" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref89" level="file"><did><unittitle>One Big Union (Canada)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_438079594bda5b8ca4c956306db870a5" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref90" level="file"><did><unittitle>One Big Union: Workers' Bulletin</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_1a3718deb9401c7398e0c328c0224441" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref91" level="file"><did><unittitle>Pamphlets I</unittitle><unitdate datechar="creation" normal="1957/1957" type="inclusive">1957, undated</unitdate><container altrender="Record carton" id="aspace_dbef8a25271ff749597473006f095590" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref92" level="file"><did><unittitle>Pamphlets II</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_654cead2d2294f2d7d49b626eb0204bd" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref93" level="file"><did><unittitle>Pamphlets III</unittitle><unitdate datechar="creation" normal="1918/1918" type="inclusive">1918, undated</unitdate><container altrender="Record carton" id="aspace_7fd0f6c76e0dc97e3b1f676f5d423716" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref94" level="file"><did><unittitle>Paterson Silk Workers Strike </unittitle><unitdate datechar="creation" normal="1913/1913" type="inclusive">1913, undated</unitdate><container altrender="Record carton" id="aspace_05016bf71e364b6b60365063233968ee" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref95" level="file"><did><unittitle>Postcards</unittitle><unitdate datechar="creation" normal="1919/1919" type="inclusive">1919</unitdate><container altrender="Record carton" id="aspace_b7b5fc503a35646c478637f526267a1b" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref96" level="file"><did><unittitle>Preamble and Constitution</unittitle><unitdate datechar="creation" normal="1905/1965" type="inclusive">1905-1965, undated</unitdate><container altrender="Record carton" id="aspace_c61054412aeff0ebcca47ce726c82242" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref97" level="file"><did><unittitle>Publications Bureau</unittitle><unitdate datechar="creation" normal="1918/1918" type="inclusive">1918, undated</unitdate><container altrender="Record carton" id="aspace_118abdf8ca7f94a5b705af2284fb9af7" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref98" level="file"><did><unittitle>Publications Relating To</unittitle><unitdate datechar="creation" normal="1906/1921" type="inclusive">1906-1921, undated</unitdate><container altrender="Record carton" id="aspace_b31d260d520ef62fdee76c438bfa2c5d" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref99" level="file"><did><unittitle>Seattle Joint Branches</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_402e13a26abec5db17237c2410b10244" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref100" level="file"><did><unittitle>Statement of J.B. Phelan (Political Prisoner)</unittitle><unitdate datechar="creation" normal="1919/1919" type="inclusive">1919</unitdate><container altrender="Record carton" id="aspace_97da9bb56f1046b2d7f466d8bbd9d611" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref101" level="file"><did><unittitle>Ticket (Social and Dance)</unittitle><unitdate datechar="creation" normal="1936/1936" type="inclusive">1936</unitdate><container altrender="Record carton" id="aspace_78120d9feb197ceed98a704ecbb80ac3" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref102" level="file"><did><unittitle>Trial Bulletin</unittitle><unitdate datechar="creation" normal="1918/1918" type="inclusive">1918</unitdate><container altrender="Record carton" id="aspace_2605407b8adacf70b154fa2cfacffd33" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c><c id="aspace_ref103" level="file"><did><unittitle>Workers' Defense Union</unittitle><unitdate datechar="creation" normal="1919/1920" type="inclusive">1919-1920</unitdate><container altrender="Record carton" id="aspace_6d99b76fb60553ecc69fe44b7b3d9d51" label="Mixed Materials [31142062770964]" type="Box">2</container></did></c></c></dsc>
-</archdesc>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref5" level="series">
+        <did>
+          <unittitle>Series I: General Files, 1905-2005</unittitle>
+          <unitdate datechar="creation">1905-2005</unitdate>
+        </did>
+        <c id="aspace_ref8" level="file">
+          <did>
+            <unittitle>Application for Membership</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_e3e78a3b40aa6970b0f043b06689fbba" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref9" level="file">
+          <did>
+            <unittitle>Articles and Newspaper Clippings </unittitle>
+            <unitdate datechar="creation" normal="1928/2005" type="inclusive">1928-2005, undated</unitdate>
+            <container altrender="Record carton" id="aspace_60d08bd2f1e5b9723a066e0516b938fb" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref10" level="item">
+          <did>
+            <unittitle>Bibliographies</unittitle>
+            <unitdate datechar="creation" normal="1969/2005" type="inclusive">1969-2005, undated</unitdate>
+            <container altrender="Record carton" id="aspace_589086e9e5ebd786fa1f5bbe1b6dae9a" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>Boston Area Local Branch</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_cff5f0a71a3b943bb3b88675a7bd0613" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>Canada</unittitle>
+            <unitdate datechar="creation" normal="1924/1924" type="inclusive">1924</unitdate>
+            <container altrender="Record carton" id="aspace_0ee88a7247abe259b0a18831c44ff363" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="item">
+          <did>
+            <unittitle>Cartoons</unittitle>
+            <unitdate datechar="creation" normal="1925/1987" type="inclusive">1925-1987, undated</unitdate>
+            <container altrender="Record carton" id="aspace_210dd5403ff2a001044e1b7a30e4ef2b" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="item">
+          <did>
+            <unittitle>Chicago Branch</unittitle>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+            <container altrender="Record carton" id="aspace_ef8f7db5b8090b0ab568155d0c66f186" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Chicago General Membership Branch</unittitle>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976, undated</unitdate>
+            <container altrender="Record carton" id="aspace_7fb798a8db2dc0b613d76e75978c2b2b" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="item">
+          <did>
+            <unittitle>Circular Letters</unittitle>
+            <unitdate datechar="creation" normal="1964/1996" type="inclusive">1964-1996, undated</unitdate>
+            <container altrender="Record carton" id="aspace_e501f019c2aa5e97bd61f5a1151d4a71" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Coal Mine Workers Industrial Union, No. 220</unittitle>
+            <unitdate datechar="creation" normal="1929/1929" type="inclusive">1929</unitdate>
+            <container altrender="Record carton" id="aspace_9eb5549ae12a45067990ebf524511d90" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Collective Bargaining</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container altrender="Record carton" id="aspace_23d13c08e423bfec8f9228603bed0b7f" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Conferences</unittitle>
+            <unitdate datechar="creation" normal="2005/2005" type="inclusive">2005</unitdate>
+            <container altrender="Record carton" id="aspace_986f1a36326eb5733c2a28de6415efbd" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Fliers and Leaflets</unittitle>
+            <unitdate datechar="creation" normal="1971/1990" type="inclusive">1971-1990, undated</unitdate>
+            <container altrender="Record carton" id="aspace_9085a5645000b509982088c522e64ca5" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Foodstuff Workers' Industrial Union, No. 460</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_86280a31633e6efe4150d4ecfe268cd0" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>General Defense Committee</unittitle>
+            <unitdate datechar="creation" normal="1973/1976" type="inclusive">1973-1976, undated</unitdate>
+            <container altrender="Record carton" id="aspace_ac994384c993428eb78b4c755ccd3324" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>General Organization Bulletin</unittitle>
+            <unitdate datechar="creation" normal="1987/1994" type="inclusive">1987-1994</unitdate>
+            <container altrender="Record carton" id="aspace_073d00d42e5cea078191ca44fbdeac07" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>General Organizing Committee</unittitle>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+            <container altrender="Record carton" id="aspace_9f963d3fbc28a402b957039e745b73a7" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>General Recruiting Union</unittitle>
+            <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+            <container altrender="Record carton" id="aspace_669d3130062fe196d4b2fbb480b54f64" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="item">
+          <did>
+            <unittitle>General Referendum Ballot</unittitle>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+            <container altrender="Record carton" id="aspace_179588a04b6cd0474adc1af828283c78" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Great Britain</unittitle>
+            <unitdate datechar="creation" normal="1980/1981" type="inclusive">1980-1981</unitdate>
+            <container altrender="Record carton" id="aspace_c33824e2e681d5a0be660b12e8c95221" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Hawaii</unittitle>
+            <unitdate datechar="creation" normal="1976/1978" type="inclusive">1976-1978</unitdate>
+            <container altrender="Record carton" id="aspace_b4c0ad1fdbf7eee65d04657f433d1e65" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Health Service Workers, No. 610</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_5fdc0b4229f6870c62ae78d57f185973" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>History/Structure</unittitle>
+            <unitdate datechar="creation" normal="1905/1919" type="inclusive">1905-1919, undated</unitdate>
+            <container altrender="Record carton" id="aspace_8eef328b1468a823853e05fc5cb725c6" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_a0cf943aed5a94c3b40ce92d27839acd" level="file">
+          <did>
+            <unittitle>Industrial Union Manifesto</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat OS Box 17" id="aspace_f7afe5ebf1ccc1b1f3a5f0a4399d21dc" label="Mixed Materials [31142062881985]" type="Box">Shared Tamiment 006</container>
+            <container id="aspace_b0351a056cf14e63617f65297160d9fd" parent="aspace_f7afe5ebf1ccc1b1f3a5f0a4399d21dc" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Industrial Transportation Project</unittitle>
+            <unitdate datechar="creation" normal="1990/2002" type="inclusive">1990-2002</unitdate>
+            <container altrender="Record carton" id="aspace_995e3c855d3b8b59b2002eb567c61901" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Labor History Calendar</unittitle>
+            <unitdate datechar="creation" normal="1995/2000" type="inclusive">1995-2000</unitdate>
+            <container altrender="Record carton" id="aspace_2b22937c6042a94c9da5a2055096b2d3" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Labor History Calendar (100th Anniversary of the Struggle for the 8-Hour Day)</unittitle>
+            <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+            <container altrender="Record carton" id="aspace_20591272e945cfd38761e7b32ed32718" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>LeHigh Valley</unittitle>
+            <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+            <container altrender="Record carton" id="aspace_0c5786dae2dcdb4236ef7864029467ec" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>Madison (WI)</unittitle>
+            <unitdate datechar="creation">2011</unitdate>
+            <container altrender="Record carton" id="aspace_965629296fe91c912dcb9f3b8574529c" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_82fb82cbe6863160b668eb4940caa450" level="file">
+          <did>
+            <unittitle>Membership books</unittitle>
+            <unitdate datechar="creation" normal="1906/1949" type="inclusive">1906-1949</unitdate>
+            <container altrender="Record carton" id="aspace_3f119de8c5595df838128fc617cd66a3" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Metal and Machinery Workers Union, No. 440</unittitle>
+            <unitdate datechar="creation">1933, undated</unitdate>
+            <container altrender="Record carton" id="aspace_6507ea7ed79981b8b2b0f01ddf13a365" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>New York Branch I</unittitle>
+            <unitdate datechar="creation" normal="1971/1976" type="inclusive">1971-1976, undated</unitdate>
+            <container altrender="Record carton" id="aspace_2689fb5a8bb33184698b61bdf1a280e6" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>New York Branch II</unittitle>
+            <unitdate datechar="creation">1971-1972, undated</unitdate>
+            <container altrender="Record carton" id="aspace_0750778bfb2acb380e0c4ea8b802e098" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>New York General Membership Branch I</unittitle>
+            <unitdate datechar="creation">1973, undated</unitdate>
+            <container altrender="Record carton" id="aspace_16fdeae2ff1c7b88db676cbd41df4084" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>New York General Membership Branch II</unittitle>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+            <container altrender="Record carton" id="aspace_a200224ecbc795196c1b8578e16ec938" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>No. 450</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_c6c2e74962510456fd0ad3826522b4d7" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>NY Organizing Committee</unittitle>
+            <unitdate datechar="creation">1981-1982, undated</unitdate>
+            <container altrender="Record carton" id="aspace_3abb60369db08a0be034b58c6acfd0b6" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>One Big Union Job Committee</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_6f83d6e4ab60929668f206c00c43f5e5" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Organizing Manual</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container altrender="Record carton" id="aspace_83b3954239f1bd3d159ab36144787e5c" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Pamphlets I</unittitle>
+            <unitdate datechar="creation">1905-1999, undated</unitdate>
+            <container altrender="Record carton" id="aspace_85e1162f882a746d790c8d5fcdb82933" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Pamphlets II</unittitle>
+            <unitdate datechar="creation">1979-1989, undated</unitdate>
+            <container altrender="Record carton" id="aspace_c73ea80432b0d17856f144c5f76ecd9d" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Pamphlets III</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_396f7274b57d8ea5eddfbe7f011e344a" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Preamble and Constitution</unittitle>
+            <unitdate datechar="creation" normal="1968/1993" type="inclusive">1968-1993, undated</unitdate>
+            <container altrender="Record carton" id="aspace_29d1807e64c4cb33a94c8e2082d5e262" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Publications Relating To</unittitle>
+            <unitdate datechar="creation" normal="1918/1918" type="inclusive">1918, undated</unitdate>
+            <container altrender="Record carton" id="aspace_ad8d7d88a9a215b5f32d370bd14c3394" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Publishing Bureau</unittitle>
+            <unitdate datechar="creation">1918, undated</unitdate>
+            <container altrender="Record carton" id="aspace_d1f2ae1b9f3fe99cfbcee4bbc51a65f1" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Railroad Workers Industrial Union, No 520</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_65d06456d4fcb50faf0b4d8c291e5c4a" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Rank-and-File Organizing Committee</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_1b3bc86a3d2a33bb8783a92e9bbdb2bc" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>San Fernando Valley State College Job Branch of 620</unittitle>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970, undated</unitdate>
+            <container altrender="Record carton" id="aspace_56afaf45c2e9a18673a7d7db3a63b7a4" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Shoe Workers Industrial Union Local 168 - Buccafori Defense Committee</unittitle>
+            <unitdate datechar="creation" normal="1911/1911" type="inclusive">1911</unitdate>
+            <container altrender="Record carton" id="aspace_a916dba2e7998b83ddfe9a7372666b4f" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Songbooks</unittitle>
+            <unitdate datechar="creation" normal="1953/1984" type="inclusive">1953-1984, undated</unitdate>
+            <container altrender="Record carton" id="aspace_580d781c3dd2cf5c047c4aeaa2351de9" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Starbucks Workers Union</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_4f8505191f63de2618b51d95b6c4f677" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Strike Support</unittitle>
+            <unitdate datechar="creation">1972, undated</unitdate>
+            <container altrender="Record carton" id="aspace_2eca193095ab38f4c1e17d91f1ea810b" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Tacoma-Olympia Branch</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Record carton" id="aspace_242c2d727d395ae634c3f2a4b264a703" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref6" level="series">
+        <did>
+          <unittitle>Series II: New York City Branch, 1905-1976</unittitle>
+          <unitdate datechar="creation">1905-1976</unitdate>
+        </did>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Agricultural Workers Industrial Union, 110</unittitle>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+            <container altrender="Record carton" id="aspace_6e78df02b7459895cf3d2c4d0c55ee05" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Articles and Newspaper Clippings I</unittitle>
+            <unitdate datechar="creation" normal="1918/1971" type="inclusive">1918-1971</unitdate>
+            <container altrender="Record carton" id="aspace_8fe299c15c6a00a47c19cb33bb9a9a21" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Articles and Newspaper Clippings II</unittitle>
+            <unitdate datechar="creation" normal="1918/1918" type="inclusive">1918</unitdate>
+            <container altrender="Record carton" id="aspace_f67846a3730550f9235293b91a1b9ad6" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Australia and New Zealand General Organizing Committee Bulletin</unittitle>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+            <container altrender="Record carton" id="aspace_df10f1f6105c05b20d754740bfa48127" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Ballot Committee</unittitle>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+            <container altrender="Record carton" id="aspace_867d902bf21880e21691228087692714" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Bibliographies</unittitle>
+            <unitdate datechar="creation" normal="1923/1970" type="inclusive">1923-1970, undated</unitdate>
+            <container altrender="Record carton" id="aspace_62ed00d76b363105367571cf5daabafc" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Brot-Backer Der West Side: Branch 3, Local 46</unittitle>
+            <unitdate datechar="creation" normal="1908/1908" type="inclusive">1908</unitdate>
+            <container altrender="Record carton" id="aspace_4c4b156d81ae0da9c6f50146838c8cd3" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Cartoons and Stickers</unittitle>
+            <unitdate datechar="creation" normal="1932/1971" type="inclusive">1932-1971, undated</unitdate>
+            <container altrender="Record carton" id="aspace_41533575e9dd11c24108264d93b287cf" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Centralia Publicity Committee</unittitle>
+            <unitdate datechar="creation" normal="1919/1928" type="inclusive">1919-1928, undated</unitdate>
+            <container altrender="Record carton" id="aspace_d33d2ce5b3cc15acfae28543ee19ad12" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Circular Letters</unittitle>
+            <unitdate datechar="creation" normal="1959/1963" type="inclusive">1959-1963, undated</unitdate>
+            <container altrender="Record carton" id="aspace_b8f1c836dd242ff64ecdad8588cab972" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Conventions</unittitle>
+            <unitdate datechar="creation" normal="1934/1936" type="inclusive">1934-1936</unitdate>
+            <container altrender="Record carton" id="aspace_178b3955c134faac3eb5a8a4f1810c5c" label="Mixed Materials [31142062770956]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1915/1959" type="inclusive">1915-1959, undated</unitdate>
+            <container altrender="Record carton" id="aspace_2c8d5c7fcea8c2b671162b36685348b0" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Fliers/Leaflets I</unittitle>
+            <unitdate datechar="creation" normal="1905/1945" type="inclusive">1905-1945, undated</unitdate>
+            <container altrender="Record carton" id="aspace_36b3fabccf97930529cee0ea6fc9f36c" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Fliers/Leaflets II</unittitle>
+            <unitdate datechar="creation" normal="1906/1962" type="inclusive">1906-1962, undated</unitdate>
+            <container altrender="Record carton" id="aspace_b05e0fbfa31f8102767144ff92daa450" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>General Construction Workers Industrial Union No. 310</unittitle>
+            <unitdate datechar="creation" normal="1924/1924" type="inclusive">1924</unitdate>
+            <container altrender="Record carton" id="aspace_689994de687e1d1cc9abbb0156c6ece4" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>General Defense Committee</unittitle>
+            <unitdate datechar="creation" normal="1919/1948" type="inclusive">1919-1948, undated</unitdate>
+            <container altrender="Record carton" id="aspace_df390581e164678cf9f70aa248084288" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>General Defense Committee: Defense Bulletin</unittitle>
+            <unitdate datechar="creation" normal="1924/1938" type="inclusive">1924-1938</unitdate>
+            <container altrender="Record carton" id="aspace_e66c06f2f8fcb4835f5980b2f17bc585" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>General Defense Committee: Defense News Service I</unittitle>
+            <unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate>
+            <container altrender="Record carton" id="aspace_8eaa2994d9f2134c4cad23cdb0c0976e" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>General Defense Committee: Defense News Service II</unittitle>
+            <unitdate datechar="creation" normal="1922/1925" type="inclusive">1922-1925</unitdate>
+            <container altrender="Record carton" id="aspace_8ca65800c1f1b5b036834ce34786fa06" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>General Defense Committee: General Defense Bulletin</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_3599e13647896a9ec508a2939d0411df" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>General Defense Committee: Workers Defense</unittitle>
+            <unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate>
+            <container altrender="Record carton" id="aspace_fd1d630bd2e43b4b131f6053571ac06d" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>General Executive Board</unittitle>
+            <unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate>
+            <container altrender="Record carton" id="aspace_bd4f3d9d05f370e7cc73aea48d87a615" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>General Labor Union</unittitle>
+            <unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate>
+            <container altrender="Record carton" id="aspace_352ea77dac15ab43dc2c3989deef971b" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>General Office Bulletin</unittitle>
+            <unitdate datechar="creation" normal="1923/1923" type="inclusive">1923</unitdate>
+            <container altrender="Record carton" id="aspace_32de96bbab33dcfceaff22beb10fb5e9" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="item">
+          <did>
+            <unittitle>General Organization Bulletin</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Record carton" id="aspace_c89fae6e2f536b3c0ebcf983ca72f6fa" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>General Recruiting Union</unittitle>
+            <unitdate datechar="creation" normal="1966/1967" type="inclusive">1966-1967, undated</unitdate>
+            <container altrender="Record carton" id="aspace_44d80d7a83e8593545965a8c89ab67a4" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>Los Angeles General Membership</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_386f3559e2021ed8507b91c92cc29712" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Marine Transport Workers Industrial Union No. 510</unittitle>
+            <unitdate datechar="creation" normal="1936/1936" type="inclusive">1936</unitdate>
+            <container altrender="Record carton" id="aspace_fb50da30a368696b23cb64647dbb7c39" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>New York Defense Committee</unittitle>
+            <unitdate datechar="creation" normal="1919/1919" type="inclusive">1919</unitdate>
+            <container altrender="Record carton" id="aspace_f13b3343b2007f1575a4bd1df0851eb0" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>Notes</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_268e0e58759426786b51b7dc7de7e676" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>One Big Union (Canada)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_438079594bda5b8ca4c956306db870a5" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>One Big Union: Workers' Bulletin</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_1a3718deb9401c7398e0c328c0224441" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Pamphlets I</unittitle>
+            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957, undated</unitdate>
+            <container altrender="Record carton" id="aspace_dbef8a25271ff749597473006f095590" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Pamphlets II</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_654cead2d2294f2d7d49b626eb0204bd" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>Pamphlets III</unittitle>
+            <unitdate datechar="creation" normal="1918/1918" type="inclusive">1918, undated</unitdate>
+            <container altrender="Record carton" id="aspace_7fd0f6c76e0dc97e3b1f676f5d423716" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>Paterson Silk Workers Strike </unittitle>
+            <unitdate datechar="creation" normal="1913/1913" type="inclusive">1913, undated</unitdate>
+            <container altrender="Record carton" id="aspace_05016bf71e364b6b60365063233968ee" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>Postcards</unittitle>
+            <unitdate datechar="creation" normal="1919/1919" type="inclusive">1919</unitdate>
+            <container altrender="Record carton" id="aspace_b7b5fc503a35646c478637f526267a1b" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>Preamble and Constitution</unittitle>
+            <unitdate datechar="creation" normal="1905/1965" type="inclusive">1905-1965, undated</unitdate>
+            <container altrender="Record carton" id="aspace_c61054412aeff0ebcca47ce726c82242" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>Publications Bureau</unittitle>
+            <unitdate datechar="creation" normal="1918/1918" type="inclusive">1918, undated</unitdate>
+            <container altrender="Record carton" id="aspace_118abdf8ca7f94a5b705af2284fb9af7" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>Publications Relating To</unittitle>
+            <unitdate datechar="creation" normal="1906/1921" type="inclusive">1906-1921, undated</unitdate>
+            <container altrender="Record carton" id="aspace_b31d260d520ef62fdee76c438bfa2c5d" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>Seattle Joint Branches</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_402e13a26abec5db17237c2410b10244" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>Statement of J.B. Phelan (Political Prisoner)</unittitle>
+            <unitdate datechar="creation" normal="1919/1919" type="inclusive">1919</unitdate>
+            <container altrender="Record carton" id="aspace_97da9bb56f1046b2d7f466d8bbd9d611" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>Ticket (Social and Dance)</unittitle>
+            <unitdate datechar="creation" normal="1936/1936" type="inclusive">1936</unitdate>
+            <container altrender="Record carton" id="aspace_78120d9feb197ceed98a704ecbb80ac3" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="file">
+          <did>
+            <unittitle>Trial Bulletin</unittitle>
+            <unitdate datechar="creation" normal="1918/1918" type="inclusive">1918</unitdate>
+            <container altrender="Record carton" id="aspace_2605407b8adacf70b154fa2cfacffd33" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="file">
+          <did>
+            <unittitle>Workers' Defense Union</unittitle>
+            <unitdate datechar="creation" normal="1919/1920" type="inclusive">1919-1920</unitdate>
+            <container altrender="Record carton" id="aspace_6d99b76fb60553ecc69fe44b7b3d9d51" label="Mixed Materials [31142062770964]" type="Box">2</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

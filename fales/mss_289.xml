@@ -1,46 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_289">mss_289</eadid><filedesc><titlestmt><titleproper>Guide to the Molly Neuman Riot Grrrl Collection, 1986-2002 (Bulk 1988-1996) <num>MSS.289</num></titleproper><author>Rosemary K. J. Davis, 2011.</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>2011</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 06:57:44 -0400</date>.</creation><langusage>Description is in English</langusage></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Fales Library and Special Collections</corpname>
-    </repository>
-    <unittitle>Molly Neuman Riot Grrrl Collection</unittitle>
-    <origination label="Creator">
-      <persname source="local">Neuman, Molly</persname>
-    </origination>
-    <unitid>MSS.289</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">9 Linear Feet</extent>
-      <extent altrender="carrier">in 6 record cartons, 2 flat boxes, and 1 oversize flat box.</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1986/2002" type="inclusive">1986-2002</unitdate>
-    <unitdate datechar="creation" normal="1988/1996" type="bulk">1988-1996</unitdate>
-    <abstract id="aspace_e3e27361b01c0088a20ef634b01fd5d0" label="Abstract">Molly Neuman is a musician, writer, and artist who was active in the Riot Grrrl movement from its inception. The Molly Neuman Riot Grrrl Collection contain correspondence, zines, photography, and documentation pertaining to Molly Neuman, her connections with the Riot Grrrl movement, and her involvement with the band Bratmobile.</abstract>
-    <langmaterial id="aspace_2b373fef01b9af437454d2cdd9ead507">Materials are in English.</langmaterial>
-  </did>
-  <accessrestrict id="aspace_071b44a2124ef530f4125a04252cb581">
-    <head>Conditions Governing Access</head>
-<p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </accessrestrict>
-  <arrangement id="aspace_f3e43faccf2f0dfc5b05031746a32ec5">
-    <head>Arrangement</head>
-<p>The collection remains in original order for the most part, except in the case of Series II and III, where some materials where placed into chronological order as appropriate.</p><p>A majority of the photographs were collected into albums by Molly Neuman and their original order has not been altered.</p>  </arrangement>
-  <bioghist id="aspace_71e5141c024397d533f742f6241f721e">
-    <head>Biographical Note</head>
-<p>Molly Neuman is a musician, writer, and chef who was active in the Riot Grrrl movement from its inception. The term "riot grrrl" was first coined in a zine co-written by Neuman and her friend Alison Wolfe while the two were studying at University of Oregon. Their collaboration on this zine--called "Girl Germs"--lead Neuman and Wolfe to form Bratmobile, a feminist, punk-influenced band, with Erin Smith. Both Neuman and Wolfe eventually transferred to Evergreen College in Olympia, Washington where they become more involved with the Riot Grrrl movement.</p><p>Bratmobile was primarily active from 1991-1994, releasing two albums on the record label Kill Rock Stars and releasing songs on various other compilations/split 7" records during that period. After the band disbanded, Neuman went on to be a part of several other bands including the Frumpies and the PeeChees, the latter of which featured her ex-husband Chris Appelgren. Bratmobile reunited briefly in 1999, eventually touring with the Donnas in 2001, whom Neuman was managing at the time. Bratmobile released two albums after reforming, 2000's "Ladies, Women and Girls" and 2002's "Girls Get Busy".<lb/></p><p>Neuman was a partner with Appelgren at Lookout Records, a label which produced albums by acts including Green Day, Avail, and Pansy Division. In 2005, Lookout discontinued releasing new projects and Neuman began her own small label, Simple Social Graces Discos, releasing several records including the Delorean, the Two Tears and her own band, Love or Perish. In 2006, she joined the team at eMusic and continues to work there as Senior Director of Artist and Label relations.<lb/></p><p>In 2009, she graduated from the Chef's Training Program at New Yorks Natural Gourmet Institute. Following graduation, Neuman opened Simple Social Kitchen, a personal chef, catering and culinary instruction company based in Brooklyn, NY.  She is currently working on a program aimed at creative people and health in the effort to connect all her passions. <lb/></p><p><emph render="bold">Sources:</emph><lb/></p><p>www.killrockstars.com
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_289">mss_289</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Molly Neuman Riot Grrrl Collection, 1986-2002 (Bulk 1988-1996) <num>MSS.289</num></titleproper>
+        <author>Rosemary K. J. Davis, 2011.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+        <p>
+          <date>2011</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 06:57:44 -0400</date>.</creation>
+      <langusage>Description is in English</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>Molly Neuman Riot Grrrl Collection</unittitle>
+      <origination label="Creator">
+        <persname source="local">Neuman, Molly</persname>
+      </origination>
+      <unitid>MSS.289</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">9 Linear Feet</extent>
+        <extent altrender="carrier">in 6 record cartons, 2 flat boxes, and 1 oversize flat box.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1986/2002" type="inclusive">1986-2002</unitdate>
+      <unitdate datechar="creation" normal="1988/1996" type="bulk">1988-1996</unitdate>
+      <abstract id="aspace_e3e27361b01c0088a20ef634b01fd5d0" label="Abstract">Molly Neuman is a musician, writer, and artist who was active in the Riot Grrrl movement from its inception. The Molly Neuman Riot Grrrl Collection contain correspondence, zines, photography, and documentation pertaining to Molly Neuman, her connections with the Riot Grrrl movement, and her involvement with the band Bratmobile.</abstract>
+      <langmaterial id="aspace_2b373fef01b9af437454d2cdd9ead507">Materials are in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_071b44a2124ef530f4125a04252cb581">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </accessrestrict>
+    <arrangement id="aspace_f3e43faccf2f0dfc5b05031746a32ec5">
+      <head>Arrangement</head>
+      <p>The collection remains in original order for the most part, except in the case of Series II and III, where some materials where placed into chronological order as appropriate.</p>
+      <p>A majority of the photographs were collected into albums by Molly Neuman and their original order has not been altered.</p>
+    </arrangement>
+    <bioghist id="aspace_71e5141c024397d533f742f6241f721e">
+      <head>Biographical Note</head>
+      <p>Molly Neuman is a musician, writer, and chef who was active in the Riot Grrrl movement from its inception. The term "riot grrrl" was first coined in a zine co-written by Neuman and her friend Alison Wolfe while the two were studying at University of Oregon. Their collaboration on this zine--called "Girl Germs"--lead Neuman and Wolfe to form Bratmobile, a feminist, punk-influenced band, with Erin Smith. Both Neuman and Wolfe eventually transferred to Evergreen College in Olympia, Washington where they become more involved with the Riot Grrrl movement.</p>
+      <p>Bratmobile was primarily active from 1991-1994, releasing two albums on the record label Kill Rock Stars and releasing songs on various other compilations/split 7" records during that period. After the band disbanded, Neuman went on to be a part of several other bands including the Frumpies and the PeeChees, the latter of which featured her ex-husband Chris Appelgren. Bratmobile reunited briefly in 1999, eventually touring with the Donnas in 2001, whom Neuman was managing at the time. Bratmobile released two albums after reforming, 2000's "Ladies, Women and Girls" and 2002's "Girls Get Busy".<lb/></p>
+      <p>Neuman was a partner with Appelgren at Lookout Records, a label which produced albums by acts including Green Day, Avail, and Pansy Division. In 2005, Lookout discontinued releasing new projects and Neuman began her own small label, Simple Social Graces Discos, releasing several records including the Delorean, the Two Tears and her own band, Love or Perish. In 2006, she joined the team at eMusic and continues to work there as Senior Director of Artist and Label relations.<lb/></p>
+      <p>In 2009, she graduated from the Chef's Training Program at New Yorks Natural Gourmet Institute. Following graduation, Neuman opened Simple Social Kitchen, a personal chef, catering and culinary instruction company based in Brooklyn, NY.  She is currently working on a program aimed at creative people and health in the effort to connect all her passions. <lb/></p>
+      <p>
+        <emph render="bold">Sources:</emph>
+        <lb/>
+      </p>
+      <p>www.killrockstars.com
 www.eastbayexpress.com
 www.allmusic.com
-www.simplesocialkitchen.com</p>  </bioghist>
-  <phystech id="aspace_085880905423b68b5e3a9b704402b258">
-    <head>Physical Characteristics and Technical Requirements</head>
-<p>Audiovisual and born-digital materials have not been preserved and may not be accessible to researchers.</p>  </phystech>
-  <prefercite id="aspace_35e5fa05e346a67e3f6908e3a4b693a6">
-    <head>Preferred Citation</head>
-<p>Published citations should take the
+www.simplesocialkitchen.com</p>
+    </bioghist>
+    <phystech id="aspace_085880905423b68b5e3a9b704402b258">
+      <head>Physical Characteristics and Technical Requirements</head>
+      <p>Audiovisual and born-digital materials have not been preserved and may not be accessible to researchers.</p>
+    </phystech>
+    <prefercite id="aspace_35e5fa05e346a67e3f6908e3a4b693a6">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the
 following form:<lb/><lb/>
-Identification of item,  date (if known); Molly Neuman Riot Grrrl Collection; MSS 289; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>  </prefercite>
-  <scopecontent id="aspace_42769a533029fbe1f78ccdcad7d88154">
-    <head>Scope and Content</head>
-<p>The Molly Neuman Riot Grrrl Collection contains materials pertaining
+Identification of item,  date (if known); Molly Neuman Riot Grrrl Collection; MSS 289; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>
+    </prefercite>
+    <scopecontent id="aspace_42769a533029fbe1f78ccdcad7d88154">
+      <head>Scope and Content</head>
+      <p>The Molly Neuman Riot Grrrl Collection contains materials pertaining
 to Neuman's life between 1986-2002 (bulk 1988-1996). A majority of the
 collection is comprised of personal correspondence and journals that
 document Molly's participation in the Riot Grrrl movement, her
@@ -48,37 +82,1005 @@ experiences in various bands including Bratmobile, and her creative
 output as a filmmaker, photographer, and writer.  Some materials
 pertaining to Neuman's later involvement with Lookout! Records and her
 management of The Donnas are also included.  Items in the collection
-range from 1986-2002, with the bulk from 1988-1996.</p><p>The collection is organized into five series:</p><p><emph render="bold">Series I:</emph> Correspondence contains personal correspondence received by Molly Neuman between 1986and 2002, including fan mail for Bratmobile and zine submissions.</p><p>Subseries A: Alphabetically Filed Correspondence<lb/>
-Subseries B: Miscellaneous Unfiled Correspondence<lb/></p><p><emph render="bold">Series II:</emph> Zines, Notebooks, and Papers contains original zines, Molly's personal notebooks/diaries, press
+range from 1986-2002, with the bulk from 1988-1996.</p>
+      <p>The collection is organized into five series:</p>
+      <p><emph render="bold">Series I:</emph> Correspondence contains personal correspondence received by Molly Neuman between 1986and 2002, including fan mail for Bratmobile and zine submissions.</p>
+      <p>Subseries A: Alphabetically Filed Correspondence<lb/>
+Subseries B: Miscellaneous Unfiled Correspondence<lb/></p>
+      <p><emph render="bold">Series II:</emph> Zines, Notebooks, and Papers contains original zines, Molly's personal notebooks/diaries, press
 clippings pertaining to her musical career, and uncategorized papers
-collected in the course of her studies and travels.</p><p>Subseries A: Zines and Zine-related<lb/>
+collected in the course of her studies and travels.</p>
+      <p>Subseries A: Zines and Zine-related<lb/>
 Subseries B: Notebooks<lb/>
-Subseries C: Miscellaneous Papers and Documentation<lb/></p><p><emph render="bold">Series III: </emph>Photography contains photographs of Bratmobile, creative and academic work by
-Molly Neuman, and other visual artifacts.</p><p>Subseries A: Loose Photos and Negatives<lb/> Subseries
-B: Photos, Slides, and Negatives in Binders [as arranged by Neuman]</p><p><emph render="bold">Series IV:</emph> Realia contains t-shirts created as merchandise for the PeeChees, a band
-Molly Neuman was in from 1994-1998.</p><p>Subseries A: T-shirts</p><p><emph render="bold">Series V:</emph> Media contains film created by Molly Neuman, as well as
-video and audio items owned or made by Molly.</p><p>Subseries A: Film<lb/>
-Subseries B: Audio and Video<lb/></p>  </scopecontent>
-  <userestrict id="aspace_fbe47fbdb5569cc8c894f38d3fc09e53">
-    <head>Conditions Governing Use</head>
-<p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </userestrict>
-  <controlaccess>
-    <subject source="lcsh">Zines</subject>
-    <subject source="lcsh">Photography |z United States.</subject>
-    <subject source="lcsh">Feminism</subject>
-    <genreform source="aat">Correspondence.</genreform>
-    <genreform source="aat">Slides (photographs)</genreform>
-    <subject source="lcsh">Riot grrrl movement.</subject>
-    <subject source="lcsh">Punk culture.</subject>
-    <subject source="lcsh">Film.</subject>
-    <subject source="lcsh">Rock music -- United States -- 1991-2000</subject>
-    <persname source="naf">Hanna, Kathleen, 1968-</persname>
-    <persname source="local">Neuman, Molly</persname>
-    <persname source="local">Wolfe, Allison</persname>
-    <persname source="local">Smith, Erin</persname>
-    <corpname authfilenumber="(lccn)no2003001008" source="naf">Bratmobile (Musical group)</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_ref2" level="series"><did><unittitle>Series I: Correspondence</unittitle></did><scopecontent id="aspace_5ca108a9155ffdc650f68404d0fcac28"><head>Scope and Content</head><p>Series I: Correspondence contains personal correspondence received by Molly Neuman between 1986and 2002, including fan mail for Bratmobile and zine submissions.</p></scopecontent><c id="aspace_ref7" level="subseries"><did><unittitle>Subseries A: Alphabetically Filed Correspondence</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_dc6f306db0134dc3ae81cfbe8546a1e3" label="Mixed Materials [31142054894251]" type="Box">1</container><container id="aspace_a9ef2f27acf83e0ec4924fb35212fa92" parent="aspace_dc6f306db0134dc3ae81cfbe8546a1e3" type="Folder">1</container></did><c id="aspace_ref9" level="file"><did><unittitle>Correspondence: Filed Under A</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_6ba2fd7352c0019420165a1599acb832" label="Mixed Materials [31142054894251]" type="Box">1</container><container id="aspace_eb5f6e56abf1bf8177eb6822820dfd79" parent="aspace_6ba2fd7352c0019420165a1599acb832" type="Folder">1</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Correspondence: Filed Under B [1 of 2]</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial id="aspace_d94147f39a2c3e865a2a7d4b295e7406">Eng</langmaterial><container altrender="Record carton" id="aspace_e2e2e4cd326fe222cd8389f6089d3f0f" label="Mixed Materials [31142054894251]" type="Box">1</container><container id="aspace_f111a6264d196f30926e6cf2ef261fe7" parent="aspace_e2e2e4cd326fe222cd8389f6089d3f0f" type="Folder">2</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Correspondence: Filed Under B [2 of 2]</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_0426e7037f8fdfdc75826e2371c638b9" label="Mixed Materials [31142054894251]" type="Box">1</container><container id="aspace_d49da878680519eabe8e8609405dc337" parent="aspace_0426e7037f8fdfdc75826e2371c638b9" type="Folder">3</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Correspondence: Filed Under B &amp; "Brat Correspondence" </unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_b8b6e099ac7ac8aeb3eae6cfe29d69a7" label="Mixed Materials [31142054894251]" type="Box">1</container><container id="aspace_ec3966943fd1c09571ae10a7c9a1b11c" parent="aspace_b8b6e099ac7ac8aeb3eae6cfe29d69a7" type="Folder">4</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Correspondence: Filed Under C</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_2f29f77e32dc0f2e8ddc091ea06acc54" label="Mixed Materials [31142054894251]" type="Box">1</container><container id="aspace_383f2c05055977a7d13a54a7c9be751f" parent="aspace_2f29f77e32dc0f2e8ddc091ea06acc54" type="Folder">5</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Correspondence: Filed Under D</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_6f2942bb5beb28e5d10dd83f783feb33" label="Mixed Materials [31142054894251]" type="Box">1</container><container id="aspace_fc38f568a40ceacab38a1af22732f64b" parent="aspace_6f2942bb5beb28e5d10dd83f783feb33" type="Folder">6</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Correspondence: Filed Under E</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_4f717691ded6238865bd5dbc1b2f0c4e" label="Mixed Materials [31142054894251]" type="Box">1</container><container id="aspace_97f4453069bb4286559200c3cce16dbd" parent="aspace_4f717691ded6238865bd5dbc1b2f0c4e" type="Folder">7</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Correspondence: Filed Under F</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_d115b73ae0d28961fa935c4e85a88c57" label="Mixed Materials [31142054894251]" type="Box">1</container><container id="aspace_62232334d9ab296fd301def0d3d8aeec" parent="aspace_d115b73ae0d28961fa935c4e85a88c57" type="Folder">8</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Correspondence: Filed Under G</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_345e70a3f2b54bb16a48450192940a1f" label="Mixed Materials [31142054894251]" type="Box">1</container><container id="aspace_4fc5642d3db6f1b5ce91514dba25b578" parent="aspace_345e70a3f2b54bb16a48450192940a1f" type="Folder">9</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Correspondence: Filed Under H [1 of 2]</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_a8184c4c76b676294a76cddb48c03385" label="Mixed Materials [31142054894251]" type="Box">1</container><container id="aspace_3a68c5f0690e30596227d9ecbe9c274e" parent="aspace_a8184c4c76b676294a76cddb48c03385" type="Folder">10</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Correspondence: Filed Under H [2 of 2]</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_ac421cf3fb7e82397007aebe1a54b935" label="Mixed Materials [31142054894251]" type="Box">1</container><container id="aspace_fa47c99bc78ce1e1cacb2f03a26ca559" parent="aspace_ac421cf3fb7e82397007aebe1a54b935" type="Folder">11</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Correspondence: Filed Under I-J [1 of 2]</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_6500ba1dc5028f59f69ecc6b092f4a65" label="Mixed Materials [31142054894251]" type="Box">1</container><container id="aspace_297a570d3a0d065b4829fca1cac56ad4" parent="aspace_6500ba1dc5028f59f69ecc6b092f4a65" type="Folder">12</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Correspondence: Filed Under I-J [2 of 2]</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_bd23759e9b2fc86496ab3ad772f0fda8" label="Mixed Materials [31142054894251]" type="Box">1</container><container id="aspace_f70985df2a2dc07c56e7ef5b6fb66118" parent="aspace_bd23759e9b2fc86496ab3ad772f0fda8" type="Folder">13</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Correspondence: Filed Under K</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_c898eef01963bef7833f5e4ba4c4f0b6" label="Mixed Materials [31142054894251]" type="Box">1</container><container id="aspace_08e35d2f52204c88cad7edfe433b5146" parent="aspace_c898eef01963bef7833f5e4ba4c4f0b6" type="Folder">14</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Correspondence: Filed Under L [1 of 3]</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_cdd26b9574f7beec4749c50ff44833b5" label="Mixed Materials [31142054894251]" type="Box">1</container><container id="aspace_cae0e5e767895c4ec96aafac8e48b765" parent="aspace_cdd26b9574f7beec4749c50ff44833b5" type="Folder">15</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Correspondence: Filed Under L [2 of 3]</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_97eaee643b60bc16364ed74df3cc66bf" label="Mixed Materials [31142054894251]" type="Box">1</container><container id="aspace_cf94cde125dd89fb4d64d0d1a6f8b224" parent="aspace_97eaee643b60bc16364ed74df3cc66bf" type="Folder">16</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Correspondence: Filed Under L [3 of 3]</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_5a543d0ef42c40ce6b0bfc8fe182add0" label="Mixed Materials [31142054894251]" type="Box">1</container><container id="aspace_370b64553b898f7c41bafbff3052342a" parent="aspace_5a543d0ef42c40ce6b0bfc8fe182add0" type="Folder">17</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Correspondence: Filed Under M</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_8672972c6ebcc72bbb35e90cc71fce81" label="Mixed Materials [31142054894269]" type="Box">2</container><container id="aspace_5828ae8f759fdccf1efd8b24065803a4" parent="aspace_8672972c6ebcc72bbb35e90cc71fce81" type="Folder">1</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Correspondence: Filed Under N [1 of 3]</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_e0bbd06362be3798e1b50b92adac23e4" label="Mixed Materials [31142054894269]" type="Box">2</container><container id="aspace_823fdf7b943698fd0e02f5709cc82890" parent="aspace_e0bbd06362be3798e1b50b92adac23e4" type="Folder">2</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Correspondence: Filed Under N [2 of 3]</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_1a49559411c2aaf028c8af3998f43ab2" label="Mixed Materials [31142054894269]" type="Box">2</container><container id="aspace_cc7c462f4544f665d346b4818c493727" parent="aspace_1a49559411c2aaf028c8af3998f43ab2" type="Folder">3</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Correspondence: Filed Under N [3 of 3]</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_48b59433eaa41d58f22d8dd326077d82" label="Mixed Materials [31142054894269]" type="Box">2</container><container id="aspace_4522ce5ab37d21c06982f891c93286cb" parent="aspace_48b59433eaa41d58f22d8dd326077d82" type="Folder">4</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Correspondence: Filed Under O</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_fbd53c8be3fba20a8777cabc12cbcdaa" label="Mixed Materials [31142054894269]" type="Box">2</container><container id="aspace_5bb6e9972aa9bea7eb8fccec3daf589b" parent="aspace_fbd53c8be3fba20a8777cabc12cbcdaa" type="Folder">5</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Correspondence: Filed Under P-Q</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_5e888401af7dbfc7760485cb7aca0716" label="Mixed Materials [31142054894269]" type="Box">2</container><container id="aspace_e1867d0c42559c8712af9475028db820" parent="aspace_5e888401af7dbfc7760485cb7aca0716" type="Folder">6</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Correspondence: Filed Under R</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_76c3132305613bf79934bb8e3be21ba0" label="Mixed Materials [31142054894269]" type="Box">2</container><container id="aspace_5fb7f26750dd9b31f5823ba3fbe64828" parent="aspace_76c3132305613bf79934bb8e3be21ba0" type="Folder">7</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Correspondence: Filed Under S [1 of 4]</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_a29b651307a4b969af221a7a27469fb9" label="Mixed Materials [31142054894269]" type="Box">2</container><container id="aspace_d70700c66e89636753004a9dfdb2c216" parent="aspace_a29b651307a4b969af221a7a27469fb9" type="Folder">8</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Correspondence: Filed Under S [2 of 4]</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_b4a47ddb4efd5cf68687b66a51a1c4c7" label="Mixed Materials [31142054894269]" type="Box">2</container><container id="aspace_240b7cb0d3fcf4e147c9cc647e9e5c13" parent="aspace_b4a47ddb4efd5cf68687b66a51a1c4c7" type="Folder">9</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Correspondence: Filed Under S [3 of 4]</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_c58525ca6df7f23df6ceaf52e5c929e8" label="Mixed Materials [31142054894269]" type="Box">2</container><container id="aspace_7bee7bce40982d7c993f8b5f74fbc095" parent="aspace_c58525ca6df7f23df6ceaf52e5c929e8" type="Folder">10</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Correspondence: Filed Under S [4 of 4]</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_a352cc1258b7b49507c647c78e944921" label="Mixed Materials [31142054894269]" type="Box">2</container><container id="aspace_499a80d6a10dfb87245add4472cf4c26" parent="aspace_a352cc1258b7b49507c647c78e944921" type="Folder">11</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Correspondence: Filed Under T [1 of 2]</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_cd91ade0f53c5b7fdf0ad67ae3d98ab8" label="Mixed Materials [31142054894269]" type="Box">2</container><container id="aspace_55ba00dbf7386faf2913353de321865c" parent="aspace_cd91ade0f53c5b7fdf0ad67ae3d98ab8" type="Folder">12</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Correspondence: Filed Under T [2 of 2]</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_228199cfcd22adfe8150104d9a515e65" label="Mixed Materials [31142054894269]" type="Box">2</container><container id="aspace_5bef9c3b421e8cf7a837d9f13be3e5b8" parent="aspace_228199cfcd22adfe8150104d9a515e65" type="Folder">13</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Correspondence: Filed Under U-V</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_8d6158119187a11dc712c910be4266c6" label="Mixed Materials [31142054894269]" type="Box">2</container><container id="aspace_0c4278232bd86b324606226f12947879" parent="aspace_8d6158119187a11dc712c910be4266c6" type="Folder">14</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Correspondence: Filed Under W</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_11503eb6a20ae42697cb0dc89e088a90" label="Mixed Materials [31142054894269]" type="Box">2</container><container id="aspace_cc2a067fdca733d3f43ab33f6e0dcaab" parent="aspace_11503eb6a20ae42697cb0dc89e088a90" type="Folder">15</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Correspondence: Filed Under X-Y-Z</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_fd8f7b6892f519ec3ae4ae8265844b68" label="Mixed Materials [31142054894269]" type="Box">2</container><container id="aspace_684e249d05b7043ce3777a168be7c490" parent="aspace_fd8f7b6892f519ec3ae4ae8265844b68" type="Folder">16</container></did></c></c><c id="aspace_ref8" level="subseries"><did><unittitle>Subseries B: Miscellaneous Unfiled Correspondence
-</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref45" level="file"><did><unittitle>Uncategorized Correspondence</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_7d19f2d84b4f56756686980a9c47b577" label="Mixed Materials [31142054894269]" type="Box">2</container><container id="aspace_e4696b1c6c299645859010ec5ab564c8" parent="aspace_7d19f2d84b4f56756686980a9c47b577" type="Folder">16</container></did></c></c></c><c id="aspace_ref3" level="series"><did><unittitle>Series II: Zines, Notebooks, and Papers</unittitle></did><scopecontent id="aspace_237e95e5081e031fd8842072fcd08096"><head>Scope and Content</head><p>Series II: Zines, Notebooks, and Papers contains original zines, Molly's personal notebooks/diaries, press clippings pertaining to her musical career, and uncategorized papers collected in the course of her studies and travels.</p></scopecontent><c id="aspace_ref46" level="subseries"><did><unittitle>Subseries A: Zines and Zine-related</unittitle></did><c id="aspace_ref47" level="file"><did><unittitle>Riot Grrrl Zine</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_fca0f3c1e87dd34646b8ac9b29c073ec" label="Mixed Materials [31142054894277]" type="Box">3</container><container id="aspace_78c91fbba4accc2c7de087215bdcf9eb" parent="aspace_fca0f3c1e87dd34646b8ac9b29c073ec" type="Folder">1</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Riot Grrrl No. 4</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_2a914c671cc64b5f71a1603d76208b48" label="Mixed Materials [31142054894277]" type="Box">3</container><container id="aspace_7bbd8182cec6d63c7a3ca1d8564b3b51" parent="aspace_2a914c671cc64b5f71a1603d76208b48" type="Folder">2</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Girl Germs No. 3</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_5a824c090b69d6751cbe440ec8b38a6d" label="Mixed Materials [31142054894277]" type="Box">3</container><container id="aspace_29fc0cbf2a777237a2b6b1b5d54a7863" parent="aspace_5a824c090b69d6751cbe440ec8b38a6d" type="Folder">3</container></did><scopecontent id="aspace_ce57dd28b8c5b00fb05cd9401b736aa8"><head>Abstract </head><p>Olympia-based Bratmobile members Molly Neuman and Allison Wolfe begin this issue of their riot grrrl zine with reminiscence on female solidarity and letters from readers. Contributions include an extended piece on the Asian experience in the United States and resulting struggles to maintain ethnic identity in the face of discrimination. Other themes include lesbian relations, violence against women, and sexual abuse. Further elements include a column debunking masturbation myths, serialized fiction, an extended top ten list, reviews of video artist Sadie Benning and new music, an interview with Rebecca of Love Child, and a list of zines. Concludes with a narrative describing the origins of Girl Germs.</p></scopecontent></c><c id="aspace_ref50" level="file"><did><unittitle>"Girl Germs" file</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_c9486257ebf949c43f06ef3e84edfd33" label="Mixed Materials [31142054894277]" type="Box">3</container><container id="aspace_e3c24c6bdf7b5168ef76a7aceefdf290" parent="aspace_c9486257ebf949c43f06ef3e84edfd33" type="Folder">4</container></did></c></c><c id="aspace_ref51" level="subseries"><did><unittitle>Subseries B: Notebooks</unittitle></did><c id="aspace_ref52" level="file"><did><unittitle>Notebook 1</unittitle><unitdate datechar="creation">1986</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_d1960599d98db23831fd0c50cf6e4e7e" label="Mixed Materials [31142054894277]" type="Box">3</container><container id="aspace_ac5509f19ada437be71edebfbacfe719" parent="aspace_d1960599d98db23831fd0c50cf6e4e7e" type="Folder">5</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Notebook 2</unittitle><unitdate datechar="creation">1988</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_49407bcd60ea4f53b864d762fd239695" label="Mixed Materials [31142054894277]" type="Box">3</container><container id="aspace_f43f5ae145953d711feeb2d29917de23" parent="aspace_49407bcd60ea4f53b864d762fd239695" type="Folder">6</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Notebook 3</unittitle><unitdate datechar="creation">1990-1992</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_3032224ddde3398768c52e45e4fad082" label="Mixed Materials [31142054894277]" type="Box">3</container><container id="aspace_670614097d9a9471f27857ffedf334a6" parent="aspace_3032224ddde3398768c52e45e4fad082" type="Folder">7</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Notebook 4</unittitle><unitdate datechar="creation">1990-1993</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_abc708b5dfa49a8fd528c82d3f07d77a" label="Mixed Materials [31142054894277]" type="Box">3</container><container id="aspace_d22494e19804404c5d72ec9367fa3ab8" parent="aspace_abc708b5dfa49a8fd528c82d3f07d77a" type="Folder">8</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Notebook 5</unittitle><unitdate datechar="creation">1991</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_d6fb2bde37950747f42dfc439b6eff6e" label="Mixed Materials [31142054894277]" type="Box">3</container><container id="aspace_e2a845be3b71ead432978109d0dbd3da" parent="aspace_d6fb2bde37950747f42dfc439b6eff6e" type="Folder">9</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Notebook 6</unittitle><unitdate datechar="creation">1992</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_0ff1749fefc3df1d9f04bfd16a34b1ec" label="Mixed Materials [31142054894277]" type="Box">3</container><container id="aspace_4eae9e0115cfadfef96ddda62d68f897" parent="aspace_0ff1749fefc3df1d9f04bfd16a34b1ec" type="Folder">10</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Notebook 7</unittitle><unitdate datechar="creation">1992</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_55792fb2a1fdbf0fb1129f9dbff67cfe" label="Mixed Materials [31142054894277]" type="Box">3</container><container id="aspace_21b18dd79f169d0f9634a9eb826ff8b8" parent="aspace_55792fb2a1fdbf0fb1129f9dbff67cfe" type="Folder">11</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Notebook 8</unittitle><unitdate datechar="creation">1992</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_265f4efb1047b44a7bb8430b5d7a0576" label="Mixed Materials [31142054894277]" type="Box">3</container><container id="aspace_4e99d08bc7066462c4ddd9e11cfc4b20" parent="aspace_265f4efb1047b44a7bb8430b5d7a0576" type="Folder">12</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Notebook 9</unittitle><unitdate datechar="creation">1999</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_5d5b9066d8292af0605f749470f2a9e8" label="Mixed Materials [31142054894277]" type="Box">3</container><container id="aspace_6999776cb68ebc56d6f27cbbddd6ab85" parent="aspace_5d5b9066d8292af0605f749470f2a9e8" type="Folder">13</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>Notebook 10</unittitle><unitdate datechar="creation">2000</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_7164c173668831556e0edd032522a82e" label="Mixed Materials [31142054894277]" type="Box">3</container><container id="aspace_86af3f47187b8f870cc52096d7e3035c" parent="aspace_7164c173668831556e0edd032522a82e" type="Folder">14</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>Notebook 11</unittitle><unitdate datechar="creation">2002</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_4b8b4cc90b44a17e0f22943ebf426d99" label="Mixed Materials [31142054894277]" type="Box">3</container><container id="aspace_236b80fadeb502c223d344dbfe789091" parent="aspace_4b8b4cc90b44a17e0f22943ebf426d99" type="Folder">15</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>Notebook 12</unittitle><unitdate datechar="creation">2002</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_a094c521e1601365e8f65141dea41b5b" label="Mixed Materials [31142054894277]" type="Box">3</container><container id="aspace_f69e028ab42cd0f362a8fd9198a8872b" parent="aspace_a094c521e1601365e8f65141dea41b5b" type="Folder">16</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>Notebook 13</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_b99c525a8ea3d3b9bd52c6f7065621a6" label="Mixed Materials [31142054894277]" type="Box">3</container><container id="aspace_8496f9148a3385ee38efab27b2c048e4" parent="aspace_b99c525a8ea3d3b9bd52c6f7065621a6" type="Folder">17</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Notebook 14</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_6fd16157f778cbdddffb5e92f7389b79" label="Mixed Materials [31142054894277]" type="Box">3</container><container id="aspace_d6714fd5136c20b107a464047c205d46" parent="aspace_6fd16157f778cbdddffb5e92f7389b79" type="Folder">18</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>Notebook 15</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_41201e490a9c3a7199f9a50e293afc3a" label="Mixed Materials [31142054894277]" type="Box">3</container><container id="aspace_6dea782e395df01bd4e39a4149aef1fa" parent="aspace_41201e490a9c3a7199f9a50e293afc3a" type="Folder">19</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>Notebook 16</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_2624ae1452e56132adf99a0fd5ff5dd5" label="Mixed Materials [31142054894277]" type="Box">3</container><container id="aspace_6ec0aa6e3cd1dcd6d5ca60c62566752c" parent="aspace_2624ae1452e56132adf99a0fd5ff5dd5" type="Folder">20</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>Notebook 17</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_cd8c526da6aa18f70e429aa90f612b21" label="Mixed Materials [31142054894277]" type="Box">3</container><container id="aspace_d28d718f7ad45ae4c7cb542b351f696e" parent="aspace_cd8c526da6aa18f70e429aa90f612b21" type="Folder">21</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Notebook 18</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_5a90ba015b194a7664bb0986a6606c5c" label="Mixed Materials [31142054894285]" type="Box">4</container><container id="aspace_72289fbf2be58545cf4b878c1c08e7d0" parent="aspace_5a90ba015b194a7664bb0986a6606c5c" type="Folder">1</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Notebook 19</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_381aceb369acb884dc78cc1d5a197f90" label="Mixed Materials [31142054894285]" type="Box">4</container><container id="aspace_ca3ef17522b6ad903cd0a56e026c913d" parent="aspace_381aceb369acb884dc78cc1d5a197f90" type="Folder">2</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>Notebook 20</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_91091cd5069190451d74662284942d46" label="Mixed Materials [31142054894285]" type="Box">4</container><container id="aspace_a18484a97ece8ad13239f9de835fdd95" parent="aspace_91091cd5069190451d74662284942d46" type="Folder">3</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>Notebook 21</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_7b957d9ca5414f48c41466ecf321638c" label="Mixed Materials [31142054894285]" type="Box">4</container><container id="aspace_edb9688c53b64a9a532bcf2cc0ddb0fa" parent="aspace_7b957d9ca5414f48c41466ecf321638c" type="Folder">4</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>Notebook 22</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_42b63eddee14b284ca6b5157e9d11b42" label="Mixed Materials [31142054894285]" type="Box">4</container><container id="aspace_75f7197e82c451609fe5aa63065b3dcd" parent="aspace_42b63eddee14b284ca6b5157e9d11b42" type="Folder">5</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>Notebook 23</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_d3ecb3d0ee6ebaf89caf8a466a3927c9" label="Mixed Materials [31142054894285]" type="Box">4</container><container id="aspace_e0d043ed5d2527c39ce51020c4f7e22f" parent="aspace_d3ecb3d0ee6ebaf89caf8a466a3927c9" type="Folder">6</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Journal 2 Fall 1988</unittitle><unitdate datechar="creation">1988</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_21282658d5a4b064378786580db2acaa" label="Mixed Materials [31142054894285]" type="Box">4</container><container id="aspace_11f92862c3284bb4dad1f96d0c45c328" parent="aspace_21282658d5a4b064378786580db2acaa" type="Folder">7</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Travel Diary</unittitle><unitdate datechar="creation">2002</unitdate><container altrender="Record carton" id="aspace_dbc094a08735aaa5570cd761b03d721b" label="Mixed Materials [31142054894285]" type="Box">4</container><container id="aspace_ffe2f5c03225550f172f88cb4ec027ba" parent="aspace_dbc094a08735aaa5570cd761b03d721b" type="Folder">8</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>Address Book 1</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_80c9e42a8bb7f0c4f173fe13ac3d32e7" label="Mixed Materials [31142054894285]" type="Box">4</container><container id="aspace_d421c9c8588028d2c423d8ff9c27d3d4" parent="aspace_80c9e42a8bb7f0c4f173fe13ac3d32e7" type="Folder">9</container></did></c><c id="aspace_ref79" level="file"><did><unittitle>Address Book 2</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_b88e3aeb99353cf5d9bd2e3e70450c05" label="Mixed Materials [31142054894285]" type="Box">4</container><container id="aspace_7186ba4709c9ef4ab4e0f60a365b32e9" parent="aspace_b88e3aeb99353cf5d9bd2e3e70450c05" type="Folder">10</container></did></c><c id="aspace_ref80" level="file"><did><unittitle>Wallet Contents</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_16ad207c5dc138a3bce520684088563e" label="Mixed Materials [31142054894285]" type="Box">4</container><container id="aspace_f78158fe968725abf67dd5e7d705b6c5" parent="aspace_16ad207c5dc138a3bce520684088563e" type="Folder">11</container></did></c><c id="aspace_ref82" level="file"><did><unittitle>Filofax Contents</unittitle><unitdate datechar="creation" normal="1993/1996" type="inclusive">1993-1996</unitdate><container altrender="Record carton" id="aspace_60abe7c428d9804b60bd212dd2791744" label="Mixed Materials [31142054894285]" type="Box">4</container><container id="aspace_de2f4bd217704fcfc4f23288330ec037" parent="aspace_60abe7c428d9804b60bd212dd2791744" type="Folder">12</container></did></c></c><c id="aspace_ref73" level="subseries"><did><unittitle>Subseries C: Miscellaneous Papers and Documentation</unittitle></did><c id="aspace_ref81" level="file"><did><unittitle>Bratmobile, Molly Neuman, and Misc. Press Clippings</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_d81d92d0b82a2c2173165cba13ec4d05" label="Mixed Materials [31142054894285]" type="Box">4</container><container id="aspace_e22806ce6789b138e7ca1083f301c927" parent="aspace_d81d92d0b82a2c2173165cba13ec4d05" type="Folder">13</container></did></c><c id="aspace_ref83" level="file"><did><unittitle>Binder Contents--Filmmaking &amp; Photography &amp; Misc Papers</unittitle><unitdate datechar="creation" normal="1990/1994" type="inclusive">1990-1994</unitdate><container altrender="Record carton" id="aspace_03e0dd7383e3eaf3dc775519e13e0a50" label="Mixed Materials [31142054894285]" type="Box">4</container><container id="aspace_8a6e36a0c883968753997e5b34d552ae" parent="aspace_03e0dd7383e3eaf3dc775519e13e0a50" type="Folder">14</container></did></c><c id="aspace_ref85" level="file"><did><unittitle>Miscellaneous Papers 1</unittitle><unitdate datechar="creation">1998</unitdate><container altrender="Record carton" id="aspace_a552dfdbcd4a2228ed40356861586c3b" label="Mixed Materials [31142054894285]" type="Box">4</container><container id="aspace_47a00ed96ebbfdb00709b86e4c0655d5" parent="aspace_a552dfdbcd4a2228ed40356861586c3b" type="Folder">15</container></did></c><c id="aspace_ref86" level="file"><did><unittitle>Miscellaneous Papers 2</unittitle><unitdate datechar="creation">1998</unitdate><container altrender="Record carton" id="aspace_9a55506a4f25ced7dcbb7cfef7ff4a5c" label="Mixed Materials [31142054894285]" type="Box">4</container><container id="aspace_009fb4105ba599ef179e3fa4055142fe" parent="aspace_9a55506a4f25ced7dcbb7cfef7ff4a5c" type="Folder">16</container></did></c><c id="aspace_ref87" level="file"><did><unittitle>Miscellaneous Papers 3</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_becf4ed0d0c91abc8cb6d19d61ad9ccb" label="Mixed Materials [31142054894285]" type="Box">4</container><container id="aspace_c4bb6ae9f5fee43d257ebaf3f2752a6c" parent="aspace_becf4ed0d0c91abc8cb6d19d61ad9ccb" type="Folder">17</container></did></c><c id="aspace_ref88" level="file"><did><unittitle>Miscellaneous Papers 4</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_f9cd9d5c51192519bffec28d01722b08" label="Mixed Materials [31142054894285]" type="Box">4</container><container id="aspace_9a1e470ceac451d106e79f6ea7c2f893" parent="aspace_f9cd9d5c51192519bffec28d01722b08" type="Folder">18</container></did></c></c></c><c id="aspace_ref4" level="series"><did><unittitle>Series III: Photography</unittitle></did><scopecontent id="aspace_da9bd6a6b1e812280052440de7afdd32"><head>Scope and Content</head><p>Contains photographs of Bratmobile, creative and academic work by Molly Neuman, and other visual artifacts. A majority of the photographs were collected into albums by Molly Neuman and their original order has not been altered.</p></scopecontent><c id="aspace_ref89" level="subseries"><did><unittitle>Subseries A: Loose Photos and Negatives</unittitle></did><c id="aspace_ref91" level="file"><did><unittitle>Miscellaneous Photos [1 of 2]</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_82f58fa126b8eb915ea61eca0b86ec3c" label="Mixed Materials [31142054894285]" type="Box">4</container><container id="aspace_a7d0e41879051f14f1a66231afcaa96f" parent="aspace_82f58fa126b8eb915ea61eca0b86ec3c" type="Folder">19</container></did></c><c id="aspace_ref119" level="file"><did><unittitle>Miscellaneous Photos [2 of 2]</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_9b083ca95659720331baf00bbb117203" label="Graphic Materials [31142054894285]" type="Box">4</container><container id="aspace_d2f0d6dde86a20e2d60d171e1967fd6d" parent="aspace_9b083ca95659720331baf00bbb117203" type="Folder">20</container></did></c></c><c id="aspace_ref90" level="subseries"><did><unittitle>Subseries B: Photos, Slides, and Negatives in Binders</unittitle></did><c id="aspace_ref92" level="otherlevel" otherlevel="Binder"><did><unittitle>Molly Neuman: Binder #1</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_df1499ada7dcf06a2957271692afcb9f" label="Container Summary">slides</physdesc><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_36ef0c65e5caa7eabee19e2bd90374e1" label="Graphic Materials [31142054894285]" type="Box">4</container></did></c><c id="aspace_ref94" level="otherlevel" otherlevel="unspecified"><did><unittitle>Molly Neuman: Binder #2</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_0c18525639c2d33f1bdac656d952fd65" label="Container Summary">photos and negatives</physdesc><container altrender="Record carton" id="aspace_c59f130161bcf65f19dd54e12c417a65" label="Graphic Materials [31142054894285]" type="Box">4</container></did></c><c id="aspace_ref95" level="otherlevel" otherlevel="unspecified"><did><unittitle>Molly Neuman: Binder #3</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_5692da53e8b6d0fc6786f9ce49880303" label="Container Summary">photos and negatives</physdesc><container altrender="Record carton" id="aspace_27682049ecd5408a9323a175e7639861" label="Graphic Materials [31142054894293]" type="Box">5</container></did></c><c id="aspace_ref96" level="otherlevel" otherlevel="unspecified"><did><unittitle>Molly Neuman: Binder #4</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_938e65a1f869febac85f1fe0fb861225" label="Container Summary">photos and negatives</physdesc><container altrender="Record carton" id="aspace_2d514c41f2e25a03ad75d5271ac75917" label="Graphic Materials [31142054894293]" type="Box">5</container></did></c><c id="aspace_ref97" level="otherlevel" otherlevel="unspecified"><did><unittitle>Molly Neuman: Binder #5</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_fb906e84ff2ef73883564c68ace309ed" label="Container Summary">photos and negatives</physdesc><container altrender="Record carton" id="aspace_afb3c15a95777b00dc48ed169cdc61ef" label="Graphic Materials [31142054894293]" type="Box">5</container></did></c><c id="aspace_ref98" level="otherlevel" otherlevel="unspecified"><did><unittitle>Molly Neuman: Binder #6</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_ace09d981855877666af2bc90585df39" label="Container Summary">photos</physdesc><container altrender="Record carton" id="aspace_26ee0be4b6417f8a872b032929edb4c1" label="Graphic Materials [31142054894293]" type="Box">5</container></did></c><c id="aspace_ref99" level="otherlevel" otherlevel="unspecified"><did><unittitle>Molly Neuman: Binder #7</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_d0507553cf02e51425a0397e44ba8e92" label="Container Summary">photos</physdesc><container altrender="Record carton" id="aspace_1abdf808de11b9400149a7dc2c13b9fb" label="Graphic Materials [31142054894293]" type="Box">5</container></did></c><c id="aspace_ref100" level="otherlevel" otherlevel="unspecified"><did><unittitle>Molly Neuman: Binder #8</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_dbd1e30ceab0172c0e8e37db4930bf5b" label="Container Summary">photos</physdesc><container altrender="Record carton" id="aspace_4c9cccffb91e9d5b93f235f1afc736fd" label="Graphic Materials [31142054894293]" type="Box">5</container></did></c><c id="aspace_ref101" level="otherlevel" otherlevel="unspecified"><did><unittitle>Molly Neuman: Binder #9</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_5d7df2fc054f37feeb6c41a49a7fb0b2" label="Container Summary">photos</physdesc><container altrender="Record carton" id="aspace_b79f419870232ea811745d985ba367bb" label="Graphic Materials [31142054894293]" type="Box">5</container></did></c><c id="aspace_ref102" level="otherlevel" otherlevel="unspecified"><did><unittitle>Molly Neuman: Binder #10</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_990eb876f74a6e177ace4afa03d77849" label="Container Summary">photos</physdesc><container altrender="Record carton" id="aspace_b9f4bb4492343fda30450d63cb80a123" label="Graphic Materials [31142054894293]" type="Box">5</container></did></c><c id="aspace_ref103" level="otherlevel" otherlevel="unspecified"><did><unittitle>Molly Neuman: Binder #11</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_cc99e9f320be8aefabff4f81e8a3317a" label="Container Summary">photos</physdesc><container altrender="Record carton" id="aspace_dc69de91b299dcd4bb2808b7dc547dda" label="Graphic Materials [31142054894293]" type="Box">5</container></did></c><c id="aspace_ref104" level="otherlevel" otherlevel="unspecified"><did><unittitle>Molly Neuman: Binder #12</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_3f98251df999c5b8498af946e2f35611" label="Container Summary">photos</physdesc><container altrender="Record carton" id="aspace_740d826c9a61671d0508e32943589f71" label="Graphic Materials [31142054894301]" type="Box">6</container></did></c><c id="aspace_ref105" level="otherlevel" otherlevel="unspecified"><did><unittitle>Molly Neuman: Binder #13</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_b64a0c5832dc44e9d7bd83a4bb8f3d78" label="Container Summary">photos</physdesc><container altrender="Record carton" id="aspace_ebc5a46f808e16cd470376f8c31c3337" label="Graphic Materials [31142054894301]" type="Box">6</container></did></c><c id="aspace_ref106" level="otherlevel" otherlevel="unspecified"><did><unittitle>Molly Neuman: Binder #14</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_124e0123de4bc0b2180ba83ac00c0ef7" label="Container Summary">photos</physdesc><container altrender="Record carton" id="aspace_50440a57c06daa9351109c8864433de8" label="Graphic Materials [31142054894301]" type="Box">6</container></did></c><c id="aspace_ref107" level="otherlevel" otherlevel="unspecified"><did><unittitle>Molly Neuman: Binder #15</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_7407a6113f8f522573133dcb60c65cea" label="Container Summary">photos</physdesc><container altrender="Record carton" id="aspace_eb78b25e1a80b221ce9984903990bfa1" label="Graphic Materials [31142054894301]" type="Box">6</container></did></c><c id="aspace_ref108" level="otherlevel" otherlevel="unspecified"><did><unittitle>Molly Neuman: Binder #16</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_4c527b06751314f8a96bbffc9e91912b" label="Container Summary">photos</physdesc><container altrender="Record carton" id="aspace_cd78176af961b1674e9cdf1823e7b8b8" label="Graphic Materials [31142054894301]" type="Box">6</container></did></c><c id="aspace_ref109" level="otherlevel" otherlevel="unspecified"><did><unittitle>Molly Neuman: Binder #17</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_20d9cf5d491862659fe7e8b9bd992ff8" label="Container Summary">photos</physdesc><container altrender="Record carton" id="aspace_e120397e81d79a232819863d6f643e71" label="Graphic Materials [31142054894301]" type="Box">6</container></did></c></c></c><c id="aspace_ref93" level="series"><did><unittitle>Series IV: Realia</unittitle></did><scopecontent id="aspace_9009d1087e1c40e30a612a31f8793427"><head>Scope and Content</head><p>Contains t-shirts created as merchandise for the PeeChees, a band Molly Neuman was in from 1994-1998.</p></scopecontent><c id="aspace_ref110" level="subseries"><did><unittitle>Subseries A: T-shirts</unittitle></did><c id="aspace_ref111" level="item"><did><unittitle>PeeChees t-shirts</unittitle><unitdate datechar="creation">undated</unitdate><physdesc id="aspace_a964957d3e582a4598593fdc65a81933" label="Container Summary">three t-shirts</physdesc><container altrender="Flat Box - 10.5 x 15.5" id="aspace_1665f5dff9e5d7902b442f30e3f87df8" label="Realia [31142054894319]" type="Box">7</container><container id="aspace_649e311f44c5e0ed49367c9e728b03d5" parent="aspace_1665f5dff9e5d7902b442f30e3f87df8" type="object">data_value_missing_83f4180f00e9280bb82f2b72db419a2e</container></did></c></c></c><c id="aspace_ref6" level="series"><did><unittitle>Series V: Media</unittitle></did><accessrestrict id="aspace_2c9cae2a52822b72001656d01ac6f8c4"><head>Conditions Governing Access</head><p>Audiovisual materials have not been preserved and may not be available to researchers.</p></accessrestrict><c id="aspace_ref112" level="subseries"><did><unittitle>Subseries A: Film</unittitle><physdesc id="aspace_3fc6ea2d8f8f670e5a2895388d4f3e12" label="Container Summary">12 reels of motion picture film (mixed formats)</physdesc><container altrender="Flat Box - 12 x 16" id="aspace_13e7efff6923fbcec0fa87da9084ae8c" label="Mixed Materials [31142054894335]" type="Box">9</container></did></c><c id="aspace_ref113" level="subseries"><did><unittitle>Subseries B: Audio and Video</unittitle></did><c id="aspace_ref114" level="item"><did><unittitle>[Schroeder 12345 Original] VHS tape</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat Box - 10.5 x 15.5" id="aspace_e79e7924028edb1465a3799edeb77395" label="Mixed Materials [31142054894327]" type="Box">8</container><container id="aspace_5c8f6ccfd53a34a6b0c1335caf8fede2" parent="aspace_e79e7924028edb1465a3799edeb77395" type="Media">ID: 289.0001</container></did></c><c id="aspace_ref115" level="item"><did><unittitle>[Sweetness, I was Only Joking] VHS Tape</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat Box - 10.5 x 15.5" id="aspace_bfa64481ce4229a4c29c6a637d882377" label="Mixed Materials [31142054894327]" type="Box">8</container><container id="aspace_bc031c5163c034921fb32c719492eafd" parent="aspace_bfa64481ce4229a4c29c6a637d882377" type="Media">ID: 289.0002</container></did></c><c id="aspace_ref116" level="item"><did><unittitle>[For Molly Germs] Audio Cassette Tape</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat Box - 10.5 x 15.5" id="aspace_90fdd39a91a4d0715b4830567ef62ce6" label="Mixed Materials [31142054894327]" type="Box">8</container><container id="aspace_eaa73f1421c3312e73171b198d52ff15" parent="aspace_90fdd39a91a4d0715b4830567ef62ce6" type="Media">ID: 289.0003</container></did></c><c id="aspace_ref117" level="item"><did><unittitle>[Are You Only Gonna Interview Boys?] [Gary W Lemans Birthday] Audio Cassette Tape</unittitle><unitdate datechar="creation" normal="1992/1992" type="inclusive">1-5-1992</unitdate><container altrender="Flat Box - 10.5 x 15.5" id="aspace_e4e2da514c0cf0e4b560520d8231732e" label="Mixed Materials [31142054894327]" type="Box">8</container><container id="aspace_f12e937f5591901b7be1f743ccfa8c35" parent="aspace_e4e2da514c0cf0e4b560520d8231732e" type="Media">ID: 289.0004</container></did></c><c id="aspace_ref118" level="item"><did><unittitle>[Helter Skillex] [Be Mine] Audio Cassette Tape</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat Box - 10.5 x 15.5" id="aspace_11585ab5b96387b6d40e0853ad64ba16" label="Mixed Materials [31142054894327]" type="Box">8</container><container id="aspace_e1ab6650a59347e77a9ce565a6e796d7" parent="aspace_11585ab5b96387b6d40e0853ad64ba16" type="Media">ID: 289.0005</container></did></c><c id="aspace_ref123" level="item"><did><unittitle>Pork "Squeal" 7" vinyl record</unittitle><container altrender="Flat Box - 10.5 x 15.5" id="aspace_59bdd33f232bf093a9a2c9322178f3fc" label="Mixed Materials [31142054894327]" type="Box">8</container><container id="aspace_ad97db8da56723f90d8c65ffbfe2b4eb" parent="aspace_59bdd33f232bf093a9a2c9322178f3fc" type="Media">ID: 289.0006</container></did></c></c></c></dsc>
-</archdesc>
+Subseries C: Miscellaneous Papers and Documentation<lb/></p>
+      <p><emph render="bold">Series III: </emph>Photography contains photographs of Bratmobile, creative and academic work by
+Molly Neuman, and other visual artifacts.</p>
+      <p>Subseries A: Loose Photos and Negatives<lb/> Subseries
+B: Photos, Slides, and Negatives in Binders [as arranged by Neuman]</p>
+      <p><emph render="bold">Series IV:</emph> Realia contains t-shirts created as merchandise for the PeeChees, a band
+Molly Neuman was in from 1994-1998.</p>
+      <p>Subseries A: T-shirts</p>
+      <p><emph render="bold">Series V:</emph> Media contains film created by Molly Neuman, as well as
+video and audio items owned or made by Molly.</p>
+      <p>Subseries A: Film<lb/>
+Subseries B: Audio and Video<lb/></p>
+    </scopecontent>
+    <userestrict id="aspace_fbe47fbdb5569cc8c894f38d3fc09e53">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="lcsh">Zines</subject>
+      <subject source="lcsh">Photography |z United States.</subject>
+      <subject source="lcsh">Feminism</subject>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Slides (photographs)</genreform>
+      <subject source="lcsh">Riot grrrl movement.</subject>
+      <subject source="lcsh">Punk culture.</subject>
+      <subject source="lcsh">Film.</subject>
+      <subject source="lcsh">Rock music -- United States -- 1991-2000</subject>
+      <persname source="naf">Hanna, Kathleen, 1968-</persname>
+      <persname source="local">Neuman, Molly</persname>
+      <persname source="local">Wolfe, Allison</persname>
+      <persname source="local">Smith, Erin</persname>
+      <corpname authfilenumber="(lccn)no2003001008" source="naf">Bratmobile (Musical group)</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref2" level="series">
+        <did>
+          <unittitle>Series I: Correspondence</unittitle>
+        </did>
+        <scopecontent id="aspace_5ca108a9155ffdc650f68404d0fcac28">
+          <head>Scope and Content</head>
+          <p>Series I: Correspondence contains personal correspondence received by Molly Neuman between 1986and 2002, including fan mail for Bratmobile and zine submissions.</p>
+        </scopecontent>
+        <c id="aspace_ref7" level="subseries">
+          <did>
+            <unittitle>Subseries A: Alphabetically Filed Correspondence</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_dc6f306db0134dc3ae81cfbe8546a1e3" label="Mixed Materials [31142054894251]" type="Box">1</container>
+            <container id="aspace_a9ef2f27acf83e0ec4924fb35212fa92" parent="aspace_dc6f306db0134dc3ae81cfbe8546a1e3" type="Folder">1</container>
+          </did>
+          <c id="aspace_ref9" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under A</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_6ba2fd7352c0019420165a1599acb832" label="Mixed Materials [31142054894251]" type="Box">1</container>
+              <container id="aspace_eb5f6e56abf1bf8177eb6822820dfd79" parent="aspace_6ba2fd7352c0019420165a1599acb832" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref12" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under B [1 of 2]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial id="aspace_d94147f39a2c3e865a2a7d4b295e7406">Eng</langmaterial>
+              <container altrender="Record carton" id="aspace_e2e2e4cd326fe222cd8389f6089d3f0f" label="Mixed Materials [31142054894251]" type="Box">1</container>
+              <container id="aspace_f111a6264d196f30926e6cf2ef261fe7" parent="aspace_e2e2e4cd326fe222cd8389f6089d3f0f" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref13" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under B [2 of 2]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_0426e7037f8fdfdc75826e2371c638b9" label="Mixed Materials [31142054894251]" type="Box">1</container>
+              <container id="aspace_d49da878680519eabe8e8609405dc337" parent="aspace_0426e7037f8fdfdc75826e2371c638b9" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref14" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under B &amp; "Brat Correspondence" </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_b8b6e099ac7ac8aeb3eae6cfe29d69a7" label="Mixed Materials [31142054894251]" type="Box">1</container>
+              <container id="aspace_ec3966943fd1c09571ae10a7c9a1b11c" parent="aspace_b8b6e099ac7ac8aeb3eae6cfe29d69a7" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref15" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under C</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_2f29f77e32dc0f2e8ddc091ea06acc54" label="Mixed Materials [31142054894251]" type="Box">1</container>
+              <container id="aspace_383f2c05055977a7d13a54a7c9be751f" parent="aspace_2f29f77e32dc0f2e8ddc091ea06acc54" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref16" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under D</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_6f2942bb5beb28e5d10dd83f783feb33" label="Mixed Materials [31142054894251]" type="Box">1</container>
+              <container id="aspace_fc38f568a40ceacab38a1af22732f64b" parent="aspace_6f2942bb5beb28e5d10dd83f783feb33" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref17" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under E</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_4f717691ded6238865bd5dbc1b2f0c4e" label="Mixed Materials [31142054894251]" type="Box">1</container>
+              <container id="aspace_97f4453069bb4286559200c3cce16dbd" parent="aspace_4f717691ded6238865bd5dbc1b2f0c4e" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref18" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under F</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_d115b73ae0d28961fa935c4e85a88c57" label="Mixed Materials [31142054894251]" type="Box">1</container>
+              <container id="aspace_62232334d9ab296fd301def0d3d8aeec" parent="aspace_d115b73ae0d28961fa935c4e85a88c57" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref19" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under G</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_345e70a3f2b54bb16a48450192940a1f" label="Mixed Materials [31142054894251]" type="Box">1</container>
+              <container id="aspace_4fc5642d3db6f1b5ce91514dba25b578" parent="aspace_345e70a3f2b54bb16a48450192940a1f" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref20" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under H [1 of 2]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_a8184c4c76b676294a76cddb48c03385" label="Mixed Materials [31142054894251]" type="Box">1</container>
+              <container id="aspace_3a68c5f0690e30596227d9ecbe9c274e" parent="aspace_a8184c4c76b676294a76cddb48c03385" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref21" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under H [2 of 2]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_ac421cf3fb7e82397007aebe1a54b935" label="Mixed Materials [31142054894251]" type="Box">1</container>
+              <container id="aspace_fa47c99bc78ce1e1cacb2f03a26ca559" parent="aspace_ac421cf3fb7e82397007aebe1a54b935" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref22" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under I-J [1 of 2]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_6500ba1dc5028f59f69ecc6b092f4a65" label="Mixed Materials [31142054894251]" type="Box">1</container>
+              <container id="aspace_297a570d3a0d065b4829fca1cac56ad4" parent="aspace_6500ba1dc5028f59f69ecc6b092f4a65" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref23" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under I-J [2 of 2]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_bd23759e9b2fc86496ab3ad772f0fda8" label="Mixed Materials [31142054894251]" type="Box">1</container>
+              <container id="aspace_f70985df2a2dc07c56e7ef5b6fb66118" parent="aspace_bd23759e9b2fc86496ab3ad772f0fda8" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref24" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under K</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_c898eef01963bef7833f5e4ba4c4f0b6" label="Mixed Materials [31142054894251]" type="Box">1</container>
+              <container id="aspace_08e35d2f52204c88cad7edfe433b5146" parent="aspace_c898eef01963bef7833f5e4ba4c4f0b6" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref25" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under L [1 of 3]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_cdd26b9574f7beec4749c50ff44833b5" label="Mixed Materials [31142054894251]" type="Box">1</container>
+              <container id="aspace_cae0e5e767895c4ec96aafac8e48b765" parent="aspace_cdd26b9574f7beec4749c50ff44833b5" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref26" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under L [2 of 3]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_97eaee643b60bc16364ed74df3cc66bf" label="Mixed Materials [31142054894251]" type="Box">1</container>
+              <container id="aspace_cf94cde125dd89fb4d64d0d1a6f8b224" parent="aspace_97eaee643b60bc16364ed74df3cc66bf" type="Folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_ref27" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under L [3 of 3]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_5a543d0ef42c40ce6b0bfc8fe182add0" label="Mixed Materials [31142054894251]" type="Box">1</container>
+              <container id="aspace_370b64553b898f7c41bafbff3052342a" parent="aspace_5a543d0ef42c40ce6b0bfc8fe182add0" type="Folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_ref29" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under M</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_8672972c6ebcc72bbb35e90cc71fce81" label="Mixed Materials [31142054894269]" type="Box">2</container>
+              <container id="aspace_5828ae8f759fdccf1efd8b24065803a4" parent="aspace_8672972c6ebcc72bbb35e90cc71fce81" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref30" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under N [1 of 3]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_e0bbd06362be3798e1b50b92adac23e4" label="Mixed Materials [31142054894269]" type="Box">2</container>
+              <container id="aspace_823fdf7b943698fd0e02f5709cc82890" parent="aspace_e0bbd06362be3798e1b50b92adac23e4" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref31" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under N [2 of 3]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_1a49559411c2aaf028c8af3998f43ab2" label="Mixed Materials [31142054894269]" type="Box">2</container>
+              <container id="aspace_cc7c462f4544f665d346b4818c493727" parent="aspace_1a49559411c2aaf028c8af3998f43ab2" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref32" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under N [3 of 3]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_48b59433eaa41d58f22d8dd326077d82" label="Mixed Materials [31142054894269]" type="Box">2</container>
+              <container id="aspace_4522ce5ab37d21c06982f891c93286cb" parent="aspace_48b59433eaa41d58f22d8dd326077d82" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref33" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under O</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_fbd53c8be3fba20a8777cabc12cbcdaa" label="Mixed Materials [31142054894269]" type="Box">2</container>
+              <container id="aspace_5bb6e9972aa9bea7eb8fccec3daf589b" parent="aspace_fbd53c8be3fba20a8777cabc12cbcdaa" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref34" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under P-Q</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_5e888401af7dbfc7760485cb7aca0716" label="Mixed Materials [31142054894269]" type="Box">2</container>
+              <container id="aspace_e1867d0c42559c8712af9475028db820" parent="aspace_5e888401af7dbfc7760485cb7aca0716" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref35" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under R</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_76c3132305613bf79934bb8e3be21ba0" label="Mixed Materials [31142054894269]" type="Box">2</container>
+              <container id="aspace_5fb7f26750dd9b31f5823ba3fbe64828" parent="aspace_76c3132305613bf79934bb8e3be21ba0" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref36" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under S [1 of 4]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_a29b651307a4b969af221a7a27469fb9" label="Mixed Materials [31142054894269]" type="Box">2</container>
+              <container id="aspace_d70700c66e89636753004a9dfdb2c216" parent="aspace_a29b651307a4b969af221a7a27469fb9" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref37" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under S [2 of 4]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_b4a47ddb4efd5cf68687b66a51a1c4c7" label="Mixed Materials [31142054894269]" type="Box">2</container>
+              <container id="aspace_240b7cb0d3fcf4e147c9cc647e9e5c13" parent="aspace_b4a47ddb4efd5cf68687b66a51a1c4c7" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref38" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under S [3 of 4]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_c58525ca6df7f23df6ceaf52e5c929e8" label="Mixed Materials [31142054894269]" type="Box">2</container>
+              <container id="aspace_7bee7bce40982d7c993f8b5f74fbc095" parent="aspace_c58525ca6df7f23df6ceaf52e5c929e8" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref39" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under S [4 of 4]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_a352cc1258b7b49507c647c78e944921" label="Mixed Materials [31142054894269]" type="Box">2</container>
+              <container id="aspace_499a80d6a10dfb87245add4472cf4c26" parent="aspace_a352cc1258b7b49507c647c78e944921" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref40" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under T [1 of 2]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_cd91ade0f53c5b7fdf0ad67ae3d98ab8" label="Mixed Materials [31142054894269]" type="Box">2</container>
+              <container id="aspace_55ba00dbf7386faf2913353de321865c" parent="aspace_cd91ade0f53c5b7fdf0ad67ae3d98ab8" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref41" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under T [2 of 2]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_228199cfcd22adfe8150104d9a515e65" label="Mixed Materials [31142054894269]" type="Box">2</container>
+              <container id="aspace_5bef9c3b421e8cf7a837d9f13be3e5b8" parent="aspace_228199cfcd22adfe8150104d9a515e65" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref42" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under U-V</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_8d6158119187a11dc712c910be4266c6" label="Mixed Materials [31142054894269]" type="Box">2</container>
+              <container id="aspace_0c4278232bd86b324606226f12947879" parent="aspace_8d6158119187a11dc712c910be4266c6" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref43" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under W</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_11503eb6a20ae42697cb0dc89e088a90" label="Mixed Materials [31142054894269]" type="Box">2</container>
+              <container id="aspace_cc2a067fdca733d3f43ab33f6e0dcaab" parent="aspace_11503eb6a20ae42697cb0dc89e088a90" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref44" level="file">
+            <did>
+              <unittitle>Correspondence: Filed Under X-Y-Z</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_fd8f7b6892f519ec3ae4ae8265844b68" label="Mixed Materials [31142054894269]" type="Box">2</container>
+              <container id="aspace_684e249d05b7043ce3777a168be7c490" parent="aspace_fd8f7b6892f519ec3ae4ae8265844b68" type="Folder">16</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref8" level="subseries">
+          <did>
+            <unittitle>Subseries B: Miscellaneous Unfiled Correspondence
+</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+          <c id="aspace_ref45" level="file">
+            <did>
+              <unittitle>Uncategorized Correspondence</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_7d19f2d84b4f56756686980a9c47b577" label="Mixed Materials [31142054894269]" type="Box">2</container>
+              <container id="aspace_e4696b1c6c299645859010ec5ab564c8" parent="aspace_7d19f2d84b4f56756686980a9c47b577" type="Folder">16</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref3" level="series">
+        <did>
+          <unittitle>Series II: Zines, Notebooks, and Papers</unittitle>
+        </did>
+        <scopecontent id="aspace_237e95e5081e031fd8842072fcd08096">
+          <head>Scope and Content</head>
+          <p>Series II: Zines, Notebooks, and Papers contains original zines, Molly's personal notebooks/diaries, press clippings pertaining to her musical career, and uncategorized papers collected in the course of her studies and travels.</p>
+        </scopecontent>
+        <c id="aspace_ref46" level="subseries">
+          <did>
+            <unittitle>Subseries A: Zines and Zine-related</unittitle>
+          </did>
+          <c id="aspace_ref47" level="file">
+            <did>
+              <unittitle>Riot Grrrl Zine</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_fca0f3c1e87dd34646b8ac9b29c073ec" label="Mixed Materials [31142054894277]" type="Box">3</container>
+              <container id="aspace_78c91fbba4accc2c7de087215bdcf9eb" parent="aspace_fca0f3c1e87dd34646b8ac9b29c073ec" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref48" level="file">
+            <did>
+              <unittitle>Riot Grrrl No. 4</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_2a914c671cc64b5f71a1603d76208b48" label="Mixed Materials [31142054894277]" type="Box">3</container>
+              <container id="aspace_7bbd8182cec6d63c7a3ca1d8564b3b51" parent="aspace_2a914c671cc64b5f71a1603d76208b48" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref49" level="file">
+            <did>
+              <unittitle>Girl Germs No. 3</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_5a824c090b69d6751cbe440ec8b38a6d" label="Mixed Materials [31142054894277]" type="Box">3</container>
+              <container id="aspace_29fc0cbf2a777237a2b6b1b5d54a7863" parent="aspace_5a824c090b69d6751cbe440ec8b38a6d" type="Folder">3</container>
+            </did>
+            <scopecontent id="aspace_ce57dd28b8c5b00fb05cd9401b736aa8">
+              <head>Abstract </head>
+              <p>Olympia-based Bratmobile members Molly Neuman and Allison Wolfe begin this issue of their riot grrrl zine with reminiscence on female solidarity and letters from readers. Contributions include an extended piece on the Asian experience in the United States and resulting struggles to maintain ethnic identity in the face of discrimination. Other themes include lesbian relations, violence against women, and sexual abuse. Further elements include a column debunking masturbation myths, serialized fiction, an extended top ten list, reviews of video artist Sadie Benning and new music, an interview with Rebecca of Love Child, and a list of zines. Concludes with a narrative describing the origins of Girl Germs.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_ref50" level="file">
+            <did>
+              <unittitle>"Girl Germs" file</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_c9486257ebf949c43f06ef3e84edfd33" label="Mixed Materials [31142054894277]" type="Box">3</container>
+              <container id="aspace_e3c24c6bdf7b5168ef76a7aceefdf290" parent="aspace_c9486257ebf949c43f06ef3e84edfd33" type="Folder">4</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref51" level="subseries">
+          <did>
+            <unittitle>Subseries B: Notebooks</unittitle>
+          </did>
+          <c id="aspace_ref52" level="file">
+            <did>
+              <unittitle>Notebook 1</unittitle>
+              <unitdate datechar="creation">1986</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_d1960599d98db23831fd0c50cf6e4e7e" label="Mixed Materials [31142054894277]" type="Box">3</container>
+              <container id="aspace_ac5509f19ada437be71edebfbacfe719" parent="aspace_d1960599d98db23831fd0c50cf6e4e7e" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref53" level="file">
+            <did>
+              <unittitle>Notebook 2</unittitle>
+              <unitdate datechar="creation">1988</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_49407bcd60ea4f53b864d762fd239695" label="Mixed Materials [31142054894277]" type="Box">3</container>
+              <container id="aspace_f43f5ae145953d711feeb2d29917de23" parent="aspace_49407bcd60ea4f53b864d762fd239695" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref54" level="file">
+            <did>
+              <unittitle>Notebook 3</unittitle>
+              <unitdate datechar="creation">1990-1992</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_3032224ddde3398768c52e45e4fad082" label="Mixed Materials [31142054894277]" type="Box">3</container>
+              <container id="aspace_670614097d9a9471f27857ffedf334a6" parent="aspace_3032224ddde3398768c52e45e4fad082" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref55" level="file">
+            <did>
+              <unittitle>Notebook 4</unittitle>
+              <unitdate datechar="creation">1990-1993</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_abc708b5dfa49a8fd528c82d3f07d77a" label="Mixed Materials [31142054894277]" type="Box">3</container>
+              <container id="aspace_d22494e19804404c5d72ec9367fa3ab8" parent="aspace_abc708b5dfa49a8fd528c82d3f07d77a" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref56" level="file">
+            <did>
+              <unittitle>Notebook 5</unittitle>
+              <unitdate datechar="creation">1991</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_d6fb2bde37950747f42dfc439b6eff6e" label="Mixed Materials [31142054894277]" type="Box">3</container>
+              <container id="aspace_e2a845be3b71ead432978109d0dbd3da" parent="aspace_d6fb2bde37950747f42dfc439b6eff6e" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref57" level="file">
+            <did>
+              <unittitle>Notebook 6</unittitle>
+              <unitdate datechar="creation">1992</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_0ff1749fefc3df1d9f04bfd16a34b1ec" label="Mixed Materials [31142054894277]" type="Box">3</container>
+              <container id="aspace_4eae9e0115cfadfef96ddda62d68f897" parent="aspace_0ff1749fefc3df1d9f04bfd16a34b1ec" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref58" level="file">
+            <did>
+              <unittitle>Notebook 7</unittitle>
+              <unitdate datechar="creation">1992</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_55792fb2a1fdbf0fb1129f9dbff67cfe" label="Mixed Materials [31142054894277]" type="Box">3</container>
+              <container id="aspace_21b18dd79f169d0f9634a9eb826ff8b8" parent="aspace_55792fb2a1fdbf0fb1129f9dbff67cfe" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref59" level="file">
+            <did>
+              <unittitle>Notebook 8</unittitle>
+              <unitdate datechar="creation">1992</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_265f4efb1047b44a7bb8430b5d7a0576" label="Mixed Materials [31142054894277]" type="Box">3</container>
+              <container id="aspace_4e99d08bc7066462c4ddd9e11cfc4b20" parent="aspace_265f4efb1047b44a7bb8430b5d7a0576" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref60" level="file">
+            <did>
+              <unittitle>Notebook 9</unittitle>
+              <unitdate datechar="creation">1999</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_5d5b9066d8292af0605f749470f2a9e8" label="Mixed Materials [31142054894277]" type="Box">3</container>
+              <container id="aspace_6999776cb68ebc56d6f27cbbddd6ab85" parent="aspace_5d5b9066d8292af0605f749470f2a9e8" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref61" level="file">
+            <did>
+              <unittitle>Notebook 10</unittitle>
+              <unitdate datechar="creation">2000</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_7164c173668831556e0edd032522a82e" label="Mixed Materials [31142054894277]" type="Box">3</container>
+              <container id="aspace_86af3f47187b8f870cc52096d7e3035c" parent="aspace_7164c173668831556e0edd032522a82e" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref62" level="file">
+            <did>
+              <unittitle>Notebook 11</unittitle>
+              <unitdate datechar="creation">2002</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_4b8b4cc90b44a17e0f22943ebf426d99" label="Mixed Materials [31142054894277]" type="Box">3</container>
+              <container id="aspace_236b80fadeb502c223d344dbfe789091" parent="aspace_4b8b4cc90b44a17e0f22943ebf426d99" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref63" level="file">
+            <did>
+              <unittitle>Notebook 12</unittitle>
+              <unitdate datechar="creation">2002</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_a094c521e1601365e8f65141dea41b5b" label="Mixed Materials [31142054894277]" type="Box">3</container>
+              <container id="aspace_f69e028ab42cd0f362a8fd9198a8872b" parent="aspace_a094c521e1601365e8f65141dea41b5b" type="Folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_ref64" level="file">
+            <did>
+              <unittitle>Notebook 13</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_b99c525a8ea3d3b9bd52c6f7065621a6" label="Mixed Materials [31142054894277]" type="Box">3</container>
+              <container id="aspace_8496f9148a3385ee38efab27b2c048e4" parent="aspace_b99c525a8ea3d3b9bd52c6f7065621a6" type="Folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_ref65" level="file">
+            <did>
+              <unittitle>Notebook 14</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_6fd16157f778cbdddffb5e92f7389b79" label="Mixed Materials [31142054894277]" type="Box">3</container>
+              <container id="aspace_d6714fd5136c20b107a464047c205d46" parent="aspace_6fd16157f778cbdddffb5e92f7389b79" type="Folder">18</container>
+            </did>
+          </c>
+          <c id="aspace_ref66" level="file">
+            <did>
+              <unittitle>Notebook 15</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_41201e490a9c3a7199f9a50e293afc3a" label="Mixed Materials [31142054894277]" type="Box">3</container>
+              <container id="aspace_6dea782e395df01bd4e39a4149aef1fa" parent="aspace_41201e490a9c3a7199f9a50e293afc3a" type="Folder">19</container>
+            </did>
+          </c>
+          <c id="aspace_ref67" level="file">
+            <did>
+              <unittitle>Notebook 16</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_2624ae1452e56132adf99a0fd5ff5dd5" label="Mixed Materials [31142054894277]" type="Box">3</container>
+              <container id="aspace_6ec0aa6e3cd1dcd6d5ca60c62566752c" parent="aspace_2624ae1452e56132adf99a0fd5ff5dd5" type="Folder">20</container>
+            </did>
+          </c>
+          <c id="aspace_ref68" level="file">
+            <did>
+              <unittitle>Notebook 17</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_cd8c526da6aa18f70e429aa90f612b21" label="Mixed Materials [31142054894277]" type="Box">3</container>
+              <container id="aspace_d28d718f7ad45ae4c7cb542b351f696e" parent="aspace_cd8c526da6aa18f70e429aa90f612b21" type="Folder">21</container>
+            </did>
+          </c>
+          <c id="aspace_ref69" level="file">
+            <did>
+              <unittitle>Notebook 18</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_5a90ba015b194a7664bb0986a6606c5c" label="Mixed Materials [31142054894285]" type="Box">4</container>
+              <container id="aspace_72289fbf2be58545cf4b878c1c08e7d0" parent="aspace_5a90ba015b194a7664bb0986a6606c5c" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref70" level="file">
+            <did>
+              <unittitle>Notebook 19</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_381aceb369acb884dc78cc1d5a197f90" label="Mixed Materials [31142054894285]" type="Box">4</container>
+              <container id="aspace_ca3ef17522b6ad903cd0a56e026c913d" parent="aspace_381aceb369acb884dc78cc1d5a197f90" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref74" level="file">
+            <did>
+              <unittitle>Notebook 20</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_91091cd5069190451d74662284942d46" label="Mixed Materials [31142054894285]" type="Box">4</container>
+              <container id="aspace_a18484a97ece8ad13239f9de835fdd95" parent="aspace_91091cd5069190451d74662284942d46" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref75" level="file">
+            <did>
+              <unittitle>Notebook 21</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_7b957d9ca5414f48c41466ecf321638c" label="Mixed Materials [31142054894285]" type="Box">4</container>
+              <container id="aspace_edb9688c53b64a9a532bcf2cc0ddb0fa" parent="aspace_7b957d9ca5414f48c41466ecf321638c" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref76" level="file">
+            <did>
+              <unittitle>Notebook 22</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_42b63eddee14b284ca6b5157e9d11b42" label="Mixed Materials [31142054894285]" type="Box">4</container>
+              <container id="aspace_75f7197e82c451609fe5aa63065b3dcd" parent="aspace_42b63eddee14b284ca6b5157e9d11b42" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref77" level="file">
+            <did>
+              <unittitle>Notebook 23</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_d3ecb3d0ee6ebaf89caf8a466a3927c9" label="Mixed Materials [31142054894285]" type="Box">4</container>
+              <container id="aspace_e0d043ed5d2527c39ce51020c4f7e22f" parent="aspace_d3ecb3d0ee6ebaf89caf8a466a3927c9" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref71" level="file">
+            <did>
+              <unittitle>Journal 2 Fall 1988</unittitle>
+              <unitdate datechar="creation">1988</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_21282658d5a4b064378786580db2acaa" label="Mixed Materials [31142054894285]" type="Box">4</container>
+              <container id="aspace_11f92862c3284bb4dad1f96d0c45c328" parent="aspace_21282658d5a4b064378786580db2acaa" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref72" level="file">
+            <did>
+              <unittitle>Travel Diary</unittitle>
+              <unitdate datechar="creation">2002</unitdate>
+              <container altrender="Record carton" id="aspace_dbc094a08735aaa5570cd761b03d721b" label="Mixed Materials [31142054894285]" type="Box">4</container>
+              <container id="aspace_ffe2f5c03225550f172f88cb4ec027ba" parent="aspace_dbc094a08735aaa5570cd761b03d721b" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref78" level="file">
+            <did>
+              <unittitle>Address Book 1</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_80c9e42a8bb7f0c4f173fe13ac3d32e7" label="Mixed Materials [31142054894285]" type="Box">4</container>
+              <container id="aspace_d421c9c8588028d2c423d8ff9c27d3d4" parent="aspace_80c9e42a8bb7f0c4f173fe13ac3d32e7" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref79" level="file">
+            <did>
+              <unittitle>Address Book 2</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_b88e3aeb99353cf5d9bd2e3e70450c05" label="Mixed Materials [31142054894285]" type="Box">4</container>
+              <container id="aspace_7186ba4709c9ef4ab4e0f60a365b32e9" parent="aspace_b88e3aeb99353cf5d9bd2e3e70450c05" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref80" level="file">
+            <did>
+              <unittitle>Wallet Contents</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_16ad207c5dc138a3bce520684088563e" label="Mixed Materials [31142054894285]" type="Box">4</container>
+              <container id="aspace_f78158fe968725abf67dd5e7d705b6c5" parent="aspace_16ad207c5dc138a3bce520684088563e" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref82" level="file">
+            <did>
+              <unittitle>Filofax Contents</unittitle>
+              <unitdate datechar="creation" normal="1993/1996" type="inclusive">1993-1996</unitdate>
+              <container altrender="Record carton" id="aspace_60abe7c428d9804b60bd212dd2791744" label="Mixed Materials [31142054894285]" type="Box">4</container>
+              <container id="aspace_de2f4bd217704fcfc4f23288330ec037" parent="aspace_60abe7c428d9804b60bd212dd2791744" type="Folder">12</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref73" level="subseries">
+          <did>
+            <unittitle>Subseries C: Miscellaneous Papers and Documentation</unittitle>
+          </did>
+          <c id="aspace_ref81" level="file">
+            <did>
+              <unittitle>Bratmobile, Molly Neuman, and Misc. Press Clippings</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_d81d92d0b82a2c2173165cba13ec4d05" label="Mixed Materials [31142054894285]" type="Box">4</container>
+              <container id="aspace_e22806ce6789b138e7ca1083f301c927" parent="aspace_d81d92d0b82a2c2173165cba13ec4d05" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref83" level="file">
+            <did>
+              <unittitle>Binder Contents--Filmmaking &amp; Photography &amp; Misc Papers</unittitle>
+              <unitdate datechar="creation" normal="1990/1994" type="inclusive">1990-1994</unitdate>
+              <container altrender="Record carton" id="aspace_03e0dd7383e3eaf3dc775519e13e0a50" label="Mixed Materials [31142054894285]" type="Box">4</container>
+              <container id="aspace_8a6e36a0c883968753997e5b34d552ae" parent="aspace_03e0dd7383e3eaf3dc775519e13e0a50" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref85" level="file">
+            <did>
+              <unittitle>Miscellaneous Papers 1</unittitle>
+              <unitdate datechar="creation">1998</unitdate>
+              <container altrender="Record carton" id="aspace_a552dfdbcd4a2228ed40356861586c3b" label="Mixed Materials [31142054894285]" type="Box">4</container>
+              <container id="aspace_47a00ed96ebbfdb00709b86e4c0655d5" parent="aspace_a552dfdbcd4a2228ed40356861586c3b" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref86" level="file">
+            <did>
+              <unittitle>Miscellaneous Papers 2</unittitle>
+              <unitdate datechar="creation">1998</unitdate>
+              <container altrender="Record carton" id="aspace_9a55506a4f25ced7dcbb7cfef7ff4a5c" label="Mixed Materials [31142054894285]" type="Box">4</container>
+              <container id="aspace_009fb4105ba599ef179e3fa4055142fe" parent="aspace_9a55506a4f25ced7dcbb7cfef7ff4a5c" type="Folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_ref87" level="file">
+            <did>
+              <unittitle>Miscellaneous Papers 3</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_becf4ed0d0c91abc8cb6d19d61ad9ccb" label="Mixed Materials [31142054894285]" type="Box">4</container>
+              <container id="aspace_c4bb6ae9f5fee43d257ebaf3f2752a6c" parent="aspace_becf4ed0d0c91abc8cb6d19d61ad9ccb" type="Folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_ref88" level="file">
+            <did>
+              <unittitle>Miscellaneous Papers 4</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_f9cd9d5c51192519bffec28d01722b08" label="Mixed Materials [31142054894285]" type="Box">4</container>
+              <container id="aspace_9a1e470ceac451d106e79f6ea7c2f893" parent="aspace_f9cd9d5c51192519bffec28d01722b08" type="Folder">18</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref4" level="series">
+        <did>
+          <unittitle>Series III: Photography</unittitle>
+        </did>
+        <scopecontent id="aspace_da9bd6a6b1e812280052440de7afdd32">
+          <head>Scope and Content</head>
+          <p>Contains photographs of Bratmobile, creative and academic work by Molly Neuman, and other visual artifacts. A majority of the photographs were collected into albums by Molly Neuman and their original order has not been altered.</p>
+        </scopecontent>
+        <c id="aspace_ref89" level="subseries">
+          <did>
+            <unittitle>Subseries A: Loose Photos and Negatives</unittitle>
+          </did>
+          <c id="aspace_ref91" level="file">
+            <did>
+              <unittitle>Miscellaneous Photos [1 of 2]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_82f58fa126b8eb915ea61eca0b86ec3c" label="Mixed Materials [31142054894285]" type="Box">4</container>
+              <container id="aspace_a7d0e41879051f14f1a66231afcaa96f" parent="aspace_82f58fa126b8eb915ea61eca0b86ec3c" type="Folder">19</container>
+            </did>
+          </c>
+          <c id="aspace_ref119" level="file">
+            <did>
+              <unittitle>Miscellaneous Photos [2 of 2]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_9b083ca95659720331baf00bbb117203" label="Graphic Materials [31142054894285]" type="Box">4</container>
+              <container id="aspace_d2f0d6dde86a20e2d60d171e1967fd6d" parent="aspace_9b083ca95659720331baf00bbb117203" type="Folder">20</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref90" level="subseries">
+          <did>
+            <unittitle>Subseries B: Photos, Slides, and Negatives in Binders</unittitle>
+          </did>
+          <c id="aspace_ref92" level="otherlevel" otherlevel="Binder">
+            <did>
+              <unittitle>Molly Neuman: Binder #1</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <physdesc id="aspace_df1499ada7dcf06a2957271692afcb9f" label="Container Summary">slides</physdesc>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Record carton" id="aspace_36ef0c65e5caa7eabee19e2bd90374e1" label="Graphic Materials [31142054894285]" type="Box">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref94" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Molly Neuman: Binder #2</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <physdesc id="aspace_0c18525639c2d33f1bdac656d952fd65" label="Container Summary">photos and negatives</physdesc>
+              <container altrender="Record carton" id="aspace_c59f130161bcf65f19dd54e12c417a65" label="Graphic Materials [31142054894285]" type="Box">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref95" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Molly Neuman: Binder #3</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <physdesc id="aspace_5692da53e8b6d0fc6786f9ce49880303" label="Container Summary">photos and negatives</physdesc>
+              <container altrender="Record carton" id="aspace_27682049ecd5408a9323a175e7639861" label="Graphic Materials [31142054894293]" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref96" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Molly Neuman: Binder #4</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <physdesc id="aspace_938e65a1f869febac85f1fe0fb861225" label="Container Summary">photos and negatives</physdesc>
+              <container altrender="Record carton" id="aspace_2d514c41f2e25a03ad75d5271ac75917" label="Graphic Materials [31142054894293]" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref97" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Molly Neuman: Binder #5</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <physdesc id="aspace_fb906e84ff2ef73883564c68ace309ed" label="Container Summary">photos and negatives</physdesc>
+              <container altrender="Record carton" id="aspace_afb3c15a95777b00dc48ed169cdc61ef" label="Graphic Materials [31142054894293]" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref98" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Molly Neuman: Binder #6</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <physdesc id="aspace_ace09d981855877666af2bc90585df39" label="Container Summary">photos</physdesc>
+              <container altrender="Record carton" id="aspace_26ee0be4b6417f8a872b032929edb4c1" label="Graphic Materials [31142054894293]" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref99" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Molly Neuman: Binder #7</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <physdesc id="aspace_d0507553cf02e51425a0397e44ba8e92" label="Container Summary">photos</physdesc>
+              <container altrender="Record carton" id="aspace_1abdf808de11b9400149a7dc2c13b9fb" label="Graphic Materials [31142054894293]" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref100" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Molly Neuman: Binder #8</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <physdesc id="aspace_dbd1e30ceab0172c0e8e37db4930bf5b" label="Container Summary">photos</physdesc>
+              <container altrender="Record carton" id="aspace_4c9cccffb91e9d5b93f235f1afc736fd" label="Graphic Materials [31142054894293]" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref101" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Molly Neuman: Binder #9</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <physdesc id="aspace_5d7df2fc054f37feeb6c41a49a7fb0b2" label="Container Summary">photos</physdesc>
+              <container altrender="Record carton" id="aspace_b79f419870232ea811745d985ba367bb" label="Graphic Materials [31142054894293]" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref102" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Molly Neuman: Binder #10</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <physdesc id="aspace_990eb876f74a6e177ace4afa03d77849" label="Container Summary">photos</physdesc>
+              <container altrender="Record carton" id="aspace_b9f4bb4492343fda30450d63cb80a123" label="Graphic Materials [31142054894293]" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref103" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Molly Neuman: Binder #11</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <physdesc id="aspace_cc99e9f320be8aefabff4f81e8a3317a" label="Container Summary">photos</physdesc>
+              <container altrender="Record carton" id="aspace_dc69de91b299dcd4bb2808b7dc547dda" label="Graphic Materials [31142054894293]" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref104" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Molly Neuman: Binder #12</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <physdesc id="aspace_3f98251df999c5b8498af946e2f35611" label="Container Summary">photos</physdesc>
+              <container altrender="Record carton" id="aspace_740d826c9a61671d0508e32943589f71" label="Graphic Materials [31142054894301]" type="Box">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref105" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Molly Neuman: Binder #13</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <physdesc id="aspace_b64a0c5832dc44e9d7bd83a4bb8f3d78" label="Container Summary">photos</physdesc>
+              <container altrender="Record carton" id="aspace_ebc5a46f808e16cd470376f8c31c3337" label="Graphic Materials [31142054894301]" type="Box">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref106" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Molly Neuman: Binder #14</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <physdesc id="aspace_124e0123de4bc0b2180ba83ac00c0ef7" label="Container Summary">photos</physdesc>
+              <container altrender="Record carton" id="aspace_50440a57c06daa9351109c8864433de8" label="Graphic Materials [31142054894301]" type="Box">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref107" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Molly Neuman: Binder #15</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <physdesc id="aspace_7407a6113f8f522573133dcb60c65cea" label="Container Summary">photos</physdesc>
+              <container altrender="Record carton" id="aspace_eb78b25e1a80b221ce9984903990bfa1" label="Graphic Materials [31142054894301]" type="Box">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref108" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Molly Neuman: Binder #16</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <physdesc id="aspace_4c527b06751314f8a96bbffc9e91912b" label="Container Summary">photos</physdesc>
+              <container altrender="Record carton" id="aspace_cd78176af961b1674e9cdf1823e7b8b8" label="Graphic Materials [31142054894301]" type="Box">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref109" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Molly Neuman: Binder #17</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <physdesc id="aspace_20d9cf5d491862659fe7e8b9bd992ff8" label="Container Summary">photos</physdesc>
+              <container altrender="Record carton" id="aspace_e120397e81d79a232819863d6f643e71" label="Graphic Materials [31142054894301]" type="Box">6</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref93" level="series">
+        <did>
+          <unittitle>Series IV: Realia</unittitle>
+        </did>
+        <scopecontent id="aspace_9009d1087e1c40e30a612a31f8793427">
+          <head>Scope and Content</head>
+          <p>Contains t-shirts created as merchandise for the PeeChees, a band Molly Neuman was in from 1994-1998.</p>
+        </scopecontent>
+        <c id="aspace_ref110" level="subseries">
+          <did>
+            <unittitle>Subseries A: T-shirts</unittitle>
+          </did>
+          <c id="aspace_ref111" level="item">
+            <did>
+              <unittitle>PeeChees t-shirts</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <physdesc id="aspace_a964957d3e582a4598593fdc65a81933" label="Container Summary">three t-shirts</physdesc>
+              <container altrender="Flat Box - 10.5 x 15.5" id="aspace_1665f5dff9e5d7902b442f30e3f87df8" label="Realia [31142054894319]" type="Box">7</container>
+              <container id="aspace_649e311f44c5e0ed49367c9e728b03d5" parent="aspace_1665f5dff9e5d7902b442f30e3f87df8" type="object">data_value_missing_83f4180f00e9280bb82f2b72db419a2e</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref6" level="series">
+        <did>
+          <unittitle>Series V: Media</unittitle>
+        </did>
+        <accessrestrict id="aspace_2c9cae2a52822b72001656d01ac6f8c4">
+          <head>Conditions Governing Access</head>
+          <p>Audiovisual materials have not been preserved and may not be available to researchers.</p>
+        </accessrestrict>
+        <c id="aspace_ref112" level="subseries">
+          <did>
+            <unittitle>Subseries A: Film</unittitle>
+            <physdesc id="aspace_3fc6ea2d8f8f670e5a2895388d4f3e12" label="Container Summary">12 reels of motion picture film (mixed formats)</physdesc>
+            <container altrender="Flat Box - 12 x 16" id="aspace_13e7efff6923fbcec0fa87da9084ae8c" label="Mixed Materials [31142054894335]" type="Box">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref113" level="subseries">
+          <did>
+            <unittitle>Subseries B: Audio and Video</unittitle>
+          </did>
+          <c id="aspace_ref114" level="item">
+            <did>
+              <unittitle>[Schroeder 12345 Original] VHS tape</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat Box - 10.5 x 15.5" id="aspace_e79e7924028edb1465a3799edeb77395" label="Mixed Materials [31142054894327]" type="Box">8</container>
+              <container id="aspace_5c8f6ccfd53a34a6b0c1335caf8fede2" parent="aspace_e79e7924028edb1465a3799edeb77395" type="Media">ID: 289.0001</container>
+            </did>
+          </c>
+          <c id="aspace_ref115" level="item">
+            <did>
+              <unittitle>[Sweetness, I was Only Joking] VHS Tape</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat Box - 10.5 x 15.5" id="aspace_bfa64481ce4229a4c29c6a637d882377" label="Mixed Materials [31142054894327]" type="Box">8</container>
+              <container id="aspace_bc031c5163c034921fb32c719492eafd" parent="aspace_bfa64481ce4229a4c29c6a637d882377" type="Media">ID: 289.0002</container>
+            </did>
+          </c>
+          <c id="aspace_ref116" level="item">
+            <did>
+              <unittitle>[For Molly Germs] Audio Cassette Tape</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat Box - 10.5 x 15.5" id="aspace_90fdd39a91a4d0715b4830567ef62ce6" label="Mixed Materials [31142054894327]" type="Box">8</container>
+              <container id="aspace_eaa73f1421c3312e73171b198d52ff15" parent="aspace_90fdd39a91a4d0715b4830567ef62ce6" type="Media">ID: 289.0003</container>
+            </did>
+          </c>
+          <c id="aspace_ref117" level="item">
+            <did>
+              <unittitle>[Are You Only Gonna Interview Boys?] [Gary W Lemans Birthday] Audio Cassette Tape</unittitle>
+              <unitdate datechar="creation" normal="1992/1992" type="inclusive">1-5-1992</unitdate>
+              <container altrender="Flat Box - 10.5 x 15.5" id="aspace_e4e2da514c0cf0e4b560520d8231732e" label="Mixed Materials [31142054894327]" type="Box">8</container>
+              <container id="aspace_f12e937f5591901b7be1f743ccfa8c35" parent="aspace_e4e2da514c0cf0e4b560520d8231732e" type="Media">ID: 289.0004</container>
+            </did>
+          </c>
+          <c id="aspace_ref118" level="item">
+            <did>
+              <unittitle>[Helter Skillex] [Be Mine] Audio Cassette Tape</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat Box - 10.5 x 15.5" id="aspace_11585ab5b96387b6d40e0853ad64ba16" label="Mixed Materials [31142054894327]" type="Box">8</container>
+              <container id="aspace_e1ab6650a59347e77a9ce565a6e796d7" parent="aspace_11585ab5b96387b6d40e0853ad64ba16" type="Media">ID: 289.0005</container>
+            </did>
+          </c>
+          <c id="aspace_ref123" level="item">
+            <did>
+              <unittitle>Pork "Squeal" 7" vinyl record</unittitle>
+              <container altrender="Flat Box - 10.5 x 15.5" id="aspace_59bdd33f232bf093a9a2c9322178f3fc" label="Mixed Materials [31142054894327]" type="Box">8</container>
+              <container id="aspace_ad97db8da56723f90d8c65ffbfe2b4eb" parent="aspace_59bdd33f232bf093a9a2c9322178f3fc" type="Media">ID: 289.0006</container>
+            </did>
+          </c>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

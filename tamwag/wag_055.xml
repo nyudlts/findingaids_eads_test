@@ -1,74 +1,994 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/wag_055">wag_055</eadid><filedesc><titlestmt><titleproper>Guide to the International Longshoremen's Association: Reference Files Compiled by the International Longshoremen's and Warehousemen's Union <num>WAG.055</num></titleproper><author>Craig Savino and Gail Malmgreen, 2005</author></titlestmt><editionstmt><p>This version was derived from ILA Ref Files of the ILWU.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:10:41 -0400</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>International Longshoremen's Association: Reference Files Compiled by the International Longshoremen's and Warehousemen's Union</unittitle>
-    <origination label="Creator">
-      <corpname authfilenumber="(lccn)n79091212" source="naf">International Longshoremen's and Warehousemen's Union</corpname>
-    </origination>
-    <origination label="source">
-      <corpname authfilenumber="(lccn)n79091212" role="dnr" source="naf">International Longshoremen's and Warehousemen's Union</corpname>
-    </origination>
-    <unitid>WAG.055</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">5 Linear Feet</extent>
-      <extent altrender="carrier">(5 boxes)</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1921/1984" type="inclusive">1921-1984, (Bulk 1950s-1970s)</unitdate>
-    <unitdate datechar="creation" normal="1950/1979" type="bulk">1950-1979</unitdate>
-    <abstract id="aspace_1d5b1c22348ee90b9e60dcaa83f0baef" label="Abstract">In 1986, the International Longshoremen's and Warehousemen's Union (ILWU) de-accessioned reference files from its Anne Rand Research Library pertaining to its rival, the New York-based International Longshoremen's Association (ILA), and donated them to the Robert F. Wagner Labor Archives at New York University. The militant ILWU, representing West Coast longshoremen, had once been part of the ILA, but broke away during the bitter labor and political struggles of the mid-1930s. This contentious history forms the backdrop to the ILWU's amassing of extensive reference files on the ILA and its travails. The reference files include handbills, contracts, proceedings, internal documents, and newspaper clippings from the <title render="italic">New York Times</title>, the <title render="italic">Wall Street Journal</title>, the <title render="italic">Journal of Commerce</title>and other trade and labor papers – many of them documenting charges of fraud and racketeering on the New York City waterfront.</abstract>
-    <langmaterial>
-      <language langcode="eng" scriptcode="Latn">English</language>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/wag_055">wag_055</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the International Longshoremen's Association: Reference Files Compiled by the International Longshoremen's and Warehousemen's Union <num>WAG.055</num></titleproper>
+        <author>Craig Savino and Gail Malmgreen, 2005</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from ILA Ref Files of the ILWU.doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:10:41 -0400</date>.</creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>International Longshoremen's Association: Reference Files Compiled by the International Longshoremen's and Warehousemen's Union</unittitle>
+      <origination label="Creator">
+        <corpname authfilenumber="(lccn)n79091212" source="naf">International Longshoremen's and Warehousemen's Union</corpname>
+      </origination>
+      <origination label="source">
+        <corpname authfilenumber="(lccn)n79091212" role="dnr" source="naf">International Longshoremen's and Warehousemen's Union</corpname>
+      </origination>
+      <unitid>WAG.055</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">5 Linear Feet</extent>
+        <extent altrender="carrier">(5 boxes)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1921/1984" type="inclusive">1921-1984, (Bulk 1950s-1970s)</unitdate>
+      <unitdate datechar="creation" normal="1950/1979" type="bulk">1950-1979</unitdate>
+      <abstract id="aspace_1d5b1c22348ee90b9e60dcaa83f0baef" label="Abstract">In 1986, the International Longshoremen's and Warehousemen's Union (ILWU) de-accessioned reference files from its Anne Rand Research Library pertaining to its rival, the New York-based International Longshoremen's Association (ILA), and donated them to the Robert F. Wagner Labor Archives at New York University. The militant ILWU, representing West Coast longshoremen, had once been part of the ILA, but broke away during the bitter labor and political struggles of the mid-1930s. This contentious history forms the backdrop to the ILWU's amassing of extensive reference files on the ILA and its travails. The reference files include handbills, contracts, proceedings, internal documents, and newspaper clippings from the <title render="italic">New York Times</title>, the <title render="italic">Wall Street Journal</title>, the <title render="italic">Journal of Commerce</title>and other trade and labor papers – many of them documenting charges of fraud and racketeering on the New York City waterfront.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
 .    </langmaterial>
-  </did>
-  <acqinfo id="aspace_ea45d8cf6743fecf2ec0afc4af58e4d7">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by the International Longshoremen's and Warehousemen's Union, 1986. The accession number associated with this gift is 1986.006.</p>  </acqinfo>
-  <accessrestrict id="aspace_6c14e1412fa255a7117bce3f4cef2cda">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <bioghist id="aspace_55cbaf6cce3f8f9cdefd2b948f25bb3a">
-    <head>Historical/Biographical Note</head>
-<p>In 1986, the International Longshoremen's and Warehousemen's Union de-accessioned reference files from its Anne Rand Research Library pertaining to its rival, the New York-based International Longshoremen's Association, and donated them to the Robert F. Wagner Labor Archives at New York University. The ILWU and its reference librarian, Carol Schwartz believed an East Coast location would better serve the research needs of scholars studying Atlantic and Gulf Coast maritime history.</p><p>As historian Gary Fink has written, "Longshoremen's unions on the West Coast had traditionally carried on a volatile relationship with the International Longshoremen's Association (ILA)." (Fink, Labor Unions, Greenwood Press, 1977, p.196) Despite fluctuating fortunes of West Coast locals, and a powerful employers association that dominated the industry until the mid-1930s, western longshoremen maintained an uneasy affiliation with the ILA until its conservative president, Joseph Ryan clashed openly with West Coast militants over issues that culminated in the historic San Francisco general Strike of 1934. When militant leader Harry Bridges was elected president of the San Francisco ILA local in 1934 (and later West Coast District president) a split became inevitable. In 1937 the Bridges group obtained a charter from the CIO for the International longshoremen's and Warehousemen's Union, representing Pacific Coast longshoremen. In the 1940s the two unions added to their ranks while keeping a wary eye on each other, until the ILWU fell afoul of Taft-Hartley Act anti-Communist provisions. Bridges became entangled in legal battles to avoid deportation to his native Australia, and the union found itself vulnerable to raids by the Teamsters and other rivals. At the same time, in the post-World war II period ILA members became increasingly dissatisfied with their leadership, and widespread charges of corruption brought an investigation of the union by the New York State Crime Commission. The result was inconclusive, but the American Federation of Labor demanded extensive reforms; when talks with the ILA broke down the AFL suspended the union and soon chartered a rival, the International Brotherhood of Longshoremen. The fledgling IBL failed make serious inroads in ILA membership, and the ILA reaffiliated to the AFL-CIO in 1959.</p><p>This contentious history forms the backdrop to the ILWU's amassing of extensive reference files on the ILA and its travails. This collection represents an unusual glimpse of a union's serious effort to monitor the fortunes of a rival labor organization -- in this case, a rival with which it had once been affiliated.</p>  </bioghist>
-  <scopecontent id="aspace_e035c8208889f6825eb6987b441abbe8">
-    <head>Scope and Content Note</head>
-<p>The International Longshoremen's and Warehousemen's Union (ILWU) reference files on the International Longshoremen's Association (ILA) consist of 5 linear feet of "everything we could get our hands on about the ILA," according to the ILWU's librarian: handbills, contracts, proceedings, internal documents from negotiations, and newspaper clippings from the <title render="italic">New York Times</title>, the <title render="italic">Wall Street Journal</title>, the <title render="italic">Journal of Commerce</title>and other trade and labor papers. Of particular significance are the clippings files in Series II labeled "Crime and Racketeering" and "American Federation of Labor: Relations," which cover the proceedings of the New York State Crime Commission and the subsequent expulsion of the ILA from the AFL. Also of note are bargaining files ("Agreements, Negotiations"), files on strikes, and files on rank-and-file committees.</p><p>Several runs of serials, including the ILA's rank-and-file publication <title render="italic">Shape-Up</title>, have been removed from the collection and catalogued as part of the Tamiment Library.</p>  </scopecontent>
-  <arrangement id="aspace_3a7f38c721d891627d619363886d5532">
-    <head>Arrangement</head>
-<p>Both series are arranged alphabetically by topic, and chronologically within topics.</p><p>Organized into 2 series:</p>    <list type="ordered">
-      <head>Missing Title</head>
-      <item>Series I: Subject Files, 1921-1984.</item>
-      <item>Series II: Clippings Files, 1939-1979.</item>
-    </list>
-  </arrangement>
-  <relatedmaterial id="aspace_fe4ae2ab63a07f85ba7e5b3f372534ab">
-    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-<p>Oral history interviews with Thomas Gleason, ILA President; John Dwyer, leader of the International Brotherhood of Longshoremen; Sam Madell, Rank and File leader in the ILA; and working longshoremen, Ronald and Peter Bell. All interviews were taped in the early 1980s as part of the Robert F. Wagner Labor Archives' New Yorkers at Work Oral History Project. (OH # 1).</p>  </relatedmaterial>
-  <prefercite id="aspace_b352e016b9964cefa1f0c1eed1501b0f">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
-  <userestrict id="aspace_ac5b8216b6b27a3701bbc2c17ae4287a">
-    <head>Conditions Governing Use</head>
-<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by the International Longshoremen's and Warehousemen's Union was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
-  <controlaccess>
-    <genreform source="aat">Fliers (printed matter)</genreform>
-    <genreform source="aat">Clippings (information artifacts)</genreform>
-    <subject source="lcsh">Collective bargaining |x Stevedores |z United States.</subject>
-    <subject source="lcsh">Strikes and lockouts |x Stevedores |z New York (State) |z New York.</subject>
-    <genreform source="aat">Contracts</genreform>
-    <genreform source="aat">Reports.</genreform>
-    <geogname source="lcsh">New York (N.Y.).</geogname>
-    <subject source="lcsh">Stevedores -- Labor unions -- United States.</subject>
-    <corpname authfilenumber="(lccn)n82010808" rules="dacs" source="naf">International Longshoremen's Association</corpname>
-    <persname source="ingest">Ryan, Joseph.</persname>
-    <corpname authfilenumber="(lccn)n79091212" source="naf">International Longshoremen's and Warehousemen's Union</corpname>
-    <persname rules="dacs" source="local">Gleason, Thomas</persname>
-    <persname rules="dacs" source="local">Corsi, Edward</persname>
-    <corpname authfilenumber="(lccn)nr93002579" source="naf">New York (State). Crime Commission</corpname>
-    <corpname authfilenumber="(lccn)n79091212" role="dnr" source="naf">International Longshoremen's and Warehousemen's Union</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_ref14" level="otherlevel" otherlevel="unspecified"><did><unittitle>Series I: Subject Files, 1921-1984.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref15" level="file"><did><unittitle>African-American Longshoremen and Discrimination</unittitle><unitdate datechar="creation" normal="1942/1945" type="inclusive">1942-1945 , undated</unitdate><container altrender="Record carton" id="aspace_2d56d45c0532ff8c658915fdea946ec8" label="Mixed Materials [31142046921501]" type="Box">1</container><container id="aspace_817ab1ab5bf67a42cf4d33d58c82ea8a" parent="aspace_2d56d45c0532ff8c658915fdea946ec8" type="Folder">1</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>African-American Longshoremen and Discrimination</unittitle><unitdate datechar="creation" normal="1952/1961" type="inclusive">1952-1961</unitdate><container altrender="Record carton" id="aspace_c2decc96f0cd20dc2fe3c396173561b1" label="Mixed Materials [31142046921501]" type="Box">1</container><container id="aspace_a582f50352674eba9814aa52cb8fb1a1" parent="aspace_c2decc96f0cd20dc2fe3c396173561b1" type="Folder">2</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>African-American Longshoremen and Discrimination</unittitle><unitdate datechar="creation" normal="1962/1970" type="inclusive">1962-1970</unitdate><container altrender="Record carton" id="aspace_5cc708941e590bef73f1820ea0182a49" label="Mixed Materials [31142046921501]" type="Box">1</container><container id="aspace_f786170f236dc076ec14432807ed81a3" parent="aspace_5cc708941e590bef73f1820ea0182a49" type="Folder">3</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Agreements, Negotiations</unittitle><unitdate datechar="creation" normal="1921/1984" type="inclusive">undated</unitdate><container altrender="Record carton" id="aspace_66be850a1a499ca65856b3a4fb229068" label="Mixed Materials [31142046921501]" type="Box">1</container><container id="aspace_9e368333a41ac3a9baeceb8ca9f85e16" parent="aspace_66be850a1a499ca65856b3a4fb229068" type="Folder">4</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Agreements, Negotiations</unittitle><unitdate datechar="creation" normal="1921/1923" type="inclusive">1921-1923</unitdate><container altrender="Record carton" id="aspace_ec5e944cea509d59b3f7b334b0139b0b" label="Mixed Materials [31142046921501]" type="Box">1</container><container id="aspace_a72f15d86f1abacfd29276597cb5108b" parent="aspace_ec5e944cea509d59b3f7b334b0139b0b" type="Folder">5</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Agreements, Negotiations</unittitle><unitdate datechar="creation" normal="1933/1940" type="inclusive">1933-1940</unitdate><container altrender="Record carton" id="aspace_dd29c2ac5b238b0bfb71b835935b06e0" label="Mixed Materials [31142046921501]" type="Box">1</container><container id="aspace_ade22388cf32c66ccec23cd85f8a5ef6" parent="aspace_dd29c2ac5b238b0bfb71b835935b06e0" type="Folder">6</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Agreements, Negotiations</unittitle><unitdate datechar="creation" normal="1941/1945" type="inclusive">1941-1945</unitdate><container altrender="Record carton" id="aspace_b7cefbfe061c82c5496d88a4c2a31a79" label="Mixed Materials [31142046921501]" type="Box">1</container><container id="aspace_f562a854abcdd3111e2a9bf617d74cde" parent="aspace_b7cefbfe061c82c5496d88a4c2a31a79" type="Folder">7</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Agreements, Negotiations</unittitle><unitdate datechar="creation" normal="1946/1948" type="inclusive">1946-1948</unitdate><container altrender="Record carton" id="aspace_502c56ce66f16db347e49ea386d7bf40" label="Mixed Materials [31142046921501]" type="Box">1</container><container id="aspace_f2147584b382710026bc741537dea28a" parent="aspace_502c56ce66f16db347e49ea386d7bf40" type="Folder">8</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Agreements, Negotiations</unittitle><unitdate datechar="creation" normal="1951/1953" type="inclusive">1951 , 1953</unitdate><container altrender="Record carton" id="aspace_a07f06d7fdb38f789772b0cec99e74e2" label="Mixed Materials [31142046921501]" type="Box">1</container><container id="aspace_fae1fd5bd5aa49bb4e5ce0d297b2d3b2" parent="aspace_a07f06d7fdb38f789772b0cec99e74e2" type="Folder">9</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Agreements, Negotiations</unittitle><unitdate datechar="creation" normal="1954/1955" type="inclusive">1954-1955</unitdate><container altrender="Record carton" id="aspace_8860db73490e41428fefee5ab32f8474" label="Mixed Materials [31142046921501]" type="Box">1</container><container id="aspace_0bc2d197f0eaa1b43c2bdce4364f65f3" parent="aspace_8860db73490e41428fefee5ab32f8474" type="Folder">10</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Agreements, Negotiations</unittitle><unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate><container altrender="Record carton" id="aspace_952725fdb8cd4278b35116491a1899cb" label="Mixed Materials [31142046921501]" type="Box">1</container><container id="aspace_8ce5ee7138a728ab99f0c15a3e60d70a" parent="aspace_952725fdb8cd4278b35116491a1899cb" type="Folder">11</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Agreements, Negotiations</unittitle><unitdate datechar="creation" normal="1957/1959" type="inclusive">1957-1959</unitdate><container altrender="Record carton" id="aspace_3f9b69a55988247b8ed08f5879b23302" label="Mixed Materials [31142046921501]" type="Box">1</container><container id="aspace_5d664ad3c840ad21de5c3e08fee02fbf" parent="aspace_3f9b69a55988247b8ed08f5879b23302" type="Folder">12</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Agreements, Negotiations</unittitle><unitdate datechar="creation" normal="1960/1965" type="inclusive">1960-1965</unitdate><container altrender="Record carton" id="aspace_146feb1df0d7b8a9859adc53ec1caae5" label="Mixed Materials [31142046921501]" type="Box">1</container><container id="aspace_32599cb02b28c9d80a843d30e9c84fb9" parent="aspace_146feb1df0d7b8a9859adc53ec1caae5" type="Folder">13</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Agreements, Negotiations</unittitle><unitdate datechar="creation" normal="1966/1968" type="inclusive">1966-1968</unitdate><container altrender="Record carton" id="aspace_ce63ce6f0d543426f0524d647cdf1357" label="Mixed Materials [31142046921501]" type="Box">1</container><container id="aspace_eebdd082b9c694efdc335382891a8183" parent="aspace_ce63ce6f0d543426f0524d647cdf1357" type="Folder">14</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Agreements, Negotiations</unittitle><unitdate datechar="creation" normal="1969/1970" type="inclusive">1969-1970</unitdate><container altrender="Record carton" id="aspace_da9d4a875b377f46782801966a144161" label="Mixed Materials [31142046921501]" type="Box">1</container><container id="aspace_bfe105db85235ef81994d534c9b9bf5f" parent="aspace_da9d4a875b377f46782801966a144161" type="Folder">15</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Agreements, Negotiations</unittitle><unitdate datechar="creation" normal="1971/1972" type="inclusive">1971-1972</unitdate><container altrender="Record carton" id="aspace_308ec00e2a3417b2d3e38bf8c2d8ace7" label="Mixed Materials [31142046921501]" type="Box">1</container><container id="aspace_2b63ebf96b49416f8a575cdc5d29d564" parent="aspace_308ec00e2a3417b2d3e38bf8c2d8ace7" type="Folder">16</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Agreements, Negotiations</unittitle><unitdate datechar="creation" normal="1974/1978" type="inclusive">1974-1978</unitdate><container altrender="Record carton" id="aspace_1b2547feb8cf04d0153f1e6367c917c3" label="Mixed Materials [31142046921501]" type="Box">1</container><container id="aspace_c1b0d9223e50ea9d11a06013eb5456d9" parent="aspace_1b2547feb8cf04d0153f1e6367c917c3" type="Folder">17</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Agreements, Negotiations</unittitle><unitdate datechar="creation" normal="1962/1965" type="inclusive">1962-1965</unitdate><container altrender="Record carton" id="aspace_7bc3dada00b37fbadc47836503787a01" label="Mixed Materials [31142046921501]" type="Box">1</container><container id="aspace_492a557477f1a94ebcbaff55c7dd7af3" parent="aspace_7bc3dada00b37fbadc47836503787a01" type="Folder">18</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Agreements, Negotiations: Seniority</unittitle><unitdate datechar="creation" normal="1957/1962" type="inclusive">1957-1958 , 1962</unitdate><container altrender="Record carton" id="aspace_0f1b8c1b16db5bbe01b0fa3be6c6e288" label="Mixed Materials [31142046921501]" type="Box">1</container><container id="aspace_6c5e63358c8566243383b39ca0e751a8" parent="aspace_0f1b8c1b16db5bbe01b0fa3be6c6e288" type="Folder">19</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>American Federation of Labor Relations: AFL Flyers, Leaflets</unittitle><unitdate datechar="creation" normal="1953/1956" type="inclusive">1953-1956</unitdate><container altrender="Record carton" id="aspace_8e6eb77771b45f92c48e0024b66fe23c" label="Mixed Materials [31142046921501]" type="Box">1</container><container id="aspace_db446ac15da11ae30612f86b9482551d" parent="aspace_8e6eb77771b45f92c48e0024b66fe23c" type="Folder">20</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>American Federation of Labor Relations: International Longshoremen's Association, leaflets</unittitle><unitdate datechar="creation" normal="1953/1956" type="inclusive">1953-1956</unitdate><container altrender="Record carton" id="aspace_eab2eca5bf30e299ae7ec1b56b0155ca" label="Mixed Materials [31142046921501]" type="Box">1</container><container id="aspace_20497abab5a646ae04a66afa2e6ac520" parent="aspace_eab2eca5bf30e299ae7ec1b56b0155ca" type="Folder">21</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>American Federation of Labor Relations: International Longshoremen's and Warehousemen's Union, Flyers and Leaflets</unittitle><unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate><container altrender="Record carton" id="aspace_a691c35aa07b77f04954f4ab1a5f0c82" label="Mixed Materials [31142046921501]" type="Box">1</container><container id="aspace_4b0e0288936945ada01fb38d127e591e" parent="aspace_a691c35aa07b77f04954f4ab1a5f0c82" type="Folder">22</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>American Federation of Labor Relations: Re-Affiliation</unittitle><unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate><container altrender="Record carton" id="aspace_defd8666bf579a5218e24558fcabb4b4" label="Mixed Materials [31142046921501]" type="Box">1</container><container id="aspace_6c850e944beee09a9bf40c7b73d2672b" parent="aspace_defd8666bf579a5218e24558fcabb4b4" type="Folder">23</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>American Federation of Labor Relations: Seafarers' International Union Proposal</unittitle><unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate><container altrender="Record carton" id="aspace_dc9df9dfcf6c860d6b79db877c95f1b6" label="Mixed Materials [31142046921501]" type="Box">1</container><container id="aspace_9e52073da4a4057877d8ad88a64eb830" parent="aspace_dc9df9dfcf6c860d6b79db877c95f1b6" type="Folder">24</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>American Federation of Labor Relations: United Mine Workers</unittitle><unitdate datechar="creation" normal="1951/1957" type="inclusive">1951-1957</unitdate><container altrender="Record carton" id="aspace_62c674c3ec34a72006ad0ac9a95d970f" label="Mixed Materials [31142046921501]" type="Box">1</container><container id="aspace_52d438b2d488a3fd4bfe7e38dd402cb5" parent="aspace_62c674c3ec34a72006ad0ac9a95d970f" type="Folder">25</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Bradley, William V.</unittitle><unitdate datechar="creation" normal="1953/1973" type="inclusive">1953-1961 , 1967 , 1973</unitdate><container altrender="Record carton" id="aspace_4a0520d71330b84dad3a28b55b0425cf" label="Mixed Materials [31142046921501]" type="Box">1</container><container id="aspace_b88355c72b78bff008bddf3e3e1f0a62" parent="aspace_4a0520d71330b84dad3a28b55b0425cf" type="Folder">26</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Code of Fair Dealing</unittitle><unitdate datechar="creation">Mar 1956</unitdate><container altrender="Record carton" id="aspace_969091f62be90ace34e799b97f5bfa5e" label="Mixed Materials [31142046921501]" type="Box">1</container><container id="aspace_9f6dd1c9fbb639890339564bdff5c914" parent="aspace_969091f62be90ace34e799b97f5bfa5e" type="Folder">27</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Crime and Racketeering</unittitle><unitdate datechar="creation" normal="1945/1979" type="inclusive">1945-1953 , 1970 , 1979</unitdate><container altrender="Record carton" id="aspace_a658786f2ad4dc022dfbb96557493b08" label="Mixed Materials [31142046921501]" type="Box">1</container><container id="aspace_d3a125e2d972fcb07bc188a35788bf8a" parent="aspace_a658786f2ad4dc022dfbb96557493b08" type="Folder">28</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Gleason, Thomas W.</unittitle><unitdate datechar="creation" normal="1955/1979" type="inclusive">1955 , 1957-1958 , 1961-1979</unitdate><container altrender="Record carton" id="aspace_f2e873e106ebb5fed43d868adeb59a48" label="Mixed Materials [31142046921501]" type="Box">1</container><container id="aspace_035dc264d983e7991a85cf0954784bf1" parent="aspace_f2e873e106ebb5fed43d868adeb59a48" type="Folder">29</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Hiring: Shape-up and Hiring Hall</unittitle><unitdate datechar="creation" normal="1942/1954" type="inclusive">1942-1954</unitdate><container altrender="Record carton" id="aspace_818cb7dc7277bb088e2c1b930bd58153" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_36d7f609b87e28f72893b5589e447209" parent="aspace_818cb7dc7277bb088e2c1b930bd58153" type="Folder">1</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Hiring: Shape-up and Hiring Hall</unittitle><unitdate datechar="creation" normal="1955/1978" type="inclusive">1955-1978</unitdate><container altrender="Record carton" id="aspace_bea20d078464e5c797df80da22d082c7" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_a20d30cb5c185bd2d321b79a65346f04" parent="aspace_bea20d078464e5c797df80da22d082c7" type="Folder">2</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>International Longshoremen's Association: Canada</unittitle><unitdate datechar="creation" normal="1963/1984" type="inclusive">1963-1969 , 1972-1979 , 1981-1984</unitdate><container altrender="Record carton" id="aspace_70fdd9a193686ef66c8b5050b546197a" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_61380c5a55bc12421bc1369f3452a00d" parent="aspace_70fdd9a193686ef66c8b5050b546197a" type="Folder">3</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>International Longshoremen's Association: Constitution</unittitle><unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Record carton" id="aspace_e4acde7c11bac1588133041481d58965" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_7a6ef3931132ad19e0d56782d23a2198" parent="aspace_e4acde7c11bac1588133041481d58965" type="Folder">4</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>International Longshoremen's Association: Conventions</unittitle><unitdate datechar="creation" normal="1940/1957" type="inclusive">1940 , 1949 , 1951, 1955-1957</unitdate><container altrender="Record carton" id="aspace_078c9bc744678bb1253eccf92967bbd6" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_9ac73c172c899313e2ce0355c99062fc" parent="aspace_078c9bc744678bb1253eccf92967bbd6" type="Folder">5</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>International Longshoremen's Association: Conventions</unittitle><unitdate datechar="creation" normal="1967/1975" type="inclusive">1967 , 1971 , 1975</unitdate><container altrender="Record carton" id="aspace_20bc946feb53aad08bb0fe8c6343d57f" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_bd42b85c84bc6304787c8350a9d400d0" parent="aspace_20bc946feb53aad08bb0fe8c6343d57f" type="Folder">6</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>International Longshoremen's Association: Directories</unittitle><unitdate datechar="creation" normal="1940/1940" type="inclusive">1940 , undated</unitdate><container altrender="Record carton" id="aspace_012da1491d123afe4ffba6ce419298b7" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_f48c66738012874d07db3c5293b691f9" parent="aspace_012da1491d123afe4ffba6ce419298b7" type="Folder">7</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>International Longshoremen's Association Headquarters: Notices</unittitle><unitdate datechar="creation" normal="1937/1955" type="inclusive">1937 , 1955</unitdate><container altrender="Record carton" id="aspace_d88bb0ac829435978a1d58df6b3ba180" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_80734cba79b02397e01ea4e0cdb449e0" parent="aspace_d88bb0ac829435978a1d58df6b3ba180" type="Folder">8</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Local 815 (Milwaukee), <title render="italic">Longshoremen's Voice</title></unittitle><unitdate datechar="creation">Mar 1972</unitdate><container altrender="Record carton" id="aspace_fe73c8f071b7bc9be1ee9b46cd1f5d91" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_d976a4e33c6457fb07061e47a93de54a" parent="aspace_fe73c8f071b7bc9be1ee9b46cd1f5d91" type="Folder">9</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Local 1291 (Philadelphia)</unittitle><unitdate datechar="creation" normal="1949/1949" type="inclusive">1949 , undated</unitdate><container altrender="Record carton" id="aspace_94433bd4d50e449dd9cf310a7f8cfa35" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_35efff7df2a911cd175ee59f6e9a59f8" parent="aspace_94433bd4d50e449dd9cf310a7f8cfa35" type="Folder">10</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Local 1419</unittitle><unitdate datechar="creation" normal="1938/1938" type="inclusive">1938</unitdate><container altrender="Record carton" id="aspace_97ca7c953ac01fa396fc7d3f3a54ca04" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_ad28872471517b86bc9d4bf312182e2a" parent="aspace_97ca7c953ac01fa396fc7d3f3a54ca04" type="Folder">11</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Local 1814 (Brooklyn, NY)</unittitle><unitdate datechar="creation" normal="1954/1974" type="inclusive">1954 , 1960-1969 , 1973-1974</unitdate><container altrender="Record carton" id="aspace_0f41798e702b2a7998f63e10a84886ff" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_05515660cbc6b2546023706e0e240672" parent="aspace_0f41798e702b2a7998f63e10a84886ff" type="Folder">12</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Loyalty Rally: Flyer, Rally Song</unittitle><unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate><container altrender="Record carton" id="aspace_af6e70ffb477366ac9433efd69923374" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_08f3ed2ba66ddcf729d3494847c3a48e" parent="aspace_af6e70ffb477366ac9433efd69923374" type="Folder">13</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Maritime Safety Code</unittitle><unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate><container altrender="Record carton" id="aspace_5f83a616305294130451a80b81a684c0" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_17054a569888a8f93de88041a34d11cf" parent="aspace_5f83a616305294130451a80b81a684c0" type="Folder">14</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>National Labor Relations Board Rulings</unittitle><unitdate datechar="creation" normal="1954/1956" type="inclusive">1954 , 1956</unitdate><container altrender="Record carton" id="aspace_5e6ccdddb19bafa0aad85575f32ce0ed" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_267ae8f108a883dafa5b5815e9582c4d" parent="aspace_5e6ccdddb19bafa0aad85575f32ce0ed" type="Folder">15</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Rank and File Committees: Flyers and Leaflets</unittitle><unitdate datechar="creation" normal="1941/1954" type="inclusive">1941-1949 , 1953-1954 , 1962, undated</unitdate><container altrender="Record carton" id="aspace_be3cfe7657e8aa713145382ee9fdde6f" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_8bb98a9408a3c344cefde368f1a25efe" parent="aspace_be3cfe7657e8aa713145382ee9fdde6f" type="Folder">16</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Ryan, Joseph P.</unittitle><unitdate datechar="creation" normal="1933/1963" type="inclusive">1933-1937 , 1940-1959 , 1963</unitdate><container altrender="Record carton" id="aspace_45d26ae26a5b39a6b8fc9b64fd4512ec" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_638f798d0a85e1c7d73980801f72fd54" parent="aspace_45d26ae26a5b39a6b8fc9b64fd4512ec" type="Folder">17</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>Shape-Up (New York ILA Publication)</unittitle><unitdate datechar="creation" normal="1921/1984" type="inclusive">Undated</unitdate><container altrender="Record carton" id="aspace_03d06bb883a6d3c1ff97a109b7e061db" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_85a3728b61d5352554e2825ce1490c00" parent="aspace_03d06bb883a6d3c1ff97a109b7e061db" type="Folder">18</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>Strikes</unittitle><unitdate datechar="creation" normal="1945/1952" type="inclusive">1945 , 1951-1952</unitdate><container altrender="Record carton" id="aspace_edc7bc5b80b89f795a1ca043a0b79abf" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_35a3182f9dbe16191e0297dd4d1cb21b" parent="aspace_edc7bc5b80b89f795a1ca043a0b79abf" type="Folder">19</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>Strikes</unittitle><unitdate datechar="creation" normal="1953/1957" type="inclusive">1953-1957</unitdate><container altrender="Record carton" id="aspace_f410c69da4cbb3fc2d6fe00b7a2661d1" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_c580c40576ec8fc8d3859618488d354a" parent="aspace_f410c69da4cbb3fc2d6fe00b7a2661d1" type="Folder">20</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>Strikes</unittitle><unitdate datechar="creation" normal="1963/1965" type="inclusive">1963 , 1965</unitdate><container altrender="Record carton" id="aspace_9a72c2379f15611b821482fc1f1e69a3" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_702e3064c341098d5f0690667aab7b9b" parent="aspace_9a72c2379f15611b821482fc1f1e69a3" type="Folder">21</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Strikes</unittitle><unitdate datechar="creation" normal="1972/1977" type="inclusive">1972 , 1977</unitdate><container altrender="Record carton" id="aspace_a0c49e4cfa2fdb70c595b5b358ed1baf" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_8de56ff381625026466272d3d7151990" parent="aspace_a0c49e4cfa2fdb70c595b5b358ed1baf" type="Folder">22</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>Strikes: Board of Inquiry</unittitle><unitdate datechar="creation" normal="1948/1957" type="inclusive">1948 , 1951-1957</unitdate><container altrender="Record carton" id="aspace_36bd50634d943f310a90aec841ebd360" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_a1198dfe97beba8fb95ee774abefcda6" parent="aspace_36bd50634d943f310a90aec841ebd360" type="Folder">23</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>Strikes: Board of Inquiry</unittitle><unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate><container altrender="Record carton" id="aspace_f2261c45f8d54fe2d485dc66eb3179da" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_718e8cceb4f3452f56aeb84d9abd6f25" parent="aspace_f2261c45f8d54fe2d485dc66eb3179da" type="Folder">24</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>Waterfront Commission</unittitle><unitdate datechar="creation" normal="1953/1955" type="inclusive">1953-1955</unitdate><container altrender="Record carton" id="aspace_57c5bbc2293e55d72d52e6f2d482a550" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_932374d3b18b545c71baa425f2c949d7" parent="aspace_57c5bbc2293e55d72d52e6f2d482a550" type="Folder">25</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Waterfront Commission</unittitle><unitdate datechar="creation" normal="1956/1970" type="inclusive">1956-1960 , 1970</unitdate><container altrender="Record carton" id="aspace_8e02c3c1bcf8c20620edf8de53031a0b" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_fbfd7557fbe61d27d99bbc4251969b2a" parent="aspace_8e02c3c1bcf8c20620edf8de53031a0b" type="Folder">26</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Waterfront Research Committee</unittitle><unitdate datechar="creation" normal="1938/1940" type="inclusive">1938 , 1940</unitdate><container altrender="Record carton" id="aspace_1f9c4dc0e0ac55a2bf1d58181eae1dfd" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_d61ad9e0241b19973fc3e73a8d9c877e" parent="aspace_1f9c4dc0e0ac55a2bf1d58181eae1dfd" type="Folder">27</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Waterfront Research Committee</unittitle><unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate><container altrender="Record carton" id="aspace_4f82b62736af02f46a4b009236a8b715" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_355050bb1ccbd5f413b32d6a0a787645" parent="aspace_4f82b62736af02f46a4b009236a8b715" type="Folder">28</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Work Record, Holiday Schedule</unittitle><unitdate datechar="creation" normal="1955/1977" type="inclusive">1955 , 1976-1977</unitdate><container altrender="Record carton" id="aspace_4698d5ca702755c5af26e6fe5b946393" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_e653edc24fd53d09372648ad75abc092" parent="aspace_4698d5ca702755c5af26e6fe5b946393" type="Folder">29</container></did></c></c><c id="aspace_ref73" level="otherlevel" otherlevel="unspecified"><did><unittitle>Series II: Clippings Files, 1939-1979.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref74" level="file"><did><unittitle>ILA Clippings</unittitle><unitdate datechar="creation" normal="1939/1947" type="inclusive">1939-1947</unitdate><container altrender="Record carton" id="aspace_413b40008347ee5236de6f164d647a52" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_2c4709a680e173ace49eb203c60f558c" parent="aspace_413b40008347ee5236de6f164d647a52" type="Folder">30</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>ILA Clippings</unittitle><unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949</unitdate><container altrender="Record carton" id="aspace_51a1e2c6f0acaf135e0c1545d6a20d22" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_b170f338b9e150b709b6e1666e205caf" parent="aspace_51a1e2c6f0acaf135e0c1545d6a20d22" type="Folder">31</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>ILA Clippings</unittitle><unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate><container altrender="Record carton" id="aspace_d4fb68b051b75f90d5552e80e3967ede" label="Mixed Materials [31142054613743]" type="Box">2</container><container id="aspace_7f356da984947bd4601eb7ea56f0c359" parent="aspace_d4fb68b051b75f90d5552e80e3967ede" type="Folder">32</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>ILA Clippings</unittitle><unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate><container altrender="Record carton" id="aspace_3cd739879d5972fc6d91d9e89cb382d4" label="Mixed Materials [31142062725075]" type="Box">3</container><container id="aspace_fc81ee8ac26ca36b597c7b20c7c4626e" parent="aspace_3cd739879d5972fc6d91d9e89cb382d4" type="Folder">1</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>ILA Clippings</unittitle><unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate><container altrender="Record carton" id="aspace_1867bb4c1709b3fb07c92d3c32825e07" label="Mixed Materials [31142062725075]" type="Box">3</container><container id="aspace_692f1708ac41262c48ecb8668f211151" parent="aspace_1867bb4c1709b3fb07c92d3c32825e07" type="Folder">2</container></did></c><c id="aspace_ref79" level="file"><did><unittitle>ILA Clippings</unittitle><unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate><container altrender="Record carton" id="aspace_89f8e35c9348bb2512716546f784bdfa" label="Mixed Materials [31142062725075]" type="Box">3</container><container id="aspace_1273ee9523073c9d656d73b6a40deb98" parent="aspace_89f8e35c9348bb2512716546f784bdfa" type="Folder">3</container></did></c><c id="aspace_ref80" level="file"><did><unittitle>ILA Clippings</unittitle><unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate><container altrender="Record carton" id="aspace_09aad3b48f758874098361b09708798f" label="Mixed Materials [31142062725075]" type="Box">3</container><container id="aspace_376d64cc983ccff2add55e1c97c33ed6" parent="aspace_09aad3b48f758874098361b09708798f" type="Folder">4</container></did></c><c id="aspace_ref81" level="file"><did><unittitle>ILA Clippings</unittitle><unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate><container altrender="Record carton" id="aspace_fb32a468400859ecd1aeb5dc82716ca3" label="Mixed Materials [31142062725075]" type="Box">3</container><container id="aspace_1c31dfd3994de12cf96cc8516e0b7dcc" parent="aspace_fb32a468400859ecd1aeb5dc82716ca3" type="Folder">5</container></did></c><c id="aspace_ref82" level="file"><did><unittitle>ILA Clippings</unittitle><unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate><container altrender="Record carton" id="aspace_e9c4f4f9078f696644bcd63e039fce1b" label="Mixed Materials [31142062725075]" type="Box">3</container><container id="aspace_a2389bbefaeb5f3c61ed94ce374a5e35" parent="aspace_e9c4f4f9078f696644bcd63e039fce1b" type="Folder">6</container></did></c><c id="aspace_ref83" level="file"><did><unittitle>ILA Clippings</unittitle><unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate><container altrender="Record carton" id="aspace_e36753f110130d9e8c646d3f0fa8f438" label="Mixed Materials [31142062725075]" type="Box">3</container><container id="aspace_21e4ac11c422883991069cd6d1ccf432" parent="aspace_e36753f110130d9e8c646d3f0fa8f438" type="Folder">7</container></did></c><c id="aspace_ref84" level="file"><did><unittitle>ILA Clippings</unittitle><unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate><container altrender="Record carton" id="aspace_ab98643355645b01972cda6100da63cf" label="Mixed Materials [31142062725075]" type="Box">3</container><container id="aspace_98e8390f45979f22e73b455c636620ae" parent="aspace_ab98643355645b01972cda6100da63cf" type="Folder">8</container></did></c><c id="aspace_ref85" level="file"><did><unittitle>ILA Clippings</unittitle><unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate><container altrender="Record carton" id="aspace_0d58bbe02958225f31f7e0cccdd944c1" label="Mixed Materials [31142062725075]" type="Box">3</container><container id="aspace_c7a5766bdfe42d58f61b20ec016ad76a" parent="aspace_0d58bbe02958225f31f7e0cccdd944c1" type="Folder">9</container></did></c><c id="aspace_ref86" level="file"><did><unittitle>ILA Clippings</unittitle><unitdate datechar="creation" normal="1960/1961" type="inclusive">1960-1961</unitdate><container altrender="Record carton" id="aspace_522354aa910f401fd5a0c273f1ef2674" label="Mixed Materials [31142062725075]" type="Box">3</container><container id="aspace_3900378a3709f10214af4c800f8e569f" parent="aspace_522354aa910f401fd5a0c273f1ef2674" type="Folder">10</container></did></c><c id="aspace_ref87" level="file"><did><unittitle>ILA Clippings</unittitle><unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate><container altrender="Record carton" id="aspace_0f3874cace75e682924c02be94d0627d" label="Mixed Materials [31142062725075]" type="Box">3</container><container id="aspace_1881f770e860fe8760187af1d4607372" parent="aspace_0f3874cace75e682924c02be94d0627d" type="Folder">11</container></did></c><c id="aspace_ref88" level="file"><did><unittitle>ILA Clippings</unittitle><unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate><container altrender="Record carton" id="aspace_f838d88f31a7f5ad36d3109343e8520a" label="Mixed Materials [31142062725075]" type="Box">3</container><container id="aspace_0d266a95d629dce41f10036d916f0f00" parent="aspace_f838d88f31a7f5ad36d3109343e8520a" type="Folder">12</container></did></c><c id="aspace_ref89" level="file"><did><unittitle>ILA Clippings</unittitle><unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate><container altrender="Record carton" id="aspace_df63698f4341bda765aa88ceb6f57af2" label="Mixed Materials [31142062725075]" type="Box">3</container><container id="aspace_5443ac30bd155e8b82478073835a18eb" parent="aspace_df63698f4341bda765aa88ceb6f57af2" type="Folder">13</container></did></c><c id="aspace_ref90" level="file"><did><unittitle>ILA Clippings</unittitle><unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate><container altrender="Record carton" id="aspace_fac9274cf587fca97752237c95d0ea30" label="Mixed Materials [31142062725075]" type="Box">3</container><container id="aspace_8de1a0cff03f4facdfad998936534c94" parent="aspace_fac9274cf587fca97752237c95d0ea30" type="Folder">14</container></did></c><c id="aspace_ref91" level="file"><did><unittitle>ILA Clippings</unittitle><unitdate datechar="creation" normal="1966/1967" type="inclusive">1966-1967</unitdate><container altrender="Record carton" id="aspace_fe70218816082e293a4cc170830934f7" label="Mixed Materials [31142062725075]" type="Box">3</container><container id="aspace_1e9167421917aebf46a0ca7e8c67c09b" parent="aspace_fe70218816082e293a4cc170830934f7" type="Folder">15</container></did></c><c id="aspace_ref92" level="file"><did><unittitle>ILA Clippings</unittitle><unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Record carton" id="aspace_8271a9292935643e5e404b9875f946ba" label="Mixed Materials [31142062725075]" type="Box">3</container><container id="aspace_68017bf26ebebb8e909da24aab5f8528" parent="aspace_8271a9292935643e5e404b9875f946ba" type="Folder">16</container></did></c><c id="aspace_ref93" level="file"><did><unittitle>ILA Clippings</unittitle><unitdate datechar="creation" normal="1969/1970" type="inclusive">1969-1970</unitdate><container altrender="Record carton" id="aspace_62e0a0bfc73261d07579c82aee2acd6e" label="Mixed Materials [31142062725075]" type="Box">3</container><container id="aspace_646711db9e566dec42255c1ae3beeceb" parent="aspace_62e0a0bfc73261d07579c82aee2acd6e" type="Folder">17</container></did></c><c id="aspace_ref94" level="file"><did><unittitle>ILA Clippings</unittitle><unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Record carton" id="aspace_760dcf9ef32a745089491d29f2d2dcbb" label="Mixed Materials [31142062725109]" type="Box">4</container><container id="aspace_ec763d527443a3d0bf7c59b74661034f" parent="aspace_760dcf9ef32a745089491d29f2d2dcbb" type="Folder">1</container></did></c><c id="aspace_ref95" level="file"><did><unittitle>ILA Clippings</unittitle><unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate><container altrender="Record carton" id="aspace_cb4f80dec92c2385ac4bd13383874148" label="Mixed Materials [31142062725109]" type="Box">4</container><container id="aspace_ef4216e4ab312fa4852db4a8d092ccc3" parent="aspace_cb4f80dec92c2385ac4bd13383874148" type="Folder">2</container></did></c><c id="aspace_ref96" level="file"><did><unittitle>ILA Clippings</unittitle><unitdate datechar="creation" normal="1973/1976" type="inclusive">1973-1976</unitdate><container altrender="Record carton" id="aspace_d63983cc65c3aa6f8651e89bd972241a" label="Mixed Materials [31142062725109]" type="Box">4</container><container id="aspace_c1e86021a04a5f3558f16d16acd6bbac" parent="aspace_d63983cc65c3aa6f8651e89bd972241a" type="Folder">3</container></did></c><c id="aspace_ref97" level="file"><did><unittitle>ILA Clippings</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Record carton" id="aspace_02913ac7a7ec64133770aa0714bf485c" label="Mixed Materials [31142062725109]" type="Box">4</container><container id="aspace_f2cc9c8cbf48a0a32da382e43fff8813" parent="aspace_02913ac7a7ec64133770aa0714bf485c" type="Folder">4</container></did></c><c id="aspace_ref98" level="file"><did><unittitle>ILA Clippings</unittitle><unitdate datechar="creation" normal="1973/1978" type="inclusive">1973-1978</unitdate><container altrender="Record carton" id="aspace_a7a40bd32a844f0a785de3973928bf1e" label="Mixed Materials [31142062725109]" type="Box">4</container><container id="aspace_cceffe5cc372af8242dfb12c624e59b9" parent="aspace_a7a40bd32a844f0a785de3973928bf1e" type="Folder">5</container></did></c><c id="aspace_ref99" level="file"><did><unittitle>ILA Clippings: American Federation of Labor, Relations</unittitle><unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate><container altrender="Record carton" id="aspace_d63eb5bd6ca6a09491593e8e9893a9ad" label="Mixed Materials [31142062725109]" type="Box">4</container><container id="aspace_59452625960af2ebd4776911ac002ae2" parent="aspace_d63eb5bd6ca6a09491593e8e9893a9ad" type="Folder">6</container></did></c><c id="aspace_ref100" level="file"><did><unittitle>ILA Clippings: American Federation of Labor, Relations</unittitle><unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate><container altrender="Record carton" id="aspace_924b16493a8c6e449568574e78d6ff2f" label="Mixed Materials [31142062725109]" type="Box">4</container><container id="aspace_6fef98ee076a6c76c42dd00783c6d381" parent="aspace_924b16493a8c6e449568574e78d6ff2f" type="Folder">7</container></did></c><c id="aspace_ref101" level="file"><did><unittitle>ILA Clippings: American Federation of Labor, Relations</unittitle><unitdate datechar="creation" normal="1955/1961" type="inclusive">1955-1961</unitdate><container altrender="Record carton" id="aspace_43c132af7c2d5ed8ed263c0d7dc1894d" label="Mixed Materials [31142062725109]" type="Box">4</container><container id="aspace_cd54309c96a3e9a70228acf9d75419fc" parent="aspace_43c132af7c2d5ed8ed263c0d7dc1894d" type="Folder">8</container></did></c><c id="aspace_ref102" level="file"><did><unittitle>ILA Clippings: Anastasia, Anthony</unittitle><unitdate datechar="creation" normal="1952/1963" type="inclusive">1952-1963</unitdate><container altrender="Record carton" id="aspace_3f46886b7b3fec15a0ab582edecb17d6" label="Mixed Materials [31142062725109]" type="Box">4</container><container id="aspace_95c547644ac726e1129a3f040dd9c412" parent="aspace_3f46886b7b3fec15a0ab582edecb17d6" type="Folder">9</container></did></c><c id="aspace_ref103" level="file"><did><unittitle>ILA Clippings: Boycotts</unittitle><unitdate datechar="creation" normal="1950/1979" type="inclusive">1950 , 1956-1979</unitdate><container altrender="Record carton" id="aspace_7a24a3b63edf72fa265d0ff4ba32c789" label="Mixed Materials [31142062725109]" type="Box">4</container><container id="aspace_f12b0c3304a2f39701bb03b7ba9487aa" parent="aspace_7a24a3b63edf72fa265d0ff4ba32c789" type="Folder">10</container></did></c><c id="aspace_ref104" level="file"><did><unittitle>ILA Clippings: Crime and Racketeering</unittitle><unitdate datechar="creation" normal="1940/1949" type="inclusive">1940-1942 , 1946-1949</unitdate><container altrender="Record carton" id="aspace_8d81def2a71306dcb9a95e9266e91244" label="Mixed Materials [31142062725109]" type="Box">4</container><container id="aspace_ffa5d1d8ddb90a796f5d3f36241ac3d1" parent="aspace_8d81def2a71306dcb9a95e9266e91244" type="Folder">11</container></did></c><c id="aspace_ref105" level="file"><did><unittitle>ILA Clippings: Crime and Racketeering</unittitle><unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate><container altrender="Record carton" id="aspace_7dc79ca18549f0f011ade92917f7ca1a" label="Mixed Materials [31142062725109]" type="Box">4</container><container id="aspace_ce74d0ecffa3421161aa98d7b4c1348d" parent="aspace_7dc79ca18549f0f011ade92917f7ca1a" type="Folder">12</container></did></c><c id="aspace_ref106" level="file"><did><unittitle>ILA Clippings: Crime and Racketeering</unittitle><unitdate datechar="creation">Jan 1952-Nov 1952</unitdate><container altrender="Record carton" id="aspace_971ddc7109a6c50296c8766a8ea7c606" label="Mixed Materials [31142062725109]" type="Box">4</container><container id="aspace_d50492d473de3434fe0e587f3080645e" parent="aspace_971ddc7109a6c50296c8766a8ea7c606" type="Folder">13</container></did></c><c id="aspace_ref107" level="file"><did><unittitle>ILA Clippings: Crime and Racketeering</unittitle><unitdate datechar="creation">Dec 1, 1952-Dec 14, 1952</unitdate><container altrender="Record carton" id="aspace_4c9c91e5e69d6656398489efceaa9a22" label="Mixed Materials [31142062725083]" type="Box">5</container><container id="aspace_3cb97b4a4c2836e7f4a995890c83d0f7" parent="aspace_4c9c91e5e69d6656398489efceaa9a22" type="Folder">1</container></did></c><c id="aspace_ref108" level="file"><did><unittitle>ILA Clippings: Crime and Racketeering</unittitle><unitdate datechar="creation">Dec 15, 1952-Dec 20, 1952</unitdate><container altrender="Record carton" id="aspace_3630261dfe8aa48105bec4824a4650b7" label="Mixed Materials [31142062725083]" type="Box">5</container><container id="aspace_92cb0b09eeb8c60221973d31c3121310" parent="aspace_3630261dfe8aa48105bec4824a4650b7" type="Folder">2</container></did></c><c id="aspace_ref109" level="file"><did><unittitle>ILA Clippings: Crime and Racketeering</unittitle><unitdate datechar="creation">Dec 21, 1952-Dec 31, 1952</unitdate><container altrender="Record carton" id="aspace_5a77264c3e7c9830eaff4e40e834f58a" label="Mixed Materials [31142062725083]" type="Box">5</container><container id="aspace_0890f8a2115d3a4d83d76cfd4b8b60ba" parent="aspace_5a77264c3e7c9830eaff4e40e834f58a" type="Folder">3</container></did></c><c id="aspace_ref110" level="file"><did><unittitle>ILA Clippings: Crime and Racketeering</unittitle><unitdate datechar="creation">Jan 1, 1953-Jan 16, 1953</unitdate><container altrender="Record carton" id="aspace_57bfe964492bb490ff0805ab257fbfa8" label="Mixed Materials [31142062725083]" type="Box">5</container><container id="aspace_ca6c0a4d7b5a2f39ec632ab407f2c121" parent="aspace_57bfe964492bb490ff0805ab257fbfa8" type="Folder">4</container></did></c><c id="aspace_ref111" level="file"><did><unittitle>ILA Clippings: Crime and Racketeering</unittitle><unitdate datechar="creation">Jan 17, 1953-Jan 31, 1953</unitdate><container altrender="Record carton" id="aspace_ccae2777ca428f83566d80e5de0a1945" label="Mixed Materials [31142062725083]" type="Box">5</container><container id="aspace_22f8f8ef4367393cbe8b8dead8534848" parent="aspace_ccae2777ca428f83566d80e5de0a1945" type="Folder">5</container></did></c><c id="aspace_ref112" level="file"><did><unittitle>ILA Clippings: Crime and Racketeering</unittitle><unitdate datechar="creation">Feb 1953-May 1953</unitdate><container altrender="Record carton" id="aspace_9877b23a04d89a8177a1cbb2fa4fba0b" label="Mixed Materials [31142062725083]" type="Box">5</container><container id="aspace_396d02b5c262dd67af002a3c78f4e8c3" parent="aspace_9877b23a04d89a8177a1cbb2fa4fba0b" type="Folder">6</container></did></c><c id="aspace_ref113" level="file"><did><unittitle>ILA Clippings: Crime and Racketeering</unittitle><unitdate datechar="creation">Jun 1953-Dec 1953</unitdate><container altrender="Record carton" id="aspace_b35aade46da927c47d2d6c8ceb5c357d" label="Mixed Materials [31142062725083]" type="Box">5</container><container id="aspace_b38be9b080ea474ea1cceabffecb3fec" parent="aspace_b35aade46da927c47d2d6c8ceb5c357d" type="Folder">7</container></did></c><c id="aspace_ref114" level="file"><did><unittitle>ILA Clippings: Crime and Racketeering</unittitle><unitdate datechar="creation" normal="1954/1955" type="inclusive">1954-1955</unitdate><container altrender="Record carton" id="aspace_0e7ae1084fb6416390da6c833dbc863c" label="Mixed Materials [31142062725083]" type="Box">5</container><container id="aspace_17ae9c4c176325b0dfe488f4b1243f1d" parent="aspace_0e7ae1084fb6416390da6c833dbc863c" type="Folder">8</container></did></c><c id="aspace_ref115" level="file"><did><unittitle>ILA Clippings: Crime and Racketeering</unittitle><unitdate datechar="creation" normal="1956/1959" type="inclusive">1956-1959</unitdate><container altrender="Record carton" id="aspace_9602e81900fb56c4c4b9b5c23f1d2823" label="Mixed Materials [31142062725083]" type="Box">5</container><container id="aspace_356cfdb6bcc6929dfb3d3e34ca707f5f" parent="aspace_9602e81900fb56c4c4b9b5c23f1d2823" type="Folder">9</container></did></c><c id="aspace_ref116" level="file"><did><unittitle>ILA Clippings: Crime and Racketeering</unittitle><unitdate datechar="creation" normal="1960/1975" type="inclusive">1960-1975</unitdate><container altrender="Record carton" id="aspace_0401f1550938e036a3400677fde10d83" label="Mixed Materials [31142062725083]" type="Box">5</container><container id="aspace_b07883a2db3690e68f87552dde8581b8" parent="aspace_0401f1550938e036a3400677fde10d83" type="Folder">10</container></did></c><c id="aspace_ref117" level="file"><did><unittitle>ILA Clippings: Crime and Racketeering</unittitle><unitdate datechar="creation" normal="1976/1979" type="inclusive">1976-1979</unitdate><container altrender="Record carton" id="aspace_f4702e0af0ebdf12763edf38571ac607" label="Mixed Materials [31142062725083]" type="Box">5</container><container id="aspace_9d2dc2235a7d04ace4d4558392b12720" parent="aspace_f4702e0af0ebdf12763edf38571ac607" type="Folder">11</container></did></c><c id="aspace_ref118" level="file"><did><unittitle>ILA Clippings: Local 1814, Brooklyn</unittitle><unitdate datechar="creation" normal="1954/1976" type="inclusive">1954 , 1963-1969 , 1976</unitdate><container altrender="Record carton" id="aspace_1c8507e5995520abd21a956ef46a8137" label="Mixed Materials [31142062725083]" type="Box">5</container><container id="aspace_2116a7d7f8c5393de6f122d8e61a4a1d" parent="aspace_1c8507e5995520abd21a956ef46a8137" type="Folder">12</container></did></c><c id="aspace_ref119" level="file"><did><unittitle>ILA Clippings: Scotto, Anthony</unittitle><unitdate datechar="creation" normal="1963/1970" type="inclusive">1963-1970</unitdate><container altrender="Record carton" id="aspace_efc554b0b9f8a332c809b7aa6e3fb310" label="Mixed Materials [31142062725083]" type="Box">5</container><container id="aspace_4c938fd9144a2e021748668a0809901f" parent="aspace_efc554b0b9f8a332c809b7aa6e3fb310" type="Folder">13</container></did></c><c id="aspace_ref120" level="file"><did><unittitle>ILA Clippings: Scotto, Anthony</unittitle><unitdate datechar="creation" normal="1971/1978" type="inclusive">1971-1978</unitdate><container altrender="Record carton" id="aspace_37f382ee05ba820195150227cff88ab1" label="Mixed Materials [31142062725083]" type="Box">5</container><container id="aspace_7bfce7a5efe8ba6111aaf585e8e2f9f2" parent="aspace_37f382ee05ba820195150227cff88ab1" type="Folder">14</container></did></c><c id="aspace_ref121" level="file"><did><unittitle>ILA Clippings: Scotto, Anthony</unittitle><unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Record carton" id="aspace_fe1cd26451c762dc143abe35589cb284" label="Mixed Materials [31142062725083]" type="Box">5</container><container id="aspace_b17ed7bf849c5411f81f3d6a01b98630" parent="aspace_fe1cd26451c762dc143abe35589cb284" type="Folder">15</container></did></c><c id="aspace_ref122" level="file"><did><unittitle>ILA Clippings: Seniority and Hiring</unittitle><unitdate datechar="creation" normal="1966/1978" type="inclusive">1966 , 1971-1972 , 1978</unitdate><container altrender="Record carton" id="aspace_d2a1a1239bc4450b9980a89026eb167e" label="Mixed Materials [31142062725083]" type="Box">5</container><container id="aspace_122b6b774cd613f7a2e880634e3e524f" parent="aspace_d2a1a1239bc4450b9980a89026eb167e" type="Folder">16</container></did></c><c id="aspace_ref123" level="file"><did><unittitle>ILA Clippings: Waterfront Commission</unittitle><unitdate datechar="creation" normal="1953/1978" type="inclusive">1953-1978</unitdate><container altrender="Record carton" id="aspace_decc52abf5db0a860b49ab36d271646d" label="Mixed Materials [31142062725083]" type="Box">5</container><container id="aspace_4ab41c50d68b9cc484277fa9c1471c4f" parent="aspace_decc52abf5db0a860b49ab36d271646d" type="Folder">17</container></did></c></c></dsc>
-</archdesc>
+    </did>
+    <acqinfo id="aspace_ea45d8cf6743fecf2ec0afc4af58e4d7">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by the International Longshoremen's and Warehousemen's Union, 1986. The accession number associated with this gift is 1986.006.</p>
+    </acqinfo>
+    <accessrestrict id="aspace_6c14e1412fa255a7117bce3f4cef2cda">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <bioghist id="aspace_55cbaf6cce3f8f9cdefd2b948f25bb3a">
+      <head>Historical/Biographical Note</head>
+      <p>In 1986, the International Longshoremen's and Warehousemen's Union de-accessioned reference files from its Anne Rand Research Library pertaining to its rival, the New York-based International Longshoremen's Association, and donated them to the Robert F. Wagner Labor Archives at New York University. The ILWU and its reference librarian, Carol Schwartz believed an East Coast location would better serve the research needs of scholars studying Atlantic and Gulf Coast maritime history.</p>
+      <p>As historian Gary Fink has written, "Longshoremen's unions on the West Coast had traditionally carried on a volatile relationship with the International Longshoremen's Association (ILA)." (Fink, Labor Unions, Greenwood Press, 1977, p.196) Despite fluctuating fortunes of West Coast locals, and a powerful employers association that dominated the industry until the mid-1930s, western longshoremen maintained an uneasy affiliation with the ILA until its conservative president, Joseph Ryan clashed openly with West Coast militants over issues that culminated in the historic San Francisco general Strike of 1934. When militant leader Harry Bridges was elected president of the San Francisco ILA local in 1934 (and later West Coast District president) a split became inevitable. In 1937 the Bridges group obtained a charter from the CIO for the International longshoremen's and Warehousemen's Union, representing Pacific Coast longshoremen. In the 1940s the two unions added to their ranks while keeping a wary eye on each other, until the ILWU fell afoul of Taft-Hartley Act anti-Communist provisions. Bridges became entangled in legal battles to avoid deportation to his native Australia, and the union found itself vulnerable to raids by the Teamsters and other rivals. At the same time, in the post-World war II period ILA members became increasingly dissatisfied with their leadership, and widespread charges of corruption brought an investigation of the union by the New York State Crime Commission. The result was inconclusive, but the American Federation of Labor demanded extensive reforms; when talks with the ILA broke down the AFL suspended the union and soon chartered a rival, the International Brotherhood of Longshoremen. The fledgling IBL failed make serious inroads in ILA membership, and the ILA reaffiliated to the AFL-CIO in 1959.</p>
+      <p>This contentious history forms the backdrop to the ILWU's amassing of extensive reference files on the ILA and its travails. This collection represents an unusual glimpse of a union's serious effort to monitor the fortunes of a rival labor organization -- in this case, a rival with which it had once been affiliated.</p>
+    </bioghist>
+    <scopecontent id="aspace_e035c8208889f6825eb6987b441abbe8">
+      <head>Scope and Content Note</head>
+      <p>The International Longshoremen's and Warehousemen's Union (ILWU) reference files on the International Longshoremen's Association (ILA) consist of 5 linear feet of "everything we could get our hands on about the ILA," according to the ILWU's librarian: handbills, contracts, proceedings, internal documents from negotiations, and newspaper clippings from the <title render="italic">New York Times</title>, the <title render="italic">Wall Street Journal</title>, the <title render="italic">Journal of Commerce</title>and other trade and labor papers. Of particular significance are the clippings files in Series II labeled "Crime and Racketeering" and "American Federation of Labor: Relations," which cover the proceedings of the New York State Crime Commission and the subsequent expulsion of the ILA from the AFL. Also of note are bargaining files ("Agreements, Negotiations"), files on strikes, and files on rank-and-file committees.</p>
+      <p>Several runs of serials, including the ILA's rank-and-file publication <title render="italic">Shape-Up</title>, have been removed from the collection and catalogued as part of the Tamiment Library.</p>
+    </scopecontent>
+    <arrangement id="aspace_3a7f38c721d891627d619363886d5532">
+      <head>Arrangement</head>
+      <p>Both series are arranged alphabetically by topic, and chronologically within topics.</p>
+      <p>Organized into 2 series:</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>Series I: Subject Files, 1921-1984.</item>
+        <item>Series II: Clippings Files, 1939-1979.</item>
+      </list>
+    </arrangement>
+    <relatedmaterial id="aspace_fe4ae2ab63a07f85ba7e5b3f372534ab">
+      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+      <p>Oral history interviews with Thomas Gleason, ILA President; John Dwyer, leader of the International Brotherhood of Longshoremen; Sam Madell, Rank and File leader in the ILA; and working longshoremen, Ronald and Peter Bell. All interviews were taped in the early 1980s as part of the Robert F. Wagner Labor Archives' New Yorkers at Work Oral History Project. (OH # 1).</p>
+    </relatedmaterial>
+    <prefercite id="aspace_b352e016b9964cefa1f0c1eed1501b0f">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <userestrict id="aspace_ac5b8216b6b27a3701bbc2c17ae4287a">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by the International Longshoremen's and Warehousemen's Union was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <controlaccess>
+      <genreform source="aat">Fliers (printed matter)</genreform>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <subject source="lcsh">Collective bargaining |x Stevedores |z United States.</subject>
+      <subject source="lcsh">Strikes and lockouts |x Stevedores |z New York (State) |z New York.</subject>
+      <genreform source="aat">Contracts</genreform>
+      <genreform source="aat">Reports.</genreform>
+      <geogname source="lcsh">New York (N.Y.).</geogname>
+      <subject source="lcsh">Stevedores -- Labor unions -- United States.</subject>
+      <corpname authfilenumber="(lccn)n82010808" rules="dacs" source="naf">International Longshoremen's Association</corpname>
+      <persname source="ingest">Ryan, Joseph.</persname>
+      <corpname authfilenumber="(lccn)n79091212" source="naf">International Longshoremen's and Warehousemen's Union</corpname>
+      <persname rules="dacs" source="local">Gleason, Thomas</persname>
+      <persname rules="dacs" source="local">Corsi, Edward</persname>
+      <corpname authfilenumber="(lccn)nr93002579" source="naf">New York (State). Crime Commission</corpname>
+      <corpname authfilenumber="(lccn)n79091212" role="dnr" source="naf">International Longshoremen's and Warehousemen's Union</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref14" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Series I: Subject Files, 1921-1984.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>African-American Longshoremen and Discrimination</unittitle>
+            <unitdate datechar="creation" normal="1942/1945" type="inclusive">1942-1945 , undated</unitdate>
+            <container altrender="Record carton" id="aspace_2d56d45c0532ff8c658915fdea946ec8" label="Mixed Materials [31142046921501]" type="Box">1</container>
+            <container id="aspace_817ab1ab5bf67a42cf4d33d58c82ea8a" parent="aspace_2d56d45c0532ff8c658915fdea946ec8" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>African-American Longshoremen and Discrimination</unittitle>
+            <unitdate datechar="creation" normal="1952/1961" type="inclusive">1952-1961</unitdate>
+            <container altrender="Record carton" id="aspace_c2decc96f0cd20dc2fe3c396173561b1" label="Mixed Materials [31142046921501]" type="Box">1</container>
+            <container id="aspace_a582f50352674eba9814aa52cb8fb1a1" parent="aspace_c2decc96f0cd20dc2fe3c396173561b1" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>African-American Longshoremen and Discrimination</unittitle>
+            <unitdate datechar="creation" normal="1962/1970" type="inclusive">1962-1970</unitdate>
+            <container altrender="Record carton" id="aspace_5cc708941e590bef73f1820ea0182a49" label="Mixed Materials [31142046921501]" type="Box">1</container>
+            <container id="aspace_f786170f236dc076ec14432807ed81a3" parent="aspace_5cc708941e590bef73f1820ea0182a49" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Agreements, Negotiations</unittitle>
+            <unitdate datechar="creation" normal="1921/1984" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_66be850a1a499ca65856b3a4fb229068" label="Mixed Materials [31142046921501]" type="Box">1</container>
+            <container id="aspace_9e368333a41ac3a9baeceb8ca9f85e16" parent="aspace_66be850a1a499ca65856b3a4fb229068" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Agreements, Negotiations</unittitle>
+            <unitdate datechar="creation" normal="1921/1923" type="inclusive">1921-1923</unitdate>
+            <container altrender="Record carton" id="aspace_ec5e944cea509d59b3f7b334b0139b0b" label="Mixed Materials [31142046921501]" type="Box">1</container>
+            <container id="aspace_a72f15d86f1abacfd29276597cb5108b" parent="aspace_ec5e944cea509d59b3f7b334b0139b0b" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Agreements, Negotiations</unittitle>
+            <unitdate datechar="creation" normal="1933/1940" type="inclusive">1933-1940</unitdate>
+            <container altrender="Record carton" id="aspace_dd29c2ac5b238b0bfb71b835935b06e0" label="Mixed Materials [31142046921501]" type="Box">1</container>
+            <container id="aspace_ade22388cf32c66ccec23cd85f8a5ef6" parent="aspace_dd29c2ac5b238b0bfb71b835935b06e0" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Agreements, Negotiations</unittitle>
+            <unitdate datechar="creation" normal="1941/1945" type="inclusive">1941-1945</unitdate>
+            <container altrender="Record carton" id="aspace_b7cefbfe061c82c5496d88a4c2a31a79" label="Mixed Materials [31142046921501]" type="Box">1</container>
+            <container id="aspace_f562a854abcdd3111e2a9bf617d74cde" parent="aspace_b7cefbfe061c82c5496d88a4c2a31a79" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Agreements, Negotiations</unittitle>
+            <unitdate datechar="creation" normal="1946/1948" type="inclusive">1946-1948</unitdate>
+            <container altrender="Record carton" id="aspace_502c56ce66f16db347e49ea386d7bf40" label="Mixed Materials [31142046921501]" type="Box">1</container>
+            <container id="aspace_f2147584b382710026bc741537dea28a" parent="aspace_502c56ce66f16db347e49ea386d7bf40" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Agreements, Negotiations</unittitle>
+            <unitdate datechar="creation" normal="1951/1953" type="inclusive">1951 , 1953</unitdate>
+            <container altrender="Record carton" id="aspace_a07f06d7fdb38f789772b0cec99e74e2" label="Mixed Materials [31142046921501]" type="Box">1</container>
+            <container id="aspace_fae1fd5bd5aa49bb4e5ce0d297b2d3b2" parent="aspace_a07f06d7fdb38f789772b0cec99e74e2" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Agreements, Negotiations</unittitle>
+            <unitdate datechar="creation" normal="1954/1955" type="inclusive">1954-1955</unitdate>
+            <container altrender="Record carton" id="aspace_8860db73490e41428fefee5ab32f8474" label="Mixed Materials [31142046921501]" type="Box">1</container>
+            <container id="aspace_0bc2d197f0eaa1b43c2bdce4364f65f3" parent="aspace_8860db73490e41428fefee5ab32f8474" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Agreements, Negotiations</unittitle>
+            <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
+            <container altrender="Record carton" id="aspace_952725fdb8cd4278b35116491a1899cb" label="Mixed Materials [31142046921501]" type="Box">1</container>
+            <container id="aspace_8ce5ee7138a728ab99f0c15a3e60d70a" parent="aspace_952725fdb8cd4278b35116491a1899cb" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Agreements, Negotiations</unittitle>
+            <unitdate datechar="creation" normal="1957/1959" type="inclusive">1957-1959</unitdate>
+            <container altrender="Record carton" id="aspace_3f9b69a55988247b8ed08f5879b23302" label="Mixed Materials [31142046921501]" type="Box">1</container>
+            <container id="aspace_5d664ad3c840ad21de5c3e08fee02fbf" parent="aspace_3f9b69a55988247b8ed08f5879b23302" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Agreements, Negotiations</unittitle>
+            <unitdate datechar="creation" normal="1960/1965" type="inclusive">1960-1965</unitdate>
+            <container altrender="Record carton" id="aspace_146feb1df0d7b8a9859adc53ec1caae5" label="Mixed Materials [31142046921501]" type="Box">1</container>
+            <container id="aspace_32599cb02b28c9d80a843d30e9c84fb9" parent="aspace_146feb1df0d7b8a9859adc53ec1caae5" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Agreements, Negotiations</unittitle>
+            <unitdate datechar="creation" normal="1966/1968" type="inclusive">1966-1968</unitdate>
+            <container altrender="Record carton" id="aspace_ce63ce6f0d543426f0524d647cdf1357" label="Mixed Materials [31142046921501]" type="Box">1</container>
+            <container id="aspace_eebdd082b9c694efdc335382891a8183" parent="aspace_ce63ce6f0d543426f0524d647cdf1357" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Agreements, Negotiations</unittitle>
+            <unitdate datechar="creation" normal="1969/1970" type="inclusive">1969-1970</unitdate>
+            <container altrender="Record carton" id="aspace_da9d4a875b377f46782801966a144161" label="Mixed Materials [31142046921501]" type="Box">1</container>
+            <container id="aspace_bfe105db85235ef81994d534c9b9bf5f" parent="aspace_da9d4a875b377f46782801966a144161" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Agreements, Negotiations</unittitle>
+            <unitdate datechar="creation" normal="1971/1972" type="inclusive">1971-1972</unitdate>
+            <container altrender="Record carton" id="aspace_308ec00e2a3417b2d3e38bf8c2d8ace7" label="Mixed Materials [31142046921501]" type="Box">1</container>
+            <container id="aspace_2b63ebf96b49416f8a575cdc5d29d564" parent="aspace_308ec00e2a3417b2d3e38bf8c2d8ace7" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Agreements, Negotiations</unittitle>
+            <unitdate datechar="creation" normal="1974/1978" type="inclusive">1974-1978</unitdate>
+            <container altrender="Record carton" id="aspace_1b2547feb8cf04d0153f1e6367c917c3" label="Mixed Materials [31142046921501]" type="Box">1</container>
+            <container id="aspace_c1b0d9223e50ea9d11a06013eb5456d9" parent="aspace_1b2547feb8cf04d0153f1e6367c917c3" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Agreements, Negotiations</unittitle>
+            <unitdate datechar="creation" normal="1962/1965" type="inclusive">1962-1965</unitdate>
+            <container altrender="Record carton" id="aspace_7bc3dada00b37fbadc47836503787a01" label="Mixed Materials [31142046921501]" type="Box">1</container>
+            <container id="aspace_492a557477f1a94ebcbaff55c7dd7af3" parent="aspace_7bc3dada00b37fbadc47836503787a01" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Agreements, Negotiations: Seniority</unittitle>
+            <unitdate datechar="creation" normal="1957/1962" type="inclusive">1957-1958 , 1962</unitdate>
+            <container altrender="Record carton" id="aspace_0f1b8c1b16db5bbe01b0fa3be6c6e288" label="Mixed Materials [31142046921501]" type="Box">1</container>
+            <container id="aspace_6c5e63358c8566243383b39ca0e751a8" parent="aspace_0f1b8c1b16db5bbe01b0fa3be6c6e288" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>American Federation of Labor Relations: AFL Flyers, Leaflets</unittitle>
+            <unitdate datechar="creation" normal="1953/1956" type="inclusive">1953-1956</unitdate>
+            <container altrender="Record carton" id="aspace_8e6eb77771b45f92c48e0024b66fe23c" label="Mixed Materials [31142046921501]" type="Box">1</container>
+            <container id="aspace_db446ac15da11ae30612f86b9482551d" parent="aspace_8e6eb77771b45f92c48e0024b66fe23c" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>American Federation of Labor Relations: International Longshoremen's Association, leaflets</unittitle>
+            <unitdate datechar="creation" normal="1953/1956" type="inclusive">1953-1956</unitdate>
+            <container altrender="Record carton" id="aspace_eab2eca5bf30e299ae7ec1b56b0155ca" label="Mixed Materials [31142046921501]" type="Box">1</container>
+            <container id="aspace_20497abab5a646ae04a66afa2e6ac520" parent="aspace_eab2eca5bf30e299ae7ec1b56b0155ca" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>American Federation of Labor Relations: International Longshoremen's and Warehousemen's Union, Flyers and Leaflets</unittitle>
+            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
+            <container altrender="Record carton" id="aspace_a691c35aa07b77f04954f4ab1a5f0c82" label="Mixed Materials [31142046921501]" type="Box">1</container>
+            <container id="aspace_4b0e0288936945ada01fb38d127e591e" parent="aspace_a691c35aa07b77f04954f4ab1a5f0c82" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>American Federation of Labor Relations: Re-Affiliation</unittitle>
+            <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate>
+            <container altrender="Record carton" id="aspace_defd8666bf579a5218e24558fcabb4b4" label="Mixed Materials [31142046921501]" type="Box">1</container>
+            <container id="aspace_6c850e944beee09a9bf40c7b73d2672b" parent="aspace_defd8666bf579a5218e24558fcabb4b4" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>American Federation of Labor Relations: Seafarers' International Union Proposal</unittitle>
+            <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
+            <container altrender="Record carton" id="aspace_dc9df9dfcf6c860d6b79db877c95f1b6" label="Mixed Materials [31142046921501]" type="Box">1</container>
+            <container id="aspace_9e52073da4a4057877d8ad88a64eb830" parent="aspace_dc9df9dfcf6c860d6b79db877c95f1b6" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>American Federation of Labor Relations: United Mine Workers</unittitle>
+            <unitdate datechar="creation" normal="1951/1957" type="inclusive">1951-1957</unitdate>
+            <container altrender="Record carton" id="aspace_62c674c3ec34a72006ad0ac9a95d970f" label="Mixed Materials [31142046921501]" type="Box">1</container>
+            <container id="aspace_52d438b2d488a3fd4bfe7e38dd402cb5" parent="aspace_62c674c3ec34a72006ad0ac9a95d970f" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Bradley, William V.</unittitle>
+            <unitdate datechar="creation" normal="1953/1973" type="inclusive">1953-1961 , 1967 , 1973</unitdate>
+            <container altrender="Record carton" id="aspace_4a0520d71330b84dad3a28b55b0425cf" label="Mixed Materials [31142046921501]" type="Box">1</container>
+            <container id="aspace_b88355c72b78bff008bddf3e3e1f0a62" parent="aspace_4a0520d71330b84dad3a28b55b0425cf" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Code of Fair Dealing</unittitle>
+            <unitdate datechar="creation">Mar 1956</unitdate>
+            <container altrender="Record carton" id="aspace_969091f62be90ace34e799b97f5bfa5e" label="Mixed Materials [31142046921501]" type="Box">1</container>
+            <container id="aspace_9f6dd1c9fbb639890339564bdff5c914" parent="aspace_969091f62be90ace34e799b97f5bfa5e" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Crime and Racketeering</unittitle>
+            <unitdate datechar="creation" normal="1945/1979" type="inclusive">1945-1953 , 1970 , 1979</unitdate>
+            <container altrender="Record carton" id="aspace_a658786f2ad4dc022dfbb96557493b08" label="Mixed Materials [31142046921501]" type="Box">1</container>
+            <container id="aspace_d3a125e2d972fcb07bc188a35788bf8a" parent="aspace_a658786f2ad4dc022dfbb96557493b08" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Gleason, Thomas W.</unittitle>
+            <unitdate datechar="creation" normal="1955/1979" type="inclusive">1955 , 1957-1958 , 1961-1979</unitdate>
+            <container altrender="Record carton" id="aspace_f2e873e106ebb5fed43d868adeb59a48" label="Mixed Materials [31142046921501]" type="Box">1</container>
+            <container id="aspace_035dc264d983e7991a85cf0954784bf1" parent="aspace_f2e873e106ebb5fed43d868adeb59a48" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Hiring: Shape-up and Hiring Hall</unittitle>
+            <unitdate datechar="creation" normal="1942/1954" type="inclusive">1942-1954</unitdate>
+            <container altrender="Record carton" id="aspace_818cb7dc7277bb088e2c1b930bd58153" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_36d7f609b87e28f72893b5589e447209" parent="aspace_818cb7dc7277bb088e2c1b930bd58153" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Hiring: Shape-up and Hiring Hall</unittitle>
+            <unitdate datechar="creation" normal="1955/1978" type="inclusive">1955-1978</unitdate>
+            <container altrender="Record carton" id="aspace_bea20d078464e5c797df80da22d082c7" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_a20d30cb5c185bd2d321b79a65346f04" parent="aspace_bea20d078464e5c797df80da22d082c7" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>International Longshoremen's Association: Canada</unittitle>
+            <unitdate datechar="creation" normal="1963/1984" type="inclusive">1963-1969 , 1972-1979 , 1981-1984</unitdate>
+            <container altrender="Record carton" id="aspace_70fdd9a193686ef66c8b5050b546197a" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_61380c5a55bc12421bc1369f3452a00d" parent="aspace_70fdd9a193686ef66c8b5050b546197a" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>International Longshoremen's Association: Constitution</unittitle>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+            <container altrender="Record carton" id="aspace_e4acde7c11bac1588133041481d58965" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_7a6ef3931132ad19e0d56782d23a2198" parent="aspace_e4acde7c11bac1588133041481d58965" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>International Longshoremen's Association: Conventions</unittitle>
+            <unitdate datechar="creation" normal="1940/1957" type="inclusive">1940 , 1949 , 1951, 1955-1957</unitdate>
+            <container altrender="Record carton" id="aspace_078c9bc744678bb1253eccf92967bbd6" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_9ac73c172c899313e2ce0355c99062fc" parent="aspace_078c9bc744678bb1253eccf92967bbd6" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>International Longshoremen's Association: Conventions</unittitle>
+            <unitdate datechar="creation" normal="1967/1975" type="inclusive">1967 , 1971 , 1975</unitdate>
+            <container altrender="Record carton" id="aspace_20bc946feb53aad08bb0fe8c6343d57f" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_bd42b85c84bc6304787c8350a9d400d0" parent="aspace_20bc946feb53aad08bb0fe8c6343d57f" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>International Longshoremen's Association: Directories</unittitle>
+            <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940 , undated</unitdate>
+            <container altrender="Record carton" id="aspace_012da1491d123afe4ffba6ce419298b7" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_f48c66738012874d07db3c5293b691f9" parent="aspace_012da1491d123afe4ffba6ce419298b7" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>International Longshoremen's Association Headquarters: Notices</unittitle>
+            <unitdate datechar="creation" normal="1937/1955" type="inclusive">1937 , 1955</unitdate>
+            <container altrender="Record carton" id="aspace_d88bb0ac829435978a1d58df6b3ba180" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_80734cba79b02397e01ea4e0cdb449e0" parent="aspace_d88bb0ac829435978a1d58df6b3ba180" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Local 815 (Milwaukee), <title render="italic">Longshoremen's Voice</title></unittitle>
+            <unitdate datechar="creation">Mar 1972</unitdate>
+            <container altrender="Record carton" id="aspace_fe73c8f071b7bc9be1ee9b46cd1f5d91" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_d976a4e33c6457fb07061e47a93de54a" parent="aspace_fe73c8f071b7bc9be1ee9b46cd1f5d91" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Local 1291 (Philadelphia)</unittitle>
+            <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949 , undated</unitdate>
+            <container altrender="Record carton" id="aspace_94433bd4d50e449dd9cf310a7f8cfa35" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_35efff7df2a911cd175ee59f6e9a59f8" parent="aspace_94433bd4d50e449dd9cf310a7f8cfa35" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Local 1419</unittitle>
+            <unitdate datechar="creation" normal="1938/1938" type="inclusive">1938</unitdate>
+            <container altrender="Record carton" id="aspace_97ca7c953ac01fa396fc7d3f3a54ca04" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_ad28872471517b86bc9d4bf312182e2a" parent="aspace_97ca7c953ac01fa396fc7d3f3a54ca04" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Local 1814 (Brooklyn, NY)</unittitle>
+            <unitdate datechar="creation" normal="1954/1974" type="inclusive">1954 , 1960-1969 , 1973-1974</unitdate>
+            <container altrender="Record carton" id="aspace_0f41798e702b2a7998f63e10a84886ff" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_05515660cbc6b2546023706e0e240672" parent="aspace_0f41798e702b2a7998f63e10a84886ff" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Loyalty Rally: Flyer, Rally Song</unittitle>
+            <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
+            <container altrender="Record carton" id="aspace_af6e70ffb477366ac9433efd69923374" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_08f3ed2ba66ddcf729d3494847c3a48e" parent="aspace_af6e70ffb477366ac9433efd69923374" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Maritime Safety Code</unittitle>
+            <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+            <container altrender="Record carton" id="aspace_5f83a616305294130451a80b81a684c0" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_17054a569888a8f93de88041a34d11cf" parent="aspace_5f83a616305294130451a80b81a684c0" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>National Labor Relations Board Rulings</unittitle>
+            <unitdate datechar="creation" normal="1954/1956" type="inclusive">1954 , 1956</unitdate>
+            <container altrender="Record carton" id="aspace_5e6ccdddb19bafa0aad85575f32ce0ed" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_267ae8f108a883dafa5b5815e9582c4d" parent="aspace_5e6ccdddb19bafa0aad85575f32ce0ed" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Rank and File Committees: Flyers and Leaflets</unittitle>
+            <unitdate datechar="creation" normal="1941/1954" type="inclusive">1941-1949 , 1953-1954 , 1962, undated</unitdate>
+            <container altrender="Record carton" id="aspace_be3cfe7657e8aa713145382ee9fdde6f" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_8bb98a9408a3c344cefde368f1a25efe" parent="aspace_be3cfe7657e8aa713145382ee9fdde6f" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Ryan, Joseph P.</unittitle>
+            <unitdate datechar="creation" normal="1933/1963" type="inclusive">1933-1937 , 1940-1959 , 1963</unitdate>
+            <container altrender="Record carton" id="aspace_45d26ae26a5b39a6b8fc9b64fd4512ec" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_638f798d0a85e1c7d73980801f72fd54" parent="aspace_45d26ae26a5b39a6b8fc9b64fd4512ec" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Shape-Up (New York ILA Publication)</unittitle>
+            <unitdate datechar="creation" normal="1921/1984" type="inclusive">Undated</unitdate>
+            <container altrender="Record carton" id="aspace_03d06bb883a6d3c1ff97a109b7e061db" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_85a3728b61d5352554e2825ce1490c00" parent="aspace_03d06bb883a6d3c1ff97a109b7e061db" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Strikes</unittitle>
+            <unitdate datechar="creation" normal="1945/1952" type="inclusive">1945 , 1951-1952</unitdate>
+            <container altrender="Record carton" id="aspace_edc7bc5b80b89f795a1ca043a0b79abf" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_35a3182f9dbe16191e0297dd4d1cb21b" parent="aspace_edc7bc5b80b89f795a1ca043a0b79abf" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Strikes</unittitle>
+            <unitdate datechar="creation" normal="1953/1957" type="inclusive">1953-1957</unitdate>
+            <container altrender="Record carton" id="aspace_f410c69da4cbb3fc2d6fe00b7a2661d1" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_c580c40576ec8fc8d3859618488d354a" parent="aspace_f410c69da4cbb3fc2d6fe00b7a2661d1" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Strikes</unittitle>
+            <unitdate datechar="creation" normal="1963/1965" type="inclusive">1963 , 1965</unitdate>
+            <container altrender="Record carton" id="aspace_9a72c2379f15611b821482fc1f1e69a3" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_702e3064c341098d5f0690667aab7b9b" parent="aspace_9a72c2379f15611b821482fc1f1e69a3" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Strikes</unittitle>
+            <unitdate datechar="creation" normal="1972/1977" type="inclusive">1972 , 1977</unitdate>
+            <container altrender="Record carton" id="aspace_a0c49e4cfa2fdb70c595b5b358ed1baf" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_8de56ff381625026466272d3d7151990" parent="aspace_a0c49e4cfa2fdb70c595b5b358ed1baf" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Strikes: Board of Inquiry</unittitle>
+            <unitdate datechar="creation" normal="1948/1957" type="inclusive">1948 , 1951-1957</unitdate>
+            <container altrender="Record carton" id="aspace_36bd50634d943f310a90aec841ebd360" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_a1198dfe97beba8fb95ee774abefcda6" parent="aspace_36bd50634d943f310a90aec841ebd360" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Strikes: Board of Inquiry</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <container altrender="Record carton" id="aspace_f2261c45f8d54fe2d485dc66eb3179da" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_718e8cceb4f3452f56aeb84d9abd6f25" parent="aspace_f2261c45f8d54fe2d485dc66eb3179da" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Waterfront Commission</unittitle>
+            <unitdate datechar="creation" normal="1953/1955" type="inclusive">1953-1955</unitdate>
+            <container altrender="Record carton" id="aspace_57c5bbc2293e55d72d52e6f2d482a550" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_932374d3b18b545c71baa425f2c949d7" parent="aspace_57c5bbc2293e55d72d52e6f2d482a550" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Waterfront Commission</unittitle>
+            <unitdate datechar="creation" normal="1956/1970" type="inclusive">1956-1960 , 1970</unitdate>
+            <container altrender="Record carton" id="aspace_8e02c3c1bcf8c20620edf8de53031a0b" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_fbfd7557fbe61d27d99bbc4251969b2a" parent="aspace_8e02c3c1bcf8c20620edf8de53031a0b" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Waterfront Research Committee</unittitle>
+            <unitdate datechar="creation" normal="1938/1940" type="inclusive">1938 , 1940</unitdate>
+            <container altrender="Record carton" id="aspace_1f9c4dc0e0ac55a2bf1d58181eae1dfd" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_d61ad9e0241b19973fc3e73a8d9c877e" parent="aspace_1f9c4dc0e0ac55a2bf1d58181eae1dfd" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Waterfront Research Committee</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_4f82b62736af02f46a4b009236a8b715" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_355050bb1ccbd5f413b32d6a0a787645" parent="aspace_4f82b62736af02f46a4b009236a8b715" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Work Record, Holiday Schedule</unittitle>
+            <unitdate datechar="creation" normal="1955/1977" type="inclusive">1955 , 1976-1977</unitdate>
+            <container altrender="Record carton" id="aspace_4698d5ca702755c5af26e6fe5b946393" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_e653edc24fd53d09372648ad75abc092" parent="aspace_4698d5ca702755c5af26e6fe5b946393" type="Folder">29</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref73" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Series II: Clippings Files, 1939-1979.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>ILA Clippings</unittitle>
+            <unitdate datechar="creation" normal="1939/1947" type="inclusive">1939-1947</unitdate>
+            <container altrender="Record carton" id="aspace_413b40008347ee5236de6f164d647a52" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_2c4709a680e173ace49eb203c60f558c" parent="aspace_413b40008347ee5236de6f164d647a52" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>ILA Clippings</unittitle>
+            <unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949</unitdate>
+            <container altrender="Record carton" id="aspace_51a1e2c6f0acaf135e0c1545d6a20d22" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_b170f338b9e150b709b6e1666e205caf" parent="aspace_51a1e2c6f0acaf135e0c1545d6a20d22" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>ILA Clippings</unittitle>
+            <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
+            <container altrender="Record carton" id="aspace_d4fb68b051b75f90d5552e80e3967ede" label="Mixed Materials [31142054613743]" type="Box">2</container>
+            <container id="aspace_7f356da984947bd4601eb7ea56f0c359" parent="aspace_d4fb68b051b75f90d5552e80e3967ede" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>ILA Clippings</unittitle>
+            <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+            <container altrender="Record carton" id="aspace_3cd739879d5972fc6d91d9e89cb382d4" label="Mixed Materials [31142062725075]" type="Box">3</container>
+            <container id="aspace_fc81ee8ac26ca36b597c7b20c7c4626e" parent="aspace_3cd739879d5972fc6d91d9e89cb382d4" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>ILA Clippings</unittitle>
+            <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
+            <container altrender="Record carton" id="aspace_1867bb4c1709b3fb07c92d3c32825e07" label="Mixed Materials [31142062725075]" type="Box">3</container>
+            <container id="aspace_692f1708ac41262c48ecb8668f211151" parent="aspace_1867bb4c1709b3fb07c92d3c32825e07" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>ILA Clippings</unittitle>
+            <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
+            <container altrender="Record carton" id="aspace_89f8e35c9348bb2512716546f784bdfa" label="Mixed Materials [31142062725075]" type="Box">3</container>
+            <container id="aspace_1273ee9523073c9d656d73b6a40deb98" parent="aspace_89f8e35c9348bb2512716546f784bdfa" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>ILA Clippings</unittitle>
+            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
+            <container altrender="Record carton" id="aspace_09aad3b48f758874098361b09708798f" label="Mixed Materials [31142062725075]" type="Box">3</container>
+            <container id="aspace_376d64cc983ccff2add55e1c97c33ed6" parent="aspace_09aad3b48f758874098361b09708798f" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>ILA Clippings</unittitle>
+            <unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate>
+            <container altrender="Record carton" id="aspace_fb32a468400859ecd1aeb5dc82716ca3" label="Mixed Materials [31142062725075]" type="Box">3</container>
+            <container id="aspace_1c31dfd3994de12cf96cc8516e0b7dcc" parent="aspace_fb32a468400859ecd1aeb5dc82716ca3" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>ILA Clippings</unittitle>
+            <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
+            <container altrender="Record carton" id="aspace_e9c4f4f9078f696644bcd63e039fce1b" label="Mixed Materials [31142062725075]" type="Box">3</container>
+            <container id="aspace_a2389bbefaeb5f3c61ed94ce374a5e35" parent="aspace_e9c4f4f9078f696644bcd63e039fce1b" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>ILA Clippings</unittitle>
+            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+            <container altrender="Record carton" id="aspace_e36753f110130d9e8c646d3f0fa8f438" label="Mixed Materials [31142062725075]" type="Box">3</container>
+            <container id="aspace_21e4ac11c422883991069cd6d1ccf432" parent="aspace_e36753f110130d9e8c646d3f0fa8f438" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>ILA Clippings</unittitle>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+            <container altrender="Record carton" id="aspace_ab98643355645b01972cda6100da63cf" label="Mixed Materials [31142062725075]" type="Box">3</container>
+            <container id="aspace_98e8390f45979f22e73b455c636620ae" parent="aspace_ab98643355645b01972cda6100da63cf" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>ILA Clippings</unittitle>
+            <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate>
+            <container altrender="Record carton" id="aspace_0d58bbe02958225f31f7e0cccdd944c1" label="Mixed Materials [31142062725075]" type="Box">3</container>
+            <container id="aspace_c7a5766bdfe42d58f61b20ec016ad76a" parent="aspace_0d58bbe02958225f31f7e0cccdd944c1" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>ILA Clippings</unittitle>
+            <unitdate datechar="creation" normal="1960/1961" type="inclusive">1960-1961</unitdate>
+            <container altrender="Record carton" id="aspace_522354aa910f401fd5a0c273f1ef2674" label="Mixed Materials [31142062725075]" type="Box">3</container>
+            <container id="aspace_3900378a3709f10214af4c800f8e569f" parent="aspace_522354aa910f401fd5a0c273f1ef2674" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>ILA Clippings</unittitle>
+            <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+            <container altrender="Record carton" id="aspace_0f3874cace75e682924c02be94d0627d" label="Mixed Materials [31142062725075]" type="Box">3</container>
+            <container id="aspace_1881f770e860fe8760187af1d4607372" parent="aspace_0f3874cace75e682924c02be94d0627d" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>ILA Clippings</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <container altrender="Record carton" id="aspace_f838d88f31a7f5ad36d3109343e8520a" label="Mixed Materials [31142062725075]" type="Box">3</container>
+            <container id="aspace_0d266a95d629dce41f10036d916f0f00" parent="aspace_f838d88f31a7f5ad36d3109343e8520a" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>ILA Clippings</unittitle>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+            <container altrender="Record carton" id="aspace_df63698f4341bda765aa88ceb6f57af2" label="Mixed Materials [31142062725075]" type="Box">3</container>
+            <container id="aspace_5443ac30bd155e8b82478073835a18eb" parent="aspace_df63698f4341bda765aa88ceb6f57af2" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>ILA Clippings</unittitle>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+            <container altrender="Record carton" id="aspace_fac9274cf587fca97752237c95d0ea30" label="Mixed Materials [31142062725075]" type="Box">3</container>
+            <container id="aspace_8de1a0cff03f4facdfad998936534c94" parent="aspace_fac9274cf587fca97752237c95d0ea30" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>ILA Clippings</unittitle>
+            <unitdate datechar="creation" normal="1966/1967" type="inclusive">1966-1967</unitdate>
+            <container altrender="Record carton" id="aspace_fe70218816082e293a4cc170830934f7" label="Mixed Materials [31142062725075]" type="Box">3</container>
+            <container id="aspace_1e9167421917aebf46a0ca7e8c67c09b" parent="aspace_fe70218816082e293a4cc170830934f7" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>ILA Clippings</unittitle>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+            <container altrender="Record carton" id="aspace_8271a9292935643e5e404b9875f946ba" label="Mixed Materials [31142062725075]" type="Box">3</container>
+            <container id="aspace_68017bf26ebebb8e909da24aab5f8528" parent="aspace_8271a9292935643e5e404b9875f946ba" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>ILA Clippings</unittitle>
+            <unitdate datechar="creation" normal="1969/1970" type="inclusive">1969-1970</unitdate>
+            <container altrender="Record carton" id="aspace_62e0a0bfc73261d07579c82aee2acd6e" label="Mixed Materials [31142062725075]" type="Box">3</container>
+            <container id="aspace_646711db9e566dec42255c1ae3beeceb" parent="aspace_62e0a0bfc73261d07579c82aee2acd6e" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>ILA Clippings</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container altrender="Record carton" id="aspace_760dcf9ef32a745089491d29f2d2dcbb" label="Mixed Materials [31142062725109]" type="Box">4</container>
+            <container id="aspace_ec763d527443a3d0bf7c59b74661034f" parent="aspace_760dcf9ef32a745089491d29f2d2dcbb" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>ILA Clippings</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container altrender="Record carton" id="aspace_cb4f80dec92c2385ac4bd13383874148" label="Mixed Materials [31142062725109]" type="Box">4</container>
+            <container id="aspace_ef4216e4ab312fa4852db4a8d092ccc3" parent="aspace_cb4f80dec92c2385ac4bd13383874148" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>ILA Clippings</unittitle>
+            <unitdate datechar="creation" normal="1973/1976" type="inclusive">1973-1976</unitdate>
+            <container altrender="Record carton" id="aspace_d63983cc65c3aa6f8651e89bd972241a" label="Mixed Materials [31142062725109]" type="Box">4</container>
+            <container id="aspace_c1e86021a04a5f3558f16d16acd6bbac" parent="aspace_d63983cc65c3aa6f8651e89bd972241a" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>ILA Clippings</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Record carton" id="aspace_02913ac7a7ec64133770aa0714bf485c" label="Mixed Materials [31142062725109]" type="Box">4</container>
+            <container id="aspace_f2cc9c8cbf48a0a32da382e43fff8813" parent="aspace_02913ac7a7ec64133770aa0714bf485c" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>ILA Clippings</unittitle>
+            <unitdate datechar="creation" normal="1973/1978" type="inclusive">1973-1978</unitdate>
+            <container altrender="Record carton" id="aspace_a7a40bd32a844f0a785de3973928bf1e" label="Mixed Materials [31142062725109]" type="Box">4</container>
+            <container id="aspace_cceffe5cc372af8242dfb12c624e59b9" parent="aspace_a7a40bd32a844f0a785de3973928bf1e" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>ILA Clippings: American Federation of Labor, Relations</unittitle>
+            <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
+            <container altrender="Record carton" id="aspace_d63eb5bd6ca6a09491593e8e9893a9ad" label="Mixed Materials [31142062725109]" type="Box">4</container>
+            <container id="aspace_59452625960af2ebd4776911ac002ae2" parent="aspace_d63eb5bd6ca6a09491593e8e9893a9ad" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>ILA Clippings: American Federation of Labor, Relations</unittitle>
+            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
+            <container altrender="Record carton" id="aspace_924b16493a8c6e449568574e78d6ff2f" label="Mixed Materials [31142062725109]" type="Box">4</container>
+            <container id="aspace_6fef98ee076a6c76c42dd00783c6d381" parent="aspace_924b16493a8c6e449568574e78d6ff2f" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>ILA Clippings: American Federation of Labor, Relations</unittitle>
+            <unitdate datechar="creation" normal="1955/1961" type="inclusive">1955-1961</unitdate>
+            <container altrender="Record carton" id="aspace_43c132af7c2d5ed8ed263c0d7dc1894d" label="Mixed Materials [31142062725109]" type="Box">4</container>
+            <container id="aspace_cd54309c96a3e9a70228acf9d75419fc" parent="aspace_43c132af7c2d5ed8ed263c0d7dc1894d" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="file">
+          <did>
+            <unittitle>ILA Clippings: Anastasia, Anthony</unittitle>
+            <unitdate datechar="creation" normal="1952/1963" type="inclusive">1952-1963</unitdate>
+            <container altrender="Record carton" id="aspace_3f46886b7b3fec15a0ab582edecb17d6" label="Mixed Materials [31142062725109]" type="Box">4</container>
+            <container id="aspace_95c547644ac726e1129a3f040dd9c412" parent="aspace_3f46886b7b3fec15a0ab582edecb17d6" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="file">
+          <did>
+            <unittitle>ILA Clippings: Boycotts</unittitle>
+            <unitdate datechar="creation" normal="1950/1979" type="inclusive">1950 , 1956-1979</unitdate>
+            <container altrender="Record carton" id="aspace_7a24a3b63edf72fa265d0ff4ba32c789" label="Mixed Materials [31142062725109]" type="Box">4</container>
+            <container id="aspace_f12b0c3304a2f39701bb03b7ba9487aa" parent="aspace_7a24a3b63edf72fa265d0ff4ba32c789" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref104" level="file">
+          <did>
+            <unittitle>ILA Clippings: Crime and Racketeering</unittitle>
+            <unitdate datechar="creation" normal="1940/1949" type="inclusive">1940-1942 , 1946-1949</unitdate>
+            <container altrender="Record carton" id="aspace_8d81def2a71306dcb9a95e9266e91244" label="Mixed Materials [31142062725109]" type="Box">4</container>
+            <container id="aspace_ffa5d1d8ddb90a796f5d3f36241ac3d1" parent="aspace_8d81def2a71306dcb9a95e9266e91244" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>ILA Clippings: Crime and Racketeering</unittitle>
+            <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+            <container altrender="Record carton" id="aspace_7dc79ca18549f0f011ade92917f7ca1a" label="Mixed Materials [31142062725109]" type="Box">4</container>
+            <container id="aspace_ce74d0ecffa3421161aa98d7b4c1348d" parent="aspace_7dc79ca18549f0f011ade92917f7ca1a" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="file">
+          <did>
+            <unittitle>ILA Clippings: Crime and Racketeering</unittitle>
+            <unitdate datechar="creation">Jan 1952-Nov 1952</unitdate>
+            <container altrender="Record carton" id="aspace_971ddc7109a6c50296c8766a8ea7c606" label="Mixed Materials [31142062725109]" type="Box">4</container>
+            <container id="aspace_d50492d473de3434fe0e587f3080645e" parent="aspace_971ddc7109a6c50296c8766a8ea7c606" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref107" level="file">
+          <did>
+            <unittitle>ILA Clippings: Crime and Racketeering</unittitle>
+            <unitdate datechar="creation">Dec 1, 1952-Dec 14, 1952</unitdate>
+            <container altrender="Record carton" id="aspace_4c9c91e5e69d6656398489efceaa9a22" label="Mixed Materials [31142062725083]" type="Box">5</container>
+            <container id="aspace_3cb97b4a4c2836e7f4a995890c83d0f7" parent="aspace_4c9c91e5e69d6656398489efceaa9a22" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="file">
+          <did>
+            <unittitle>ILA Clippings: Crime and Racketeering</unittitle>
+            <unitdate datechar="creation">Dec 15, 1952-Dec 20, 1952</unitdate>
+            <container altrender="Record carton" id="aspace_3630261dfe8aa48105bec4824a4650b7" label="Mixed Materials [31142062725083]" type="Box">5</container>
+            <container id="aspace_92cb0b09eeb8c60221973d31c3121310" parent="aspace_3630261dfe8aa48105bec4824a4650b7" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>ILA Clippings: Crime and Racketeering</unittitle>
+            <unitdate datechar="creation">Dec 21, 1952-Dec 31, 1952</unitdate>
+            <container altrender="Record carton" id="aspace_5a77264c3e7c9830eaff4e40e834f58a" label="Mixed Materials [31142062725083]" type="Box">5</container>
+            <container id="aspace_0890f8a2115d3a4d83d76cfd4b8b60ba" parent="aspace_5a77264c3e7c9830eaff4e40e834f58a" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="file">
+          <did>
+            <unittitle>ILA Clippings: Crime and Racketeering</unittitle>
+            <unitdate datechar="creation">Jan 1, 1953-Jan 16, 1953</unitdate>
+            <container altrender="Record carton" id="aspace_57bfe964492bb490ff0805ab257fbfa8" label="Mixed Materials [31142062725083]" type="Box">5</container>
+            <container id="aspace_ca6c0a4d7b5a2f39ec632ab407f2c121" parent="aspace_57bfe964492bb490ff0805ab257fbfa8" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>ILA Clippings: Crime and Racketeering</unittitle>
+            <unitdate datechar="creation">Jan 17, 1953-Jan 31, 1953</unitdate>
+            <container altrender="Record carton" id="aspace_ccae2777ca428f83566d80e5de0a1945" label="Mixed Materials [31142062725083]" type="Box">5</container>
+            <container id="aspace_22f8f8ef4367393cbe8b8dead8534848" parent="aspace_ccae2777ca428f83566d80e5de0a1945" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="file">
+          <did>
+            <unittitle>ILA Clippings: Crime and Racketeering</unittitle>
+            <unitdate datechar="creation">Feb 1953-May 1953</unitdate>
+            <container altrender="Record carton" id="aspace_9877b23a04d89a8177a1cbb2fa4fba0b" label="Mixed Materials [31142062725083]" type="Box">5</container>
+            <container id="aspace_396d02b5c262dd67af002a3c78f4e8c3" parent="aspace_9877b23a04d89a8177a1cbb2fa4fba0b" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref113" level="file">
+          <did>
+            <unittitle>ILA Clippings: Crime and Racketeering</unittitle>
+            <unitdate datechar="creation">Jun 1953-Dec 1953</unitdate>
+            <container altrender="Record carton" id="aspace_b35aade46da927c47d2d6c8ceb5c357d" label="Mixed Materials [31142062725083]" type="Box">5</container>
+            <container id="aspace_b38be9b080ea474ea1cceabffecb3fec" parent="aspace_b35aade46da927c47d2d6c8ceb5c357d" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="file">
+          <did>
+            <unittitle>ILA Clippings: Crime and Racketeering</unittitle>
+            <unitdate datechar="creation" normal="1954/1955" type="inclusive">1954-1955</unitdate>
+            <container altrender="Record carton" id="aspace_0e7ae1084fb6416390da6c833dbc863c" label="Mixed Materials [31142062725083]" type="Box">5</container>
+            <container id="aspace_17ae9c4c176325b0dfe488f4b1243f1d" parent="aspace_0e7ae1084fb6416390da6c833dbc863c" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="file">
+          <did>
+            <unittitle>ILA Clippings: Crime and Racketeering</unittitle>
+            <unitdate datechar="creation" normal="1956/1959" type="inclusive">1956-1959</unitdate>
+            <container altrender="Record carton" id="aspace_9602e81900fb56c4c4b9b5c23f1d2823" label="Mixed Materials [31142062725083]" type="Box">5</container>
+            <container id="aspace_356cfdb6bcc6929dfb3d3e34ca707f5f" parent="aspace_9602e81900fb56c4c4b9b5c23f1d2823" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref116" level="file">
+          <did>
+            <unittitle>ILA Clippings: Crime and Racketeering</unittitle>
+            <unitdate datechar="creation" normal="1960/1975" type="inclusive">1960-1975</unitdate>
+            <container altrender="Record carton" id="aspace_0401f1550938e036a3400677fde10d83" label="Mixed Materials [31142062725083]" type="Box">5</container>
+            <container id="aspace_b07883a2db3690e68f87552dde8581b8" parent="aspace_0401f1550938e036a3400677fde10d83" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref117" level="file">
+          <did>
+            <unittitle>ILA Clippings: Crime and Racketeering</unittitle>
+            <unitdate datechar="creation" normal="1976/1979" type="inclusive">1976-1979</unitdate>
+            <container altrender="Record carton" id="aspace_f4702e0af0ebdf12763edf38571ac607" label="Mixed Materials [31142062725083]" type="Box">5</container>
+            <container id="aspace_9d2dc2235a7d04ace4d4558392b12720" parent="aspace_f4702e0af0ebdf12763edf38571ac607" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref118" level="file">
+          <did>
+            <unittitle>ILA Clippings: Local 1814, Brooklyn</unittitle>
+            <unitdate datechar="creation" normal="1954/1976" type="inclusive">1954 , 1963-1969 , 1976</unitdate>
+            <container altrender="Record carton" id="aspace_1c8507e5995520abd21a956ef46a8137" label="Mixed Materials [31142062725083]" type="Box">5</container>
+            <container id="aspace_2116a7d7f8c5393de6f122d8e61a4a1d" parent="aspace_1c8507e5995520abd21a956ef46a8137" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref119" level="file">
+          <did>
+            <unittitle>ILA Clippings: Scotto, Anthony</unittitle>
+            <unitdate datechar="creation" normal="1963/1970" type="inclusive">1963-1970</unitdate>
+            <container altrender="Record carton" id="aspace_efc554b0b9f8a332c809b7aa6e3fb310" label="Mixed Materials [31142062725083]" type="Box">5</container>
+            <container id="aspace_4c938fd9144a2e021748668a0809901f" parent="aspace_efc554b0b9f8a332c809b7aa6e3fb310" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref120" level="file">
+          <did>
+            <unittitle>ILA Clippings: Scotto, Anthony</unittitle>
+            <unitdate datechar="creation" normal="1971/1978" type="inclusive">1971-1978</unitdate>
+            <container altrender="Record carton" id="aspace_37f382ee05ba820195150227cff88ab1" label="Mixed Materials [31142062725083]" type="Box">5</container>
+            <container id="aspace_7bfce7a5efe8ba6111aaf585e8e2f9f2" parent="aspace_37f382ee05ba820195150227cff88ab1" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref121" level="file">
+          <did>
+            <unittitle>ILA Clippings: Scotto, Anthony</unittitle>
+            <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+            <container altrender="Record carton" id="aspace_fe1cd26451c762dc143abe35589cb284" label="Mixed Materials [31142062725083]" type="Box">5</container>
+            <container id="aspace_b17ed7bf849c5411f81f3d6a01b98630" parent="aspace_fe1cd26451c762dc143abe35589cb284" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref122" level="file">
+          <did>
+            <unittitle>ILA Clippings: Seniority and Hiring</unittitle>
+            <unitdate datechar="creation" normal="1966/1978" type="inclusive">1966 , 1971-1972 , 1978</unitdate>
+            <container altrender="Record carton" id="aspace_d2a1a1239bc4450b9980a89026eb167e" label="Mixed Materials [31142062725083]" type="Box">5</container>
+            <container id="aspace_122b6b774cd613f7a2e880634e3e524f" parent="aspace_d2a1a1239bc4450b9980a89026eb167e" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref123" level="file">
+          <did>
+            <unittitle>ILA Clippings: Waterfront Commission</unittitle>
+            <unitdate datechar="creation" normal="1953/1978" type="inclusive">1953-1978</unitdate>
+            <container altrender="Record carton" id="aspace_decc52abf5db0a860b49ab36d271646d" label="Mixed Materials [31142062725083]" type="Box">5</container>
+            <container id="aspace_4ab41c50d68b9cc484277fa9c1471c4f" parent="aspace_decc52abf5db0a860b49ab36d271646d" type="Folder">17</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

@@ -1,71 +1,728 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/wag_217">wag_217</eadid><filedesc><titlestmt><titleproper>Guide to the Martha Greenhouse Collection of Acting Union Records <num>WAG.217</num></titleproper><author>Alexandra Gallo and Anna Björnsson McCormick</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>November 2021</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:32:51 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Martha Greenhouse Collection of Acting Union Records</unittitle>
-    <origination label="Creator">
-      <persname source="naf">Greenhouse, Martha</persname>
-    </origination>
-    <origination label="source">
-      <persname role="dnr" source="naf">Greenhouse, Martha</persname>
-    </origination>
-    <unitid>WAG.217</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">8 Linear Feet</extent>
-      <extent altrender="carrier">in 16 manuscript boxes.</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1943/1997" type="inclusive">1943-1997</unitdate>
-    <unitdate datechar="creation" normal="1968/1992" type="bulk">1968-1992</unitdate>
-    <abstract id="aspace_6fee422fea8612f11eeb1775753e994e">Martha Greenhouse (1921-2013) was a New York stage, film, and television actor who was an active member and leader of unions for actors, most notably the American Federation of Television and Radio Artists (AFTRA) and the Screen Actors Guild (SAG). Greenhouse joined the American Federation of Radio Artists, the predecessor to AFTRA, in 1941 and SAG in 1955.  
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="brief_ead" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/wag_217">wag_217</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Martha Greenhouse Collection of Acting Union Records <num>WAG.217</num></titleproper>
+        <author>Alexandra Gallo and Anna Björnsson McCormick</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>November 2021</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:32:51 -0400</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Martha Greenhouse Collection of Acting Union Records</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Greenhouse, Martha</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" source="naf">Greenhouse, Martha</persname>
+      </origination>
+      <unitid>WAG.217</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">8 Linear Feet</extent>
+        <extent altrender="carrier">in 16 manuscript boxes.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1943/1997" type="inclusive">1943-1997</unitdate>
+      <unitdate datechar="creation" normal="1968/1992" type="bulk">1968-1992</unitdate>
+      <abstract id="aspace_6fee422fea8612f11eeb1775753e994e">Martha Greenhouse (1921-2013) was a New York stage, film, and television actor who was an active member and leader of unions for actors, most notably the American Federation of Television and Radio Artists (AFTRA) and the Screen Actors Guild (SAG). Greenhouse joined the American Federation of Radio Artists, the predecessor to AFTRA, in 1941 and SAG in 1955.  
 
 This collection spans from 1943 to 1997; the bulk of the materials were created between 1968 and 1992. The collection includes records collected by Martha Greenhouse in the course of her time as a member and leader of AFTRA, SAG, and other unions for actors. The majority of the records are union meeting minutes, agendas, memoranda, and communications to union members, committees, or officers. The collection also includes governing documents, contracts, financial statements, press releases and clippings, and union member benefits. There are also clippings and other records related to the larger labor movement during the years Greenhouse was active.</abstract>
-    <physloc id="aspace_2db632b7b47b8c8ea972774ff9c16037">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
-    <langmaterial id="aspace_0414bc1f8c1483ebe7647804cf8874a9">Materials are in English.</langmaterial>
-  </did>
-  <scopecontent id="aspace_b94ad487d9198a7f7fd9dabd82d7f124">
-    <head>Scope and Contents</head>
-<p>This collection spans from 1943 to 1997; the bulk of the materials were created between 1968 and 1992. The collection includes records collected by Martha Greenhouse in the course of her time as a member and leader of American Federation of Television and Radio Artists (AFTRA), the Screen Actors Guild (SAG), and other unions for actors including the Actors Equity Association (AEA) and the Associated Actors and Artistes of America (AAAA). Greenhouse was active in AFTRA, specifically the New York Local, for the duration of her career from the 1950s to the 1990s, and especially in the 1970s and 1980s. During the 1980s and 1990s she held leadership roles in SAG as well. </p><p>
-This collection includes national, regional, and local board meeting minutes; agendas; memoranda; and communications to union members, committees, or officers from both AFTRA and SAG. It also includes governing documents, contracts, financial statements, union member benefits, and press releases and clippings from both unions. There are files demonstrating the campaign to merge SAG and AFTRA during the 1970s and 1980s as well as records that show that both unions worked together to jointly negotiate contracts well before they merged in 2012. Some documents include notes and annotations written by Greenhouse.</p><p>
-Greenhouse also collected press clippings, correspondence, and other records that related to the general labor movement over the course of her career. These materials include records about women and minorities in both unions and the acting profession, news about strikes and boycotts initiated by other unions such as the Association of Flight Attendants and the Amalgamated Clothing and Textile Workers Union, labor-related legislation on the state and federal level, and labor studies.</p>  </scopecontent>
-  <accessrestrict id="aspace_21ec25e53c938edc72e689531d8884e9">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <prefercite id="aspace_a327d9ef659756c25498c64a62f9fbce">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Martha Greenhouse Collection of Acting Union Records; WAG 217; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <userestrict id="aspace_1ab821b41c9f0eb314d4fd7211d42fd4">
-    <head>Use Restrictions</head>
-<p>Any rights (including copyright and related rights to publicity and privacy) held by Martha Greenhouse are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library and Robert F. Wagner Archives. Please contact the Tamiment Library and Robert F. Wagner Archives at special.collections@nyu.edu, 212-998-2596.</p>  </userestrict>
-  <acqinfo id="aspace_a54ba98984ff20b5365b9a46dd82e3eb">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Martha Greenhouse, 2002. The accession number associated with this gift is 2002.038.</p>  </acqinfo>
-  <arrangement id="aspace_ca2f24266f48f056e210bd90108dcc49">
-    <head>Arrangement</head>
-<p>Materials have been grouped together by topic.</p>  </arrangement>
-  <processinfo id="aspace_ddf25c20bcc06d316374614cc323d99c">
-    <head>Processing Information</head>
-<p>A graduate student in the Fall 2019 session of Advanced Archival Description HIST-GA.2031 surveyed and wrote a processing plan for this collection. This collection was described by an archivist in the fall of 2021. Materials were placed in new acid-free folders and boxes.</p>  </processinfo>
-  <bioghist id="aspace_b788326ed2f66192b9b7b9f82629e77c">
-    <head>Biographical</head>
-<p>Martha Greenhouse (1921-2013) was a New York stage, film, and television actor  known for her roles in the films <emph render= 'italic'>The Stepford Wives</emph>,  <emph render= 'italic'>Bananas</emph>, and  <emph render= 'italic'>Daniel</emph>; television shows including  <emph render= 'italic'>Law &amp; Order</emph>,  <emph render= 'italic'>The Jackie Gleason Show</emph>, and  <emph render= 'italic'>Love is a Many Splendored Thing</emph>; and stage productions including the original production of  Rogers and Hammerstein's <emph render= 'italic'>Cinderella</emph>. </p><p>Greenhouse was an active member and leader of unions for actors, most notably the American Federation of Television and Radio Artists (AFTRA) and the Screen Actors Guild (SAG) which she joined  in 1941 and 1955 respectively. She was also a member of Actors Equity Association (AEA) and the Associated Actors and Artistes of America (AAAA). She served as the president of AFTRA's New York Local from 1977-1982, represented the New York Local at national conventions, and served on AFTRA committees at both the local and national level. Greenhouse served two terms on SAG's National Board from 1981-1987, was active in the SAG New York Branch, and served on national and local SAG committees as well. </p><p>Greenhouse was in favor of the merger of SAG and AFTRA and advocated for it throughout the late 1970s and the 1980s. The two unions officially merged in 2012 to become SAG-AFTRA. She was recognized for her service to AFTRA and received the Founder's Award, the George Heller Gold Card, and the New York Local's Ken Harvey Award. </p>  </bioghist>
-  <relatedmaterial id="aspace_d9a28edd6291b28a13c0fa6b01fe8969">
-    <head>Related Archival Materials</head>
-<p>For more information about AFTRA  please see the American Federation of Television and Radio Artists (AFTRA) National Office Records (WAG.281) and the American Federation of Television and Radio Artists (AFTRA), New York Local Records (WAG.282). </p><p>For more information about SAG please see the Screen Actors Guild New York Branch Records (WAG.178).</p>  </relatedmaterial>
-  <controlaccess>
-    <subject source="lcsh">Actors -- Labor unions -- United States</subject>
-    <subject source="lcsh">Actors -- Labor unions -- New York (State) -- New York</subject>
-    <subject source="lcsh">Women labor leaders -- New York (State) -- New York</subject>
-    <subject source="lcsh">Women in the labor movement -- United States</subject>
-    <subject source="lcsh">Women labor union members -- New York (N.Y.)</subject>
-    <persname role="dnr" source="naf">Greenhouse, Martha</persname>
-    <corpname authfilenumber="(lccn)no2012109456" source="naf">SAG-AFTRA (Organization)</corpname>
-    <corpname authfilenumber="(lccn)n80161606" source="naf">Screen Actors Guild</corpname>
-    <corpname rules="dacs" source="local">Screen Actors Guild. New York Branch</corpname>
-    <corpname authfilenumber="(lccn)nr88012164" source="naf">American Federation of Television and Radio Artists</corpname>
-    <corpname authfilenumber="(lccn)n79086831" source="naf">AFL-CIO</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_6ac2f10d3766a5f4a430eced1c412684" level="file"><did><unittitle>AFTRA--Articles of Agreement and Constitution</unittitle><unitdate datechar="creation" normal="1977/1991" type="inclusive">1977-1991</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_3d611373286525a391b1e61dfa67fc0b" label="Mixed Materials [31142062842805]" type="Box">1</container><container id="aspace_ed691dedf974365df9ab2b194b4a0c3d" parent="aspace_3d611373286525a391b1e61dfa67fc0b" type="Folder">1</container></did></c><c id="aspace_7b9698baa71c2803ece6621084ee8c2c" level="file"><did><unittitle>AFTRA--Contracts</unittitle><unitdate datechar="creation" normal="1967/1991" type="inclusive">1967-1991</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_e8a4088d5b166442d35583ff5a89d233" label="Mixed Materials [31142062842805]" type="Box">1</container><container id="aspace_3d748b44f272048ef9185c0b9f7f82fd" parent="aspace_e8a4088d5b166442d35583ff5a89d233" type="Folder">2-6</container></did></c><c id="aspace_b7cc8b2d44c867ba87a24d10f83b3140" level="file"><did><unittitle>AFTRA--Press Releases</unittitle><unitdate datechar="creation" normal="1971/1991" type="inclusive">1971-1991</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_ce8abc41614dd562f75504c780283ba0" label="Mixed Materials [31142062842805]" type="Box">1</container><container id="aspace_7629224742fdb16c062d1cd6fe20d586" parent="aspace_ce8abc41614dd562f75504c780283ba0" type="Folder">7</container></did></c><c id="aspace_7270eb8d835cf5082c8de7147de28192" level="file"><did><unittitle>AFTRA--Press Clippings</unittitle><unitdate datechar="creation" normal="1970/1993" type="inclusive">1970-1993</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_22dc2f5d2b442548c9220afb1d58db0f" label="Mixed Materials [31142062842805]" type="Box">1</container><container id="aspace_c2fc2062243d12b63f8516a6f39b2b62" parent="aspace_22dc2f5d2b442548c9220afb1d58db0f" type="Folder">8</container></did></c><c id="aspace_a4119308d602acccdcf94711aa241d4d" level="file"><did><unittitle>AFTRA--Newsletters</unittitle><unitdate datechar="creation" normal="1988/1997" type="inclusive">1988-1997</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_08323ce5163094278bb35562295ddad9" label="Mixed Materials [31142062842805]" type="Box">1</container><container id="aspace_58631cab877239754b8980a6bc4f4450" parent="aspace_08323ce5163094278bb35562295ddad9" type="Folder">9</container></did></c><c id="aspace_c8d29a3a45e184672c05c89c100dce4e" level="file"><did><unittitle>AFTRA--Benefits</unittitle><unitdate datechar="creation" normal="1958/1991" type="inclusive">1958-1991</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_365f89a93713b3c18fb6e0f72a3cfcc3" label="Mixed Materials [31142062842797]" type="Box">2</container><container id="aspace_1a85bdc397b04743c9d7a4f6d029906d" parent="aspace_365f89a93713b3c18fb6e0f72a3cfcc3" type="Folder">1-4</container></did></c><c id="aspace_1f115d4dddf0c1dcfcbc670a90cc4ce2" level="file"><did><unittitle>AFTRA-Alcohol Abuse Treatment</unittitle><unitdate datechar="creation" normal="1977/1977">1977</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_7e5504cefd0461c1031c05e02631a53e" label="Mixed Materials [31142062842797]" type="Box">2</container><container id="aspace_1c8becf460ee1c98c85357114a9a58fd" parent="aspace_7e5504cefd0461c1031c05e02631a53e" type="Folder">5</container></did></c><c id="aspace_49a2d8923625e7ec7578b258c91cb6c0" level="file"><did><unittitle>AFTRA--Welfare and Pension Trusts Report</unittitle><unitdate datechar="creation" normal="1970/1970">1970</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_9e032f41642f3090330c1c33b3499375" label="Mixed Materials [31142062842797]" type="Box">2</container><container id="aspace_b10713f03e2954493d429cc0b41d7380" parent="aspace_9e032f41642f3090330c1c33b3499375" type="Folder">6</container></did></c><c id="aspace_a57d03427f33dc9400dad97ecd81676a" level="file"><did><unittitle>AFTRA--Financial Records</unittitle><unitdate datechar="creation" normal="1987/1993" type="inclusive">1987-1993</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_9cf571c45c11db541231802f0ddbc3aa" label="Mixed Materials [31142062842797]" type="Box">2</container><container id="aspace_08fdff04e0bb658b0fae2fb4d2af41ed" parent="aspace_9cf571c45c11db541231802f0ddbc3aa" type="Folder">7-8</container></did></c><c id="aspace_86c3bc7e2685ab5a8ee2b74937d115d5" level="file"><did><unittitle>AFTRA--Waiver Requests</unittitle><unitdate datechar="creation" normal="1989/1992" type="inclusive">1989-1992</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_99d28af0a4c53de543f0dabc882128ba" label="Mixed Materials [31142062842797]" type="Box">2</container><container id="aspace_fd343f0c1005f34fc1e2b7880ce022f8" parent="aspace_99d28af0a4c53de543f0dabc882128ba" type="Folder">9</container></did></c><c id="aspace_22002e621fd6827136d1da6e2922680c" level="file"><did><unittitle>AFTRA--Don Kennedy</unittitle><unitdate datechar="creation" normal="1984/1984">1984</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_25373e8a636296d1e9c7dc429dfd0960" label="Mixed Materials [31142062842797]" type="Box">2</container><container id="aspace_abfd7a53f0773720b67026cb844d0e19" parent="aspace_25373e8a636296d1e9c7dc429dfd0960" type="Folder">10</container></did></c><c id="aspace_ea7d6ba667e245bb3b21a6326bfa4228" level="file"><did><unittitle>AFTRA--National Board of Directors</unittitle><unitdate datechar="creation" normal="1969/1997" type="inclusive">1969-1997</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_e93bf384bbae1ebfa8f89b462c4a121c" label="Mixed Materials [31142062842789]" type="Box">3</container><container id="aspace_79a9283f25311d40531664b205908d04" parent="aspace_e93bf384bbae1ebfa8f89b462c4a121c" type="Folder">1-5</container></did></c><c id="aspace_482c6816a5189647f51695adf2c136f7" level="file"><did><unittitle>AFTRA--National Convention</unittitle><unitdate datechar="creation" normal="1959/1997" type="inclusive">1959-1997</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_743c018cf0a862e98b21397d4d8d2a05" label="Mixed Materials [31142062842771]" type="Box">4</container><container id="aspace_e908cb855aef7fa0f52ed87212a77e57" parent="aspace_743c018cf0a862e98b21397d4d8d2a05" type="Folder">1-5</container></did></c><c id="aspace_6ef4aca04dff4ac8a3e295eec796a2f9" level="file"><did><unittitle>AFTRA--National Committees</unittitle><unitdate datechar="creation" normal="1969/1993" type="inclusive">1969-1993</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_c752c5a247c1246a73ba52406333760f" label="Mixed Materials [31142062842771]" type="Box">4</container><container id="aspace_74fc1a98a6a1fd4e20fe92a31ae6c218" parent="aspace_c752c5a247c1246a73ba52406333760f" type="Folder">6</container></did></c><c id="aspace_ed04fca9460dfe74654f07d1c2f8aa81" level="file"><did><unittitle>AFTRA--New Electronic Devices, Wages, and Conditions Committee</unittitle><unitdate datechar="creation" normal="1970/1971" type="inclusive">1970-1971</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_fd402b19d4983c9dfc53fd7e23d7279f" label="Mixed Materials [31142062842771]" type="Box">4</container><container id="aspace_6c3fc9b10416b9ff965726c07983f5b5" parent="aspace_fd402b19d4983c9dfc53fd7e23d7279f" type="Folder">7</container></did></c><c id="aspace_54f8109866d02f95a486662a98952e8d" level="file"><did><unittitle>AFTRA--Eastern Section</unittitle><unitdate datechar="creation" normal="1968/1992" type="inclusive">1968-1992</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_697ff578ed7470896c6cd2b10573f074" label="Mixed Materials [31142062842763]" type="Box">5</container><container id="aspace_2f992cbfdac6e8677d539fdc946f0252" parent="aspace_697ff578ed7470896c6cd2b10573f074" type="Folder">1-5</container><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_4915fc5fd4de702506c5831b7bd0b012" label="Mixed Materials [31142062842755]" type="Box">6</container><container id="aspace_8f028f9fb2980c5072eaf1c98c4c67c3" parent="aspace_4915fc5fd4de702506c5831b7bd0b012" type="Folder">1-2</container></did></c><c id="aspace_30e90b7acd3712dd29c2764620cf2d57" level="file"><did><unittitle>AFTRA--Central/Eastern Section</unittitle><unitdate datechar="creation" normal="1987/1993" type="inclusive">1987-1993</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_4bcb7bfe4f86a07d37917c83c6b3ec57" label="Mixed Materials [31142062842755]" type="Box">6</container><container id="aspace_2f4b686e8ca1d1b8752385fbf7a170bb" parent="aspace_4bcb7bfe4f86a07d37917c83c6b3ec57" type="Folder">3-4</container></did></c><c id="aspace_339c5867b17daa6ef653623f718ba76d" level="file"><did><unittitle>AFTRA--Central Section</unittitle><unitdate datechar="creation" normal="1970/1991" type="inclusive">1970-1991</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_ef7782d7d1bb575801c5e08c0b5df0aa" label="Mixed Materials [31142062842755]" type="Box">6</container><container id="aspace_e950573c6efa59f5c24627411b09d7cd" parent="aspace_ef7782d7d1bb575801c5e08c0b5df0aa" type="Folder">5-6</container><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_8523c865f15a7f811cf51ed43d99a082" label="Mixed Materials [31142062842748]" type="Box">7</container><container id="aspace_d08f5fa6d790ebd8c0ecc609894535cf" parent="aspace_8523c865f15a7f811cf51ed43d99a082" type="Folder">1</container></did></c><c id="aspace_561c27e4c289135e1b4ee869c7ea40fb" level="file"><did><unittitle>AFTRA-Western Section</unittitle><unitdate datechar="creation" normal="1970/1992" type="inclusive">1970-1992</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_7e083f5bda26240104602833af848aea" label="Mixed Materials [31142062842748]" type="Box">7</container><container id="aspace_043768b90603be9a70dfeaa37bb655dc" parent="aspace_7e083f5bda26240104602833af848aea" type="Folder">2-5</container></did></c><c id="aspace_dd0e10df16861231b43f33063eafd740" level="file"><did><unittitle>AFTRA-- New York Local Board of Directors</unittitle><unitdate datechar="creation" normal="1965/1997" type="inclusive">1965-1997</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_dae2e824e12fb00e75e4e707189d1459" label="Mixed Materials [31142062842748]" type="Box">7</container><container id="aspace_5dab5ae49af47aae07349d4befb752a9" parent="aspace_dae2e824e12fb00e75e4e707189d1459" type="Folder">6</container><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_38a6f02bb8690fc484e7e48507d8c2a6" label="Mixed Materials [31142062842730]" type="Box">8</container><container id="aspace_26ef4c1c801e73832e3c41ac364831e3" parent="aspace_38a6f02bb8690fc484e7e48507d8c2a6" type="Folder">1-5</container><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_a98a9f574e0386552973bc5839930042" label="Mixed Materials [31142062842722]" type="Box">9</container><container id="aspace_0fe9a51f6bbaaaac8da60f26341bb500" parent="aspace_a98a9f574e0386552973bc5839930042" type="Folder">1-3</container></did></c><c id="aspace_8137dfd83edbece0e2f7470fc9194ee4" level="file"><did><unittitle>AFTRA--New York Local Directors and Officers</unittitle><unitdate datechar="creation" normal="1968/1997" type="inclusive">1968-1997</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_6e11a22399a503bab481a7a2445e4cb7" label="Mixed Materials [31142062842722]" type="Box">9</container><container id="aspace_9b676bd24fbfef24d88ce667e630c116" parent="aspace_6e11a22399a503bab481a7a2445e4cb7" type="Folder">4</container></did></c><c id="aspace_22d74db82b5979cbbad4a4a7fdce1c98" level="file"><did><unittitle>AFTRA--New York Local National Convention Delegates</unittitle><unitdate datechar="creation" normal="1970/1995" type="inclusive">1970-1995</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_e3b14685bde41af328a385cc9f1f04a7" label="Mixed Materials [31142062842722]" type="Box">9</container><container id="aspace_40d44285a5fdf470795d1748c8787075" parent="aspace_e3b14685bde41af328a385cc9f1f04a7" type="Folder">5</container></did></c><c id="aspace_49174ae0057ee7e19586a0e7b889ed80" level="file"><did><unittitle>AFTRA--New York Local Executive Committee</unittitle><unitdate datechar="creation" normal="1970/1997" type="inclusive">1970-1997</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_fed49c7bb7b223399dccc165ac039c26" label="Mixed Materials [31142062842722]" type="Box">9</container><container id="aspace_3372c2288345790ba0b34cfb943f9d50" parent="aspace_fed49c7bb7b223399dccc165ac039c26" type="Folder">6</container></did></c><c id="aspace_b9681e71f8d9245c97cf5dadd6ae2b2d" level="file"><did><unittitle>AFTRA--New York Local Nominating Committee</unittitle><unitdate datechar="creation" normal="1970/1997" type="inclusive">1970-1997</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_d4050a442830eeb6c03eb8feb1319916" label="Mixed Materials [31142062842722]" type="Box">9</container><container id="aspace_037d743c9ddd17a309fb2aaabd47fbab" parent="aspace_d4050a442830eeb6c03eb8feb1319916" type="Folder">7</container></did></c><c id="aspace_b5a205468b1c11216dcd299db4562417" level="file"><did><unittitle>AFTRA--New York Local Caucuses</unittitle><unitdate datechar="creation" normal="1973/1987" type="inclusive">1973-1987</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_88c756568d6fa68284b8f4bb2767e86d" label="Mixed Materials [31142062842722]" type="Box">9</container><container id="aspace_8e0e9788400693eb7214cce430cc508d" parent="aspace_88c756568d6fa68284b8f4bb2767e86d" type="Folder">8</container></did></c><c id="aspace_0e3e424c6d84166a8c94ed1c543d9543" level="file"><did><unittitle>AFTRA--New York Local Equal Employment Opportunity Committee</unittitle><unitdate datechar="creation" normal="1977/1996" type="inclusive">1977-1996</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_96d167230e10837254ae0f8ed62c2514" label="Mixed Materials [31142062842722]" type="Box">9</container><container id="aspace_b2247ff9f1c3573a732eabcdce35c51c" parent="aspace_96d167230e10837254ae0f8ed62c2514" type="Folder">9</container></did></c><c id="aspace_219d8bc7281847a709bd4be30e5786aa" level="file"><did><unittitle>AFTRA-- New York Local Committees</unittitle><unitdate datechar="creation" normal="1970/1988" type="inclusive">1970-1988</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_f675ea3b67c202e2e9968bf45e263aed" label="Mixed Materials [31142062842722]" type="Box">9</container><container id="aspace_d35828339dc69303e7a46fbc35be0a46" parent="aspace_f675ea3b67c202e2e9968bf45e263aed" type="Folder">10</container></did></c><c id="aspace_e45d93d8c32709c712894b0911b0ae64" level="file"><did><unittitle>AFTRA--New York Local 50th Anniversary Celebration</unittitle><unitdate datechar="creation" normal="1998/1998">1998</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_a4442eafc8755a2b77af0ddbe35ecb64" label="Mixed Materials [31142062842722]" type="Box">9</container><container id="aspace_b965b78126fd2ccd3a5acfa086877411" parent="aspace_a4442eafc8755a2b77af0ddbe35ecb64" type="Folder">11</container></did></c><c id="aspace_b43da4b3be3363631b9e8fe0c422dbb2" level="file"><did><unittitle>AFTRA--New York Local Communications to members</unittitle><unitdate datechar="creation" normal="1959/1997" type="inclusive">1959-1997</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_40c094ecfbdffa67ce32ed33c7008963" label="Mixed Materials [31142062842714]" type="Box">10</container><container id="aspace_e9792c76edd1810a5077d3593347b7f7" parent="aspace_40c094ecfbdffa67ce32ed33c7008963" type="Folder">1</container></did></c><c id="aspace_a4ae0467d1be444b8eb5fc7c2c013496" level="file"><did><unittitle>SAG--Constitution</unittitle><unitdate datechar="creation" normal="1983/1987" type="inclusive">1983-1987</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_5601730620d0f64eeb9f7dc7cd30ee44" label="Mixed Materials [31142062842714]" type="Box">10</container><container id="aspace_8eb5c9ec6bb4725581240fffacc40814" parent="aspace_5601730620d0f64eeb9f7dc7cd30ee44" type="Folder">2</container></did></c><c id="aspace_3c0ca5c13c66138b85d81e55b10d11bb" level="file"><did><unittitle>SAG-National Board of Directors</unittitle><unitdate datechar="creation" normal="1980/1987" type="inclusive">1980-1987</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_c3350bd19972c8de11fa5e85c3f669f1" label="Mixed Materials [31142062842714]" type="Box">10</container><container id="aspace_73adbd6d93605411fb05c6c540def8a0" parent="aspace_c3350bd19972c8de11fa5e85c3f669f1" type="Folder">3-5</container></did></c><c id="aspace_65a6bd487b4f6e55b52e482a8fd25dbc" level="file"><did><unittitle>SAG--National Board of Directors Eastern Section</unittitle><unitdate datechar="creation" normal="1986/1987" type="inclusive">1986-1987</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_07c3b74968b4c322907292484524e127" label="Mixed Materials [31142062842714]" type="Box">10</container><container id="aspace_8d41ca449dd387a4e88e759d265ddc08" parent="aspace_07c3b74968b4c322907292484524e127" type="Folder">6</container><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_692b0baa07c720f6b094974eb8abc1af" label="Mixed Materials [31142062842706]" type="Box">11</container><container id="aspace_3f0469f01d6d0d2b20c0dbfa3deae2a8" parent="aspace_692b0baa07c720f6b094974eb8abc1af" type="Folder">1-3</container></did></c><c id="aspace_b406f7e55bf4d02eea084322b84e2ea8" level="file"><did><unittitle>SAG--National Board of Directors Western Section</unittitle><unitdate datechar="creation" normal="1986/1986">1986</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_4d796fa5a7ffd64027d2630f18c1f9dd" label="Mixed Materials [31142062842706]" type="Box">11</container><container id="aspace_1c3d2705e58dbb859425686cdd4be709" parent="aspace_4d796fa5a7ffd64027d2630f18c1f9dd" type="Folder">4</container></did></c><c id="aspace_8fd544a4b58f74f6c8928d6099f87b4e" level="file"><did><unittitle>SAG--National Board of Directors New York Section</unittitle><unitdate datechar="creation" normal="1977/1986" type="inclusive">1977-1986</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_5e5ca2d3a166da933e6bfd68cd330851" label="Mixed Materials [31142062842706]" type="Box">11</container><container id="aspace_a0b35acdac162c28322791d629ade000" parent="aspace_5e5ca2d3a166da933e6bfd68cd330851" type="Folder">5</container></did></c><c id="aspace_a2492fbf7a02251daf8469e0d2819c5c" level="file"><did><unittitle>SAG--National Executive Committee</unittitle><unitdate datechar="creation" normal="1983/1987" type="inclusive">1983-1987</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_6f4a9352de6b8144519470c4b3500989" label="Mixed Materials [31142062842698]" type="Box">12</container><container id="aspace_76bbb45fd4a08a56bc633b41b24aed02" parent="aspace_6f4a9352de6b8144519470c4b3500989" type="Folder">2-3</container></did></c><c id="aspace_9addbb827dcfaa799ed93b673d51d9e6" level="file"><did><unittitle>SAG--New York Executive Committee</unittitle><unitdate datechar="creation" normal="1985/1986" type="inclusive">1985-1986</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_7f3aae1b60ca9b42b1f7bffb1fd6e50a" label="Mixed Materials [31142062842698]" type="Box">12</container><container id="aspace_7bef8bc972ee49b2259951db2ebaf393" parent="aspace_7f3aae1b60ca9b42b1f7bffb1fd6e50a" type="Folder">3</container></did></c><c id="aspace_422eb9ea61ef31cd1d13bfde9c4a81a3" level="file"><did><unittitle>SAG--National Guild Government Review Committee</unittitle><unitdate datechar="creation" normal="1983/1987" type="inclusive">1983-1987</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_f267948349a0639e345c901fd425505d" label="Mixed Materials [31142062842698]" type="Box">12</container><container id="aspace_e416164cb3912a54517010e64d9e50b2" parent="aspace_f267948349a0639e345c901fd425505d" type="Folder">4</container></did></c><c id="aspace_5db55ea3acf824d3cab12aed170f381e" level="file"><did><unittitle>SAG--Guild Government Review Committee New York Section</unittitle><unitdate datechar="creation" normal="1985/1985">1985</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_c3966e686f25f97f3e7a6772539da2af" label="Mixed Materials [31142062842698]" type="Box">12</container><container id="aspace_166a3a021d578f3eaf073fb9a4684515" parent="aspace_c3966e686f25f97f3e7a6772539da2af" type="Folder">5</container></did></c><c id="aspace_ae68003f73da49cb5d26cd393ff62fc6" level="file"><did><unittitle>SAG--Ethnic Equal Employment Opportunity Committee</unittitle><unitdate datechar="creation" normal="1985/1990" type="inclusive">1985-1990</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_18e1e993a76e9379c636b22ee89a188d" label="Mixed Materials [31142062842698]" type="Box">12</container><container id="aspace_13ad112a45a559183afd372275331da6" parent="aspace_18e1e993a76e9379c636b22ee89a188d" type="Folder">6</container></did></c><c id="aspace_5b59f49ab2078963bf75f960864f2290" level="file"><did><unittitle>SAG--National Committees</unittitle><unitdate datechar="creation" normal="1986/1996" type="inclusive">1986-1996</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_db64205e41d000fb530244c4beabf521" label="Mixed Materials [31142062842698]" type="Box">12</container><container id="aspace_b92374df268c0f8de321e414e8a96680" parent="aspace_db64205e41d000fb530244c4beabf521" type="Folder">7</container></did></c><c id="aspace_58b1f12532b8d3c9b023d2670266b3e6" level="file"><did><unittitle>SAG--Communications to all members</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_1a115bf894e43b1498a9412f33d2cdbd" label="Mixed Materials [31142062842698]" type="Box">12</container><container id="aspace_103a03453ab159087f5f2569afc3054b" parent="aspace_1a115bf894e43b1498a9412f33d2cdbd" type="Folder">8</container></did></c><c id="aspace_2a7e2b61190fa5b4c057dfe74a70961b" level="file"><did><unittitle>SAG--General Membership Meetings</unittitle><unitdate datechar="creation" normal="1971/1991" type="inclusive">1971-1984, 1991</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_6d614dd10c0dd04fbb62a82776b0eaae" label="Mixed Materials [31142062842698]" type="Box">12</container><container id="aspace_3ba1331d882ba68eecfd2c2da706f868" parent="aspace_6d614dd10c0dd04fbb62a82776b0eaae" type="Folder">9</container><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_38969c29e12819f7c0a5a082c40bfab5" label="Mixed Materials [31142062842680]" type="Box">13</container><container id="aspace_0fb76ad5a169a1395e162f6deba09a53" parent="aspace_38969c29e12819f7c0a5a082c40bfab5" type="Folder">1-2</container></did></c><c id="aspace_b5a10da38155f7490c39ca28232cb036" level="file"><did><unittitle>SAG--New York Branch</unittitle><unitdate datechar="creation" normal="1971/1997" type="inclusive">1971-1997</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_835562a58c9ebf5fbacb30596de525bf" label="Mixed Materials [31142062842680]" type="Box">13</container><container id="aspace_022bf441af812858ce0dde56b854976a" parent="aspace_835562a58c9ebf5fbacb30596de525bf" type="Folder">3</container></did></c><c id="aspace_ba6d5c61bcabf495b7f64bb1273cded3" level="file"><did><unittitle>SAG--Accounting</unittitle><unitdate datechar="creation" normal="1985/1986" type="inclusive">1985-1986</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_6d737f3ab0af2642933f1d3839f18520" label="Mixed Materials [31142062842680]" type="Box">13</container><container id="aspace_792568ef65a70589621ac8d6b0a99bb7" parent="aspace_6d737f3ab0af2642933f1d3839f18520" type="Folder">4</container></did></c><c id="aspace_23071459d9aaa337cc6b0ed1e4a0ff9b" level="file"><did><unittitle>SAG--Budgets</unittitle><unitdate datechar="creation" normal="1983/1987" type="inclusive">1983-1987</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_d0d7295cb6bf0a19db9ce0b8cb739849" label="Mixed Materials [31142062842680]" type="Box">13</container><container id="aspace_d6fd0f8778d543d9872b212322830aa4" parent="aspace_d0d7295cb6bf0a19db9ce0b8cb739849" type="Folder">5-6</container></did></c><c id="aspace_9b10714c47ded31da72f026e9b8a3ba8" level="file"><did><unittitle>SAG--Regional Newsletters</unittitle><unitdate datechar="creation" normal="1986/1996" type="inclusive">1986-1996</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_6c0b733c60bc5f0e5c094d21342c8432" label="Mixed Materials [31142062842680]" type="Box">13</container><container id="aspace_c5396d09a19d25d4e8ca8ea8eed089ca" parent="aspace_6c0b733c60bc5f0e5c094d21342c8432" type="Folder">7</container></did></c><c id="aspace_08d6055dd36dc11e1dbff8bdaa1380ef" level="file"><did><unittitle>SAG--Press releases</unittitle><unitdate datechar="creation" normal="1983/1983">1983</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_b3c155e1797c240dd446334755980c5c" label="Mixed Materials [31142062842680]" type="Box">13</container><container id="aspace_14508aea23d12d42540e4dc34bf8e3b3" parent="aspace_b3c155e1797c240dd446334755980c5c" type="Folder">8</container></did></c><c id="aspace_b6aab11576daea78f3e7f52843adf55d" level="file"><did><unittitle>SAG--Press clippings</unittitle><unitdate datechar="creation" normal="1986/1991" type="inclusive">1986-1991</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_8a6bce8480d73e44d9053844a7a255e8" label="Mixed Materials [31142062842680]" type="Box">13</container><container id="aspace_bcbdc13af974d8037398e55b75675b7b" parent="aspace_8a6bce8480d73e44d9053844a7a255e8" type="Folder">9-10</container></did></c><c id="aspace_65a4e7ace887fc29f826cd093019d749" level="file"><did><unittitle>SAG--Contracts</unittitle><unitdate datechar="creation" normal="1959/1989" type="inclusive">1959-1989</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_e3a5a75a97219594730c8e72e455308e" label="Mixed Materials [31142062842672]" type="Box">14</container><container id="aspace_27b3487ed53c27f0ad592666f3b798c1" parent="aspace_e3a5a75a97219594730c8e72e455308e" type="Folder">1-4</container></did></c><c id="aspace_983401bbb6c20923519fb8a51e535aca" level="file"><did><unittitle>SAG--Elections</unittitle><unitdate datechar="creation" normal="1970/1987" type="inclusive">1970-1987</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_cbf9231fc0031185c5b9dbeacc46e38c" label="Mixed Materials [31142062842672]" type="Box">14</container><container id="aspace_4c76396950381fc1a15a27ffd0c431ff" parent="aspace_cbf9231fc0031185c5b9dbeacc46e38c" type="Folder">5</container></did></c><c id="aspace_6cffac83df7390f5a989ccfe86903e3a" level="file"><did><unittitle>SAG--Benefits</unittitle><unitdate datechar="creation" normal="1971/1989" type="inclusive">1971-1989</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_d2ac4304a4a4cd5d63dc06ef0891ceae" label="Mixed Materials [31142062842672]" type="Box">14</container><container id="aspace_9b16724d1d76d1356636cbfc04003b50" parent="aspace_d2ac4304a4a4cd5d63dc06ef0891ceae" type="Folder">6</container></did></c><c id="aspace_23ab8a0334dad946a5cfb24b5a825a41" level="file"><did><unittitle>SAG--Guild expenses</unittitle><unitdate datechar="creation" normal="1971/1988" type="inclusive">1971-1988</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_fc2b778af8e89ef3aa73fa5a19a0e629" label="Mixed Materials [31142062842672]" type="Box">14</container><container id="aspace_cfe6376e223b8bb47a414ef27ceca84b" parent="aspace_fc2b778af8e89ef3aa73fa5a19a0e629" type="Folder">7</container></did></c><c id="aspace_0e9af9ef791a414657cbc6484921cce2" level="file"><did><unittitle>SAG--Memoranda of Agreement</unittitle><unitdate datechar="creation" normal="1984/1989" type="inclusive">1984-1989</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_4bfd8dfd210eef9f2f2a5e35525f558e" label="Mixed Materials [31142062842672]" type="Box">14</container><container id="aspace_6dc2515c4ecf344968aa71c40e9f1844" parent="aspace_4bfd8dfd210eef9f2f2a5e35525f558e" type="Folder">8</container></did></c><c id="aspace_fce8c9e628c51593c9f946b2fe45b06b" level="file"><did><unittitle>SAG--Information Systems Project</unittitle><unitdate datechar="creation" normal="1985/1985">1985</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_eff739d04cf1032925a4d3a006046f60" label="Mixed Materials [31142062842672]" type="Box">14</container><container id="aspace_2e613e9419eae3bc9533383d4241e722" parent="aspace_eff739d04cf1032925a4d3a006046f60" type="Folder">9</container></did></c><c id="aspace_17c4e4f3b2284260010f48a6f5ece846" level="file"><did><unittitle>SAG and AFTRA--Joint Action</unittitle><unitdate datechar="creation" normal="1977/1994" type="inclusive">1977-1994</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_76164300bdd33fcb7d2443575393de68" label="Mixed Materials [31142062842664]" type="Box">15</container><container id="aspace_efee5e5e085b942b1efc50f3475b43c2" parent="aspace_76164300bdd33fcb7d2443575393de68" type="Folder">1-3</container></did></c><c id="aspace_050119e11f62b0e71da5aced28365f34" level="file"><did><unittitle>SAG and AFTRA--Joint Western Section Board of Directors</unittitle><unitdate datechar="creation" normal="1984/1986" type="inclusive">1984-1986</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_bf1d6dcc61a02415978c47618c1db54e" label="Mixed Materials [31142062842664]" type="Box">15</container><container id="aspace_2b25b0585e9f810ac1736a46251460ac" parent="aspace_bf1d6dcc61a02415978c47618c1db54e" type="Folder">4</container></did></c><c id="aspace_00c9544f0a14d0a5de2437be9523ec13" level="file"><did><unittitle>Actor's Equity Association</unittitle><unitdate datechar="creation" normal="1943/1990" type="inclusive">1943-1990</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_490f4a5cce74e14e442728a858daa192" label="Mixed Materials [31142062842664]" type="Box">15</container><container id="aspace_cfc8576c7e306c51708b5e14b1151a34" parent="aspace_490f4a5cce74e14e442728a858daa192" type="Folder">5</container></did></c><c id="aspace_9e012476677a33185f8e33616a3f09d4" level="file"><did><unittitle>Associated Actors and Artistes of America</unittitle><unitdate datechar="creation" normal="1987/1997" type="inclusive">1987-1997</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_a3eb285c60bcf30de656ecea4c68f6f1" label="Mixed Materials [31142062842664]" type="Box">15</container><container id="aspace_1217d2c0f49a16bb242cbd2030168622" parent="aspace_a3eb285c60bcf30de656ecea4c68f6f1" type="Folder">6</container></did></c><c id="aspace_ea5858744919ec4354568ab8d0584ae3" level="file"><did><unittitle>Joint Equality Committee</unittitle><unitdate datechar="creation" normal="1970/1972" type="inclusive">1970-1972</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_0fdc6a89647ef946f4b2f9a0a9f8beb7" label="Mixed Materials [31142062842664]" type="Box">15</container><container id="aspace_92c5bc72430037d5630055e3cc768cec" parent="aspace_0fdc6a89647ef946f4b2f9a0a9f8beb7" type="Folder">7</container></did></c><c id="aspace_1d2a3e6cea627da66ad91b36f8c64fd2" level="file"><did><unittitle>Minority Representation in Broadcasting</unittitle><unitdate datechar="creation" normal="1962/1985" type="inclusive">1962-1985</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_005a91fbd553860e139e9eeda90a34c2" label="Mixed Materials [31142062842664]" type="Box">15</container><container id="aspace_3d5734bbed4ecc0a6695d4631fb4280e" parent="aspace_005a91fbd553860e139e9eeda90a34c2" type="Folder">8-9</container></did></c><c id="aspace_5cd0ccb0cfdff0bcb09af90d0161dc21" level="file"><did><unittitle>Women in Labor</unittitle><unitdate datechar="creation" normal="1974/1991" type="inclusive">1974-1991</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_3d6ca0de97d9ba6e665d2b125cc2f943" label="Mixed Materials [31142062842664]" type="Box">15</container><container id="aspace_5b6a0be2fc5b0df991f4b4b72b34967e" parent="aspace_3d6ca0de97d9ba6e665d2b125cc2f943" type="Folder">10</container></did></c><c id="aspace_3f7fd04c1142468e3d91c121b220d656" level="file"><did><unittitle>Industrywide Labor Management Safety Committee</unittitle><unitdate datechar="creation" normal="1983/1983">1983</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_288926fe569d570fcad9a50c62201d8f" label="Mixed Materials [31142062842656]" type="Box">16</container><container id="aspace_c91a4ecc7c9d967a4cbc3cf0e161f1b0" parent="aspace_288926fe569d570fcad9a50c62201d8f" type="Folder">1</container></did></c><c id="aspace_afad9414c24fe7730926ffcc8dd07e76" level="file"><did><unittitle>New York Labor Issues</unittitle><unitdate datechar="creation" normal="1972/1989" type="inclusive">1972-1989</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_755ca83a4577dd1be27c0be4cebe46ff" label="Mixed Materials [31142062842656]" type="Box">16</container><container id="aspace_78e31911c9ae3b80f60043c1c6213ad1" parent="aspace_755ca83a4577dd1be27c0be4cebe46ff" type="Folder">2</container></did></c><c id="aspace_2c8e8abd6caf4d23a6585b594e818f13" level="file"><did><unittitle>Labor Studies Programs</unittitle><unitdate datechar="creation" normal="1975/1982" type="inclusive">1975-1982</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_ee50896449cd4e39dd16698309a10ad9" label="Mixed Materials [31142062842656]" type="Box">16</container><container id="aspace_4fb5b41c9d7a925196b7016d842275bf" parent="aspace_ee50896449cd4e39dd16698309a10ad9" type="Folder">3</container></did></c><c id="aspace_12ca3d5f288551934bad1859cbf5a855" level="file"><did><unittitle>Labor Newsletters</unittitle><unitdate datechar="creation" normal="1978/1993" type="inclusive">1978-1993</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_5080d2ef225bdf86261a599cf34cb673" label="Mixed Materials [31142062842656]" type="Box">16</container><container id="aspace_faf66bdfa8ac5c17ed2c4b486bc2540b" parent="aspace_5080d2ef225bdf86261a599cf34cb673" type="Folder">4</container></did></c><c id="aspace_3b4342a1c885f9342f8b8727bb4482e2" level="file"><did><unittitle>Legislation regarding labor</unittitle><unitdate datechar="creation" normal="1971/1987" type="inclusive">1971-1987</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_d65085ca8cb5ec1351e16829c9fe45ae" label="Mixed Materials [31142062842656]" type="Box">16</container><container id="aspace_4b10a80575a07df73fc5cc3d480e18f9" parent="aspace_d65085ca8cb5ec1351e16829c9fe45ae" type="Folder">5</container></did></c><c id="aspace_573802a4a7c9fdd5d64acaa959811148" level="file"><did><unittitle>Satellite broadcasts</unittitle><unitdate datechar="creation" normal="1979/1987" type="inclusive">1979-1987</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_df36a292fbf5ac392ca12834c6067d1f" label="Mixed Materials [31142062842656]" type="Box">16</container><container id="aspace_6c7fa72e19aa368da85f23b06aa032f4" parent="aspace_df36a292fbf5ac392ca12834c6067d1f" type="Folder">6</container></did></c><c id="aspace_0f8b691e7a83eef650e417a128d5771e" level="file"><did><unittitle>Big business and proposed boycots</unittitle><unitdate datechar="creation" normal="1971/1995" type="inclusive">1971-1995</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_47d6a7884b4d601512da213fb8977a7f" label="Mixed Materials [31142062842656]" type="Box">16</container><container id="aspace_cb2abd89edf2149bd762970b550a16bd" parent="aspace_47d6a7884b4d601512da213fb8977a7f" type="Folder">7</container></did></c><c id="aspace_09cefe3edd4c096bcc449c2af6e9bdf8" level="file"><did><unittitle>J. P. Stevens boycott</unittitle><unitdate datechar="creation" normal="1976/1979" type="inclusive">1976-1979</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_1cd9be89729d3c3a7734daaa22f6500a" label="Mixed Materials [31142062842656]" type="Box">16</container><container id="aspace_40e4923a67cd7d349de5f7f633697c92" parent="aspace_1cd9be89729d3c3a7734daaa22f6500a" type="Folder">8</container></did></c><c id="aspace_9a3c6fda559d3303457268a80f13478e" level="file"><did><unittitle>Flight Attendant Strike</unittitle><unitdate datechar="creation" normal="1988/1989" type="inclusive">1988-1989</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_99fb2bf5e0480917eec4a8bc95282af2" label="Mixed Materials [31142062842656]" type="Box">16</container><container id="aspace_284c15e4281677885744d69e2d0a933c" parent="aspace_99fb2bf5e0480917eec4a8bc95282af2" type="Folder">9</container></did></c><c id="aspace_5fc6e43139c2bd47236614fb4975fe73" level="file"><did><unittitle>Farah Strike</unittitle><unitdate datechar="creation" normal="1970/1990" type="inclusive">undated</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_38ea2b28c6389f6492d8a49c5c05e8c3" label="Mixed Materials [31142062842656]" type="Box">16</container><container id="aspace_ffef982e7444045af928a190cdb4e148" parent="aspace_38ea2b28c6389f6492d8a49c5c05e8c3" type="Folder">10</container></did></c><c id="aspace_291eb64adc56bd2d1009172896c66865" level="file"><did><unittitle>National Health Insurance</unittitle><unitdate datechar="creation" normal="1992/1992">1992</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_43a7e454955506753cd7ef9b2fcec424" label="Mixed Materials [31142062842656]" type="Box">16</container><container id="aspace_faf425e6b3e85c4ff0ed366fb7a14389" parent="aspace_43a7e454955506753cd7ef9b2fcec424" type="Folder">11</container></did></c><c id="aspace_ddbdb579122dc1a223d5aff27730bf4d" level="file"><did><unittitle>Actors Federal Credit Union</unittitle><unitdate datechar="creation" normal="1976/1994" type="inclusive">1976-1994</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_7b667db7997601cc6a016cea75ed9c15" label="Mixed Materials [31142062842656]" type="Box">16</container><container id="aspace_bc12fb7f2efcda731415868c4842c760" parent="aspace_7b667db7997601cc6a016cea75ed9c15" type="Folder">12</container></did></c><c id="aspace_50c3248e7a1da458d73e56931f452b01" level="file"><did><unittitle>Equity League--Pension and Welfare Trusts</unittitle><unitdate datechar="creation" normal="1972/1989" type="inclusive">1972-1989</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_a822f5dd29b3f0377688a2d846b3ccb8" label="Mixed Materials [31142062842656]" type="Box">16</container><container id="aspace_569b1bac2ee80e07623762178e0467fa" parent="aspace_a822f5dd29b3f0377688a2d846b3ccb8" type="Folder">13</container></did></c><c id="aspace_82cb1d685da8fa4857a611c07f1293ca" level="file"><did><unittitle>Robert F. Wagner Archives</unittitle><unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate><container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_97b6900e704eedd7ab7b06950a35f56b" label="Mixed Materials [31142062842656]" type="Box">16</container><container id="aspace_ce7e7a07e3fc6cb2012ad081dff2ff84" parent="aspace_97b6900e704eedd7ab7b06950a35f56b" type="Folder">14</container></did></c></dsc>
-</archdesc>
+      <physloc id="aspace_2db632b7b47b8c8ea972774ff9c16037">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_0414bc1f8c1483ebe7647804cf8874a9">Materials are in English.</langmaterial>
+    </did>
+    <scopecontent id="aspace_b94ad487d9198a7f7fd9dabd82d7f124">
+      <head>Scope and Contents</head>
+      <p>This collection spans from 1943 to 1997; the bulk of the materials were created between 1968 and 1992. The collection includes records collected by Martha Greenhouse in the course of her time as a member and leader of American Federation of Television and Radio Artists (AFTRA), the Screen Actors Guild (SAG), and other unions for actors including the Actors Equity Association (AEA) and the Associated Actors and Artistes of America (AAAA). Greenhouse was active in AFTRA, specifically the New York Local, for the duration of her career from the 1950s to the 1990s, and especially in the 1970s and 1980s. During the 1980s and 1990s she held leadership roles in SAG as well. </p>
+      <p>
+This collection includes national, regional, and local board meeting minutes; agendas; memoranda; and communications to union members, committees, or officers from both AFTRA and SAG. It also includes governing documents, contracts, financial statements, union member benefits, and press releases and clippings from both unions. There are files demonstrating the campaign to merge SAG and AFTRA during the 1970s and 1980s as well as records that show that both unions worked together to jointly negotiate contracts well before they merged in 2012. Some documents include notes and annotations written by Greenhouse.</p>
+      <p>
+Greenhouse also collected press clippings, correspondence, and other records that related to the general labor movement over the course of her career. These materials include records about women and minorities in both unions and the acting profession, news about strikes and boycotts initiated by other unions such as the Association of Flight Attendants and the Amalgamated Clothing and Textile Workers Union, labor-related legislation on the state and federal level, and labor studies.</p>
+    </scopecontent>
+    <accessrestrict id="aspace_21ec25e53c938edc72e689531d8884e9">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <prefercite id="aspace_a327d9ef659756c25498c64a62f9fbce">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Martha Greenhouse Collection of Acting Union Records; WAG 217; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <userestrict id="aspace_1ab821b41c9f0eb314d4fd7211d42fd4">
+      <head>Use Restrictions</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by Martha Greenhouse are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library and Robert F. Wagner Archives. Please contact the Tamiment Library and Robert F. Wagner Archives at special.collections@nyu.edu, 212-998-2596.</p>
+    </userestrict>
+    <acqinfo id="aspace_a54ba98984ff20b5365b9a46dd82e3eb">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Martha Greenhouse, 2002. The accession number associated with this gift is 2002.038.</p>
+    </acqinfo>
+    <arrangement id="aspace_ca2f24266f48f056e210bd90108dcc49">
+      <head>Arrangement</head>
+      <p>Materials have been grouped together by topic.</p>
+    </arrangement>
+    <processinfo id="aspace_ddf25c20bcc06d316374614cc323d99c">
+      <head>Processing Information</head>
+      <p>A graduate student in the Fall 2019 session of Advanced Archival Description HIST-GA.2031 surveyed and wrote a processing plan for this collection. This collection was described by an archivist in the fall of 2021. Materials were placed in new acid-free folders and boxes.</p>
+    </processinfo>
+    <bioghist id="aspace_b788326ed2f66192b9b7b9f82629e77c">
+      <head>Biographical</head>
+      <p>Martha Greenhouse (1921-2013) was a New York stage, film, and television actor  known for her roles in the films <emph render="italic">The Stepford Wives</emph>,  <emph render="italic">Bananas</emph>, and  <emph render="italic">Daniel</emph>; television shows including  <emph render="italic">Law &amp; Order</emph>,  <emph render="italic">The Jackie Gleason Show</emph>, and  <emph render="italic">Love is a Many Splendored Thing</emph>; and stage productions including the original production of  Rogers and Hammerstein's <emph render="italic">Cinderella</emph>. </p>
+      <p>Greenhouse was an active member and leader of unions for actors, most notably the American Federation of Television and Radio Artists (AFTRA) and the Screen Actors Guild (SAG) which she joined  in 1941 and 1955 respectively. She was also a member of Actors Equity Association (AEA) and the Associated Actors and Artistes of America (AAAA). She served as the president of AFTRA's New York Local from 1977-1982, represented the New York Local at national conventions, and served on AFTRA committees at both the local and national level. Greenhouse served two terms on SAG's National Board from 1981-1987, was active in the SAG New York Branch, and served on national and local SAG committees as well. </p>
+      <p>Greenhouse was in favor of the merger of SAG and AFTRA and advocated for it throughout the late 1970s and the 1980s. The two unions officially merged in 2012 to become SAG-AFTRA. She was recognized for her service to AFTRA and received the Founder's Award, the George Heller Gold Card, and the New York Local's Ken Harvey Award. </p>
+    </bioghist>
+    <relatedmaterial id="aspace_d9a28edd6291b28a13c0fa6b01fe8969">
+      <head>Related Archival Materials</head>
+      <p>For more information about AFTRA  please see the American Federation of Television and Radio Artists (AFTRA) National Office Records (WAG.281) and the American Federation of Television and Radio Artists (AFTRA), New York Local Records (WAG.282). </p>
+      <p>For more information about SAG please see the Screen Actors Guild New York Branch Records (WAG.178).</p>
+    </relatedmaterial>
+    <controlaccess>
+      <subject source="lcsh">Actors -- Labor unions -- United States</subject>
+      <subject source="lcsh">Actors -- Labor unions -- New York (State) -- New York</subject>
+      <subject source="lcsh">Women labor leaders -- New York (State) -- New York</subject>
+      <subject source="lcsh">Women in the labor movement -- United States</subject>
+      <subject source="lcsh">Women labor union members -- New York (N.Y.)</subject>
+      <persname role="dnr" source="naf">Greenhouse, Martha</persname>
+      <corpname authfilenumber="(lccn)no2012109456" source="naf">SAG-AFTRA (Organization)</corpname>
+      <corpname authfilenumber="(lccn)n80161606" source="naf">Screen Actors Guild</corpname>
+      <corpname rules="dacs" source="local">Screen Actors Guild. New York Branch</corpname>
+      <corpname authfilenumber="(lccn)nr88012164" source="naf">American Federation of Television and Radio Artists</corpname>
+      <corpname authfilenumber="(lccn)n79086831" source="naf">AFL-CIO</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_6ac2f10d3766a5f4a430eced1c412684" level="file">
+        <did>
+          <unittitle>AFTRA--Articles of Agreement and Constitution</unittitle>
+          <unitdate datechar="creation" normal="1977/1991" type="inclusive">1977-1991</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_3d611373286525a391b1e61dfa67fc0b" label="Mixed Materials [31142062842805]" type="Box">1</container>
+          <container id="aspace_ed691dedf974365df9ab2b194b4a0c3d" parent="aspace_3d611373286525a391b1e61dfa67fc0b" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_7b9698baa71c2803ece6621084ee8c2c" level="file">
+        <did>
+          <unittitle>AFTRA--Contracts</unittitle>
+          <unitdate datechar="creation" normal="1967/1991" type="inclusive">1967-1991</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_e8a4088d5b166442d35583ff5a89d233" label="Mixed Materials [31142062842805]" type="Box">1</container>
+          <container id="aspace_3d748b44f272048ef9185c0b9f7f82fd" parent="aspace_e8a4088d5b166442d35583ff5a89d233" type="Folder">2-6</container>
+        </did>
+      </c>
+      <c id="aspace_b7cc8b2d44c867ba87a24d10f83b3140" level="file">
+        <did>
+          <unittitle>AFTRA--Press Releases</unittitle>
+          <unitdate datechar="creation" normal="1971/1991" type="inclusive">1971-1991</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_ce8abc41614dd562f75504c780283ba0" label="Mixed Materials [31142062842805]" type="Box">1</container>
+          <container id="aspace_7629224742fdb16c062d1cd6fe20d586" parent="aspace_ce8abc41614dd562f75504c780283ba0" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_7270eb8d835cf5082c8de7147de28192" level="file">
+        <did>
+          <unittitle>AFTRA--Press Clippings</unittitle>
+          <unitdate datechar="creation" normal="1970/1993" type="inclusive">1970-1993</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_22dc2f5d2b442548c9220afb1d58db0f" label="Mixed Materials [31142062842805]" type="Box">1</container>
+          <container id="aspace_c2fc2062243d12b63f8516a6f39b2b62" parent="aspace_22dc2f5d2b442548c9220afb1d58db0f" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_a4119308d602acccdcf94711aa241d4d" level="file">
+        <did>
+          <unittitle>AFTRA--Newsletters</unittitle>
+          <unitdate datechar="creation" normal="1988/1997" type="inclusive">1988-1997</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_08323ce5163094278bb35562295ddad9" label="Mixed Materials [31142062842805]" type="Box">1</container>
+          <container id="aspace_58631cab877239754b8980a6bc4f4450" parent="aspace_08323ce5163094278bb35562295ddad9" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_c8d29a3a45e184672c05c89c100dce4e" level="file">
+        <did>
+          <unittitle>AFTRA--Benefits</unittitle>
+          <unitdate datechar="creation" normal="1958/1991" type="inclusive">1958-1991</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_365f89a93713b3c18fb6e0f72a3cfcc3" label="Mixed Materials [31142062842797]" type="Box">2</container>
+          <container id="aspace_1a85bdc397b04743c9d7a4f6d029906d" parent="aspace_365f89a93713b3c18fb6e0f72a3cfcc3" type="Folder">1-4</container>
+        </did>
+      </c>
+      <c id="aspace_1f115d4dddf0c1dcfcbc670a90cc4ce2" level="file">
+        <did>
+          <unittitle>AFTRA-Alcohol Abuse Treatment</unittitle>
+          <unitdate datechar="creation" normal="1977/1977">1977</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_7e5504cefd0461c1031c05e02631a53e" label="Mixed Materials [31142062842797]" type="Box">2</container>
+          <container id="aspace_1c8becf460ee1c98c85357114a9a58fd" parent="aspace_7e5504cefd0461c1031c05e02631a53e" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_49a2d8923625e7ec7578b258c91cb6c0" level="file">
+        <did>
+          <unittitle>AFTRA--Welfare and Pension Trusts Report</unittitle>
+          <unitdate datechar="creation" normal="1970/1970">1970</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_9e032f41642f3090330c1c33b3499375" label="Mixed Materials [31142062842797]" type="Box">2</container>
+          <container id="aspace_b10713f03e2954493d429cc0b41d7380" parent="aspace_9e032f41642f3090330c1c33b3499375" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_a57d03427f33dc9400dad97ecd81676a" level="file">
+        <did>
+          <unittitle>AFTRA--Financial Records</unittitle>
+          <unitdate datechar="creation" normal="1987/1993" type="inclusive">1987-1993</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_9cf571c45c11db541231802f0ddbc3aa" label="Mixed Materials [31142062842797]" type="Box">2</container>
+          <container id="aspace_08fdff04e0bb658b0fae2fb4d2af41ed" parent="aspace_9cf571c45c11db541231802f0ddbc3aa" type="Folder">7-8</container>
+        </did>
+      </c>
+      <c id="aspace_86c3bc7e2685ab5a8ee2b74937d115d5" level="file">
+        <did>
+          <unittitle>AFTRA--Waiver Requests</unittitle>
+          <unitdate datechar="creation" normal="1989/1992" type="inclusive">1989-1992</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_99d28af0a4c53de543f0dabc882128ba" label="Mixed Materials [31142062842797]" type="Box">2</container>
+          <container id="aspace_fd343f0c1005f34fc1e2b7880ce022f8" parent="aspace_99d28af0a4c53de543f0dabc882128ba" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_22002e621fd6827136d1da6e2922680c" level="file">
+        <did>
+          <unittitle>AFTRA--Don Kennedy</unittitle>
+          <unitdate datechar="creation" normal="1984/1984">1984</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_25373e8a636296d1e9c7dc429dfd0960" label="Mixed Materials [31142062842797]" type="Box">2</container>
+          <container id="aspace_abfd7a53f0773720b67026cb844d0e19" parent="aspace_25373e8a636296d1e9c7dc429dfd0960" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ea7d6ba667e245bb3b21a6326bfa4228" level="file">
+        <did>
+          <unittitle>AFTRA--National Board of Directors</unittitle>
+          <unitdate datechar="creation" normal="1969/1997" type="inclusive">1969-1997</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_e93bf384bbae1ebfa8f89b462c4a121c" label="Mixed Materials [31142062842789]" type="Box">3</container>
+          <container id="aspace_79a9283f25311d40531664b205908d04" parent="aspace_e93bf384bbae1ebfa8f89b462c4a121c" type="Folder">1-5</container>
+        </did>
+      </c>
+      <c id="aspace_482c6816a5189647f51695adf2c136f7" level="file">
+        <did>
+          <unittitle>AFTRA--National Convention</unittitle>
+          <unitdate datechar="creation" normal="1959/1997" type="inclusive">1959-1997</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_743c018cf0a862e98b21397d4d8d2a05" label="Mixed Materials [31142062842771]" type="Box">4</container>
+          <container id="aspace_e908cb855aef7fa0f52ed87212a77e57" parent="aspace_743c018cf0a862e98b21397d4d8d2a05" type="Folder">1-5</container>
+        </did>
+      </c>
+      <c id="aspace_6ef4aca04dff4ac8a3e295eec796a2f9" level="file">
+        <did>
+          <unittitle>AFTRA--National Committees</unittitle>
+          <unitdate datechar="creation" normal="1969/1993" type="inclusive">1969-1993</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_c752c5a247c1246a73ba52406333760f" label="Mixed Materials [31142062842771]" type="Box">4</container>
+          <container id="aspace_74fc1a98a6a1fd4e20fe92a31ae6c218" parent="aspace_c752c5a247c1246a73ba52406333760f" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ed04fca9460dfe74654f07d1c2f8aa81" level="file">
+        <did>
+          <unittitle>AFTRA--New Electronic Devices, Wages, and Conditions Committee</unittitle>
+          <unitdate datechar="creation" normal="1970/1971" type="inclusive">1970-1971</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_fd402b19d4983c9dfc53fd7e23d7279f" label="Mixed Materials [31142062842771]" type="Box">4</container>
+          <container id="aspace_6c3fc9b10416b9ff965726c07983f5b5" parent="aspace_fd402b19d4983c9dfc53fd7e23d7279f" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_54f8109866d02f95a486662a98952e8d" level="file">
+        <did>
+          <unittitle>AFTRA--Eastern Section</unittitle>
+          <unitdate datechar="creation" normal="1968/1992" type="inclusive">1968-1992</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_697ff578ed7470896c6cd2b10573f074" label="Mixed Materials [31142062842763]" type="Box">5</container>
+          <container id="aspace_2f992cbfdac6e8677d539fdc946f0252" parent="aspace_697ff578ed7470896c6cd2b10573f074" type="Folder">1-5</container>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_4915fc5fd4de702506c5831b7bd0b012" label="Mixed Materials [31142062842755]" type="Box">6</container>
+          <container id="aspace_8f028f9fb2980c5072eaf1c98c4c67c3" parent="aspace_4915fc5fd4de702506c5831b7bd0b012" type="Folder">1-2</container>
+        </did>
+      </c>
+      <c id="aspace_30e90b7acd3712dd29c2764620cf2d57" level="file">
+        <did>
+          <unittitle>AFTRA--Central/Eastern Section</unittitle>
+          <unitdate datechar="creation" normal="1987/1993" type="inclusive">1987-1993</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_4bcb7bfe4f86a07d37917c83c6b3ec57" label="Mixed Materials [31142062842755]" type="Box">6</container>
+          <container id="aspace_2f4b686e8ca1d1b8752385fbf7a170bb" parent="aspace_4bcb7bfe4f86a07d37917c83c6b3ec57" type="Folder">3-4</container>
+        </did>
+      </c>
+      <c id="aspace_339c5867b17daa6ef653623f718ba76d" level="file">
+        <did>
+          <unittitle>AFTRA--Central Section</unittitle>
+          <unitdate datechar="creation" normal="1970/1991" type="inclusive">1970-1991</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_ef7782d7d1bb575801c5e08c0b5df0aa" label="Mixed Materials [31142062842755]" type="Box">6</container>
+          <container id="aspace_e950573c6efa59f5c24627411b09d7cd" parent="aspace_ef7782d7d1bb575801c5e08c0b5df0aa" type="Folder">5-6</container>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_8523c865f15a7f811cf51ed43d99a082" label="Mixed Materials [31142062842748]" type="Box">7</container>
+          <container id="aspace_d08f5fa6d790ebd8c0ecc609894535cf" parent="aspace_8523c865f15a7f811cf51ed43d99a082" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_561c27e4c289135e1b4ee869c7ea40fb" level="file">
+        <did>
+          <unittitle>AFTRA-Western Section</unittitle>
+          <unitdate datechar="creation" normal="1970/1992" type="inclusive">1970-1992</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_7e083f5bda26240104602833af848aea" label="Mixed Materials [31142062842748]" type="Box">7</container>
+          <container id="aspace_043768b90603be9a70dfeaa37bb655dc" parent="aspace_7e083f5bda26240104602833af848aea" type="Folder">2-5</container>
+        </did>
+      </c>
+      <c id="aspace_dd0e10df16861231b43f33063eafd740" level="file">
+        <did>
+          <unittitle>AFTRA-- New York Local Board of Directors</unittitle>
+          <unitdate datechar="creation" normal="1965/1997" type="inclusive">1965-1997</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_dae2e824e12fb00e75e4e707189d1459" label="Mixed Materials [31142062842748]" type="Box">7</container>
+          <container id="aspace_5dab5ae49af47aae07349d4befb752a9" parent="aspace_dae2e824e12fb00e75e4e707189d1459" type="Folder">6</container>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_38a6f02bb8690fc484e7e48507d8c2a6" label="Mixed Materials [31142062842730]" type="Box">8</container>
+          <container id="aspace_26ef4c1c801e73832e3c41ac364831e3" parent="aspace_38a6f02bb8690fc484e7e48507d8c2a6" type="Folder">1-5</container>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_a98a9f574e0386552973bc5839930042" label="Mixed Materials [31142062842722]" type="Box">9</container>
+          <container id="aspace_0fe9a51f6bbaaaac8da60f26341bb500" parent="aspace_a98a9f574e0386552973bc5839930042" type="Folder">1-3</container>
+        </did>
+      </c>
+      <c id="aspace_8137dfd83edbece0e2f7470fc9194ee4" level="file">
+        <did>
+          <unittitle>AFTRA--New York Local Directors and Officers</unittitle>
+          <unitdate datechar="creation" normal="1968/1997" type="inclusive">1968-1997</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_6e11a22399a503bab481a7a2445e4cb7" label="Mixed Materials [31142062842722]" type="Box">9</container>
+          <container id="aspace_9b676bd24fbfef24d88ce667e630c116" parent="aspace_6e11a22399a503bab481a7a2445e4cb7" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_22d74db82b5979cbbad4a4a7fdce1c98" level="file">
+        <did>
+          <unittitle>AFTRA--New York Local National Convention Delegates</unittitle>
+          <unitdate datechar="creation" normal="1970/1995" type="inclusive">1970-1995</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_e3b14685bde41af328a385cc9f1f04a7" label="Mixed Materials [31142062842722]" type="Box">9</container>
+          <container id="aspace_40d44285a5fdf470795d1748c8787075" parent="aspace_e3b14685bde41af328a385cc9f1f04a7" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_49174ae0057ee7e19586a0e7b889ed80" level="file">
+        <did>
+          <unittitle>AFTRA--New York Local Executive Committee</unittitle>
+          <unitdate datechar="creation" normal="1970/1997" type="inclusive">1970-1997</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_fed49c7bb7b223399dccc165ac039c26" label="Mixed Materials [31142062842722]" type="Box">9</container>
+          <container id="aspace_3372c2288345790ba0b34cfb943f9d50" parent="aspace_fed49c7bb7b223399dccc165ac039c26" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_b9681e71f8d9245c97cf5dadd6ae2b2d" level="file">
+        <did>
+          <unittitle>AFTRA--New York Local Nominating Committee</unittitle>
+          <unitdate datechar="creation" normal="1970/1997" type="inclusive">1970-1997</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_d4050a442830eeb6c03eb8feb1319916" label="Mixed Materials [31142062842722]" type="Box">9</container>
+          <container id="aspace_037d743c9ddd17a309fb2aaabd47fbab" parent="aspace_d4050a442830eeb6c03eb8feb1319916" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_b5a205468b1c11216dcd299db4562417" level="file">
+        <did>
+          <unittitle>AFTRA--New York Local Caucuses</unittitle>
+          <unitdate datechar="creation" normal="1973/1987" type="inclusive">1973-1987</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_88c756568d6fa68284b8f4bb2767e86d" label="Mixed Materials [31142062842722]" type="Box">9</container>
+          <container id="aspace_8e0e9788400693eb7214cce430cc508d" parent="aspace_88c756568d6fa68284b8f4bb2767e86d" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_0e3e424c6d84166a8c94ed1c543d9543" level="file">
+        <did>
+          <unittitle>AFTRA--New York Local Equal Employment Opportunity Committee</unittitle>
+          <unitdate datechar="creation" normal="1977/1996" type="inclusive">1977-1996</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_96d167230e10837254ae0f8ed62c2514" label="Mixed Materials [31142062842722]" type="Box">9</container>
+          <container id="aspace_b2247ff9f1c3573a732eabcdce35c51c" parent="aspace_96d167230e10837254ae0f8ed62c2514" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_219d8bc7281847a709bd4be30e5786aa" level="file">
+        <did>
+          <unittitle>AFTRA-- New York Local Committees</unittitle>
+          <unitdate datechar="creation" normal="1970/1988" type="inclusive">1970-1988</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_f675ea3b67c202e2e9968bf45e263aed" label="Mixed Materials [31142062842722]" type="Box">9</container>
+          <container id="aspace_d35828339dc69303e7a46fbc35be0a46" parent="aspace_f675ea3b67c202e2e9968bf45e263aed" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_e45d93d8c32709c712894b0911b0ae64" level="file">
+        <did>
+          <unittitle>AFTRA--New York Local 50th Anniversary Celebration</unittitle>
+          <unitdate datechar="creation" normal="1998/1998">1998</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_a4442eafc8755a2b77af0ddbe35ecb64" label="Mixed Materials [31142062842722]" type="Box">9</container>
+          <container id="aspace_b965b78126fd2ccd3a5acfa086877411" parent="aspace_a4442eafc8755a2b77af0ddbe35ecb64" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_b43da4b3be3363631b9e8fe0c422dbb2" level="file">
+        <did>
+          <unittitle>AFTRA--New York Local Communications to members</unittitle>
+          <unitdate datechar="creation" normal="1959/1997" type="inclusive">1959-1997</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_40c094ecfbdffa67ce32ed33c7008963" label="Mixed Materials [31142062842714]" type="Box">10</container>
+          <container id="aspace_e9792c76edd1810a5077d3593347b7f7" parent="aspace_40c094ecfbdffa67ce32ed33c7008963" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_a4ae0467d1be444b8eb5fc7c2c013496" level="file">
+        <did>
+          <unittitle>SAG--Constitution</unittitle>
+          <unitdate datechar="creation" normal="1983/1987" type="inclusive">1983-1987</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_5601730620d0f64eeb9f7dc7cd30ee44" label="Mixed Materials [31142062842714]" type="Box">10</container>
+          <container id="aspace_8eb5c9ec6bb4725581240fffacc40814" parent="aspace_5601730620d0f64eeb9f7dc7cd30ee44" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_3c0ca5c13c66138b85d81e55b10d11bb" level="file">
+        <did>
+          <unittitle>SAG-National Board of Directors</unittitle>
+          <unitdate datechar="creation" normal="1980/1987" type="inclusive">1980-1987</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_c3350bd19972c8de11fa5e85c3f669f1" label="Mixed Materials [31142062842714]" type="Box">10</container>
+          <container id="aspace_73adbd6d93605411fb05c6c540def8a0" parent="aspace_c3350bd19972c8de11fa5e85c3f669f1" type="Folder">3-5</container>
+        </did>
+      </c>
+      <c id="aspace_65a6bd487b4f6e55b52e482a8fd25dbc" level="file">
+        <did>
+          <unittitle>SAG--National Board of Directors Eastern Section</unittitle>
+          <unitdate datechar="creation" normal="1986/1987" type="inclusive">1986-1987</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_07c3b74968b4c322907292484524e127" label="Mixed Materials [31142062842714]" type="Box">10</container>
+          <container id="aspace_8d41ca449dd387a4e88e759d265ddc08" parent="aspace_07c3b74968b4c322907292484524e127" type="Folder">6</container>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_692b0baa07c720f6b094974eb8abc1af" label="Mixed Materials [31142062842706]" type="Box">11</container>
+          <container id="aspace_3f0469f01d6d0d2b20c0dbfa3deae2a8" parent="aspace_692b0baa07c720f6b094974eb8abc1af" type="Folder">1-3</container>
+        </did>
+      </c>
+      <c id="aspace_b406f7e55bf4d02eea084322b84e2ea8" level="file">
+        <did>
+          <unittitle>SAG--National Board of Directors Western Section</unittitle>
+          <unitdate datechar="creation" normal="1986/1986">1986</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_4d796fa5a7ffd64027d2630f18c1f9dd" label="Mixed Materials [31142062842706]" type="Box">11</container>
+          <container id="aspace_1c3d2705e58dbb859425686cdd4be709" parent="aspace_4d796fa5a7ffd64027d2630f18c1f9dd" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_8fd544a4b58f74f6c8928d6099f87b4e" level="file">
+        <did>
+          <unittitle>SAG--National Board of Directors New York Section</unittitle>
+          <unitdate datechar="creation" normal="1977/1986" type="inclusive">1977-1986</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_5e5ca2d3a166da933e6bfd68cd330851" label="Mixed Materials [31142062842706]" type="Box">11</container>
+          <container id="aspace_a0b35acdac162c28322791d629ade000" parent="aspace_5e5ca2d3a166da933e6bfd68cd330851" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_a2492fbf7a02251daf8469e0d2819c5c" level="file">
+        <did>
+          <unittitle>SAG--National Executive Committee</unittitle>
+          <unitdate datechar="creation" normal="1983/1987" type="inclusive">1983-1987</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_6f4a9352de6b8144519470c4b3500989" label="Mixed Materials [31142062842698]" type="Box">12</container>
+          <container id="aspace_76bbb45fd4a08a56bc633b41b24aed02" parent="aspace_6f4a9352de6b8144519470c4b3500989" type="Folder">2-3</container>
+        </did>
+      </c>
+      <c id="aspace_9addbb827dcfaa799ed93b673d51d9e6" level="file">
+        <did>
+          <unittitle>SAG--New York Executive Committee</unittitle>
+          <unitdate datechar="creation" normal="1985/1986" type="inclusive">1985-1986</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_7f3aae1b60ca9b42b1f7bffb1fd6e50a" label="Mixed Materials [31142062842698]" type="Box">12</container>
+          <container id="aspace_7bef8bc972ee49b2259951db2ebaf393" parent="aspace_7f3aae1b60ca9b42b1f7bffb1fd6e50a" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_422eb9ea61ef31cd1d13bfde9c4a81a3" level="file">
+        <did>
+          <unittitle>SAG--National Guild Government Review Committee</unittitle>
+          <unitdate datechar="creation" normal="1983/1987" type="inclusive">1983-1987</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_f267948349a0639e345c901fd425505d" label="Mixed Materials [31142062842698]" type="Box">12</container>
+          <container id="aspace_e416164cb3912a54517010e64d9e50b2" parent="aspace_f267948349a0639e345c901fd425505d" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_5db55ea3acf824d3cab12aed170f381e" level="file">
+        <did>
+          <unittitle>SAG--Guild Government Review Committee New York Section</unittitle>
+          <unitdate datechar="creation" normal="1985/1985">1985</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_c3966e686f25f97f3e7a6772539da2af" label="Mixed Materials [31142062842698]" type="Box">12</container>
+          <container id="aspace_166a3a021d578f3eaf073fb9a4684515" parent="aspace_c3966e686f25f97f3e7a6772539da2af" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ae68003f73da49cb5d26cd393ff62fc6" level="file">
+        <did>
+          <unittitle>SAG--Ethnic Equal Employment Opportunity Committee</unittitle>
+          <unitdate datechar="creation" normal="1985/1990" type="inclusive">1985-1990</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_18e1e993a76e9379c636b22ee89a188d" label="Mixed Materials [31142062842698]" type="Box">12</container>
+          <container id="aspace_13ad112a45a559183afd372275331da6" parent="aspace_18e1e993a76e9379c636b22ee89a188d" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_5b59f49ab2078963bf75f960864f2290" level="file">
+        <did>
+          <unittitle>SAG--National Committees</unittitle>
+          <unitdate datechar="creation" normal="1986/1996" type="inclusive">1986-1996</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_db64205e41d000fb530244c4beabf521" label="Mixed Materials [31142062842698]" type="Box">12</container>
+          <container id="aspace_b92374df268c0f8de321e414e8a96680" parent="aspace_db64205e41d000fb530244c4beabf521" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_58b1f12532b8d3c9b023d2670266b3e6" level="file">
+        <did>
+          <unittitle>SAG--Communications to all members</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_1a115bf894e43b1498a9412f33d2cdbd" label="Mixed Materials [31142062842698]" type="Box">12</container>
+          <container id="aspace_103a03453ab159087f5f2569afc3054b" parent="aspace_1a115bf894e43b1498a9412f33d2cdbd" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_2a7e2b61190fa5b4c057dfe74a70961b" level="file">
+        <did>
+          <unittitle>SAG--General Membership Meetings</unittitle>
+          <unitdate datechar="creation" normal="1971/1991" type="inclusive">1971-1984, 1991</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_6d614dd10c0dd04fbb62a82776b0eaae" label="Mixed Materials [31142062842698]" type="Box">12</container>
+          <container id="aspace_3ba1331d882ba68eecfd2c2da706f868" parent="aspace_6d614dd10c0dd04fbb62a82776b0eaae" type="Folder">9</container>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_38969c29e12819f7c0a5a082c40bfab5" label="Mixed Materials [31142062842680]" type="Box">13</container>
+          <container id="aspace_0fb76ad5a169a1395e162f6deba09a53" parent="aspace_38969c29e12819f7c0a5a082c40bfab5" type="Folder">1-2</container>
+        </did>
+      </c>
+      <c id="aspace_b5a10da38155f7490c39ca28232cb036" level="file">
+        <did>
+          <unittitle>SAG--New York Branch</unittitle>
+          <unitdate datechar="creation" normal="1971/1997" type="inclusive">1971-1997</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_835562a58c9ebf5fbacb30596de525bf" label="Mixed Materials [31142062842680]" type="Box">13</container>
+          <container id="aspace_022bf441af812858ce0dde56b854976a" parent="aspace_835562a58c9ebf5fbacb30596de525bf" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ba6d5c61bcabf495b7f64bb1273cded3" level="file">
+        <did>
+          <unittitle>SAG--Accounting</unittitle>
+          <unitdate datechar="creation" normal="1985/1986" type="inclusive">1985-1986</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_6d737f3ab0af2642933f1d3839f18520" label="Mixed Materials [31142062842680]" type="Box">13</container>
+          <container id="aspace_792568ef65a70589621ac8d6b0a99bb7" parent="aspace_6d737f3ab0af2642933f1d3839f18520" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_23071459d9aaa337cc6b0ed1e4a0ff9b" level="file">
+        <did>
+          <unittitle>SAG--Budgets</unittitle>
+          <unitdate datechar="creation" normal="1983/1987" type="inclusive">1983-1987</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_d0d7295cb6bf0a19db9ce0b8cb739849" label="Mixed Materials [31142062842680]" type="Box">13</container>
+          <container id="aspace_d6fd0f8778d543d9872b212322830aa4" parent="aspace_d0d7295cb6bf0a19db9ce0b8cb739849" type="Folder">5-6</container>
+        </did>
+      </c>
+      <c id="aspace_9b10714c47ded31da72f026e9b8a3ba8" level="file">
+        <did>
+          <unittitle>SAG--Regional Newsletters</unittitle>
+          <unitdate datechar="creation" normal="1986/1996" type="inclusive">1986-1996</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_6c0b733c60bc5f0e5c094d21342c8432" label="Mixed Materials [31142062842680]" type="Box">13</container>
+          <container id="aspace_c5396d09a19d25d4e8ca8ea8eed089ca" parent="aspace_6c0b733c60bc5f0e5c094d21342c8432" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_08d6055dd36dc11e1dbff8bdaa1380ef" level="file">
+        <did>
+          <unittitle>SAG--Press releases</unittitle>
+          <unitdate datechar="creation" normal="1983/1983">1983</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_b3c155e1797c240dd446334755980c5c" label="Mixed Materials [31142062842680]" type="Box">13</container>
+          <container id="aspace_14508aea23d12d42540e4dc34bf8e3b3" parent="aspace_b3c155e1797c240dd446334755980c5c" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_b6aab11576daea78f3e7f52843adf55d" level="file">
+        <did>
+          <unittitle>SAG--Press clippings</unittitle>
+          <unitdate datechar="creation" normal="1986/1991" type="inclusive">1986-1991</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_8a6bce8480d73e44d9053844a7a255e8" label="Mixed Materials [31142062842680]" type="Box">13</container>
+          <container id="aspace_bcbdc13af974d8037398e55b75675b7b" parent="aspace_8a6bce8480d73e44d9053844a7a255e8" type="Folder">9-10</container>
+        </did>
+      </c>
+      <c id="aspace_65a4e7ace887fc29f826cd093019d749" level="file">
+        <did>
+          <unittitle>SAG--Contracts</unittitle>
+          <unitdate datechar="creation" normal="1959/1989" type="inclusive">1959-1989</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_e3a5a75a97219594730c8e72e455308e" label="Mixed Materials [31142062842672]" type="Box">14</container>
+          <container id="aspace_27b3487ed53c27f0ad592666f3b798c1" parent="aspace_e3a5a75a97219594730c8e72e455308e" type="Folder">1-4</container>
+        </did>
+      </c>
+      <c id="aspace_983401bbb6c20923519fb8a51e535aca" level="file">
+        <did>
+          <unittitle>SAG--Elections</unittitle>
+          <unitdate datechar="creation" normal="1970/1987" type="inclusive">1970-1987</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_cbf9231fc0031185c5b9dbeacc46e38c" label="Mixed Materials [31142062842672]" type="Box">14</container>
+          <container id="aspace_4c76396950381fc1a15a27ffd0c431ff" parent="aspace_cbf9231fc0031185c5b9dbeacc46e38c" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_6cffac83df7390f5a989ccfe86903e3a" level="file">
+        <did>
+          <unittitle>SAG--Benefits</unittitle>
+          <unitdate datechar="creation" normal="1971/1989" type="inclusive">1971-1989</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_d2ac4304a4a4cd5d63dc06ef0891ceae" label="Mixed Materials [31142062842672]" type="Box">14</container>
+          <container id="aspace_9b16724d1d76d1356636cbfc04003b50" parent="aspace_d2ac4304a4a4cd5d63dc06ef0891ceae" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_23ab8a0334dad946a5cfb24b5a825a41" level="file">
+        <did>
+          <unittitle>SAG--Guild expenses</unittitle>
+          <unitdate datechar="creation" normal="1971/1988" type="inclusive">1971-1988</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_fc2b778af8e89ef3aa73fa5a19a0e629" label="Mixed Materials [31142062842672]" type="Box">14</container>
+          <container id="aspace_cfe6376e223b8bb47a414ef27ceca84b" parent="aspace_fc2b778af8e89ef3aa73fa5a19a0e629" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_0e9af9ef791a414657cbc6484921cce2" level="file">
+        <did>
+          <unittitle>SAG--Memoranda of Agreement</unittitle>
+          <unitdate datechar="creation" normal="1984/1989" type="inclusive">1984-1989</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_4bfd8dfd210eef9f2f2a5e35525f558e" label="Mixed Materials [31142062842672]" type="Box">14</container>
+          <container id="aspace_6dc2515c4ecf344968aa71c40e9f1844" parent="aspace_4bfd8dfd210eef9f2f2a5e35525f558e" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_fce8c9e628c51593c9f946b2fe45b06b" level="file">
+        <did>
+          <unittitle>SAG--Information Systems Project</unittitle>
+          <unitdate datechar="creation" normal="1985/1985">1985</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_eff739d04cf1032925a4d3a006046f60" label="Mixed Materials [31142062842672]" type="Box">14</container>
+          <container id="aspace_2e613e9419eae3bc9533383d4241e722" parent="aspace_eff739d04cf1032925a4d3a006046f60" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_17c4e4f3b2284260010f48a6f5ece846" level="file">
+        <did>
+          <unittitle>SAG and AFTRA--Joint Action</unittitle>
+          <unitdate datechar="creation" normal="1977/1994" type="inclusive">1977-1994</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_76164300bdd33fcb7d2443575393de68" label="Mixed Materials [31142062842664]" type="Box">15</container>
+          <container id="aspace_efee5e5e085b942b1efc50f3475b43c2" parent="aspace_76164300bdd33fcb7d2443575393de68" type="Folder">1-3</container>
+        </did>
+      </c>
+      <c id="aspace_050119e11f62b0e71da5aced28365f34" level="file">
+        <did>
+          <unittitle>SAG and AFTRA--Joint Western Section Board of Directors</unittitle>
+          <unitdate datechar="creation" normal="1984/1986" type="inclusive">1984-1986</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_bf1d6dcc61a02415978c47618c1db54e" label="Mixed Materials [31142062842664]" type="Box">15</container>
+          <container id="aspace_2b25b0585e9f810ac1736a46251460ac" parent="aspace_bf1d6dcc61a02415978c47618c1db54e" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_00c9544f0a14d0a5de2437be9523ec13" level="file">
+        <did>
+          <unittitle>Actor's Equity Association</unittitle>
+          <unitdate datechar="creation" normal="1943/1990" type="inclusive">1943-1990</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_490f4a5cce74e14e442728a858daa192" label="Mixed Materials [31142062842664]" type="Box">15</container>
+          <container id="aspace_cfc8576c7e306c51708b5e14b1151a34" parent="aspace_490f4a5cce74e14e442728a858daa192" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_9e012476677a33185f8e33616a3f09d4" level="file">
+        <did>
+          <unittitle>Associated Actors and Artistes of America</unittitle>
+          <unitdate datechar="creation" normal="1987/1997" type="inclusive">1987-1997</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_a3eb285c60bcf30de656ecea4c68f6f1" label="Mixed Materials [31142062842664]" type="Box">15</container>
+          <container id="aspace_1217d2c0f49a16bb242cbd2030168622" parent="aspace_a3eb285c60bcf30de656ecea4c68f6f1" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ea5858744919ec4354568ab8d0584ae3" level="file">
+        <did>
+          <unittitle>Joint Equality Committee</unittitle>
+          <unitdate datechar="creation" normal="1970/1972" type="inclusive">1970-1972</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_0fdc6a89647ef946f4b2f9a0a9f8beb7" label="Mixed Materials [31142062842664]" type="Box">15</container>
+          <container id="aspace_92c5bc72430037d5630055e3cc768cec" parent="aspace_0fdc6a89647ef946f4b2f9a0a9f8beb7" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_1d2a3e6cea627da66ad91b36f8c64fd2" level="file">
+        <did>
+          <unittitle>Minority Representation in Broadcasting</unittitle>
+          <unitdate datechar="creation" normal="1962/1985" type="inclusive">1962-1985</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_005a91fbd553860e139e9eeda90a34c2" label="Mixed Materials [31142062842664]" type="Box">15</container>
+          <container id="aspace_3d5734bbed4ecc0a6695d4631fb4280e" parent="aspace_005a91fbd553860e139e9eeda90a34c2" type="Folder">8-9</container>
+        </did>
+      </c>
+      <c id="aspace_5cd0ccb0cfdff0bcb09af90d0161dc21" level="file">
+        <did>
+          <unittitle>Women in Labor</unittitle>
+          <unitdate datechar="creation" normal="1974/1991" type="inclusive">1974-1991</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_3d6ca0de97d9ba6e665d2b125cc2f943" label="Mixed Materials [31142062842664]" type="Box">15</container>
+          <container id="aspace_5b6a0be2fc5b0df991f4b4b72b34967e" parent="aspace_3d6ca0de97d9ba6e665d2b125cc2f943" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_3f7fd04c1142468e3d91c121b220d656" level="file">
+        <did>
+          <unittitle>Industrywide Labor Management Safety Committee</unittitle>
+          <unitdate datechar="creation" normal="1983/1983">1983</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_288926fe569d570fcad9a50c62201d8f" label="Mixed Materials [31142062842656]" type="Box">16</container>
+          <container id="aspace_c91a4ecc7c9d967a4cbc3cf0e161f1b0" parent="aspace_288926fe569d570fcad9a50c62201d8f" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_afad9414c24fe7730926ffcc8dd07e76" level="file">
+        <did>
+          <unittitle>New York Labor Issues</unittitle>
+          <unitdate datechar="creation" normal="1972/1989" type="inclusive">1972-1989</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_755ca83a4577dd1be27c0be4cebe46ff" label="Mixed Materials [31142062842656]" type="Box">16</container>
+          <container id="aspace_78e31911c9ae3b80f60043c1c6213ad1" parent="aspace_755ca83a4577dd1be27c0be4cebe46ff" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_2c8e8abd6caf4d23a6585b594e818f13" level="file">
+        <did>
+          <unittitle>Labor Studies Programs</unittitle>
+          <unitdate datechar="creation" normal="1975/1982" type="inclusive">1975-1982</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_ee50896449cd4e39dd16698309a10ad9" label="Mixed Materials [31142062842656]" type="Box">16</container>
+          <container id="aspace_4fb5b41c9d7a925196b7016d842275bf" parent="aspace_ee50896449cd4e39dd16698309a10ad9" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_12ca3d5f288551934bad1859cbf5a855" level="file">
+        <did>
+          <unittitle>Labor Newsletters</unittitle>
+          <unitdate datechar="creation" normal="1978/1993" type="inclusive">1978-1993</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_5080d2ef225bdf86261a599cf34cb673" label="Mixed Materials [31142062842656]" type="Box">16</container>
+          <container id="aspace_faf66bdfa8ac5c17ed2c4b486bc2540b" parent="aspace_5080d2ef225bdf86261a599cf34cb673" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_3b4342a1c885f9342f8b8727bb4482e2" level="file">
+        <did>
+          <unittitle>Legislation regarding labor</unittitle>
+          <unitdate datechar="creation" normal="1971/1987" type="inclusive">1971-1987</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_d65085ca8cb5ec1351e16829c9fe45ae" label="Mixed Materials [31142062842656]" type="Box">16</container>
+          <container id="aspace_4b10a80575a07df73fc5cc3d480e18f9" parent="aspace_d65085ca8cb5ec1351e16829c9fe45ae" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_573802a4a7c9fdd5d64acaa959811148" level="file">
+        <did>
+          <unittitle>Satellite broadcasts</unittitle>
+          <unitdate datechar="creation" normal="1979/1987" type="inclusive">1979-1987</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_df36a292fbf5ac392ca12834c6067d1f" label="Mixed Materials [31142062842656]" type="Box">16</container>
+          <container id="aspace_6c7fa72e19aa368da85f23b06aa032f4" parent="aspace_df36a292fbf5ac392ca12834c6067d1f" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_0f8b691e7a83eef650e417a128d5771e" level="file">
+        <did>
+          <unittitle>Big business and proposed boycots</unittitle>
+          <unitdate datechar="creation" normal="1971/1995" type="inclusive">1971-1995</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_47d6a7884b4d601512da213fb8977a7f" label="Mixed Materials [31142062842656]" type="Box">16</container>
+          <container id="aspace_cb2abd89edf2149bd762970b550a16bd" parent="aspace_47d6a7884b4d601512da213fb8977a7f" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_09cefe3edd4c096bcc449c2af6e9bdf8" level="file">
+        <did>
+          <unittitle>J. P. Stevens boycott</unittitle>
+          <unitdate datechar="creation" normal="1976/1979" type="inclusive">1976-1979</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_1cd9be89729d3c3a7734daaa22f6500a" label="Mixed Materials [31142062842656]" type="Box">16</container>
+          <container id="aspace_40e4923a67cd7d349de5f7f633697c92" parent="aspace_1cd9be89729d3c3a7734daaa22f6500a" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_9a3c6fda559d3303457268a80f13478e" level="file">
+        <did>
+          <unittitle>Flight Attendant Strike</unittitle>
+          <unitdate datechar="creation" normal="1988/1989" type="inclusive">1988-1989</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_99fb2bf5e0480917eec4a8bc95282af2" label="Mixed Materials [31142062842656]" type="Box">16</container>
+          <container id="aspace_284c15e4281677885744d69e2d0a933c" parent="aspace_99fb2bf5e0480917eec4a8bc95282af2" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_5fc6e43139c2bd47236614fb4975fe73" level="file">
+        <did>
+          <unittitle>Farah Strike</unittitle>
+          <unitdate datechar="creation" normal="1970/1990" type="inclusive">undated</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_38ea2b28c6389f6492d8a49c5c05e8c3" label="Mixed Materials [31142062842656]" type="Box">16</container>
+          <container id="aspace_ffef982e7444045af928a190cdb4e148" parent="aspace_38ea2b28c6389f6492d8a49c5c05e8c3" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_291eb64adc56bd2d1009172896c66865" level="file">
+        <did>
+          <unittitle>National Health Insurance</unittitle>
+          <unitdate datechar="creation" normal="1992/1992">1992</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_43a7e454955506753cd7ef9b2fcec424" label="Mixed Materials [31142062842656]" type="Box">16</container>
+          <container id="aspace_faf425e6b3e85c4ff0ed366fb7a14389" parent="aspace_43a7e454955506753cd7ef9b2fcec424" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ddbdb579122dc1a223d5aff27730bf4d" level="file">
+        <did>
+          <unittitle>Actors Federal Credit Union</unittitle>
+          <unitdate datechar="creation" normal="1976/1994" type="inclusive">1976-1994</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_7b667db7997601cc6a016cea75ed9c15" label="Mixed Materials [31142062842656]" type="Box">16</container>
+          <container id="aspace_bc12fb7f2efcda731415868c4842c760" parent="aspace_7b667db7997601cc6a016cea75ed9c15" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_50c3248e7a1da458d73e56931f452b01" level="file">
+        <did>
+          <unittitle>Equity League--Pension and Welfare Trusts</unittitle>
+          <unitdate datechar="creation" normal="1972/1989" type="inclusive">1972-1989</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_a822f5dd29b3f0377688a2d846b3ccb8" label="Mixed Materials [31142062842656]" type="Box">16</container>
+          <container id="aspace_569b1bac2ee80e07623762178e0467fa" parent="aspace_a822f5dd29b3f0377688a2d846b3ccb8" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_82cb1d685da8fa4857a611c07f1293ca" level="file">
+        <did>
+          <unittitle>Robert F. Wagner Archives</unittitle>
+          <unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
+          <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_97b6900e704eedd7ab7b06950a35f56b" label="Mixed Materials [31142062842656]" type="Box">16</container>
+          <container id="aspace_ce7e7a07e3fc6cb2012ad081dff2ff84" parent="aspace_97b6900e704eedd7ab7b06950a35f56b" type="Folder">14</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

@@ -1,97 +1,1342 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_239">tam_239</eadid><filedesc><titlestmt><titleproper>Guide to Maurice Isserman Research Files <num>TAM.239</num></titleproper><author>Katja Vehlow; Entered into the Archivist's Toolkit by John D. Bence</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2001</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:02:46 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage></profiledesc><revisiondesc><change><date>November 2016</date><item>Edited by Heather Mulliner to reflect the incorporation of a 2016 accretion</item></change></revisiondesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Maurice Isserman Research Files</unittitle>
-    <origination label="source">
-      <persname source="naf">Isserman, Maurice                          </persname>
-    </origination>
-    <origination label="Creator">
-      <persname source="naf">Isserman, Maurice                          </persname>
-    </origination>
-    <origination label="source">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/tam_239">tam_239</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to Maurice Isserman Research Files <num>TAM.239</num></titleproper>
+        <author>Katja Vehlow; Entered into the Archivist's Toolkit by John D. Bence</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2001</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:02:46 -0400</date>.</creation>
+      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>November 2016</date>
+        <item>Edited by Heather Mulliner to reflect the incorporation of a 2016 accretion</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Maurice Isserman Research Files</unittitle>
+      <origination label="source">
+        <persname source="naf">Isserman, Maurice                          </persname>
+      </origination>
+      <origination label="Creator">
+        <persname source="naf">Isserman, Maurice                          </persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" source="naf">Isserman, Maurice                          </persname>
+      </origination>
+      <unitid>TAM.239</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4 Linear Feet</extent>
+        <extent altrender="carrier">(5 boxes)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1940/1995" type="inclusive">1940-1995</unitdate>
+      <unitdate datechar="creation" normal="1970/1995" type="bulk">1970-1995</unitdate>
+      <abstract id="aspace_a2a6cf641074f314e5d0443eeb25469f">Maurice Isserman is an historian and author of <emph render="italic">The Other American: The Life of Michael Harrington</emph> (2000), and several other books relating to the history of the American left. The bulk of the collection contains interview transcripts, topical files, newspaper clippings and FBI files related to Isserman's research on Michael Harrington. Prominent interviewees include: William F. Buckley, Lewis Coser, Norman Dorsen, Hal Draper, Harry Fleischman, John K. Galbraith, Herbert Gans, Michael Harrington (there are also two interviews of Harrington conducted by others), his wife Stephanie Harrington, Irving Howe, Irving Kristol, David McReynolds, Jack Newfield, Victor Reuther, Eugene Rostow, Andre Schiffrin, Stanley Sheinbaum, and Diana Trilling. The collection also contains several files related to Isserman's research on American Communism between 1977 and 1980.</abstract>
+      <langmaterial id="aspace_ad87aa9a50604d6cb23f4c5a09d70f77">Materials are in English</langmaterial>
+    </did>
+    <accessrestrict id="aspace_972758c0c15a99e87babed93fc650588">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_a8a8dac32056055fa882bc4ac7f8270d">
+      <head>Immediate Source of Acquisition</head>
+      <p>Materials were donated by Maurice Isserman in 2000 and 2016. The accession numbers related to these gifts are 2000.024 and 2016.060.</p>
+    </acqinfo>
+    <arrangement id="aspace_14c1dbebea0e9227ee7b7bbd6950f63d">
+      <head>Arrangement</head>
+      <p>The collection is organized into two series by reserach subject. Series I has been divided into four subseries by record type, which are arranged as follows: Subseries IA: Interview transcripts (arranged alphabetically); Subseries IB: Topical files (arranged alphabetically); Subseries IC: Newspaper clippings (arranged chronologically); Subseries ID: FOIA files (arranged by file number). Research files in Series II are arranged in alphabetical order by topic.</p>
+    </arrangement>
+    <bioghist id="aspace_66559c609d89ad2f648c0dbe17968439">
+      <head>Historical/Biographical Note</head>
+      <p>Maurice Isserman is an historian and author of <emph render="italic">The Other American: The Life of Michael Harrington</emph> (2000), and of <emph render="italic">Which Side Are You On?: The American Communist Party during the Second World War</emph>, and <emph render="italic">If I Had a Hammer: The Death of the Old Left and the Birth  of the New Left</emph> (1993). Isserman is also a professor of history at Hamilton College (New York).</p>
+      <p>Michael Harrington (1928-1989), is best known as the author of <emph render="italic">The Other America: Poverty in the United States</emph> (1962), and as the founder and leader of the Democratic Socialist Organizing Committee, which later became the Democratic Socialists of America (U.S. affiliate of the Socialist International). He also taught political science at Queens College, part of the City University of New York, and continued to write, lecture and travel widely until his death from cancer in 1989. Among his many books were two autobiographical works, <title render="italic">Taking Sides: The Education of a Militant Mind</title>(1985) and <title render="italic">The Long-Distance Runner : An Autobiography</title>(1987), <title render="italic">The New American Poverty</title>(1984), <title render="italic">The Politics at God's Funeral: The Spiritual Crisis of Western Civilization</title>(1985), and <title render="italic">Socialism : Past and Future</title>(1989).</p>
+    </bioghist>
+    <custodhist id="aspace_251780f8987225c34fbb29641a7659ff">
+      <head>Custodial History</head>
+      <p>Maurice Isserman sent a gift of research files, videocassettes, and audiocassettes related to Michael Harrington in December 2000. In 2016, Isserman sent a research file related to Michael Harrington's family correspondence.</p>
+    </custodhist>
+    <prefercite id="aspace_4210084a1ad411eb789a8ef4f0564763">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Maurice Isserman Research Files; TAM 239; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_fe45204e62d89f844f06541ddfc54c31">
+      <head>Processing Information</head>
+      <p>There is no documentation regarding arrangement and description decisions made before 2016.
+In 2016 previously undescribed materials related to Isserman's research on American Communism were described in the collection as Series II: Early Research Files. At this time all previously described materials in the collection were moved into Series I: Research Files for <emph render="italic">The Other American: The Life of Michael Harrington</emph>, but the arrangement of materials within the series was not changed. The collection title was also updated from the Maurice Isserman Research Files for <emph render="italic">The Other American: The Life of Michael Harrington</emph> to the Maurice Isserman Research Files to reflect the inclusion of these new materials.</p>
+      <p>Additionally 1 folder of Michael Harrington's personal correspondence was added to the collection in 2016 and incorporated into Subseries IIB: Topical Files as Harrington, Michael - Personal Correspondence.</p>
+    </processinfo>
+    <relatedmaterial id="aspace_ab1bd2f8c02304d44e2012bfc5dc7b8f">
+      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+      <p>Maurice Isserman Oral History Interviews (OH 036)</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_542d0632d821d8bc42ecaf1def4c1d88">
+      <head>Scope and Contents</head>
+      <p>The bulk of this collection contains oral history interviews, newspaper clippings, FBI files, and subject files compiled by Maurice Isserman for his book <emph render="italic">The Other American: The Life of Michael Harrington</emph>. Oral history interviews feature prominent individuals including:  William F. Buckley, Lewis Coser, Norman Dorsen, Hal Draper, Harry Fleischman, John K. Galbraith, Herbert Gans, Michael Harrington, Stephanie Harrington, Irving Howe, Irving Kristol, David McReynolds, Jack Newfield, Victor Reuther, Eugene Rostow, Andre Schiffrin, Stanley Sheinbaum, and Diana Trilling. The topical files contain background material on people, organizations, and issues. The newspaper clippings consist of articles by and about Michael Harrington. The four FOIA files were obtained by Isserman.</p>
+      <p>One folder of correspondence added to the collection in 2016 consists of photocopies of letters written by Harrington to his friends and family between 1948 and 1953. The bulk of these letters are addressed to Harrington's parents and his sister Margaret. The folder also includes several of Isserman's handwritten notes.</p>
+      <p>The collection contains several files related to Isserman's research on American Communism during World War II. These files date from 1977 to 1980 and include photocopies of Communist Party meetings between 1935 and 1940 and records related to the Office of Strategic Services (OSS) and the Communist Party. They also contain correspondence with Joe Clark, letters related to Isserman's research on Earl Browder, and transcript of an oral history interview with Steve Nelson. </p>
+    </scopecontent>
+    <separatedmaterial id="aspace_e04fe5ab62b7384bcc2d66ef1c613a18">
+      <head>Separated Materials</head>
+      <p>Separated from the collection were: (a) 14 videocassettes of public programs featuring or about Michael Harrington, which were transferred to the Library's NonPrint collection, and: (b) 116 audiocassettes, apparently the oral history interviews whose transcripts comprise series I, which were transferred to the Library's Sound collection.</p>
+    </separatedmaterial>
+    <userestrict id="aspace_8a3d67b080aebb432fc26600bae75fe5">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Maurice Isserman was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <controlaccess>
+      <genreform source="aat">Government records</genreform>
+      <genreform source="aat">Research (document genres).</genreform>
+      <genreform source="aat">Interviews.</genreform>
+      <subject source="lcsh">Socialism -- United States -- History.</subject>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <subject source="lcsh">Political scientists -- United States -- Biography.</subject>
+      <subject source="lcsh">Socialists -- United States -- Biography.</subject>
+      <persname rules="dacs" source="local">Schwartz, Joseph</persname>
+      <persname source="naf">Schiffrin, André</persname>
+      <corpname authfilenumber="(lccn)n83041099" source="naf">Democratic Socialists of America</corpname>
+      <persname source="naf">Trilling, Diana</persname>
+      <persname source="naf">Noṿiḳ, P., 1891-</persname>
+      <persname source="naf">Meyerson, Harold</persname>
+      <persname source="naf">Rosenberg, Bernard, 1923-1996</persname>
+      <persname source="naf">Rawick, George P., 1929-</persname>
+      <corpname authfilenumber="(lccn)n79058629" source="naf">League for Industrial Democracy</corpname>
+      <corpname authfilenumber="(lccn)n81089596" source="naf">Fund for the Republic</corpname>
+      <corpname authfilenumber="(lccn)n85290172" source="naf">Social Democrats, U.S.A.</corpname>
+      <persname source="naf">Harrington, Michael, 1928-1989</persname>
+      <persname role="fmo" source="naf">Isserman, Maurice                          </persname>
+      <persname rules="dacs" source="local">Jacobson, Julius</persname>
+      <persname source="naf">Howe, Irving</persname>
+      <persname source="naf">Kristol, Irving</persname>
+      <persname source="naf">Buckley, William F. (William Frank), 1925-2008</persname>
+      <persname source="naf">McReynolds, David</persname>
+      <persname source="naf">Dorsen, Norman</persname>
+      <persname source="naf">Denitch, Bogdan Denis</persname>
+      <persname source="local">Fleischman, Harry</persname>
+      <persname source="naf">Draper, Hal</persname>
+      <persname rules="dacs" source="local">Haskell, Gordon</persname>
+      <persname source="naf">Glotzer, Albert, 1908-1999.</persname>
       <persname role="dnr" source="naf">Isserman, Maurice                          </persname>
-    </origination>
-    <unitid>TAM.239</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">4 Linear Feet</extent>
-      <extent altrender="carrier">(5 boxes)</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1940/1995" type="inclusive">1940-1995</unitdate>
-    <unitdate datechar="creation" normal="1970/1995" type="bulk">1970-1995</unitdate>
-    <abstract id="aspace_a2a6cf641074f314e5d0443eeb25469f">Maurice Isserman is an historian and author of <emph render="italic">The Other American: The Life of Michael Harrington</emph> (2000), and several other books relating to the history of the American left. The bulk of the collection contains interview transcripts, topical files, newspaper clippings and FBI files related to Isserman's research on Michael Harrington. Prominent interviewees include: William F. Buckley, Lewis Coser, Norman Dorsen, Hal Draper, Harry Fleischman, John K. Galbraith, Herbert Gans, Michael Harrington (there are also two interviews of Harrington conducted by others), his wife Stephanie Harrington, Irving Howe, Irving Kristol, David McReynolds, Jack Newfield, Victor Reuther, Eugene Rostow, Andre Schiffrin, Stanley Sheinbaum, and Diana Trilling. The collection also contains several files related to Isserman's research on American Communism between 1977 and 1980.</abstract>
-    <langmaterial id="aspace_ad87aa9a50604d6cb23f4c5a09d70f77">Materials are in English</langmaterial>
-  </did>
-  <accessrestrict id="aspace_972758c0c15a99e87babed93fc650588">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_a8a8dac32056055fa882bc4ac7f8270d">
-    <head>Immediate Source of Acquisition</head>
-<p>Materials were donated by Maurice Isserman in 2000 and 2016. The accession numbers related to these gifts are 2000.024 and 2016.060.</p>  </acqinfo>
-  <arrangement id="aspace_14c1dbebea0e9227ee7b7bbd6950f63d">
-    <head>Arrangement</head>
-<p>The collection is organized into two series by reserach subject. Series I has been divided into four subseries by record type, which are arranged as follows: Subseries IA: Interview transcripts (arranged alphabetically); Subseries IB: Topical files (arranged alphabetically); Subseries IC: Newspaper clippings (arranged chronologically); Subseries ID: FOIA files (arranged by file number). Research files in Series II are arranged in alphabetical order by topic.</p>  </arrangement>
-  <bioghist id="aspace_66559c609d89ad2f648c0dbe17968439">
-    <head>Historical/Biographical Note</head>
-<p>Maurice Isserman is an historian and author of <emph render="italic">The Other American: The Life of Michael Harrington</emph> (2000), and of <emph render="italic">Which Side Are You On?: The American Communist Party during the Second World War</emph>, and <emph render="italic">If I Had a Hammer: The Death of the Old Left and the Birth  of the New Left</emph> (1993). Isserman is also a professor of history at Hamilton College (New York).</p><p>Michael Harrington (1928-1989), is best known as the author of <emph render="italic">The Other America: Poverty in the United States</emph> (1962), and as the founder and leader of the Democratic Socialist Organizing Committee, which later became the Democratic Socialists of America (U.S. affiliate of the Socialist International). He also taught political science at Queens College, part of the City University of New York, and continued to write, lecture and travel widely until his death from cancer in 1989. Among his many books were two autobiographical works, <title render="italic">Taking Sides: The Education of a Militant Mind</title>(1985) and <title render="italic">The Long-Distance Runner : An Autobiography</title>(1987), <title render="italic">The New American Poverty</title>(1984), <title render="italic">The Politics at God's Funeral: The Spiritual Crisis of Western Civilization</title>(1985), and <title render="italic">Socialism : Past and Future</title>(1989).</p>  </bioghist>
-  <custodhist id="aspace_251780f8987225c34fbb29641a7659ff">
-    <head>Custodial History</head>
-<p>Maurice Isserman sent a gift of research files, videocassettes, and audiocassettes related to Michael Harrington in December 2000. In 2016, Isserman sent a research file related to Michael Harrington's family correspondence.</p>  </custodhist>
-  <prefercite id="aspace_4210084a1ad411eb789a8ef4f0564763">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Maurice Isserman Research Files; TAM 239; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <processinfo id="aspace_fe45204e62d89f844f06541ddfc54c31">
-    <head>Processing Information</head>
-<p>There is no documentation regarding arrangement and description decisions made before 2016.
-In 2016 previously undescribed materials related to Isserman's research on American Communism were described in the collection as Series II: Early Research Files. At this time all previously described materials in the collection were moved into Series I: Research Files for <emph render="italic">The Other American: The Life of Michael Harrington</emph>, but the arrangement of materials within the series was not changed. The collection title was also updated from the Maurice Isserman Research Files for <emph render="italic">The Other American: The Life of Michael Harrington</emph> to the Maurice Isserman Research Files to reflect the inclusion of these new materials.</p><p>Additionally 1 folder of Michael Harrington's personal correspondence was added to the collection in 2016 and incorporated into Subseries IIB: Topical Files as Harrington, Michael - Personal Correspondence.</p>  </processinfo>
-  <relatedmaterial id="aspace_ab1bd2f8c02304d44e2012bfc5dc7b8f">
-    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-<p>Maurice Isserman Oral History Interviews (OH 036)</p>  </relatedmaterial>
-  <scopecontent id="aspace_542d0632d821d8bc42ecaf1def4c1d88">
-    <head>Scope and Contents</head>
-<p>The bulk of this collection contains oral history interviews, newspaper clippings, FBI files, and subject files compiled by Maurice Isserman for his book <emph render="italic">The Other American: The Life of Michael Harrington</emph>. Oral history interviews feature prominent individuals including:  William F. Buckley, Lewis Coser, Norman Dorsen, Hal Draper, Harry Fleischman, John K. Galbraith, Herbert Gans, Michael Harrington, Stephanie Harrington, Irving Howe, Irving Kristol, David McReynolds, Jack Newfield, Victor Reuther, Eugene Rostow, Andre Schiffrin, Stanley Sheinbaum, and Diana Trilling. The topical files contain background material on people, organizations, and issues. The newspaper clippings consist of articles by and about Michael Harrington. The four FOIA files were obtained by Isserman.</p><p>One folder of correspondence added to the collection in 2016 consists of photocopies of letters written by Harrington to his friends and family between 1948 and 1953. The bulk of these letters are addressed to Harrington's parents and his sister Margaret. The folder also includes several of Isserman's handwritten notes.</p><p>The collection contains several files related to Isserman's research on American Communism during World War II. These files date from 1977 to 1980 and include photocopies of Communist Party meetings between 1935 and 1940 and records related to the Office of Strategic Services (OSS) and the Communist Party. They also contain correspondence with Joe Clark, letters related to Isserman's research on Earl Browder, and transcript of an oral history interview with Steve Nelson. </p>  </scopecontent>
-  <separatedmaterial id="aspace_e04fe5ab62b7384bcc2d66ef1c613a18">
-    <head>Separated Materials</head>
-<p>Separated from the collection were: (a) 14 videocassettes of public programs featuring or about Michael Harrington, which were transferred to the Library's NonPrint collection, and: (b) 116 audiocassettes, apparently the oral history interviews whose transcripts comprise series I, which were transferred to the Library's Sound collection.</p>  </separatedmaterial>
-  <userestrict id="aspace_8a3d67b080aebb432fc26600bae75fe5">
-    <head>Conditions Governing Use</head>
-<p>Copyright (and related rights to publicity and privacy) to materials in this collection created by Maurice Isserman was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
-  <controlaccess>
-    <genreform source="aat">Government records</genreform>
-    <genreform source="aat">Research (document genres).</genreform>
-    <genreform source="aat">Interviews.</genreform>
-    <subject source="lcsh">Socialism -- United States -- History.</subject>
-    <genreform source="aat">Clippings (information artifacts)</genreform>
-    <subject source="lcsh">Political scientists -- United States -- Biography.</subject>
-    <subject source="lcsh">Socialists -- United States -- Biography.</subject>
-    <persname rules="dacs" source="local">Schwartz, Joseph</persname>
-    <persname source="naf">Schiffrin, André</persname>
-    <corpname authfilenumber="(lccn)n83041099" source="naf">Democratic Socialists of America</corpname>
-    <persname source="naf">Trilling, Diana</persname>
-    <persname source="naf">Noṿiḳ, P., 1891-</persname>
-    <persname source="naf">Meyerson, Harold</persname>
-    <persname source="naf">Rosenberg, Bernard, 1923-1996</persname>
-    <persname source="naf">Rawick, George P., 1929-</persname>
-    <corpname authfilenumber="(lccn)n79058629" source="naf">League for Industrial Democracy</corpname>
-    <corpname authfilenumber="(lccn)n81089596" source="naf">Fund for the Republic</corpname>
-    <corpname authfilenumber="(lccn)n85290172" source="naf">Social Democrats, U.S.A.</corpname>
-    <persname source="naf">Harrington, Michael, 1928-1989</persname>
-    <persname role="fmo" source="naf">Isserman, Maurice                          </persname>
-    <persname rules="dacs" source="local">Jacobson, Julius</persname>
-    <persname source="naf">Howe, Irving</persname>
-    <persname source="naf">Kristol, Irving</persname>
-    <persname source="naf">Buckley, William F. (William Frank), 1925-2008</persname>
-    <persname source="naf">McReynolds, David</persname>
-    <persname source="naf">Dorsen, Norman</persname>
-    <persname source="naf">Denitch, Bogdan Denis</persname>
-    <persname source="local">Fleischman, Harry</persname>
-    <persname source="naf">Draper, Hal</persname>
-    <persname rules="dacs" source="local">Haskell, Gordon</persname>
-    <persname source="naf">Glotzer, Albert, 1908-1999.</persname>
-    <persname role="dnr" source="naf">Isserman, Maurice                          </persname>
-  </controlaccess>
-  <dsc><c id="aspace_a2c8011e1ecf835515f1fa1bc36eed0f" level="series"><did><unittitle>Series I: Research Files for <emph render="italic">The Other American: The Life of Michael Harrington</emph></unittitle><unitdate datechar="creation" normal="1940/1995" type="inclusive">1940-1995</unitdate></did><c id="aspace_ref7" level="subseries"><did><unittitle>Subseries IA: Interview Transcripts</unittitle></did><c id="aspace_ref10" level="file"><did><unittitle>Berthelme, Elizabeth</unittitle><unitdate datechar="creation" normal="1995/1995" type="inclusive">March 17, 1995</unitdate><container altrender="Record carton" id="aspace_5dde70066bfaf5bb71830ed4e9850b20" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_e15ee946330993ee6ee9d6cd2ed3881e" parent="aspace_5dde70066bfaf5bb71830ed4e9850b20" type="Folder">1</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Bernstein, Jules</unittitle><unitdate datechar="creation" normal="1992/1992" type="inclusive">March 9, 1992</unitdate><container altrender="Record carton" id="aspace_114d1463d4e4fc4c3cf402bb3e84baff" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_89a8ce25036ded29b5687e674f7daf72" parent="aspace_114d1463d4e4fc4c3cf402bb3e84baff" type="Folder">2</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Booth, Heather</unittitle><unitdate datechar="creation" normal="1992/1992" type="inclusive">March 11, 1992</unitdate><container altrender="Record carton" id="aspace_e4a3c53e964e6487a6a733bcca9a24af" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_0fe088f6577590052c8bdcf88498cbdf" parent="aspace_e4a3c53e964e6487a6a733bcca9a24af" type="Folder">3</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Brungard, Ed</unittitle><unitdate datechar="creation" normal="1990/1990" type="inclusive">December 14, 1990</unitdate><container altrender="Record carton" id="aspace_e9157fa67969ebb1d530d177b391ba91" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_0ba7c0717871a7402c5a6887450db1df" parent="aspace_e9157fa67969ebb1d530d177b391ba91" type="Folder">4</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Buckley, William F.</unittitle><unitdate datechar="creation" normal="1990/1990" type="inclusive">January 6, 1990</unitdate><container altrender="Record carton" id="aspace_c7e2068f347b2827b7c80073721046f4" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_85e83babb31b1ce8cf4c7b23ccba844c" parent="aspace_c7e2068f347b2827b7c80073721046f4" type="Folder">5</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Chapin, Jim</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">April/December 1991</unitdate><container altrender="Record carton" id="aspace_da397e3627e05ab7d67c1a8e967be993" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_ec27be780d037e370c6e3fa48e2ad60b" parent="aspace_da397e3627e05ab7d67c1a8e967be993" type="Folder">6</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Clark, Ed</unittitle><unitdate datechar="creation" normal="1990/1990" type="inclusive">March 23, 1990</unitdate><container altrender="Record carton" id="aspace_8646ecff7a3328edad8564faa429e60b" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_281d9cbd37189bc7a93287b2f75574ec" parent="aspace_8646ecff7a3328edad8564faa429e60b" type="Folder">7</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Clark, Jack</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">January/March 1991</unitdate><container altrender="Record carton" id="aspace_9d59d188b00849f51f2f68066825c5ca" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_264866b334a78cb2dcc9669e2e6025b7" parent="aspace_9d59d188b00849f51f2f68066825c5ca" type="Folder">8</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Clingon, Eldon</unittitle><unitdate datechar="creation" normal="1993/1993" type="inclusive">May 19, 1993</unitdate><container altrender="Record carton" id="aspace_9742d46d2e722bb47fbe7250a21a9a58" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_2fa66625bbbd9b2e9d53641a68cb2331" parent="aspace_9742d46d2e722bb47fbe7250a21a9a58" type="Folder">9</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Corbin, Marty &amp; Ed Egan </unittitle><unitdate datechar="creation" normal="1992/1992" type="inclusive">October 30, 1992</unitdate><container altrender="Record carton" id="aspace_9ae49a541c5ade1b2ccba42aea5fe529" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_88d621dd1a6620fe6a76f8ff67331d8e" parent="aspace_9ae49a541c5ade1b2ccba42aea5fe529" type="Folder">10</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Coser, Lewis</unittitle><unitdate datechar="creation" normal="1985/1985" type="inclusive">May 3, 1985</unitdate><container altrender="Record carton" id="aspace_19cfca2344a98cb8cfb07e7e36834230" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_e4e3093fb9965f4418cf2c3d0d9692a0" parent="aspace_19cfca2344a98cb8cfb07e7e36834230" type="Folder">11</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Dempsey, Richard</unittitle><unitdate datechar="creation" normal="1992/1992" type="inclusive">May 16, 1992</unitdate><container altrender="Record carton" id="aspace_f2b9e391e3368b2e5643640430ea37da" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_ec89484e26bdaef838ca11531efcd6e1" parent="aspace_f2b9e391e3368b2e5643640430ea37da" type="Folder">12</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Denitch, Betty</unittitle><unitdate datechar="creation" normal="1984/1984" type="inclusive">August 6, 1984</unitdate><container altrender="Record carton" id="aspace_a3b4255a1112376c00f9a8d01942131a" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_2ed05501215e5389eb4a66cb69b8b2d9" parent="aspace_a3b4255a1112376c00f9a8d01942131a" type="Folder">13</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Denitch, Bogdan</unittitle><unitdate datechar="creation" normal="1984/1991" type="inclusive">1984-1991</unitdate><container altrender="Record carton" id="aspace_8a665826d5080cc00925aed8bb1fa0dd" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_e355cd23eed1cf06783fd350f20f88a9" parent="aspace_8a665826d5080cc00925aed8bb1fa0dd" type="Folder">14</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Diaz, Eileen Fautino</unittitle><unitdate datechar="creation" normal="1995/1995" type="inclusive">March 16, 1995</unitdate><container altrender="Record carton" id="aspace_00e4af80eb5adeff01161a21a5963360" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_ba436cbc9434bed599dc36e6e99397d6" parent="aspace_00e4af80eb5adeff01161a21a5963360" type="Folder">15</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Dorsen, Norman</unittitle><unitdate datechar="creation" normal="1993/1993" type="inclusive">May 24, 1993</unitdate><container altrender="Record carton" id="aspace_cfac446b71bd1786c85240aeb228ed69" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_60952e03d50d30d9cc889c17b1c477d0" parent="aspace_cfac446b71bd1786c85240aeb228ed69" type="Folder">16</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Draper, Hal</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_67caa5fa33e313eb6d1097bb509d3f8e" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_617ecd86da50b57abb7ca0d9c002b138" parent="aspace_67caa5fa33e313eb6d1097bb509d3f8e" type="Folder">17</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Dreier, Peter </unittitle><unitdate datechar="creation" normal="1992/1992" type="inclusive">November 5, 1992</unitdate><container altrender="Record carton" id="aspace_8c55d14fd748bd165db5a35ed5097187" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_922ad2df7cd8eb4c212e2b0ba64dbe28" parent="aspace_8c55d14fd748bd165db5a35ed5097187" type="Folder">18</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Faherty, William Father</unittitle><unitdate datechar="creation" normal="1992/1992" type="inclusive">May 13, 1992</unitdate><container altrender="Record carton" id="aspace_18d65c072bd71313543a29f1f50dbec6" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_d7396d314525cb405057126660ddcc3f" parent="aspace_18d65c072bd71313543a29f1f50dbec6" type="Folder">19</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Faucher, Ed</unittitle><unitdate datechar="creation" normal="1992/1992" type="inclusive">January 6, 1992</unitdate><container altrender="Record carton" id="aspace_900d5a36a7633421f72c2a9e5b2a74c4" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_d6fd09abea03991f3e502bc9d335f5e0" parent="aspace_900d5a36a7633421f72c2a9e5b2a74c4" type="Folder">20</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Finn, Jim and Molly</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">September 27, 1991</unitdate><container altrender="Record carton" id="aspace_a34814d2d87a2947758fd3c1b4fed879" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_7aff96d996689dacce28e5e04008c3bc" parent="aspace_a34814d2d87a2947758fd3c1b4fed879" type="Folder">21</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>FitzGibbon, Peggy</unittitle><unitdate datechar="creation" normal="1990/1990" type="inclusive">November 3, 1990</unitdate><container altrender="Record carton" id="aspace_ca5bd2964bbd391de3d92577b31e2ef8" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_9c314c356a798453193b21f84f1287e7" parent="aspace_ca5bd2964bbd391de3d92577b31e2ef8" type="Folder">22</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Fitzsimmons, Richard</unittitle><unitdate datechar="creation" normal="1992/1992" type="inclusive">February 7, 1992</unitdate><container altrender="Record carton" id="aspace_0670599edf935ebb1046c75b0bfcb468" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_6d641c3be753ccd414af3e81632e5cb5" parent="aspace_0670599edf935ebb1046c75b0bfcb468" type="Folder">23</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Fleischman, Harry</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">April 6, 1991</unitdate><container altrender="Record carton" id="aspace_60ac93c87b26af289b30a79be8aec27e" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_6fe6cdaf80cfcfe975b7b862d5d551b5" parent="aspace_60ac93c87b26af289b30a79be8aec27e" type="Folder">24</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Franklin, Joan S.</unittitle><unitdate datechar="creation" normal="1992/1992" type="inclusive">March 19, 1992</unitdate><container altrender="Record carton" id="aspace_fe96c30d0176b2c22b5d49987e4855b1" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_13d3516527f5c9d82dc8ed06e54896a6" parent="aspace_fe96c30d0176b2c22b5d49987e4855b1" type="Folder">25</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Galbraith, John K. </unittitle><unitdate datechar="creation" normal="1993/1993" type="inclusive">May 19, 1993</unitdate><container altrender="Record carton" id="aspace_389a45a03ee3f7ad622541138d28e1f2" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_330c31400137f64172ee1eafaa7c5b10" parent="aspace_389a45a03ee3f7ad622541138d28e1f2" type="Folder">26</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Gallin, Liz</unittitle><unitdate datechar="creation">January 6, 1992</unitdate><container altrender="Record carton" id="aspace_7624ab5ffac88d0033d0cf3993d197bc" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_33a5a79dec3a86a4f1e3b7f31afe3b14" parent="aspace_7624ab5ffac88d0033d0cf3993d197bc" type="Folder">27</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Gans, Herb</unittitle><unitdate datechar="creation">March 16, 1995</unitdate><container altrender="Record carton" id="aspace_c2c928348a9a8004ea8a7c8b4aba06b2" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_ea548b967f4ff326d73421447f170053" parent="aspace_c2c928348a9a8004ea8a7c8b4aba06b2" type="Folder">28</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Geltman, Manny</unittitle><unitdate datechar="creation" normal="1985/1985" type="inclusive">March 19, 1985</unitdate><container altrender="Record carton" id="aspace_cf59d263e162a8d33808f77a6278b4ec" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_4a61bdabe023390dd0ff7eef8fa2b751" parent="aspace_cf59d263e162a8d33808f77a6278b4ec" type="Folder">29</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Gittin, Todd</unittitle><unitdate datechar="creation" normal="1994/1994" type="inclusive">June 16, 1994</unitdate><container altrender="Record carton" id="aspace_9af6192b35cb7463d0bc443307dec370" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_5d2f5aef03d83b209f35714b38d422c0" parent="aspace_9af6192b35cb7463d0bc443307dec370" type="Folder">30</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Glotzer, Al</unittitle><unitdate datechar="creation" normal="1984/1984" type="inclusive">October 10, 1984</unitdate><container altrender="Record carton" id="aspace_41460d1f272d95dbe1794e2a4b29b385" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_3cfc0295ee00c4c93cff9a88fb3f6595" parent="aspace_41460d1f272d95dbe1794e2a4b29b385" type="Folder">31</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Hacker, David</unittitle><unitdate datechar="creation" normal="1988/1988" type="inclusive">August 19, 1988</unitdate><container altrender="Record carton" id="aspace_caa05f2cfb046cfadb16dd4ce42cb208" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_ebe998909544205d394116ca3200d7a9" parent="aspace_caa05f2cfb046cfadb16dd4ce42cb208" type="Folder">32</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Harrington, Alec</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">September 27, 1991</unitdate><container altrender="Record carton" id="aspace_0ea3059e76437454800122e4b906b225" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_95fd4e12287d2ba2bd0e447630f7f994" parent="aspace_0ea3059e76437454800122e4b906b225" type="Folder">33</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Harrington, Michael -- interviewed by John Cogley</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_24c26b6dc597aed0bc9778046df841e1" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_1563e0d5f423467ad6801c602c4d4813" parent="aspace_24c26b6dc597aed0bc9778046df841e1" type="Folder">34</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Harrington, Michael</unittitle><unitdate datechar="creation" normal="1982/1982" type="inclusive">November 19, 1982</unitdate><container altrender="Record carton" id="aspace_229ce73f17fa7468cf657b6ca904abc2" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_1e4262c8ea79625642ad6fc87e4f0037" parent="aspace_229ce73f17fa7468cf657b6ca904abc2" type="Folder">35</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Harrington, Michael – interviewed by Kirkpatrick Sale</unittitle><unitdate datechar="creation" normal="1969/1969" type="inclusive">October 6, 1969</unitdate><container altrender="Record carton" id="aspace_0186540628754ddce6e1974cbafcd19c" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_89c4246d671deb89676ef264253bb52f" parent="aspace_0186540628754ddce6e1974cbafcd19c" type="Folder">36</container></did></c><c id="aspace_2710f0459aa537c6043107af01c3c8a0" level="file"><did><unittitle>Harrington, Michael -- interviewed by Todd Gitlin</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_49f0217e89f80482d4fddf39c09db40a" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_b8bb673af885144ba12b093414f834d9" parent="aspace_49f0217e89f80482d4fddf39c09db40a" type="Folder">43</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Harrington, Michael and Dave</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_b65c1e367c257291d6c7ccb091368a8f" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_eeb762f6c5b9ae8cd44389fd5e7e8682" parent="aspace_b65c1e367c257291d6c7ccb091368a8f" type="Folder">37</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Harrington, Stephanie</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">September 27, 1991</unitdate><container altrender="Record carton" id="aspace_3b1c8525ce05d168350e23f98d3271b7" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_5a1185628ce83cc9f671ee44a6ecda7e" parent="aspace_3b1c8525ce05d168350e23f98d3271b7" type="Folder">38</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Harrington, Ted</unittitle><unitdate datechar="creation" normal="1993/1993" type="inclusive">February 15, 1993</unitdate><container altrender="Record carton" id="aspace_ea0a0d713dfd9edacb3e37121c9996d4" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_38de748e603b69e61d586403b2a5b959" parent="aspace_ea0a0d713dfd9edacb3e37121c9996d4" type="Folder">39</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Haskell, Gordon</unittitle><unitdate datechar="creation" normal="1983/1983" type="inclusive">July 15, 1983</unitdate><container altrender="Record carton" id="aspace_b830706a685da7a5564c7b14a223e333" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_9ecb341633c33b4f3bc42511b7d90bc4" parent="aspace_b830706a685da7a5564c7b14a223e333" type="Folder">40</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Healey, Richard</unittitle><unitdate datechar="creation" normal="1992/1992" type="inclusive">March 11, 1992</unitdate><container altrender="Record carton" id="aspace_ef20518b107b8889a613c3e8891b3b56" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_21066be004061066c5a8b8ee0416655a" parent="aspace_ef20518b107b8889a613c3e8891b3b56" type="Folder">41</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Henle, Father</unittitle><unitdate datechar="creation" normal="1990/1990" type="inclusive">December 13, 1990</unitdate><container altrender="Record carton" id="aspace_ed8a742bd7ee0c496e0c03acada06cda" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_ed609466bcd28c4585e284b65cdfc2bb" parent="aspace_ed8a742bd7ee0c496e0c03acada06cda" type="Folder">42</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Howe, Irving -- interviewed by Todd Gitlin</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_d30f6cfbea8a76f81a9011859cce99e5" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_7ac7ded28de795507d02a35dc72644f7" parent="aspace_d30f6cfbea8a76f81a9011859cce99e5" type="Folder">43</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Jacobson, Julius and Phyllis</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_80cd86d2b03a41be5c2a25bd41553bd4" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_ed68a2c56001fdf68fd2cd378d54893b" parent="aspace_80cd86d2b03a41be5c2a25bd41553bd4" type="Folder">44</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Jordan, Ruth</unittitle><unitdate datechar="creation" normal="1992/1992" type="inclusive">March 10, 1992</unitdate><container altrender="Record carton" id="aspace_f857adfdf001df811161c7137f8b9657" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_0ed8c19e497907c8e6ee68181c0242ac" parent="aspace_f857adfdf001df811161c7137f8b9657" type="Folder">45</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Kelman, Steve</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">November 24, 1991</unitdate><container altrender="Record carton" id="aspace_74364ed680019949c2a36f544a1ac639" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_f1fa39f05c9a852d01f27f6bc334a63c" parent="aspace_74364ed680019949c2a36f544a1ac639" type="Folder">46</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Kristol, Irving</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">August 8, 1991</unitdate><container altrender="Record carton" id="aspace_5fb22c06602c8deca8d716dd714593cf" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_92305ae4a9d9c6175b21f456c310ace3" parent="aspace_5fb22c06602c8deca8d716dd714593cf" type="Folder">47</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Kusnet, Dave</unittitle><unitdate datechar="creation" normal="1992/1992" type="inclusive">March 11, 1992</unitdate><container altrender="Record carton" id="aspace_63345df3740f7ec3addba0f117facf6c" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_3d17b986f08c210690f715718568a9fd" parent="aspace_63345df3740f7ec3addba0f117facf6c" type="Folder">48</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Kuttner, Bob</unittitle><unitdate datechar="creation" normal="1993/1993" type="inclusive">April 26, 1993</unitdate><container altrender="Record carton" id="aspace_9b282beae601bebb068b583944cc5547" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_9ad152f5b4d086f37bb522aa6ae9f715" parent="aspace_9b282beae601bebb068b583944cc5547" type="Folder">49</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Lacefield, Patrick and Dinah Lewenthal</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">August 5, 1991</unitdate><container altrender="Record carton" id="aspace_1e32e590ceca6ced954921a325d06daf" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_42f9a9596c91d2a0281d0a912288177a" parent="aspace_1e32e590ceca6ced954921a325d06daf" type="Folder">50</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Levinson, Mark</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">July 24, 1991</unitdate><container altrender="Record carton" id="aspace_759a5ff0d5a2f0b7f6626fdd4c6f890b" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_abb779ca0b271d9b23c7a3ee711a874d" parent="aspace_759a5ff0d5a2f0b7f6626fdd4c6f890b" type="Folder">51</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>Lipon, Arthur</unittitle><unitdate datechar="creation" normal="1984/1984" type="inclusive">November 9, 1984</unitdate><container altrender="Record carton" id="aspace_7aba427bb77288d2069928bdb2447e41" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_108e522c47f0da28f99c8cd30df2bb58" parent="aspace_7aba427bb77288d2069928bdb2447e41" type="Folder">52</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>Llewelyn, Frank</unittitle><unitdate datechar="creation">October 14, 1991</unitdate><container altrender="Record carton" id="aspace_2eea4a4d484d6150bd38f2edffe63c8a" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_a79c5cf94b6eabb06fb8740352ec73b4" parent="aspace_2eea4a4d484d6150bd38f2edffe63c8a" type="Folder">53</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>Loftus, Bill</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">September 27, 1991</unitdate><container altrender="Record carton" id="aspace_4657a090011df14d6713bcb97d6d3fd5" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_72694179ab2e8831e151b5e9235b7d3a" parent="aspace_4657a090011df14d6713bcb97d6d3fd5" type="Folder">54</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>Max, Steve</unittitle><unitdate datechar="creation" normal="1986/1991" type="inclusive">May 14, 1986; October 16, 1991</unitdate><container altrender="Record carton" id="aspace_f1e26f6946ac9871dfef76acc523830c" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_744dab6c996b70bd14f589531f19f592" parent="aspace_f1e26f6946ac9871dfef76acc523830c" type="Folder">55</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>McGovern, Hamilton</unittitle><unitdate datechar="creation" normal="1992/1992" type="inclusive">April 14, 1992</unitdate><container altrender="Record carton" id="aspace_c30c85876d279baf9a5a391e8926e455" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_bccf58b75be5db1bef37a9a191f8ec6a" parent="aspace_c30c85876d279baf9a5a391e8926e455" type="Folder">56</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>McReynolds, Dave</unittitle><unitdate datechar="creation" normal="1984/1991" type="inclusive">July 9, 1984; September 16, 1991</unitdate><container altrender="Record carton" id="aspace_ca49cd3fac21ce7bfb81dafeeb504461" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_b16bf079218431aa15a30e501135b876" parent="aspace_ca49cd3fac21ce7bfb81dafeeb504461" type="Folder">57</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>Meier, Debbie</unittitle><unitdate datechar="creation" normal="1986/1992" type="inclusive">April 19, 1986; January 6, 1992</unitdate><container altrender="Record carton" id="aspace_027bf8e8e0eb33bdd040eecd2e16c87e" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_630bc6f04ae07e41c9c812992d46d39d" parent="aspace_027bf8e8e0eb33bdd040eecd2e16c87e" type="Folder">58</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>Meyerson, Harold</unittitle><unitdate datechar="creation" normal="1990/1990" type="inclusive">July 27, 1990</unitdate><container altrender="Record carton" id="aspace_999808268d76c5aae638aa7db815ebbb" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_6fac6e4e785e8505f61122a4676a3a21" parent="aspace_999808268d76c5aae638aa7db815ebbb" type="Folder">59</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Mitchell, Peggy Brennan</unittitle><unitdate datechar="creation" normal="1992/1992" type="inclusive">October 22, 1992</unitdate><container altrender="Record carton" id="aspace_f0130388c4e905ed402f37e02bbce931" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_95a94f5b646e609a3376b19039f773c1" parent="aspace_f0130388c4e905ed402f37e02bbce931" type="Folder">60</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Moore, Arthur J.</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">September 28, 1991</unitdate><container altrender="Record carton" id="aspace_7717ce8ff33d3eb1d16bd5c7649b40bf" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_f53ce143ab419efc5e2521bdadf9eb83" parent="aspace_7717ce8ff33d3eb1d16bd5c7649b40bf" type="Folder">61</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Mort, Jo-Ann</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">September 26, 1991</unitdate><container altrender="Record carton" id="aspace_93aee33fa0f27865200caee7fa73f017" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_7b9ec6ff176b3907cc1c24ee9dabb9b6" parent="aspace_93aee33fa0f27865200caee7fa73f017" type="Folder">62</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Murphy, Joe</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">October 16, 1991</unitdate><container altrender="Record carton" id="aspace_a3096d49afd4807245e11cc558689fe8" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_12bdcc3dd964d2be3e50fa6fa34e93b1" parent="aspace_a3096d49afd4807245e11cc558689fe8" type="Folder">63</container></did></c><c id="aspace_ref73" level="file"><did><unittitle>Newfield, Jack</unittitle><unitdate datechar="creation" normal="1992/1992" type="inclusive">January 6, 1992</unitdate><container altrender="Record carton" id="aspace_fccff868d5a6b6a31452a5b1536c316d" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_d067f58396f05babf3e365a1a93b0e54" parent="aspace_fccff868d5a6b6a31452a5b1536c316d" type="Folder">64</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>Nichols, Marcy Perot</unittitle><unitdate datechar="creation" normal="1995/1995" type="inclusive">March 16, 1995</unitdate><container altrender="Record carton" id="aspace_855b5e31c4f160bcd248ce1fe20ce814" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_771cca97118e751a073b495120c14f10" parent="aspace_855b5e31c4f160bcd248ce1fe20ce814" type="Folder">65</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>Novick, Peter</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">December 28, 1991</unitdate><container altrender="Record carton" id="aspace_cd362824c8b84b59c73ada3519e90873" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_d6969a6623566573a967e658d74b6a9b" parent="aspace_cd362824c8b84b59c73ada3519e90873" type="Folder">66</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>O'Brien, Dave</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">September 13, 1991</unitdate><container altrender="Record carton" id="aspace_664b08a6ee0d1c2749aee68e55a2d1a4" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_6e51f8de833e978852e77f41f7fabc7f" parent="aspace_664b08a6ee0d1c2749aee68e55a2d1a4" type="Folder">67</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>O'Gorman, Ned</unittitle><unitdate datechar="creation" normal="1993/1993" type="inclusive">May 23, 1993</unitdate><container altrender="Record carton" id="aspace_7f1ece4d04d9ad0a98dcb652c935f03e" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_fc8ff6e98d1c531b64ce4925cf5f13e1" parent="aspace_7f1ece4d04d9ad0a98dcb652c935f03e" type="Folder">68</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>O'Neill, Roger</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">April 6, 1991</unitdate><container altrender="Record carton" id="aspace_fa5d5c7f6efacb6350ae370ebf51be04" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_0afef8b660ddfcb3e6bc94af72a77b79" parent="aspace_fa5d5c7f6efacb6350ae370ebf51be04" type="Folder">69</container></did></c><c id="aspace_ref79" level="file"><did><unittitle>Padburg, John S.J.</unittitle><unitdate datechar="creation" normal="1990/1990" type="inclusive">February 13, 1990</unitdate><container altrender="Record carton" id="aspace_ff0ff17b9668861b60468c324b07f980" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_30c6502adad0a52ad316174aabb639a0" parent="aspace_ff0ff17b9668861b60468c324b07f980" type="Folder">70</container></did></c><c id="aspace_ref80" level="file"><did><unittitle>Rawick, George</unittitle><unitdate datechar="creation" normal="1984/1984" type="inclusive">August 17, 1984</unitdate><container altrender="Record carton" id="aspace_c69b3abcef905d0da8a6714d435e4e9a" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_288e21dfa516ad8883fa3ae86610d29c" parent="aspace_c69b3abcef905d0da8a6714d435e4e9a" type="Folder">71</container></did></c><c id="aspace_ref81" level="file"><did><unittitle>Reinert, Paul C. S.J.</unittitle><unitdate datechar="creation" normal="1990/1990" type="inclusive">December 13, 1990</unitdate><container altrender="Record carton" id="aspace_24e5838e952f26d7056e59fa8995c3d6" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_0891d3bcd68e97ab9a36ecd7795cb378" parent="aspace_24e5838e952f26d7056e59fa8995c3d6" type="Folder">72</container></did></c><c id="aspace_ref82" level="file"><did><unittitle>Reuther, Victor</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">August 6, 1991</unitdate><container altrender="Record carton" id="aspace_14b641604ac20089a53daa9c3eb4f6d0" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_2e90d0690a0b0ebc5e01547f2776e80d" parent="aspace_14b641604ac20089a53daa9c3eb4f6d0" type="Folder">73</container></did></c><c id="aspace_ref83" level="file"><did><unittitle>Roberts, Skip</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">August 6, 1991</unitdate><container altrender="Record carton" id="aspace_ce76bdcdacf7bcea799458e1cdce8017" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_0199367612decf156d70705b039016d8" parent="aspace_ce76bdcdacf7bcea799458e1cdce8017" type="Folder">74</container></did></c><c id="aspace_ref84" level="file"><did><unittitle>Rosenberg, Bernie</unittitle><unitdate datechar="creation" normal="1983/1983" type="inclusive">October 6, 1983</unitdate><container altrender="Record carton" id="aspace_ce182679d16fc0ce982d0cebfa409b9c" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_8abc2ac06019857e580d6d87113fcc23" parent="aspace_ce182679d16fc0ce982d0cebfa409b9c" type="Folder">75</container></did></c><c id="aspace_ref85" level="file"><did><unittitle>Rostow, Eugene</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">August 6, 1991</unitdate><container altrender="Record carton" id="aspace_4be8ef9b851530d8bdab1b680368649a" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_d32496ce95c36e2abbbb3691dfc5c9d6" parent="aspace_4be8ef9b851530d8bdab1b680368649a" type="Folder">76</container></did></c><c id="aspace_ref86" level="file"><did><unittitle>Schori, Pierre</unittitle><unitdate datechar="creation" normal="1993/1993" type="inclusive">June 11, 1993</unitdate><container altrender="Record carton" id="aspace_f081d33853497f7a83c2ec69fd127865" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_2cfb0ac52cef32a5b1115d8edfb330dd" parent="aspace_f081d33853497f7a83c2ec69fd127865" type="Folder">77</container></did></c><c id="aspace_ref87" level="file"><did><unittitle>Schiffrin, Andre</unittitle><unitdate datechar="creation" normal="1983/1983" type="inclusive">June 19, 1983</unitdate><container altrender="Record carton" id="aspace_0723f64385e5f6a747679b71f29ef87c" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_b29e7a2639bc16df7cc784348509751f" parent="aspace_0723f64385e5f6a747679b71f29ef87c" type="Folder">78</container></did></c><c id="aspace_ref88" level="file"><did><unittitle>Schwartz, Joe</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">February 8, 1991</unitdate><container altrender="Record carton" id="aspace_5745077804f2b4de6ef304830e5f51df" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_a22c3ad3ce042cbe0cbcbd3e43161991" parent="aspace_5745077804f2b4de6ef304830e5f51df" type="Folder">79</container></did></c><c id="aspace_ref89" level="file"><did><unittitle>Shier, Carl</unittitle><unitdate datechar="creation" normal="1990/1990" type="inclusive">November 4, 1990</unitdate><container altrender="Record carton" id="aspace_dce74fd4292f180a3fe4040c5657fcdd" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_a5417e46987d69196ba84f0fa8f5cfc5" parent="aspace_dce74fd4292f180a3fe4040c5657fcdd" type="Folder">80</container></did></c><c id="aspace_ref90" level="file"><did><unittitle>Shier, Nancy and Roberta Lynch</unittitle><unitdate datechar="creation" normal="1992/1992" type="inclusive">April 3, 1992</unitdate><container altrender="Record carton" id="aspace_3af240ac61e88e876b3ea4044ed6ca02" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_1491751343ed7e7b5fff0c459027a667" parent="aspace_3af240ac61e88e876b3ea4044ed6ca02" type="Folder">81</container></did></c><c id="aspace_ref91" level="file"><did><unittitle>Sheinbaum, Stanley K.</unittitle><unitdate datechar="creation" normal="1990/1990" type="inclusive">July 29, 1990</unitdate><container altrender="Record carton" id="aspace_54e5b5b84da071564a64e80b7e455e7b" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_b10316649c059d4cd91643be462078db" parent="aspace_54e5b5b84da071564a64e80b7e455e7b" type="Folder">82</container></did></c><c id="aspace_ref92" level="file"><did><unittitle>Schoch, Jim</unittitle><unitdate datechar="creation" normal="1992/1992" type="inclusive">October 23, 1992</unitdate><container altrender="Record carton" id="aspace_51d4d413a3849f0137d7937de34f1825" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_9d092f25dac6384441ede71bf110e603" parent="aspace_51d4d413a3849f0137d7937de34f1825" type="Folder">83</container></did></c><c id="aspace_ref93" level="file"><did><unittitle>Silbiger, Steve</unittitle><unitdate datechar="creation" normal="1992/1992" type="inclusive">March 10, 1992</unitdate><container altrender="Record carton" id="aspace_ff4cc1ca9c8452f1507d76f704f17698" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_e07e3a11d9fe1d0d1a7df1a364bacbf2" parent="aspace_ff4cc1ca9c8452f1507d76f704f17698" type="Folder">84</container></did></c><c id="aspace_ref94" level="file"><did><unittitle>Stanley, John</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">July 25, 1991</unitdate><container altrender="Record carton" id="aspace_0e698e3fe359af7f28fea1ee1842eabe" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_b11e516e31e598438c54329312da4b12" parent="aspace_0e698e3fe359af7f28fea1ee1842eabe" type="Folder">85</container></did></c><c id="aspace_ref95" level="file"><did><unittitle>Steinfels, Peter</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">October 14, 1991</unitdate><container altrender="Record carton" id="aspace_60937b2d12a80ba6cfbd894923786b92" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_e3a8e0e1d3d022218a902a3cd4e014a0" parent="aspace_60937b2d12a80ba6cfbd894923786b92" type="Folder">86</container></did></c><c id="aspace_ref96" level="file"><did><unittitle>Stillman, Dan</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_272a6bc5812e6be0033ae7ab90d30444" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_5c3c3b93236f9c58c6ce7f1c0a1573b0" parent="aspace_272a6bc5812e6be0033ae7ab90d30444" type="Folder">87</container></did></c><c id="aspace_ref97" level="file"><did><unittitle>Stuart, Jack</unittitle><unitdate datechar="creation" normal="1995/1995" type="inclusive">January 7, 1995</unitdate><container altrender="Record carton" id="aspace_bc4234f2a77d49c93e456241ace0ddc7" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_ce095a81caabd76f64ea3b541ed86d2f" parent="aspace_bc4234f2a77d49c93e456241ace0ddc7" type="Folder">88</container></did></c><c id="aspace_ref98" level="file"><did><unittitle>Thomas, Bill -- notes on interview with</unittitle><unitdate datechar="creation" normal="1992/1992" type="inclusive">January 10, 1992</unitdate><container altrender="Record carton" id="aspace_02b6be1ff75ace92219162a2381e6841" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_a5f6a7ae90f5fa9fb5c2cc79d72a2cec" parent="aspace_02b6be1ff75ace92219162a2381e6841" type="Folder">89</container></did></c><c id="aspace_ref99" level="file"><did><unittitle>Thyessen, Freijof</unittitle><unitdate datechar="creation" normal="1984/1984" type="inclusive">December 8, 1984</unitdate><container altrender="Record carton" id="aspace_a50fa61bf466b4c2935796490decf723" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_722a0611a82888309ba4cac63e3219e1" parent="aspace_a50fa61bf466b4c2935796490decf723" type="Folder">90</container></did></c><c id="aspace_ref100" level="file"><did><unittitle>Towey, Martin</unittitle><unitdate datechar="creation" normal="1992/1992" type="inclusive">May 14, 1992</unitdate><container altrender="Record carton" id="aspace_537e67ffea1d932e016dc0de1cfa8654" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_ac179e9e9f5a7c61fd257280ab6d1af7" parent="aspace_537e67ffea1d932e016dc0de1cfa8654" type="Folder">91</container></did></c><c id="aspace_ref101" level="file"><did><unittitle>Trilling, Diana</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">July 25, 1991</unitdate><container altrender="Record carton" id="aspace_bc0f58c513215f818815e28280d660b1" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_755d7b584fb1e59e79aa797df2811ec3" parent="aspace_bc0f58c513215f818815e28280d660b1" type="Folder">92</container></did></c><c id="aspace_ref102" level="file"><did><unittitle>Tristman, Dorothy and Larry Wittner</unittitle><unitdate datechar="creation" normal="1984/1984" type="inclusive">July 4, 1984</unitdate><container altrender="Record carton" id="aspace_4f40c083b1418406463dbc7d4e657551" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_169d48c4035c835f1fbe4fc761810efc" parent="aspace_4f40c083b1418406463dbc7d4e657551" type="Folder">93</container></did></c><c id="aspace_ref103" level="file"><did><unittitle>Wakefield, Dan</unittitle><unitdate datechar="creation" normal="1993/1993" type="inclusive">February 7, 1993</unitdate><container altrender="Record carton" id="aspace_85b26e8c65c02bd9a105d7fa6e3fd066" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_c6823c1e4881bf5f2db67e64263aac3a" parent="aspace_85b26e8c65c02bd9a105d7fa6e3fd066" type="Folder">94</container></did></c><c id="aspace_ref104" level="file"><did><unittitle>Walzer, Michael</unittitle><unitdate datechar="creation" normal="1986/1986" type="inclusive">March 20, 1986</unitdate><container altrender="Record carton" id="aspace_17af0ed36dcc9c3197263c7e98159c91" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_a4752b4c955780aeda98cb48a3d4df3d" parent="aspace_17af0ed36dcc9c3197263c7e98159c91" type="Folder">95</container></did></c><c id="aspace_ref105" level="file"><did><unittitle>Warwick, Jane</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">January 6, 1991</unitdate><container altrender="Record carton" id="aspace_d30b6cfbc38b823a2bead68e46075f9b" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_777463d956ad04e0866f99d8106f4316" parent="aspace_d30b6cfbc38b823a2bead68e46075f9b" type="Folder">96</container></did></c><c id="aspace_ref106" level="file"><did><unittitle>Wilkerson, Jerome Msgr</unittitle><unitdate datechar="creation" normal="1992/1992" type="inclusive">May 13, 1992</unitdate><container altrender="Record carton" id="aspace_90de1859ab86c4bf273084ef70011146" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_a42e99504fcbf65b3447217c3bdcb284" parent="aspace_90de1859ab86c4bf273084ef70011146" type="Folder">97</container></did></c><c id="aspace_ref107" level="file"><did><unittitle>Zimmerman, Fred Father</unittitle><unitdate datechar="creation" normal="1990/1990" type="inclusive">December 13, 1990</unitdate><container altrender="Record carton" id="aspace_9c621d252fbc819e40905b1d5d2972dc" label="Mixed Materials [31142062733566]" type="Box">1</container><container id="aspace_a5a7df599599071e1da5e309b7ba77c2" parent="aspace_9c621d252fbc819e40905b1d5d2972dc" type="Folder">98</container></did></c></c><c id="aspace_ref109" level="subseries"><did><unittitle>Subseries IB: Topical Files</unittitle></did><c id="aspace_ref110" level="file"><did><unittitle>Chicago</unittitle><unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate><container altrender="Record carton" id="aspace_9814f2b7b2099021505c729167d98671" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_8e8e200ce430f286c22f9cfea5677ead" parent="aspace_9814f2b7b2099021505c729167d98671" type="Folder">1</container></did></c><c id="aspace_ref111" level="file"><did><unittitle>Civil Rights</unittitle><unitdate datechar="creation" normal="1959/1992" type="inclusive">1959-1992</unitdate><container altrender="Record carton" id="aspace_6c3cd1f374c141190635ae901e3b0b16" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_520c715d817fb774c87e1137d622606b" parent="aspace_6c3cd1f374c141190635ae901e3b0b16" type="Folder">2</container></did></c><c id="aspace_ref112" level="file"><did><unittitle>Conservatives</unittitle><unitdate datechar="creation" normal="1980/1989" type="inclusive">1980s</unitdate><container altrender="Record carton" id="aspace_a9d0ddd124f9a6364c8b95f543af0b0e" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_7fcaaf75734a1b6b224474b5fdb18d2b" parent="aspace_a9d0ddd124f9a6364c8b95f543af0b0e" type="Folder">3</container></did></c><c id="aspace_ref113" level="file"><did><unittitle>Democratic Agenda</unittitle><unitdate datechar="creation" normal="1986/1987" type="inclusive">1986-1987</unitdate><container altrender="Record carton" id="aspace_f7e97c6ebf43dbb77f8bc1c2e767b2bd" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_7961220baea52fbc2f35dd0e7ccabbfc" parent="aspace_f7e97c6ebf43dbb77f8bc1c2e767b2bd" type="Folder">4</container></did></c><c id="aspace_ref114" level="file"><did><unittitle>Democratic Socialists of America</unittitle><unitdate datechar="creation" normal="1983/1989" type="inclusive">1983-1989</unitdate><container altrender="Record carton" id="aspace_539b28e7c11661ccdebf522174161d62" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_bd9d028730965b2f2741c90db8d4a98a" parent="aspace_539b28e7c11661ccdebf522174161d62" type="Folder">5</container></did></c><c id="aspace_ref115" level="file"><did><unittitle>DSOC</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate><container altrender="Record carton" id="aspace_19ae59f759b74ea7f0fb479a770bc180" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_0847d295bade5bb75795acded2525ecc" parent="aspace_19ae59f759b74ea7f0fb479a770bc180" type="Folder">6</container></did></c><c id="aspace_ref116" level="file"><did><unittitle>Fund for the Republic</unittitle><unitdate datechar="creation" normal="1956/1956" type="inclusive">circa 1956</unitdate><container altrender="Record carton" id="aspace_2a5bc3aaf5cb3ea6875d48d7f2341987" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_bfada79bc5476820dc11c923d5317261" parent="aspace_2a5bc3aaf5cb3ea6875d48d7f2341987" type="Folder">7</container></did></c><c id="aspace_ref117" level="file"><did><unittitle>Harrington, Michael - Family</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_090a2e2dfa0dd6b2f46fb6fd11b8658d" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_b41b0a175e1201d048af112e1ca64da3" parent="aspace_090a2e2dfa0dd6b2f46fb6fd11b8658d" type="Folder">8</container></did></c><c id="aspace_ref118" level="file"><did><unittitle>Harrington, Michael - Family</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_7deef589ddfaaa638d8b6da340d562dc" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_20a3488984cb0292cfae887681540675" parent="aspace_7deef589ddfaaa638d8b6da340d562dc" type="Folder">9</container></did></c><c id="aspace_ref119" level="file"><did><unittitle>Harrington, Michael - Illness</unittitle><unitdate datechar="creation" normal="1985/1989" type="inclusive">1985-1989</unitdate><container altrender="Record carton" id="aspace_86060ed31f15ba13e9b8c05b7faa453b" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_312e850781a56a9a6cb3648e000cdedd" parent="aspace_86060ed31f15ba13e9b8c05b7faa453b" type="Folder">10</container></did></c><c id="aspace_5be37b66d11b2172331bc0e6e59f8193" level="file"><did><unittitle>Harrington, Michael - Personal Correspondence</unittitle><unitdate datechar="creation" normal="1948/1951" type="inclusive">1948-1951</unitdate><container altrender="Manuscript box - Legal" id="aspace_941d81f927d9cbc3a012ce6cc71d46fe" label="Mixed Materials [31142062733590]" type="Box">5</container><container id="aspace_4a2433975087040addf21390b9ea6205" parent="aspace_941d81f927d9cbc3a012ce6cc71d46fe" type="Folder">7</container></did></c><c id="aspace_ref120" level="file"><did><unittitle>Holy Cross</unittitle><unitdate datechar="creation" normal="1945/1991" type="inclusive">1945-1991</unitdate><container altrender="Record carton" id="aspace_2b3d60f85c8f257673e568e87218fc4f" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_e3d01b7544aa8d813d5447004ce67f65" parent="aspace_2b3d60f85c8f257673e568e87218fc4f" type="Folder">11</container></did></c><c id="aspace_ref121" level="file"><did><unittitle>Howe, Irving</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_84c45c4d6306ef7d943c926f152c55fb" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_1f828491a6035ba52777707b74dcefda" parent="aspace_84c45c4d6306ef7d943c926f152c55fb" type="Folder">12</container></did></c><c id="aspace_ref122" level="file"><did><unittitle>Ireland</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate><container altrender="Record carton" id="aspace_4ed6afc32cd9b52d470197da1d4c8c9f" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_09023c118b6f62bf131ecd61bde0c00f" parent="aspace_4ed6afc32cd9b52d470197da1d4c8c9f" type="Folder">13</container></did></c><c id="aspace_ref123" level="file"><did><unittitle>Jews &amp; Israel</unittitle><unitdate datechar="creation" normal="1970/1992" type="inclusive">1970-1992</unitdate><container altrender="Record carton" id="aspace_27ee938dfa8723fd62de601e06c374b8" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_8950ee2fa6e282679a76f12e56cf134b" parent="aspace_27ee938dfa8723fd62de601e06c374b8" type="Folder">14</container></did></c><c id="aspace_ref124" level="file"><did><unittitle>Labor Movement</unittitle><unitdate datechar="creation" normal="1965/1994" type="inclusive">1965-1994</unitdate><container altrender="Record carton" id="aspace_2fefc6d9a3b54cbb96d8904192c8b91f" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_343cc7e42f51e478ac3685cbcb390618" parent="aspace_2fefc6d9a3b54cbb96d8904192c8b91f" type="Folder">15</container></did></c><c id="aspace_ref125" level="file"><did><unittitle>League for Industrial Democracy</unittitle><unitdate datechar="creation" normal="1964/1995" type="inclusive">1964-1995</unitdate><container altrender="Record carton" id="aspace_538fa6e6b062bec0d88c6f1440b489e8" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_159762e66742ee5415d343ee1c0c70d2" parent="aspace_538fa6e6b062bec0d88c6f1440b489e8" type="Folder">16</container></did></c><c id="aspace_ref126" level="file"><did><unittitle>McReynolds, Dave</unittitle><unitdate datechar="creation" normal="1950/1959" type="inclusive">1950s</unitdate><container altrender="Record carton" id="aspace_4c41da27e9041717124f0c3f4dd316cd" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_9ac53b60f407153f2667536405ab9baf" parent="aspace_4c41da27e9041717124f0c3f4dd316cd" type="Folder">17</container></did></c><c id="aspace_ref127" level="file"><did><unittitle>New Left</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_8b5509de6cc2f52930ff86ffa581e20a" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_13a14bfcba73cd90d71d8a4072f9dd10" parent="aspace_8b5509de6cc2f52930ff86ffa581e20a" type="Folder">18</container></did></c><c id="aspace_ref128" level="file"><did><unittitle>Queens College</unittitle><unitdate datechar="creation" normal="1975/1989" type="inclusive">1975-1989</unitdate><container altrender="Record carton" id="aspace_94dd007c965ec936b599c22a2b656ee6" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_7dead623d3411d29d0e0a069cb01c995" parent="aspace_94dd007c965ec936b599c22a2b656ee6" type="Folder">19</container></did></c><c id="aspace_ref129" level="file"><did><unittitle>Releases</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_b9d4461ffb9422ad1913946da729d316" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_330357eac116d25748d02b2b2ad14dc9" parent="aspace_b9d4461ffb9422ad1913946da729d316" type="Folder">20</container></did></c><c id="aspace_ref130" level="file"><did><unittitle>Reviews of Michael Harrington</unittitle><unitdate datechar="creation" normal="1965/1987" type="inclusive">1965-1987</unitdate><container altrender="Record carton" id="aspace_900bc68d359bee3e79441691a1b4f0a9" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_53ab63ed1b7c7c4dafeb7724eabacbff" parent="aspace_900bc68d359bee3e79441691a1b4f0a9" type="Folder">21</container></did></c><c id="aspace_ref131" level="file"><did><unittitle>Rustin, Baynard</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_2594a82295aaabb3f39420d71941627a" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_4a5c0efb472d7a22f05327c1cdbcbeb6" parent="aspace_2594a82295aaabb3f39420d71941627a" type="Folder">22</container></did></c><c id="aspace_ref132" level="file"><did><unittitle>St. Louis University High School</unittitle><unitdate datechar="creation" normal="1940/1944" type="inclusive">1940-1944</unitdate><container altrender="Record carton" id="aspace_195a79f765c8b185f4481f584a95d0db" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_7c3c38df3ff5381b928c335fe666f3a4" parent="aspace_195a79f765c8b185f4481f584a95d0db" type="Folder">23</container></did></c><c id="aspace_ref133" level="file"><did><unittitle>SDUSA (Social Democrats, USA)</unittitle><unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate><container altrender="Record carton" id="aspace_436adefd5b3344c098be89a6d00cc580" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_4fc47be4ab04782975b55ea7157972da" parent="aspace_436adefd5b3344c098be89a6d00cc580" type="Folder">24</container></did></c><c id="aspace_ref134" level="file"><did><unittitle>Shachtman / ISL</unittitle><unitdate datechar="creation" normal="1984/1996" type="inclusive">1984-1996</unitdate><container altrender="Record carton" id="aspace_b140a2ca93696619861b7323c141cdff" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_b12f00372ca2f853a32d6120096400fb" parent="aspace_b140a2ca93696619861b7323c141cdff" type="Folder">25</container></did></c><c id="aspace_ref135" level="file"><did><unittitle>Socialism, history &amp; future</unittitle><unitdate datechar="creation" normal="1970/1979" type="inclusive">1970s</unitdate><container altrender="Record carton" id="aspace_4cc6fd7689b5b7ed51ee52c0d7f221f2" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_0caf84abbd2e442781236c6bc6ab92eb" parent="aspace_4cc6fd7689b5b7ed51ee52c0d7f221f2" type="Folder">26</container></did></c><c id="aspace_ref136" level="file"><did><unittitle>Socialist International</unittitle><unitdate datechar="creation" normal="1977/1996" type="inclusive">1977-1996</unitdate><container altrender="Record carton" id="aspace_6b72083ed9880233793c3f8bdb0500b9" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_6022ccb2764ccf61ab3c2fa950e0e9f2" parent="aspace_6b72083ed9880233793c3f8bdb0500b9" type="Folder">27</container></did></c><c id="aspace_ref137" level="file"><did><unittitle>Socialist Party</unittitle><unitdate datechar="creation" normal="1960/1969" type="inclusive">1960s</unitdate><container altrender="Record carton" id="aspace_fc99e8c3f2c3e159dbaf09e12c807b03" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_2f908738c74ceef66f8989c30133c9b9" parent="aspace_fc99e8c3f2c3e159dbaf09e12c807b03" type="Folder">28</container></did></c><c id="aspace_ref138" level="file"><did><unittitle>Socialist Party</unittitle><unitdate datechar="creation" normal="1960/1969" type="inclusive">1960s</unitdate><container altrender="Record carton" id="aspace_e53326dc0a62b5423203df75fe2e6e90" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_c1b63907eff1932c8d23805dae175162" parent="aspace_e53326dc0a62b5423203df75fe2e6e90" type="Folder">29</container></did></c><c id="aspace_ref139" level="file"><did><unittitle>Vietnam War</unittitle><unitdate datechar="creation" normal="1971/1993" type="inclusive">1971-1993</unitdate><container altrender="Record carton" id="aspace_a0bb65bc71a2e2f4e4e1cb4190b3d198" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_23b97fccf65d77b4e2bd5bc988c60b98" parent="aspace_a0bb65bc71a2e2f4e4e1cb4190b3d198" type="Folder">30</container></did></c><c id="aspace_ref140" level="file"><did><unittitle>Village Voice</unittitle><unitdate datechar="creation" normal="1950/1991" type="inclusive">1950s-1991</unitdate><container altrender="Record carton" id="aspace_8b71ff0e30ec36bc00dd0e1cf054ef07" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_8d2638459dbeb19de0809820a9934d3b" parent="aspace_8b71ff0e30ec36bc00dd0e1cf054ef07" type="Folder">31</container></did></c><c id="aspace_ref141" level="file"><did><unittitle>Workers Defense League</unittitle><unitdate datechar="creation" normal="1984/1991" type="inclusive">1984-1991</unitdate><container altrender="Record carton" id="aspace_d24a21cfc09c6bca23393234dc74dc42" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_baac40356a9492f3d1efec2a1e1f84aa" parent="aspace_d24a21cfc09c6bca23393234dc74dc42" type="Folder">32</container></did></c><c id="aspace_ref142" level="file"><did><unittitle>Yale Law School</unittitle><unitdate datechar="creation" normal="1984/1992" type="inclusive">1984-1992</unitdate><container altrender="Record carton" id="aspace_79fceb383eba86c50d8d97c174148204" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_c44b32fde15ca5a29dca38d74c91ed45" parent="aspace_79fceb383eba86c50d8d97c174148204" type="Folder">33</container></did></c><c id="aspace_ref143" level="file"><did><unittitle>YPSL (Young Peoples Socialist League)</unittitle><unitdate datechar="creation" normal="1971/1991" type="inclusive">1971-1991</unitdate><container altrender="Record carton" id="aspace_5a670d0113e2fbc9a95f04809713f1bc" label="Mixed Materials [31142062733376]" type="Box">2</container><container id="aspace_30d68c5dbf7fe73f3196f47511b9c17f" parent="aspace_5a670d0113e2fbc9a95f04809713f1bc" type="Folder">34</container></did></c></c><c id="aspace_c0d17668e628f45b2f7967c0d82ea87a" level="subseries"><did><unittitle>Subseries IC: Newspaper Clippings by and about Michael Harrington</unittitle></did><c id="aspace_33507d48e3e41576e7175163006c9096" level="file"><did><unittitle>Harrington clippings</unittitle><unitdate datechar="creation" normal="1951/1983" type="inclusive">1951-1983</unitdate><container altrender="Record carton" id="aspace_3af493dd2d56df7f53a95378dc8fc2c1" label="Mixed Materials [31142062733574]" type="Box">3</container><container id="aspace_baf25319ab2b37f23a1dd9373173676f" parent="aspace_3af493dd2d56df7f53a95378dc8fc2c1" type="Folder">1-33</container></did></c><c id="aspace_1e3f74775b59aacd0965bbf6ae28860e" level="file"><did><unittitle>Harrington clippings</unittitle><unitdate datechar="creation" normal="1984/1989" type="inclusive">1984-1989</unitdate><container altrender="Manuscript box - Legal" id="aspace_df8ccd61d7efd815de4ec2a979219475" label="Mixed Materials [31142062733582]" type="Box">4</container><container id="aspace_502fd274a88b4cb27d85802daaf11c8b" parent="aspace_df8ccd61d7efd815de4ec2a979219475" type="Folder">1-6</container></did></c></c><c id="aspace_ref184" level="subseries"><did><unittitle>Subseries ID: FOIA FIles (by file number)</unittitle></did><c id="aspace_ref185" level="file"><did><unittitle>FOIPA HQ 100-411915 Vol. 1 - 1 out of 2</unittitle><container altrender="Manuscript box - Legal" id="aspace_c3ac922531abffb22e430cf5e2e29900" label="Mixed Materials [31142062733582]" type="Box">4</container><container id="aspace_2983628238247ae54e0e137fb453dc61" parent="aspace_c3ac922531abffb22e430cf5e2e29900" type="Folder">7</container></did></c><c id="aspace_ref186" level="file"><did><unittitle>FOIPA HQ 100-411915 Vol. 1 - 2 out of 2</unittitle><container altrender="Manuscript box - Legal" id="aspace_a15860761c538685d21d1b843fc1eee5" label="Mixed Materials [31142062733582]" type="Box">4</container><container id="aspace_3106cbbfb7ba8eda723cc8d8325c2377" parent="aspace_a15860761c538685d21d1b843fc1eee5" type="Folder">8</container></did></c><c id="aspace_ref187" level="file"><did><unittitle>FOIPA HQ 100-411915 Vol. 2 - 1 out of 2</unittitle><container altrender="Manuscript box - Legal" id="aspace_541fceb8aa9c05cbfc724308aa5003b0" label="Mixed Materials [31142062733582]" type="Box">4</container><container id="aspace_169645f05a53f4564a21bdec24b676a6" parent="aspace_541fceb8aa9c05cbfc724308aa5003b0" type="Folder">9</container></did></c><c id="aspace_ref188" level="file"><did><unittitle>FOIPA HQ 100-411915 Vol. 2 - 2 out of 2</unittitle><container altrender="Manuscript box - Legal" id="aspace_64628d2bfe697f1f51497c7645359623" label="Mixed Materials [31142062733582]" type="Box">4</container><container id="aspace_616be40324bc2ab4d3a9380a36392f8d" parent="aspace_64628d2bfe697f1f51497c7645359623" type="Folder">10</container></did></c></c><c id="aspace_a74666b4d06d84d30656cd4140738c1a" level="file"><did><unittitle>Unprocessed Videos</unittitle><container altrender="Manuscript box - Legal" id="aspace_d30bfa9069037681e59c863c48d29fa9" label="Moving Images [31142063434313]" type="Box">6</container></did></c></c><c id="aspace_daff99b1385f43ba4503c71d7bfd6175" level="series"><did><unittitle>Series II: Early Research Files</unittitle><unitdate datechar="creation" normal="1977/1980" type="inclusive">1977-1980</unitdate></did><c id="aspace_e64c4f383d8a6683b26fb4707a964efe" level="file"><did><unittitle>Clark, Joe Correspondence</unittitle><unitdate datechar="creation" normal="1979/1982" type="inclusive">1979-1982</unitdate><container altrender="Manuscript box - Legal" id="aspace_7aaf6c301d6ded7439be2e9952937b56" label="Mixed Materials [31142062733590]" type="Box">5</container><container id="aspace_fae911c1f81888db6c52fd538d12b0ec" parent="aspace_7aaf6c301d6ded7439be2e9952937b56" type="Folder">1</container></did></c><c id="aspace_21944a078fa81d8b3a562c4d6fc49bdd" level="file"><did><unittitle>Communist Party Meetings and Office of Strategic Services (OSS)</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_620e70f29562ff9443af8dcf659de66f" label="Mixed Materials [31142062733590]" type="Box">5</container><container id="aspace_f521290bf06d94c6ea695a5c50f0cd10" parent="aspace_620e70f29562ff9443af8dcf659de66f" type="Folder">2-3</container></did></c><c id="aspace_fccd7689db2d598ea263d6b958ac2310" level="file"><did><unittitle>Communist Party Political Committee Meetings</unittitle><unitdate datechar="creation" normal="1935/1940" type="inclusive">1935-1940</unitdate><container altrender="Manuscript box - Legal" id="aspace_9325e10589c798b3c5102808a5a17d87" label="Mixed Materials [31142062733590]" type="Box">5</container><container id="aspace_8a4f2216b86aee940e1a4c121fcc3401" parent="aspace_9325e10589c798b3c5102808a5a17d87" type="Folder">4</container></did></c><c id="aspace_5d8c670da9ef9fde0d2633f7a8d4ea68" level="file"><did><unittitle>Correspondence Regarding Earl Browder</unittitle><unitdate datechar="creation" normal="1977/1982" type="inclusive">1977-1982</unitdate><container altrender="Manuscript box - Legal" id="aspace_1ba918bd90e1e98a3ace9b17eddb726a" label="Mixed Materials [31142062733590]" type="Box">5</container><container id="aspace_456d3027aa25ccb1cc3d40bfea5ffcc1" parent="aspace_1ba918bd90e1e98a3ace9b17eddb726a" type="Folder">5</container></did></c><c id="aspace_756825f4552e07ab6796087b2ed902a8" level="file"><did><unittitle>Nelson, Steve Interview</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_bd90a39536aa3c7f7d0f68816899868e" label="Mixed Materials [31142062733590]" type="Box">5</container><container id="aspace_79e7cdb21ab0b137fd017b04cac3a05b" parent="aspace_bd90a39536aa3c7f7d0f68816899868e" type="Folder">6</container></did></c></c></dsc>
-</archdesc>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_a2c8011e1ecf835515f1fa1bc36eed0f" level="series">
+        <did>
+          <unittitle>Series I: Research Files for <emph render="italic">The Other American: The Life of Michael Harrington</emph></unittitle>
+          <unitdate datechar="creation" normal="1940/1995" type="inclusive">1940-1995</unitdate>
+        </did>
+        <c id="aspace_ref7" level="subseries">
+          <did>
+            <unittitle>Subseries IA: Interview Transcripts</unittitle>
+          </did>
+          <c id="aspace_ref10" level="file">
+            <did>
+              <unittitle>Berthelme, Elizabeth</unittitle>
+              <unitdate datechar="creation" normal="1995/1995" type="inclusive">March 17, 1995</unitdate>
+              <container altrender="Record carton" id="aspace_5dde70066bfaf5bb71830ed4e9850b20" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_e15ee946330993ee6ee9d6cd2ed3881e" parent="aspace_5dde70066bfaf5bb71830ed4e9850b20" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref11" level="file">
+            <did>
+              <unittitle>Bernstein, Jules</unittitle>
+              <unitdate datechar="creation" normal="1992/1992" type="inclusive">March 9, 1992</unitdate>
+              <container altrender="Record carton" id="aspace_114d1463d4e4fc4c3cf402bb3e84baff" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_89a8ce25036ded29b5687e674f7daf72" parent="aspace_114d1463d4e4fc4c3cf402bb3e84baff" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref12" level="file">
+            <did>
+              <unittitle>Booth, Heather</unittitle>
+              <unitdate datechar="creation" normal="1992/1992" type="inclusive">March 11, 1992</unitdate>
+              <container altrender="Record carton" id="aspace_e4a3c53e964e6487a6a733bcca9a24af" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_0fe088f6577590052c8bdcf88498cbdf" parent="aspace_e4a3c53e964e6487a6a733bcca9a24af" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref13" level="file">
+            <did>
+              <unittitle>Brungard, Ed</unittitle>
+              <unitdate datechar="creation" normal="1990/1990" type="inclusive">December 14, 1990</unitdate>
+              <container altrender="Record carton" id="aspace_e9157fa67969ebb1d530d177b391ba91" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_0ba7c0717871a7402c5a6887450db1df" parent="aspace_e9157fa67969ebb1d530d177b391ba91" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref14" level="file">
+            <did>
+              <unittitle>Buckley, William F.</unittitle>
+              <unitdate datechar="creation" normal="1990/1990" type="inclusive">January 6, 1990</unitdate>
+              <container altrender="Record carton" id="aspace_c7e2068f347b2827b7c80073721046f4" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_85e83babb31b1ce8cf4c7b23ccba844c" parent="aspace_c7e2068f347b2827b7c80073721046f4" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref15" level="file">
+            <did>
+              <unittitle>Chapin, Jim</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">April/December 1991</unitdate>
+              <container altrender="Record carton" id="aspace_da397e3627e05ab7d67c1a8e967be993" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_ec27be780d037e370c6e3fa48e2ad60b" parent="aspace_da397e3627e05ab7d67c1a8e967be993" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref16" level="file">
+            <did>
+              <unittitle>Clark, Ed</unittitle>
+              <unitdate datechar="creation" normal="1990/1990" type="inclusive">March 23, 1990</unitdate>
+              <container altrender="Record carton" id="aspace_8646ecff7a3328edad8564faa429e60b" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_281d9cbd37189bc7a93287b2f75574ec" parent="aspace_8646ecff7a3328edad8564faa429e60b" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref17" level="file">
+            <did>
+              <unittitle>Clark, Jack</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">January/March 1991</unitdate>
+              <container altrender="Record carton" id="aspace_9d59d188b00849f51f2f68066825c5ca" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_264866b334a78cb2dcc9669e2e6025b7" parent="aspace_9d59d188b00849f51f2f68066825c5ca" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref18" level="file">
+            <did>
+              <unittitle>Clingon, Eldon</unittitle>
+              <unitdate datechar="creation" normal="1993/1993" type="inclusive">May 19, 1993</unitdate>
+              <container altrender="Record carton" id="aspace_9742d46d2e722bb47fbe7250a21a9a58" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_2fa66625bbbd9b2e9d53641a68cb2331" parent="aspace_9742d46d2e722bb47fbe7250a21a9a58" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref19" level="file">
+            <did>
+              <unittitle>Corbin, Marty &amp; Ed Egan </unittitle>
+              <unitdate datechar="creation" normal="1992/1992" type="inclusive">October 30, 1992</unitdate>
+              <container altrender="Record carton" id="aspace_9ae49a541c5ade1b2ccba42aea5fe529" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_88d621dd1a6620fe6a76f8ff67331d8e" parent="aspace_9ae49a541c5ade1b2ccba42aea5fe529" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref20" level="file">
+            <did>
+              <unittitle>Coser, Lewis</unittitle>
+              <unitdate datechar="creation" normal="1985/1985" type="inclusive">May 3, 1985</unitdate>
+              <container altrender="Record carton" id="aspace_19cfca2344a98cb8cfb07e7e36834230" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_e4e3093fb9965f4418cf2c3d0d9692a0" parent="aspace_19cfca2344a98cb8cfb07e7e36834230" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref21" level="file">
+            <did>
+              <unittitle>Dempsey, Richard</unittitle>
+              <unitdate datechar="creation" normal="1992/1992" type="inclusive">May 16, 1992</unitdate>
+              <container altrender="Record carton" id="aspace_f2b9e391e3368b2e5643640430ea37da" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_ec89484e26bdaef838ca11531efcd6e1" parent="aspace_f2b9e391e3368b2e5643640430ea37da" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref22" level="file">
+            <did>
+              <unittitle>Denitch, Betty</unittitle>
+              <unitdate datechar="creation" normal="1984/1984" type="inclusive">August 6, 1984</unitdate>
+              <container altrender="Record carton" id="aspace_a3b4255a1112376c00f9a8d01942131a" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_2ed05501215e5389eb4a66cb69b8b2d9" parent="aspace_a3b4255a1112376c00f9a8d01942131a" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref23" level="file">
+            <did>
+              <unittitle>Denitch, Bogdan</unittitle>
+              <unitdate datechar="creation" normal="1984/1991" type="inclusive">1984-1991</unitdate>
+              <container altrender="Record carton" id="aspace_8a665826d5080cc00925aed8bb1fa0dd" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_e355cd23eed1cf06783fd350f20f88a9" parent="aspace_8a665826d5080cc00925aed8bb1fa0dd" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref24" level="file">
+            <did>
+              <unittitle>Diaz, Eileen Fautino</unittitle>
+              <unitdate datechar="creation" normal="1995/1995" type="inclusive">March 16, 1995</unitdate>
+              <container altrender="Record carton" id="aspace_00e4af80eb5adeff01161a21a5963360" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_ba436cbc9434bed599dc36e6e99397d6" parent="aspace_00e4af80eb5adeff01161a21a5963360" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref25" level="file">
+            <did>
+              <unittitle>Dorsen, Norman</unittitle>
+              <unitdate datechar="creation" normal="1993/1993" type="inclusive">May 24, 1993</unitdate>
+              <container altrender="Record carton" id="aspace_cfac446b71bd1786c85240aeb228ed69" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_60952e03d50d30d9cc889c17b1c477d0" parent="aspace_cfac446b71bd1786c85240aeb228ed69" type="Folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_ref26" level="file">
+            <did>
+              <unittitle>Draper, Hal</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_67caa5fa33e313eb6d1097bb509d3f8e" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_617ecd86da50b57abb7ca0d9c002b138" parent="aspace_67caa5fa33e313eb6d1097bb509d3f8e" type="Folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_ref27" level="file">
+            <did>
+              <unittitle>Dreier, Peter </unittitle>
+              <unitdate datechar="creation" normal="1992/1992" type="inclusive">November 5, 1992</unitdate>
+              <container altrender="Record carton" id="aspace_8c55d14fd748bd165db5a35ed5097187" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_922ad2df7cd8eb4c212e2b0ba64dbe28" parent="aspace_8c55d14fd748bd165db5a35ed5097187" type="Folder">18</container>
+            </did>
+          </c>
+          <c id="aspace_ref28" level="file">
+            <did>
+              <unittitle>Faherty, William Father</unittitle>
+              <unitdate datechar="creation" normal="1992/1992" type="inclusive">May 13, 1992</unitdate>
+              <container altrender="Record carton" id="aspace_18d65c072bd71313543a29f1f50dbec6" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_d7396d314525cb405057126660ddcc3f" parent="aspace_18d65c072bd71313543a29f1f50dbec6" type="Folder">19</container>
+            </did>
+          </c>
+          <c id="aspace_ref29" level="file">
+            <did>
+              <unittitle>Faucher, Ed</unittitle>
+              <unitdate datechar="creation" normal="1992/1992" type="inclusive">January 6, 1992</unitdate>
+              <container altrender="Record carton" id="aspace_900d5a36a7633421f72c2a9e5b2a74c4" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_d6fd09abea03991f3e502bc9d335f5e0" parent="aspace_900d5a36a7633421f72c2a9e5b2a74c4" type="Folder">20</container>
+            </did>
+          </c>
+          <c id="aspace_ref30" level="file">
+            <did>
+              <unittitle>Finn, Jim and Molly</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">September 27, 1991</unitdate>
+              <container altrender="Record carton" id="aspace_a34814d2d87a2947758fd3c1b4fed879" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_7aff96d996689dacce28e5e04008c3bc" parent="aspace_a34814d2d87a2947758fd3c1b4fed879" type="Folder">21</container>
+            </did>
+          </c>
+          <c id="aspace_ref31" level="file">
+            <did>
+              <unittitle>FitzGibbon, Peggy</unittitle>
+              <unitdate datechar="creation" normal="1990/1990" type="inclusive">November 3, 1990</unitdate>
+              <container altrender="Record carton" id="aspace_ca5bd2964bbd391de3d92577b31e2ef8" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_9c314c356a798453193b21f84f1287e7" parent="aspace_ca5bd2964bbd391de3d92577b31e2ef8" type="Folder">22</container>
+            </did>
+          </c>
+          <c id="aspace_ref32" level="file">
+            <did>
+              <unittitle>Fitzsimmons, Richard</unittitle>
+              <unitdate datechar="creation" normal="1992/1992" type="inclusive">February 7, 1992</unitdate>
+              <container altrender="Record carton" id="aspace_0670599edf935ebb1046c75b0bfcb468" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_6d641c3be753ccd414af3e81632e5cb5" parent="aspace_0670599edf935ebb1046c75b0bfcb468" type="Folder">23</container>
+            </did>
+          </c>
+          <c id="aspace_ref33" level="file">
+            <did>
+              <unittitle>Fleischman, Harry</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">April 6, 1991</unitdate>
+              <container altrender="Record carton" id="aspace_60ac93c87b26af289b30a79be8aec27e" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_6fe6cdaf80cfcfe975b7b862d5d551b5" parent="aspace_60ac93c87b26af289b30a79be8aec27e" type="Folder">24</container>
+            </did>
+          </c>
+          <c id="aspace_ref34" level="file">
+            <did>
+              <unittitle>Franklin, Joan S.</unittitle>
+              <unitdate datechar="creation" normal="1992/1992" type="inclusive">March 19, 1992</unitdate>
+              <container altrender="Record carton" id="aspace_fe96c30d0176b2c22b5d49987e4855b1" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_13d3516527f5c9d82dc8ed06e54896a6" parent="aspace_fe96c30d0176b2c22b5d49987e4855b1" type="Folder">25</container>
+            </did>
+          </c>
+          <c id="aspace_ref35" level="file">
+            <did>
+              <unittitle>Galbraith, John K. </unittitle>
+              <unitdate datechar="creation" normal="1993/1993" type="inclusive">May 19, 1993</unitdate>
+              <container altrender="Record carton" id="aspace_389a45a03ee3f7ad622541138d28e1f2" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_330c31400137f64172ee1eafaa7c5b10" parent="aspace_389a45a03ee3f7ad622541138d28e1f2" type="Folder">26</container>
+            </did>
+          </c>
+          <c id="aspace_ref36" level="file">
+            <did>
+              <unittitle>Gallin, Liz</unittitle>
+              <unitdate datechar="creation">January 6, 1992</unitdate>
+              <container altrender="Record carton" id="aspace_7624ab5ffac88d0033d0cf3993d197bc" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_33a5a79dec3a86a4f1e3b7f31afe3b14" parent="aspace_7624ab5ffac88d0033d0cf3993d197bc" type="Folder">27</container>
+            </did>
+          </c>
+          <c id="aspace_ref37" level="file">
+            <did>
+              <unittitle>Gans, Herb</unittitle>
+              <unitdate datechar="creation">March 16, 1995</unitdate>
+              <container altrender="Record carton" id="aspace_c2c928348a9a8004ea8a7c8b4aba06b2" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_ea548b967f4ff326d73421447f170053" parent="aspace_c2c928348a9a8004ea8a7c8b4aba06b2" type="Folder">28</container>
+            </did>
+          </c>
+          <c id="aspace_ref38" level="file">
+            <did>
+              <unittitle>Geltman, Manny</unittitle>
+              <unitdate datechar="creation" normal="1985/1985" type="inclusive">March 19, 1985</unitdate>
+              <container altrender="Record carton" id="aspace_cf59d263e162a8d33808f77a6278b4ec" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_4a61bdabe023390dd0ff7eef8fa2b751" parent="aspace_cf59d263e162a8d33808f77a6278b4ec" type="Folder">29</container>
+            </did>
+          </c>
+          <c id="aspace_ref39" level="file">
+            <did>
+              <unittitle>Gittin, Todd</unittitle>
+              <unitdate datechar="creation" normal="1994/1994" type="inclusive">June 16, 1994</unitdate>
+              <container altrender="Record carton" id="aspace_9af6192b35cb7463d0bc443307dec370" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_5d2f5aef03d83b209f35714b38d422c0" parent="aspace_9af6192b35cb7463d0bc443307dec370" type="Folder">30</container>
+            </did>
+          </c>
+          <c id="aspace_ref40" level="file">
+            <did>
+              <unittitle>Glotzer, Al</unittitle>
+              <unitdate datechar="creation" normal="1984/1984" type="inclusive">October 10, 1984</unitdate>
+              <container altrender="Record carton" id="aspace_41460d1f272d95dbe1794e2a4b29b385" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_3cfc0295ee00c4c93cff9a88fb3f6595" parent="aspace_41460d1f272d95dbe1794e2a4b29b385" type="Folder">31</container>
+            </did>
+          </c>
+          <c id="aspace_ref41" level="file">
+            <did>
+              <unittitle>Hacker, David</unittitle>
+              <unitdate datechar="creation" normal="1988/1988" type="inclusive">August 19, 1988</unitdate>
+              <container altrender="Record carton" id="aspace_caa05f2cfb046cfadb16dd4ce42cb208" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_ebe998909544205d394116ca3200d7a9" parent="aspace_caa05f2cfb046cfadb16dd4ce42cb208" type="Folder">32</container>
+            </did>
+          </c>
+          <c id="aspace_ref42" level="file">
+            <did>
+              <unittitle>Harrington, Alec</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">September 27, 1991</unitdate>
+              <container altrender="Record carton" id="aspace_0ea3059e76437454800122e4b906b225" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_95fd4e12287d2ba2bd0e447630f7f994" parent="aspace_0ea3059e76437454800122e4b906b225" type="Folder">33</container>
+            </did>
+          </c>
+          <c id="aspace_ref43" level="file">
+            <did>
+              <unittitle>Harrington, Michael -- interviewed by John Cogley</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_24c26b6dc597aed0bc9778046df841e1" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_1563e0d5f423467ad6801c602c4d4813" parent="aspace_24c26b6dc597aed0bc9778046df841e1" type="Folder">34</container>
+            </did>
+          </c>
+          <c id="aspace_ref44" level="file">
+            <did>
+              <unittitle>Harrington, Michael</unittitle>
+              <unitdate datechar="creation" normal="1982/1982" type="inclusive">November 19, 1982</unitdate>
+              <container altrender="Record carton" id="aspace_229ce73f17fa7468cf657b6ca904abc2" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_1e4262c8ea79625642ad6fc87e4f0037" parent="aspace_229ce73f17fa7468cf657b6ca904abc2" type="Folder">35</container>
+            </did>
+          </c>
+          <c id="aspace_ref45" level="file">
+            <did>
+              <unittitle>Harrington, Michael – interviewed by Kirkpatrick Sale</unittitle>
+              <unitdate datechar="creation" normal="1969/1969" type="inclusive">October 6, 1969</unitdate>
+              <container altrender="Record carton" id="aspace_0186540628754ddce6e1974cbafcd19c" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_89c4246d671deb89676ef264253bb52f" parent="aspace_0186540628754ddce6e1974cbafcd19c" type="Folder">36</container>
+            </did>
+          </c>
+          <c id="aspace_2710f0459aa537c6043107af01c3c8a0" level="file">
+            <did>
+              <unittitle>Harrington, Michael -- interviewed by Todd Gitlin</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_49f0217e89f80482d4fddf39c09db40a" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_b8bb673af885144ba12b093414f834d9" parent="aspace_49f0217e89f80482d4fddf39c09db40a" type="Folder">43</container>
+            </did>
+          </c>
+          <c id="aspace_ref46" level="file">
+            <did>
+              <unittitle>Harrington, Michael and Dave</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_b65c1e367c257291d6c7ccb091368a8f" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_eeb762f6c5b9ae8cd44389fd5e7e8682" parent="aspace_b65c1e367c257291d6c7ccb091368a8f" type="Folder">37</container>
+            </did>
+          </c>
+          <c id="aspace_ref47" level="file">
+            <did>
+              <unittitle>Harrington, Stephanie</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">September 27, 1991</unitdate>
+              <container altrender="Record carton" id="aspace_3b1c8525ce05d168350e23f98d3271b7" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_5a1185628ce83cc9f671ee44a6ecda7e" parent="aspace_3b1c8525ce05d168350e23f98d3271b7" type="Folder">38</container>
+            </did>
+          </c>
+          <c id="aspace_ref48" level="file">
+            <did>
+              <unittitle>Harrington, Ted</unittitle>
+              <unitdate datechar="creation" normal="1993/1993" type="inclusive">February 15, 1993</unitdate>
+              <container altrender="Record carton" id="aspace_ea0a0d713dfd9edacb3e37121c9996d4" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_38de748e603b69e61d586403b2a5b959" parent="aspace_ea0a0d713dfd9edacb3e37121c9996d4" type="Folder">39</container>
+            </did>
+          </c>
+          <c id="aspace_ref49" level="file">
+            <did>
+              <unittitle>Haskell, Gordon</unittitle>
+              <unitdate datechar="creation" normal="1983/1983" type="inclusive">July 15, 1983</unitdate>
+              <container altrender="Record carton" id="aspace_b830706a685da7a5564c7b14a223e333" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_9ecb341633c33b4f3bc42511b7d90bc4" parent="aspace_b830706a685da7a5564c7b14a223e333" type="Folder">40</container>
+            </did>
+          </c>
+          <c id="aspace_ref50" level="file">
+            <did>
+              <unittitle>Healey, Richard</unittitle>
+              <unitdate datechar="creation" normal="1992/1992" type="inclusive">March 11, 1992</unitdate>
+              <container altrender="Record carton" id="aspace_ef20518b107b8889a613c3e8891b3b56" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_21066be004061066c5a8b8ee0416655a" parent="aspace_ef20518b107b8889a613c3e8891b3b56" type="Folder">41</container>
+            </did>
+          </c>
+          <c id="aspace_ref51" level="file">
+            <did>
+              <unittitle>Henle, Father</unittitle>
+              <unitdate datechar="creation" normal="1990/1990" type="inclusive">December 13, 1990</unitdate>
+              <container altrender="Record carton" id="aspace_ed8a742bd7ee0c496e0c03acada06cda" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_ed609466bcd28c4585e284b65cdfc2bb" parent="aspace_ed8a742bd7ee0c496e0c03acada06cda" type="Folder">42</container>
+            </did>
+          </c>
+          <c id="aspace_ref52" level="file">
+            <did>
+              <unittitle>Howe, Irving -- interviewed by Todd Gitlin</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_d30f6cfbea8a76f81a9011859cce99e5" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_7ac7ded28de795507d02a35dc72644f7" parent="aspace_d30f6cfbea8a76f81a9011859cce99e5" type="Folder">43</container>
+            </did>
+          </c>
+          <c id="aspace_ref53" level="file">
+            <did>
+              <unittitle>Jacobson, Julius and Phyllis</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_80cd86d2b03a41be5c2a25bd41553bd4" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_ed68a2c56001fdf68fd2cd378d54893b" parent="aspace_80cd86d2b03a41be5c2a25bd41553bd4" type="Folder">44</container>
+            </did>
+          </c>
+          <c id="aspace_ref54" level="file">
+            <did>
+              <unittitle>Jordan, Ruth</unittitle>
+              <unitdate datechar="creation" normal="1992/1992" type="inclusive">March 10, 1992</unitdate>
+              <container altrender="Record carton" id="aspace_f857adfdf001df811161c7137f8b9657" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_0ed8c19e497907c8e6ee68181c0242ac" parent="aspace_f857adfdf001df811161c7137f8b9657" type="Folder">45</container>
+            </did>
+          </c>
+          <c id="aspace_ref55" level="file">
+            <did>
+              <unittitle>Kelman, Steve</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">November 24, 1991</unitdate>
+              <container altrender="Record carton" id="aspace_74364ed680019949c2a36f544a1ac639" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_f1fa39f05c9a852d01f27f6bc334a63c" parent="aspace_74364ed680019949c2a36f544a1ac639" type="Folder">46</container>
+            </did>
+          </c>
+          <c id="aspace_ref56" level="file">
+            <did>
+              <unittitle>Kristol, Irving</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">August 8, 1991</unitdate>
+              <container altrender="Record carton" id="aspace_5fb22c06602c8deca8d716dd714593cf" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_92305ae4a9d9c6175b21f456c310ace3" parent="aspace_5fb22c06602c8deca8d716dd714593cf" type="Folder">47</container>
+            </did>
+          </c>
+          <c id="aspace_ref57" level="file">
+            <did>
+              <unittitle>Kusnet, Dave</unittitle>
+              <unitdate datechar="creation" normal="1992/1992" type="inclusive">March 11, 1992</unitdate>
+              <container altrender="Record carton" id="aspace_63345df3740f7ec3addba0f117facf6c" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_3d17b986f08c210690f715718568a9fd" parent="aspace_63345df3740f7ec3addba0f117facf6c" type="Folder">48</container>
+            </did>
+          </c>
+          <c id="aspace_ref58" level="file">
+            <did>
+              <unittitle>Kuttner, Bob</unittitle>
+              <unitdate datechar="creation" normal="1993/1993" type="inclusive">April 26, 1993</unitdate>
+              <container altrender="Record carton" id="aspace_9b282beae601bebb068b583944cc5547" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_9ad152f5b4d086f37bb522aa6ae9f715" parent="aspace_9b282beae601bebb068b583944cc5547" type="Folder">49</container>
+            </did>
+          </c>
+          <c id="aspace_ref59" level="file">
+            <did>
+              <unittitle>Lacefield, Patrick and Dinah Lewenthal</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">August 5, 1991</unitdate>
+              <container altrender="Record carton" id="aspace_1e32e590ceca6ced954921a325d06daf" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_42f9a9596c91d2a0281d0a912288177a" parent="aspace_1e32e590ceca6ced954921a325d06daf" type="Folder">50</container>
+            </did>
+          </c>
+          <c id="aspace_ref60" level="file">
+            <did>
+              <unittitle>Levinson, Mark</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">July 24, 1991</unitdate>
+              <container altrender="Record carton" id="aspace_759a5ff0d5a2f0b7f6626fdd4c6f890b" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_abb779ca0b271d9b23c7a3ee711a874d" parent="aspace_759a5ff0d5a2f0b7f6626fdd4c6f890b" type="Folder">51</container>
+            </did>
+          </c>
+          <c id="aspace_ref61" level="file">
+            <did>
+              <unittitle>Lipon, Arthur</unittitle>
+              <unitdate datechar="creation" normal="1984/1984" type="inclusive">November 9, 1984</unitdate>
+              <container altrender="Record carton" id="aspace_7aba427bb77288d2069928bdb2447e41" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_108e522c47f0da28f99c8cd30df2bb58" parent="aspace_7aba427bb77288d2069928bdb2447e41" type="Folder">52</container>
+            </did>
+          </c>
+          <c id="aspace_ref62" level="file">
+            <did>
+              <unittitle>Llewelyn, Frank</unittitle>
+              <unitdate datechar="creation">October 14, 1991</unitdate>
+              <container altrender="Record carton" id="aspace_2eea4a4d484d6150bd38f2edffe63c8a" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_a79c5cf94b6eabb06fb8740352ec73b4" parent="aspace_2eea4a4d484d6150bd38f2edffe63c8a" type="Folder">53</container>
+            </did>
+          </c>
+          <c id="aspace_ref63" level="file">
+            <did>
+              <unittitle>Loftus, Bill</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">September 27, 1991</unitdate>
+              <container altrender="Record carton" id="aspace_4657a090011df14d6713bcb97d6d3fd5" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_72694179ab2e8831e151b5e9235b7d3a" parent="aspace_4657a090011df14d6713bcb97d6d3fd5" type="Folder">54</container>
+            </did>
+          </c>
+          <c id="aspace_ref64" level="file">
+            <did>
+              <unittitle>Max, Steve</unittitle>
+              <unitdate datechar="creation" normal="1986/1991" type="inclusive">May 14, 1986; October 16, 1991</unitdate>
+              <container altrender="Record carton" id="aspace_f1e26f6946ac9871dfef76acc523830c" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_744dab6c996b70bd14f589531f19f592" parent="aspace_f1e26f6946ac9871dfef76acc523830c" type="Folder">55</container>
+            </did>
+          </c>
+          <c id="aspace_ref65" level="file">
+            <did>
+              <unittitle>McGovern, Hamilton</unittitle>
+              <unitdate datechar="creation" normal="1992/1992" type="inclusive">April 14, 1992</unitdate>
+              <container altrender="Record carton" id="aspace_c30c85876d279baf9a5a391e8926e455" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_bccf58b75be5db1bef37a9a191f8ec6a" parent="aspace_c30c85876d279baf9a5a391e8926e455" type="Folder">56</container>
+            </did>
+          </c>
+          <c id="aspace_ref66" level="file">
+            <did>
+              <unittitle>McReynolds, Dave</unittitle>
+              <unitdate datechar="creation" normal="1984/1991" type="inclusive">July 9, 1984; September 16, 1991</unitdate>
+              <container altrender="Record carton" id="aspace_ca49cd3fac21ce7bfb81dafeeb504461" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_b16bf079218431aa15a30e501135b876" parent="aspace_ca49cd3fac21ce7bfb81dafeeb504461" type="Folder">57</container>
+            </did>
+          </c>
+          <c id="aspace_ref67" level="file">
+            <did>
+              <unittitle>Meier, Debbie</unittitle>
+              <unitdate datechar="creation" normal="1986/1992" type="inclusive">April 19, 1986; January 6, 1992</unitdate>
+              <container altrender="Record carton" id="aspace_027bf8e8e0eb33bdd040eecd2e16c87e" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_630bc6f04ae07e41c9c812992d46d39d" parent="aspace_027bf8e8e0eb33bdd040eecd2e16c87e" type="Folder">58</container>
+            </did>
+          </c>
+          <c id="aspace_ref68" level="file">
+            <did>
+              <unittitle>Meyerson, Harold</unittitle>
+              <unitdate datechar="creation" normal="1990/1990" type="inclusive">July 27, 1990</unitdate>
+              <container altrender="Record carton" id="aspace_999808268d76c5aae638aa7db815ebbb" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_6fac6e4e785e8505f61122a4676a3a21" parent="aspace_999808268d76c5aae638aa7db815ebbb" type="Folder">59</container>
+            </did>
+          </c>
+          <c id="aspace_ref69" level="file">
+            <did>
+              <unittitle>Mitchell, Peggy Brennan</unittitle>
+              <unitdate datechar="creation" normal="1992/1992" type="inclusive">October 22, 1992</unitdate>
+              <container altrender="Record carton" id="aspace_f0130388c4e905ed402f37e02bbce931" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_95a94f5b646e609a3376b19039f773c1" parent="aspace_f0130388c4e905ed402f37e02bbce931" type="Folder">60</container>
+            </did>
+          </c>
+          <c id="aspace_ref70" level="file">
+            <did>
+              <unittitle>Moore, Arthur J.</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">September 28, 1991</unitdate>
+              <container altrender="Record carton" id="aspace_7717ce8ff33d3eb1d16bd5c7649b40bf" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_f53ce143ab419efc5e2521bdadf9eb83" parent="aspace_7717ce8ff33d3eb1d16bd5c7649b40bf" type="Folder">61</container>
+            </did>
+          </c>
+          <c id="aspace_ref71" level="file">
+            <did>
+              <unittitle>Mort, Jo-Ann</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">September 26, 1991</unitdate>
+              <container altrender="Record carton" id="aspace_93aee33fa0f27865200caee7fa73f017" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_7b9ec6ff176b3907cc1c24ee9dabb9b6" parent="aspace_93aee33fa0f27865200caee7fa73f017" type="Folder">62</container>
+            </did>
+          </c>
+          <c id="aspace_ref72" level="file">
+            <did>
+              <unittitle>Murphy, Joe</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">October 16, 1991</unitdate>
+              <container altrender="Record carton" id="aspace_a3096d49afd4807245e11cc558689fe8" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_12bdcc3dd964d2be3e50fa6fa34e93b1" parent="aspace_a3096d49afd4807245e11cc558689fe8" type="Folder">63</container>
+            </did>
+          </c>
+          <c id="aspace_ref73" level="file">
+            <did>
+              <unittitle>Newfield, Jack</unittitle>
+              <unitdate datechar="creation" normal="1992/1992" type="inclusive">January 6, 1992</unitdate>
+              <container altrender="Record carton" id="aspace_fccff868d5a6b6a31452a5b1536c316d" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_d067f58396f05babf3e365a1a93b0e54" parent="aspace_fccff868d5a6b6a31452a5b1536c316d" type="Folder">64</container>
+            </did>
+          </c>
+          <c id="aspace_ref74" level="file">
+            <did>
+              <unittitle>Nichols, Marcy Perot</unittitle>
+              <unitdate datechar="creation" normal="1995/1995" type="inclusive">March 16, 1995</unitdate>
+              <container altrender="Record carton" id="aspace_855b5e31c4f160bcd248ce1fe20ce814" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_771cca97118e751a073b495120c14f10" parent="aspace_855b5e31c4f160bcd248ce1fe20ce814" type="Folder">65</container>
+            </did>
+          </c>
+          <c id="aspace_ref75" level="file">
+            <did>
+              <unittitle>Novick, Peter</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">December 28, 1991</unitdate>
+              <container altrender="Record carton" id="aspace_cd362824c8b84b59c73ada3519e90873" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_d6969a6623566573a967e658d74b6a9b" parent="aspace_cd362824c8b84b59c73ada3519e90873" type="Folder">66</container>
+            </did>
+          </c>
+          <c id="aspace_ref76" level="file">
+            <did>
+              <unittitle>O'Brien, Dave</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">September 13, 1991</unitdate>
+              <container altrender="Record carton" id="aspace_664b08a6ee0d1c2749aee68e55a2d1a4" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_6e51f8de833e978852e77f41f7fabc7f" parent="aspace_664b08a6ee0d1c2749aee68e55a2d1a4" type="Folder">67</container>
+            </did>
+          </c>
+          <c id="aspace_ref77" level="file">
+            <did>
+              <unittitle>O'Gorman, Ned</unittitle>
+              <unitdate datechar="creation" normal="1993/1993" type="inclusive">May 23, 1993</unitdate>
+              <container altrender="Record carton" id="aspace_7f1ece4d04d9ad0a98dcb652c935f03e" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_fc8ff6e98d1c531b64ce4925cf5f13e1" parent="aspace_7f1ece4d04d9ad0a98dcb652c935f03e" type="Folder">68</container>
+            </did>
+          </c>
+          <c id="aspace_ref78" level="file">
+            <did>
+              <unittitle>O'Neill, Roger</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">April 6, 1991</unitdate>
+              <container altrender="Record carton" id="aspace_fa5d5c7f6efacb6350ae370ebf51be04" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_0afef8b660ddfcb3e6bc94af72a77b79" parent="aspace_fa5d5c7f6efacb6350ae370ebf51be04" type="Folder">69</container>
+            </did>
+          </c>
+          <c id="aspace_ref79" level="file">
+            <did>
+              <unittitle>Padburg, John S.J.</unittitle>
+              <unitdate datechar="creation" normal="1990/1990" type="inclusive">February 13, 1990</unitdate>
+              <container altrender="Record carton" id="aspace_ff0ff17b9668861b60468c324b07f980" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_30c6502adad0a52ad316174aabb639a0" parent="aspace_ff0ff17b9668861b60468c324b07f980" type="Folder">70</container>
+            </did>
+          </c>
+          <c id="aspace_ref80" level="file">
+            <did>
+              <unittitle>Rawick, George</unittitle>
+              <unitdate datechar="creation" normal="1984/1984" type="inclusive">August 17, 1984</unitdate>
+              <container altrender="Record carton" id="aspace_c69b3abcef905d0da8a6714d435e4e9a" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_288e21dfa516ad8883fa3ae86610d29c" parent="aspace_c69b3abcef905d0da8a6714d435e4e9a" type="Folder">71</container>
+            </did>
+          </c>
+          <c id="aspace_ref81" level="file">
+            <did>
+              <unittitle>Reinert, Paul C. S.J.</unittitle>
+              <unitdate datechar="creation" normal="1990/1990" type="inclusive">December 13, 1990</unitdate>
+              <container altrender="Record carton" id="aspace_24e5838e952f26d7056e59fa8995c3d6" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_0891d3bcd68e97ab9a36ecd7795cb378" parent="aspace_24e5838e952f26d7056e59fa8995c3d6" type="Folder">72</container>
+            </did>
+          </c>
+          <c id="aspace_ref82" level="file">
+            <did>
+              <unittitle>Reuther, Victor</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">August 6, 1991</unitdate>
+              <container altrender="Record carton" id="aspace_14b641604ac20089a53daa9c3eb4f6d0" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_2e90d0690a0b0ebc5e01547f2776e80d" parent="aspace_14b641604ac20089a53daa9c3eb4f6d0" type="Folder">73</container>
+            </did>
+          </c>
+          <c id="aspace_ref83" level="file">
+            <did>
+              <unittitle>Roberts, Skip</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">August 6, 1991</unitdate>
+              <container altrender="Record carton" id="aspace_ce76bdcdacf7bcea799458e1cdce8017" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_0199367612decf156d70705b039016d8" parent="aspace_ce76bdcdacf7bcea799458e1cdce8017" type="Folder">74</container>
+            </did>
+          </c>
+          <c id="aspace_ref84" level="file">
+            <did>
+              <unittitle>Rosenberg, Bernie</unittitle>
+              <unitdate datechar="creation" normal="1983/1983" type="inclusive">October 6, 1983</unitdate>
+              <container altrender="Record carton" id="aspace_ce182679d16fc0ce982d0cebfa409b9c" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_8abc2ac06019857e580d6d87113fcc23" parent="aspace_ce182679d16fc0ce982d0cebfa409b9c" type="Folder">75</container>
+            </did>
+          </c>
+          <c id="aspace_ref85" level="file">
+            <did>
+              <unittitle>Rostow, Eugene</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">August 6, 1991</unitdate>
+              <container altrender="Record carton" id="aspace_4be8ef9b851530d8bdab1b680368649a" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_d32496ce95c36e2abbbb3691dfc5c9d6" parent="aspace_4be8ef9b851530d8bdab1b680368649a" type="Folder">76</container>
+            </did>
+          </c>
+          <c id="aspace_ref86" level="file">
+            <did>
+              <unittitle>Schori, Pierre</unittitle>
+              <unitdate datechar="creation" normal="1993/1993" type="inclusive">June 11, 1993</unitdate>
+              <container altrender="Record carton" id="aspace_f081d33853497f7a83c2ec69fd127865" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_2cfb0ac52cef32a5b1115d8edfb330dd" parent="aspace_f081d33853497f7a83c2ec69fd127865" type="Folder">77</container>
+            </did>
+          </c>
+          <c id="aspace_ref87" level="file">
+            <did>
+              <unittitle>Schiffrin, Andre</unittitle>
+              <unitdate datechar="creation" normal="1983/1983" type="inclusive">June 19, 1983</unitdate>
+              <container altrender="Record carton" id="aspace_0723f64385e5f6a747679b71f29ef87c" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_b29e7a2639bc16df7cc784348509751f" parent="aspace_0723f64385e5f6a747679b71f29ef87c" type="Folder">78</container>
+            </did>
+          </c>
+          <c id="aspace_ref88" level="file">
+            <did>
+              <unittitle>Schwartz, Joe</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">February 8, 1991</unitdate>
+              <container altrender="Record carton" id="aspace_5745077804f2b4de6ef304830e5f51df" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_a22c3ad3ce042cbe0cbcbd3e43161991" parent="aspace_5745077804f2b4de6ef304830e5f51df" type="Folder">79</container>
+            </did>
+          </c>
+          <c id="aspace_ref89" level="file">
+            <did>
+              <unittitle>Shier, Carl</unittitle>
+              <unitdate datechar="creation" normal="1990/1990" type="inclusive">November 4, 1990</unitdate>
+              <container altrender="Record carton" id="aspace_dce74fd4292f180a3fe4040c5657fcdd" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_a5417e46987d69196ba84f0fa8f5cfc5" parent="aspace_dce74fd4292f180a3fe4040c5657fcdd" type="Folder">80</container>
+            </did>
+          </c>
+          <c id="aspace_ref90" level="file">
+            <did>
+              <unittitle>Shier, Nancy and Roberta Lynch</unittitle>
+              <unitdate datechar="creation" normal="1992/1992" type="inclusive">April 3, 1992</unitdate>
+              <container altrender="Record carton" id="aspace_3af240ac61e88e876b3ea4044ed6ca02" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_1491751343ed7e7b5fff0c459027a667" parent="aspace_3af240ac61e88e876b3ea4044ed6ca02" type="Folder">81</container>
+            </did>
+          </c>
+          <c id="aspace_ref91" level="file">
+            <did>
+              <unittitle>Sheinbaum, Stanley K.</unittitle>
+              <unitdate datechar="creation" normal="1990/1990" type="inclusive">July 29, 1990</unitdate>
+              <container altrender="Record carton" id="aspace_54e5b5b84da071564a64e80b7e455e7b" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_b10316649c059d4cd91643be462078db" parent="aspace_54e5b5b84da071564a64e80b7e455e7b" type="Folder">82</container>
+            </did>
+          </c>
+          <c id="aspace_ref92" level="file">
+            <did>
+              <unittitle>Schoch, Jim</unittitle>
+              <unitdate datechar="creation" normal="1992/1992" type="inclusive">October 23, 1992</unitdate>
+              <container altrender="Record carton" id="aspace_51d4d413a3849f0137d7937de34f1825" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_9d092f25dac6384441ede71bf110e603" parent="aspace_51d4d413a3849f0137d7937de34f1825" type="Folder">83</container>
+            </did>
+          </c>
+          <c id="aspace_ref93" level="file">
+            <did>
+              <unittitle>Silbiger, Steve</unittitle>
+              <unitdate datechar="creation" normal="1992/1992" type="inclusive">March 10, 1992</unitdate>
+              <container altrender="Record carton" id="aspace_ff4cc1ca9c8452f1507d76f704f17698" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_e07e3a11d9fe1d0d1a7df1a364bacbf2" parent="aspace_ff4cc1ca9c8452f1507d76f704f17698" type="Folder">84</container>
+            </did>
+          </c>
+          <c id="aspace_ref94" level="file">
+            <did>
+              <unittitle>Stanley, John</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">July 25, 1991</unitdate>
+              <container altrender="Record carton" id="aspace_0e698e3fe359af7f28fea1ee1842eabe" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_b11e516e31e598438c54329312da4b12" parent="aspace_0e698e3fe359af7f28fea1ee1842eabe" type="Folder">85</container>
+            </did>
+          </c>
+          <c id="aspace_ref95" level="file">
+            <did>
+              <unittitle>Steinfels, Peter</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">October 14, 1991</unitdate>
+              <container altrender="Record carton" id="aspace_60937b2d12a80ba6cfbd894923786b92" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_e3a8e0e1d3d022218a902a3cd4e014a0" parent="aspace_60937b2d12a80ba6cfbd894923786b92" type="Folder">86</container>
+            </did>
+          </c>
+          <c id="aspace_ref96" level="file">
+            <did>
+              <unittitle>Stillman, Dan</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_272a6bc5812e6be0033ae7ab90d30444" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_5c3c3b93236f9c58c6ce7f1c0a1573b0" parent="aspace_272a6bc5812e6be0033ae7ab90d30444" type="Folder">87</container>
+            </did>
+          </c>
+          <c id="aspace_ref97" level="file">
+            <did>
+              <unittitle>Stuart, Jack</unittitle>
+              <unitdate datechar="creation" normal="1995/1995" type="inclusive">January 7, 1995</unitdate>
+              <container altrender="Record carton" id="aspace_bc4234f2a77d49c93e456241ace0ddc7" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_ce095a81caabd76f64ea3b541ed86d2f" parent="aspace_bc4234f2a77d49c93e456241ace0ddc7" type="Folder">88</container>
+            </did>
+          </c>
+          <c id="aspace_ref98" level="file">
+            <did>
+              <unittitle>Thomas, Bill -- notes on interview with</unittitle>
+              <unitdate datechar="creation" normal="1992/1992" type="inclusive">January 10, 1992</unitdate>
+              <container altrender="Record carton" id="aspace_02b6be1ff75ace92219162a2381e6841" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_a5f6a7ae90f5fa9fb5c2cc79d72a2cec" parent="aspace_02b6be1ff75ace92219162a2381e6841" type="Folder">89</container>
+            </did>
+          </c>
+          <c id="aspace_ref99" level="file">
+            <did>
+              <unittitle>Thyessen, Freijof</unittitle>
+              <unitdate datechar="creation" normal="1984/1984" type="inclusive">December 8, 1984</unitdate>
+              <container altrender="Record carton" id="aspace_a50fa61bf466b4c2935796490decf723" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_722a0611a82888309ba4cac63e3219e1" parent="aspace_a50fa61bf466b4c2935796490decf723" type="Folder">90</container>
+            </did>
+          </c>
+          <c id="aspace_ref100" level="file">
+            <did>
+              <unittitle>Towey, Martin</unittitle>
+              <unitdate datechar="creation" normal="1992/1992" type="inclusive">May 14, 1992</unitdate>
+              <container altrender="Record carton" id="aspace_537e67ffea1d932e016dc0de1cfa8654" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_ac179e9e9f5a7c61fd257280ab6d1af7" parent="aspace_537e67ffea1d932e016dc0de1cfa8654" type="Folder">91</container>
+            </did>
+          </c>
+          <c id="aspace_ref101" level="file">
+            <did>
+              <unittitle>Trilling, Diana</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">July 25, 1991</unitdate>
+              <container altrender="Record carton" id="aspace_bc0f58c513215f818815e28280d660b1" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_755d7b584fb1e59e79aa797df2811ec3" parent="aspace_bc0f58c513215f818815e28280d660b1" type="Folder">92</container>
+            </did>
+          </c>
+          <c id="aspace_ref102" level="file">
+            <did>
+              <unittitle>Tristman, Dorothy and Larry Wittner</unittitle>
+              <unitdate datechar="creation" normal="1984/1984" type="inclusive">July 4, 1984</unitdate>
+              <container altrender="Record carton" id="aspace_4f40c083b1418406463dbc7d4e657551" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_169d48c4035c835f1fbe4fc761810efc" parent="aspace_4f40c083b1418406463dbc7d4e657551" type="Folder">93</container>
+            </did>
+          </c>
+          <c id="aspace_ref103" level="file">
+            <did>
+              <unittitle>Wakefield, Dan</unittitle>
+              <unitdate datechar="creation" normal="1993/1993" type="inclusive">February 7, 1993</unitdate>
+              <container altrender="Record carton" id="aspace_85b26e8c65c02bd9a105d7fa6e3fd066" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_c6823c1e4881bf5f2db67e64263aac3a" parent="aspace_85b26e8c65c02bd9a105d7fa6e3fd066" type="Folder">94</container>
+            </did>
+          </c>
+          <c id="aspace_ref104" level="file">
+            <did>
+              <unittitle>Walzer, Michael</unittitle>
+              <unitdate datechar="creation" normal="1986/1986" type="inclusive">March 20, 1986</unitdate>
+              <container altrender="Record carton" id="aspace_17af0ed36dcc9c3197263c7e98159c91" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_a4752b4c955780aeda98cb48a3d4df3d" parent="aspace_17af0ed36dcc9c3197263c7e98159c91" type="Folder">95</container>
+            </did>
+          </c>
+          <c id="aspace_ref105" level="file">
+            <did>
+              <unittitle>Warwick, Jane</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">January 6, 1991</unitdate>
+              <container altrender="Record carton" id="aspace_d30b6cfbc38b823a2bead68e46075f9b" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_777463d956ad04e0866f99d8106f4316" parent="aspace_d30b6cfbc38b823a2bead68e46075f9b" type="Folder">96</container>
+            </did>
+          </c>
+          <c id="aspace_ref106" level="file">
+            <did>
+              <unittitle>Wilkerson, Jerome Msgr</unittitle>
+              <unitdate datechar="creation" normal="1992/1992" type="inclusive">May 13, 1992</unitdate>
+              <container altrender="Record carton" id="aspace_90de1859ab86c4bf273084ef70011146" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_a42e99504fcbf65b3447217c3bdcb284" parent="aspace_90de1859ab86c4bf273084ef70011146" type="Folder">97</container>
+            </did>
+          </c>
+          <c id="aspace_ref107" level="file">
+            <did>
+              <unittitle>Zimmerman, Fred Father</unittitle>
+              <unitdate datechar="creation" normal="1990/1990" type="inclusive">December 13, 1990</unitdate>
+              <container altrender="Record carton" id="aspace_9c621d252fbc819e40905b1d5d2972dc" label="Mixed Materials [31142062733566]" type="Box">1</container>
+              <container id="aspace_a5a7df599599071e1da5e309b7ba77c2" parent="aspace_9c621d252fbc819e40905b1d5d2972dc" type="Folder">98</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref109" level="subseries">
+          <did>
+            <unittitle>Subseries IB: Topical Files</unittitle>
+          </did>
+          <c id="aspace_ref110" level="file">
+            <did>
+              <unittitle>Chicago</unittitle>
+              <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+              <container altrender="Record carton" id="aspace_9814f2b7b2099021505c729167d98671" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_8e8e200ce430f286c22f9cfea5677ead" parent="aspace_9814f2b7b2099021505c729167d98671" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref111" level="file">
+            <did>
+              <unittitle>Civil Rights</unittitle>
+              <unitdate datechar="creation" normal="1959/1992" type="inclusive">1959-1992</unitdate>
+              <container altrender="Record carton" id="aspace_6c3cd1f374c141190635ae901e3b0b16" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_520c715d817fb774c87e1137d622606b" parent="aspace_6c3cd1f374c141190635ae901e3b0b16" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref112" level="file">
+            <did>
+              <unittitle>Conservatives</unittitle>
+              <unitdate datechar="creation" normal="1980/1989" type="inclusive">1980s</unitdate>
+              <container altrender="Record carton" id="aspace_a9d0ddd124f9a6364c8b95f543af0b0e" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_7fcaaf75734a1b6b224474b5fdb18d2b" parent="aspace_a9d0ddd124f9a6364c8b95f543af0b0e" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref113" level="file">
+            <did>
+              <unittitle>Democratic Agenda</unittitle>
+              <unitdate datechar="creation" normal="1986/1987" type="inclusive">1986-1987</unitdate>
+              <container altrender="Record carton" id="aspace_f7e97c6ebf43dbb77f8bc1c2e767b2bd" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_7961220baea52fbc2f35dd0e7ccabbfc" parent="aspace_f7e97c6ebf43dbb77f8bc1c2e767b2bd" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref114" level="file">
+            <did>
+              <unittitle>Democratic Socialists of America</unittitle>
+              <unitdate datechar="creation" normal="1983/1989" type="inclusive">1983-1989</unitdate>
+              <container altrender="Record carton" id="aspace_539b28e7c11661ccdebf522174161d62" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_bd9d028730965b2f2741c90db8d4a98a" parent="aspace_539b28e7c11661ccdebf522174161d62" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref115" level="file">
+            <did>
+              <unittitle>DSOC</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+              <container altrender="Record carton" id="aspace_19ae59f759b74ea7f0fb479a770bc180" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_0847d295bade5bb75795acded2525ecc" parent="aspace_19ae59f759b74ea7f0fb479a770bc180" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref116" level="file">
+            <did>
+              <unittitle>Fund for the Republic</unittitle>
+              <unitdate datechar="creation" normal="1956/1956" type="inclusive">circa 1956</unitdate>
+              <container altrender="Record carton" id="aspace_2a5bc3aaf5cb3ea6875d48d7f2341987" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_bfada79bc5476820dc11c923d5317261" parent="aspace_2a5bc3aaf5cb3ea6875d48d7f2341987" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref117" level="file">
+            <did>
+              <unittitle>Harrington, Michael - Family</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_090a2e2dfa0dd6b2f46fb6fd11b8658d" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_b41b0a175e1201d048af112e1ca64da3" parent="aspace_090a2e2dfa0dd6b2f46fb6fd11b8658d" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref118" level="file">
+            <did>
+              <unittitle>Harrington, Michael - Family</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_7deef589ddfaaa638d8b6da340d562dc" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_20a3488984cb0292cfae887681540675" parent="aspace_7deef589ddfaaa638d8b6da340d562dc" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref119" level="file">
+            <did>
+              <unittitle>Harrington, Michael - Illness</unittitle>
+              <unitdate datechar="creation" normal="1985/1989" type="inclusive">1985-1989</unitdate>
+              <container altrender="Record carton" id="aspace_86060ed31f15ba13e9b8c05b7faa453b" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_312e850781a56a9a6cb3648e000cdedd" parent="aspace_86060ed31f15ba13e9b8c05b7faa453b" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_5be37b66d11b2172331bc0e6e59f8193" level="file">
+            <did>
+              <unittitle>Harrington, Michael - Personal Correspondence</unittitle>
+              <unitdate datechar="creation" normal="1948/1951" type="inclusive">1948-1951</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_941d81f927d9cbc3a012ce6cc71d46fe" label="Mixed Materials [31142062733590]" type="Box">5</container>
+              <container id="aspace_4a2433975087040addf21390b9ea6205" parent="aspace_941d81f927d9cbc3a012ce6cc71d46fe" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref120" level="file">
+            <did>
+              <unittitle>Holy Cross</unittitle>
+              <unitdate datechar="creation" normal="1945/1991" type="inclusive">1945-1991</unitdate>
+              <container altrender="Record carton" id="aspace_2b3d60f85c8f257673e568e87218fc4f" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_e3d01b7544aa8d813d5447004ce67f65" parent="aspace_2b3d60f85c8f257673e568e87218fc4f" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref121" level="file">
+            <did>
+              <unittitle>Howe, Irving</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_84c45c4d6306ef7d943c926f152c55fb" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_1f828491a6035ba52777707b74dcefda" parent="aspace_84c45c4d6306ef7d943c926f152c55fb" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref122" level="file">
+            <did>
+              <unittitle>Ireland</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+              <container altrender="Record carton" id="aspace_4ed6afc32cd9b52d470197da1d4c8c9f" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_09023c118b6f62bf131ecd61bde0c00f" parent="aspace_4ed6afc32cd9b52d470197da1d4c8c9f" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref123" level="file">
+            <did>
+              <unittitle>Jews &amp; Israel</unittitle>
+              <unitdate datechar="creation" normal="1970/1992" type="inclusive">1970-1992</unitdate>
+              <container altrender="Record carton" id="aspace_27ee938dfa8723fd62de601e06c374b8" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_8950ee2fa6e282679a76f12e56cf134b" parent="aspace_27ee938dfa8723fd62de601e06c374b8" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref124" level="file">
+            <did>
+              <unittitle>Labor Movement</unittitle>
+              <unitdate datechar="creation" normal="1965/1994" type="inclusive">1965-1994</unitdate>
+              <container altrender="Record carton" id="aspace_2fefc6d9a3b54cbb96d8904192c8b91f" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_343cc7e42f51e478ac3685cbcb390618" parent="aspace_2fefc6d9a3b54cbb96d8904192c8b91f" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref125" level="file">
+            <did>
+              <unittitle>League for Industrial Democracy</unittitle>
+              <unitdate datechar="creation" normal="1964/1995" type="inclusive">1964-1995</unitdate>
+              <container altrender="Record carton" id="aspace_538fa6e6b062bec0d88c6f1440b489e8" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_159762e66742ee5415d343ee1c0c70d2" parent="aspace_538fa6e6b062bec0d88c6f1440b489e8" type="Folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_ref126" level="file">
+            <did>
+              <unittitle>McReynolds, Dave</unittitle>
+              <unitdate datechar="creation" normal="1950/1959" type="inclusive">1950s</unitdate>
+              <container altrender="Record carton" id="aspace_4c41da27e9041717124f0c3f4dd316cd" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_9ac53b60f407153f2667536405ab9baf" parent="aspace_4c41da27e9041717124f0c3f4dd316cd" type="Folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_ref127" level="file">
+            <did>
+              <unittitle>New Left</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_8b5509de6cc2f52930ff86ffa581e20a" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_13a14bfcba73cd90d71d8a4072f9dd10" parent="aspace_8b5509de6cc2f52930ff86ffa581e20a" type="Folder">18</container>
+            </did>
+          </c>
+          <c id="aspace_ref128" level="file">
+            <did>
+              <unittitle>Queens College</unittitle>
+              <unitdate datechar="creation" normal="1975/1989" type="inclusive">1975-1989</unitdate>
+              <container altrender="Record carton" id="aspace_94dd007c965ec936b599c22a2b656ee6" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_7dead623d3411d29d0e0a069cb01c995" parent="aspace_94dd007c965ec936b599c22a2b656ee6" type="Folder">19</container>
+            </did>
+          </c>
+          <c id="aspace_ref129" level="file">
+            <did>
+              <unittitle>Releases</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_b9d4461ffb9422ad1913946da729d316" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_330357eac116d25748d02b2b2ad14dc9" parent="aspace_b9d4461ffb9422ad1913946da729d316" type="Folder">20</container>
+            </did>
+          </c>
+          <c id="aspace_ref130" level="file">
+            <did>
+              <unittitle>Reviews of Michael Harrington</unittitle>
+              <unitdate datechar="creation" normal="1965/1987" type="inclusive">1965-1987</unitdate>
+              <container altrender="Record carton" id="aspace_900bc68d359bee3e79441691a1b4f0a9" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_53ab63ed1b7c7c4dafeb7724eabacbff" parent="aspace_900bc68d359bee3e79441691a1b4f0a9" type="Folder">21</container>
+            </did>
+          </c>
+          <c id="aspace_ref131" level="file">
+            <did>
+              <unittitle>Rustin, Baynard</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_2594a82295aaabb3f39420d71941627a" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_4a5c0efb472d7a22f05327c1cdbcbeb6" parent="aspace_2594a82295aaabb3f39420d71941627a" type="Folder">22</container>
+            </did>
+          </c>
+          <c id="aspace_ref132" level="file">
+            <did>
+              <unittitle>St. Louis University High School</unittitle>
+              <unitdate datechar="creation" normal="1940/1944" type="inclusive">1940-1944</unitdate>
+              <container altrender="Record carton" id="aspace_195a79f765c8b185f4481f584a95d0db" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_7c3c38df3ff5381b928c335fe666f3a4" parent="aspace_195a79f765c8b185f4481f584a95d0db" type="Folder">23</container>
+            </did>
+          </c>
+          <c id="aspace_ref133" level="file">
+            <did>
+              <unittitle>SDUSA (Social Democrats, USA)</unittitle>
+              <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+              <container altrender="Record carton" id="aspace_436adefd5b3344c098be89a6d00cc580" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_4fc47be4ab04782975b55ea7157972da" parent="aspace_436adefd5b3344c098be89a6d00cc580" type="Folder">24</container>
+            </did>
+          </c>
+          <c id="aspace_ref134" level="file">
+            <did>
+              <unittitle>Shachtman / ISL</unittitle>
+              <unitdate datechar="creation" normal="1984/1996" type="inclusive">1984-1996</unitdate>
+              <container altrender="Record carton" id="aspace_b140a2ca93696619861b7323c141cdff" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_b12f00372ca2f853a32d6120096400fb" parent="aspace_b140a2ca93696619861b7323c141cdff" type="Folder">25</container>
+            </did>
+          </c>
+          <c id="aspace_ref135" level="file">
+            <did>
+              <unittitle>Socialism, history &amp; future</unittitle>
+              <unitdate datechar="creation" normal="1970/1979" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_4cc6fd7689b5b7ed51ee52c0d7f221f2" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_0caf84abbd2e442781236c6bc6ab92eb" parent="aspace_4cc6fd7689b5b7ed51ee52c0d7f221f2" type="Folder">26</container>
+            </did>
+          </c>
+          <c id="aspace_ref136" level="file">
+            <did>
+              <unittitle>Socialist International</unittitle>
+              <unitdate datechar="creation" normal="1977/1996" type="inclusive">1977-1996</unitdate>
+              <container altrender="Record carton" id="aspace_6b72083ed9880233793c3f8bdb0500b9" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_6022ccb2764ccf61ab3c2fa950e0e9f2" parent="aspace_6b72083ed9880233793c3f8bdb0500b9" type="Folder">27</container>
+            </did>
+          </c>
+          <c id="aspace_ref137" level="file">
+            <did>
+              <unittitle>Socialist Party</unittitle>
+              <unitdate datechar="creation" normal="1960/1969" type="inclusive">1960s</unitdate>
+              <container altrender="Record carton" id="aspace_fc99e8c3f2c3e159dbaf09e12c807b03" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_2f908738c74ceef66f8989c30133c9b9" parent="aspace_fc99e8c3f2c3e159dbaf09e12c807b03" type="Folder">28</container>
+            </did>
+          </c>
+          <c id="aspace_ref138" level="file">
+            <did>
+              <unittitle>Socialist Party</unittitle>
+              <unitdate datechar="creation" normal="1960/1969" type="inclusive">1960s</unitdate>
+              <container altrender="Record carton" id="aspace_e53326dc0a62b5423203df75fe2e6e90" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_c1b63907eff1932c8d23805dae175162" parent="aspace_e53326dc0a62b5423203df75fe2e6e90" type="Folder">29</container>
+            </did>
+          </c>
+          <c id="aspace_ref139" level="file">
+            <did>
+              <unittitle>Vietnam War</unittitle>
+              <unitdate datechar="creation" normal="1971/1993" type="inclusive">1971-1993</unitdate>
+              <container altrender="Record carton" id="aspace_a0bb65bc71a2e2f4e4e1cb4190b3d198" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_23b97fccf65d77b4e2bd5bc988c60b98" parent="aspace_a0bb65bc71a2e2f4e4e1cb4190b3d198" type="Folder">30</container>
+            </did>
+          </c>
+          <c id="aspace_ref140" level="file">
+            <did>
+              <unittitle>Village Voice</unittitle>
+              <unitdate datechar="creation" normal="1950/1991" type="inclusive">1950s-1991</unitdate>
+              <container altrender="Record carton" id="aspace_8b71ff0e30ec36bc00dd0e1cf054ef07" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_8d2638459dbeb19de0809820a9934d3b" parent="aspace_8b71ff0e30ec36bc00dd0e1cf054ef07" type="Folder">31</container>
+            </did>
+          </c>
+          <c id="aspace_ref141" level="file">
+            <did>
+              <unittitle>Workers Defense League</unittitle>
+              <unitdate datechar="creation" normal="1984/1991" type="inclusive">1984-1991</unitdate>
+              <container altrender="Record carton" id="aspace_d24a21cfc09c6bca23393234dc74dc42" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_baac40356a9492f3d1efec2a1e1f84aa" parent="aspace_d24a21cfc09c6bca23393234dc74dc42" type="Folder">32</container>
+            </did>
+          </c>
+          <c id="aspace_ref142" level="file">
+            <did>
+              <unittitle>Yale Law School</unittitle>
+              <unitdate datechar="creation" normal="1984/1992" type="inclusive">1984-1992</unitdate>
+              <container altrender="Record carton" id="aspace_79fceb383eba86c50d8d97c174148204" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_c44b32fde15ca5a29dca38d74c91ed45" parent="aspace_79fceb383eba86c50d8d97c174148204" type="Folder">33</container>
+            </did>
+          </c>
+          <c id="aspace_ref143" level="file">
+            <did>
+              <unittitle>YPSL (Young Peoples Socialist League)</unittitle>
+              <unitdate datechar="creation" normal="1971/1991" type="inclusive">1971-1991</unitdate>
+              <container altrender="Record carton" id="aspace_5a670d0113e2fbc9a95f04809713f1bc" label="Mixed Materials [31142062733376]" type="Box">2</container>
+              <container id="aspace_30d68c5dbf7fe73f3196f47511b9c17f" parent="aspace_5a670d0113e2fbc9a95f04809713f1bc" type="Folder">34</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_c0d17668e628f45b2f7967c0d82ea87a" level="subseries">
+          <did>
+            <unittitle>Subseries IC: Newspaper Clippings by and about Michael Harrington</unittitle>
+          </did>
+          <c id="aspace_33507d48e3e41576e7175163006c9096" level="file">
+            <did>
+              <unittitle>Harrington clippings</unittitle>
+              <unitdate datechar="creation" normal="1951/1983" type="inclusive">1951-1983</unitdate>
+              <container altrender="Record carton" id="aspace_3af493dd2d56df7f53a95378dc8fc2c1" label="Mixed Materials [31142062733574]" type="Box">3</container>
+              <container id="aspace_baf25319ab2b37f23a1dd9373173676f" parent="aspace_3af493dd2d56df7f53a95378dc8fc2c1" type="Folder">1-33</container>
+            </did>
+          </c>
+          <c id="aspace_1e3f74775b59aacd0965bbf6ae28860e" level="file">
+            <did>
+              <unittitle>Harrington clippings</unittitle>
+              <unitdate datechar="creation" normal="1984/1989" type="inclusive">1984-1989</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_df8ccd61d7efd815de4ec2a979219475" label="Mixed Materials [31142062733582]" type="Box">4</container>
+              <container id="aspace_502fd274a88b4cb27d85802daaf11c8b" parent="aspace_df8ccd61d7efd815de4ec2a979219475" type="Folder">1-6</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref184" level="subseries">
+          <did>
+            <unittitle>Subseries ID: FOIA FIles (by file number)</unittitle>
+          </did>
+          <c id="aspace_ref185" level="file">
+            <did>
+              <unittitle>FOIPA HQ 100-411915 Vol. 1 - 1 out of 2</unittitle>
+              <container altrender="Manuscript box - Legal" id="aspace_c3ac922531abffb22e430cf5e2e29900" label="Mixed Materials [31142062733582]" type="Box">4</container>
+              <container id="aspace_2983628238247ae54e0e137fb453dc61" parent="aspace_c3ac922531abffb22e430cf5e2e29900" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref186" level="file">
+            <did>
+              <unittitle>FOIPA HQ 100-411915 Vol. 1 - 2 out of 2</unittitle>
+              <container altrender="Manuscript box - Legal" id="aspace_a15860761c538685d21d1b843fc1eee5" label="Mixed Materials [31142062733582]" type="Box">4</container>
+              <container id="aspace_3106cbbfb7ba8eda723cc8d8325c2377" parent="aspace_a15860761c538685d21d1b843fc1eee5" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref187" level="file">
+            <did>
+              <unittitle>FOIPA HQ 100-411915 Vol. 2 - 1 out of 2</unittitle>
+              <container altrender="Manuscript box - Legal" id="aspace_541fceb8aa9c05cbfc724308aa5003b0" label="Mixed Materials [31142062733582]" type="Box">4</container>
+              <container id="aspace_169645f05a53f4564a21bdec24b676a6" parent="aspace_541fceb8aa9c05cbfc724308aa5003b0" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref188" level="file">
+            <did>
+              <unittitle>FOIPA HQ 100-411915 Vol. 2 - 2 out of 2</unittitle>
+              <container altrender="Manuscript box - Legal" id="aspace_64628d2bfe697f1f51497c7645359623" label="Mixed Materials [31142062733582]" type="Box">4</container>
+              <container id="aspace_616be40324bc2ab4d3a9380a36392f8d" parent="aspace_64628d2bfe697f1f51497c7645359623" type="Folder">10</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_a74666b4d06d84d30656cd4140738c1a" level="file">
+          <did>
+            <unittitle>Unprocessed Videos</unittitle>
+            <container altrender="Manuscript box - Legal" id="aspace_d30bfa9069037681e59c863c48d29fa9" label="Moving Images [31142063434313]" type="Box">6</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_daff99b1385f43ba4503c71d7bfd6175" level="series">
+        <did>
+          <unittitle>Series II: Early Research Files</unittitle>
+          <unitdate datechar="creation" normal="1977/1980" type="inclusive">1977-1980</unitdate>
+        </did>
+        <c id="aspace_e64c4f383d8a6683b26fb4707a964efe" level="file">
+          <did>
+            <unittitle>Clark, Joe Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1979/1982" type="inclusive">1979-1982</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7aaf6c301d6ded7439be2e9952937b56" label="Mixed Materials [31142062733590]" type="Box">5</container>
+            <container id="aspace_fae911c1f81888db6c52fd538d12b0ec" parent="aspace_7aaf6c301d6ded7439be2e9952937b56" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_21944a078fa81d8b3a562c4d6fc49bdd" level="file">
+          <did>
+            <unittitle>Communist Party Meetings and Office of Strategic Services (OSS)</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_620e70f29562ff9443af8dcf659de66f" label="Mixed Materials [31142062733590]" type="Box">5</container>
+            <container id="aspace_f521290bf06d94c6ea695a5c50f0cd10" parent="aspace_620e70f29562ff9443af8dcf659de66f" type="Folder">2-3</container>
+          </did>
+        </c>
+        <c id="aspace_fccd7689db2d598ea263d6b958ac2310" level="file">
+          <did>
+            <unittitle>Communist Party Political Committee Meetings</unittitle>
+            <unitdate datechar="creation" normal="1935/1940" type="inclusive">1935-1940</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9325e10589c798b3c5102808a5a17d87" label="Mixed Materials [31142062733590]" type="Box">5</container>
+            <container id="aspace_8a4f2216b86aee940e1a4c121fcc3401" parent="aspace_9325e10589c798b3c5102808a5a17d87" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_5d8c670da9ef9fde0d2633f7a8d4ea68" level="file">
+          <did>
+            <unittitle>Correspondence Regarding Earl Browder</unittitle>
+            <unitdate datechar="creation" normal="1977/1982" type="inclusive">1977-1982</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1ba918bd90e1e98a3ace9b17eddb726a" label="Mixed Materials [31142062733590]" type="Box">5</container>
+            <container id="aspace_456d3027aa25ccb1cc3d40bfea5ffcc1" parent="aspace_1ba918bd90e1e98a3ace9b17eddb726a" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_756825f4552e07ab6796087b2ed902a8" level="file">
+          <did>
+            <unittitle>Nelson, Steve Interview</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bd90a39536aa3c7f7d0f68816899868e" label="Mixed Materials [31142062733590]" type="Box">5</container>
+            <container id="aspace_79e7cdb21ab0b137fd017b04cac3a05b" parent="aspace_bd90a39536aa3c7f7d0f68816899868e" type="Folder">6</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

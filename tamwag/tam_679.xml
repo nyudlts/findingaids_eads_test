@@ -1,64 +1,644 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_679">tam_679</eadid><filedesc><titlestmt><titleproper>Guide to the Marc Kagan Research Collection on the Transit Workers Union <num>TAM.679</num></titleproper><author>Emma Sarconi</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>10/27/2015</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 06:50:56 -0400</date>.</creation><langusage>Description written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>April 2023</date><item>Record updated by Rachel Searcy to reflect 2023 accretion</item></change></revisiondesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Marc Kagan Research Collection on the Transit Workers Union</unittitle>
-    <origination label="Creator">
-      <persname rules="dacs" source="local">Kagan, Marc</persname>
-    </origination>
-    <origination label="source">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/tam_679">tam_679</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Marc Kagan Research Collection on the Transit Workers Union <num>TAM.679</num></titleproper>
+        <author>Emma Sarconi</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>10/27/2015</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 06:50:56 -0400</date>.</creation>
+      <langusage>Description written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>April 2023</date>
+        <item>Record updated by Rachel Searcy to reflect 2023 accretion</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Marc Kagan Research Collection on the Transit Workers Union</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Kagan, Marc</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Kagan, Marc</persname>
+      </origination>
+      <unitid>TAM.679</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4.5 Linear Feet</extent>
+        <extent altrender="carrier">in 4 record cartons, 1 manuscript box, and 28 computer files</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">16.15 Gigabytes</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1980/2023" type="inclusive">1980-2023</unitdate>
+      <unitdate datechar="creation" normal="2001/2003" type="bulk">2001-2003</unitdate>
+      <abstract id="aspace_22c6788d29e4a0d2f18c596be970ecbf">Marc Kagan is a union activist and educator who was a member and leader of the Transport Union Workers (TWU) Local 100 from 1984 through 2010. Kagan's union involvement increased during the 1990s, and he joined the New Directions caucus challenging the leadership of the TWU. In 2000, New Directions leader Roger Toussaint was elected union president, and Kagan became his chief of staff. In 2010, Kagan left the union over a dispute concerning the 2002 contract he helped negotiate. This collection documents the general operations of the TWU during the late 1990s and early 2000s, as well as Kagan's personal membership in and relationship with the organization as both a union member and its chief of staff. The majority of materials document the negotiations surrounding the 2002 union contract including grievances and implementation issues, as well as concerns about sick leave, health benefits, safety issues, apprenticeship implementation, and child care support. The files are both paper and electronic, though the bulk of the records are paper.</abstract>
+      <physloc id="aspace_0779787b87097524b26a782fe32f7f1d">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_36277a2444464825ba5fcbc861f4cd41">Materials are in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_96257717a2b1ab46c6a0ba270276b82f">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_782871cb2480b6d4fd5f1d14a1d6c7a1">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Marc Kagan in 2015. The accession number associated with this gift is 2015.057. Kagan donated an accretion of electronic oral history interview recordings in January 2023; the accession number associated with this gift is 2023.027.</p>
+    </acqinfo>
+    <arrangement id="aspace_00ecec1306af6330cb216601ef39441a">
+      <head>Arrangement</head>
+      <p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>
+    </arrangement>
+    <bioghist id="aspace_d50f027f1fadf85ff6c1a1b1d97e5226">
+      <head>Biographical Note</head>
+      <p>Marc Kagan is a union activist and educator who was a member and leader of the Transport Union Workers (TWU) Local 100 from 1984 through 2010. After graduating from Yale University, Kagan took a job as a mechanic and forklift operator at the 207th Street subway yard in Upper Manhattan. Kagan's union involvement grew during the 1990s, and he joined the New Directions caucus that challenged the leadership of the TWU. In 2000, New Directions leader Roger Toussaint was elected union president, and Kagan became his chief of staff. In 2010, Kagan left the union over a dispute concerning the 2002 contract he helped negotiate and became a history teacher at the Bronx High School of Science. He is the older brother of Supreme Court Justice Elena Kagan.</p>
+    </bioghist>
+    <prefercite id="aspace_8540c3130d0d5028b826cbe793e311da">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Marc Kagan Research Collection on the Transit Workers Union; TAM.679; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_f4203809ba66403bf8d8bbd0cc525d21">
+      <head>Processing Information</head>
+      <p>At the time of accessioning, materials were rehoused in acid-free boxes and some materials were rehoused in archival folders when the original folders showed significant damage. The order of the materials as maintained by the donor has been retained, and no arrangement took place. Folder titles are original to the donor, and have been transcribed directly into the inventory. Digital oral history interviews were viewed using a write-blocker, but have not been forensically imaged and preservation access derivates have not been generated.</p>
+      <p>In April 2023, an accretion of electronic oral history interview recordings was transferred from a hard drive to mounted network storage, and described. The collection was also renamed the Marc Kagan Research Collection on the Transit Workers Union to better reflect its content.</p>
+    </processinfo>
+    <scopecontent id="aspace_ea55d7ee773dc07c75d0c265ff9a56fc">
+      <head>Scope and Contents</head>
+      <p>This collection documents the general operations of the Transport Workers Union (TWU) during the late 1990s and early 2000s, as well as Kagan's personal membership in and relationship with the organization as both a union member and its chief of staff. Materials include memoranda, correspondence, oral histories, and newspaper clippings concerning negotiations about the 2002 union contract including grievances and implementation issues, as well as concerns about sick leave, health benefits, safety issues, apprenticeship implementation, and child care support. The electronic oral histories were conducted by Kagan and feature current and former TWU members on the subject of the New Directions opposition caucus and a 2005 TWU strike. The files are both paper and electronic, though the bulk of the records are paper.</p>
+    </scopecontent>
+    <phystech id="aspace_aa7a82a6c72e877c932fd3e8c8463dba">
+      <head>Born-Digital Access Policies and Procedures</head>
+      <p>Advance notice is required for the use of computer records.  Original physical digital media is restricted.  Born-digital materials have not been transferred and may not be available to researchers. Researchers may request access copies.  To request that material be transferred, or if you are unsure if material has been transferred, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
+    </phystech>
+    <userestrict id="aspace_2c1ef8cae83fc22a73f6334280bca0d0">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Marc Kagan, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="lcsh">Labor unions -- Organizing -- New York (N.Y.)</subject>
+      <subject source="lcsh">Transport workers -- New York (N.Y.)</subject>
+      <subject source="lcsh">Labor unions -- New York (State) -- New York -- Political activity</subject>
+      <corpname authfilenumber="(lccn)n93014355" source="naf">Transport Workers Union of America. Local 100</corpname>
       <persname role="dnr" rules="dacs" source="local">Kagan, Marc</persname>
-    </origination>
-    <unitid>TAM.679</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">4.5 Linear Feet</extent>
-      <extent altrender="carrier">in 4 record cartons, 1 manuscript box, and 28 computer files</extent>
-    </physdesc>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">16.15 Gigabytes</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1980/2023" type="inclusive">1980-2023</unitdate>
-    <unitdate datechar="creation" normal="2001/2003" type="bulk">2001-2003</unitdate>
-    <abstract id="aspace_22c6788d29e4a0d2f18c596be970ecbf">Marc Kagan is a union activist and educator who was a member and leader of the Transport Union Workers (TWU) Local 100 from 1984 through 2010. Kagan's union involvement increased during the 1990s, and he joined the New Directions caucus challenging the leadership of the TWU. In 2000, New Directions leader Roger Toussaint was elected union president, and Kagan became his chief of staff. In 2010, Kagan left the union over a dispute concerning the 2002 contract he helped negotiate. This collection documents the general operations of the TWU during the late 1990s and early 2000s, as well as Kagan's personal membership in and relationship with the organization as both a union member and its chief of staff. The majority of materials document the negotiations surrounding the 2002 union contract including grievances and implementation issues, as well as concerns about sick leave, health benefits, safety issues, apprenticeship implementation, and child care support. The files are both paper and electronic, though the bulk of the records are paper.</abstract>
-    <physloc id="aspace_0779787b87097524b26a782fe32f7f1d">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
-    <langmaterial id="aspace_36277a2444464825ba5fcbc861f4cd41">Materials are in English.</langmaterial>
-  </did>
-  <accessrestrict id="aspace_96257717a2b1ab46c6a0ba270276b82f">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_782871cb2480b6d4fd5f1d14a1d6c7a1">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Marc Kagan in 2015. The accession number associated with this gift is 2015.057. Kagan donated an accretion of electronic oral history interview recordings in January 2023; the accession number associated with this gift is 2023.027.</p>  </acqinfo>
-  <arrangement id="aspace_00ecec1306af6330cb216601ef39441a">
-    <head>Arrangement</head>
-<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
-  <bioghist id="aspace_d50f027f1fadf85ff6c1a1b1d97e5226">
-    <head>Biographical Note</head>
-<p>Marc Kagan is a union activist and educator who was a member and leader of the Transport Union Workers (TWU) Local 100 from 1984 through 2010. After graduating from Yale University, Kagan took a job as a mechanic and forklift operator at the 207th Street subway yard in Upper Manhattan. Kagan's union involvement grew during the 1990s, and he joined the New Directions caucus that challenged the leadership of the TWU. In 2000, New Directions leader Roger Toussaint was elected union president, and Kagan became his chief of staff. In 2010, Kagan left the union over a dispute concerning the 2002 contract he helped negotiate and became a history teacher at the Bronx High School of Science. He is the older brother of Supreme Court Justice Elena Kagan.</p>  </bioghist>
-  <prefercite id="aspace_8540c3130d0d5028b826cbe793e311da">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Marc Kagan Research Collection on the Transit Workers Union; TAM.679; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <processinfo id="aspace_f4203809ba66403bf8d8bbd0cc525d21">
-    <head>Processing Information</head>
-<p>At the time of accessioning, materials were rehoused in acid-free boxes and some materials were rehoused in archival folders when the original folders showed significant damage. The order of the materials as maintained by the donor has been retained, and no arrangement took place. Folder titles are original to the donor, and have been transcribed directly into the inventory. Digital oral history interviews were viewed using a write-blocker, but have not been forensically imaged and preservation access derivates have not been generated.</p><p>In April 2023, an accretion of electronic oral history interview recordings was transferred from a hard drive to mounted network storage, and described. The collection was also renamed the Marc Kagan Research Collection on the Transit Workers Union to better reflect its content.</p>  </processinfo>
-  <scopecontent id="aspace_ea55d7ee773dc07c75d0c265ff9a56fc">
-    <head>Scope and Contents</head>
-<p>This collection documents the general operations of the Transport Workers Union (TWU) during the late 1990s and early 2000s, as well as Kagan's personal membership in and relationship with the organization as both a union member and its chief of staff. Materials include memoranda, correspondence, oral histories, and newspaper clippings concerning negotiations about the 2002 union contract including grievances and implementation issues, as well as concerns about sick leave, health benefits, safety issues, apprenticeship implementation, and child care support. The electronic oral histories were conducted by Kagan and feature current and former TWU members on the subject of the New Directions opposition caucus and a 2005 TWU strike. The files are both paper and electronic, though the bulk of the records are paper.</p>  </scopecontent>
-  <phystech id="aspace_aa7a82a6c72e877c932fd3e8c8463dba">
-    <head>Born-Digital Access Policies and Procedures</head>
-<p>Advance notice is required for the use of computer records.  Original physical digital media is restricted.  Born-digital materials have not been transferred and may not be available to researchers. Researchers may request access copies.  To request that material be transferred, or if you are unsure if material has been transferred, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
-  <userestrict id="aspace_2c1ef8cae83fc22a73f6334280bca0d0">
-    <head>Conditions Governing Use</head>
-<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Marc Kagan, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
-  <controlaccess>
-    <subject source="lcsh">Labor unions -- Organizing -- New York (N.Y.)</subject>
-    <subject source="lcsh">Transport workers -- New York (N.Y.)</subject>
-    <subject source="lcsh">Labor unions -- New York (State) -- New York -- Political activity</subject>
-    <corpname authfilenumber="(lccn)n93014355" source="naf">Transport Workers Union of America. Local 100</corpname>
-    <persname role="dnr" rules="dacs" source="local">Kagan, Marc</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref7" level="file"><did><unittitle>President's Office</unittitle><unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate><container id="aspace_9f2bad7d0e159cdb4774d09db06320f4" label="Mixed Materials [31142051727454]" type="Box">1</container><container id="aspace_633c5d2d94e6445ad108c43741038326" parent="aspace_9f2bad7d0e159cdb4774d09db06320f4" type="Folder">1-2</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Correspondence </unittitle><unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate><container id="aspace_02bc5bc821ee16b13da87011253ab28c" label="Mixed Materials [31142051727454]" type="Box">1</container><container id="aspace_e264f5a8e27220b7214e9fbbfdd1154a" parent="aspace_02bc5bc821ee16b13da87011253ab28c" type="Folder">2-4</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Correspondence Under My Signature </unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_7d45e604581160e3cd85a6b6802245df" label="Mixed Materials [31142051727454]" type="Box">1</container><container id="aspace_01aec0ff3b44126de80031e6fde309da" parent="aspace_7d45e604581160e3cd85a6b6802245df" type="Folder">5</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Correspondence </unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_4bd9de6a4078a0e4e852eab87ed7110b" label="Mixed Materials [31142051727454]" type="Box">1</container><container id="aspace_81a45bfadce81a184e62c23d4170c75d" parent="aspace_4bd9de6a4078a0e4e852eab87ed7110b" type="Folder">6-7</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Contract Grievances Decisions</unittitle><unitdate datechar="creation" normal="2001/2003" type="inclusive">2001-2003</unitdate><container id="aspace_9a7ffa9079f32f6d2d32dcd27fd5456e" label="Mixed Materials [31142051727454]" type="Box">1</container><container id="aspace_4e069ba128f7e9507142cc4d5d0e0fba" parent="aspace_9a7ffa9079f32f6d2d32dcd27fd5456e" type="Folder">8-9</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>TWA/ TA Meeting Notes And Information</unittitle><unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate><container id="aspace_f9c3559082aa190e476c52c09c1df55f" label="Mixed Materials [31142051727454]" type="Box">1</container><container id="aspace_e4f3e32fc197e3ee15589639fe453e7e" parent="aspace_f9c3559082aa190e476c52c09c1df55f" type="Folder">10</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Car Division Issues </unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_027b7456ee70d75259d69f036418358b" label="Mixed Materials [31142051727454]" type="Box">1</container><container id="aspace_05ff2687a04c0eb57e02be4cf8b3f587" parent="aspace_027b7456ee70d75259d69f036418358b" type="Folder">11-12</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>12/1/01 Meeting</unittitle><unitdate datechar="creation" normal="2001/2001" type="inclusive">2001 December 1</unitdate><container id="aspace_0dc5719fedddd5d39750922b60be122b" label="Mixed Materials [31142051727454]" type="Box">1</container><container id="aspace_175cdad55afb72d51ee43e132fd630ec" parent="aspace_0dc5719fedddd5d39750922b60be122b" type="Folder">13</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Correspondence Between Local 100 and TWU International</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_bfc818eb6e05d2bb9098745bf8bbca2f" label="Mixed Materials [31142051727454]" type="Box">1</container><container id="aspace_0cf7c1e6ba0073fc8ee40a77f510b693" parent="aspace_bfc818eb6e05d2bb9098745bf8bbca2f" type="Folder">14-15</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Kagan Memos</unittitle><unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate><container id="aspace_d97fba3bcf655c16692b7c8bc4b1a14c" label="Mixed Materials [31142051727447]" type="Box">2</container><container id="aspace_b337d51d0fc319c26c14c4b76da08bff" parent="aspace_d97fba3bcf655c16692b7c8bc4b1a14c" type="Folder">1-2</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Naomi Allen/Marc Kagan Charges </unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_f4e232df9cc03c3632b8b4e95d8cf651" label="Mixed Materials [31142051727447]" type="Box">2</container><container id="aspace_7f396ab7fd5f531993dd38082200da67" parent="aspace_f4e232df9cc03c3632b8b4e95d8cf651" type="Folder">3-4</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>TWU Local 100 Express Newspaper</unittitle><unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate><container id="aspace_087d0ae4af44e38a70183051c0eb2561" label="Mixed Materials [31142051727447]" type="Box">2</container><container id="aspace_96dd6511d1a6faff42a98db1e520ae54" parent="aspace_087d0ae4af44e38a70183051c0eb2561" type="Folder">5-6</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Car Equipment: Seniority and Broadbanding </unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_a3e14776071ad8935562a62e05fa3ca3" label="Mixed Materials [31142051727447]" type="Box">2</container><container id="aspace_fc74fb07f39ca2857594de3e45247477" parent="aspace_a3e14776071ad8935562a62e05fa3ca3" type="Folder">7-8</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Transit Railcar Technology Specialist: New Title, Preliminary Negotiations</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_51083377e631aac5ca29f038fb01f1aa" label="Mixed Materials [31142051727447]" type="Box">2</container><container id="aspace_58839695d3fde77a40ea8cfeeb65c1cc" parent="aspace_51083377e631aac5ca29f038fb01f1aa" type="Folder">9</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>June 2001 Executive Board Package</unittitle><unitdate datechar="creation" normal="2001/2001" type="inclusive">June 2001</unitdate><container id="aspace_54fdc477638baa36d5c1ce3cea24cdda" label="Mixed Materials [31142051727447]" type="Box">2</container><container id="aspace_1977f9468d288f545440e74707fbf729" parent="aspace_54fdc477638baa36d5c1ce3cea24cdda" type="Folder">10</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>New York City Transit Rules and Regulations</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_9c5ea0ee32eb64868c517875e8fbf851" label="Mixed Materials [31142051727447]" type="Box">2</container><container id="aspace_50c53103af5eaebe754d6b0bee8b892b" parent="aspace_9c5ea0ee32eb64868c517875e8fbf851" type="Folder">11</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Various Stipulation</unittitle><unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate><container id="aspace_f1852d19c37cf08117931e84c1735e01" label="Mixed Materials [31142051727447]" type="Box">2</container><container id="aspace_2fca43e3815fcff2fb81c0ae5cddb691" parent="aspace_f1852d19c37cf08117931e84c1735e01" type="Folder">12</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Kagan-Toussaint Papers</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_085585c31dc7499a3441ec1d2a559db4" label="Mixed Materials [31142051727447]" type="Box">2</container><container id="aspace_613caad39f7ae1bc2694714baef8772b" parent="aspace_085585c31dc7499a3441ec1d2a559db4" type="Folder">13</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Miscellaneous Two</unittitle><unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate><container id="aspace_c986faca31a3ec7267245cb54fc65156" label="Mixed Materials [31142051727447]" type="Box">2</container><container id="aspace_e65df1ad23b0a2a96c5e56be69f4b6b1" parent="aspace_c986faca31a3ec7267245cb54fc65156" type="Folder">14</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Proposal Sorto Stewards Training</unittitle><unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate><container id="aspace_a159932be0bd80b3e6cc26296976cd26" label="Mixed Materials [31142051727447]" type="Box">2</container><container id="aspace_7fa4541c323eee22d782cedc8095c384" parent="aspace_a159932be0bd80b3e6cc26296976cd26" type="Folder">15</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Health Benefit Crisis</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_523afd9e2a6ca2872f05c9eccefc8ae0" label="Mixed Materials [31142051727447]" type="Box">2</container><container id="aspace_5534331f70d34ec3e2dda5c4852d196b" parent="aspace_523afd9e2a6ca2872f05c9eccefc8ae0" type="Folder">16-18</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Track Work</unittitle><unitdate datechar="creation" normal="1996/2000" type="inclusive">1996-2000</unitdate><container id="aspace_f18a4286ea74b4f3c7975bd75992b40f" label="Mixed Materials [31142051727447]" type="Box">2</container><container id="aspace_0fedd1683a9854642c7a7030c5294d8d" parent="aspace_f18a4286ea74b4f3c7975bd75992b40f" type="Folder">19</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Transition Issues for TWU Local 100</unittitle><unitdate datechar="creation">undated</unitdate><container id="aspace_2e29a4f2971129fd44a815fd8e0f8b1f" label="Mixed Materials [31142051727447]" type="Box">2</container><container id="aspace_b59fc19f92d1e616b63403bc4988b033" parent="aspace_2e29a4f2971129fd44a815fd8e0f8b1f" type="Folder">20</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>1999 Contract</unittitle><unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate><container id="aspace_0f854345bded7c647eea3fcdf7cc6ecb" label="Mixed Materials [31142051727447]" type="Box">2</container><container id="aspace_641a1b927b1918b02c5a28acbcfeb2a1" parent="aspace_0f854345bded7c647eea3fcdf7cc6ecb" type="Folder">21</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Marxist-Leninist Party Transit Flyers and Analysis</unittitle><unitdate datechar="creation" normal="1980/1994" type="inclusive">1980-1994</unitdate><container id="aspace_32ce094ed8332b953c6b48bd50c04a4d" label="Mixed Materials [31142051727439]" type="Box">3</container><container id="aspace_aeeff6f65481d88453a1f539a6f7ea0f" parent="aspace_32ce094ed8332b953c6b48bd50c04a4d" type="Folder">1</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Final Days Main Table Bargaining </unittitle><container id="aspace_71ea230f683f98ae3111c53c52d3d7b9" label="Mixed Materials [31142051727439]" type="Box">3</container><container id="aspace_541106bacbb8650d620dd3841579f6d1" parent="aspace_71ea230f683f98ae3111c53c52d3d7b9" type="Folder">1</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Dec 2002 Main Table Bargaining </unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">December 2002</unitdate><container id="aspace_2ecb492e136d2b619b26a375c198b883" label="Mixed Materials [31142051727439]" type="Box">3</container><container id="aspace_7b7597b767b2dd52af4708cfbfec8d64" parent="aspace_2ecb492e136d2b619b26a375c198b883" type="Folder">3</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Nov 2002 Main Table Bargaining </unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">November 2002</unitdate><container id="aspace_41f4ff98ab0d19771049f99a54dbd318" label="Mixed Materials [31142051727439]" type="Box">3</container><container id="aspace_d3dad78125f5b4e6be4a32c57260a043" parent="aspace_41f4ff98ab0d19771049f99a54dbd318" type="Folder">4</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Aug 2002 Bargaining Notes: General </unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">August 2002</unitdate><container id="aspace_9449efde31da41091f9bbed6138baccb" label="Mixed Materials [31142051727439]" type="Box">3</container><container id="aspace_938a15cef6ce5a26d4d318fffa57bdee" parent="aspace_9449efde31da41091f9bbed6138baccb" type="Folder">5</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Sept 2002 Bargaining Notes: General</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">September 2002</unitdate><container id="aspace_523456db5f800fa7e5f9f06194d6f2c5" label="Mixed Materials [31142051727439]" type="Box">3</container><container id="aspace_d8aa246fac3c91587969f60811b3c402" parent="aspace_523456db5f800fa7e5f9f06194d6f2c5" type="Folder">7</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>2002 TWU Contract</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_6890dd9f80dd84a1c7d602ca6d5d974d" label="Mixed Materials [31142051727439]" type="Box">3</container><container id="aspace_ac0ddce54f0b9048828abe2a27f82afb" parent="aspace_6890dd9f80dd84a1c7d602ca6d5d974d" type="Folder">9</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Bargaining Information from Various Departments and Divisions</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_337a1e846c4582454608ac38e14e3575" label="Mixed Materials [31142051727439]" type="Box">3</container><container id="aspace_e6dec2762db4fe9acde5cb4c9cd3fe89" parent="aspace_337a1e846c4582454608ac38e14e3575" type="Folder">10</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Sick Leave Bargaining</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_4b4b7233f761c9215952e5fee1c4f2c6" label="Mixed Materials [31142051727439]" type="Box">3</container><container id="aspace_cd099f2050bfabf9d30663888c4ac2a3" parent="aspace_4b4b7233f761c9215952e5fee1c4f2c6" type="Folder">12</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Medical Appeal and Workers Comp Bargaining </unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_90a297235e585777c2982f8882621287" label="Mixed Materials [31142051727439]" type="Box">3</container><container id="aspace_2165662041b6fb5db08414a085096629" parent="aspace_90a297235e585777c2982f8882621287" type="Folder">13</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Health Benefits Bargaining </unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_149abfd1ba9d0edd996ad0dbe20a3d40" label="Mixed Materials [31142051727439]" type="Box">3</container><container id="aspace_18fcf8bc6c1b68790beaa1f728834d13" parent="aspace_149abfd1ba9d0edd996ad0dbe20a3d40" type="Folder">14-15</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Safety Bargaining </unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_1b24e3d67a09c3a131211a478aeae1c9" label="Mixed Materials [31142051727439]" type="Box">3</container><container id="aspace_77a670973110026d622c24e662f703c3" parent="aspace_1b24e3d67a09c3a131211a478aeae1c9" type="Folder">16</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Accident Review System</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_c3804875d22647e329e2252dff984f42" label="Mixed Materials [31142051727439]" type="Box">3</container><container id="aspace_6e1d33cc2e12ab10622b0654f8419d3e" parent="aspace_c3804875d22647e329e2252dff984f42" type="Folder">17</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Discipline Bargaining </unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_f32cedd53f5a41f60939f978953957fc" label="Mixed Materials [31142051727439]" type="Box">3</container><container id="aspace_4057686fb9191683f48175ff360b73a5" parent="aspace_f32cedd53f5a41f60939f978953957fc" type="Folder">18</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>New Technology and Farming Out Bargaining </unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_730bfe0f00d568cac3659a4d1de4f91c" label="Mixed Materials [31142051727439]" type="Box">3</container><container id="aspace_40de48bfdcf44f18dc6fdf239133f1bb" parent="aspace_730bfe0f00d568cac3659a4d1de4f91c" type="Folder">19</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Child Care, Discrimination, Harassment, Employee Rights, and FMLA Bargaining </unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_39ed512eed65f40ff21ea8277554d9f9" label="Mixed Materials [31142051727439]" type="Box">3</container><container id="aspace_22f92a4b057e3a27b53fc4d6d4609fc1" parent="aspace_39ed512eed65f40ff21ea8277554d9f9" type="Folder">20</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Apprenticeship Bargaining </unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_5a663e2ea28c23876308532264fd34d4" label="Mixed Materials [31142051727439]" type="Box">3</container><container id="aspace_c9a3dbdce0a713afecd1fce207c8d39a" parent="aspace_5a663e2ea28c23876308532264fd34d4" type="Folder">21</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Bus Commingling Bargaining </unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_b854d85ffcf8d4810580da750c9a906a" label="Mixed Materials [31142051727439]" type="Box">3</container><container id="aspace_04b22eb2a03bcede0e223c8e52edf4d3" parent="aspace_b854d85ffcf8d4810580da750c9a906a" type="Folder">22</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>TA/OA Surface Operators Bargaining </unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_757ae17b787228e9d2fe79b912bf29e7" label="Mixed Materials [31142051727439]" type="Box">3</container><container id="aspace_4e58724d6f5182a2ff638f96a45fbd35" parent="aspace_757ae17b787228e9d2fe79b912bf29e7" type="Folder">23</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Expanded Joint Executive Board</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002 June 29</unitdate><container id="aspace_ccae1dc221d4331ec87449e35bced02b" label="Mixed Materials [31142051727421]" type="Box">4</container><container id="aspace_75b0c73aae58c52e3c179a6e9eb2ff38" parent="aspace_ccae1dc221d4331ec87449e35bced02b" type="Folder">1-3</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>May 2002 Bargaining Preparations</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">May 2002</unitdate><container id="aspace_8b1a19ade86fa6f35be08d67f20ef2cb" label="Mixed Materials [31142051727421]" type="Box">4</container><container id="aspace_00e212a918af18edbcb1a745ffcdcd94" parent="aspace_8b1a19ade86fa6f35be08d67f20ef2cb" type="Folder">4</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>2002 TA Budget</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_ee5fa0dbb823226264f78c61341bf718" label="Mixed Materials [31142051727421]" type="Box">4</container><container id="aspace_c3b71e096c72bbc9e2530869f2219e2c" parent="aspace_ee5fa0dbb823226264f78c61341bf718" type="Folder">5</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>FOIAs and Other Information Requests and Some Responses </unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_9e35745cbe18033c07c5352e2c781a12" label="Mixed Materials [31142051727421]" type="Box">4</container><container id="aspace_efed40fd8b482a9a8f7e8b914e4fc7ce" parent="aspace_9e35745cbe18033c07c5352e2c781a12" type="Folder">6</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>2002 Health Benefit Implementation, Including Arbitration</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_9dd85c1028937a25d1930557a5948673" label="Mixed Materials [31142051727421]" type="Box">4</container><container id="aspace_3ef7b96cc961e5f534ce4f1cd0e0dd1a" parent="aspace_9dd85c1028937a25d1930557a5948673" type="Folder">7</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>2002 Contract Implementation Issues </unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_49ee8076c99241edbf6840f8f38796d4" label="Mixed Materials [31142051727421]" type="Box">4</container><container id="aspace_b660613cae6ed080d594239c31be01ed" parent="aspace_49ee8076c99241edbf6840f8f38796d4" type="Folder">8-9</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>Cornell Negotiations Training</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_62ee4b6e0ef2fa3c1d2fb05240b16be6" label="Mixed Materials [31142051727421]" type="Box">4</container><container id="aspace_9c561450d5ed26e0a3a9b4e08adf395d" parent="aspace_62ee4b6e0ef2fa3c1d2fb05240b16be6" type="Folder">10</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>Disciplinary Statistics</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_889384c271566c2308f808c01f86a1a6" label="Mixed Materials [31142051727421]" type="Box">4</container><container id="aspace_34f670496c0b08dd348f4e228d332524" parent="aspace_889384c271566c2308f808c01f86a1a6" type="Folder">11</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>June 2002 Bargaining Preparations</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">June 2002</unitdate><container id="aspace_66f008d92fb93b4ea3e05f55dbf12d10" label="Mixed Materials [31142051727421]" type="Box">4</container><container id="aspace_fd5291c509d2c44d75e6cc536bf50d0f" parent="aspace_66f008d92fb93b4ea3e05f55dbf12d10" type="Folder">12</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>July 2002 Bargaining Papers</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">July 2002</unitdate><container id="aspace_6f3bf4858af3e1afe3b3fbc4625b1bdb" label="Mixed Materials [31142051727421]" type="Box">4</container><container id="aspace_6924b4b1aa7f7476b7389726202d9866" parent="aspace_6f3bf4858af3e1afe3b3fbc4625b1bdb" type="Folder">13</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>2002 Member Organizing Efforts</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_b48607dbb1041885fc27df0ac08350ff" label="Mixed Materials [31142051727421]" type="Box">4</container><container id="aspace_7f9d9c9c073d9cf57d60ae18527ef44d" parent="aspace_b48607dbb1041885fc27df0ac08350ff" type="Folder">14-15</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>2002 Contract Vote</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_b86a020609e68428b0583f7c71ccf643" label="Mixed Materials [31142051727421]" type="Box">4</container><container id="aspace_ebc9a4e325375f09d099096aaf2e4010" parent="aspace_b86a020609e68428b0583f7c71ccf643" type="Folder">16</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>2002 Contract Injunction Against Officer of TWU Local 100 </unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_021dbf7dd6534dbe958e1f670f75c5b6" label="Mixed Materials [31142051727421]" type="Box">4</container><container id="aspace_c3894b9ad309471dcd870d18aa5dcfd2" parent="aspace_021dbf7dd6534dbe958e1f670f75c5b6" type="Folder">17-18</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Newspaper Reportage</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_5628340997c03dfda32c4d716fd65e7a" label="Mixed Materials [31142051727421]" type="Box">4</container><container id="aspace_6355eacfadf12c79e7653d1bba39882d" parent="aspace_5628340997c03dfda32c4d716fd65e7a" type="Folder">19-20</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Other Bargaining: 1119 SEU ATU 1056</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">circa 2002</unitdate><container id="aspace_25ad153d0ecf26b27ea09e1540c224f5" label="Mixed Materials [31142051727421]" type="Box">4</container><container id="aspace_64333088796ac73b07cc558debcb1136" parent="aspace_25ad153d0ecf26b27ea09e1540c224f5" type="Folder">21</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>TWU Local 100 Calendar</unittitle><unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate><container id="aspace_9e07a7404de7593ac34063e4337b1077" label="Mixed Materials [31142051727421]" type="Box">4</container><container id="aspace_f8d8d09a22461a75c94ed4822a9be534" parent="aspace_9e07a7404de7593ac34063e4337b1077" type="Folder">22</container></did></c><c id="aspace_ref73" level="file"><did><unittitle>Off Table Memos and Flyers</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_f5472c8a16e49c87b455c4a063fbc078" label="Mixed Materials [31142051727413]" type="Box">5</container><container id="aspace_b730da1ce633f70a0751197c944f4235" parent="aspace_f5472c8a16e49c87b455c4a063fbc078" type="Folder">1-2</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>Contract Radification Binder</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_3beadece82ab53f1845c4aca11512701" label="Mixed Materials [31142051727413]" type="Box">5</container><container id="aspace_4247eea7be7fc2302a154e98b607485f" parent="aspace_3beadece82ab53f1845c4aca11512701" type="Folder">3-4</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>Marc Kagan/ TWU Local 100 Oral History Interviews</unittitle><unitid>cuid36927</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">761 Megabytes</extent><extent altrender="carrier">on 28 computer files</extent></physdesc><unitdate datechar="creation" normal="2005/2005" type="inclusive">circa 2005</unitdate><container id="aspace_4e757a2c3fdc17a67f90c8b881acdb6c" label="Mixed Materials [31142051727413]" type="Box">5</container><container id="aspace_b0718640eef6df347dee6407e85907ac" parent="aspace_4e757a2c3fdc17a67f90c8b881acdb6c" type="Folder">5</container><container id="aspace_55c19d670c13570487d017f0586ac4b5" label="electronic records" type="Box">Electronic Records</container><container id="aspace_7c9c12a38cb927933f6b69abe69b7974" parent="aspace_55c19d670c13570487d017f0586ac4b5" type="Item">TW_TAM_679_ER_1</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Marc Kagan/ TWU Local 100 Oral History Interviews" xlink:type="simple"><daodesc><p>Marc Kagan/ TWU Local 100 Oral History Interviews</p></daodesc></dao></did><scopecontent id="aspace_0015b0a5f732993382cfcabddd1a6a2d"><head>Scope and Contents</head><p>Interview subjects include: Alan Saly, Arthur Schwartz, Dave Katzman, Eddie Kay, George McAnanama, Irving Lee, JP Patafio, Ken Margolies, Marty Goodman, Mike Jerome, Sean Ahern, Terry Meginniss, and Tim Schermerhorn.</p></scopecontent></c><c id="aspace_4e04f8c8e4e838a40ec180b9935ff76a" level="file"><did><unittitle>Marc Kagan/TWU Local 100 Oral History Interviews</unittitle><unitid>cuid36941</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">8.15 Gigabytes</extent><extent altrender="carrier">on 65 computer files</extent></physdesc><unitdate datechar="creation" normal="2015/2022" type="inclusive">2015-2022</unitdate><container id="aspace_424a8c9bc18bf98a25692b40722dfc7d" label="electronic records" type="Box">Electronic Records</container><container id="aspace_2e70338a0e9de7ced98a63565c1694fc" parent="aspace_424a8c9bc18bf98a25692b40722dfc7d" type="Item">TW_TAM_679_ER_2</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Marc Kagan/TWU Local 100 Oral History Interviews" xlink:type="simple"><daodesc><p>Marc Kagan/TWU Local 100 Oral History Interviews</p></daodesc></dao></did><scopecontent id="aspace_86ae93c2fe8581b52d9a3d49d4fd403f"><head>Scope and Contents</head><p>Interview subjects include: Stanley Aronwitz, Joe Campbell, Ken Carl, Anita Clinton, Vic Constantino, Bruce Dickstein, Steve Downs, Tony Feliciano, Chris Fox, Joel Fredericson, Jim Gannon, Joe Gayol, Robin Gillespie, Arthur Goldberg, Bill Gottlieb, Sonny (Harold) Hall, Larry Hanley, Kevin Harrington, Joe James, Dave Katzman, George MacAnanama, John McCarthy, Terry Meginniss, Gene Monette, John Mooney, JP Patafio, Louis Russo Jr., Roy Schulman, Robert Schwab, Arthur SChwartz, Michael Scott, Jesse Sharkey, John Simino, Eileen Sullivan, Marian Swerdlow, Tim Schermerhorn, Mike Tutrone, Jarvis Tyner, Nick Unger, and Progressive Action.</p></scopecontent></c></dsc>
-</archdesc>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref7" level="file">
+        <did>
+          <unittitle>President's Office</unittitle>
+          <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate>
+          <container id="aspace_9f2bad7d0e159cdb4774d09db06320f4" label="Mixed Materials [31142051727454]" type="Box">1</container>
+          <container id="aspace_633c5d2d94e6445ad108c43741038326" parent="aspace_9f2bad7d0e159cdb4774d09db06320f4" type="Folder">1-2</container>
+        </did>
+      </c>
+      <c id="aspace_ref8" level="file">
+        <did>
+          <unittitle>Correspondence </unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+          <container id="aspace_02bc5bc821ee16b13da87011253ab28c" label="Mixed Materials [31142051727454]" type="Box">1</container>
+          <container id="aspace_e264f5a8e27220b7214e9fbbfdd1154a" parent="aspace_02bc5bc821ee16b13da87011253ab28c" type="Folder">2-4</container>
+        </did>
+      </c>
+      <c id="aspace_ref9" level="file">
+        <did>
+          <unittitle>Correspondence Under My Signature </unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_7d45e604581160e3cd85a6b6802245df" label="Mixed Materials [31142051727454]" type="Box">1</container>
+          <container id="aspace_01aec0ff3b44126de80031e6fde309da" parent="aspace_7d45e604581160e3cd85a6b6802245df" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref10" level="file">
+        <did>
+          <unittitle>Correspondence </unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_4bd9de6a4078a0e4e852eab87ed7110b" label="Mixed Materials [31142051727454]" type="Box">1</container>
+          <container id="aspace_81a45bfadce81a184e62c23d4170c75d" parent="aspace_4bd9de6a4078a0e4e852eab87ed7110b" type="Folder">6-7</container>
+        </did>
+      </c>
+      <c id="aspace_ref11" level="file">
+        <did>
+          <unittitle>Contract Grievances Decisions</unittitle>
+          <unitdate datechar="creation" normal="2001/2003" type="inclusive">2001-2003</unitdate>
+          <container id="aspace_9a7ffa9079f32f6d2d32dcd27fd5456e" label="Mixed Materials [31142051727454]" type="Box">1</container>
+          <container id="aspace_4e069ba128f7e9507142cc4d5d0e0fba" parent="aspace_9a7ffa9079f32f6d2d32dcd27fd5456e" type="Folder">8-9</container>
+        </did>
+      </c>
+      <c id="aspace_ref13" level="file">
+        <did>
+          <unittitle>TWA/ TA Meeting Notes And Information</unittitle>
+          <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate>
+          <container id="aspace_f9c3559082aa190e476c52c09c1df55f" label="Mixed Materials [31142051727454]" type="Box">1</container>
+          <container id="aspace_e4f3e32fc197e3ee15589639fe453e7e" parent="aspace_f9c3559082aa190e476c52c09c1df55f" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref14" level="file">
+        <did>
+          <unittitle>Car Division Issues </unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_027b7456ee70d75259d69f036418358b" label="Mixed Materials [31142051727454]" type="Box">1</container>
+          <container id="aspace_05ff2687a04c0eb57e02be4cf8b3f587" parent="aspace_027b7456ee70d75259d69f036418358b" type="Folder">11-12</container>
+        </did>
+      </c>
+      <c id="aspace_ref15" level="file">
+        <did>
+          <unittitle>12/1/01 Meeting</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001 December 1</unitdate>
+          <container id="aspace_0dc5719fedddd5d39750922b60be122b" label="Mixed Materials [31142051727454]" type="Box">1</container>
+          <container id="aspace_175cdad55afb72d51ee43e132fd630ec" parent="aspace_0dc5719fedddd5d39750922b60be122b" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref16" level="file">
+        <did>
+          <unittitle>Correspondence Between Local 100 and TWU International</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_bfc818eb6e05d2bb9098745bf8bbca2f" label="Mixed Materials [31142051727454]" type="Box">1</container>
+          <container id="aspace_0cf7c1e6ba0073fc8ee40a77f510b693" parent="aspace_bfc818eb6e05d2bb9098745bf8bbca2f" type="Folder">14-15</container>
+        </did>
+      </c>
+      <c id="aspace_ref17" level="file">
+        <did>
+          <unittitle>Kagan Memos</unittitle>
+          <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate>
+          <container id="aspace_d97fba3bcf655c16692b7c8bc4b1a14c" label="Mixed Materials [31142051727447]" type="Box">2</container>
+          <container id="aspace_b337d51d0fc319c26c14c4b76da08bff" parent="aspace_d97fba3bcf655c16692b7c8bc4b1a14c" type="Folder">1-2</container>
+        </did>
+      </c>
+      <c id="aspace_ref20" level="file">
+        <did>
+          <unittitle>Naomi Allen/Marc Kagan Charges </unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_f4e232df9cc03c3632b8b4e95d8cf651" label="Mixed Materials [31142051727447]" type="Box">2</container>
+          <container id="aspace_7f396ab7fd5f531993dd38082200da67" parent="aspace_f4e232df9cc03c3632b8b4e95d8cf651" type="Folder">3-4</container>
+        </did>
+      </c>
+      <c id="aspace_ref21" level="file">
+        <did>
+          <unittitle>TWU Local 100 Express Newspaper</unittitle>
+          <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate>
+          <container id="aspace_087d0ae4af44e38a70183051c0eb2561" label="Mixed Materials [31142051727447]" type="Box">2</container>
+          <container id="aspace_96dd6511d1a6faff42a98db1e520ae54" parent="aspace_087d0ae4af44e38a70183051c0eb2561" type="Folder">5-6</container>
+        </did>
+      </c>
+      <c id="aspace_ref22" level="file">
+        <did>
+          <unittitle>Car Equipment: Seniority and Broadbanding </unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_a3e14776071ad8935562a62e05fa3ca3" label="Mixed Materials [31142051727447]" type="Box">2</container>
+          <container id="aspace_fc74fb07f39ca2857594de3e45247477" parent="aspace_a3e14776071ad8935562a62e05fa3ca3" type="Folder">7-8</container>
+        </did>
+      </c>
+      <c id="aspace_ref23" level="file">
+        <did>
+          <unittitle>Transit Railcar Technology Specialist: New Title, Preliminary Negotiations</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_51083377e631aac5ca29f038fb01f1aa" label="Mixed Materials [31142051727447]" type="Box">2</container>
+          <container id="aspace_58839695d3fde77a40ea8cfeeb65c1cc" parent="aspace_51083377e631aac5ca29f038fb01f1aa" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref24" level="file">
+        <did>
+          <unittitle>June 2001 Executive Board Package</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">June 2001</unitdate>
+          <container id="aspace_54fdc477638baa36d5c1ce3cea24cdda" label="Mixed Materials [31142051727447]" type="Box">2</container>
+          <container id="aspace_1977f9468d288f545440e74707fbf729" parent="aspace_54fdc477638baa36d5c1ce3cea24cdda" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref25" level="file">
+        <did>
+          <unittitle>New York City Transit Rules and Regulations</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_9c5ea0ee32eb64868c517875e8fbf851" label="Mixed Materials [31142051727447]" type="Box">2</container>
+          <container id="aspace_50c53103af5eaebe754d6b0bee8b892b" parent="aspace_9c5ea0ee32eb64868c517875e8fbf851" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref26" level="file">
+        <did>
+          <unittitle>Various Stipulation</unittitle>
+          <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate>
+          <container id="aspace_f1852d19c37cf08117931e84c1735e01" label="Mixed Materials [31142051727447]" type="Box">2</container>
+          <container id="aspace_2fca43e3815fcff2fb81c0ae5cddb691" parent="aspace_f1852d19c37cf08117931e84c1735e01" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref27" level="file">
+        <did>
+          <unittitle>Kagan-Toussaint Papers</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_085585c31dc7499a3441ec1d2a559db4" label="Mixed Materials [31142051727447]" type="Box">2</container>
+          <container id="aspace_613caad39f7ae1bc2694714baef8772b" parent="aspace_085585c31dc7499a3441ec1d2a559db4" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref28" level="file">
+        <did>
+          <unittitle>Miscellaneous Two</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+          <container id="aspace_c986faca31a3ec7267245cb54fc65156" label="Mixed Materials [31142051727447]" type="Box">2</container>
+          <container id="aspace_e65df1ad23b0a2a96c5e56be69f4b6b1" parent="aspace_c986faca31a3ec7267245cb54fc65156" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref29" level="file">
+        <did>
+          <unittitle>Proposal Sorto Stewards Training</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+          <container id="aspace_a159932be0bd80b3e6cc26296976cd26" label="Mixed Materials [31142051727447]" type="Box">2</container>
+          <container id="aspace_7fa4541c323eee22d782cedc8095c384" parent="aspace_a159932be0bd80b3e6cc26296976cd26" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref30" level="file">
+        <did>
+          <unittitle>Health Benefit Crisis</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_523afd9e2a6ca2872f05c9eccefc8ae0" label="Mixed Materials [31142051727447]" type="Box">2</container>
+          <container id="aspace_5534331f70d34ec3e2dda5c4852d196b" parent="aspace_523afd9e2a6ca2872f05c9eccefc8ae0" type="Folder">16-18</container>
+        </did>
+      </c>
+      <c id="aspace_ref31" level="file">
+        <did>
+          <unittitle>Track Work</unittitle>
+          <unitdate datechar="creation" normal="1996/2000" type="inclusive">1996-2000</unitdate>
+          <container id="aspace_f18a4286ea74b4f3c7975bd75992b40f" label="Mixed Materials [31142051727447]" type="Box">2</container>
+          <container id="aspace_0fedd1683a9854642c7a7030c5294d8d" parent="aspace_f18a4286ea74b4f3c7975bd75992b40f" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_ref32" level="file">
+        <did>
+          <unittitle>Transition Issues for TWU Local 100</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_2e29a4f2971129fd44a815fd8e0f8b1f" label="Mixed Materials [31142051727447]" type="Box">2</container>
+          <container id="aspace_b59fc19f92d1e616b63403bc4988b033" parent="aspace_2e29a4f2971129fd44a815fd8e0f8b1f" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_ref33" level="file">
+        <did>
+          <unittitle>1999 Contract</unittitle>
+          <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+          <container id="aspace_0f854345bded7c647eea3fcdf7cc6ecb" label="Mixed Materials [31142051727447]" type="Box">2</container>
+          <container id="aspace_641a1b927b1918b02c5a28acbcfeb2a1" parent="aspace_0f854345bded7c647eea3fcdf7cc6ecb" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_ref34" level="file">
+        <did>
+          <unittitle>Marxist-Leninist Party Transit Flyers and Analysis</unittitle>
+          <unitdate datechar="creation" normal="1980/1994" type="inclusive">1980-1994</unitdate>
+          <container id="aspace_32ce094ed8332b953c6b48bd50c04a4d" label="Mixed Materials [31142051727439]" type="Box">3</container>
+          <container id="aspace_aeeff6f65481d88453a1f539a6f7ea0f" parent="aspace_32ce094ed8332b953c6b48bd50c04a4d" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref37" level="file">
+        <did>
+          <unittitle>Final Days Main Table Bargaining </unittitle>
+          <container id="aspace_71ea230f683f98ae3111c53c52d3d7b9" label="Mixed Materials [31142051727439]" type="Box">3</container>
+          <container id="aspace_541106bacbb8650d620dd3841579f6d1" parent="aspace_71ea230f683f98ae3111c53c52d3d7b9" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref38" level="file">
+        <did>
+          <unittitle>Dec 2002 Main Table Bargaining </unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">December 2002</unitdate>
+          <container id="aspace_2ecb492e136d2b619b26a375c198b883" label="Mixed Materials [31142051727439]" type="Box">3</container>
+          <container id="aspace_7b7597b767b2dd52af4708cfbfec8d64" parent="aspace_2ecb492e136d2b619b26a375c198b883" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref39" level="file">
+        <did>
+          <unittitle>Nov 2002 Main Table Bargaining </unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">November 2002</unitdate>
+          <container id="aspace_41f4ff98ab0d19771049f99a54dbd318" label="Mixed Materials [31142051727439]" type="Box">3</container>
+          <container id="aspace_d3dad78125f5b4e6be4a32c57260a043" parent="aspace_41f4ff98ab0d19771049f99a54dbd318" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref40" level="file">
+        <did>
+          <unittitle>Aug 2002 Bargaining Notes: General </unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">August 2002</unitdate>
+          <container id="aspace_9449efde31da41091f9bbed6138baccb" label="Mixed Materials [31142051727439]" type="Box">3</container>
+          <container id="aspace_938a15cef6ce5a26d4d318fffa57bdee" parent="aspace_9449efde31da41091f9bbed6138baccb" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref41" level="file">
+        <did>
+          <unittitle>Sept 2002 Bargaining Notes: General</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">September 2002</unitdate>
+          <container id="aspace_523456db5f800fa7e5f9f06194d6f2c5" label="Mixed Materials [31142051727439]" type="Box">3</container>
+          <container id="aspace_d8aa246fac3c91587969f60811b3c402" parent="aspace_523456db5f800fa7e5f9f06194d6f2c5" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref42" level="file">
+        <did>
+          <unittitle>2002 TWU Contract</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_6890dd9f80dd84a1c7d602ca6d5d974d" label="Mixed Materials [31142051727439]" type="Box">3</container>
+          <container id="aspace_ac0ddce54f0b9048828abe2a27f82afb" parent="aspace_6890dd9f80dd84a1c7d602ca6d5d974d" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref43" level="file">
+        <did>
+          <unittitle>Bargaining Information from Various Departments and Divisions</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_337a1e846c4582454608ac38e14e3575" label="Mixed Materials [31142051727439]" type="Box">3</container>
+          <container id="aspace_e6dec2762db4fe9acde5cb4c9cd3fe89" parent="aspace_337a1e846c4582454608ac38e14e3575" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref44" level="file">
+        <did>
+          <unittitle>Sick Leave Bargaining</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_4b4b7233f761c9215952e5fee1c4f2c6" label="Mixed Materials [31142051727439]" type="Box">3</container>
+          <container id="aspace_cd099f2050bfabf9d30663888c4ac2a3" parent="aspace_4b4b7233f761c9215952e5fee1c4f2c6" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref45" level="file">
+        <did>
+          <unittitle>Medical Appeal and Workers Comp Bargaining </unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_90a297235e585777c2982f8882621287" label="Mixed Materials [31142051727439]" type="Box">3</container>
+          <container id="aspace_2165662041b6fb5db08414a085096629" parent="aspace_90a297235e585777c2982f8882621287" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref46" level="file">
+        <did>
+          <unittitle>Health Benefits Bargaining </unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_149abfd1ba9d0edd996ad0dbe20a3d40" label="Mixed Materials [31142051727439]" type="Box">3</container>
+          <container id="aspace_18fcf8bc6c1b68790beaa1f728834d13" parent="aspace_149abfd1ba9d0edd996ad0dbe20a3d40" type="Folder">14-15</container>
+        </did>
+      </c>
+      <c id="aspace_ref47" level="file">
+        <did>
+          <unittitle>Safety Bargaining </unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_1b24e3d67a09c3a131211a478aeae1c9" label="Mixed Materials [31142051727439]" type="Box">3</container>
+          <container id="aspace_77a670973110026d622c24e662f703c3" parent="aspace_1b24e3d67a09c3a131211a478aeae1c9" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref48" level="file">
+        <did>
+          <unittitle>Accident Review System</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_c3804875d22647e329e2252dff984f42" label="Mixed Materials [31142051727439]" type="Box">3</container>
+          <container id="aspace_6e1d33cc2e12ab10622b0654f8419d3e" parent="aspace_c3804875d22647e329e2252dff984f42" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref49" level="file">
+        <did>
+          <unittitle>Discipline Bargaining </unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_f32cedd53f5a41f60939f978953957fc" label="Mixed Materials [31142051727439]" type="Box">3</container>
+          <container id="aspace_4057686fb9191683f48175ff360b73a5" parent="aspace_f32cedd53f5a41f60939f978953957fc" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref50" level="file">
+        <did>
+          <unittitle>New Technology and Farming Out Bargaining </unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_730bfe0f00d568cac3659a4d1de4f91c" label="Mixed Materials [31142051727439]" type="Box">3</container>
+          <container id="aspace_40de48bfdcf44f18dc6fdf239133f1bb" parent="aspace_730bfe0f00d568cac3659a4d1de4f91c" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_ref51" level="file">
+        <did>
+          <unittitle>Child Care, Discrimination, Harassment, Employee Rights, and FMLA Bargaining </unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_39ed512eed65f40ff21ea8277554d9f9" label="Mixed Materials [31142051727439]" type="Box">3</container>
+          <container id="aspace_22f92a4b057e3a27b53fc4d6d4609fc1" parent="aspace_39ed512eed65f40ff21ea8277554d9f9" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_ref52" level="file">
+        <did>
+          <unittitle>Apprenticeship Bargaining </unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_5a663e2ea28c23876308532264fd34d4" label="Mixed Materials [31142051727439]" type="Box">3</container>
+          <container id="aspace_c9a3dbdce0a713afecd1fce207c8d39a" parent="aspace_5a663e2ea28c23876308532264fd34d4" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_ref53" level="file">
+        <did>
+          <unittitle>Bus Commingling Bargaining </unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_b854d85ffcf8d4810580da750c9a906a" label="Mixed Materials [31142051727439]" type="Box">3</container>
+          <container id="aspace_04b22eb2a03bcede0e223c8e52edf4d3" parent="aspace_b854d85ffcf8d4810580da750c9a906a" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_ref54" level="file">
+        <did>
+          <unittitle>TA/OA Surface Operators Bargaining </unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_757ae17b787228e9d2fe79b912bf29e7" label="Mixed Materials [31142051727439]" type="Box">3</container>
+          <container id="aspace_4e58724d6f5182a2ff638f96a45fbd35" parent="aspace_757ae17b787228e9d2fe79b912bf29e7" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_ref55" level="file">
+        <did>
+          <unittitle>Expanded Joint Executive Board</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002 June 29</unitdate>
+          <container id="aspace_ccae1dc221d4331ec87449e35bced02b" label="Mixed Materials [31142051727421]" type="Box">4</container>
+          <container id="aspace_75b0c73aae58c52e3c179a6e9eb2ff38" parent="aspace_ccae1dc221d4331ec87449e35bced02b" type="Folder">1-3</container>
+        </did>
+      </c>
+      <c id="aspace_ref58" level="file">
+        <did>
+          <unittitle>May 2002 Bargaining Preparations</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">May 2002</unitdate>
+          <container id="aspace_8b1a19ade86fa6f35be08d67f20ef2cb" label="Mixed Materials [31142051727421]" type="Box">4</container>
+          <container id="aspace_00e212a918af18edbcb1a745ffcdcd94" parent="aspace_8b1a19ade86fa6f35be08d67f20ef2cb" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref59" level="file">
+        <did>
+          <unittitle>2002 TA Budget</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_ee5fa0dbb823226264f78c61341bf718" label="Mixed Materials [31142051727421]" type="Box">4</container>
+          <container id="aspace_c3b71e096c72bbc9e2530869f2219e2c" parent="aspace_ee5fa0dbb823226264f78c61341bf718" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref60" level="file">
+        <did>
+          <unittitle>FOIAs and Other Information Requests and Some Responses </unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_9e35745cbe18033c07c5352e2c781a12" label="Mixed Materials [31142051727421]" type="Box">4</container>
+          <container id="aspace_efed40fd8b482a9a8f7e8b914e4fc7ce" parent="aspace_9e35745cbe18033c07c5352e2c781a12" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref61" level="file">
+        <did>
+          <unittitle>2002 Health Benefit Implementation, Including Arbitration</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_9dd85c1028937a25d1930557a5948673" label="Mixed Materials [31142051727421]" type="Box">4</container>
+          <container id="aspace_3ef7b96cc961e5f534ce4f1cd0e0dd1a" parent="aspace_9dd85c1028937a25d1930557a5948673" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref62" level="file">
+        <did>
+          <unittitle>2002 Contract Implementation Issues </unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_49ee8076c99241edbf6840f8f38796d4" label="Mixed Materials [31142051727421]" type="Box">4</container>
+          <container id="aspace_b660613cae6ed080d594239c31be01ed" parent="aspace_49ee8076c99241edbf6840f8f38796d4" type="Folder">8-9</container>
+        </did>
+      </c>
+      <c id="aspace_ref63" level="file">
+        <did>
+          <unittitle>Cornell Negotiations Training</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_62ee4b6e0ef2fa3c1d2fb05240b16be6" label="Mixed Materials [31142051727421]" type="Box">4</container>
+          <container id="aspace_9c561450d5ed26e0a3a9b4e08adf395d" parent="aspace_62ee4b6e0ef2fa3c1d2fb05240b16be6" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref64" level="file">
+        <did>
+          <unittitle>Disciplinary Statistics</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_889384c271566c2308f808c01f86a1a6" label="Mixed Materials [31142051727421]" type="Box">4</container>
+          <container id="aspace_34f670496c0b08dd348f4e228d332524" parent="aspace_889384c271566c2308f808c01f86a1a6" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref65" level="file">
+        <did>
+          <unittitle>June 2002 Bargaining Preparations</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">June 2002</unitdate>
+          <container id="aspace_66f008d92fb93b4ea3e05f55dbf12d10" label="Mixed Materials [31142051727421]" type="Box">4</container>
+          <container id="aspace_fd5291c509d2c44d75e6cc536bf50d0f" parent="aspace_66f008d92fb93b4ea3e05f55dbf12d10" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref66" level="file">
+        <did>
+          <unittitle>July 2002 Bargaining Papers</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">July 2002</unitdate>
+          <container id="aspace_6f3bf4858af3e1afe3b3fbc4625b1bdb" label="Mixed Materials [31142051727421]" type="Box">4</container>
+          <container id="aspace_6924b4b1aa7f7476b7389726202d9866" parent="aspace_6f3bf4858af3e1afe3b3fbc4625b1bdb" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref67" level="file">
+        <did>
+          <unittitle>2002 Member Organizing Efforts</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_b48607dbb1041885fc27df0ac08350ff" label="Mixed Materials [31142051727421]" type="Box">4</container>
+          <container id="aspace_7f9d9c9c073d9cf57d60ae18527ef44d" parent="aspace_b48607dbb1041885fc27df0ac08350ff" type="Folder">14-15</container>
+        </did>
+      </c>
+      <c id="aspace_ref68" level="file">
+        <did>
+          <unittitle>2002 Contract Vote</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_b86a020609e68428b0583f7c71ccf643" label="Mixed Materials [31142051727421]" type="Box">4</container>
+          <container id="aspace_ebc9a4e325375f09d099096aaf2e4010" parent="aspace_b86a020609e68428b0583f7c71ccf643" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref69" level="file">
+        <did>
+          <unittitle>2002 Contract Injunction Against Officer of TWU Local 100 </unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_021dbf7dd6534dbe958e1f670f75c5b6" label="Mixed Materials [31142051727421]" type="Box">4</container>
+          <container id="aspace_c3894b9ad309471dcd870d18aa5dcfd2" parent="aspace_021dbf7dd6534dbe958e1f670f75c5b6" type="Folder">17-18</container>
+        </did>
+      </c>
+      <c id="aspace_ref70" level="file">
+        <did>
+          <unittitle>Newspaper Reportage</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_5628340997c03dfda32c4d716fd65e7a" label="Mixed Materials [31142051727421]" type="Box">4</container>
+          <container id="aspace_6355eacfadf12c79e7653d1bba39882d" parent="aspace_5628340997c03dfda32c4d716fd65e7a" type="Folder">19-20</container>
+        </did>
+      </c>
+      <c id="aspace_ref71" level="file">
+        <did>
+          <unittitle>Other Bargaining: 1119 SEU ATU 1056</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">circa 2002</unitdate>
+          <container id="aspace_25ad153d0ecf26b27ea09e1540c224f5" label="Mixed Materials [31142051727421]" type="Box">4</container>
+          <container id="aspace_64333088796ac73b07cc558debcb1136" parent="aspace_25ad153d0ecf26b27ea09e1540c224f5" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_ref72" level="file">
+        <did>
+          <unittitle>TWU Local 100 Calendar</unittitle>
+          <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+          <container id="aspace_9e07a7404de7593ac34063e4337b1077" label="Mixed Materials [31142051727421]" type="Box">4</container>
+          <container id="aspace_f8d8d09a22461a75c94ed4822a9be534" parent="aspace_9e07a7404de7593ac34063e4337b1077" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_ref73" level="file">
+        <did>
+          <unittitle>Off Table Memos and Flyers</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_f5472c8a16e49c87b455c4a063fbc078" label="Mixed Materials [31142051727413]" type="Box">5</container>
+          <container id="aspace_b730da1ce633f70a0751197c944f4235" parent="aspace_f5472c8a16e49c87b455c4a063fbc078" type="Folder">1-2</container>
+        </did>
+      </c>
+      <c id="aspace_ref74" level="file">
+        <did>
+          <unittitle>Contract Radification Binder</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_3beadece82ab53f1845c4aca11512701" label="Mixed Materials [31142051727413]" type="Box">5</container>
+          <container id="aspace_4247eea7be7fc2302a154e98b607485f" parent="aspace_3beadece82ab53f1845c4aca11512701" type="Folder">3-4</container>
+        </did>
+      </c>
+      <c id="aspace_ref75" level="file">
+        <did>
+          <unittitle>Marc Kagan/ TWU Local 100 Oral History Interviews</unittitle>
+          <unitid>cuid36927</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">761 Megabytes</extent>
+            <extent altrender="carrier">on 28 computer files</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="2005/2005" type="inclusive">circa 2005</unitdate>
+          <container id="aspace_4e757a2c3fdc17a67f90c8b881acdb6c" label="Mixed Materials [31142051727413]" type="Box">5</container>
+          <container id="aspace_b0718640eef6df347dee6407e85907ac" parent="aspace_4e757a2c3fdc17a67f90c8b881acdb6c" type="Folder">5</container>
+          <container id="aspace_55c19d670c13570487d017f0586ac4b5" label="electronic records" type="Box">Electronic Records</container>
+          <container id="aspace_7c9c12a38cb927933f6b69abe69b7974" parent="aspace_55c19d670c13570487d017f0586ac4b5" type="Item">TW_TAM_679_ER_1</container>
+          <dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Marc Kagan/ TWU Local 100 Oral History Interviews" xlink:type="simple">
+            <daodesc>
+              <p>Marc Kagan/ TWU Local 100 Oral History Interviews</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_0015b0a5f732993382cfcabddd1a6a2d">
+          <head>Scope and Contents</head>
+          <p>Interview subjects include: Alan Saly, Arthur Schwartz, Dave Katzman, Eddie Kay, George McAnanama, Irving Lee, JP Patafio, Ken Margolies, Marty Goodman, Mike Jerome, Sean Ahern, Terry Meginniss, and Tim Schermerhorn.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_4e04f8c8e4e838a40ec180b9935ff76a" level="file">
+        <did>
+          <unittitle>Marc Kagan/TWU Local 100 Oral History Interviews</unittitle>
+          <unitid>cuid36941</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">8.15 Gigabytes</extent>
+            <extent altrender="carrier">on 65 computer files</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="2015/2022" type="inclusive">2015-2022</unitdate>
+          <container id="aspace_424a8c9bc18bf98a25692b40722dfc7d" label="electronic records" type="Box">Electronic Records</container>
+          <container id="aspace_2e70338a0e9de7ced98a63565c1694fc" parent="aspace_424a8c9bc18bf98a25692b40722dfc7d" type="Item">TW_TAM_679_ER_2</container>
+          <dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Marc Kagan/TWU Local 100 Oral History Interviews" xlink:type="simple">
+            <daodesc>
+              <p>Marc Kagan/TWU Local 100 Oral History Interviews</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_86ae93c2fe8581b52d9a3d49d4fd403f">
+          <head>Scope and Contents</head>
+          <p>Interview subjects include: Stanley Aronwitz, Joe Campbell, Ken Carl, Anita Clinton, Vic Constantino, Bruce Dickstein, Steve Downs, Tony Feliciano, Chris Fox, Joel Fredericson, Jim Gannon, Joe Gayol, Robin Gillespie, Arthur Goldberg, Bill Gottlieb, Sonny (Harold) Hall, Larry Hanley, Kevin Harrington, Joe James, Dave Katzman, George MacAnanama, John McCarthy, Terry Meginniss, Gene Monette, John Mooney, JP Patafio, Louis Russo Jr., Roy Schulman, Robert Schwab, Arthur SChwartz, Michael Scott, Jesse Sharkey, John Simino, Eileen Sullivan, Marian Swerdlow, Tim Schermerhorn, Mike Tutrone, Jarvis Tyner, Nick Unger, and Progressive Action.</p>
+        </scopecontent>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

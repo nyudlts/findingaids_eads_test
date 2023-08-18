@@ -1,66 +1,429 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_027">tam_027</eadid><filedesc><titlestmt><titleproper>Guide to the Morris Hillquit Papers <num>TAM.027</num></titleproper><author>Tamiment staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>11/04/2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:32:10 -0400</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Morris Hillquit Papers</unittitle>
-    <origination label="Creator">
-      <persname source="naf">Hillquit, Morris, 1869-1933</persname>
-    </origination>
-    <origination label="source">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/tam_027">tam_027</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Morris Hillquit Papers <num>TAM.027</num></titleproper>
+        <author>Tamiment staff</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>11/04/2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:32:10 -0400</date>.</creation>
+      <langusage>Description is in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Morris Hillquit Papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Hillquit, Morris, 1869-1933</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" source="local">Hillquit, Nina</persname>
+      </origination>
+      <unitid>TAM.027</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
+        <extent altrender="carrier">(2 boxes)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1906/1959" type="inclusive">1906-1959</unitdate>
+      <abstract id="aspace_6cded99589d527532fcbea9696ca7ce0">Morris Hillquit (1896-1933) was a socialist candidate, leader, lawyer, author and prominent theoretician of the Socialist Pary. The papers contain correspondence, including letters by James Oneal, August Claessens and Julius Gerber; manuscripts; campaign literature; printed ephemera; clippings, photographs and other papers, including the text of a debate with Bertrand Russell, and the typescript of "Builders of World Socialism," (1962) an unpublished book by Hillquit's daughter, Nina.</abstract>
+      <langmaterial id="aspace_f0d447c08becefdb63d525019a444477">Materials are in English</langmaterial>
+    </did>
+    <userestrict id="aspace_3a5c04899b6727b52fadfaf3c685924c">
+      <head>Conditions Governing Use</head>
+      <p>Materials in this collection created by Morris Hillquit are in the public domain. Other materials in this collection are expected to enter the public domain in 2080. The Tamiment Library is not authorized to grant permission to publish or reproduce materials in this collection.</p>
+    </userestrict>
+    <accessrestrict id="aspace_03b753141bbc58323ba4a0e5cbf1ae0c">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <arrangement id="aspace_6aab0ead90f71dd3f7b94cb8cd39e304">
+      <head>Arrangement</head>
+      <p>The Papers are organized into one alphabetically arranged series.</p>
+    </arrangement>
+    <bioghist id="aspace_7266a36f2bf86485e38c1dd7e1d25be0">
+      <head>Historical/Biographical Note</head>
+      <p>Morris Hillquit (1896-1933) was a socialist leader, lawyer, author and prominent theoretician of the Socialist Pary. He ran twice for mayor of New York City and five times for the House of Representatives, always unsuccessfully.</p>
+    </bioghist>
+    <acqinfo id="aspace_04eb51ef6a635954ffed4c2a7ce8c092">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Nina Hillquit, daughter of Morris Hillquit, in 1957. The accession number associated with this gift is 1957.003.</p>
+    </acqinfo>
+    <scopecontent id="aspace_738c4a38cf76ed78b5fe30c305fe6473">
+      <head>Scope and Contents</head>
+      <p>The papers contain correspondence; manuscripts of addresses, particularly relating to Hillquit's political campaigns; campaign literature; printed ephemera; clippings, photographs and other papers. Also included are letters by James Oneal discussing Hillquit's representation of United States oil companies in a suit with the USSR; correspondence with August Claessens and Julius Gerber; the manuscript of "Builders of World Socialism," and a typescript of "Builders of World Socialism," (1962) an unpublished book by Hillquit's daughter, Nina; an address (1912) at a local New York socialist meeting, and the text of a debate with Bertrand Russell, "Is the British Labor Government Revolutionary?"</p>
+    </scopecontent>
+    <relatedmaterial id="aspace_e4e0764da3ed05a5f4fadfed39005e44">
+      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives and elsewhere</head>
+      <p>Morris Hillquit Papers (1895-1943) at the Wisconsin Historical Society in Madison, WI.</p>
+    </relatedmaterial>
+    <controlaccess>
+      <genreform source="aat">Pamphlets.</genreform>
+      <genreform source="aat">Manuscripts for publication.</genreform>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <genreform source="aat">Black-and-white photographs.</genreform>
+      <subject source="lcsh">Socialists -- United States.</subject>
+      <subject source="lcsh">Women socialists -- United States.</subject>
+      <subject source="lcsh">Socialism -- United States.</subject>
+      <persname role="crp" source="naf">Claessens, August, 1885-1954 -- |v Correspondence</persname>
+      <persname source="naf">Haywood, Big Bill, 1869-1928</persname>
+      <persname source="naf">Russell, Bertrand, 1872-1970</persname>
+      <persname source="local">Hillquit, Nina</persname>
+      <corpname authfilenumber="(lccn)n80089534" source="naf">Socialist Party (U.S.)</corpname>
+      <persname source="naf">Oneal, James, 1875-1962</persname>
+      <persname role="aut" source="naf">Hillquit, Morris, 1869-1933</persname>
+      <persname role="crp" rules="dacs" source="local">Gerber, Julius, 1862-1916 -- |v Correspondence</persname>
       <persname role="dnr" source="local">Hillquit, Nina</persname>
-    </origination>
-    <unitid>TAM.027</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
-      <extent altrender="carrier">(2 boxes)</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1906/1959" type="inclusive">1906-1959</unitdate>
-    <abstract id="aspace_6cded99589d527532fcbea9696ca7ce0">Morris Hillquit (1896-1933) was a socialist candidate, leader, lawyer, author and prominent theoretician of the Socialist Pary. The papers contain correspondence, including letters by James Oneal, August Claessens and Julius Gerber; manuscripts; campaign literature; printed ephemera; clippings, photographs and other papers, including the text of a debate with Bertrand Russell, and the typescript of "Builders of World Socialism," (1962) an unpublished book by Hillquit's daughter, Nina.</abstract>
-    <langmaterial id="aspace_f0d447c08becefdb63d525019a444477">Materials are in English</langmaterial>
-  </did>
-  <userestrict id="aspace_3a5c04899b6727b52fadfaf3c685924c">
-    <head>Conditions Governing Use</head>
-<p>Materials in this collection created by Morris Hillquit are in the public domain. Other materials in this collection are expected to enter the public domain in 2080. The Tamiment Library is not authorized to grant permission to publish or reproduce materials in this collection.</p>  </userestrict>
-  <accessrestrict id="aspace_03b753141bbc58323ba4a0e5cbf1ae0c">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <arrangement id="aspace_6aab0ead90f71dd3f7b94cb8cd39e304">
-    <head>Arrangement</head>
-<p>The Papers are organized into one alphabetically arranged series.</p>  </arrangement>
-  <bioghist id="aspace_7266a36f2bf86485e38c1dd7e1d25be0">
-    <head>Historical/Biographical Note</head>
-<p>Morris Hillquit (1896-1933) was a socialist leader, lawyer, author and prominent theoretician of the Socialist Pary. He ran twice for mayor of New York City and five times for the House of Representatives, always unsuccessfully.</p>  </bioghist>
-  <acqinfo id="aspace_04eb51ef6a635954ffed4c2a7ce8c092">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Nina Hillquit, daughter of Morris Hillquit, in 1957. The accession number associated with this gift is 1957.003.</p>  </acqinfo>
-  <scopecontent id="aspace_738c4a38cf76ed78b5fe30c305fe6473">
-    <head>Scope and Contents</head>
-<p>The papers contain correspondence; manuscripts of addresses, particularly relating to Hillquit's political campaigns; campaign literature; printed ephemera; clippings, photographs and other papers. Also included are letters by James Oneal discussing Hillquit's representation of United States oil companies in a suit with the USSR; correspondence with August Claessens and Julius Gerber; the manuscript of "Builders of World Socialism," and a typescript of "Builders of World Socialism," (1962) an unpublished book by Hillquit's daughter, Nina; an address (1912) at a local New York socialist meeting, and the text of a debate with Bertrand Russell, "Is the British Labor Government Revolutionary?"</p>  </scopecontent>
-  <relatedmaterial id="aspace_e4e0764da3ed05a5f4fadfed39005e44">
-    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives and elsewhere</head>
-<p>Morris Hillquit Papers (1895-1943) at the Wisconsin Historical Society in Madison, WI.</p>  </relatedmaterial>
-  <controlaccess>
-    <genreform source="aat">Pamphlets.</genreform>
-    <genreform source="aat">Manuscripts for publication.</genreform>
-    <genreform source="aat">Clippings (information artifacts)</genreform>
-    <genreform source="aat">Black-and-white photographs.</genreform>
-    <subject source="lcsh">Socialists -- United States.</subject>
-    <subject source="lcsh">Women socialists -- United States.</subject>
-    <subject source="lcsh">Socialism -- United States.</subject>
-    <persname role="crp" source="naf">Claessens, August, 1885-1954 -- |v Correspondence</persname>
-    <persname source="naf">Haywood, Big Bill, 1869-1928</persname>
-    <persname source="naf">Russell, Bertrand, 1872-1970</persname>
-    <persname source="local">Hillquit, Nina</persname>
-    <corpname authfilenumber="(lccn)n80089534" source="naf">Socialist Party (U.S.)</corpname>
-    <persname source="naf">Oneal, James, 1875-1962</persname>
-    <persname role="aut" source="naf">Hillquit, Morris, 1869-1933</persname>
-    <persname role="crp" rules="dacs" source="local">Gerber, Julius, 1862-1916 -- |v Correspondence</persname>
-    <persname role="dnr" source="local">Hillquit, Nina</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref12" level="series"><did><unittitle>Papers</unittitle></did><c id="aspace_ref14" level="file"><did><unittitle>Biographical: Memorabilia </unittitle><unitdate datechar="creation">n.d.</unitdate><container altrender="Manuscript box - Legal" id="aspace_6cfdb720d812ac34eacc62e543f19838" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_850455df3a97c14c745356db8cff4b9f" parent="aspace_6cfdb720d812ac34eacc62e543f19838" type="Folder">1</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Biographical: "Morris Hillquit: American Social Democrat" by Robert William Iversen</unittitle><unitdate datechar="creation">Jan 1951</unitdate><container altrender="Manuscript box - Legal" id="aspace_0ac92a8e14170566bf1f6136ce696d1a" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_4f44ed78142b48f6acce5cfa19894085" parent="aspace_0ac92a8e14170566bf1f6136ce696d1a" type="Folder">2</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Biographical: "Morris Hillquit: An Address" by Alexander Kahn</unittitle><unitdate datechar="creation">Jun 24, 1939</unitdate><container altrender="Manuscript box - Legal" id="aspace_5133573c69eb8c5fc7b1fe2b649116bb" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_10b32d12c1e02468dbe3585c8a07140f" parent="aspace_5133573c69eb8c5fc7b1fe2b649116bb" type="Folder">3</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Brandeis University</unittitle><unitdate datechar="creation">1957, 1959</unitdate><container altrender="Manuscript box - Legal" id="aspace_a696a5570872aa1ef1dbd8913afecb31" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_e1a8ca6b48ca840bc9d0a43f97c09178" parent="aspace_a696a5570872aa1ef1dbd8913afecb31" type="Folder">4</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Clippings: Biographical </unittitle><unitdate datechar="creation">1931-1954</unitdate><container altrender="Manuscript box - Legal" id="aspace_bb539286a8b09a52f1152541066b8ecd" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_cbc6cb521de2a445103ad3311b6437ed" parent="aspace_bb539286a8b09a52f1152541066b8ecd" type="Folder">5</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Clippings: Debates</unittitle><unitdate datechar="creation">May 5, 1924</unitdate><container altrender="Manuscript box - Legal" id="aspace_4d74c4ca3f2096fa6573270b2280b029" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_0fc6955557a9fd51b212b1f6d179b142" parent="aspace_4d74c4ca3f2096fa6573270b2280b029" type="Folder">6</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Clippings: General</unittitle><unitdate datechar="creation">1912-1933, n.d.</unitdate><container altrender="Manuscript box - Legal" id="aspace_c096541afd3d6cccd1f7d60909ec8cc1" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_522fb5435b40ce67551f08094200d590" parent="aspace_c096541afd3d6cccd1f7d60909ec8cc1" type="Folder">7</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Clippings: S.S. Hillquit (Liberty Ship)
-</unittitle><unitdate datechar="creation">1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_6a7c271204fc54677a80fcdace9669e1" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_d5eaca7fee5774ce652daa0be9b637c7" parent="aspace_6a7c271204fc54677a80fcdace9669e1" type="Folder">8</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Correspondence: Belgian Labor Party</unittitle><unitdate datechar="creation">1930</unitdate><container altrender="Manuscript box - Legal" id="aspace_a2a6a0caffb0f4a4365a42a6eb4deec8" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_5c1c255e09c4b3ec8887c0c5fb7050fe" parent="aspace_a2a6a0caffb0f4a4365a42a6eb4deec8" type="Folder">9</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Correspondence: Claessens, August</unittitle><unitdate datechar="creation">1915, 1949</unitdate><container altrender="Manuscript box - Legal" id="aspace_a578f2f2006c0c7ea62f053ac90c54e9" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_b4773d070f76434a263bdee0b7b51d9a" parent="aspace_a578f2f2006c0c7ea62f053ac90c54e9" type="Folder">10</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Correspondence: General</unittitle><unitdate datechar="creation">1928, 1931</unitdate><container altrender="Manuscript box - Legal" id="aspace_c69d4c09742694b2e06cf0f1dd4f1d24" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_028debd74821d90f6c98e50cea66de6b" parent="aspace_c69d4c09742694b2e06cf0f1dd4f1d24" type="Folder">11</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Correspondence: Gerber, Julius</unittitle><unitdate datechar="creation">May 8, 1914</unitdate><container altrender="Manuscript box - Legal" id="aspace_04ae4486d378d1371bd17d2deee2533d" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_f27577f75e0d71fbe88f4c0393f3cd64" parent="aspace_04ae4486d378d1371bd17d2deee2533d" type="Folder">12</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Correspondence: Holiday Cards</unittitle><unitdate datechar="creation">n.d.</unitdate><container altrender="Manuscript box - Legal" id="aspace_70a52968af8d811b2f1deeb428125cf4" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_ba68d7a53625e8219a1045cfbd00f851" parent="aspace_70a52968af8d811b2f1deeb428125cf4" type="Folder">13</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Correspondence: Lee, Algernon</unittitle><unitdate datechar="creation">1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_8b69dc375611986140dcbc6d947878bb" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_7e60c552f873f0429416794384830bf2" parent="aspace_8b69dc375611986140dcbc6d947878bb" type="Folder">14</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Correspondence: National Civic Federation</unittitle><unitdate datechar="creation">1911</unitdate><container altrender="Manuscript box - Legal" id="aspace_4c3d475601e88f673970d84d029f451e" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_880b80d5d6af5030f380d263ee7972db" parent="aspace_4c3d475601e88f673970d84d029f451e" type="Folder">15</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Correspondence: Rand School</unittitle><unitdate datechar="creation">Nov 4, 1915</unitdate><container altrender="Manuscript box - Legal" id="aspace_3e29928e67de83ef14f29c597977e6e1" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_b7dffa93f990af3155cb8e42a3c97bc7" parent="aspace_3e29928e67de83ef14f29c597977e6e1" type="Folder">16</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Correspondence: 60th Birthday</unittitle><unitdate datechar="creation">Oct 18, 1929</unitdate><container altrender="Manuscript box - Legal" id="aspace_8245d4c89dc6bbf04e7bbd02a6b3b256" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_d17229a172dab58b67bb2113e45927a9" parent="aspace_8245d4c89dc6bbf04e7bbd02a6b3b256" type="Folder">17</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Correspondence: Soviet Oil Case</unittitle><unitdate datechar="creation">1931</unitdate><container altrender="Manuscript box - Legal" id="aspace_c17a23624a87ef7dc171e7380cce1255" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_1f294c580303ba6bb835e9e250e1e65c" parent="aspace_c17a23624a87ef7dc171e7380cce1255" type="Folder">18</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Death and Commemeration</unittitle><unitdate datechar="creation">1933, 1940, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_1fc347615ea88f01cbb190751364420a" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_6fb8f298d12bb897c4727c3f5130b0a6" parent="aspace_1fc347615ea88f01cbb190751364420a" type="Folder">19</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Debate: "Is the British Government Revolutionary?" (Affirmative: Hillquit, Morris; Negative: Bertrand, Russell. Carnegie Hall. Typescript, 60 Pages)</unittitle><unitdate datechar="creation">May 5, 1924</unitdate><container altrender="Manuscript box - Legal" id="aspace_6b85609f7383fc1a6ea63ef188f45a02" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_46256e8d01368391251b459dcf4f71f5" parent="aspace_6b85609f7383fc1a6ea63ef188f45a02" type="Folder">20</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Debate: "What Shall the Attitude of the Socialist Party Be Toward the Economic Organization of the Workers?" (Hillquit, Morris versus Haywood, William. Cooper Union. Typescript, 70 Pages)</unittitle><unitdate datechar="creation">Jan 11, 1912</unitdate><container altrender="Manuscript box - Legal" id="aspace_bc75af3cb6f0d8a8e5084b232db357b9" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_263284edb73ef9a317c27b46279ce227" parent="aspace_bc75af3cb6f0d8a8e5084b232db357b9" type="Folder">21</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Elections: Hillquit, Morris</unittitle><unitdate datechar="creation">1906-1936</unitdate><container altrender="Manuscript box - Legal" id="aspace_27ac09a32ae5b9b2831af0bb07a544ed" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_24d6689b40d92b9424c344d5fcfc626c" parent="aspace_27ac09a32ae5b9b2831af0bb07a544ed" type="Folder">22</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Hillquit, Morris: Writings, Published, Leaflets and Brief Pamphlets</unittitle><unitdate datechar="creation">1908-1929, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_4e8791b82c392a35d1900b3011d4ab0d" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_eaf9bd9adba1fd8a58880e994d867d91" parent="aspace_4e8791b82c392a35d1900b3011d4ab0d" type="Folder">23</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Hillquit, Morris: Writings, Published, "The Red Flag and the Stars and Stripes" (New York Call)</unittitle><unitdate datechar="creation">1912</unitdate><container altrender="Manuscript box - Legal" id="aspace_582cd88ca7148bd50850f196890f71a3" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_8ed36a873a616e2f6227b25be82a0191" parent="aspace_582cd88ca7148bd50850f196890f71a3" type="Folder">24</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Hillquit, Morris: Writings, Published, The Workers' Rights Amendment (H.J. Res 327)
-</unittitle><unitdate datechar="creation">Jun 17, 1935</unitdate><container altrender="Manuscript box - Legal" id="aspace_d10b8881e4e2033989e86c18a9bf2b37" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_f35d9bb539031843bf170cdd8f5189ec" parent="aspace_d10b8881e4e2033989e86c18a9bf2b37" type="Folder">25</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Hillquit, Morris: Writings, Unpublished, "Comrade Bull Moose" (Typescript, 6 Pages)</unittitle><unitdate datechar="creation">1912</unitdate><container altrender="Manuscript box - Legal" id="aspace_5eaa7ad1d17d87d087d3f2c11cd3b64f" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_1a3ca181a112ad5b40eccd139b7628f5" parent="aspace_5eaa7ad1d17d87d087d3f2c11cd3b64f" type="Folder">26</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Hillquit, Morris: Writings, Unpublished, "The Socialist Party" (Typescript, 8 Pages)</unittitle><unitdate datechar="creation">1907</unitdate><container altrender="Manuscript box - Legal" id="aspace_cf6c7a4fa7f19c225427faac51781080" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_4f549d8bd893cd4fca4bc3ffbf7beb49" parent="aspace_cf6c7a4fa7f19c225427faac51781080" type="Folder">27</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Hillquit, Nina: Correspondence</unittitle><unitdate datechar="creation">1944-1957</unitdate><container altrender="Manuscript box - Legal" id="aspace_edf8bcc736b572145c9da37b3c765568" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_e37dbc4d4a16fd062b3a643ebdffe922" parent="aspace_edf8bcc736b572145c9da37b3c765568" type="Folder">28</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Hillquit, Nina: Writings, Unpublished, "Builders of World Socialism" (Typescript, pages 1-67a)</unittitle><unitdate datechar="creation">1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_f8773591a7a255d204a4de5349528933" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_3ca4b70e738d4618faf3f1e40de231cd" parent="aspace_f8773591a7a255d204a4de5349528933" type="Folder">29</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>Hillquit, Nina: Writings, Unpublished, "Builders of World Socialism" (Typescript, pages 68-132)</unittitle><unitdate datechar="creation">1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_ebfcd25a51bc414c1b63cb99b59092d0" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_73346b49c3cc32fa9ee0855ebce56cb6" parent="aspace_ebfcd25a51bc414c1b63cb99b59092d0" type="Folder">30</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>Hillquit, Nina: Writings, Unpublished, "Builders of World Socialism" (Typescript, pages 133-205)</unittitle><unitdate datechar="creation">1962</unitdate><container altrender="Manuscript box - Legal" id="aspace_0cae93adb5aa21d99cf502b3e30d717d" label="Mixed Materials [31142062773679]" type="Box">1</container><container id="aspace_6e01c2ea62fc579ea61253334edeb735" parent="aspace_0cae93adb5aa21d99cf502b3e30d717d" type="Folder">31</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>Hillquit, Nina: Writings, Unpublished, "Builders of World Socialism" (Typescript, pages 206-302)</unittitle><unitdate datechar="creation">1962</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_325ac21654a969ef8dc1ad38c0cfbd4e" label="Mixed Materials [31142062773687]" type="Box">2</container><container id="aspace_65daa21950653b6a8363906797effbf4" parent="aspace_325ac21654a969ef8dc1ad38c0cfbd4e" type="Folder">1</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>Hillquit, Nina: Writings, Unpublished, "Builders of World Socialism" (Typescript, pages 303-349)</unittitle><unitdate datechar="creation">1962</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_8f2670e39e8fcc30aa857f862ab6c3e1" label="Mixed Materials [31142062773687]" type="Box">2</container><container id="aspace_9e2f55801d272e13d0a497fed3297ef8" parent="aspace_8f2670e39e8fcc30aa857f862ab6c3e1" type="Folder">2</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Hillquit, Nina: Writings, Unpublished, "Builders of World Socialism" (Typescript, pages 350-415)</unittitle><unitdate datechar="creation">1962</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_0d1747873f7ff91f836960416f791f3a" label="Mixed Materials [31142062773687]" type="Box">2</container><container id="aspace_55805039dabd5584d03e5010c6214c72" parent="aspace_0d1747873f7ff91f836960416f791f3a" type="Folder">3</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>Photographs (Almost All of Morris Hillquit Only)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_c861bd835e49cdb42399c92dcaaf1143" label="Mixed Materials [31142062773687]" type="Box">2</container><container id="aspace_86344d83f791d496f3376f2c2345c88b" parent="aspace_c861bd835e49cdb42399c92dcaaf1143" type="Folder">4</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>Trachtenberg, Alexander: "American Socialism and the War" (Publisher's Proof; Introduction by Hillquit, Morris)</unittitle><unitdate datechar="creation">1917</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_4df38109908480ab0462d0b2ba37b125" label="Mixed Materials [31142062773687]" type="Box">2</container><container id="aspace_0088d686f0ae725455a9780888ee6f95" parent="aspace_4df38109908480ab0462d0b2ba37b125" type="Folder">5</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>Fragile Originals: Clippings, Biographical (Restricted)</unittitle><unitdate datechar="creation">1931-1954</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_9efc7c699520cda256b082e365f55c2f" label="Mixed Materials [31142062773687]" type="Box">2</container><container id="aspace_bb94b113b0f85e158bd192f646b807f6" parent="aspace_9efc7c699520cda256b082e365f55c2f" type="Folder">6</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Fragile Originals: Clippings: Brandeis, Debates, General (Restricted)</unittitle><unitdate datechar="creation">1912-1933</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_9abe5aea54ffeabb28797c3dc4f0ab9c" label="Mixed Materials [31142062773687]" type="Box">2</container><container id="aspace_ba106e0ac5d2abd672320fc0c767363d" parent="aspace_9abe5aea54ffeabb28797c3dc4f0ab9c" type="Folder">7</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Fragile Originals: Soviet Oil Case (Restricted)</unittitle><unitdate datechar="creation">1931</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_1dd4eb53823a0fbc09e7ce00e46ba567" label="Mixed Materials [31142062773687]" type="Box">2</container><container id="aspace_94a0f8645f3e8fc53d53577d66db6411" parent="aspace_1dd4eb53823a0fbc09e7ce00e46ba567" type="Folder">8</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Fragile Originals: Writings, Published, Brief Pamphlet (Restricted)</unittitle><unitdate datechar="creation">May 11, 1911</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_6f8df12b524c4844a92406c5c37cb5a7" label="Mixed Materials [31142062773687]" type="Box">2</container><container id="aspace_6c1a9110946107d0fa798332e4ef29bb" parent="aspace_6f8df12b524c4844a92406c5c37cb5a7" type="Folder">9</container></did></c></c></dsc>
-</archdesc>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref12" level="series">
+        <did>
+          <unittitle>Papers</unittitle>
+        </did>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Biographical: Memorabilia </unittitle>
+            <unitdate datechar="creation">n.d.</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6cfdb720d812ac34eacc62e543f19838" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_850455df3a97c14c745356db8cff4b9f" parent="aspace_6cfdb720d812ac34eacc62e543f19838" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Biographical: "Morris Hillquit: American Social Democrat" by Robert William Iversen</unittitle>
+            <unitdate datechar="creation">Jan 1951</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0ac92a8e14170566bf1f6136ce696d1a" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_4f44ed78142b48f6acce5cfa19894085" parent="aspace_0ac92a8e14170566bf1f6136ce696d1a" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Biographical: "Morris Hillquit: An Address" by Alexander Kahn</unittitle>
+            <unitdate datechar="creation">Jun 24, 1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5133573c69eb8c5fc7b1fe2b649116bb" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_10b32d12c1e02468dbe3585c8a07140f" parent="aspace_5133573c69eb8c5fc7b1fe2b649116bb" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Brandeis University</unittitle>
+            <unitdate datechar="creation">1957, 1959</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a696a5570872aa1ef1dbd8913afecb31" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_e1a8ca6b48ca840bc9d0a43f97c09178" parent="aspace_a696a5570872aa1ef1dbd8913afecb31" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Clippings: Biographical </unittitle>
+            <unitdate datechar="creation">1931-1954</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bb539286a8b09a52f1152541066b8ecd" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_cbc6cb521de2a445103ad3311b6437ed" parent="aspace_bb539286a8b09a52f1152541066b8ecd" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Clippings: Debates</unittitle>
+            <unitdate datechar="creation">May 5, 1924</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4d74c4ca3f2096fa6573270b2280b029" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_0fc6955557a9fd51b212b1f6d179b142" parent="aspace_4d74c4ca3f2096fa6573270b2280b029" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Clippings: General</unittitle>
+            <unitdate datechar="creation">1912-1933, n.d.</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c096541afd3d6cccd1f7d60909ec8cc1" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_522fb5435b40ce67551f08094200d590" parent="aspace_c096541afd3d6cccd1f7d60909ec8cc1" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Clippings: S.S. Hillquit (Liberty Ship)
+</unittitle>
+            <unitdate datechar="creation">1944</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6a7c271204fc54677a80fcdace9669e1" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_d5eaca7fee5774ce652daa0be9b637c7" parent="aspace_6a7c271204fc54677a80fcdace9669e1" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Correspondence: Belgian Labor Party</unittitle>
+            <unitdate datechar="creation">1930</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a2a6a0caffb0f4a4365a42a6eb4deec8" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_5c1c255e09c4b3ec8887c0c5fb7050fe" parent="aspace_a2a6a0caffb0f4a4365a42a6eb4deec8" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Correspondence: Claessens, August</unittitle>
+            <unitdate datechar="creation">1915, 1949</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a578f2f2006c0c7ea62f053ac90c54e9" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_b4773d070f76434a263bdee0b7b51d9a" parent="aspace_a578f2f2006c0c7ea62f053ac90c54e9" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Correspondence: General</unittitle>
+            <unitdate datechar="creation">1928, 1931</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c69d4c09742694b2e06cf0f1dd4f1d24" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_028debd74821d90f6c98e50cea66de6b" parent="aspace_c69d4c09742694b2e06cf0f1dd4f1d24" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Correspondence: Gerber, Julius</unittitle>
+            <unitdate datechar="creation">May 8, 1914</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_04ae4486d378d1371bd17d2deee2533d" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_f27577f75e0d71fbe88f4c0393f3cd64" parent="aspace_04ae4486d378d1371bd17d2deee2533d" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Correspondence: Holiday Cards</unittitle>
+            <unitdate datechar="creation">n.d.</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_70a52968af8d811b2f1deeb428125cf4" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_ba68d7a53625e8219a1045cfbd00f851" parent="aspace_70a52968af8d811b2f1deeb428125cf4" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Correspondence: Lee, Algernon</unittitle>
+            <unitdate datechar="creation">1944</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8b69dc375611986140dcbc6d947878bb" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_7e60c552f873f0429416794384830bf2" parent="aspace_8b69dc375611986140dcbc6d947878bb" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Correspondence: National Civic Federation</unittitle>
+            <unitdate datechar="creation">1911</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4c3d475601e88f673970d84d029f451e" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_880b80d5d6af5030f380d263ee7972db" parent="aspace_4c3d475601e88f673970d84d029f451e" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Correspondence: Rand School</unittitle>
+            <unitdate datechar="creation">Nov 4, 1915</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3e29928e67de83ef14f29c597977e6e1" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_b7dffa93f990af3155cb8e42a3c97bc7" parent="aspace_3e29928e67de83ef14f29c597977e6e1" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Correspondence: 60th Birthday</unittitle>
+            <unitdate datechar="creation">Oct 18, 1929</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8245d4c89dc6bbf04e7bbd02a6b3b256" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_d17229a172dab58b67bb2113e45927a9" parent="aspace_8245d4c89dc6bbf04e7bbd02a6b3b256" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Correspondence: Soviet Oil Case</unittitle>
+            <unitdate datechar="creation">1931</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c17a23624a87ef7dc171e7380cce1255" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_1f294c580303ba6bb835e9e250e1e65c" parent="aspace_c17a23624a87ef7dc171e7380cce1255" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Death and Commemeration</unittitle>
+            <unitdate datechar="creation">1933, 1940, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1fc347615ea88f01cbb190751364420a" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_6fb8f298d12bb897c4727c3f5130b0a6" parent="aspace_1fc347615ea88f01cbb190751364420a" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Debate: "Is the British Government Revolutionary?" (Affirmative: Hillquit, Morris; Negative: Bertrand, Russell. Carnegie Hall. Typescript, 60 Pages)</unittitle>
+            <unitdate datechar="creation">May 5, 1924</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6b85609f7383fc1a6ea63ef188f45a02" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_46256e8d01368391251b459dcf4f71f5" parent="aspace_6b85609f7383fc1a6ea63ef188f45a02" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Debate: "What Shall the Attitude of the Socialist Party Be Toward the Economic Organization of the Workers?" (Hillquit, Morris versus Haywood, William. Cooper Union. Typescript, 70 Pages)</unittitle>
+            <unitdate datechar="creation">Jan 11, 1912</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bc75af3cb6f0d8a8e5084b232db357b9" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_263284edb73ef9a317c27b46279ce227" parent="aspace_bc75af3cb6f0d8a8e5084b232db357b9" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Elections: Hillquit, Morris</unittitle>
+            <unitdate datechar="creation">1906-1936</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_27ac09a32ae5b9b2831af0bb07a544ed" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_24d6689b40d92b9424c344d5fcfc626c" parent="aspace_27ac09a32ae5b9b2831af0bb07a544ed" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Hillquit, Morris: Writings, Published, Leaflets and Brief Pamphlets</unittitle>
+            <unitdate datechar="creation">1908-1929, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4e8791b82c392a35d1900b3011d4ab0d" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_eaf9bd9adba1fd8a58880e994d867d91" parent="aspace_4e8791b82c392a35d1900b3011d4ab0d" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Hillquit, Morris: Writings, Published, "The Red Flag and the Stars and Stripes" (New York Call)</unittitle>
+            <unitdate datechar="creation">1912</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_582cd88ca7148bd50850f196890f71a3" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_8ed36a873a616e2f6227b25be82a0191" parent="aspace_582cd88ca7148bd50850f196890f71a3" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Hillquit, Morris: Writings, Published, The Workers' Rights Amendment (H.J. Res 327)
+</unittitle>
+            <unitdate datechar="creation">Jun 17, 1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d10b8881e4e2033989e86c18a9bf2b37" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_f35d9bb539031843bf170cdd8f5189ec" parent="aspace_d10b8881e4e2033989e86c18a9bf2b37" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Hillquit, Morris: Writings, Unpublished, "Comrade Bull Moose" (Typescript, 6 Pages)</unittitle>
+            <unitdate datechar="creation">1912</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5eaa7ad1d17d87d087d3f2c11cd3b64f" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_1a3ca181a112ad5b40eccd139b7628f5" parent="aspace_5eaa7ad1d17d87d087d3f2c11cd3b64f" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Hillquit, Morris: Writings, Unpublished, "The Socialist Party" (Typescript, 8 Pages)</unittitle>
+            <unitdate datechar="creation">1907</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cf6c7a4fa7f19c225427faac51781080" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_4f549d8bd893cd4fca4bc3ffbf7beb49" parent="aspace_cf6c7a4fa7f19c225427faac51781080" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Hillquit, Nina: Correspondence</unittitle>
+            <unitdate datechar="creation">1944-1957</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_edf8bcc736b572145c9da37b3c765568" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_e37dbc4d4a16fd062b3a643ebdffe922" parent="aspace_edf8bcc736b572145c9da37b3c765568" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Hillquit, Nina: Writings, Unpublished, "Builders of World Socialism" (Typescript, pages 1-67a)</unittitle>
+            <unitdate datechar="creation">1962</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f8773591a7a255d204a4de5349528933" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_3ca4b70e738d4618faf3f1e40de231cd" parent="aspace_f8773591a7a255d204a4de5349528933" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Hillquit, Nina: Writings, Unpublished, "Builders of World Socialism" (Typescript, pages 68-132)</unittitle>
+            <unitdate datechar="creation">1962</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ebfcd25a51bc414c1b63cb99b59092d0" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_73346b49c3cc32fa9ee0855ebce56cb6" parent="aspace_ebfcd25a51bc414c1b63cb99b59092d0" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Hillquit, Nina: Writings, Unpublished, "Builders of World Socialism" (Typescript, pages 133-205)</unittitle>
+            <unitdate datechar="creation">1962</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0cae93adb5aa21d99cf502b3e30d717d" label="Mixed Materials [31142062773679]" type="Box">1</container>
+            <container id="aspace_6e01c2ea62fc579ea61253334edeb735" parent="aspace_0cae93adb5aa21d99cf502b3e30d717d" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Hillquit, Nina: Writings, Unpublished, "Builders of World Socialism" (Typescript, pages 206-302)</unittitle>
+            <unitdate datechar="creation">1962</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_325ac21654a969ef8dc1ad38c0cfbd4e" label="Mixed Materials [31142062773687]" type="Box">2</container>
+            <container id="aspace_65daa21950653b6a8363906797effbf4" parent="aspace_325ac21654a969ef8dc1ad38c0cfbd4e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Hillquit, Nina: Writings, Unpublished, "Builders of World Socialism" (Typescript, pages 303-349)</unittitle>
+            <unitdate datechar="creation">1962</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_8f2670e39e8fcc30aa857f862ab6c3e1" label="Mixed Materials [31142062773687]" type="Box">2</container>
+            <container id="aspace_9e2f55801d272e13d0a497fed3297ef8" parent="aspace_8f2670e39e8fcc30aa857f862ab6c3e1" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Hillquit, Nina: Writings, Unpublished, "Builders of World Socialism" (Typescript, pages 350-415)</unittitle>
+            <unitdate datechar="creation">1962</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_0d1747873f7ff91f836960416f791f3a" label="Mixed Materials [31142062773687]" type="Box">2</container>
+            <container id="aspace_55805039dabd5584d03e5010c6214c72" parent="aspace_0d1747873f7ff91f836960416f791f3a" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Photographs (Almost All of Morris Hillquit Only)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_c861bd835e49cdb42399c92dcaaf1143" label="Mixed Materials [31142062773687]" type="Box">2</container>
+            <container id="aspace_86344d83f791d496f3376f2c2345c88b" parent="aspace_c861bd835e49cdb42399c92dcaaf1143" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Trachtenberg, Alexander: "American Socialism and the War" (Publisher's Proof; Introduction by Hillquit, Morris)</unittitle>
+            <unitdate datechar="creation">1917</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_4df38109908480ab0462d0b2ba37b125" label="Mixed Materials [31142062773687]" type="Box">2</container>
+            <container id="aspace_0088d686f0ae725455a9780888ee6f95" parent="aspace_4df38109908480ab0462d0b2ba37b125" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Fragile Originals: Clippings, Biographical (Restricted)</unittitle>
+            <unitdate datechar="creation">1931-1954</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_9efc7c699520cda256b082e365f55c2f" label="Mixed Materials [31142062773687]" type="Box">2</container>
+            <container id="aspace_bb94b113b0f85e158bd192f646b807f6" parent="aspace_9efc7c699520cda256b082e365f55c2f" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Fragile Originals: Clippings: Brandeis, Debates, General (Restricted)</unittitle>
+            <unitdate datechar="creation">1912-1933</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_9abe5aea54ffeabb28797c3dc4f0ab9c" label="Mixed Materials [31142062773687]" type="Box">2</container>
+            <container id="aspace_ba106e0ac5d2abd672320fc0c767363d" parent="aspace_9abe5aea54ffeabb28797c3dc4f0ab9c" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Fragile Originals: Soviet Oil Case (Restricted)</unittitle>
+            <unitdate datechar="creation">1931</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_1dd4eb53823a0fbc09e7ce00e46ba567" label="Mixed Materials [31142062773687]" type="Box">2</container>
+            <container id="aspace_94a0f8645f3e8fc53d53577d66db6411" parent="aspace_1dd4eb53823a0fbc09e7ce00e46ba567" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Fragile Originals: Writings, Published, Brief Pamphlet (Restricted)</unittitle>
+            <unitdate datechar="creation">May 11, 1911</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_6f8df12b524c4844a92406c5c37cb5a7" label="Mixed Materials [31142062773687]" type="Box">2</container>
+            <container id="aspace_6c1a9110946107d0fa798332e4ef29bb" parent="aspace_6f8df12b524c4844a92406c5c37cb5a7" type="Folder">9</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

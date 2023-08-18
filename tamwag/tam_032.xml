@@ -1,79 +1,496 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_032">tam_032</eadid><filedesc><titlestmt><titleproper>Guide to the Kentucky Miners Defense Records <num>TAM.032</num></titleproper><author>Hillel Arnold, 2009; Edited by Maggie Schreiner to include oversize materials, 2013.</author></titlestmt><editionstmt><p>Kentucky Miners Defense Tam 32</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:32:38 -0400</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Kentucky Miners Defense Records</unittitle>
-    <origination label="Creator">
-      <corpname rules="dacs" source="local">Kentucky Miners Defense</corpname>
-    </origination>
-    <origination label="source">
-      <persname role="dnr" rules="dacs" source="local">Mahler, Bessie Freiberg</persname>
-    </origination>
-    <origination label="source">
-      <corpname authfilenumber="(lccn)n83029595" role="dnr" source="naf">Milwaukee Public Library</corpname>
-    </origination>
-    <unitid>TAM.032</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
-      <extent altrender="carrier">(6 boxes)</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1931/1937" type="inclusive">1931-1937</unitdate>
-    <abstract id="aspace_7d52d264e50727b8f4371dba1157c49f" label="Abstract">The Kentucky Miners Defense was formed to help free miners and local mine union officials convicted of conspiracy to murder three sheriff's deputies in Evarts, Harlan County, Kentucky during the miners' strike of May 1931. The committee was headed by Herbert Mahler, a former official of the Industrial Workers of the World. The collection contains court transcripts, statements and other documents relating to the miners' cases, as well as news releases, United States Senate subcommittee hearing reports, and excerpts from the <emph render="italic">Daily Worker</emph>.</abstract>
-    <langmaterial>
-      <language langcode="eng" scriptcode="Latn">English</language>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/tam_032">tam_032</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Kentucky Miners Defense Records <num>TAM.032</num></titleproper>
+        <author>Hillel Arnold, 2009; Edited by Maggie Schreiner to include oversize materials, 2013.</author>
+      </titlestmt>
+      <editionstmt>
+        <p>Kentucky Miners Defense Tam 32</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:32:38 -0400</date>.</creation>
+      <langusage>Description is in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Kentucky Miners Defense Records</unittitle>
+      <origination label="Creator">
+        <corpname rules="dacs" source="local">Kentucky Miners Defense</corpname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Mahler, Bessie Freiberg</persname>
+      </origination>
+      <origination label="source">
+        <corpname authfilenumber="(lccn)n83029595" role="dnr" source="naf">Milwaukee Public Library</corpname>
+      </origination>
+      <unitid>TAM.032</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
+        <extent altrender="carrier">(6 boxes)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1931/1937" type="inclusive">1931-1937</unitdate>
+      <abstract id="aspace_7d52d264e50727b8f4371dba1157c49f" label="Abstract">The Kentucky Miners Defense was formed to help free miners and local mine union officials convicted of conspiracy to murder three sheriff's deputies in Evarts, Harlan County, Kentucky during the miners' strike of May 1931. The committee was headed by Herbert Mahler, a former official of the Industrial Workers of the World. The collection contains court transcripts, statements and other documents relating to the miners' cases, as well as news releases, United States Senate subcommittee hearing reports, and excerpts from the <emph render="italic">Daily Worker</emph>.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
 .    </langmaterial>
-  </did>
-  <acqinfo id="aspace_573ca86a31a526d105f82747e0f39433">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Herbert Mahler's wife, Bessie Freiberg Mahler, in 1963. The accession number 1963.009 is associated with this gift. One pamphlet (<emph render="italic">Governer Chandler Denies...</emph>) was added to the collection as a donation from the Milwaukee Public Library in 2010.</p>  </acqinfo>
-  <accessrestrict id="aspace_1f0fe7d2281d57f44f965d95379b3c5d">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <bioghist id="aspace_1a80f3bee7b7b8f1c0b558461c26edf1">
-    <head>Historical/Biographical Note</head>
-<p>The Kentucky Miners Defense was an organization formed to help free seven imprisoned miners who had been convicted of murdering three coal company guards in Evarts, Harlan County, Kentucky during a hard-fought miners' strike in May 1931. Intense conflict between coal company agents and local authorities, on the one hand, and desperate locked-out miners, many of them homeless and destitute resulted in numerous incidents of violence. On May 5, 1931 a large group of armed miners attacked a convoy of deputies; a heavy exchange of fire, lasting thirty minutes, left 3 deputies and 1 miner dead. Local union officials W. B. Jones and William Hightower and more than forty miners were arrested in connection with the killing of the deputies. After several trials, Jones, Hightower and six others were convicted of conspiracy to commit murder, although the facts of the case were unclear.</p><p>Herbert Mahler (a former activist in the Industrial Workers of the World), director of the organization, spearheaded the publicity campaign to bring national attention to the miners' cases. Fund-raising publicity was often aimed at unions and their members since the Kentucky miners had been attempting to organize under the auspices of the United Mine Workers when they were violently blocked by the coal companies and their allies.</p><p>Sources:</p><p><list><item>American Civil Liberties Union. <title render="italic">The Kentucky Miners Struggle</title>. (New York: ACLU, 1932).</item><item>Hevener, John. <title render="italic">Which Side Are You on? The Harlan County Coal Miners, 1931-39</title>. Urbana: University of Illinois Press, 1978.</item><item>Publications relating to Kentucky Miners Defense. (Tamiment Library Vertical File).</item></list> </p>  </bioghist>
-  <scopecontent id="aspace_80170711d53ca4c77a1bd3062d1c3063">
-    <head>Scope and Content Note</head>
-<p><emph render="bold">Series I, General Files, 1931-1937</emph>, consists of statements, briefs and other documents related to the cases of Bill Hudson, Chester Poore, Elzie Phillips, Jim Reynolds, W. B. Jones and William Hightower, in both Circuit and Appeals courts. Also included are reports from a United States Senate subcommittee hearing on labor conditions in Harlan and Bell Counties, Kentucky Miners Defense news releases, and excerpts from the Daily Worker documenting events related to labor unrest in Kentucky.</p><p><emph render="bold">Series II, Transcripts, 1931-1933</emph>, contains court transcripts from the cases of Al Benson, Chester Poore, Elzie Phillips, Jim Reynolds and W. B. Jones from Harlan and Montgomery County Circuit Courts.</p>  </scopecontent>
-  <arrangement id="aspace_1082f6083b953be4a8d1635020b34902">
-    <head>Arrangement</head>
-<p>Folders are arranged alphabetically.</p><p>The files are grouped into 2 series:</p>    <list type="ordered">
-      <head>Missing Title</head>
-      <item>I, General Files, 1931-1937</item>
-      <item>II, Transcripts, 1931-1933</item>
-    </list>
-  </arrangement>
-  <relatedmaterial id="aspace_ba5a9a3192e63c929c2ec4c731ef7b40">
-    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-<p>Kentucky Miners Defense Photographs (PHOTOS 016)</p><p>John Nicholas Beffel Papers (TAM 055)</p>  </relatedmaterial>
-  <userestrict id="aspace_b285f6284a7d9d25dfbfb7f15ea5b0ab">
-    <head>Conditions Governing Use</head>
-<p>Tamiment Library has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in Series I: General Files are expected to enter the public domain in 2058.</p><p>Materials in Series II: Transcripts of this collection are in the public domain. Permission to publish or reproduce is not required.</p>  </userestrict>
-  <prefercite id="aspace_b53f593456053fda44c22053251b668b">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Kentucky Miners Defense Records; TAM 032; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <controlaccess>
-    <genreform source="aat">Transcripts.</genreform>
-    <geogname source="lcsh">Evarts (Ky.)</geogname>
-    <geogname source="lcsh">Harlan County (Ky.)</geogname>
-    <genreform source="aat">Correspondence.</genreform>
-    <genreform source="aat">Press releases.</genreform>
-    <subject source="lcsh">Coal mines and mining |z Kentucky |z Harlan County.</subject>
-    <subject source="lcsh">Coal miners |z Kentucky |z Harlan County.</subject>
-    <corpname rules="dacs" source="local">Kentucky Miners Defense</corpname>
-    <corpname authfilenumber="(lccn)n50062445" source="naf">United Mine Workers of America</corpname>
-    <persname source="ingest">Poore, Chester.</persname>
-    <persname source="ingest">Reynolds, Jim.</persname>
-    <persname rules="dacs" source="local">Benson, Al</persname>
-    <persname rules="dacs" source="local">Mahler, Herbert</persname>
-    <persname source="ingest">Phillips, Elzie.</persname>
-    <persname rules="dacs" source="local">Hightower, William</persname>
-    <persname rules="dacs" source="local">Jones, W. B.</persname>
-    <persname role="dnr" rules="dacs" source="local">Mahler, Bessie Freiberg</persname>
-    <corpname authfilenumber="(lccn)n83029595" role="dnr" source="naf">Milwaukee Public Library</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_ref14" level="series"><did><unittitle>Series I: General Files, 1931-1937.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref15" level="file"><did><unittitle><title render="italic">Bloody Harlan: The Story of Four Miners Serving Life for Daring to Organize a Union, Daring to Strike, Daring to Picket; Governer Chandler Denies Pardons to Harlan Miners.</title>(2 pamphlets)</unittitle><unitdate datechar="creation" normal="1931/1937" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_8c84f543e2e75b4583b8fcf228074bea" label="Mixed Materials [31142062773794]" type="Box">1</container><container id="aspace_c758188d91a5cec2ebda8b4c19f42257" parent="aspace_8c84f543e2e75b4583b8fcf228074bea" type="Folder">1</container></did></c><c id="aspace_ref16" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. Elzie Phillips</title>(Harlan Circuit Court): Opening Statement by Defense Counsel John M. Robison</unittitle><unitdate datechar="creation">Jun 1932</unitdate><container altrender="Manuscript box - Legal" id="aspace_5c12040e3e6b4cb5ef6121c6296ff684" label="Mixed Materials [31142062773794]" type="Box">1</container><container id="aspace_0825cdcd1f15ca13e7575b07387bc62b" parent="aspace_5c12040e3e6b4cb5ef6121c6296ff684" type="Folder">2</container></did></c><c id="aspace_ref17" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. W. B. Jones</title>(Montgomery Circuit Court): Witnesses</unittitle><unitdate datechar="creation" normal="1931/1937" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_b81b0717ac715d449f919d886b52b12f" label="Mixed Materials [31142062773794]" type="Box">1</container><container id="aspace_22c4bc27ba45366633baabaa55abca56" parent="aspace_b81b0717ac715d449f919d886b52b12f" type="Folder">3</container></did></c><c id="aspace_ref18" level="file"><did><unittitle><title render="italic">Conditions in Coal Fields in Harlan and Bell Counties, Kentucky: Hearings Before a Subcommittee of the Committee on Manufactures</title>(United States Congress)</unittitle><unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate><container altrender="Manuscript box - Legal" id="aspace_ee4994a52df28f8b8f5ea8430c1edb39" label="Mixed Materials [31142062773794]" type="Box">1</container><container id="aspace_479402862b5008e0b4dfc90e85231265" parent="aspace_ee4994a52df28f8b8f5ea8430c1edb39" type="Folder">4</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Correspondence: William Turnblazer (United Mine Workers of America) to W. B. Jones</unittitle><unitdate datechar="creation">Apr 1931</unitdate><container altrender="Manuscript box - Legal" id="aspace_dbf37361416bd834cd4125a892056b47" label="Mixed Materials [31142062773794]" type="Box">1</container><container id="aspace_8b5457c09355c9504bcc1788fed80e93" parent="aspace_dbf37361416bd834cd4125a892056b47" type="Folder">5</container></did></c><c id="aspace_ref20" level="file"><did><unittitle><title render="italic">Daily Worker</title>: Excerpts from Articles</unittitle><unitdate datechar="creation" normal="1931/1931" type="inclusive">1931</unitdate><container altrender="Manuscript box - Legal" id="aspace_05c36ba9ceeb41ffd3637bc463ae8c4e" label="Mixed Materials [31142062773794]" type="Box">1</container><container id="aspace_6c6927d2b47c3724047e8aeb0884d6b5" parent="aspace_05c36ba9ceeb41ffd3637bc463ae8c4e" type="Folder">6</container></did></c><c id="aspace_ref21" level="file"><did><unittitle><title render="italic">E. Phillips v. Commonwealth of Kentucky, Bill Hudson v. Commonwealth of Kentucky, Chester Poore v. Commonwealth of Kentucky, Jim Reynolds v. Commonwealth of Kentucky</title>(Court of Appeals of Kentucky): Brief for Appellee</unittitle><unitdate datechar="creation">May 1933</unitdate><container altrender="Manuscript box - Legal" id="aspace_deef06cc9e12e71394c0221e6005aa3c" label="Mixed Materials [31142062773794]" type="Box">1</container><container id="aspace_23bc69e3b35070ccefd1181d030ef0b9" parent="aspace_deef06cc9e12e71394c0221e6005aa3c" type="Folder">7</container></did></c><c id="aspace_ref22" level="file"><did><unittitle><title render="italic">Kentucky Reports</title>: "Jones v. Commonwealth. Hightower v. Same"</unittitle><unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate><container altrender="Manuscript box - Legal" id="aspace_5d02a1b488c71e26c73a7a491ece37ed" label="Mixed Materials [31142062773794]" type="Box">1</container><container id="aspace_d03c5b0aa86ab6544533a802eff6ac40" parent="aspace_5d02a1b488c71e26c73a7a491ece37ed" type="Folder">8</container></did></c><c id="aspace_ref61" level="file"><did><unittitle><emph render="italic">Map of a Part of Evarts, Kentucky and Vicinity Showing the Scene of the Killing of Jim Daniels and Others</emph>: Map No.1, Exhibit B</unittitle><unitdate datechar="creation" normal="1931/1937" type="inclusive">undated</unitdate><container altrender="Oversize Folder - Full Case" id="aspace_7be82850b0b7d0dbc43dcadb18b7bc68" label="Mixed Materials [31142062669984]" type="Flat-File-Folder">5</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>News Releases</unittitle><unitdate datechar="creation" normal="1935/1936" type="inclusive">1935-1936</unitdate><container altrender="Manuscript box - Legal" id="aspace_7c1073813f39d920efad7ef03bc41837" label="Mixed Materials [31142062773794]" type="Box">1</container><container id="aspace_fef53670a5b339e877b97afbb9a9911d" parent="aspace_7c1073813f39d920efad7ef03bc41837" type="Folder">9</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Notes: General</unittitle><unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_a2ad75c407bcbe474e029f6a933b7f64" label="Mixed Materials [31142062773794]" type="Box">1</container><container id="aspace_9c31b2b9874fb0f6d07c447eb6f0745e" parent="aspace_a2ad75c407bcbe474e029f6a933b7f64" type="Folder">10</container></did></c><c id="aspace_ref25" level="file"><did><unittitle><title render="italic">W. B. Jones v. Commonwealth of Kentucky, William Hightower vs. Commonwealth of Kentucky</title>(Court of Appeals of Kentucky): Brief for Appellee</unittitle><unitdate datechar="creation">Feb 1933</unitdate><container altrender="Manuscript box - Legal" id="aspace_7c48c287dff6aa1d5bb554906ef037de" label="Mixed Materials [31142062773794]" type="Box">1</container><container id="aspace_62d4db3671be4d17ce5fe07bd5b74e89" parent="aspace_7c48c287dff6aa1d5bb554906ef037de" type="Folder">11</container></did></c><c id="aspace_ref26" level="file"><did><unittitle><title render="italic">William Hightower vs. Commonwealth of Kentucky</title>(Court of Appeals of Kentucky): Motion to Withdraw Exhibits</unittitle><unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate><container altrender="Manuscript box - Legal" id="aspace_6b6acf359c576685c9c8e1bfc69ffe88" label="Mixed Materials [31142062773794]" type="Box">1</container><container id="aspace_3c6914f45f9b017e2f83d8f6506cfb30" parent="aspace_6b6acf359c576685c9c8e1bfc69ffe88" type="Folder">12</container></did></c></c><c id="aspace_ref27" level="series"><did><unittitle>Series II: Transcripts, 1931-1933.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref28" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. Al Benson</title>(Harlan Circuit Court): Volume 1</unittitle><unitdate datechar="creation">Jan 1933</unitdate><container altrender="Manuscript box - Legal" id="aspace_f9c53bca2bcc65332bc4e5d20b651362" label="Mixed Materials [31142062773794]" type="Box">1</container><container id="aspace_54dd4d4792ad7ff316e9b0cc5510a6ae" parent="aspace_f9c53bca2bcc65332bc4e5d20b651362" type="Folder">13</container></did></c><c id="aspace_ref29" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. Al Benson</title>(Harlan Circuit Court): Volume 2</unittitle><unitdate datechar="creation">Jan 1933</unitdate><container altrender="Manuscript box - Legal" id="aspace_3cb6947e702a9a5abadb7b2ee627a477" label="Mixed Materials [31142062773794]" type="Box">1</container><container id="aspace_a031834babae9e792fa81042bff85759" parent="aspace_3cb6947e702a9a5abadb7b2ee627a477" type="Folder">14</container></did></c><c id="aspace_ref30" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. Al Benson</title>(Harlan Circuit Court): Volume 3</unittitle><unitdate datechar="creation">Jan 1933</unitdate><container altrender="Manuscript box - Legal" id="aspace_67c585e782e5171f370b7690860401d0" label="Mixed Materials [31142062773794]" type="Box">1</container><container id="aspace_24eee2f1d22ec3817b40d26ae082176b" parent="aspace_67c585e782e5171f370b7690860401d0" type="Folder">15</container></did></c><c id="aspace_ref31" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. Al Benson</title>(Harlan Circuit Court): Volume 4</unittitle><unitdate datechar="creation">Jan 1933</unitdate><container altrender="Manuscript box - Legal" id="aspace_12ec28f64446fe1dff6a3c3942e9e409" label="Mixed Materials [31142062773794]" type="Box">1</container><container id="aspace_5fce792a96e5b50b030ea4b82146ba5b" parent="aspace_12ec28f64446fe1dff6a3c3942e9e409" type="Folder">16</container></did></c><c id="aspace_ref32" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. Al Benson</title>(Harlan Circuit Court): Volume 1 (carbon copy)</unittitle><unitdate datechar="creation">Jan 1933</unitdate><container altrender="Manuscript box - Legal" id="aspace_77d6f0011ad633d38cf56063eef9e3a1" label="Mixed Materials [31142062773794]" type="Box">1</container><container id="aspace_0ebbeb56e445d242b9688f6fd5d1eea3" parent="aspace_77d6f0011ad633d38cf56063eef9e3a1" type="Folder">17</container></did></c><c id="aspace_ref33" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. Al Benson</title>(Harlan Circuit Court): Volume 2 (carbon copy)</unittitle><unitdate datechar="creation">Jan 1933</unitdate><container altrender="Manuscript box - Legal" id="aspace_d002055fda7a264745f585fb3a4cf984" label="Mixed Materials [31142062773802]" type="Box">2</container><container id="aspace_de2eef1bdde1302009c24631f08138b2" parent="aspace_d002055fda7a264745f585fb3a4cf984" type="Folder">1</container></did></c><c id="aspace_ref34" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. Al Benson</title>(Harlan Circuit Court): Volume 3 (carbon copy)</unittitle><unitdate datechar="creation">Jan 1933</unitdate><container altrender="Manuscript box - Legal" id="aspace_e75552d4eed45839d996d2fa739116d2" label="Mixed Materials [31142062773802]" type="Box">2</container><container id="aspace_d27e75f4d0c5dd8b3c7a8d8ba9b64139" parent="aspace_e75552d4eed45839d996d2fa739116d2" type="Folder">2</container></did></c><c id="aspace_ref35" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. Al Benson</title>(Harlan Circuit Court): Volume 4 (carbon copy)</unittitle><unitdate datechar="creation">Jan 1933</unitdate><container altrender="Manuscript box - Legal" id="aspace_da63a713af583c826b66713dc613924d" label="Mixed Materials [31142062773802]" type="Box">2</container><container id="aspace_b720b12912105e64d5ccc4083098c1dd" parent="aspace_da63a713af583c826b66713dc613924d" type="Folder">3</container></did></c><c id="aspace_ref36" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. Bill Hudson</title>(Harlan Circuit Court): Volumes 1-2</unittitle><unitdate datechar="creation">Sep 1932</unitdate><container altrender="Manuscript box - Legal" id="aspace_08faa31f84dcc30760719c6110237c54" label="Mixed Materials [31142062773802]" type="Box">2</container><container id="aspace_917dbc217195f406bf48cc7bc7f56eae" parent="aspace_08faa31f84dcc30760719c6110237c54" type="Folder">4</container></did></c><c id="aspace_ref37" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. Bill Hudson</title>(Harlan Circuit Court): Volumes 3-4</unittitle><unitdate datechar="creation">Sep 1932</unitdate><container altrender="Manuscript box - Legal" id="aspace_4df883574eefea8b2593603045d401c6" label="Mixed Materials [31142062773802]" type="Box">2</container><container id="aspace_0ef6d985e32b9d6ef4e7693b5ec8ac9b" parent="aspace_4df883574eefea8b2593603045d401c6" type="Folder">5</container></did></c><c id="aspace_ref38" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. Chester Poore</title>(Harlan Circuit Court): Volumes 1-2</unittitle><unitdate datechar="creation">Sep 1932</unitdate><container altrender="Manuscript box - Legal" id="aspace_2da68cb1836da19174d57a29166b712c" label="Mixed Materials [31142062773802]" type="Box">2</container><container id="aspace_0b5e14ad1a52cd98570d3c940d202034" parent="aspace_2da68cb1836da19174d57a29166b712c" type="Folder">6</container></did></c><c id="aspace_ref39" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. Chester Poore</title>(Harlan Circuit Court): Volumes 3</unittitle><unitdate datechar="creation">Sep 1932</unitdate><container altrender="Manuscript box - Legal" id="aspace_cc2890fa9fae0e2bf9391ea0a05c4606" label="Mixed Materials [31142062773802]" type="Box">2</container><container id="aspace_41b5ab0145a4d1f94a6115d0c896d94d" parent="aspace_cc2890fa9fae0e2bf9391ea0a05c4606" type="Folder">7</container></did></c><c id="aspace_ref40" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. Chester Poore</title>(Harlan Circuit Court): Volume 4-5</unittitle><unitdate datechar="creation">Sep 1932</unitdate><container altrender="Manuscript box - Legal" id="aspace_df4ab2b2990fd8712643c7d6c8b20530" label="Mixed Materials [31142062773810]" type="Box">3</container><container id="aspace_172fcde2579a9ae6e0eb1744afc003e0" parent="aspace_df4ab2b2990fd8712643c7d6c8b20530" type="Folder">1</container></did></c><c id="aspace_ref41" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. E. Phillips</title>(Harlan Circuit Court): Volumes 1-2</unittitle><unitdate datechar="creation">Aug 1932</unitdate><container altrender="Manuscript box - Legal" id="aspace_6a991f49e4b95ee288100fa8fca01732" label="Mixed Materials [31142062773810]" type="Box">3</container><container id="aspace_f1ed0a54250177e3ce48578cd8e357f0" parent="aspace_6a991f49e4b95ee288100fa8fca01732" type="Folder">2</container></did></c><c id="aspace_ref42" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. E. Phillips</title>(Harlan Circuit Court): Volumes 3-4</unittitle><unitdate datechar="creation">Aug 1932</unitdate><container altrender="Manuscript box - Legal" id="aspace_d1d0179b7ace44d07d1f8dc430f5fec6" label="Mixed Materials [31142062773810]" type="Box">3</container><container id="aspace_59d89d7adf7e9fc61151a171d28aa5a3" parent="aspace_d1d0179b7ace44d07d1f8dc430f5fec6" type="Folder">3</container></did></c><c id="aspace_ref43" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. E. Phillips</title>(Harlan Circuit Court): Volumes 5-6</unittitle><unitdate datechar="creation">Aug 1932</unitdate><container altrender="Manuscript box - Legal" id="aspace_06e29c0a8b44f4d7d773187a1b1c3ddf" label="Mixed Materials [31142062773810]" type="Box">3</container><container id="aspace_7fc8071e8b6bd1a54657e5d7eae10f96" parent="aspace_06e29c0a8b44f4d7d773187a1b1c3ddf" type="Folder">4</container></did></c><c id="aspace_ref44" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. E. Phillips</title>(Harlan Circuit Court): Volume 7</unittitle><unitdate datechar="creation">Aug 1932</unitdate><container altrender="Manuscript box - Legal" id="aspace_5a5a8c4c7dfd8c33d1929b3460dbebe9" label="Mixed Materials [31142062773810]" type="Box">3</container><container id="aspace_49dfdd9c5946887b9f6391fde15c41e5" parent="aspace_5a5a8c4c7dfd8c33d1929b3460dbebe9" type="Folder">5</container></did></c><c id="aspace_ref45" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. Jim Reynolds</title>(Harlan Circuit Court): Volumes 1-2</unittitle><unitdate datechar="creation">Oct 1932</unitdate><container altrender="Manuscript box - Legal" id="aspace_c15f9dd20864938a2eb0aa7fc1e8bd07" label="Mixed Materials [31142062773828]" type="Box">4</container><container id="aspace_f5f9d32205b874bb7fbdc3016c6a3d34" parent="aspace_c15f9dd20864938a2eb0aa7fc1e8bd07" type="Folder">1</container></did></c><c id="aspace_ref46" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. Jim Reynolds</title>(Harlan Circuit Court): Volumes 3-4</unittitle><unitdate datechar="creation">Oct 1932</unitdate><container altrender="Manuscript box - Legal" id="aspace_b00f3c04dc2c68cd8562255dd1b933c0" label="Mixed Materials [31142062773828]" type="Box">4</container><container id="aspace_a872e00e6ad0e7f474325d922bcc5054" parent="aspace_b00f3c04dc2c68cd8562255dd1b933c0" type="Folder">2</container></did></c><c id="aspace_ref47" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. Jim Reynolds</title>(Harlan Circuit Court): Volume 5</unittitle><unitdate datechar="creation">Oct 1932</unitdate><container altrender="Manuscript box - Legal" id="aspace_9615f97a4f65951d6b9c8eefd69a43ea" label="Mixed Materials [31142062773828]" type="Box">4</container><container id="aspace_5af284ac7fd551a54a5bb5927b3a9df4" parent="aspace_9615f97a4f65951d6b9c8eefd69a43ea" type="Folder">3</container></did></c><c id="aspace_ref48" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. W. B. Jones</title>(Montgomery Circuit Court): Volumes 1-2</unittitle><unitdate datechar="creation">Nov 1931</unitdate><container altrender="Manuscript box - Legal" id="aspace_26cd18c6cf4381dc45f0a19f6b6143da" label="Mixed Materials [31142062773828]" type="Box">4</container><container id="aspace_2a39d5099e99ad3546e41c8d344b8384" parent="aspace_26cd18c6cf4381dc45f0a19f6b6143da" type="Folder">4</container></did></c><c id="aspace_ref49" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. W. B. Jones</title>(Montgomery Circuit Court): Volumes 3-4</unittitle><unitdate datechar="creation">Nov 1931</unitdate><container altrender="Manuscript box - Legal" id="aspace_94b868d1ad1d86342228444bb9f20a24" label="Mixed Materials [31142062773828]" type="Box">4</container><container id="aspace_48ce1f20acac2659fac4a743b4c4668e" parent="aspace_94b868d1ad1d86342228444bb9f20a24" type="Folder">5</container></did></c><c id="aspace_ref50" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. W. B. Jones</title>(Montgomery Circuit Court): Volumes 5-6</unittitle><unitdate datechar="creation">Nov 1931</unitdate><container altrender="Manuscript box - Legal" id="aspace_1c879270e47e8f7ac9fc78773f7b3244" label="Mixed Materials [31142062773836]" type="Box">5</container><container id="aspace_57a6e76218bedb1185db80e1b19d84db" parent="aspace_1c879270e47e8f7ac9fc78773f7b3244" type="Folder">1</container></did></c><c id="aspace_ref51" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. W. B. Jones</title>(Montgomery Circuit Court): Volumes 7-8</unittitle><unitdate datechar="creation">Nov 1931</unitdate><container altrender="Manuscript box - Legal" id="aspace_3004be82ea9f8920cfc580890bb15263" label="Mixed Materials [31142062773836]" type="Box">5</container><container id="aspace_c604b2fff3a4156ebedc0912f70c20bf" parent="aspace_3004be82ea9f8920cfc580890bb15263" type="Folder">2</container></did></c><c id="aspace_ref52" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. W. B. Jones</title>(Montgomery Circuit Court): Volume 9 (2 copies)</unittitle><unitdate datechar="creation">Nov 1931</unitdate><container altrender="Manuscript box - Legal" id="aspace_21316a9cb43641d678541a233e054683" label="Mixed Materials [31142062773836]" type="Box">5</container><container id="aspace_f23760bd0ccefffefb140a20f77010e6" parent="aspace_21316a9cb43641d678541a233e054683" type="Folder">3</container></did></c><c id="aspace_ref53" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. W. B. Jones</title>(Montgomery Circuit Court): Volumes 10-11</unittitle><unitdate datechar="creation">Nov 1931</unitdate><container altrender="Manuscript box - Legal" id="aspace_40fb7da73b6200b4669fdd8fcfa27051" label="Mixed Materials [31142062773836]" type="Box">5</container><container id="aspace_9201baadf61d084e71d5b1992cd5a58b" parent="aspace_40fb7da73b6200b4669fdd8fcfa27051" type="Folder">4</container></did></c><c id="aspace_ref54" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. W. B. Jones</title>(Montgomery Circuit Court): Volumes 12-13</unittitle><unitdate datechar="creation">Nov 1931</unitdate><container altrender="Manuscript box - Legal" id="aspace_29dfbb42347cf28194c9a2f52eb81d80" label="Mixed Materials [31142062773844]" type="Box">6</container><container id="aspace_a91019153549c61c2a1dda0861491625" parent="aspace_29dfbb42347cf28194c9a2f52eb81d80" type="Folder">1</container></did></c><c id="aspace_ref55" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. W. B. Jones</title>(Montgomery Circuit Court): Volumes 14-15</unittitle><unitdate datechar="creation">Nov 1931</unitdate><container altrender="Manuscript box - Legal" id="aspace_6dc07b45f994a7f9a29e0c28f4d6ec16" label="Mixed Materials [31142062773844]" type="Box">6</container><container id="aspace_95661c7a657afb5001a83e2be636974c" parent="aspace_6dc07b45f994a7f9a29e0c28f4d6ec16" type="Folder">2</container></did></c><c id="aspace_ref56" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. W. B. Jones</title>(Montgomery Circuit Court): Volumes 16-17</unittitle><unitdate datechar="creation">Nov 1931</unitdate><container altrender="Manuscript box - Legal" id="aspace_5a82908558fad8754516b7526df3a033" label="Mixed Materials [31142062773844]" type="Box">6</container><container id="aspace_e305a8d07d1a06d15795bcee38ae6f48" parent="aspace_5a82908558fad8754516b7526df3a033" type="Folder">3</container></did></c><c id="aspace_ref57" level="file"><did><unittitle><title render="italic">Commonwealth of Kentucky vs. W. B. Jones</title>(Montgomery Circuit Court): Volume 18</unittitle><unitdate datechar="creation">Nov 1931</unitdate><container altrender="Manuscript box - Legal" id="aspace_c0cd516a9f34e8d45f96cfa36f56fb8c" label="Mixed Materials [31142062773844]" type="Box">6</container><container id="aspace_0fb590eaa8e4ecbb9b89a3ce1622d9dd" parent="aspace_c0cd516a9f34e8d45f96cfa36f56fb8c" type="Folder">4</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Transcript Excerpts</unittitle><unitdate datechar="creation" normal="1931/1933" type="inclusive">1931-1933</unitdate><container altrender="Manuscript box - Legal" id="aspace_be7ee220016d06fd4550c9769bfa90bf" label="Mixed Materials [31142062773844]" type="Box">6</container><container id="aspace_7440d0bcd8c11d82169648e5daaced18" parent="aspace_be7ee220016d06fd4550c9769bfa90bf" type="Folder">5</container></did></c></c></dsc>
-</archdesc>
+    </did>
+    <acqinfo id="aspace_573ca86a31a526d105f82747e0f39433">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Herbert Mahler's wife, Bessie Freiberg Mahler, in 1963. The accession number 1963.009 is associated with this gift. One pamphlet (<emph render="italic">Governer Chandler Denies...</emph>) was added to the collection as a donation from the Milwaukee Public Library in 2010.</p>
+    </acqinfo>
+    <accessrestrict id="aspace_1f0fe7d2281d57f44f965d95379b3c5d">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <bioghist id="aspace_1a80f3bee7b7b8f1c0b558461c26edf1">
+      <head>Historical/Biographical Note</head>
+      <p>The Kentucky Miners Defense was an organization formed to help free seven imprisoned miners who had been convicted of murdering three coal company guards in Evarts, Harlan County, Kentucky during a hard-fought miners' strike in May 1931. Intense conflict between coal company agents and local authorities, on the one hand, and desperate locked-out miners, many of them homeless and destitute resulted in numerous incidents of violence. On May 5, 1931 a large group of armed miners attacked a convoy of deputies; a heavy exchange of fire, lasting thirty minutes, left 3 deputies and 1 miner dead. Local union officials W. B. Jones and William Hightower and more than forty miners were arrested in connection with the killing of the deputies. After several trials, Jones, Hightower and six others were convicted of conspiracy to commit murder, although the facts of the case were unclear.</p>
+      <p>Herbert Mahler (a former activist in the Industrial Workers of the World), director of the organization, spearheaded the publicity campaign to bring national attention to the miners' cases. Fund-raising publicity was often aimed at unions and their members since the Kentucky miners had been attempting to organize under the auspices of the United Mine Workers when they were violently blocked by the coal companies and their allies.</p>
+      <p>Sources:</p>
+      <p>
+        <list>
+          <item>American Civil Liberties Union. <title render="italic">The Kentucky Miners Struggle</title>. (New York: ACLU, 1932).</item>
+          <item>Hevener, John. <title render="italic">Which Side Are You on? The Harlan County Coal Miners, 1931-39</title>. Urbana: University of Illinois Press, 1978.</item>
+          <item>Publications relating to Kentucky Miners Defense. (Tamiment Library Vertical File).</item>
+        </list>
+      </p>
+    </bioghist>
+    <scopecontent id="aspace_80170711d53ca4c77a1bd3062d1c3063">
+      <head>Scope and Content Note</head>
+      <p><emph render="bold">Series I, General Files, 1931-1937</emph>, consists of statements, briefs and other documents related to the cases of Bill Hudson, Chester Poore, Elzie Phillips, Jim Reynolds, W. B. Jones and William Hightower, in both Circuit and Appeals courts. Also included are reports from a United States Senate subcommittee hearing on labor conditions in Harlan and Bell Counties, Kentucky Miners Defense news releases, and excerpts from the Daily Worker documenting events related to labor unrest in Kentucky.</p>
+      <p><emph render="bold">Series II, Transcripts, 1931-1933</emph>, contains court transcripts from the cases of Al Benson, Chester Poore, Elzie Phillips, Jim Reynolds and W. B. Jones from Harlan and Montgomery County Circuit Courts.</p>
+    </scopecontent>
+    <arrangement id="aspace_1082f6083b953be4a8d1635020b34902">
+      <head>Arrangement</head>
+      <p>Folders are arranged alphabetically.</p>
+      <p>The files are grouped into 2 series:</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>I, General Files, 1931-1937</item>
+        <item>II, Transcripts, 1931-1933</item>
+      </list>
+    </arrangement>
+    <relatedmaterial id="aspace_ba5a9a3192e63c929c2ec4c731ef7b40">
+      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+      <p>Kentucky Miners Defense Photographs (PHOTOS 016)</p>
+      <p>John Nicholas Beffel Papers (TAM 055)</p>
+    </relatedmaterial>
+    <userestrict id="aspace_b285f6284a7d9d25dfbfb7f15ea5b0ab">
+      <head>Conditions Governing Use</head>
+      <p>Tamiment Library has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in Series I: General Files are expected to enter the public domain in 2058.</p>
+      <p>Materials in Series II: Transcripts of this collection are in the public domain. Permission to publish or reproduce is not required.</p>
+    </userestrict>
+    <prefercite id="aspace_b53f593456053fda44c22053251b668b">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Kentucky Miners Defense Records; TAM 032; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <controlaccess>
+      <genreform source="aat">Transcripts.</genreform>
+      <geogname source="lcsh">Evarts (Ky.)</geogname>
+      <geogname source="lcsh">Harlan County (Ky.)</geogname>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Press releases.</genreform>
+      <subject source="lcsh">Coal mines and mining |z Kentucky |z Harlan County.</subject>
+      <subject source="lcsh">Coal miners |z Kentucky |z Harlan County.</subject>
+      <corpname rules="dacs" source="local">Kentucky Miners Defense</corpname>
+      <corpname authfilenumber="(lccn)n50062445" source="naf">United Mine Workers of America</corpname>
+      <persname source="ingest">Poore, Chester.</persname>
+      <persname source="ingest">Reynolds, Jim.</persname>
+      <persname rules="dacs" source="local">Benson, Al</persname>
+      <persname rules="dacs" source="local">Mahler, Herbert</persname>
+      <persname source="ingest">Phillips, Elzie.</persname>
+      <persname rules="dacs" source="local">Hightower, William</persname>
+      <persname rules="dacs" source="local">Jones, W. B.</persname>
+      <persname role="dnr" rules="dacs" source="local">Mahler, Bessie Freiberg</persname>
+      <corpname authfilenumber="(lccn)n83029595" role="dnr" source="naf">Milwaukee Public Library</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref14" level="series">
+        <did>
+          <unittitle>Series I: General Files, 1931-1937.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle><title render="italic">Bloody Harlan: The Story of Four Miners Serving Life for Daring to Organize a Union, Daring to Strike, Daring to Picket; Governer Chandler Denies Pardons to Harlan Miners.</title>(2 pamphlets)</unittitle>
+            <unitdate datechar="creation" normal="1931/1937" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8c84f543e2e75b4583b8fcf228074bea" label="Mixed Materials [31142062773794]" type="Box">1</container>
+            <container id="aspace_c758188d91a5cec2ebda8b4c19f42257" parent="aspace_8c84f543e2e75b4583b8fcf228074bea" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. Elzie Phillips</title>(Harlan Circuit Court): Opening Statement by Defense Counsel John M. Robison</unittitle>
+            <unitdate datechar="creation">Jun 1932</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5c12040e3e6b4cb5ef6121c6296ff684" label="Mixed Materials [31142062773794]" type="Box">1</container>
+            <container id="aspace_0825cdcd1f15ca13e7575b07387bc62b" parent="aspace_5c12040e3e6b4cb5ef6121c6296ff684" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. W. B. Jones</title>(Montgomery Circuit Court): Witnesses</unittitle>
+            <unitdate datechar="creation" normal="1931/1937" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b81b0717ac715d449f919d886b52b12f" label="Mixed Materials [31142062773794]" type="Box">1</container>
+            <container id="aspace_22c4bc27ba45366633baabaa55abca56" parent="aspace_b81b0717ac715d449f919d886b52b12f" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle><title render="italic">Conditions in Coal Fields in Harlan and Bell Counties, Kentucky: Hearings Before a Subcommittee of the Committee on Manufactures</title>(United States Congress)</unittitle>
+            <unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ee4994a52df28f8b8f5ea8430c1edb39" label="Mixed Materials [31142062773794]" type="Box">1</container>
+            <container id="aspace_479402862b5008e0b4dfc90e85231265" parent="aspace_ee4994a52df28f8b8f5ea8430c1edb39" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Correspondence: William Turnblazer (United Mine Workers of America) to W. B. Jones</unittitle>
+            <unitdate datechar="creation">Apr 1931</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dbf37361416bd834cd4125a892056b47" label="Mixed Materials [31142062773794]" type="Box">1</container>
+            <container id="aspace_8b5457c09355c9504bcc1788fed80e93" parent="aspace_dbf37361416bd834cd4125a892056b47" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle><title render="italic">Daily Worker</title>: Excerpts from Articles</unittitle>
+            <unitdate datechar="creation" normal="1931/1931" type="inclusive">1931</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_05c36ba9ceeb41ffd3637bc463ae8c4e" label="Mixed Materials [31142062773794]" type="Box">1</container>
+            <container id="aspace_6c6927d2b47c3724047e8aeb0884d6b5" parent="aspace_05c36ba9ceeb41ffd3637bc463ae8c4e" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle><title render="italic">E. Phillips v. Commonwealth of Kentucky, Bill Hudson v. Commonwealth of Kentucky, Chester Poore v. Commonwealth of Kentucky, Jim Reynolds v. Commonwealth of Kentucky</title>(Court of Appeals of Kentucky): Brief for Appellee</unittitle>
+            <unitdate datechar="creation">May 1933</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_deef06cc9e12e71394c0221e6005aa3c" label="Mixed Materials [31142062773794]" type="Box">1</container>
+            <container id="aspace_23bc69e3b35070ccefd1181d030ef0b9" parent="aspace_deef06cc9e12e71394c0221e6005aa3c" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle><title render="italic">Kentucky Reports</title>: "Jones v. Commonwealth. Hightower v. Same"</unittitle>
+            <unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5d02a1b488c71e26c73a7a491ece37ed" label="Mixed Materials [31142062773794]" type="Box">1</container>
+            <container id="aspace_d03c5b0aa86ab6544533a802eff6ac40" parent="aspace_5d02a1b488c71e26c73a7a491ece37ed" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle><emph render="italic">Map of a Part of Evarts, Kentucky and Vicinity Showing the Scene of the Killing of Jim Daniels and Others</emph>: Map No.1, Exhibit B</unittitle>
+            <unitdate datechar="creation" normal="1931/1937" type="inclusive">undated</unitdate>
+            <container altrender="Oversize Folder - Full Case" id="aspace_7be82850b0b7d0dbc43dcadb18b7bc68" label="Mixed Materials [31142062669984]" type="Flat-File-Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>News Releases</unittitle>
+            <unitdate datechar="creation" normal="1935/1936" type="inclusive">1935-1936</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7c1073813f39d920efad7ef03bc41837" label="Mixed Materials [31142062773794]" type="Box">1</container>
+            <container id="aspace_fef53670a5b339e877b97afbb9a9911d" parent="aspace_7c1073813f39d920efad7ef03bc41837" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Notes: General</unittitle>
+            <unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a2ad75c407bcbe474e029f6a933b7f64" label="Mixed Materials [31142062773794]" type="Box">1</container>
+            <container id="aspace_9c31b2b9874fb0f6d07c447eb6f0745e" parent="aspace_a2ad75c407bcbe474e029f6a933b7f64" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle><title render="italic">W. B. Jones v. Commonwealth of Kentucky, William Hightower vs. Commonwealth of Kentucky</title>(Court of Appeals of Kentucky): Brief for Appellee</unittitle>
+            <unitdate datechar="creation">Feb 1933</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7c48c287dff6aa1d5bb554906ef037de" label="Mixed Materials [31142062773794]" type="Box">1</container>
+            <container id="aspace_62d4db3671be4d17ce5fe07bd5b74e89" parent="aspace_7c48c287dff6aa1d5bb554906ef037de" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle><title render="italic">William Hightower vs. Commonwealth of Kentucky</title>(Court of Appeals of Kentucky): Motion to Withdraw Exhibits</unittitle>
+            <unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6b6acf359c576685c9c8e1bfc69ffe88" label="Mixed Materials [31142062773794]" type="Box">1</container>
+            <container id="aspace_3c6914f45f9b017e2f83d8f6506cfb30" parent="aspace_6b6acf359c576685c9c8e1bfc69ffe88" type="Folder">12</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref27" level="series">
+        <did>
+          <unittitle>Series II: Transcripts, 1931-1933.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. Al Benson</title>(Harlan Circuit Court): Volume 1</unittitle>
+            <unitdate datechar="creation">Jan 1933</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f9c53bca2bcc65332bc4e5d20b651362" label="Mixed Materials [31142062773794]" type="Box">1</container>
+            <container id="aspace_54dd4d4792ad7ff316e9b0cc5510a6ae" parent="aspace_f9c53bca2bcc65332bc4e5d20b651362" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. Al Benson</title>(Harlan Circuit Court): Volume 2</unittitle>
+            <unitdate datechar="creation">Jan 1933</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3cb6947e702a9a5abadb7b2ee627a477" label="Mixed Materials [31142062773794]" type="Box">1</container>
+            <container id="aspace_a031834babae9e792fa81042bff85759" parent="aspace_3cb6947e702a9a5abadb7b2ee627a477" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. Al Benson</title>(Harlan Circuit Court): Volume 3</unittitle>
+            <unitdate datechar="creation">Jan 1933</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_67c585e782e5171f370b7690860401d0" label="Mixed Materials [31142062773794]" type="Box">1</container>
+            <container id="aspace_24eee2f1d22ec3817b40d26ae082176b" parent="aspace_67c585e782e5171f370b7690860401d0" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. Al Benson</title>(Harlan Circuit Court): Volume 4</unittitle>
+            <unitdate datechar="creation">Jan 1933</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_12ec28f64446fe1dff6a3c3942e9e409" label="Mixed Materials [31142062773794]" type="Box">1</container>
+            <container id="aspace_5fce792a96e5b50b030ea4b82146ba5b" parent="aspace_12ec28f64446fe1dff6a3c3942e9e409" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. Al Benson</title>(Harlan Circuit Court): Volume 1 (carbon copy)</unittitle>
+            <unitdate datechar="creation">Jan 1933</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_77d6f0011ad633d38cf56063eef9e3a1" label="Mixed Materials [31142062773794]" type="Box">1</container>
+            <container id="aspace_0ebbeb56e445d242b9688f6fd5d1eea3" parent="aspace_77d6f0011ad633d38cf56063eef9e3a1" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. Al Benson</title>(Harlan Circuit Court): Volume 2 (carbon copy)</unittitle>
+            <unitdate datechar="creation">Jan 1933</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d002055fda7a264745f585fb3a4cf984" label="Mixed Materials [31142062773802]" type="Box">2</container>
+            <container id="aspace_de2eef1bdde1302009c24631f08138b2" parent="aspace_d002055fda7a264745f585fb3a4cf984" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. Al Benson</title>(Harlan Circuit Court): Volume 3 (carbon copy)</unittitle>
+            <unitdate datechar="creation">Jan 1933</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e75552d4eed45839d996d2fa739116d2" label="Mixed Materials [31142062773802]" type="Box">2</container>
+            <container id="aspace_d27e75f4d0c5dd8b3c7a8d8ba9b64139" parent="aspace_e75552d4eed45839d996d2fa739116d2" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. Al Benson</title>(Harlan Circuit Court): Volume 4 (carbon copy)</unittitle>
+            <unitdate datechar="creation">Jan 1933</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_da63a713af583c826b66713dc613924d" label="Mixed Materials [31142062773802]" type="Box">2</container>
+            <container id="aspace_b720b12912105e64d5ccc4083098c1dd" parent="aspace_da63a713af583c826b66713dc613924d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. Bill Hudson</title>(Harlan Circuit Court): Volumes 1-2</unittitle>
+            <unitdate datechar="creation">Sep 1932</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_08faa31f84dcc30760719c6110237c54" label="Mixed Materials [31142062773802]" type="Box">2</container>
+            <container id="aspace_917dbc217195f406bf48cc7bc7f56eae" parent="aspace_08faa31f84dcc30760719c6110237c54" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. Bill Hudson</title>(Harlan Circuit Court): Volumes 3-4</unittitle>
+            <unitdate datechar="creation">Sep 1932</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4df883574eefea8b2593603045d401c6" label="Mixed Materials [31142062773802]" type="Box">2</container>
+            <container id="aspace_0ef6d985e32b9d6ef4e7693b5ec8ac9b" parent="aspace_4df883574eefea8b2593603045d401c6" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. Chester Poore</title>(Harlan Circuit Court): Volumes 1-2</unittitle>
+            <unitdate datechar="creation">Sep 1932</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2da68cb1836da19174d57a29166b712c" label="Mixed Materials [31142062773802]" type="Box">2</container>
+            <container id="aspace_0b5e14ad1a52cd98570d3c940d202034" parent="aspace_2da68cb1836da19174d57a29166b712c" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. Chester Poore</title>(Harlan Circuit Court): Volumes 3</unittitle>
+            <unitdate datechar="creation">Sep 1932</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cc2890fa9fae0e2bf9391ea0a05c4606" label="Mixed Materials [31142062773802]" type="Box">2</container>
+            <container id="aspace_41b5ab0145a4d1f94a6115d0c896d94d" parent="aspace_cc2890fa9fae0e2bf9391ea0a05c4606" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. Chester Poore</title>(Harlan Circuit Court): Volume 4-5</unittitle>
+            <unitdate datechar="creation">Sep 1932</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_df4ab2b2990fd8712643c7d6c8b20530" label="Mixed Materials [31142062773810]" type="Box">3</container>
+            <container id="aspace_172fcde2579a9ae6e0eb1744afc003e0" parent="aspace_df4ab2b2990fd8712643c7d6c8b20530" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. E. Phillips</title>(Harlan Circuit Court): Volumes 1-2</unittitle>
+            <unitdate datechar="creation">Aug 1932</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6a991f49e4b95ee288100fa8fca01732" label="Mixed Materials [31142062773810]" type="Box">3</container>
+            <container id="aspace_f1ed0a54250177e3ce48578cd8e357f0" parent="aspace_6a991f49e4b95ee288100fa8fca01732" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. E. Phillips</title>(Harlan Circuit Court): Volumes 3-4</unittitle>
+            <unitdate datechar="creation">Aug 1932</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d1d0179b7ace44d07d1f8dc430f5fec6" label="Mixed Materials [31142062773810]" type="Box">3</container>
+            <container id="aspace_59d89d7adf7e9fc61151a171d28aa5a3" parent="aspace_d1d0179b7ace44d07d1f8dc430f5fec6" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. E. Phillips</title>(Harlan Circuit Court): Volumes 5-6</unittitle>
+            <unitdate datechar="creation">Aug 1932</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_06e29c0a8b44f4d7d773187a1b1c3ddf" label="Mixed Materials [31142062773810]" type="Box">3</container>
+            <container id="aspace_7fc8071e8b6bd1a54657e5d7eae10f96" parent="aspace_06e29c0a8b44f4d7d773187a1b1c3ddf" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. E. Phillips</title>(Harlan Circuit Court): Volume 7</unittitle>
+            <unitdate datechar="creation">Aug 1932</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5a5a8c4c7dfd8c33d1929b3460dbebe9" label="Mixed Materials [31142062773810]" type="Box">3</container>
+            <container id="aspace_49dfdd9c5946887b9f6391fde15c41e5" parent="aspace_5a5a8c4c7dfd8c33d1929b3460dbebe9" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. Jim Reynolds</title>(Harlan Circuit Court): Volumes 1-2</unittitle>
+            <unitdate datechar="creation">Oct 1932</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c15f9dd20864938a2eb0aa7fc1e8bd07" label="Mixed Materials [31142062773828]" type="Box">4</container>
+            <container id="aspace_f5f9d32205b874bb7fbdc3016c6a3d34" parent="aspace_c15f9dd20864938a2eb0aa7fc1e8bd07" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. Jim Reynolds</title>(Harlan Circuit Court): Volumes 3-4</unittitle>
+            <unitdate datechar="creation">Oct 1932</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b00f3c04dc2c68cd8562255dd1b933c0" label="Mixed Materials [31142062773828]" type="Box">4</container>
+            <container id="aspace_a872e00e6ad0e7f474325d922bcc5054" parent="aspace_b00f3c04dc2c68cd8562255dd1b933c0" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. Jim Reynolds</title>(Harlan Circuit Court): Volume 5</unittitle>
+            <unitdate datechar="creation">Oct 1932</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9615f97a4f65951d6b9c8eefd69a43ea" label="Mixed Materials [31142062773828]" type="Box">4</container>
+            <container id="aspace_5af284ac7fd551a54a5bb5927b3a9df4" parent="aspace_9615f97a4f65951d6b9c8eefd69a43ea" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. W. B. Jones</title>(Montgomery Circuit Court): Volumes 1-2</unittitle>
+            <unitdate datechar="creation">Nov 1931</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_26cd18c6cf4381dc45f0a19f6b6143da" label="Mixed Materials [31142062773828]" type="Box">4</container>
+            <container id="aspace_2a39d5099e99ad3546e41c8d344b8384" parent="aspace_26cd18c6cf4381dc45f0a19f6b6143da" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. W. B. Jones</title>(Montgomery Circuit Court): Volumes 3-4</unittitle>
+            <unitdate datechar="creation">Nov 1931</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_94b868d1ad1d86342228444bb9f20a24" label="Mixed Materials [31142062773828]" type="Box">4</container>
+            <container id="aspace_48ce1f20acac2659fac4a743b4c4668e" parent="aspace_94b868d1ad1d86342228444bb9f20a24" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. W. B. Jones</title>(Montgomery Circuit Court): Volumes 5-6</unittitle>
+            <unitdate datechar="creation">Nov 1931</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1c879270e47e8f7ac9fc78773f7b3244" label="Mixed Materials [31142062773836]" type="Box">5</container>
+            <container id="aspace_57a6e76218bedb1185db80e1b19d84db" parent="aspace_1c879270e47e8f7ac9fc78773f7b3244" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. W. B. Jones</title>(Montgomery Circuit Court): Volumes 7-8</unittitle>
+            <unitdate datechar="creation">Nov 1931</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3004be82ea9f8920cfc580890bb15263" label="Mixed Materials [31142062773836]" type="Box">5</container>
+            <container id="aspace_c604b2fff3a4156ebedc0912f70c20bf" parent="aspace_3004be82ea9f8920cfc580890bb15263" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. W. B. Jones</title>(Montgomery Circuit Court): Volume 9 (2 copies)</unittitle>
+            <unitdate datechar="creation">Nov 1931</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_21316a9cb43641d678541a233e054683" label="Mixed Materials [31142062773836]" type="Box">5</container>
+            <container id="aspace_f23760bd0ccefffefb140a20f77010e6" parent="aspace_21316a9cb43641d678541a233e054683" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. W. B. Jones</title>(Montgomery Circuit Court): Volumes 10-11</unittitle>
+            <unitdate datechar="creation">Nov 1931</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_40fb7da73b6200b4669fdd8fcfa27051" label="Mixed Materials [31142062773836]" type="Box">5</container>
+            <container id="aspace_9201baadf61d084e71d5b1992cd5a58b" parent="aspace_40fb7da73b6200b4669fdd8fcfa27051" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. W. B. Jones</title>(Montgomery Circuit Court): Volumes 12-13</unittitle>
+            <unitdate datechar="creation">Nov 1931</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_29dfbb42347cf28194c9a2f52eb81d80" label="Mixed Materials [31142062773844]" type="Box">6</container>
+            <container id="aspace_a91019153549c61c2a1dda0861491625" parent="aspace_29dfbb42347cf28194c9a2f52eb81d80" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. W. B. Jones</title>(Montgomery Circuit Court): Volumes 14-15</unittitle>
+            <unitdate datechar="creation">Nov 1931</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6dc07b45f994a7f9a29e0c28f4d6ec16" label="Mixed Materials [31142062773844]" type="Box">6</container>
+            <container id="aspace_95661c7a657afb5001a83e2be636974c" parent="aspace_6dc07b45f994a7f9a29e0c28f4d6ec16" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. W. B. Jones</title>(Montgomery Circuit Court): Volumes 16-17</unittitle>
+            <unitdate datechar="creation">Nov 1931</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5a82908558fad8754516b7526df3a033" label="Mixed Materials [31142062773844]" type="Box">6</container>
+            <container id="aspace_e305a8d07d1a06d15795bcee38ae6f48" parent="aspace_5a82908558fad8754516b7526df3a033" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle><title render="italic">Commonwealth of Kentucky vs. W. B. Jones</title>(Montgomery Circuit Court): Volume 18</unittitle>
+            <unitdate datechar="creation">Nov 1931</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c0cd516a9f34e8d45f96cfa36f56fb8c" label="Mixed Materials [31142062773844]" type="Box">6</container>
+            <container id="aspace_0fb590eaa8e4ecbb9b89a3ce1622d9dd" parent="aspace_c0cd516a9f34e8d45f96cfa36f56fb8c" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Transcript Excerpts</unittitle>
+            <unitdate datechar="creation" normal="1931/1933" type="inclusive">1931-1933</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_be7ee220016d06fd4550c9769bfa90bf" label="Mixed Materials [31142062773844]" type="Box">6</container>
+            <container id="aspace_7440d0bcd8c11d82169648e5daaced18" parent="aspace_be7ee220016d06fd4550c9769bfa90bf" type="Folder">5</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

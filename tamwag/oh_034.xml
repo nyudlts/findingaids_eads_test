@@ -1,69 +1,486 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/oh_034">oh_034</eadid><filedesc><titlestmt><titleproper>Guide to the Burton Hall Union Democracy Oral History Collection <num>OH.034</num></titleproper><author>Unidentified Tamiment staff</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>1998</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 06:45:33 -0400</date>.</creation><langusage>Finding aid written in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Burton Hall Union Democracy Oral History Collection</unittitle>
-    <origination label="Creator">
-      <persname source="naf">LaTour, Jane</persname>
-    </origination>
-    <unitid>OH.034</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
-      <extent altrender="carrier">in 1 record carton, 1 manuscript box, and 2 compact disk boxes.</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1988/2001" type="inclusive">1988-2001</unitdate>
-    <abstract id="aspace_570ce39bd1e5f9a2491c39f915b35baa">Burton Hall was born in South Orange, New Jersey in 1929. He graduated from Williams College in 1951 and Yale Law School in 1954. Hall set up his own practice in 1960, and soon his work was almost entirely comprised of rank-and-file members suing to protect their democratic rights within their unions. He was one of the pioneer attorneys in developing the case law for the Labor-Management Reporting and Disclosure Act of 1959, also known as the Landrum-Griffin Act. His precedent-setting cases involved protection of the rights guaranteed by law in that section of the Act known as the "Bill of Rights" of union members. He represented rank-and-file members in numerous cases involving issues such as eligibility for running for union office, discipline against members for criticism of their leadership, and expulsion of union members for advocating radical political ideas.
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/oh_034">oh_034</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Burton Hall Union Democracy Oral History Collection <num>OH.034</num></titleproper>
+        <author>Unidentified Tamiment staff</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>1998</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 06:45:33 -0400</date>.</creation>
+      <langusage>Finding aid written in English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Burton Hall Union Democracy Oral History Collection</unittitle>
+      <origination label="Creator">
+        <persname source="naf">LaTour, Jane</persname>
+      </origination>
+      <unitid>OH.034</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
+        <extent altrender="carrier">in 1 record carton, 1 manuscript box, and 2 compact disk boxes.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1988/2001" type="inclusive">1988-2001</unitdate>
+      <abstract id="aspace_570ce39bd1e5f9a2491c39f915b35baa">Burton Hall was born in South Orange, New Jersey in 1929. He graduated from Williams College in 1951 and Yale Law School in 1954. Hall set up his own practice in 1960, and soon his work was almost entirely comprised of rank-and-file members suing to protect their democratic rights within their unions. He was one of the pioneer attorneys in developing the case law for the Labor-Management Reporting and Disclosure Act of 1959, also known as the Landrum-Griffin Act. His precedent-setting cases involved protection of the rights guaranteed by law in that section of the Act known as the "Bill of Rights" of union members. He represented rank-and-file members in numerous cases involving issues such as eligibility for running for union office, discipline against members for criticism of their leadership, and expulsion of union members for advocating radical political ideas.
 
 Jane Latour collected these interviews in her capacity as archivist of the Burton Hall Papers. The collection consists of interviews with rank and file insurgents, family members, representatives of union democracy organizations and others who worked with Burton Hall. The bulk of the interviews relate to Painters and Teamsters (Local 282) union reform efforts. The collection consists of audio recordings, transcripts, and contextual documentation.</abstract>
-    <langmaterial id="aspace_18564cd9d9cf752b7b2ae7a7dd624842">Materials are in English.</langmaterial>
-  </did>
-  <accessrestrict id="aspace_75cd691b214bdf7d7a8711401358d778">
-    <head>Conditions Governing Access</head>
-<p>Unless noted at the interview level, materials are open for research without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_d45777ec157b123df3fc3b7a46606001">
-    <head>Immediate Source of Acquisition</head>
-<p>Interviews were conducted for deposit at the Robert F. Wagner Labor Archives by Jane Latour (archivist for the Butron Hall Papers) and others between 1988 and 2001. The accession number associated with this collection is 1992.017.</p>  </acqinfo>
-  <arrangement id="aspace_a94e0b500f58f723b15ef39b0798649c">
-    <head>Arrangement</head>
-<p>Finding aid and compact disks are arranged alphabetically by last name of the interviewee. Master cassettes are arranged according to an archivist-devised numbering scheme which is partially chronological. This arrangement likely reflects the order that the tapes were added to the collection. Some numbers were repeated in the scheme.</p>  </arrangement>
-  <bioghist id="aspace_f48e29ddcb154e615c1b64b6b48e3425">
-    <head>Historical/Biographical Note</head>
-<p>Burton Hall was born in South Orange, New Jersey in 1929. He graduated from Williams College in 1951 and Yale Law School in 1954. While in college and law school he was a member of the Food, Tobacco and Agricultural Workers Union in Camden, New Jersey, the International Longshoremen's and Warehousemen's Union, Local 11, and the International Association of Machinists, Local 751, on the West Coast. He served in the U.S. Army from 1954 to 1956. He was admitted to the New York bar in 1957 and worked as a lawyer for a private firm and the Federal Aviation Agency before turning to labor law. </p><p>Burton Hall set up his own practice in 1960 as a labor lawyer. Soon his work was almost entirely comprised of rank-and-file members suing to protect their democratic rights within their unions. His office was located at 136 Liberty Street in Lower Manhattan. When the building was demolished to make way for the World Trade Center, he moved to 401 Broadway. Hall was one of the pioneer attorneys in developing the case law for the Labor-Management Reporting and Disclosure Act of 1959, also known as the Landrum-Griffin Act. His precedent-setting cases involved protection of the rights guaranteed by law in that section of the Act known as the "Bill of Rights" of union members. Thus he represented rank-and-file members in numerous cases involving issues such as eligibility for running for union office, discipline against members for criticism of their leadership, and expulsion of union members for advocating radical political ideas.</p>  </bioghist>
-  <prefercite id="aspace_d9e00c6f4ffb7e048a51607c0ce5ffbc">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Burton Hall Union Democracy Oral History Project; OH 034; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <processinfo id="aspace_203932bcb5835b87ea1903c9f9780aef">
-    <head>Processing Information</head>
-<p>Collection was processed during the 1990s-2000s, and segments of the finding aid were written in the process. Digitization of audiocassettes was completed in 2011. Audiocassettes were rehoused in new cases as part of digitization and were reboxed in 2015. Finding aid was updated in 2015 to reflect digitization and reboxing, for compliance with DACS and local descriptive standards, and to clarify certain notes.</p>  </processinfo>
-  <scopecontent id="aspace_c79accaceef4de0620d880ea6eff07d4">
-    <head>Scope and Contents</head>
-<p>Jane Latour collected these interviews in her capacity as archivist of the Burton Hall Papers. The collection consists of interviews with rank and file insurgents, family members, representatives of union democracy organizations, and others who worked with Burton Hall. The bulk of the interviews relate to Painters and Teamsters (Local 282) union reform efforts.</p><p>The interviews were recorded on cassettes and have been digitized for preservation purposes. Some interviews have associated transcripts, interview notes, or summaries. There are also articles and other contextual documentation associated with certain interviews.</p>  </scopecontent>
-  <phystech id="aspace_1c43b49736ad703da9e8eccae99ff72b">
-    <head>Audiovisual Access Policies and Procedures</head>
-<p>Access to audiovisual materials in this collection is available through digitized access copies. Researchers may view an item's original container, but the media themselves are not available for playback because of preservation concerns. Materials that have already been digitized are noted in the collection's finding aid and can be requested in our reading room. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
-  <userestrict id="aspace_d0915feee4dee4089b28de29d118d7a5">
-    <head>Conditions Governing Use</head>
-<p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. Any rights (including copyright and related rights to publicity and privacy) held by Tamiment Library and Robert F. Wagner Labor Archives  are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from repository. Please contact tamiment.wagner@nyu.edu.</p>  </userestrict>
-  <controlaccess>
-    <subject source="lcsh">Labor unions -- Construction workers -- New York (State)</subject>
-    <subject source="lcsh">Collective bargaining -- New York (State) --  New York.</subject>
-    <subject source="lcsh">Labor union democracy -- New York (State) -- New York.</subject>
-    <subject source="lcsh">Labor union democracy |z United States.</subject>
-    <subject source="lcsh">Labor unions -- Corrupt practices -- New York (N.Y.)</subject>
-    <corpname authfilenumber="(lccn)n80079836" source="naf">International Brotherhood of Painters and Allied Trades</corpname>
-    <corpname authfilenumber="(lccn)n87890214" source="naf">International Brotherhood of Teamsters</corpname>
-    <corpname rules="dacs" source="local">Utility Workers Union of America. Local 1-2</corpname>
-    <persname source="naf">Hall, Burton</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref16" level="file"><did><unittitle>John Alfarone</unittitle><unitdate datechar="creation" normal="1994/1995" type="inclusive">Dec 29, 1994 and Jan 6, 1995</unitdate><container altrender="Record carton" id="aspace_86c2de4f5aaf4343d83120b7083a75c4" label="Audio [31142054611390]" type="Box">2</container><container id="aspace_b20518b632f16bcbc395559c0d30a9b6" parent="aspace_86c2de4f5aaf4343d83120b7083a75c4" type="Cassette">12A-D</container><container altrender="Card Box - 6.5 - long" id="aspace_b1276abb83619b5491ac4fbb74bb09b2" label="Audio [31142062758902]" type="Box">3</container><container id="aspace_76fb89a39725021b5eba0a909b278d33" parent="aspace_b1276abb83619b5491ac4fbb74bb09b2" type="CD">Alfarone 1-4</container><container altrender="Manuscript box - Legal" id="aspace_bf8471b1b79568f20d3418a2a6dc1d63" label="Mixed Materials [31142062672137]" type="Box">1</container><container id="aspace_46e119705c3f22788a52296b7933520b" parent="aspace_bf8471b1b79568f20d3418a2a6dc1d63" type="Folder">1</container></did></c><c id="aspace_ref2" level="file"><did><unittitle>David Barrish</unittitle><unitdate datechar="creation" normal="1993/1993" type="inclusive">Jul 26, 1993 and Jul 28,1993</unitdate><container altrender="Record carton" id="aspace_5d5d0ba7d71f53d2b5bb2666204aa107" label="Audio [31142054611390]" type="Box">2</container><container id="aspace_49702638513faadfeb45bbdffc7c7cef" parent="aspace_5d5d0ba7d71f53d2b5bb2666204aa107" type="Cassette">1A-B</container><container altrender="Manuscript box - Legal" id="aspace_7e0f3665113da9453ff53e55cccb6314" label="Mixed Materials [31142062672137]" type="Box">1</container><container id="aspace_28107e1c1fa0b0b364d26d78c66eb769" parent="aspace_7e0f3665113da9453ff53e55cccb6314" type="Folder">2</container><container altrender="Card Box - 6.5 - long" id="aspace_f195cf862aa705b365e348cdf081e63c" label="Audio [31142062758902]" type="Box">3</container><container id="aspace_ba3c585a7adae54fc7f57ecbdf3344e3" parent="aspace_f195cf862aa705b365e348cdf081e63c" type="CD">Barrish 1-2</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Herman Benson</unittitle><unitdate datechar="creation" normal="1995/1995" type="inclusive">Feb 24, 1995</unitdate><container altrender="Manuscript box - Legal" id="aspace_f37450fa4d31323dde9a14afa80bd1aa" label="Mixed Materials [31142062672137]" type="Box">1</container><container id="aspace_e09754e29fc8118135123554711f6b28" parent="aspace_f37450fa4d31323dde9a14afa80bd1aa" type="Folder">3</container><container altrender="Record carton" id="aspace_d8d66002cd7982c1a83e7b1316a7846a" label="Audio [31142054611390]" type="Box">2</container><container id="aspace_7491ff55269207ecf1984ff21e91e645" parent="aspace_d8d66002cd7982c1a83e7b1316a7846a" type="Cassette">9A-B</container><container altrender="Card Box - 6.5 - long" id="aspace_972ab52c40b75533c31b10ccf68761cc" label="Audio [31142062758902]" type="Box">3</container><container id="aspace_7ec8fa7a225672ca685ad67917fef736" parent="aspace_972ab52c40b75533c31b10ccf68761cc" type="CD">Benson 1-2</container></did></c><c id="aspace_ref3" level="file"><did><unittitle>Carl Blum</unittitle><unitdate datechar="creation" normal="1993/1993" type="inclusive">Jul 27, 1993</unitdate><container altrender="Record carton" id="aspace_f93d7b2da827c8681195fcaae23ad5d2" label="Audio [31142054611390]" type="Box">2</container><container id="aspace_5d98bf1ae74e3eec124502c7690a0185" parent="aspace_f93d7b2da827c8681195fcaae23ad5d2" type="Cassette">2A-F</container><container altrender="Manuscript box - Legal" id="aspace_54217f61fbfc4e10d0022b36074c09c6" label="Mixed Materials [31142062672137]" type="Box">1</container><container id="aspace_ad6ba29d32354baf5bf036edb8673ff0" parent="aspace_54217f61fbfc4e10d0022b36074c09c6" type="Folder">4</container><container altrender="Card Box - 6.5 - long" id="aspace_7b7e012ef39b0f834d5174fdb293400e" label="Audio [31142062758902]" type="Box">3</container><container id="aspace_c574cf8ce64561d3db899eb3a64607e0" parent="aspace_7b7e012ef39b0f834d5174fdb293400e" type="CD">Blum 1-5</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Mike Cotter</unittitle><unitdate datechar="creation" normal="1988/1988" type="inclusive">Jul 10, 1988</unitdate><container altrender="Record carton" id="aspace_88b4b333b4c75a07c69b8d3495425200" label="Audio [31142054611390]" type="Box">2</container><container id="aspace_07d49a7f6a34cce20859908b655a2f48" parent="aspace_88b4b333b4c75a07c69b8d3495425200" type="Cassette">16A-B</container><container altrender="Card Box - 6.5 - long" id="aspace_32e0662cafe6d4fb620919d1c6779431" label="Audio [31142062758902]" type="Box">3</container><container id="aspace_1a48bd90f67bf3eadadb0caa9ce0e57d" parent="aspace_32e0662cafe6d4fb620919d1c6779431" type="CD">Cotter 1-2</container><container altrender="Manuscript box - Legal" id="aspace_92b0b7fc5bb409aa3ec6e74f0979fb6f" label="Mixed Materials [31142062672137]" type="Box">1</container><container id="aspace_a483d62f70b6b6c15bb15733cc89b3d5" parent="aspace_92b0b7fc5bb409aa3ec6e74f0979fb6f" type="Folder">5</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Charles Curd</unittitle><unitdate datechar="creation" normal="1995/1995" type="inclusive">Apr 29, 1995</unitdate><container altrender="Record carton" id="aspace_a1408550bafb1f4decebfb7ed0d3d5bc" label="Audio [31142054611390]" type="Box">2</container><container id="aspace_1277824e1fcdc9af5cb4e71e9688753e" parent="aspace_a1408550bafb1f4decebfb7ed0d3d5bc" type="Cassette">10</container><container altrender="Card Box - 6.5 - long" id="aspace_6cbfe6a4c8e836f7b5bad1af8c8d0949" label="Audio [31142062758902]" type="Box">3</container><container id="aspace_f2339c9649be349e7d8f19e2ceef0531" parent="aspace_6cbfe6a4c8e836f7b5bad1af8c8d0949" type="CD">Curd 1</container><container altrender="Manuscript box - Legal" id="aspace_4b90a9aed47ccf8547552c23e1fdb218" label="Mixed Materials [31142062672137]" type="Box">1</container><container id="aspace_90264573e8026fb0ffc061bc67fdd854" parent="aspace_4b90a9aed47ccf8547552c23e1fdb218" type="Folder">6</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Patrick Dolan</unittitle><unitdate datechar="creation" normal="2001/2001" type="inclusive">Seo 15, 2001</unitdate><container altrender="Record carton" id="aspace_9c509d7a77cd684e425558723768f183" label="Audio [31142054611390]" type="Box">2</container><container id="aspace_b44c13275f0f0dfab502f4bc382fbbba" parent="aspace_9c509d7a77cd684e425558723768f183" type="Cassette">20A-B</container><container altrender="Card Box - 6.5 - long" id="aspace_f07988437cb7e2bac9a11657766ab041" label="Audio [31142062758902]" type="Box">3</container><container id="aspace_c56f4c5fa3af57e3fecb4ef310269d70" parent="aspace_f07988437cb7e2bac9a11657766ab041" type="CD">Dolan 1-2</container><container altrender="Manuscript box - Legal" id="aspace_8a65714912d2704c3136bb101afcd268" label="Mixed Materials [31142062672137]" type="Box">1</container><container id="aspace_45a6285473f27ddf748a2dea15934b48" parent="aspace_8a65714912d2704c3136bb101afcd268" type="Folder">7</container></did><scopecontent id="aspace_e35c35d82f59f5e1f676e471bf5e47e8"><head>Scope and Content Note</head><p>Interview regarding Utility Workers Union, Local 1-2.</p></scopecontent></c><c id="aspace_ref8" level="file"><did><unittitle>Robert Eckersdorf
-</unittitle><unitdate datechar="creation" normal="1994/1994" type="inclusive">May 2, 1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_585be39a723e424371c4008363357ace" label="Mixed Materials [31142062672137]" type="Box">1</container><container id="aspace_87409b60170f2e4def4d01876307410a" parent="aspace_585be39a723e424371c4008363357ace" type="Folder">8</container><container altrender="Card Box - 6.5 - long" id="aspace_1443f75ae4866c5694315d179e875b22" label="Audio [31142062758902]" type="Box">3</container><container id="aspace_3ecab6e4559d315a0f474023e3f9cd01" parent="aspace_1443f75ae4866c5694315d179e875b22" type="CD">Eckersdorf 1-3</container><container altrender="Record carton" id="aspace_58f105d409e4d587c34674eba9c01bb3" label="Audio [31142054611390]" type="Box">2</container><container id="aspace_1feaa11a77478f8fe5e18949f2f28097" parent="aspace_58f105d409e4d587c34674eba9c01bb3" type="Cassette">7A-C</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Eric Franklin
-</unittitle><unitdate datechar="creation" normal="1984/1985" type="inclusive">Nov 1984 and Dec, 12, 1985</unitdate><container altrender="Card Box - 6.5 - long" id="aspace_2ae9a6272a4a508197cf3bfd3a597775" label="Audio [31142062758902]" type="Box">3</container><container id="aspace_f3e91aa5db8e1b4f7cdb34a997360da3" parent="aspace_2ae9a6272a4a508197cf3bfd3a597775" type="CD">Franklin 1-2</container><container altrender="Manuscript box - Legal" id="aspace_eb9c298546fa49d278684f4290c36b8b" label="Mixed Materials [31142062672137]" type="Box">1</container><container id="aspace_e7b51137691c78826b6dda380db31845" parent="aspace_eb9c298546fa49d278684f4290c36b8b" type="Folder">9</container><container altrender="Record carton" id="aspace_710abffa00af6658890680996be423f2" label="Audio [31142054611390]" type="Box">2</container><container id="aspace_487a437a6c23c96fe48f2bf25994f4ec" parent="aspace_710abffa00af6658890680996be423f2" type="Cassette">14A-B</container></did><userestrict id="aspace_fe8bcdd6fef1343c90153181d56169e6"><head>Use restrictions</head><p>The Tamiment Library and Robert F. Wagner Labor Archives does not hold a release form for this recording. Copyright (and related rights of publicity and privacy) are held by another party. Permission to publish or reproduce materials must be secured from copyright holder. Please contact the Tamiment Library for assistance.</p></userestrict><scopecontent id="aspace_728dce2b55f23b94025118320f016521"><head>Scope and Content Note</head><p>Recorded interviews on WBAI regarding Independent Association of Publishers and Employees, Inc. and <title render="italic">Wall Street Journal</title>.</p></scopecontent></c><c id="aspace_ref5" level="file"><did><unittitle>Daniel French</unittitle><unitdate datechar="creation" normal="1992/1993" type="inclusive">Oct 23, 1992, Sep 1, 1993, and Sep 4, 1993</unitdate><container altrender="Card Box - 6.5 - long" id="aspace_aac88e84c29254bf11ad7793c9ab62f7" label="Audio [31142062758902]" type="Box">3</container><container id="aspace_61de08206ec06adea078d4b4e1266dae" parent="aspace_aac88e84c29254bf11ad7793c9ab62f7" type="CD">French 1-4</container><container altrender="Record carton" id="aspace_39bf3e3d7ce92a84ad822c1ed8d575d2" label="Audio [31142054611390]" type="Box">2</container><container id="aspace_8e059be8bd62d52bcd8e561d4adbfa93" parent="aspace_39bf3e3d7ce92a84ad822c1ed8d575d2" type="Cassette">4A-D</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>James Geoghegan</unittitle><unitdate datechar="creation" normal="2000/2000" type="inclusive">Feb 17, 2000</unitdate><container altrender="Manuscript box - Legal" id="aspace_605e8b3ba22595d77f8051e4fcf76d25" label="Mixed Materials [31142062672137]" type="Box">1</container><container id="aspace_0abebf60c1199cd535797c73c5c10833" parent="aspace_605e8b3ba22595d77f8051e4fcf76d25" type="Folder">10</container><container altrender="Record carton" id="aspace_a2cb44f9c30195d2631c52904b3b8b2d" label="Audio [31142054611390]" type="Box">2</container><container id="aspace_cacee7119b39336978be5b564216d874" parent="aspace_a2cb44f9c30195d2631c52904b3b8b2d" type="Cassette">17A-C</container><container altrender="Card Box - 6.5 - long" id="aspace_da3e70697f8cefbdf549e4bc2b6f6c17" label="Audio [31142062758902]" type="Box">3</container><container id="aspace_e8d269ca65c22b3ab23f2c89ba3b95cf" parent="aspace_da3e70697f8cefbdf549e4bc2b6f6c17" type="CD">Geoghegan 1-4</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Burton Hall Memorial Service
-</unittitle><unitdate datechar="creation" normal="1991/1991" type="inclusive">Dec 14, 1991</unitdate><container altrender="Record carton" id="aspace_3d6dbbf9696a28a09b77af8e5e8d4f5f" label="Audio [31142054611390]" type="Box">2</container><container id="aspace_c72e5432f2c059b8a4149682af7b5262" parent="aspace_3d6dbbf9696a28a09b77af8e5e8d4f5f" type="Cassette">13</container><container altrender="Card Box - 6.5 - long" id="aspace_68e097a08072ea9f4a494f3f77b0197c" label="Audio [31142062758902]" type="Box">3</container><container id="aspace_e0e0abea435356d08e06451e31585783" parent="aspace_68e097a08072ea9f4a494f3f77b0197c" type="CD">Hall Memorial 1-2</container></did><userestrict id="aspace_d3da7d9ce342e119b54e98be1352bb92"><head>Use Restrictions</head><p>The Tamiment Library and Robert F. Wagner Labor Archives does not hold a release form for this recording. Copyright (and related rights of publicity and privacy) are held by the creator of the materials. Permission to publish or reproduce materials must be secured from copyright holder. Please contact the Tamiment Library for assistance in contacting these individuals.</p></userestrict></c><c id="aspace_ref9" level="file"><did><unittitle>Henry Hall</unittitle><unitdate datechar="creation" normal="1994/1994" type="inclusive">Nov 6, 1994</unitdate><container altrender="Manuscript box - Legal" id="aspace_a05d603ce014ea4d8ddfbbc9bf9a1894" label="Mixed Materials [31142062672137]" type="Box">1</container><container id="aspace_b6c06fd15206141a7d9e4d4163a3b241" parent="aspace_a05d603ce014ea4d8ddfbbc9bf9a1894" type="Folder">11</container><container altrender="Card Box - 6.5 - long" id="aspace_0b4937777d509f0ae9cb9a2d7bb8abcf" label="Audio [31142062758902]" type="Box">3</container><container id="aspace_2693e5a67be7ae58d2e6fc5210403666" parent="aspace_0b4937777d509f0ae9cb9a2d7bb8abcf" type="CD">Hall 1</container><container altrender="Record carton" id="aspace_1b2cdce04a1a007e9caed769d630c427" label="Audio [31142054611390]" type="Box">2</container><container id="aspace_0fd5de4818dcd0397af8605abdd9461c" parent="aspace_1b2cdce04a1a007e9caed769d630c427" type="Cassette">8</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>John N. Hayes</unittitle><unitdate datechar="creation" normal="1995/1995" type="inclusive">Jul 17, 1995</unitdate><container altrender="Card Box - 6.5 - long" id="aspace_fed8472ce4ad95673dca451f4e5d9dee" label="Audio [31142062758902]" type="Box">3</container><container id="aspace_9b57c44f9c9f446d549db106b26ee2b9" parent="aspace_fed8472ce4ad95673dca451f4e5d9dee" type="CD">Hayes 1-3</container><container altrender="Record carton" id="aspace_b3bea22bfd4f8fc37a6df1bc4309d98f" label="Audio [31142054611390]" type="Box">2</container><container id="aspace_797cdcb300896bb02dd13fe47c14cf18" parent="aspace_b3bea22bfd4f8fc37a6df1bc4309d98f" type="Cassette">15A-B</container><container altrender="Manuscript box - Legal" id="aspace_445fbca4fabcf206e1462d31026912b2" label="Mixed Materials [31142062672137]" type="Box">1</container><container id="aspace_fb0ec42e85ce021812b3ddd630b1c67c" parent="aspace_445fbca4fabcf206e1462d31026912b2" type="Folder">12</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Ted Katsaros</unittitle><unitdate datechar="creation" normal="1995/1995" type="inclusive">Oct 4, 1995</unitdate><container altrender="Manuscript box - Legal" id="aspace_b63369009319154f35f4c2242d8cecea" label="Mixed Materials [31142062672137]" type="Box">1</container><container id="aspace_62bd20c2dc87ed1ca2266345d8629d96" parent="aspace_b63369009319154f35f4c2242d8cecea" type="Folder">13</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>L. Kudla / J. Carter
+      <langmaterial id="aspace_18564cd9d9cf752b7b2ae7a7dd624842">Materials are in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_75cd691b214bdf7d7a8711401358d778">
+      <head>Conditions Governing Access</head>
+      <p>Unless noted at the interview level, materials are open for research without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_d45777ec157b123df3fc3b7a46606001">
+      <head>Immediate Source of Acquisition</head>
+      <p>Interviews were conducted for deposit at the Robert F. Wagner Labor Archives by Jane Latour (archivist for the Butron Hall Papers) and others between 1988 and 2001. The accession number associated with this collection is 1992.017.</p>
+    </acqinfo>
+    <arrangement id="aspace_a94e0b500f58f723b15ef39b0798649c">
+      <head>Arrangement</head>
+      <p>Finding aid and compact disks are arranged alphabetically by last name of the interviewee. Master cassettes are arranged according to an archivist-devised numbering scheme which is partially chronological. This arrangement likely reflects the order that the tapes were added to the collection. Some numbers were repeated in the scheme.</p>
+    </arrangement>
+    <bioghist id="aspace_f48e29ddcb154e615c1b64b6b48e3425">
+      <head>Historical/Biographical Note</head>
+      <p>Burton Hall was born in South Orange, New Jersey in 1929. He graduated from Williams College in 1951 and Yale Law School in 1954. While in college and law school he was a member of the Food, Tobacco and Agricultural Workers Union in Camden, New Jersey, the International Longshoremen's and Warehousemen's Union, Local 11, and the International Association of Machinists, Local 751, on the West Coast. He served in the U.S. Army from 1954 to 1956. He was admitted to the New York bar in 1957 and worked as a lawyer for a private firm and the Federal Aviation Agency before turning to labor law. </p>
+      <p>Burton Hall set up his own practice in 1960 as a labor lawyer. Soon his work was almost entirely comprised of rank-and-file members suing to protect their democratic rights within their unions. His office was located at 136 Liberty Street in Lower Manhattan. When the building was demolished to make way for the World Trade Center, he moved to 401 Broadway. Hall was one of the pioneer attorneys in developing the case law for the Labor-Management Reporting and Disclosure Act of 1959, also known as the Landrum-Griffin Act. His precedent-setting cases involved protection of the rights guaranteed by law in that section of the Act known as the "Bill of Rights" of union members. Thus he represented rank-and-file members in numerous cases involving issues such as eligibility for running for union office, discipline against members for criticism of their leadership, and expulsion of union members for advocating radical political ideas.</p>
+    </bioghist>
+    <prefercite id="aspace_d9e00c6f4ffb7e048a51607c0ce5ffbc">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Burton Hall Union Democracy Oral History Project; OH 034; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_203932bcb5835b87ea1903c9f9780aef">
+      <head>Processing Information</head>
+      <p>Collection was processed during the 1990s-2000s, and segments of the finding aid were written in the process. Digitization of audiocassettes was completed in 2011. Audiocassettes were rehoused in new cases as part of digitization and were reboxed in 2015. Finding aid was updated in 2015 to reflect digitization and reboxing, for compliance with DACS and local descriptive standards, and to clarify certain notes.</p>
+    </processinfo>
+    <scopecontent id="aspace_c79accaceef4de0620d880ea6eff07d4">
+      <head>Scope and Contents</head>
+      <p>Jane Latour collected these interviews in her capacity as archivist of the Burton Hall Papers. The collection consists of interviews with rank and file insurgents, family members, representatives of union democracy organizations, and others who worked with Burton Hall. The bulk of the interviews relate to Painters and Teamsters (Local 282) union reform efforts.</p>
+      <p>The interviews were recorded on cassettes and have been digitized for preservation purposes. Some interviews have associated transcripts, interview notes, or summaries. There are also articles and other contextual documentation associated with certain interviews.</p>
+    </scopecontent>
+    <phystech id="aspace_1c43b49736ad703da9e8eccae99ff72b">
+      <head>Audiovisual Access Policies and Procedures</head>
+      <p>Access to audiovisual materials in this collection is available through digitized access copies. Researchers may view an item's original container, but the media themselves are not available for playback because of preservation concerns. Materials that have already been digitized are noted in the collection's finding aid and can be requested in our reading room. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
+    </phystech>
+    <userestrict id="aspace_d0915feee4dee4089b28de29d118d7a5">
+      <head>Conditions Governing Use</head>
+      <p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. Any rights (including copyright and related rights to publicity and privacy) held by Tamiment Library and Robert F. Wagner Labor Archives  are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from repository. Please contact tamiment.wagner@nyu.edu.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="lcsh">Labor unions -- Construction workers -- New York (State)</subject>
+      <subject source="lcsh">Collective bargaining -- New York (State) --  New York.</subject>
+      <subject source="lcsh">Labor union democracy -- New York (State) -- New York.</subject>
+      <subject source="lcsh">Labor union democracy |z United States.</subject>
+      <subject source="lcsh">Labor unions -- Corrupt practices -- New York (N.Y.)</subject>
+      <corpname authfilenumber="(lccn)n80079836" source="naf">International Brotherhood of Painters and Allied Trades</corpname>
+      <corpname authfilenumber="(lccn)n87890214" source="naf">International Brotherhood of Teamsters</corpname>
+      <corpname rules="dacs" source="local">Utility Workers Union of America. Local 1-2</corpname>
+      <persname source="naf">Hall, Burton</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref16" level="file">
+        <did>
+          <unittitle>John Alfarone</unittitle>
+          <unitdate datechar="creation" normal="1994/1995" type="inclusive">Dec 29, 1994 and Jan 6, 1995</unitdate>
+          <container altrender="Record carton" id="aspace_86c2de4f5aaf4343d83120b7083a75c4" label="Audio [31142054611390]" type="Box">2</container>
+          <container id="aspace_b20518b632f16bcbc395559c0d30a9b6" parent="aspace_86c2de4f5aaf4343d83120b7083a75c4" type="Cassette">12A-D</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_b1276abb83619b5491ac4fbb74bb09b2" label="Audio [31142062758902]" type="Box">3</container>
+          <container id="aspace_76fb89a39725021b5eba0a909b278d33" parent="aspace_b1276abb83619b5491ac4fbb74bb09b2" type="CD">Alfarone 1-4</container>
+          <container altrender="Manuscript box - Legal" id="aspace_bf8471b1b79568f20d3418a2a6dc1d63" label="Mixed Materials [31142062672137]" type="Box">1</container>
+          <container id="aspace_46e119705c3f22788a52296b7933520b" parent="aspace_bf8471b1b79568f20d3418a2a6dc1d63" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref2" level="file">
+        <did>
+          <unittitle>David Barrish</unittitle>
+          <unitdate datechar="creation" normal="1993/1993" type="inclusive">Jul 26, 1993 and Jul 28,1993</unitdate>
+          <container altrender="Record carton" id="aspace_5d5d0ba7d71f53d2b5bb2666204aa107" label="Audio [31142054611390]" type="Box">2</container>
+          <container id="aspace_49702638513faadfeb45bbdffc7c7cef" parent="aspace_5d5d0ba7d71f53d2b5bb2666204aa107" type="Cassette">1A-B</container>
+          <container altrender="Manuscript box - Legal" id="aspace_7e0f3665113da9453ff53e55cccb6314" label="Mixed Materials [31142062672137]" type="Box">1</container>
+          <container id="aspace_28107e1c1fa0b0b364d26d78c66eb769" parent="aspace_7e0f3665113da9453ff53e55cccb6314" type="Folder">2</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_f195cf862aa705b365e348cdf081e63c" label="Audio [31142062758902]" type="Box">3</container>
+          <container id="aspace_ba3c585a7adae54fc7f57ecbdf3344e3" parent="aspace_f195cf862aa705b365e348cdf081e63c" type="CD">Barrish 1-2</container>
+        </did>
+      </c>
+      <c id="aspace_ref13" level="file">
+        <did>
+          <unittitle>Herman Benson</unittitle>
+          <unitdate datechar="creation" normal="1995/1995" type="inclusive">Feb 24, 1995</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f37450fa4d31323dde9a14afa80bd1aa" label="Mixed Materials [31142062672137]" type="Box">1</container>
+          <container id="aspace_e09754e29fc8118135123554711f6b28" parent="aspace_f37450fa4d31323dde9a14afa80bd1aa" type="Folder">3</container>
+          <container altrender="Record carton" id="aspace_d8d66002cd7982c1a83e7b1316a7846a" label="Audio [31142054611390]" type="Box">2</container>
+          <container id="aspace_7491ff55269207ecf1984ff21e91e645" parent="aspace_d8d66002cd7982c1a83e7b1316a7846a" type="Cassette">9A-B</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_972ab52c40b75533c31b10ccf68761cc" label="Audio [31142062758902]" type="Box">3</container>
+          <container id="aspace_7ec8fa7a225672ca685ad67917fef736" parent="aspace_972ab52c40b75533c31b10ccf68761cc" type="CD">Benson 1-2</container>
+        </did>
+      </c>
+      <c id="aspace_ref3" level="file">
+        <did>
+          <unittitle>Carl Blum</unittitle>
+          <unitdate datechar="creation" normal="1993/1993" type="inclusive">Jul 27, 1993</unitdate>
+          <container altrender="Record carton" id="aspace_f93d7b2da827c8681195fcaae23ad5d2" label="Audio [31142054611390]" type="Box">2</container>
+          <container id="aspace_5d98bf1ae74e3eec124502c7690a0185" parent="aspace_f93d7b2da827c8681195fcaae23ad5d2" type="Cassette">2A-F</container>
+          <container altrender="Manuscript box - Legal" id="aspace_54217f61fbfc4e10d0022b36074c09c6" label="Mixed Materials [31142062672137]" type="Box">1</container>
+          <container id="aspace_ad6ba29d32354baf5bf036edb8673ff0" parent="aspace_54217f61fbfc4e10d0022b36074c09c6" type="Folder">4</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_7b7e012ef39b0f834d5174fdb293400e" label="Audio [31142062758902]" type="Box">3</container>
+          <container id="aspace_c574cf8ce64561d3db899eb3a64607e0" parent="aspace_7b7e012ef39b0f834d5174fdb293400e" type="CD">Blum 1-5</container>
+        </did>
+      </c>
+      <c id="aspace_ref21" level="file">
+        <did>
+          <unittitle>Mike Cotter</unittitle>
+          <unitdate datechar="creation" normal="1988/1988" type="inclusive">Jul 10, 1988</unitdate>
+          <container altrender="Record carton" id="aspace_88b4b333b4c75a07c69b8d3495425200" label="Audio [31142054611390]" type="Box">2</container>
+          <container id="aspace_07d49a7f6a34cce20859908b655a2f48" parent="aspace_88b4b333b4c75a07c69b8d3495425200" type="Cassette">16A-B</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_32e0662cafe6d4fb620919d1c6779431" label="Audio [31142062758902]" type="Box">3</container>
+          <container id="aspace_1a48bd90f67bf3eadadb0caa9ce0e57d" parent="aspace_32e0662cafe6d4fb620919d1c6779431" type="CD">Cotter 1-2</container>
+          <container altrender="Manuscript box - Legal" id="aspace_92b0b7fc5bb409aa3ec6e74f0979fb6f" label="Mixed Materials [31142062672137]" type="Box">1</container>
+          <container id="aspace_a483d62f70b6b6c15bb15733cc89b3d5" parent="aspace_92b0b7fc5bb409aa3ec6e74f0979fb6f" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref14" level="file">
+        <did>
+          <unittitle>Charles Curd</unittitle>
+          <unitdate datechar="creation" normal="1995/1995" type="inclusive">Apr 29, 1995</unitdate>
+          <container altrender="Record carton" id="aspace_a1408550bafb1f4decebfb7ed0d3d5bc" label="Audio [31142054611390]" type="Box">2</container>
+          <container id="aspace_1277824e1fcdc9af5cb4e71e9688753e" parent="aspace_a1408550bafb1f4decebfb7ed0d3d5bc" type="Cassette">10</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_6cbfe6a4c8e836f7b5bad1af8c8d0949" label="Audio [31142062758902]" type="Box">3</container>
+          <container id="aspace_f2339c9649be349e7d8f19e2ceef0531" parent="aspace_6cbfe6a4c8e836f7b5bad1af8c8d0949" type="CD">Curd 1</container>
+          <container altrender="Manuscript box - Legal" id="aspace_4b90a9aed47ccf8547552c23e1fdb218" label="Mixed Materials [31142062672137]" type="Box">1</container>
+          <container id="aspace_90264573e8026fb0ffc061bc67fdd854" parent="aspace_4b90a9aed47ccf8547552c23e1fdb218" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref25" level="file">
+        <did>
+          <unittitle>Patrick Dolan</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">Seo 15, 2001</unitdate>
+          <container altrender="Record carton" id="aspace_9c509d7a77cd684e425558723768f183" label="Audio [31142054611390]" type="Box">2</container>
+          <container id="aspace_b44c13275f0f0dfab502f4bc382fbbba" parent="aspace_9c509d7a77cd684e425558723768f183" type="Cassette">20A-B</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_f07988437cb7e2bac9a11657766ab041" label="Audio [31142062758902]" type="Box">3</container>
+          <container id="aspace_c56f4c5fa3af57e3fecb4ef310269d70" parent="aspace_f07988437cb7e2bac9a11657766ab041" type="CD">Dolan 1-2</container>
+          <container altrender="Manuscript box - Legal" id="aspace_8a65714912d2704c3136bb101afcd268" label="Mixed Materials [31142062672137]" type="Box">1</container>
+          <container id="aspace_45a6285473f27ddf748a2dea15934b48" parent="aspace_8a65714912d2704c3136bb101afcd268" type="Folder">7</container>
+        </did>
+        <scopecontent id="aspace_e35c35d82f59f5e1f676e471bf5e47e8">
+          <head>Scope and Content Note</head>
+          <p>Interview regarding Utility Workers Union, Local 1-2.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_ref8" level="file">
+        <did>
+          <unittitle>Robert Eckersdorf
+</unittitle>
+          <unitdate datechar="creation" normal="1994/1994" type="inclusive">May 2, 1994</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_585be39a723e424371c4008363357ace" label="Mixed Materials [31142062672137]" type="Box">1</container>
+          <container id="aspace_87409b60170f2e4def4d01876307410a" parent="aspace_585be39a723e424371c4008363357ace" type="Folder">8</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_1443f75ae4866c5694315d179e875b22" label="Audio [31142062758902]" type="Box">3</container>
+          <container id="aspace_3ecab6e4559d315a0f474023e3f9cd01" parent="aspace_1443f75ae4866c5694315d179e875b22" type="CD">Eckersdorf 1-3</container>
+          <container altrender="Record carton" id="aspace_58f105d409e4d587c34674eba9c01bb3" label="Audio [31142054611390]" type="Box">2</container>
+          <container id="aspace_1feaa11a77478f8fe5e18949f2f28097" parent="aspace_58f105d409e4d587c34674eba9c01bb3" type="Cassette">7A-C</container>
+        </did>
+      </c>
+      <c id="aspace_ref19" level="file">
+        <did>
+          <unittitle>Eric Franklin
+</unittitle>
+          <unitdate datechar="creation" normal="1984/1985" type="inclusive">Nov 1984 and Dec, 12, 1985</unitdate>
+          <container altrender="Card Box - 6.5 - long" id="aspace_2ae9a6272a4a508197cf3bfd3a597775" label="Audio [31142062758902]" type="Box">3</container>
+          <container id="aspace_f3e91aa5db8e1b4f7cdb34a997360da3" parent="aspace_2ae9a6272a4a508197cf3bfd3a597775" type="CD">Franklin 1-2</container>
+          <container altrender="Manuscript box - Legal" id="aspace_eb9c298546fa49d278684f4290c36b8b" label="Mixed Materials [31142062672137]" type="Box">1</container>
+          <container id="aspace_e7b51137691c78826b6dda380db31845" parent="aspace_eb9c298546fa49d278684f4290c36b8b" type="Folder">9</container>
+          <container altrender="Record carton" id="aspace_710abffa00af6658890680996be423f2" label="Audio [31142054611390]" type="Box">2</container>
+          <container id="aspace_487a437a6c23c96fe48f2bf25994f4ec" parent="aspace_710abffa00af6658890680996be423f2" type="Cassette">14A-B</container>
+        </did>
+        <userestrict id="aspace_fe8bcdd6fef1343c90153181d56169e6">
+          <head>Use restrictions</head>
+          <p>The Tamiment Library and Robert F. Wagner Labor Archives does not hold a release form for this recording. Copyright (and related rights of publicity and privacy) are held by another party. Permission to publish or reproduce materials must be secured from copyright holder. Please contact the Tamiment Library for assistance.</p>
+        </userestrict>
+        <scopecontent id="aspace_728dce2b55f23b94025118320f016521">
+          <head>Scope and Content Note</head>
+          <p>Recorded interviews on WBAI regarding Independent Association of Publishers and Employees, Inc. and <title render="italic">Wall Street Journal</title>.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_ref5" level="file">
+        <did>
+          <unittitle>Daniel French</unittitle>
+          <unitdate datechar="creation" normal="1992/1993" type="inclusive">Oct 23, 1992, Sep 1, 1993, and Sep 4, 1993</unitdate>
+          <container altrender="Card Box - 6.5 - long" id="aspace_aac88e84c29254bf11ad7793c9ab62f7" label="Audio [31142062758902]" type="Box">3</container>
+          <container id="aspace_61de08206ec06adea078d4b4e1266dae" parent="aspace_aac88e84c29254bf11ad7793c9ab62f7" type="CD">French 1-4</container>
+          <container altrender="Record carton" id="aspace_39bf3e3d7ce92a84ad822c1ed8d575d2" label="Audio [31142054611390]" type="Box">2</container>
+          <container id="aspace_8e059be8bd62d52bcd8e561d4adbfa93" parent="aspace_39bf3e3d7ce92a84ad822c1ed8d575d2" type="Cassette">4A-D</container>
+        </did>
+      </c>
+      <c id="aspace_ref22" level="file">
+        <did>
+          <unittitle>James Geoghegan</unittitle>
+          <unitdate datechar="creation" normal="2000/2000" type="inclusive">Feb 17, 2000</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_605e8b3ba22595d77f8051e4fcf76d25" label="Mixed Materials [31142062672137]" type="Box">1</container>
+          <container id="aspace_0abebf60c1199cd535797c73c5c10833" parent="aspace_605e8b3ba22595d77f8051e4fcf76d25" type="Folder">10</container>
+          <container altrender="Record carton" id="aspace_a2cb44f9c30195d2631c52904b3b8b2d" label="Audio [31142054611390]" type="Box">2</container>
+          <container id="aspace_cacee7119b39336978be5b564216d874" parent="aspace_a2cb44f9c30195d2631c52904b3b8b2d" type="Cassette">17A-C</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_da3e70697f8cefbdf549e4bc2b6f6c17" label="Audio [31142062758902]" type="Box">3</container>
+          <container id="aspace_e8d269ca65c22b3ab23f2c89ba3b95cf" parent="aspace_da3e70697f8cefbdf549e4bc2b6f6c17" type="CD">Geoghegan 1-4</container>
+        </did>
+      </c>
+      <c id="aspace_ref17" level="file">
+        <did>
+          <unittitle>Burton Hall Memorial Service
+</unittitle>
+          <unitdate datechar="creation" normal="1991/1991" type="inclusive">Dec 14, 1991</unitdate>
+          <container altrender="Record carton" id="aspace_3d6dbbf9696a28a09b77af8e5e8d4f5f" label="Audio [31142054611390]" type="Box">2</container>
+          <container id="aspace_c72e5432f2c059b8a4149682af7b5262" parent="aspace_3d6dbbf9696a28a09b77af8e5e8d4f5f" type="Cassette">13</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_68e097a08072ea9f4a494f3f77b0197c" label="Audio [31142062758902]" type="Box">3</container>
+          <container id="aspace_e0e0abea435356d08e06451e31585783" parent="aspace_68e097a08072ea9f4a494f3f77b0197c" type="CD">Hall Memorial 1-2</container>
+        </did>
+        <userestrict id="aspace_d3da7d9ce342e119b54e98be1352bb92">
+          <head>Use Restrictions</head>
+          <p>The Tamiment Library and Robert F. Wagner Labor Archives does not hold a release form for this recording. Copyright (and related rights of publicity and privacy) are held by the creator of the materials. Permission to publish or reproduce materials must be secured from copyright holder. Please contact the Tamiment Library for assistance in contacting these individuals.</p>
+        </userestrict>
+      </c>
+      <c id="aspace_ref9" level="file">
+        <did>
+          <unittitle>Henry Hall</unittitle>
+          <unitdate datechar="creation" normal="1994/1994" type="inclusive">Nov 6, 1994</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a05d603ce014ea4d8ddfbbc9bf9a1894" label="Mixed Materials [31142062672137]" type="Box">1</container>
+          <container id="aspace_b6c06fd15206141a7d9e4d4163a3b241" parent="aspace_a05d603ce014ea4d8ddfbbc9bf9a1894" type="Folder">11</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_0b4937777d509f0ae9cb9a2d7bb8abcf" label="Audio [31142062758902]" type="Box">3</container>
+          <container id="aspace_2693e5a67be7ae58d2e6fc5210403666" parent="aspace_0b4937777d509f0ae9cb9a2d7bb8abcf" type="CD">Hall 1</container>
+          <container altrender="Record carton" id="aspace_1b2cdce04a1a007e9caed769d630c427" label="Audio [31142054611390]" type="Box">2</container>
+          <container id="aspace_0fd5de4818dcd0397af8605abdd9461c" parent="aspace_1b2cdce04a1a007e9caed769d630c427" type="Cassette">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref20" level="file">
+        <did>
+          <unittitle>John N. Hayes</unittitle>
+          <unitdate datechar="creation" normal="1995/1995" type="inclusive">Jul 17, 1995</unitdate>
+          <container altrender="Card Box - 6.5 - long" id="aspace_fed8472ce4ad95673dca451f4e5d9dee" label="Audio [31142062758902]" type="Box">3</container>
+          <container id="aspace_9b57c44f9c9f446d549db106b26ee2b9" parent="aspace_fed8472ce4ad95673dca451f4e5d9dee" type="CD">Hayes 1-3</container>
+          <container altrender="Record carton" id="aspace_b3bea22bfd4f8fc37a6df1bc4309d98f" label="Audio [31142054611390]" type="Box">2</container>
+          <container id="aspace_797cdcb300896bb02dd13fe47c14cf18" parent="aspace_b3bea22bfd4f8fc37a6df1bc4309d98f" type="Cassette">15A-B</container>
+          <container altrender="Manuscript box - Legal" id="aspace_445fbca4fabcf206e1462d31026912b2" label="Mixed Materials [31142062672137]" type="Box">1</container>
+          <container id="aspace_fb0ec42e85ce021812b3ddd630b1c67c" parent="aspace_445fbca4fabcf206e1462d31026912b2" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref54" level="file">
+        <did>
+          <unittitle>Ted Katsaros</unittitle>
+          <unitdate datechar="creation" normal="1995/1995" type="inclusive">Oct 4, 1995</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b63369009319154f35f4c2242d8cecea" label="Mixed Materials [31142062672137]" type="Box">1</container>
+          <container id="aspace_62bd20c2dc87ed1ca2266345d8629d96" parent="aspace_b63369009319154f35f4c2242d8cecea" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref6" level="file">
+        <did>
+          <unittitle>L. Kudla / J. Carter
 
-</unittitle><unitdate datechar="creation" normal="1993/1993" type="inclusive">Nov 4, 1993</unitdate><container altrender="Record carton" id="aspace_279106bc62655504358df8aaeb73e7b1" label="Audio [31142054611390]" type="Box">2</container><container id="aspace_aa9530b8cc7fad1ba7f91c3084ebc81f" parent="aspace_279106bc62655504358df8aaeb73e7b1" type="Cassette">5A-B</container><container altrender="Card Box - 6.5 - long" id="aspace_85a3d686a663866358e0e7bc3c4e718d" label="Audio [31142062758902]" type="Box">3</container><container id="aspace_2dc5380b32d2f2a38ce954a1676027b0" parent="aspace_85a3d686a663866358e0e7bc3c4e718d" type="CD">Kudla/Carter 1-2</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Dr. Steve Levin</unittitle><unitdate datechar="creation" normal="2001/2001" type="inclusive">May 10, 2001</unitdate><container altrender="Manuscript box - Legal" id="aspace_de99322e1ed2087b0e15aac2b4264b11" label="Mixed Materials [31142062672137]" type="Box">1</container><container id="aspace_a943e0abbc180f42b65aaf163bd93fc9" parent="aspace_de99322e1ed2087b0e15aac2b4264b11" type="Folder">14</container><container altrender="Card Box - 6.5 - long" id="aspace_1bf4ebfc0ddd9445cb0733f6658d0778" label="Audio [31142062758902]" type="Box">3</container><container id="aspace_bba929c3fdbba8d8315f96b93002c553" parent="aspace_1bf4ebfc0ddd9445cb0733f6658d0778" type="CD">Levin 1</container><container altrender="Record carton" id="aspace_aebe0fa86ea53d8a3041794b62c87064" label="Audio [31142054611390]" type="Box">2</container><container id="aspace_b7964cdbf08d366922aafb91bdc1486a" parent="aspace_aebe0fa86ea53d8a3041794b62c87064" type="Cassette">21</container></did><scopecontent id="aspace_d6c7d107bd75e6e2b11b5db8b3fc647e"><head>Scope and Content Note</head><p>Interview regarding Mount Sinai Clinic.</p></scopecontent></c><c id="aspace_ref29" level="file"><did><unittitle>James McNamara</unittitle><unitdate datechar="creation" normal="1997/1997" type="inclusive">Dec 17, 1997</unitdate><container altrender="Record carton" id="aspace_1ce18acd1ebac7b45bc9b3862b62b354" label="Audio [31142054611390]" type="Box">2</container><container id="aspace_07bb6072b56c826b217bfa0156e0699e" parent="aspace_1ce18acd1ebac7b45bc9b3862b62b354" type="Cassette">24A-C</container><container altrender="Manuscript box - Legal" id="aspace_c162a39b955d8bc4f901a9f0685b9de3" label="Mixed Materials [31142062672137]" type="Box">1</container><container id="aspace_edf0aa8e19c0957c84fd66879c0104ec" parent="aspace_c162a39b955d8bc4f901a9f0685b9de3" type="Folder">15</container><container altrender="Card Box - 6.5 - long" id="aspace_50e2dd6954f4048bd2138744e82bb8db" label="Audio [31142062758902]" type="Box">3</container><container id="aspace_5258ab7fafccaa6281ee9350f581483a" parent="aspace_50e2dd6954f4048bd2138744e82bb8db" type="CD">McNamara 1-3</container></did><scopecontent id="aspace_5a9e21762ac913136d9c36dd60a638b1"><head>Scope and Content Note</head><p>Interview taken by Stacy Sewell at Tamiment Library.</p></scopecontent></c><c id="aspace_ref24" level="file"><did><unittitle>Tom Moran</unittitle><unitdate datechar="creation" normal="2000/2000" type="inclusive">Apr 20, 2000</unitdate><container altrender="Record carton" id="aspace_46cdd3b363a5cdbe39f05954664da8c5" label="Audio [31142054611390]" type="Box">2</container><container id="aspace_b2097456757e255d0f0a43f19ae9ce9e" parent="aspace_46cdd3b363a5cdbe39f05954664da8c5" type="Cassette">19A-B</container><container altrender="Card Box - 6.5 - long" id="aspace_6cfa26ceeebf1834effe4d2079884625" label="Audio [31142062758910]" type="Box">4</container><container id="aspace_813970746502121d946d7a7b717b545f" parent="aspace_6cfa26ceeebf1834effe4d2079884625" type="CD">Moran 1-2</container><container altrender="Manuscript box - Legal" id="aspace_233e95c08520fbede288ec7dc758e502" label="Mixed Materials [31142062672137]" type="Box">1</container><container id="aspace_f0a92103a3ec8a166f6108a07a754d91" parent="aspace_233e95c08520fbede288ec7dc758e502" type="Folder">16</container></did><scopecontent id="aspace_a4831d75ffc8b6f3af2edb2ac0e23de7"><head>Scope and Content Note</head><p>Interview regarding Local 1-2, Utility Workers.</p></scopecontent></c><c id="aspace_ref15" level="file"><did><unittitle>Leon Olson</unittitle><unitdate datechar="creation" normal="1995/1995" type="inclusive">Apr 29, 1995</unitdate><container altrender="Record carton" id="aspace_f8859c9e2707418f2fd91fddf8735ee8" label="Audio [31142054611390]" type="Box">2</container><container id="aspace_6ac914dc5e26106b0032aea986da50b8" parent="aspace_f8859c9e2707418f2fd91fddf8735ee8" type="Cassette">11</container><container altrender="Card Box - 6.5 - long" id="aspace_bb8e08376af07b355fe6bae0fe2d0df4" label="Audio [31142062758910]" type="Box">4</container><container id="aspace_6105e8f23f5947a4bbf4f0b95aa98143" parent="aspace_bb8e08376af07b355fe6bae0fe2d0df4" type="CD">Olson 1</container><container altrender="Manuscript box - Legal" id="aspace_54562ac19185145a8fea35e21270d2e7" label="Mixed Materials [31142062672137]" type="Box">1</container><container id="aspace_c50ac345355e4b3efa51bd0ef3aa4253" parent="aspace_54562ac19185145a8fea35e21270d2e7" type="Folder">17</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Richard Ostrowski</unittitle><unitdate datechar="creation" normal="2000/2000" type="inclusive">Dec 7, 2000</unitdate><container altrender="Record carton" id="aspace_6c09ea0e67e5acdcddc2755e3ce38e7d" label="Audio [31142054611390]" type="Box">2</container><container id="aspace_d8a2f831766850e18720407e7ea17a4f" parent="aspace_6c09ea0e67e5acdcddc2755e3ce38e7d" type="Cassette">18A-B</container><container altrender="Manuscript box - Legal" id="aspace_13876af72ea2a1d7766bd1c5ca22f13d" label="Mixed Materials [31142062672137]" type="Box">1</container><container id="aspace_038715907491129ddabaa825c230361a" parent="aspace_13876af72ea2a1d7766bd1c5ca22f13d" type="Folder">18</container><container altrender="Card Box - 6.5 - long" id="aspace_e2d63a9e283abee52d21b897fb444eeb" label="Audio [31142062758910]" type="Box">4</container><container id="aspace_a47b39bf8cbdae5974252df9f366b3d2" parent="aspace_e2d63a9e283abee52d21b897fb444eeb" type="CD">Ostrowski 1-2</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Frank Schonfeld</unittitle><unitdate datechar="creation" normal="1987/1987" type="inclusive">Dec 3, 1987</unitdate><container altrender="Manuscript box - Legal" id="aspace_4da4fe6761784dc5cac9a68a82ca2c7d" label="Mixed Materials [31142062672137]" type="Box">1</container><container id="aspace_cbfbb90cb33023ba3264892ba4666be3" parent="aspace_4da4fe6761784dc5cac9a68a82ca2c7d" type="Folder">19</container><container altrender="Record carton" id="aspace_6ac7dc46a61530f389e3d72941d6f125" label="Audio [31142054611390]" type="Box">2</container><container id="aspace_7e66635b84e5cd8d3086458c123897de" parent="aspace_6ac7dc46a61530f389e3d72941d6f125" type="Cassette">8A-C</container><container altrender="Card Box - 6.5 - long" id="aspace_7d56a11f58863575d9a1e5cc011fb83f" label="Audio [31142062758910]" type="Box">4</container><container id="aspace_4b18d4274e753eaeb13180da6d9bb0fd" parent="aspace_7d56a11f58863575d9a1e5cc011fb83f" type="CD">Schonfeld 1-5</container></did><accessrestrict id="aspace_f494f01be5ee8838451756b46131891f"><head>Access Restrictions</head><p>Interview is open for research, providing that the researcher follows the stipulation below, as agreed to in Schonfeld's release form for the interview:</p><p>"The tapes are available for approved research purposes with the proviso that any allegation of possible organized crime association with regard to any individual will not be made public in the lifetime of the individual, unless the allegation has been proven in a court of law."</p></accessrestrict></c><c id="aspace_ref11" level="file"><did><unittitle>Frank Schonfeld
-</unittitle><unitdate datechar="creation" normal="1988/1988" type="inclusive">Jan 7, 1988</unitdate><container altrender="Record carton" id="aspace_8ac0d3d7bf3fa4f544d4e109ae7564ec" label="Audio [31142054611390]" type="Box">2</container><container id="aspace_9a3569eb89f9f20e5588b470aa79548a" parent="aspace_8ac0d3d7bf3fa4f544d4e109ae7564ec" type="Cassette">9A-C</container><container altrender="Card Box - 6.5 - long" id="aspace_1336ec990a8d7c29c4042b6e037ce72d" label="Audio [31142062758910]" type="Box">4</container><container id="aspace_16ea84b726e800f858ace272548928a1" parent="aspace_1336ec990a8d7c29c4042b6e037ce72d" type="CD">Schonfeld 6-9</container><container altrender="Manuscript box - Legal" id="aspace_b096d37429d873e1bbf1d6910947ae85" label="Mixed Materials [31142062672137]" type="Box">1</container><container id="aspace_1254821cccc3858bb8ed49c3a9552356" parent="aspace_b096d37429d873e1bbf1d6910947ae85" type="Folder">19</container></did><accessrestrict id="aspace_f32317940b22a846ed362dbac9273f6f"><head>Access Restrictions</head><p>Interview is open for research, providing that the researcher follows the stipulation below, as agreed to in Schonfeld's release form for the interview:</p><p>"The tapes are available for approved research purposes with the proviso that any allegation of possible organized crime association with regard to any individual will not be made public in the lifetime of the individual, unless the allegation has been proven in a court of law."</p></accessrestrict></c><c id="aspace_ref12" level="file"><did><unittitle>Frank Schonfeld</unittitle><unitdate datechar="creation" normal="1988/1988" type="inclusive">Apr 4, 1988</unitdate><container altrender="Record carton" id="aspace_f99e895c4a60778eb0568231b0d183c2" label="Audio [31142054611390]" type="Box">2</container><container id="aspace_502d5babf120aa4546a09d5cab1393a4" parent="aspace_f99e895c4a60778eb0568231b0d183c2" type="Cassette">10A-B</container><container altrender="Manuscript box - Legal" id="aspace_6bcab81d3f24d79c8bd0d56e277f4750" label="Mixed Materials [31142062672137]" type="Box">1</container><container id="aspace_d27e73eccbbed2bd19e99f29c2bf158e" parent="aspace_6bcab81d3f24d79c8bd0d56e277f4750" type="Folder">19</container><container altrender="Card Box - 6.5 - long" id="aspace_2745dd4922844056e5551cabae951ecc" label="Audio [31142062758910]" type="Box">4</container><container id="aspace_b8909aa3d4de1f629109e73af94ad1e3" parent="aspace_2745dd4922844056e5551cabae951ecc" type="CD">Schonfeld 10-11</container></did><accessrestrict id="aspace_b4de26d1ad0e32060a3337eee821f8bb"><head>Access Restrictions</head><p>Interview is open for research, providing that the researcher follows the stipulation below, as agreed to in Schonfeld's release form for the interview:</p><p>"The tapes are available for approved research purposes with the proviso that any allegation of possible organized crime association with regard to any individual will not be made public in the lifetime of the individual, unless the allegation has been proven in a court of law."</p></accessrestrict></c><c id="aspace_ref7" level="file"><did><unittitle>Frank Schonfeld
-</unittitle><unitdate datechar="creation" normal="1994/1994" type="inclusive">Jan 21, 1994 and Oct 3, 1994</unitdate><container altrender="Card Box - 6.5 - long" id="aspace_c9443e565a959fa73d6e41e5694b629d" label="Audio [31142062758910]" type="Box">4</container><container id="aspace_15721b4255ae86859ca6eda0176a571c" parent="aspace_c9443e565a959fa73d6e41e5694b629d" type="CD">Schonfeld 12-14</container><container altrender="Record carton" id="aspace_46c7267ed7346bafde6dc983b6b8245d" label="Audio [31142054611390]" type="Box">2</container><container id="aspace_68b13503a58eb223200ea225d8620ff0" parent="aspace_46c7267ed7346bafde6dc983b6b8245d" type="Cassette">6A-B</container><container altrender="Manuscript box - Legal" id="aspace_bcf36f3e96653376b67de254fdf15f60" label="Mixed Materials [31142062672137]" type="Box">1</container><container id="aspace_8668c1de1acdb39e1c3d48682129a946" parent="aspace_bcf36f3e96653376b67de254fdf15f60" type="Folder">19</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Arthur Schwartz, Esq.</unittitle><unitdate datechar="creation" normal="2000/2000" type="inclusive">Sep 1, 2000</unitdate><container altrender="Card Box - 6.5 - long" id="aspace_41bf44fb9f1dda0e75f5c44f04b50d73" label="Audio [31142062758910]" type="Box">4</container><container id="aspace_7389d49a028e8bcc35c7623e2f17af1b" parent="aspace_41bf44fb9f1dda0e75f5c44f04b50d73" type="CD">Schwartz 1</container><container altrender="Record carton" id="aspace_ca5546966b578d50ef6247febfb55d0e" label="Audio [31142054611390]" type="Box">2</container><container id="aspace_651640af5cf32b050b810ecf4319e8eb" parent="aspace_ca5546966b578d50ef6247febfb55d0e" type="Cassette">22</container><container altrender="Manuscript box - Legal" id="aspace_14f03c599f384e77d83b5a3d33cdb31e" label="Mixed Materials [31142062672137]" type="Box">1</container><container id="aspace_90e3b35521311f27f8aa2462c9bf09f6" parent="aspace_14f03c599f384e77d83b5a3d33cdb31e" type="Folder">20</container></did><scopecontent id="aspace_c5932a649d2660e0c980e28b96fcd077"><head>Scope and Content Note</head><p>Interview regarding Local 1-2 Utility Workers.</p></scopecontent></c><c id="aspace_ref28" level="file"><did><unittitle>Nancy Stearns Esq.</unittitle><unitdate datechar="creation" normal="2000/2000" type="inclusive">Dec 8, 2000</unitdate><container altrender="Card Box - 6.5 - long" id="aspace_a661f3b116230b072993d4a4458adc7d" label="Audio [31142062758910]" type="Box">4</container><container id="aspace_53ff5a8c9c13346d76cea86b002522a8" parent="aspace_a661f3b116230b072993d4a4458adc7d" type="CD">Stearns 1-2</container><container altrender="Manuscript box - Legal" id="aspace_2a7071eea47ec45336a3ecbc7c2227c7" label="Mixed Materials [31142062672137]" type="Box">1</container><container id="aspace_9d54f7fbd6063148c15794671321b3a8" parent="aspace_2a7071eea47ec45336a3ecbc7c2227c7" type="Folder">21</container><container altrender="Record carton" id="aspace_d37c162e3e20d3878b36014a38c46894" label="Audio [31142054611390]" type="Box">2</container><container id="aspace_1d9b7c657fee839ebc114d596cd75d9a" parent="aspace_d37c162e3e20d3878b36014a38c46894" type="Cassette">23A-B</container></did><scopecontent id="aspace_3e172456f33d80137eb517b96c4fe801"><head>Scope and Content Note</head><p>Interview regarding Local 1-2 Utility Workers Union.</p></scopecontent></c><c id="aspace_ref4" level="file"><did><unittitle>Mario Vozzo</unittitle><unitdate datechar="creation" normal="1993/1993" type="inclusive">Jul 28, 1993</unitdate><container altrender="Card Box - 6.5 - long" id="aspace_4c7e2de07cde1446d57d1e51ddd1ecd8" label="Audio [31142062758910]" type="Box">4</container><container id="aspace_3c2c14482d7a048cd532817e706d336b" parent="aspace_4c7e2de07cde1446d57d1e51ddd1ecd8" type="CD">Vazzo 1</container><container altrender="Record carton" id="aspace_6b3cb9cf82fbb4d3738aa1f5914b1301" label="Audio [31142054611390]" type="Box">2</container><container id="aspace_fddb821b48f40b282604c1b3205248d6" parent="aspace_6b3cb9cf82fbb4d3738aa1f5914b1301" type="Cassette">3</container></did></c></dsc>
-</archdesc>
+</unittitle>
+          <unitdate datechar="creation" normal="1993/1993" type="inclusive">Nov 4, 1993</unitdate>
+          <container altrender="Record carton" id="aspace_279106bc62655504358df8aaeb73e7b1" label="Audio [31142054611390]" type="Box">2</container>
+          <container id="aspace_aa9530b8cc7fad1ba7f91c3084ebc81f" parent="aspace_279106bc62655504358df8aaeb73e7b1" type="Cassette">5A-B</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_85a3d686a663866358e0e7bc3c4e718d" label="Audio [31142062758902]" type="Box">3</container>
+          <container id="aspace_2dc5380b32d2f2a38ce954a1676027b0" parent="aspace_85a3d686a663866358e0e7bc3c4e718d" type="CD">Kudla/Carter 1-2</container>
+        </did>
+      </c>
+      <c id="aspace_ref26" level="file">
+        <did>
+          <unittitle>Dr. Steve Levin</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">May 10, 2001</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_de99322e1ed2087b0e15aac2b4264b11" label="Mixed Materials [31142062672137]" type="Box">1</container>
+          <container id="aspace_a943e0abbc180f42b65aaf163bd93fc9" parent="aspace_de99322e1ed2087b0e15aac2b4264b11" type="Folder">14</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_1bf4ebfc0ddd9445cb0733f6658d0778" label="Audio [31142062758902]" type="Box">3</container>
+          <container id="aspace_bba929c3fdbba8d8315f96b93002c553" parent="aspace_1bf4ebfc0ddd9445cb0733f6658d0778" type="CD">Levin 1</container>
+          <container altrender="Record carton" id="aspace_aebe0fa86ea53d8a3041794b62c87064" label="Audio [31142054611390]" type="Box">2</container>
+          <container id="aspace_b7964cdbf08d366922aafb91bdc1486a" parent="aspace_aebe0fa86ea53d8a3041794b62c87064" type="Cassette">21</container>
+        </did>
+        <scopecontent id="aspace_d6c7d107bd75e6e2b11b5db8b3fc647e">
+          <head>Scope and Content Note</head>
+          <p>Interview regarding Mount Sinai Clinic.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_ref29" level="file">
+        <did>
+          <unittitle>James McNamara</unittitle>
+          <unitdate datechar="creation" normal="1997/1997" type="inclusive">Dec 17, 1997</unitdate>
+          <container altrender="Record carton" id="aspace_1ce18acd1ebac7b45bc9b3862b62b354" label="Audio [31142054611390]" type="Box">2</container>
+          <container id="aspace_07bb6072b56c826b217bfa0156e0699e" parent="aspace_1ce18acd1ebac7b45bc9b3862b62b354" type="Cassette">24A-C</container>
+          <container altrender="Manuscript box - Legal" id="aspace_c162a39b955d8bc4f901a9f0685b9de3" label="Mixed Materials [31142062672137]" type="Box">1</container>
+          <container id="aspace_edf0aa8e19c0957c84fd66879c0104ec" parent="aspace_c162a39b955d8bc4f901a9f0685b9de3" type="Folder">15</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_50e2dd6954f4048bd2138744e82bb8db" label="Audio [31142062758902]" type="Box">3</container>
+          <container id="aspace_5258ab7fafccaa6281ee9350f581483a" parent="aspace_50e2dd6954f4048bd2138744e82bb8db" type="CD">McNamara 1-3</container>
+        </did>
+        <scopecontent id="aspace_5a9e21762ac913136d9c36dd60a638b1">
+          <head>Scope and Content Note</head>
+          <p>Interview taken by Stacy Sewell at Tamiment Library.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_ref24" level="file">
+        <did>
+          <unittitle>Tom Moran</unittitle>
+          <unitdate datechar="creation" normal="2000/2000" type="inclusive">Apr 20, 2000</unitdate>
+          <container altrender="Record carton" id="aspace_46cdd3b363a5cdbe39f05954664da8c5" label="Audio [31142054611390]" type="Box">2</container>
+          <container id="aspace_b2097456757e255d0f0a43f19ae9ce9e" parent="aspace_46cdd3b363a5cdbe39f05954664da8c5" type="Cassette">19A-B</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_6cfa26ceeebf1834effe4d2079884625" label="Audio [31142062758910]" type="Box">4</container>
+          <container id="aspace_813970746502121d946d7a7b717b545f" parent="aspace_6cfa26ceeebf1834effe4d2079884625" type="CD">Moran 1-2</container>
+          <container altrender="Manuscript box - Legal" id="aspace_233e95c08520fbede288ec7dc758e502" label="Mixed Materials [31142062672137]" type="Box">1</container>
+          <container id="aspace_f0a92103a3ec8a166f6108a07a754d91" parent="aspace_233e95c08520fbede288ec7dc758e502" type="Folder">16</container>
+        </did>
+        <scopecontent id="aspace_a4831d75ffc8b6f3af2edb2ac0e23de7">
+          <head>Scope and Content Note</head>
+          <p>Interview regarding Local 1-2, Utility Workers.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_ref15" level="file">
+        <did>
+          <unittitle>Leon Olson</unittitle>
+          <unitdate datechar="creation" normal="1995/1995" type="inclusive">Apr 29, 1995</unitdate>
+          <container altrender="Record carton" id="aspace_f8859c9e2707418f2fd91fddf8735ee8" label="Audio [31142054611390]" type="Box">2</container>
+          <container id="aspace_6ac914dc5e26106b0032aea986da50b8" parent="aspace_f8859c9e2707418f2fd91fddf8735ee8" type="Cassette">11</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_bb8e08376af07b355fe6bae0fe2d0df4" label="Audio [31142062758910]" type="Box">4</container>
+          <container id="aspace_6105e8f23f5947a4bbf4f0b95aa98143" parent="aspace_bb8e08376af07b355fe6bae0fe2d0df4" type="CD">Olson 1</container>
+          <container altrender="Manuscript box - Legal" id="aspace_54562ac19185145a8fea35e21270d2e7" label="Mixed Materials [31142062672137]" type="Box">1</container>
+          <container id="aspace_c50ac345355e4b3efa51bd0ef3aa4253" parent="aspace_54562ac19185145a8fea35e21270d2e7" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref23" level="file">
+        <did>
+          <unittitle>Richard Ostrowski</unittitle>
+          <unitdate datechar="creation" normal="2000/2000" type="inclusive">Dec 7, 2000</unitdate>
+          <container altrender="Record carton" id="aspace_6c09ea0e67e5acdcddc2755e3ce38e7d" label="Audio [31142054611390]" type="Box">2</container>
+          <container id="aspace_d8a2f831766850e18720407e7ea17a4f" parent="aspace_6c09ea0e67e5acdcddc2755e3ce38e7d" type="Cassette">18A-B</container>
+          <container altrender="Manuscript box - Legal" id="aspace_13876af72ea2a1d7766bd1c5ca22f13d" label="Mixed Materials [31142062672137]" type="Box">1</container>
+          <container id="aspace_038715907491129ddabaa825c230361a" parent="aspace_13876af72ea2a1d7766bd1c5ca22f13d" type="Folder">18</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_e2d63a9e283abee52d21b897fb444eeb" label="Audio [31142062758910]" type="Box">4</container>
+          <container id="aspace_a47b39bf8cbdae5974252df9f366b3d2" parent="aspace_e2d63a9e283abee52d21b897fb444eeb" type="CD">Ostrowski 1-2</container>
+        </did>
+      </c>
+      <c id="aspace_ref10" level="file">
+        <did>
+          <unittitle>Frank Schonfeld</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">Dec 3, 1987</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4da4fe6761784dc5cac9a68a82ca2c7d" label="Mixed Materials [31142062672137]" type="Box">1</container>
+          <container id="aspace_cbfbb90cb33023ba3264892ba4666be3" parent="aspace_4da4fe6761784dc5cac9a68a82ca2c7d" type="Folder">19</container>
+          <container altrender="Record carton" id="aspace_6ac7dc46a61530f389e3d72941d6f125" label="Audio [31142054611390]" type="Box">2</container>
+          <container id="aspace_7e66635b84e5cd8d3086458c123897de" parent="aspace_6ac7dc46a61530f389e3d72941d6f125" type="Cassette">8A-C</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_7d56a11f58863575d9a1e5cc011fb83f" label="Audio [31142062758910]" type="Box">4</container>
+          <container id="aspace_4b18d4274e753eaeb13180da6d9bb0fd" parent="aspace_7d56a11f58863575d9a1e5cc011fb83f" type="CD">Schonfeld 1-5</container>
+        </did>
+        <accessrestrict id="aspace_f494f01be5ee8838451756b46131891f">
+          <head>Access Restrictions</head>
+          <p>Interview is open for research, providing that the researcher follows the stipulation below, as agreed to in Schonfeld's release form for the interview:</p>
+          <p>"The tapes are available for approved research purposes with the proviso that any allegation of possible organized crime association with regard to any individual will not be made public in the lifetime of the individual, unless the allegation has been proven in a court of law."</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref11" level="file">
+        <did>
+          <unittitle>Frank Schonfeld
+</unittitle>
+          <unitdate datechar="creation" normal="1988/1988" type="inclusive">Jan 7, 1988</unitdate>
+          <container altrender="Record carton" id="aspace_8ac0d3d7bf3fa4f544d4e109ae7564ec" label="Audio [31142054611390]" type="Box">2</container>
+          <container id="aspace_9a3569eb89f9f20e5588b470aa79548a" parent="aspace_8ac0d3d7bf3fa4f544d4e109ae7564ec" type="Cassette">9A-C</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_1336ec990a8d7c29c4042b6e037ce72d" label="Audio [31142062758910]" type="Box">4</container>
+          <container id="aspace_16ea84b726e800f858ace272548928a1" parent="aspace_1336ec990a8d7c29c4042b6e037ce72d" type="CD">Schonfeld 6-9</container>
+          <container altrender="Manuscript box - Legal" id="aspace_b096d37429d873e1bbf1d6910947ae85" label="Mixed Materials [31142062672137]" type="Box">1</container>
+          <container id="aspace_1254821cccc3858bb8ed49c3a9552356" parent="aspace_b096d37429d873e1bbf1d6910947ae85" type="Folder">19</container>
+        </did>
+        <accessrestrict id="aspace_f32317940b22a846ed362dbac9273f6f">
+          <head>Access Restrictions</head>
+          <p>Interview is open for research, providing that the researcher follows the stipulation below, as agreed to in Schonfeld's release form for the interview:</p>
+          <p>"The tapes are available for approved research purposes with the proviso that any allegation of possible organized crime association with regard to any individual will not be made public in the lifetime of the individual, unless the allegation has been proven in a court of law."</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref12" level="file">
+        <did>
+          <unittitle>Frank Schonfeld</unittitle>
+          <unitdate datechar="creation" normal="1988/1988" type="inclusive">Apr 4, 1988</unitdate>
+          <container altrender="Record carton" id="aspace_f99e895c4a60778eb0568231b0d183c2" label="Audio [31142054611390]" type="Box">2</container>
+          <container id="aspace_502d5babf120aa4546a09d5cab1393a4" parent="aspace_f99e895c4a60778eb0568231b0d183c2" type="Cassette">10A-B</container>
+          <container altrender="Manuscript box - Legal" id="aspace_6bcab81d3f24d79c8bd0d56e277f4750" label="Mixed Materials [31142062672137]" type="Box">1</container>
+          <container id="aspace_d27e73eccbbed2bd19e99f29c2bf158e" parent="aspace_6bcab81d3f24d79c8bd0d56e277f4750" type="Folder">19</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_2745dd4922844056e5551cabae951ecc" label="Audio [31142062758910]" type="Box">4</container>
+          <container id="aspace_b8909aa3d4de1f629109e73af94ad1e3" parent="aspace_2745dd4922844056e5551cabae951ecc" type="CD">Schonfeld 10-11</container>
+        </did>
+        <accessrestrict id="aspace_b4de26d1ad0e32060a3337eee821f8bb">
+          <head>Access Restrictions</head>
+          <p>Interview is open for research, providing that the researcher follows the stipulation below, as agreed to in Schonfeld's release form for the interview:</p>
+          <p>"The tapes are available for approved research purposes with the proviso that any allegation of possible organized crime association with regard to any individual will not be made public in the lifetime of the individual, unless the allegation has been proven in a court of law."</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref7" level="file">
+        <did>
+          <unittitle>Frank Schonfeld
+</unittitle>
+          <unitdate datechar="creation" normal="1994/1994" type="inclusive">Jan 21, 1994 and Oct 3, 1994</unitdate>
+          <container altrender="Card Box - 6.5 - long" id="aspace_c9443e565a959fa73d6e41e5694b629d" label="Audio [31142062758910]" type="Box">4</container>
+          <container id="aspace_15721b4255ae86859ca6eda0176a571c" parent="aspace_c9443e565a959fa73d6e41e5694b629d" type="CD">Schonfeld 12-14</container>
+          <container altrender="Record carton" id="aspace_46c7267ed7346bafde6dc983b6b8245d" label="Audio [31142054611390]" type="Box">2</container>
+          <container id="aspace_68b13503a58eb223200ea225d8620ff0" parent="aspace_46c7267ed7346bafde6dc983b6b8245d" type="Cassette">6A-B</container>
+          <container altrender="Manuscript box - Legal" id="aspace_bcf36f3e96653376b67de254fdf15f60" label="Mixed Materials [31142062672137]" type="Box">1</container>
+          <container id="aspace_8668c1de1acdb39e1c3d48682129a946" parent="aspace_bcf36f3e96653376b67de254fdf15f60" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_ref27" level="file">
+        <did>
+          <unittitle>Arthur Schwartz, Esq.</unittitle>
+          <unitdate datechar="creation" normal="2000/2000" type="inclusive">Sep 1, 2000</unitdate>
+          <container altrender="Card Box - 6.5 - long" id="aspace_41bf44fb9f1dda0e75f5c44f04b50d73" label="Audio [31142062758910]" type="Box">4</container>
+          <container id="aspace_7389d49a028e8bcc35c7623e2f17af1b" parent="aspace_41bf44fb9f1dda0e75f5c44f04b50d73" type="CD">Schwartz 1</container>
+          <container altrender="Record carton" id="aspace_ca5546966b578d50ef6247febfb55d0e" label="Audio [31142054611390]" type="Box">2</container>
+          <container id="aspace_651640af5cf32b050b810ecf4319e8eb" parent="aspace_ca5546966b578d50ef6247febfb55d0e" type="Cassette">22</container>
+          <container altrender="Manuscript box - Legal" id="aspace_14f03c599f384e77d83b5a3d33cdb31e" label="Mixed Materials [31142062672137]" type="Box">1</container>
+          <container id="aspace_90e3b35521311f27f8aa2462c9bf09f6" parent="aspace_14f03c599f384e77d83b5a3d33cdb31e" type="Folder">20</container>
+        </did>
+        <scopecontent id="aspace_c5932a649d2660e0c980e28b96fcd077">
+          <head>Scope and Content Note</head>
+          <p>Interview regarding Local 1-2 Utility Workers.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_ref28" level="file">
+        <did>
+          <unittitle>Nancy Stearns Esq.</unittitle>
+          <unitdate datechar="creation" normal="2000/2000" type="inclusive">Dec 8, 2000</unitdate>
+          <container altrender="Card Box - 6.5 - long" id="aspace_a661f3b116230b072993d4a4458adc7d" label="Audio [31142062758910]" type="Box">4</container>
+          <container id="aspace_53ff5a8c9c13346d76cea86b002522a8" parent="aspace_a661f3b116230b072993d4a4458adc7d" type="CD">Stearns 1-2</container>
+          <container altrender="Manuscript box - Legal" id="aspace_2a7071eea47ec45336a3ecbc7c2227c7" label="Mixed Materials [31142062672137]" type="Box">1</container>
+          <container id="aspace_9d54f7fbd6063148c15794671321b3a8" parent="aspace_2a7071eea47ec45336a3ecbc7c2227c7" type="Folder">21</container>
+          <container altrender="Record carton" id="aspace_d37c162e3e20d3878b36014a38c46894" label="Audio [31142054611390]" type="Box">2</container>
+          <container id="aspace_1d9b7c657fee839ebc114d596cd75d9a" parent="aspace_d37c162e3e20d3878b36014a38c46894" type="Cassette">23A-B</container>
+        </did>
+        <scopecontent id="aspace_3e172456f33d80137eb517b96c4fe801">
+          <head>Scope and Content Note</head>
+          <p>Interview regarding Local 1-2 Utility Workers Union.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_ref4" level="file">
+        <did>
+          <unittitle>Mario Vozzo</unittitle>
+          <unitdate datechar="creation" normal="1993/1993" type="inclusive">Jul 28, 1993</unitdate>
+          <container altrender="Card Box - 6.5 - long" id="aspace_4c7e2de07cde1446d57d1e51ddd1ecd8" label="Audio [31142062758910]" type="Box">4</container>
+          <container id="aspace_3c2c14482d7a048cd532817e706d336b" parent="aspace_4c7e2de07cde1446d57d1e51ddd1ecd8" type="CD">Vazzo 1</container>
+          <container altrender="Record carton" id="aspace_6b3cb9cf82fbb4d3738aa1f5914b1301" label="Audio [31142054611390]" type="Box">2</container>
+          <container id="aspace_fddb821b48f40b282604c1b3205248d6" parent="aspace_6b3cb9cf82fbb4d3738aa1f5914b1301" type="Cassette">3</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

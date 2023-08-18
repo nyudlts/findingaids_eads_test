@@ -1,78 +1,698 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/wag_008">wag_008</eadid><filedesc><titlestmt><titleproper>Guide to the Josephine Colby Papers <num>WAG.008</num></titleproper><author>Lynda J. DeLoach, May 1983 and Daniel Michelson, 2010</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 06:56:49 -0400</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Josephine Colby Papers</unittitle>
-    <origination label="Creator">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/wag_008">wag_008</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Josephine Colby Papers <num>WAG.008</num></titleproper>
+        <author>Lynda J. DeLoach, May 1983 and Daniel Michelson, 2010</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 06:56:49 -0400</date>.</creation>
+      <langusage>Description is in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Josephine Colby Papers</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Colby, Josephine</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" source="local">Mellin, Willard Colby</persname>
+      </origination>
+      <origination label="source">
+        <persname source="naf">Bloom, Jonathan</persname>
+      </origination>
+      <unitid>WAG.008</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+        <extent altrender="carrier">(2 boxes)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1912/1933" type="inclusive">1912-1933</unitdate>
+      <unitdate datechar="creation" normal="1922/1933" type="bulk">1922-1933</unitdate>
+      <abstract id="aspace_93b8a0a3323e8e419cc68c68d1bad7d9">The Josephine Colby Papers reflect Colby's professional involvement in the progressive labor education movement at Brookwood Labor College, from 1922 to 1933. The papers include personal correspondence, literary productions, and printed material.</abstract>
+      <langmaterial id="aspace_6adbf1265698ed7b1affbeb871d8e2ee">Materials are in English</langmaterial>
+    </did>
+    <acqinfo id="aspace_ab806ea478142d7b91b85179c6ef62c8">
+      <head>Immediate Source of Acquisition</head>
+      <p>Reverend Willard Colby Mellin, Josephine Colby's great nephew, donated the papers to the Tamiment Library in 1979. The papers, then located at Colby's Nantucket cottage were bagged, boxed and given to Jonathan Bloom (a Tamiment representative) who delivered the papers to Tamiment in 1982. The accession number associated with this gift is 1983.008.</p>
+    </acqinfo>
+    <accessrestrict id="aspace_89e75c6e2406a71416086afd1b81fabc">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <separatedmaterial id="aspace_458a53612f9285390bf02e1256788765">
+      <head>Separated Materials</head>
+      <p>Approximately .5 linear feet of labor related materials were separated from this collection, including newspapers, magazines, pamphlets, songbooks, leaflets, flyers, handbills, and other paraphernalia. Likewise separated was an autographed text to Colby: Ballads of the BEF (Bonus Expeditionary Force, popularly known as the "Bonus Army"). These materials were integrated into the pamphlet collection and vertical files of the Tamiment Library.</p>
+      <p>Photographs were separated into the General Photographs Collection (PHOTOS 001)</p>
+    </separatedmaterial>
+    <scopecontent id="aspace_2f30be2c37585c9060517d35417ecf2d">
+      <head>Scope and Content Note</head>
+      <p>Overall, the Colby papers reflect the efforts of educators and unionists to develop and promote workers' education. The college prospectus, labor pamphlets, manuscripts, and course materials in Series III reveal the methodology and quality of classroom instruction. The Extension Department documents reflect Brookwood's aim to make progressive labor education available to workers everywhere.</p>
+      <p>The bulletins, literary scrapbooks, correspondence, syllabi, and labor songs and plays in Series II, III, and IV afford a picture of Brookwood as an educational and social experience for faculty and students. The role of Local 189 and other locals toward a concerted, national effort to organize and educate workers is reflected in the AFT reports and articles in Series I and II.</p>
+      <p>Series II and III include documents that reflect the reactions of Brookwood faculty and students to the AFL's condemnation of Brookwood, and on internal controversies in the early 1930s. Other material relates to the financial crisis at Brookwood in the wake of the AFL opposition.</p>
+      <p>One of Brookwood's tenets was to train students to become unionists. See the letters in Series II to Colby from former Brookwood students, notably, Columbus Ball, Mike Demchak, Fred Gendral, and Peter Strasse. The letters provide evaluations of the students' Brookwood experiences, and relate their personal struggles and achievements in the labor movement. The student autobiographical sketches in Series III reveal family origin and relate how and why the students came to Brookwood. Unfortunately, the correspondence in Series II yields only about a dozen letters from family and friends with any direct bearing on Colby's personal life. The fact that the donor of the collection separated and discarded personal correspondence and other documents prior to his donation may partially account for this omission.</p>
+    </scopecontent>
+    <arrangement id="aspace_96a6ff418572118c4c6fd73c8d8334eb">
+      <head>Arrangement</head>
+      <p>The papers have been arranged into five series.</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>Series I: American Federation of Teachers, 1921-1929</item>
+        <item>Series II: Correspondence, 1912-1933</item>
+        <item>Series III: Brookwood Labor College, 1922-1933</item>
+        <item>Series IV: Affiliated Schools for Workers, and Other Workers' Education Groups, 1924-1932.</item>
+        <item>Series V: General, 1927-1932</item>
+      </list>
+      <p>Series I and II are arranged chronologically.  Series III is arranged by hierarchy: administration, departments, then classes.  Series IV is arranged by alphabetically.</p>
+    </arrangement>
+    <bioghist id="aspace_5cf7f37215b760014fc0748b0be58bbb">
+      <head>Historical/Biographical Note</head>
+      <p>The Colbys, a New England family, settled at Colby's Landing, California, where Josephine Colby was born on April 14, 1878. Colby was tutored at home, then attended high school in Berkeley. She earned a bachelor's degree in 1899 from the University of California, and studied in Chicago at the American Conservatory of Music. Colby was married briefly to Louis Kramer, from 1921-24. She resided at Brookwood Labor College in Katonah, New York, and owned a cottage in Nantucket, Massachusetts which she sometimes leased in the summer.</p>
+      <p>Colby was dubbed "Polly" by her colleagues and students, ostensibly because there was already a Josephine (Bennett) at Brookwood. Previously a high school teacher in Oakland and Fresno California (1915-19), and an instructor at Chicago Labor College (1921), Colby was an instructor of basic English grammar, structure, and composition. These skills were particularly vital to Brookwood students, many of whom were of foreign origin and limited educational backgrounds. In her twelve year tenure (1922-34) at Brookwood, Colby served as one of the faculty directors on the Brookwood Board of Directors, taught daily classes, advised individual students, and worked on a manuscript titled "Grammar for Workers," which was never completed. Colby also directed the Brookwood Players and the school chorus.</p>
+      <p>Brookwood Labor College was the successor of a short-lived Brookwood School, begun by William Mann Fincke in the autumn of 1919. Brookwood opened its doors to students in October 1921. The college featured a two-year course in the social sciences which, according to the college prospectus, was intended to "educate workers to work in the workers' movement." </p>
+      <p>In 1925 Brookwood became incorporated. Within a few years after its establishment Brookwood was officially endorsed, and in most cases financially supported, by thirteen national and international unions. The college was also one of forty affiliates of the Workers' Education Bureau (WEB). Through its classroom training, institute and conference programs, and its influence in the Labor Publication Society (which issued the monthly magazine <emph render="italic">Labor Age</emph>) Brookwood became a source of opposition to American Federation of Labor (AFL) leadership and policies. The AFL leadership in turn became increasingly suspicious of Brookwood. In 1928 the AFL censured Brookwood and demanded that all affiliates withdraw support from the college. The following year, Brookwood spearheaded the formation of the Conference for Progressive Labor Action. (CPLA)</p>
+      <p>Three factors were crucial to Brookwood's decline in the 1930s: fewer unions lent financial support, depression conditions prevailed, and the departure of A.J. Muste (faculty chairman) in 1933 left the college without strong leadership. Although Brookwood finally closed its doors in 1937, many Brookwood staff and graduates played roles in the emerging Congress of Industrial Organizations (CIO) during the 1930s and 1940s.</p>
+      <p>In addition to her Brookwood classes, Colby taught evening classes for the New York Central Trades and Labor Council College and the International Ladies Garment Workers Union and taught at the Barnard and Bryn Mawr Summer Schools for Women Workers in Industry.</p>
+      <p>Colby was actively involved in the development of the American Federation of Teachers (AFT) during the early 1920s as First Secretary of the California State Federation of Teachers; Vice President and Field Secretary, AFT; and Director of Publicity, Chicago office. She was instrumental in organizing Workers' Education Local 189 (composed of the Brookwood faculty), and served as its president and later secretary.</p>
+      <p>After relinquishing her Brookwood post in 1934, Colby went to Moscow and taught English to technicians at the Institute of Languages. No precise death date has been confirmed; however, one of Colby's correspondents believes that she died in 1938.</p>
+      <p>
+        <emph render="bold">Sources</emph>
+      </p>
+      <p>Jonathan Bloom. "Brookwood Labor College, 1921-33: Training Ground for Union Organizers", MA Thesis, Rutgers University, 1978. Copy at Tamiment Library/Robert F. Wagner Labor Archives, NYU.</p>
+      <p>James O. Morris. <emph render="italic">Conflict within the AFL</emph>, Chapter IV and V. Ithaca, NY: Cornell University, 1958.</p>
+    </bioghist>
+    <userestrict id="aspace_aa6e7db52fc5665463b06d4d45952f4c">
+      <head>Conditions Governing Use</head>
+      <p>Materials in this collection created by Josephine Colby are in the public domain. Users need not secure permission from the Tamiment Library to publish or reproduce materials in this collection. Copyright of other materials in the collection is assumed to be held by the original creator of individual items; these items are expected to pass into the public domain 120 years after their creation. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>
+    </userestrict>
+    <prefercite id="aspace_f65611fad61ed76b5fca5fcb18f72796">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Josephine Colby Papers; WAG 008; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <controlaccess>
+      <subject source="lcsh">Labor movement -- United States.</subject>
+      <subject source="lcsh">Working class women |x Education |z United States |x History |y 20th century. </subject>
+      <subject source="lcsh">Working class |x Education |z United States.</subject>
+      <corpname source="local">Barnard Summer School for Women Workers in Industry</corpname>
       <persname rules="dacs" source="local">Colby, Josephine</persname>
-    </origination>
-    <origination label="source">
+      <corpname authfilenumber="(lccn)n2003113465" source="naf">Bryn Mawr Summer School for Women Workers in Industry</corpname>
       <persname role="dnr" source="local">Mellin, Willard Colby</persname>
-    </origination>
-    <origination label="source">
-      <persname source="naf">Bloom, Jonathan</persname>
-    </origination>
-    <unitid>WAG.008</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
-      <extent altrender="carrier">(2 boxes)</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1912/1933" type="inclusive">1912-1933</unitdate>
-    <unitdate datechar="creation" normal="1922/1933" type="bulk">1922-1933</unitdate>
-    <abstract id="aspace_93b8a0a3323e8e419cc68c68d1bad7d9">The Josephine Colby Papers reflect Colby's professional involvement in the progressive labor education movement at Brookwood Labor College, from 1922 to 1933. The papers include personal correspondence, literary productions, and printed material.</abstract>
-    <langmaterial id="aspace_6adbf1265698ed7b1affbeb871d8e2ee">Materials are in English</langmaterial>
-  </did>
-  <acqinfo id="aspace_ab806ea478142d7b91b85179c6ef62c8">
-    <head>Immediate Source of Acquisition</head>
-<p>Reverend Willard Colby Mellin, Josephine Colby's great nephew, donated the papers to the Tamiment Library in 1979. The papers, then located at Colby's Nantucket cottage were bagged, boxed and given to Jonathan Bloom (a Tamiment representative) who delivered the papers to Tamiment in 1982. The accession number associated with this gift is 1983.008.</p>  </acqinfo>
-  <accessrestrict id="aspace_89e75c6e2406a71416086afd1b81fabc">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <separatedmaterial id="aspace_458a53612f9285390bf02e1256788765">
-    <head>Separated Materials</head>
-<p>Approximately .5 linear feet of labor related materials were separated from this collection, including newspapers, magazines, pamphlets, songbooks, leaflets, flyers, handbills, and other paraphernalia. Likewise separated was an autographed text to Colby: Ballads of the BEF (Bonus Expeditionary Force, popularly known as the "Bonus Army"). These materials were integrated into the pamphlet collection and vertical files of the Tamiment Library.</p><p>Photographs were separated into the General Photographs Collection (PHOTOS 001)</p>  </separatedmaterial>
-  <scopecontent id="aspace_2f30be2c37585c9060517d35417ecf2d">
-    <head>Scope and Content Note</head>
-<p>Overall, the Colby papers reflect the efforts of educators and unionists to develop and promote workers' education. The college prospectus, labor pamphlets, manuscripts, and course materials in Series III reveal the methodology and quality of classroom instruction. The Extension Department documents reflect Brookwood's aim to make progressive labor education available to workers everywhere.</p><p>The bulletins, literary scrapbooks, correspondence, syllabi, and labor songs and plays in Series II, III, and IV afford a picture of Brookwood as an educational and social experience for faculty and students. The role of Local 189 and other locals toward a concerted, national effort to organize and educate workers is reflected in the AFT reports and articles in Series I and II.</p><p>Series II and III include documents that reflect the reactions of Brookwood faculty and students to the AFL's condemnation of Brookwood, and on internal controversies in the early 1930s. Other material relates to the financial crisis at Brookwood in the wake of the AFL opposition.</p><p>One of Brookwood's tenets was to train students to become unionists. See the letters in Series II to Colby from former Brookwood students, notably, Columbus Ball, Mike Demchak, Fred Gendral, and Peter Strasse. The letters provide evaluations of the students' Brookwood experiences, and relate their personal struggles and achievements in the labor movement. The student autobiographical sketches in Series III reveal family origin and relate how and why the students came to Brookwood. Unfortunately, the correspondence in Series II yields only about a dozen letters from family and friends with any direct bearing on Colby's personal life. The fact that the donor of the collection separated and discarded personal correspondence and other documents prior to his donation may partially account for this omission.</p>  </scopecontent>
-  <arrangement id="aspace_96a6ff418572118c4c6fd73c8d8334eb">
-    <head>Arrangement</head>
-<p>The papers have been arranged into five series.</p>    <list type="ordered">
-      <head>Missing Title</head>
-      <item>Series I: American Federation of Teachers, 1921-1929</item>
-      <item>Series II: Correspondence, 1912-1933</item>
-      <item>Series III: Brookwood Labor College, 1922-1933</item>
-      <item>Series IV: Affiliated Schools for Workers, and Other Workers' Education Groups, 1924-1932.</item>
-      <item>Series V: General, 1927-1932</item>
-    </list>
-<p>Series I and II are arranged chronologically.  Series III is arranged by hierarchy: administration, departments, then classes.  Series IV is arranged by alphabetically.</p>  </arrangement>
-  <bioghist id="aspace_5cf7f37215b760014fc0748b0be58bbb">
-    <head>Historical/Biographical Note</head>
-<p>The Colbys, a New England family, settled at Colby's Landing, California, where Josephine Colby was born on April 14, 1878. Colby was tutored at home, then attended high school in Berkeley. She earned a bachelor's degree in 1899 from the University of California, and studied in Chicago at the American Conservatory of Music. Colby was married briefly to Louis Kramer, from 1921-24. She resided at Brookwood Labor College in Katonah, New York, and owned a cottage in Nantucket, Massachusetts which she sometimes leased in the summer.</p><p>Colby was dubbed "Polly" by her colleagues and students, ostensibly because there was already a Josephine (Bennett) at Brookwood. Previously a high school teacher in Oakland and Fresno California (1915-19), and an instructor at Chicago Labor College (1921), Colby was an instructor of basic English grammar, structure, and composition. These skills were particularly vital to Brookwood students, many of whom were of foreign origin and limited educational backgrounds. In her twelve year tenure (1922-34) at Brookwood, Colby served as one of the faculty directors on the Brookwood Board of Directors, taught daily classes, advised individual students, and worked on a manuscript titled "Grammar for Workers," which was never completed. Colby also directed the Brookwood Players and the school chorus.</p><p>Brookwood Labor College was the successor of a short-lived Brookwood School, begun by William Mann Fincke in the autumn of 1919. Brookwood opened its doors to students in October 1921. The college featured a two-year course in the social sciences which, according to the college prospectus, was intended to "educate workers to work in the workers' movement." </p><p>In 1925 Brookwood became incorporated. Within a few years after its establishment Brookwood was officially endorsed, and in most cases financially supported, by thirteen national and international unions. The college was also one of forty affiliates of the Workers' Education Bureau (WEB). Through its classroom training, institute and conference programs, and its influence in the Labor Publication Society (which issued the monthly magazine <emph render="italic">Labor Age</emph>) Brookwood became a source of opposition to American Federation of Labor (AFL) leadership and policies. The AFL leadership in turn became increasingly suspicious of Brookwood. In 1928 the AFL censured Brookwood and demanded that all affiliates withdraw support from the college. The following year, Brookwood spearheaded the formation of the Conference for Progressive Labor Action. (CPLA)</p><p>Three factors were crucial to Brookwood's decline in the 1930s: fewer unions lent financial support, depression conditions prevailed, and the departure of A.J. Muste (faculty chairman) in 1933 left the college without strong leadership. Although Brookwood finally closed its doors in 1937, many Brookwood staff and graduates played roles in the emerging Congress of Industrial Organizations (CIO) during the 1930s and 1940s.</p><p>In addition to her Brookwood classes, Colby taught evening classes for the New York Central Trades and Labor Council College and the International Ladies Garment Workers Union and taught at the Barnard and Bryn Mawr Summer Schools for Women Workers in Industry.</p><p>Colby was actively involved in the development of the American Federation of Teachers (AFT) during the early 1920s as First Secretary of the California State Federation of Teachers; Vice President and Field Secretary, AFT; and Director of Publicity, Chicago office. She was instrumental in organizing Workers' Education Local 189 (composed of the Brookwood faculty), and served as its president and later secretary.</p><p>After relinquishing her Brookwood post in 1934, Colby went to Moscow and taught English to technicians at the Institute of Languages. No precise death date has been confirmed; however, one of Colby's correspondents believes that she died in 1938.</p><p><emph render="bold">Sources</emph></p><p>Jonathan Bloom. "Brookwood Labor College, 1921-33: Training Ground for Union Organizers", MA Thesis, Rutgers University, 1978. Copy at Tamiment Library/Robert F. Wagner Labor Archives, NYU.</p><p>James O. Morris. <emph render="italic">Conflict within the AFL</emph>, Chapter IV and V. Ithaca, NY: Cornell University, 1958.</p>  </bioghist>
-  <userestrict id="aspace_aa6e7db52fc5665463b06d4d45952f4c">
-    <head>Conditions Governing Use</head>
-<p>Materials in this collection created by Josephine Colby are in the public domain. Users need not secure permission from the Tamiment Library to publish or reproduce materials in this collection. Copyright of other materials in the collection is assumed to be held by the original creator of individual items; these items are expected to pass into the public domain 120 years after their creation. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>  </userestrict>
-  <prefercite id="aspace_f65611fad61ed76b5fca5fcb18f72796">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Josephine Colby Papers; WAG 008; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <controlaccess>
-    <subject source="lcsh">Labor movement -- United States.</subject>
-    <subject source="lcsh">Working class women |x Education |z United States |x History |y 20th century. </subject>
-    <subject source="lcsh">Working class |x Education |z United States.</subject>
-    <corpname source="local">Barnard Summer School for Women Workers in Industry</corpname>
-    <persname rules="dacs" source="local">Colby, Josephine</persname>
-    <corpname authfilenumber="(lccn)n2003113465" source="naf">Bryn Mawr Summer School for Women Workers in Industry</corpname>
-    <persname role="dnr" source="local">Mellin, Willard Colby</persname>
-    <corpname source="local">Affiliated Summer Schools for Women Workers in Industry</corpname>
-    <corpname authfilenumber="(lccn)n79091711" source="naf">American Federation of Labor</corpname>
-    <corpname authfilenumber="(lccn)n84066083" source="naf">American Federation of Teachers. Workers Education Local 189</corpname>
-    <persname source="naf">Ellickson, Katherine Pollak, 1905-1996</persname>
-    <corpname authfilenumber="(lccn)n86114043" rules="dacs" source="naf">Brookwood Labor College (Katonah, N.Y.)</corpname>
-    <corpname authfilenumber="(lccn)no2014013327" source="naf">Conference for Progressive Labor Action</corpname>
-    <persname rules="dacs" source="naf">Muste,  A. J. (Abraham John), 1885-1967.</persname>
-    <persname role="fmo" source="naf">Bloom, Jonathan</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref7" level="series"><did><unittitle>Series I: American Federation of Teachers, 1921-1929</unittitle></did><c id="aspace_ref8" level="file"><did><unittitle>American Federation of Teachers</unittitle><unitdate datechar="creation" normal="1921/1929" type="inclusive">1921; 1926-1927; 1929</unitdate><container altrender="Record carton" id="aspace_ac7c091819c07686a6d45ec04f71f836" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_f69849a4f32735c70f56a0bf1ce15a16" parent="aspace_ac7c091819c07686a6d45ec04f71f836" type="Folder">1</container></did></c></c><c id="aspace_ref9" level="series"><did><unittitle>Series II: Correspondence, 1912-1933</unittitle></did><c id="aspace_ref12" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1912/1912" type="inclusive">1912</unitdate><container altrender="Record carton" id="aspace_db7fae6354b401086b704e54d31066f2" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_4b9d39c87f89f6432c4ac20deaaa6b32" parent="aspace_db7fae6354b401086b704e54d31066f2" type="Folder">2</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1921/1921" type="inclusive">1921</unitdate><container altrender="Record carton" id="aspace_7aeb6cbbb14795b63ab3a8741c96a502" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_c615506a0ab6cab9420606422546ee2f" parent="aspace_7aeb6cbbb14795b63ab3a8741c96a502" type="Folder">3</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate><container altrender="Record carton" id="aspace_6ae7948dbd81de8760a7d27bd91dc8d2" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_dd6f997a815e4f969a20725d7e525f35" parent="aspace_6ae7948dbd81de8760a7d27bd91dc8d2" type="Folder">4</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1923/1923" type="inclusive">1923</unitdate><container altrender="Record carton" id="aspace_892035b3b1d2388f09a38b4252a365a8" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_07cfbc6e5607b9f3e89e50416e87183b" parent="aspace_892035b3b1d2388f09a38b4252a365a8" type="Folder">5</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1924/1924" type="inclusive">1924</unitdate><container altrender="Record carton" id="aspace_ed78d86d33b0e63a68e26395a7beb588" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_fc04aef912a225bdb91587c7c1cad516" parent="aspace_ed78d86d33b0e63a68e26395a7beb588" type="Folder">6</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1925/1925" type="inclusive">1925</unitdate><container altrender="Record carton" id="aspace_789b8709ff7a12b9103c4ca04f6c5312" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_5ac4f55f7fdc83db7b55774c38baab8f" parent="aspace_789b8709ff7a12b9103c4ca04f6c5312" type="Folder">7</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1926/1926" type="inclusive">1926</unitdate><container altrender="Record carton" id="aspace_2a3bc8304db7a4350156272647ad8ce3" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_faaad1000b2052104252f701da1c087f" parent="aspace_2a3bc8304db7a4350156272647ad8ce3" type="Folder">8</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1927/1927" type="inclusive">1927</unitdate><container altrender="Record carton" id="aspace_2ed1c0d7fd03bbd0b33d7fb6e9cfdd69" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_d7385edfc9793dd162b2476089642c8d" parent="aspace_2ed1c0d7fd03bbd0b33d7fb6e9cfdd69" type="Folder">9</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1928/1928" type="inclusive">1928</unitdate><container altrender="Record carton" id="aspace_edd84b8a5c6d2ad92c7cf411e26d6adf" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_e58b9efcee68fd6024b7b26d70781438" parent="aspace_edd84b8a5c6d2ad92c7cf411e26d6adf" type="Folder">10</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1929/1929" type="inclusive">1929</unitdate><container altrender="Record carton" id="aspace_02cd04db4cc6015ed03d25be424bb8ff" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_e611cbbfa2ec4eb58db64fb3e0965b81" parent="aspace_02cd04db4cc6015ed03d25be424bb8ff" type="Folder">11</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1930/1930" type="inclusive">1930</unitdate><container altrender="Record carton" id="aspace_65d7ade42fb3f64732bcfbb1a4abb8f0" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_2e95d09298f7d89978e4ea1313599c2a" parent="aspace_65d7ade42fb3f64732bcfbb1a4abb8f0" type="Folder">12</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1931/1931" type="inclusive">1931</unitdate><container altrender="Record carton" id="aspace_ef644e7e52d14b98bf750cde5fcb9bd1" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_2ba9b4d512981cb173e52acebded7052" parent="aspace_ef644e7e52d14b98bf750cde5fcb9bd1" type="Folder">13</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1932/1932" type="inclusive">Jan-Apr 1932</unitdate><container altrender="Record carton" id="aspace_715a23bcf57eea441b3a26a74c0e51ab" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_6d9d4e03e5a06e337613528201ae801c" parent="aspace_715a23bcf57eea441b3a26a74c0e51ab" type="Folder">14</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1932/1932" type="inclusive">May-Dec 1932</unitdate><container altrender="Record carton" id="aspace_9361e988e36fa67c04cc5b630d6a22c8" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_62989f4730485b086dbfd76b35b712a8" parent="aspace_9361e988e36fa67c04cc5b630d6a22c8" type="Folder">15</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate><container altrender="Record carton" id="aspace_2366806ab235c4433128f40301d828ea" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_5b6c6aefbfd7c0918930a9dcc8957a34" parent="aspace_2366806ab235c4433128f40301d828ea" type="Folder">16</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_0ba76e4cbc70f80674205de3b9219959" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_1b25dd5527a0a142f545f3771f7329fd" parent="aspace_0ba76e4cbc70f80674205de3b9219959" type="Folder">17</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Correspondence (fragile orginals)</unittitle><container altrender="Record carton" id="aspace_8dc6f640c8e300dbd8029e208e910346" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_1605d41032ec8917b87a36a6c42a1448" parent="aspace_8dc6f640c8e300dbd8029e208e910346" type="Folder">18</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Correspondence (third party)</unittitle><unitdate datechar="creation" normal="1922/1933" type="inclusive">1922-1933</unitdate><container altrender="Record carton" id="aspace_13b755213d00770266a82f0ae5238cc8" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_5abdf59a4aaad3ab6993dccfc519a60b" parent="aspace_13b755213d00770266a82f0ae5238cc8" type="Folder">19</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Christmas Greetings, Postcards, Invitations</unittitle><unitdate datechar="creation" normal="1922/1932" type="inclusive">1922; 1932</unitdate><container altrender="Record carton" id="aspace_785caaceba2b99f64c2febcda5b7561c" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_1e4ae2868983cc8a7c44ef42ab2b3aad" parent="aspace_785caaceba2b99f64c2febcda5b7561c" type="Folder">20</container></did></c></c><c id="aspace_ref33" level="series"><did><unittitle>Series III: Brookwood Labor College, 1922-1933</unittitle></did><c id="aspace_ref34" level="file"><did><unittitle>Brookwood Faculty and Student Reports and Minutes</unittitle><unitdate datechar="creation" normal="1930/1933" type="inclusive">1930-1933</unitdate><container altrender="Record carton" id="aspace_f7803043a65a2adafa1ba8acd3ccfeff" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_5c031420c94728103f4d595e0005eb8d" parent="aspace_f7803043a65a2adafa1ba8acd3ccfeff" type="Folder">21</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Brookwood Board of Directors, Statements to</unittitle><unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate><container altrender="Record carton" id="aspace_895f5b9f6593656d30f5e3eb0e3bdcfb" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_b0386b1f09551ddbbe9315536736eae6" parent="aspace_895f5b9f6593656d30f5e3eb0e3bdcfb" type="Folder">22</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Brookwood Extension Department</unittitle><unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate><container altrender="Record carton" id="aspace_5f6b19b8fa06cbf054db70b47f0e5e8d" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_9801e4d35a6ea01de47cb096f89482e3" parent="aspace_5f6b19b8fa06cbf054db70b47f0e5e8d" type="Folder">23</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Brookwood Extension Department: Curriculum Manuscript "Your Job and Your Pay" (Katherine H. Pollak and Tom Tippett)</unittitle><unitdate datechar="creation" normal="1931/1931" type="inclusive">1931</unitdate><container altrender="Record carton" id="aspace_340e7656732b5bfd1aaae017d59e0cc0" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_2d9c5a1b84526b47bc3fa2387b57a77f" parent="aspace_340e7656732b5bfd1aaae017d59e0cc0" type="Folder">24</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Brookwood Extension Department: Westchester County Construction Laborers Union--Workers Classes, Log</unittitle><unitdate datechar="creation" normal="1931/1931" type="inclusive">1931</unitdate><container altrender="Record carton" id="aspace_c547d577aee223b53d976eed2223c679" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_93df20c16da222e419c463f226dc7038" parent="aspace_c547d577aee223b53d976eed2223c679" type="Folder">25</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Brookwood Publications (includes <emph render="italic">Brookwood Review</emph> and <emph render="italic">Brookwood Reporter</emph>)</unittitle><unitdate datechar="creation" normal="1927/1930" type="inclusive">1927; 1929-1930</unitdate><container altrender="Record carton" id="aspace_c827fb4d1bb52482bf724f49f9a65b94" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_6bffbbe7a9b5d0bbd16f0dab97336b54" parent="aspace_c827fb4d1bb52482bf724f49f9a65b94" type="Folder">26</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Brookwood Miscellaneous</unittitle><unitdate datechar="creation" normal="1928/1933" type="inclusive">1928; 1930; 1933</unitdate><container altrender="Record carton" id="aspace_72bc737a7a0332c69585bed67b49f45e" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_4eaa677487d9a95d76068ff29ec3b13b" parent="aspace_72bc737a7a0332c69585bed67b49f45e" type="Folder">27</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Brookwood Chautauqua Plays I</unittitle><unitdate datechar="creation">1920s-1930s</unitdate><container altrender="Record carton" id="aspace_b155411eb60a6b05e7c7497319b35aea" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_ab3ac453ede03fbeb8f59d0c14617a76" parent="aspace_b155411eb60a6b05e7c7497319b35aea" type="Folder">33</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Brookwood Chautauqua Plays II</unittitle><unitdate datechar="creation">1920s-1930s</unitdate><container altrender="Record carton" id="aspace_3c5cc230a667e1a375589aaaeb747db1" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_cf0590a1694034360a3336057bc34af9" parent="aspace_3c5cc230a667e1a375589aaaeb747db1" type="Folder">34</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Brookwood Chautauqua Reports</unittitle><unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate><container altrender="Record carton" id="aspace_cc09c32e1a7bf2c35e29d6636771370a" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_8454cf011867241ee5803c78152d5e47" parent="aspace_cc09c32e1a7bf2c35e29d6636771370a" type="Folder">30</container></did></c><c id="aspace_ref91" level="file"><did><unittitle>Brookwood Chautauqua Songs</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_fe821343807bb5718d1c1b06a216c54b" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_24e9d5b2a806531536a0bdcf87816586" parent="aspace_fe821343807bb5718d1c1b06a216c54b" type="Folder">31</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Colby's Manuscript Files: "Grammar for Workers"</unittitle><unitdate datechar="creation" normal="1926/1928" type="inclusive">1926-1928</unitdate><container altrender="Record carton" id="aspace_07b1962769543d3635324eef761ff8cb" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_6bdd83151529811f3cef14c40531c271" parent="aspace_07b1962769543d3635324eef761ff8cb" type="Folder">32</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Colby's Manuscript Files: "Grammar for Workers"</unittitle><unitdate datechar="creation" normal="1927/1931" type="inclusive">1927-1931</unitdate><container altrender="Record carton" id="aspace_143fbea6d3c7e1c5c6eb04f159af93df" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_9bbbe53c8bbe6395a9b5332d067999e8" parent="aspace_143fbea6d3c7e1c5c6eb04f159af93df" type="Folder">33</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Colby's Class Notes</unittitle><unitdate datechar="creation" normal="1927/1933" type="inclusive">1927-1933</unitdate><container altrender="Record carton" id="aspace_acbf99a8a7758849fae0f7b03194fd79" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_74128314d26f2e26f0ca02e867300264" parent="aspace_acbf99a8a7758849fae0f7b03194fd79" type="Folder">34</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Colby's First Year English Plans</unittitle><unitdate datechar="creation" normal="1922/1923" type="inclusive">1922-1923</unitdate><container altrender="Record carton" id="aspace_76a9acddf92c7e828c928de61978dc7b" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_c01535b452cc59d4a8fc1e81a02417d9" parent="aspace_76a9acddf92c7e828c928de61978dc7b" type="Folder">35</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Colby's English Course Plans</unittitle><unitdate datechar="creation" normal="1923/1924" type="inclusive">1923-1924</unitdate><container altrender="Record carton" id="aspace_100984ea8c59befb248e59c7174003e3" label="Mixed Materials [31142062764066]" type="Box">1</container><container id="aspace_a4e8a20befe4e0317fad7b369be15aec" parent="aspace_100984ea8c59befb248e59c7174003e3" type="Folder">36</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Colby's English Course Plans</unittitle><unitdate datechar="creation" normal="1924/1925" type="inclusive">1924-1925</unitdate><container altrender="Record carton" id="aspace_faf13132d3dd8eb8b7929384ce19920b" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_f25aba8582d25b8c1836b870cf712b3a" parent="aspace_faf13132d3dd8eb8b7929384ce19920b" type="Folder">1</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Colby's English Course Plans</unittitle><unitdate datechar="creation" normal="1925/1926" type="inclusive">1925-1926</unitdate><container altrender="Record carton" id="aspace_a1caf35c6594613393270703f1411410" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_84c280cde5627607b6b5c9fd6cedd0b0" parent="aspace_a1caf35c6594613393270703f1411410" type="Folder">2</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Colby's English Course Plans</unittitle><unitdate datechar="creation" normal="1926/1927" type="inclusive">1926-1927</unitdate><container altrender="Record carton" id="aspace_c62c2445d3a6ac29dbc37dc3aca9bdcf" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_04733d33494115262fcbd209ce421e96" parent="aspace_c62c2445d3a6ac29dbc37dc3aca9bdcf" type="Folder">3</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Colby's Ten Minute Lessons in English</unittitle><unitdate datechar="creation" normal="1926/1926" type="inclusive">1926</unitdate><container altrender="Record carton" id="aspace_6b56c658b4c5ee285c6461349c83fafc" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_4af1fda3171e77393216f3bf3415261b" parent="aspace_6b56c658b4c5ee285c6461349c83fafc" type="Folder">4</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>Colby's Labor Journalism Course Plans</unittitle><unitdate datechar="creation" normal="1922/1924" type="inclusive">1922-1924</unitdate><container altrender="Record carton" id="aspace_d1ea250d968afe5aa12d02e9c36d8c0b" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_bb11675d59ddd9433e7fc70acb857d06" parent="aspace_d1ea250d968afe5aa12d02e9c36d8c0b" type="Folder">5</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Colby's Parliamentary Law Course Plans</unittitle><unitdate datechar="creation" normal="1925/1929" type="inclusive">1925-1929</unitdate><container altrender="Record carton" id="aspace_aa377c03a484276d681359814a6b25aa" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_da40945c740fb8566eeca12f97111fef" parent="aspace_aa377c03a484276d681359814a6b25aa" type="Folder">6</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Colby's Public Speaking Course Plans</unittitle><unitdate datechar="creation" normal="1924/1932" type="inclusive">1924-1932</unitdate><container altrender="Record carton" id="aspace_c6a6ca27978b1eedcd73822cca7b5bd6" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_9c8d7ec95665fd7ee62712a7c2e827c4" parent="aspace_c6a6ca27978b1eedcd73822cca7b5bd6" type="Folder">7</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Colby's Spelling Course Plans</unittitle><unitdate datechar="creation" normal="1924/1932" type="inclusive">1924-1932</unitdate><container altrender="Record carton" id="aspace_9b223cafdc5b7ef739137cd47959bda2" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_f00c000a05a982ac19e48af75b20028d" parent="aspace_9b223cafdc5b7ef739137cd47959bda2" type="Folder">8</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Colby's Student Work: Labor Histories, Conventions</unittitle><unitdate datechar="creation" normal="1924/1927" type="inclusive">1924-1927</unitdate><container altrender="Record carton" id="aspace_7302aba998b9f37674438d1d82cead44" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_d4d50bc99434955bee9c86930500defe" parent="aspace_7302aba998b9f37674438d1d82cead44" type="Folder">9</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Colby's Student Work: Tests, Outlines, Autobiographical Sketches</unittitle><unitdate datechar="creation" normal="1930/1932" type="inclusive">1930-1932</unitdate><container altrender="Record carton" id="aspace_d5b8b0d0a5729afe90095ad7e1676d0c" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_98aabee45230a07a0f99c717de094a28" parent="aspace_d5b8b0d0a5729afe90095ad7e1676d0c" type="Folder">10</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Lesson Plans of Other Brookwood Faculty</unittitle><unitdate datechar="creation" normal="1928/1932" type="inclusive">1928-1932</unitdate><container altrender="Record carton" id="aspace_11c464ef1845d3a680d68ba858755d35" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_2fb0909dc20c5d7c280c560fc12eb180" parent="aspace_11c464ef1845d3a680d68ba858755d35" type="Folder">11</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Instruction Manuals and Pamphlets</unittitle><container altrender="Record carton" id="aspace_fe33fc950cbc8a4ed509c70fbf0744fb" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_c22a43b26d023c7f5eb6df608adf42be" parent="aspace_fe33fc950cbc8a4ed509c70fbf0744fb" type="Folder">12</container></did></c></c><c id="aspace_ref61" level="series"><did><unittitle>Series IV: Affiliated Schools for Workers and Other Workers' Education Groups, 1924-1932</unittitle></did><c id="aspace_ref62" level="file"><did><unittitle>Affiliated Summer Schools for Women Workers in Industry: Bulletin</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_89ba5e1a7445e77e122400a279b61188" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_c55c147214f36bf73a0032615de151ba" parent="aspace_89ba5e1a7445e77e122400a279b61188" type="Folder">13</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>Affiliated Summer Schools for Women Workers in Industry: Executive Committee and Board Minutes</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_3a3832ec9db5d6b108ed1590f7a41d42" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_3a3c6bfc66910ecfa9d8cc72363e0f54" parent="aspace_3a3832ec9db5d6b108ed1590f7a41d42" type="Folder">14</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>Barnard Summer School Syllabi</unittitle><unitdate datechar="creation" normal="1929/1929" type="inclusive">1929</unitdate><container altrender="Record carton" id="aspace_70c6e32b97c472ed4bb6408a65f7e48d" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_53cb2cb4c6338c18d915348884a54a58" parent="aspace_70c6e32b97c472ed4bb6408a65f7e48d" type="Folder">15</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>Barnard Summer School Syllabi</unittitle><unitdate datechar="creation" normal="1930/1930" type="inclusive">1930</unitdate><container altrender="Record carton" id="aspace_c6865988851c34ec296af5a8ce0a5635" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_e0ac15b596229633695de0287cb49674" parent="aspace_c6865988851c34ec296af5a8ce0a5635" type="Folder">16</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>Barnard Summer School: Bulletins and Rosters</unittitle><unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate><container altrender="Record carton" id="aspace_3284ddfb975a6de46bd87cb7e6a9c563" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_0472e0c22512c63ebf91fc5d381ecbb8" parent="aspace_3284ddfb975a6de46bd87cb7e6a9c563" type="Folder">17</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Barnard Summer School Syllabi</unittitle><unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate><container altrender="Record carton" id="aspace_06106c9acca427a30df377fe44fd795b" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_3367d024398dd5f6056f0b0a6b26fe2a" parent="aspace_06106c9acca427a30df377fe44fd795b" type="Folder">18</container></did></c><c id="aspace_ref70" level="file"><did><unittitle>Bryn Mawr Summer School: General</unittitle><unitdate datechar="creation" normal="1925/1929" type="inclusive">1925; 1929</unitdate><container altrender="Record carton" id="aspace_09aed79e5805616377ff74222c78074e" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_243088e8f287562bfc831f3d7ffdd04e" parent="aspace_09aed79e5805616377ff74222c78074e" type="Folder">19</container></did></c><c id="aspace_ref71" level="file"><did><unittitle>Bryn Mawr Summer School: Student Work</unittitle><unitdate datechar="creation" normal="1925/1928" type="inclusive">1925; 1928</unitdate><container altrender="Record carton" id="aspace_a3e980eaa877801a27912fc8773d6f15" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_215d7f2ca05a374fe098035284fd1ab9" parent="aspace_a3e980eaa877801a27912fc8773d6f15" type="Folder">20</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Bryn Mawr Summer School Syllabi</unittitle><unitdate datechar="creation" normal="1924/1928" type="inclusive">1924; 1926; 1928</unitdate><container altrender="Record carton" id="aspace_4700952b1cd18219195e8dd288eaf28f" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_9bcc50bbf00f1857cf1c8e1c32b20793" parent="aspace_4700952b1cd18219195e8dd288eaf28f" type="Folder">21</container></did></c><c id="aspace_ref73" level="file"><did><unittitle>Bryn Mawr Summer School Syllabi</unittitle><unitdate datechar="creation" normal="1925/1925" type="inclusive">1925</unitdate><container altrender="Record carton" id="aspace_9a64be2c367c645c90f5b0881567319d" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_ff08faca7ff80c869bb5ef759a98f961" parent="aspace_9a64be2c367c645c90f5b0881567319d" type="Folder">22</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>Bryn Mawr Summer School Syllabi</unittitle><unitdate datechar="creation" normal="1929/1929" type="inclusive">1929</unitdate><container altrender="Record carton" id="aspace_984da81f229a36928899e4b80bcbb1de" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_4686d09c9af266a0a70d92709a287604" parent="aspace_984da81f229a36928899e4b80bcbb1de" type="Folder">23</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>Bryn Mawr Summer School English Syllabus, by Jean Carter</unittitle><unitdate datechar="creation" normal="1930/1930" type="inclusive">1930</unitdate><container altrender="Record carton" id="aspace_c4afc21458298cdca0db4cf23f57d02e" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_e6c01687b4427caef8f70c12d8138dec" parent="aspace_c4afc21458298cdca0db4cf23f57d02e" type="Folder">24</container></did></c><c id="aspace_ref92" level="file"><did><unittitle>Commonwealth College Summer Camp Flyer</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_6f98b05083efe6574caed60e218fa1d0" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_0dd78934d3bcb96a3c3562a822324553" parent="aspace_6f98b05083efe6574caed60e218fa1d0" type="Folder">24a</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>New York Labor College: Public Speaking and Parliamentary Law Course Plans</unittitle><unitdate datechar="creation" normal="1925/1926" type="inclusive">1925-1926</unitdate><container altrender="Record carton" id="aspace_2892fced77aad9fb254fc6b478f9d382" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_120fac64a9ffa89a2ec1408e4b5b2100" parent="aspace_2892fced77aad9fb254fc6b478f9d382" type="Folder">25</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>Resident Summer Schools for Women Workers in Industry: "The Shrinking Week and the Growing Wage" (Katherine H. Pollak, Manuscript)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_80db9c6abd9dd902ec3680f0a62f94f4" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_c1dca442b2b6d5703d2ebead6841fbd1" parent="aspace_80db9c6abd9dd902ec3680f0a62f94f4" type="Folder">26</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Southern Summer School for Women Workers in Industry</unittitle><unitdate datechar="creation" normal="1930/1930" type="inclusive">1930; undated</unitdate><container altrender="Record carton" id="aspace_82a7361fce9c5e2fb5de92d12b394ff9" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_3c8bec58613efd25344552ad93b5ef5c" parent="aspace_82a7361fce9c5e2fb5de92d12b394ff9" type="Folder">27</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>Westchester Country Recreation Commission</unittitle><unitdate datechar="creation" normal="1930/1932" type="inclusive">1930-1932</unitdate><container altrender="Record carton" id="aspace_2c7881c69fe499c8ff142c12c9fada53" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_73e8918ce7a2acb0ac63f54f431417b2" parent="aspace_2c7881c69fe499c8ff142c12c9fada53" type="Folder">28</container></did></c></c><c id="aspace_ref80" level="series"><did><unittitle>Series V: General, 1927-1932</unittitle></did><c id="aspace_ref81" level="file"><did><unittitle>Colby's Loose-Leaf Ledger</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_4e2b253ef38d8112285f43f4a4972490" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_5c014d726236f89d1089ff8a26fa37e6" parent="aspace_4e2b253ef38d8112285f43f4a4972490" type="Folder">29</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>General</unittitle><unitdate datechar="creation" normal="1919/1933" type="inclusive">1919; 1924; 1929; 1933</unitdate><container altrender="Record carton" id="aspace_e40dbf7fc9e5f6de6000f7a42630fa3f" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_81fb340e64c60534c70287523fab919d" parent="aspace_e40dbf7fc9e5f6de6000f7a42630fa3f" type="Folder">30</container></did></c><c id="aspace_ref82" level="file"><did><unittitle>Newspaper Clippings</unittitle><unitdate datechar="creation" normal="1927/1932" type="inclusive">1927; 1932</unitdate><container altrender="Record carton" id="aspace_90ab6540916edec7a619ee38bec403fe" label="Mixed Materials [31142062764074]" type="Box">2</container><container id="aspace_53d64e4a59ad81cd1367a5062191a27a" parent="aspace_90ab6540916edec7a619ee38bec403fe" type="Folder">31</container></did></c></c></dsc>
-</archdesc>
+      <corpname source="local">Affiliated Summer Schools for Women Workers in Industry</corpname>
+      <corpname authfilenumber="(lccn)n79091711" source="naf">American Federation of Labor</corpname>
+      <corpname authfilenumber="(lccn)n84066083" source="naf">American Federation of Teachers. Workers Education Local 189</corpname>
+      <persname source="naf">Ellickson, Katherine Pollak, 1905-1996</persname>
+      <corpname authfilenumber="(lccn)n86114043" rules="dacs" source="naf">Brookwood Labor College (Katonah, N.Y.)</corpname>
+      <corpname authfilenumber="(lccn)no2014013327" source="naf">Conference for Progressive Labor Action</corpname>
+      <persname rules="dacs" source="naf">Muste,  A. J. (Abraham John), 1885-1967.</persname>
+      <persname role="fmo" source="naf">Bloom, Jonathan</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref7" level="series">
+        <did>
+          <unittitle>Series I: American Federation of Teachers, 1921-1929</unittitle>
+        </did>
+        <c id="aspace_ref8" level="file">
+          <did>
+            <unittitle>American Federation of Teachers</unittitle>
+            <unitdate datechar="creation" normal="1921/1929" type="inclusive">1921; 1926-1927; 1929</unitdate>
+            <container altrender="Record carton" id="aspace_ac7c091819c07686a6d45ec04f71f836" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_f69849a4f32735c70f56a0bf1ce15a16" parent="aspace_ac7c091819c07686a6d45ec04f71f836" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref9" level="series">
+        <did>
+          <unittitle>Series II: Correspondence, 1912-1933</unittitle>
+        </did>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1912/1912" type="inclusive">1912</unitdate>
+            <container altrender="Record carton" id="aspace_db7fae6354b401086b704e54d31066f2" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_4b9d39c87f89f6432c4ac20deaaa6b32" parent="aspace_db7fae6354b401086b704e54d31066f2" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1921/1921" type="inclusive">1921</unitdate>
+            <container altrender="Record carton" id="aspace_7aeb6cbbb14795b63ab3a8741c96a502" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_c615506a0ab6cab9420606422546ee2f" parent="aspace_7aeb6cbbb14795b63ab3a8741c96a502" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate>
+            <container altrender="Record carton" id="aspace_6ae7948dbd81de8760a7d27bd91dc8d2" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_dd6f997a815e4f969a20725d7e525f35" parent="aspace_6ae7948dbd81de8760a7d27bd91dc8d2" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1923/1923" type="inclusive">1923</unitdate>
+            <container altrender="Record carton" id="aspace_892035b3b1d2388f09a38b4252a365a8" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_07cfbc6e5607b9f3e89e50416e87183b" parent="aspace_892035b3b1d2388f09a38b4252a365a8" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1924/1924" type="inclusive">1924</unitdate>
+            <container altrender="Record carton" id="aspace_ed78d86d33b0e63a68e26395a7beb588" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_fc04aef912a225bdb91587c7c1cad516" parent="aspace_ed78d86d33b0e63a68e26395a7beb588" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1925/1925" type="inclusive">1925</unitdate>
+            <container altrender="Record carton" id="aspace_789b8709ff7a12b9103c4ca04f6c5312" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_5ac4f55f7fdc83db7b55774c38baab8f" parent="aspace_789b8709ff7a12b9103c4ca04f6c5312" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1926/1926" type="inclusive">1926</unitdate>
+            <container altrender="Record carton" id="aspace_2a3bc8304db7a4350156272647ad8ce3" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_faaad1000b2052104252f701da1c087f" parent="aspace_2a3bc8304db7a4350156272647ad8ce3" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1927/1927" type="inclusive">1927</unitdate>
+            <container altrender="Record carton" id="aspace_2ed1c0d7fd03bbd0b33d7fb6e9cfdd69" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_d7385edfc9793dd162b2476089642c8d" parent="aspace_2ed1c0d7fd03bbd0b33d7fb6e9cfdd69" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1928/1928" type="inclusive">1928</unitdate>
+            <container altrender="Record carton" id="aspace_edd84b8a5c6d2ad92c7cf411e26d6adf" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_e58b9efcee68fd6024b7b26d70781438" parent="aspace_edd84b8a5c6d2ad92c7cf411e26d6adf" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1929/1929" type="inclusive">1929</unitdate>
+            <container altrender="Record carton" id="aspace_02cd04db4cc6015ed03d25be424bb8ff" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_e611cbbfa2ec4eb58db64fb3e0965b81" parent="aspace_02cd04db4cc6015ed03d25be424bb8ff" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1930/1930" type="inclusive">1930</unitdate>
+            <container altrender="Record carton" id="aspace_65d7ade42fb3f64732bcfbb1a4abb8f0" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_2e95d09298f7d89978e4ea1313599c2a" parent="aspace_65d7ade42fb3f64732bcfbb1a4abb8f0" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1931/1931" type="inclusive">1931</unitdate>
+            <container altrender="Record carton" id="aspace_ef644e7e52d14b98bf750cde5fcb9bd1" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_2ba9b4d512981cb173e52acebded7052" parent="aspace_ef644e7e52d14b98bf750cde5fcb9bd1" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1932/1932" type="inclusive">Jan-Apr 1932</unitdate>
+            <container altrender="Record carton" id="aspace_715a23bcf57eea441b3a26a74c0e51ab" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_6d9d4e03e5a06e337613528201ae801c" parent="aspace_715a23bcf57eea441b3a26a74c0e51ab" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1932/1932" type="inclusive">May-Dec 1932</unitdate>
+            <container altrender="Record carton" id="aspace_9361e988e36fa67c04cc5b630d6a22c8" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_62989f4730485b086dbfd76b35b712a8" parent="aspace_9361e988e36fa67c04cc5b630d6a22c8" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate>
+            <container altrender="Record carton" id="aspace_2366806ab235c4433128f40301d828ea" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_5b6c6aefbfd7c0918930a9dcc8957a34" parent="aspace_2366806ab235c4433128f40301d828ea" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_0ba76e4cbc70f80674205de3b9219959" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_1b25dd5527a0a142f545f3771f7329fd" parent="aspace_0ba76e4cbc70f80674205de3b9219959" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Correspondence (fragile orginals)</unittitle>
+            <container altrender="Record carton" id="aspace_8dc6f640c8e300dbd8029e208e910346" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_1605d41032ec8917b87a36a6c42a1448" parent="aspace_8dc6f640c8e300dbd8029e208e910346" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Correspondence (third party)</unittitle>
+            <unitdate datechar="creation" normal="1922/1933" type="inclusive">1922-1933</unitdate>
+            <container altrender="Record carton" id="aspace_13b755213d00770266a82f0ae5238cc8" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_5abdf59a4aaad3ab6993dccfc519a60b" parent="aspace_13b755213d00770266a82f0ae5238cc8" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Christmas Greetings, Postcards, Invitations</unittitle>
+            <unitdate datechar="creation" normal="1922/1932" type="inclusive">1922; 1932</unitdate>
+            <container altrender="Record carton" id="aspace_785caaceba2b99f64c2febcda5b7561c" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_1e4ae2868983cc8a7c44ef42ab2b3aad" parent="aspace_785caaceba2b99f64c2febcda5b7561c" type="Folder">20</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref33" level="series">
+        <did>
+          <unittitle>Series III: Brookwood Labor College, 1922-1933</unittitle>
+        </did>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Brookwood Faculty and Student Reports and Minutes</unittitle>
+            <unitdate datechar="creation" normal="1930/1933" type="inclusive">1930-1933</unitdate>
+            <container altrender="Record carton" id="aspace_f7803043a65a2adafa1ba8acd3ccfeff" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_5c031420c94728103f4d595e0005eb8d" parent="aspace_f7803043a65a2adafa1ba8acd3ccfeff" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Brookwood Board of Directors, Statements to</unittitle>
+            <unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate>
+            <container altrender="Record carton" id="aspace_895f5b9f6593656d30f5e3eb0e3bdcfb" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_b0386b1f09551ddbbe9315536736eae6" parent="aspace_895f5b9f6593656d30f5e3eb0e3bdcfb" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Brookwood Extension Department</unittitle>
+            <unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate>
+            <container altrender="Record carton" id="aspace_5f6b19b8fa06cbf054db70b47f0e5e8d" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_9801e4d35a6ea01de47cb096f89482e3" parent="aspace_5f6b19b8fa06cbf054db70b47f0e5e8d" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Brookwood Extension Department: Curriculum Manuscript "Your Job and Your Pay" (Katherine H. Pollak and Tom Tippett)</unittitle>
+            <unitdate datechar="creation" normal="1931/1931" type="inclusive">1931</unitdate>
+            <container altrender="Record carton" id="aspace_340e7656732b5bfd1aaae017d59e0cc0" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_2d9c5a1b84526b47bc3fa2387b57a77f" parent="aspace_340e7656732b5bfd1aaae017d59e0cc0" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Brookwood Extension Department: Westchester County Construction Laborers Union--Workers Classes, Log</unittitle>
+            <unitdate datechar="creation" normal="1931/1931" type="inclusive">1931</unitdate>
+            <container altrender="Record carton" id="aspace_c547d577aee223b53d976eed2223c679" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_93df20c16da222e419c463f226dc7038" parent="aspace_c547d577aee223b53d976eed2223c679" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Brookwood Publications (includes <emph render="italic">Brookwood Review</emph> and <emph render="italic">Brookwood Reporter</emph>)</unittitle>
+            <unitdate datechar="creation" normal="1927/1930" type="inclusive">1927; 1929-1930</unitdate>
+            <container altrender="Record carton" id="aspace_c827fb4d1bb52482bf724f49f9a65b94" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_6bffbbe7a9b5d0bbd16f0dab97336b54" parent="aspace_c827fb4d1bb52482bf724f49f9a65b94" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Brookwood Miscellaneous</unittitle>
+            <unitdate datechar="creation" normal="1928/1933" type="inclusive">1928; 1930; 1933</unitdate>
+            <container altrender="Record carton" id="aspace_72bc737a7a0332c69585bed67b49f45e" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_4eaa677487d9a95d76068ff29ec3b13b" parent="aspace_72bc737a7a0332c69585bed67b49f45e" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Brookwood Chautauqua Plays I</unittitle>
+            <unitdate datechar="creation">1920s-1930s</unitdate>
+            <container altrender="Record carton" id="aspace_b155411eb60a6b05e7c7497319b35aea" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_ab3ac453ede03fbeb8f59d0c14617a76" parent="aspace_b155411eb60a6b05e7c7497319b35aea" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Brookwood Chautauqua Plays II</unittitle>
+            <unitdate datechar="creation">1920s-1930s</unitdate>
+            <container altrender="Record carton" id="aspace_3c5cc230a667e1a375589aaaeb747db1" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_cf0590a1694034360a3336057bc34af9" parent="aspace_3c5cc230a667e1a375589aaaeb747db1" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Brookwood Chautauqua Reports</unittitle>
+            <unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate>
+            <container altrender="Record carton" id="aspace_cc09c32e1a7bf2c35e29d6636771370a" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_8454cf011867241ee5803c78152d5e47" parent="aspace_cc09c32e1a7bf2c35e29d6636771370a" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Brookwood Chautauqua Songs</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_fe821343807bb5718d1c1b06a216c54b" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_24e9d5b2a806531536a0bdcf87816586" parent="aspace_fe821343807bb5718d1c1b06a216c54b" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Colby's Manuscript Files: "Grammar for Workers"</unittitle>
+            <unitdate datechar="creation" normal="1926/1928" type="inclusive">1926-1928</unitdate>
+            <container altrender="Record carton" id="aspace_07b1962769543d3635324eef761ff8cb" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_6bdd83151529811f3cef14c40531c271" parent="aspace_07b1962769543d3635324eef761ff8cb" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Colby's Manuscript Files: "Grammar for Workers"</unittitle>
+            <unitdate datechar="creation" normal="1927/1931" type="inclusive">1927-1931</unitdate>
+            <container altrender="Record carton" id="aspace_143fbea6d3c7e1c5c6eb04f159af93df" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_9bbbe53c8bbe6395a9b5332d067999e8" parent="aspace_143fbea6d3c7e1c5c6eb04f159af93df" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Colby's Class Notes</unittitle>
+            <unitdate datechar="creation" normal="1927/1933" type="inclusive">1927-1933</unitdate>
+            <container altrender="Record carton" id="aspace_acbf99a8a7758849fae0f7b03194fd79" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_74128314d26f2e26f0ca02e867300264" parent="aspace_acbf99a8a7758849fae0f7b03194fd79" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Colby's First Year English Plans</unittitle>
+            <unitdate datechar="creation" normal="1922/1923" type="inclusive">1922-1923</unitdate>
+            <container altrender="Record carton" id="aspace_76a9acddf92c7e828c928de61978dc7b" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_c01535b452cc59d4a8fc1e81a02417d9" parent="aspace_76a9acddf92c7e828c928de61978dc7b" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Colby's English Course Plans</unittitle>
+            <unitdate datechar="creation" normal="1923/1924" type="inclusive">1923-1924</unitdate>
+            <container altrender="Record carton" id="aspace_100984ea8c59befb248e59c7174003e3" label="Mixed Materials [31142062764066]" type="Box">1</container>
+            <container id="aspace_a4e8a20befe4e0317fad7b369be15aec" parent="aspace_100984ea8c59befb248e59c7174003e3" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Colby's English Course Plans</unittitle>
+            <unitdate datechar="creation" normal="1924/1925" type="inclusive">1924-1925</unitdate>
+            <container altrender="Record carton" id="aspace_faf13132d3dd8eb8b7929384ce19920b" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_f25aba8582d25b8c1836b870cf712b3a" parent="aspace_faf13132d3dd8eb8b7929384ce19920b" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Colby's English Course Plans</unittitle>
+            <unitdate datechar="creation" normal="1925/1926" type="inclusive">1925-1926</unitdate>
+            <container altrender="Record carton" id="aspace_a1caf35c6594613393270703f1411410" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_84c280cde5627607b6b5c9fd6cedd0b0" parent="aspace_a1caf35c6594613393270703f1411410" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Colby's English Course Plans</unittitle>
+            <unitdate datechar="creation" normal="1926/1927" type="inclusive">1926-1927</unitdate>
+            <container altrender="Record carton" id="aspace_c62c2445d3a6ac29dbc37dc3aca9bdcf" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_04733d33494115262fcbd209ce421e96" parent="aspace_c62c2445d3a6ac29dbc37dc3aca9bdcf" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Colby's Ten Minute Lessons in English</unittitle>
+            <unitdate datechar="creation" normal="1926/1926" type="inclusive">1926</unitdate>
+            <container altrender="Record carton" id="aspace_6b56c658b4c5ee285c6461349c83fafc" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_4af1fda3171e77393216f3bf3415261b" parent="aspace_6b56c658b4c5ee285c6461349c83fafc" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Colby's Labor Journalism Course Plans</unittitle>
+            <unitdate datechar="creation" normal="1922/1924" type="inclusive">1922-1924</unitdate>
+            <container altrender="Record carton" id="aspace_d1ea250d968afe5aa12d02e9c36d8c0b" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_bb11675d59ddd9433e7fc70acb857d06" parent="aspace_d1ea250d968afe5aa12d02e9c36d8c0b" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Colby's Parliamentary Law Course Plans</unittitle>
+            <unitdate datechar="creation" normal="1925/1929" type="inclusive">1925-1929</unitdate>
+            <container altrender="Record carton" id="aspace_aa377c03a484276d681359814a6b25aa" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_da40945c740fb8566eeca12f97111fef" parent="aspace_aa377c03a484276d681359814a6b25aa" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Colby's Public Speaking Course Plans</unittitle>
+            <unitdate datechar="creation" normal="1924/1932" type="inclusive">1924-1932</unitdate>
+            <container altrender="Record carton" id="aspace_c6a6ca27978b1eedcd73822cca7b5bd6" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_9c8d7ec95665fd7ee62712a7c2e827c4" parent="aspace_c6a6ca27978b1eedcd73822cca7b5bd6" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Colby's Spelling Course Plans</unittitle>
+            <unitdate datechar="creation" normal="1924/1932" type="inclusive">1924-1932</unitdate>
+            <container altrender="Record carton" id="aspace_9b223cafdc5b7ef739137cd47959bda2" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_f00c000a05a982ac19e48af75b20028d" parent="aspace_9b223cafdc5b7ef739137cd47959bda2" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Colby's Student Work: Labor Histories, Conventions</unittitle>
+            <unitdate datechar="creation" normal="1924/1927" type="inclusive">1924-1927</unitdate>
+            <container altrender="Record carton" id="aspace_7302aba998b9f37674438d1d82cead44" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_d4d50bc99434955bee9c86930500defe" parent="aspace_7302aba998b9f37674438d1d82cead44" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Colby's Student Work: Tests, Outlines, Autobiographical Sketches</unittitle>
+            <unitdate datechar="creation" normal="1930/1932" type="inclusive">1930-1932</unitdate>
+            <container altrender="Record carton" id="aspace_d5b8b0d0a5729afe90095ad7e1676d0c" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_98aabee45230a07a0f99c717de094a28" parent="aspace_d5b8b0d0a5729afe90095ad7e1676d0c" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Lesson Plans of Other Brookwood Faculty</unittitle>
+            <unitdate datechar="creation" normal="1928/1932" type="inclusive">1928-1932</unitdate>
+            <container altrender="Record carton" id="aspace_11c464ef1845d3a680d68ba858755d35" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_2fb0909dc20c5d7c280c560fc12eb180" parent="aspace_11c464ef1845d3a680d68ba858755d35" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Instruction Manuals and Pamphlets</unittitle>
+            <container altrender="Record carton" id="aspace_fe33fc950cbc8a4ed509c70fbf0744fb" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_c22a43b26d023c7f5eb6df608adf42be" parent="aspace_fe33fc950cbc8a4ed509c70fbf0744fb" type="Folder">12</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref61" level="series">
+        <did>
+          <unittitle>Series IV: Affiliated Schools for Workers and Other Workers' Education Groups, 1924-1932</unittitle>
+        </did>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Affiliated Summer Schools for Women Workers in Industry: Bulletin</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_89ba5e1a7445e77e122400a279b61188" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_c55c147214f36bf73a0032615de151ba" parent="aspace_89ba5e1a7445e77e122400a279b61188" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Affiliated Summer Schools for Women Workers in Industry: Executive Committee and Board Minutes</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_3a3832ec9db5d6b108ed1590f7a41d42" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_3a3c6bfc66910ecfa9d8cc72363e0f54" parent="aspace_3a3832ec9db5d6b108ed1590f7a41d42" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Barnard Summer School Syllabi</unittitle>
+            <unitdate datechar="creation" normal="1929/1929" type="inclusive">1929</unitdate>
+            <container altrender="Record carton" id="aspace_70c6e32b97c472ed4bb6408a65f7e48d" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_53cb2cb4c6338c18d915348884a54a58" parent="aspace_70c6e32b97c472ed4bb6408a65f7e48d" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Barnard Summer School Syllabi</unittitle>
+            <unitdate datechar="creation" normal="1930/1930" type="inclusive">1930</unitdate>
+            <container altrender="Record carton" id="aspace_c6865988851c34ec296af5a8ce0a5635" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_e0ac15b596229633695de0287cb49674" parent="aspace_c6865988851c34ec296af5a8ce0a5635" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Barnard Summer School: Bulletins and Rosters</unittitle>
+            <unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate>
+            <container altrender="Record carton" id="aspace_3284ddfb975a6de46bd87cb7e6a9c563" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_0472e0c22512c63ebf91fc5d381ecbb8" parent="aspace_3284ddfb975a6de46bd87cb7e6a9c563" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Barnard Summer School Syllabi</unittitle>
+            <unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate>
+            <container altrender="Record carton" id="aspace_06106c9acca427a30df377fe44fd795b" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_3367d024398dd5f6056f0b0a6b26fe2a" parent="aspace_06106c9acca427a30df377fe44fd795b" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Bryn Mawr Summer School: General</unittitle>
+            <unitdate datechar="creation" normal="1925/1929" type="inclusive">1925; 1929</unitdate>
+            <container altrender="Record carton" id="aspace_09aed79e5805616377ff74222c78074e" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_243088e8f287562bfc831f3d7ffdd04e" parent="aspace_09aed79e5805616377ff74222c78074e" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Bryn Mawr Summer School: Student Work</unittitle>
+            <unitdate datechar="creation" normal="1925/1928" type="inclusive">1925; 1928</unitdate>
+            <container altrender="Record carton" id="aspace_a3e980eaa877801a27912fc8773d6f15" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_215d7f2ca05a374fe098035284fd1ab9" parent="aspace_a3e980eaa877801a27912fc8773d6f15" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Bryn Mawr Summer School Syllabi</unittitle>
+            <unitdate datechar="creation" normal="1924/1928" type="inclusive">1924; 1926; 1928</unitdate>
+            <container altrender="Record carton" id="aspace_4700952b1cd18219195e8dd288eaf28f" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_9bcc50bbf00f1857cf1c8e1c32b20793" parent="aspace_4700952b1cd18219195e8dd288eaf28f" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Bryn Mawr Summer School Syllabi</unittitle>
+            <unitdate datechar="creation" normal="1925/1925" type="inclusive">1925</unitdate>
+            <container altrender="Record carton" id="aspace_9a64be2c367c645c90f5b0881567319d" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_ff08faca7ff80c869bb5ef759a98f961" parent="aspace_9a64be2c367c645c90f5b0881567319d" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>Bryn Mawr Summer School Syllabi</unittitle>
+            <unitdate datechar="creation" normal="1929/1929" type="inclusive">1929</unitdate>
+            <container altrender="Record carton" id="aspace_984da81f229a36928899e4b80bcbb1de" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_4686d09c9af266a0a70d92709a287604" parent="aspace_984da81f229a36928899e4b80bcbb1de" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Bryn Mawr Summer School English Syllabus, by Jean Carter</unittitle>
+            <unitdate datechar="creation" normal="1930/1930" type="inclusive">1930</unitdate>
+            <container altrender="Record carton" id="aspace_c4afc21458298cdca0db4cf23f57d02e" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_e6c01687b4427caef8f70c12d8138dec" parent="aspace_c4afc21458298cdca0db4cf23f57d02e" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Commonwealth College Summer Camp Flyer</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_6f98b05083efe6574caed60e218fa1d0" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_0dd78934d3bcb96a3c3562a822324553" parent="aspace_6f98b05083efe6574caed60e218fa1d0" type="Folder">24a</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>New York Labor College: Public Speaking and Parliamentary Law Course Plans</unittitle>
+            <unitdate datechar="creation" normal="1925/1926" type="inclusive">1925-1926</unitdate>
+            <container altrender="Record carton" id="aspace_2892fced77aad9fb254fc6b478f9d382" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_120fac64a9ffa89a2ec1408e4b5b2100" parent="aspace_2892fced77aad9fb254fc6b478f9d382" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Resident Summer Schools for Women Workers in Industry: "The Shrinking Week and the Growing Wage" (Katherine H. Pollak, Manuscript)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_80db9c6abd9dd902ec3680f0a62f94f4" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_c1dca442b2b6d5703d2ebead6841fbd1" parent="aspace_80db9c6abd9dd902ec3680f0a62f94f4" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Southern Summer School for Women Workers in Industry</unittitle>
+            <unitdate datechar="creation" normal="1930/1930" type="inclusive">1930; undated</unitdate>
+            <container altrender="Record carton" id="aspace_82a7361fce9c5e2fb5de92d12b394ff9" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_3c8bec58613efd25344552ad93b5ef5c" parent="aspace_82a7361fce9c5e2fb5de92d12b394ff9" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Westchester Country Recreation Commission</unittitle>
+            <unitdate datechar="creation" normal="1930/1932" type="inclusive">1930-1932</unitdate>
+            <container altrender="Record carton" id="aspace_2c7881c69fe499c8ff142c12c9fada53" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_73e8918ce7a2acb0ac63f54f431417b2" parent="aspace_2c7881c69fe499c8ff142c12c9fada53" type="Folder">28</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref80" level="series">
+        <did>
+          <unittitle>Series V: General, 1927-1932</unittitle>
+        </did>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>Colby's Loose-Leaf Ledger</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_4e2b253ef38d8112285f43f4a4972490" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_5c014d726236f89d1089ff8a26fa37e6" parent="aspace_4e2b253ef38d8112285f43f4a4972490" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>General</unittitle>
+            <unitdate datechar="creation" normal="1919/1933" type="inclusive">1919; 1924; 1929; 1933</unitdate>
+            <container altrender="Record carton" id="aspace_e40dbf7fc9e5f6de6000f7a42630fa3f" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_81fb340e64c60534c70287523fab919d" parent="aspace_e40dbf7fc9e5f6de6000f7a42630fa3f" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1927/1932" type="inclusive">1927; 1932</unitdate>
+            <container altrender="Record carton" id="aspace_90ab6540916edec7a619ee38bec403fe" label="Mixed Materials [31142062764074]" type="Box">2</container>
+            <container id="aspace_53d64e4a59ad81cd1367a5062191a27a" parent="aspace_90ab6540916edec7a619ee38bec403fe" type="Folder">31</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

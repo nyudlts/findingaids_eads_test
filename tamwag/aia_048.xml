@@ -1,72 +1,570 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/aia_048">aia_048</eadid><filedesc><titlestmt><titleproper>Guide to the James P. Sullivan Collection <num>AIA.048</num></titleproper><author>Rebecca Altermatt</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>06/30/10</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 06:54:09 -0400</date>.</creation><langusage>Description is in English</langusage></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>James P. Sullivan Collection</unittitle>
-    <origination label="Creator">
-      <corpname source="local">Archives of Irish America</corpname>
-    </origination>
-    <unitid>AIA.048</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
-      <extent altrender="carrier">(1 CD - 56 digital images from scrapbook)</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1905/1908" type="inclusive">1905-1908</unitdate>
-    <abstract id="aspace_0db72ac899003b00a9811b03fc0d5c35">James P. Sullivan was the third of six children born to Irish immigrants Jeremiah Sullivan, a grocer, and his wife Elizabeth Flynn Sullivan. Young J.P., or Jim, was born on February 28, 1885 and spent his early years in Manhattan where he attended P.S. 14 on East 27th Street and joined the track team of the St. Bartholomew Boys Club and, later, of the 22nd Regiment. By that time, six foot tall Jim could run a mile in 4:50. In September 1905 at the New York Metro Senior American Athletic Union Championships, Sullivan ran the mile in 4:22 creating a new American record. After impressive showings at the Canadian Championships and the New York Athletic Club Games that same month, he became known in the press as "4:22 Jim" and by March 1906 had been selected for the American Olympic team.
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/aia_048">aia_048</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the James P. Sullivan Collection <num>AIA.048</num></titleproper>
+        <author>Rebecca Altermatt</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>06/30/10</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 06:54:09 -0400</date>.</creation>
+      <langusage>Description is in English</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>James P. Sullivan Collection</unittitle>
+      <origination label="Creator">
+        <corpname source="local">Archives of Irish America</corpname>
+      </origination>
+      <unitid>AIA.048</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+        <extent altrender="carrier">(1 CD - 56 digital images from scrapbook)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1905/1908" type="inclusive">1905-1908</unitdate>
+      <abstract id="aspace_0db72ac899003b00a9811b03fc0d5c35">James P. Sullivan was the third of six children born to Irish immigrants Jeremiah Sullivan, a grocer, and his wife Elizabeth Flynn Sullivan. Young J.P., or Jim, was born on February 28, 1885 and spent his early years in Manhattan where he attended P.S. 14 on East 27th Street and joined the track team of the St. Bartholomew Boys Club and, later, of the 22nd Regiment. By that time, six foot tall Jim could run a mile in 4:50. In September 1905 at the New York Metro Senior American Athletic Union Championships, Sullivan ran the mile in 4:22 creating a new American record. After impressive showings at the Canadian Championships and the New York Athletic Club Games that same month, he became known in the press as "4:22 Jim" and by March 1906 had been selected for the American Olympic team.
 
 The collection consists of items from the Sullivan family scrapbook.  Included are photographs, newspaper clippings, correspondence and membership cards for the Irish-American Athletic Club.</abstract>
-    <langmaterial id="aspace_4499ce68c2e68de5420ca74929bad4b9">Materials are in English</langmaterial>
-  </did>
-  <custodhist id="aspace_d8be25542d2d0441d4d268f29662efbe">
-    <head>Provenance</head>
-<p>All images are from James P. Sullivan's scrapbook, loaned for to the Archives of Irish America, New York University, by his grandsons Brian and Terry Sullivan.</p><p>The images were used for an online exhibit.  The collection consists of 56 digital images.</p><p>Originals were returned to the family.  </p>  </custodhist>
-  <arrangement id="aspace_8d80c4ead99483cfd5b06bbbda6748e1">
-    <head>Arrangement</head>
-<p>Collection is arranged into one series in the order items appear on the CD.</p>  </arrangement>
-  <accessrestrict id="aspace_30e4e2a6b9d8f24f53ee336b3a6dae13">
-    <head>Access Restrictions</head>
-<p>Open for research without restrictions.</p>  </accessrestrict>
-  <userestrict id="aspace_b49ec002a5710781bef41ad5fa6a2fc0">
-    <head>Use Restrictions</head>
-<p>Permission to publish materials must be obtained in writing from the: <lb/>
+      <langmaterial id="aspace_4499ce68c2e68de5420ca74929bad4b9">Materials are in English</langmaterial>
+    </did>
+    <custodhist id="aspace_d8be25542d2d0441d4d268f29662efbe">
+      <head>Provenance</head>
+      <p>All images are from James P. Sullivan's scrapbook, loaned for to the Archives of Irish America, New York University, by his grandsons Brian and Terry Sullivan.</p>
+      <p>The images were used for an online exhibit.  The collection consists of 56 digital images.</p>
+      <p>Originals were returned to the family.  </p>
+    </custodhist>
+    <arrangement id="aspace_8d80c4ead99483cfd5b06bbbda6748e1">
+      <head>Arrangement</head>
+      <p>Collection is arranged into one series in the order items appear on the CD.</p>
+    </arrangement>
+    <accessrestrict id="aspace_30e4e2a6b9d8f24f53ee336b3a6dae13">
+      <head>Access Restrictions</head>
+      <p>Open for research without restrictions.</p>
+    </accessrestrict>
+    <userestrict id="aspace_b49ec002a5710781bef41ad5fa6a2fc0">
+      <head>Use Restrictions</head>
+      <p>Permission to publish materials must be obtained in writing from the: <lb/>
 Archives of Irish America, Tamiment Library <lb/>
 Elmer Holmes Bobst Library <lb/>
 70 Washington Square South <lb/>
 New York, NY 10012 <lb/>
 Phone: (212) 998-2630 <lb/>
 Fax: (212) 995-4225 <lb/>
-E-mail: tamiment.wagner@nyu.edu <lb/></p>  </userestrict>
-  <prefercite id="aspace_40f3eecdc70cbee128153687f800f692">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Archives of Irish America, Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
-  <scopecontent id="aspace_60620776fd9a6edf51ad0dd0534a9f02">
-    <head>Scope and Content Note</head>
-<p>The collection consists of items from the Sullivan family scrapbook.  Included are photographs, newspaper clippings, correspondence and membership cards for the Irish-American Athletic Club.  Also part of this collection is the Mecca Cigarette card with Sullivan's image as part of the Mecca Cigarette Champion Athlete and Prize Fighter Series.  </p><p>Images are available for viewing in a Flikr exhibit at http://www.flickr.com/photos/27630285@N07/3240069844/in/set-72157613167342984/.  A copy of the images is also available in the Archives on a Cd-Rom.</p>  </scopecontent>
-  <bioghist id="aspace_5208e3a8db6e7e57ab2d482e7d50f9f8">
-    <head>Historical/Biographical Note</head>
-<p>James Paul [sometimes listed as Patrick] Sullivan was the third of six surviving children born to Irish immigrants Jeremiah Sullivan, a grocer, and his wife Elizabeth Flynn, who arrived in the United States in 1870 and 1875 respectively. Young J.P., or Jim, was born on February 28, 1885 and spent his early years in Manhattan where he attended P.S. 14 on East 27th Street and joined the track team of the St. Bartholomew Boys Club and, later, of the 22nd Regiment. By that time, six foot tall Jim could run a mile in 4:50. In September 1905 at the New York Metro Senior American Athletic Union Championships, Sullivan ran the mile in 4:22 creating a new American record. After impressive showings at the Canadian Championships and the New York Athletic Club Games that same month, he became known in the press as "4:22 Jim" and by March 1906 had been selected for the American Olympic team.</p><p>Athens, Greece was the site for a special international athletic meeting known as the Intercalated Games scheduled between the 1904 and 1908 Olympic years. The American Olympic team sailed from New York City on the S.S. Barbarosa on 31 March 1906 with James P. Sullivan aboard, on leave from his position as a junior clerk with the Department of Education's Bureau of Buildings.</p><p>In Athens, Sullivan competed in the 800 meter race but did not qualify for the final. He also ran in the 1500 meter race, finishing fifth.  His second place win at the Olympic Trials in Philadelphia in June 1908 made him one of thirteen members of the Irish American Athletic Club selected to represent the United States at the 1908 Olympic Games in London.</p><p>But, once again, Jim Sullivan did not bring home an Olympic medal. Nevertheless, he was part of an historic track-and-field team competing under the American flag – IAAC teammates Martin Sheridan, John J. Hayes, and Mel Sheppard, for example, brought home the gold in discus throw, Greek discus, the marathon, and the 1500 meter respectively – a team that was fêted upon their return to New York with a parade down Fifth Avenue and a reception at Sagamore Hill on Long Island with President Theodore Roosevelt.</p><p>Jim Sullivan continued running competitively until 1912, despite surgery for a tendon injury and times for the mile – like 4:24 or 4:29 – that never beat his personal best. In 1910 and 1911 his image was selected for two series of tobacco cards (Hassan and Mecca) featuring Champion Athletes and Prizefighters.</p><p>He married Grace Burke in 1913 – the daughter of Irish immigrants, Richard (a broker at the Custom House) and Mary – and they raised two children, Richard and Elise, on his job as a clerk for the Kings County Court, a position he held until 1958.  James P. Sullivan died on 9 April 1965 at age 79.</p>  </bioghist>
-  <controlaccess>
-    <genreform source="aat">Digital images.</genreform>
-    <subject source="lcsh">Irish Americans -- Societies, etc.</subject>
-    <genreform source="aat">Correspondence.</genreform>
-    <genreform source="aat">Articles.</genreform>
-    <subject source="lcsh">Olympics.</subject>
-    <genreform source="aat">Black-and-white photographs.</genreform>
-    <genreform source="aat">Cigarette cards.</genreform>
-    <persname source="local">Sullivan, James P., 1885-1965</persname>
-    <corpname source="local">Irish American Athletic Club</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_ref2" level="series"><did><unittitle>Inventory
-</unittitle></did><c id="aspace_ref3" level="item"><did><unittitle>Newspaper Clipping:  4:22 Sullivan "One Record by Which Sullivan is Alone"</unittitle><unitdate datechar="creation">circa 1905</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_e6df2bbbb4501abe4cbc3fc829bc1d9c" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_c2f2c47c04403524ea497abe205eef4c" parent="aspace_e6df2bbbb4501abe4cbc3fc829bc1d9c" type="Item">aia048_001</container></did></c><c id="aspace_ref4" level="item"><did><unittitle>Photograph: J.P. Sullivan, Track Captain  13th Artillery AC</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_395f7c4600c1312ebbf0a34de9aa9a7f" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_c614ae3f3d7eba6fa04ec14f65559a35" parent="aspace_395f7c4600c1312ebbf0a34de9aa9a7f" type="Item">aia048_002</container></did></c><c id="aspace_ref5" level="item"><did><unittitle>1900 Census - 12th Census of the United States, New York County: Page with Sullivan Family information</unittitle><unitdate datechar="creation">1900</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_60123e8448e8c6c9bf8bf0da36e79e10" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_226268d8af8ba03fb596ae1f3aedda20" parent="aspace_60123e8448e8c6c9bf8bf0da36e79e10" type="Item">aia048_003</container></did></c><c id="aspace_ref6" level="item"><did><unittitle>Newspaper clipping: "Finish of the One Mile Run J.P. Sullivan 1st, Harvey W. Cohn 2nd</unittitle><unitdate datechar="creation">1905</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_270a2620308b18244e65128281238758" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_9d4ff40bfa40f30ecdaf637f33f9dfe3" parent="aspace_270a2620308b18244e65128281238758" type="Item">aia048_004</container></did></c><c id="aspace_ref7" level="item"><did><unittitle>Letter from American Committee of the Olympian Games at Athens Greece regarding 1906 games, 
-informing Sullivan he was chosen unanimously to represent the United States; first page only </unittitle><unitdate datechar="creation">Mar 8 1906</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_fa967a3f61919486cfcb77c79043b248" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_cb8fbd7b81233734ef002b5d23c29b7a" parent="aspace_fa967a3f61919486cfcb77c79043b248" type="Item">aia048_005</container></did></c><c id="aspace_ref8" level="item"><did><unittitle>1910 Census - 13th Census of the United States, Kings County, Sullivan Family information, 1 page</unittitle><unitdate datechar="creation">1910</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_d86ae498aa14d38dc0244be46515090e" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_62fc3bf62f3ed45e276cb39663064576" parent="aspace_d86ae498aa14d38dc0244be46515090e" type="Item">aia048_006</container></did></c><c id="aspace_ref9" level="item"><did><unittitle>Photograph: James Sullivan at Acroplis, Athens with two unidentified men</unittitle><unitdate datechar="creation">1906</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_2220acf456d24cd8b808318d3db06e70" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_50bedd6df5b6518b10b82fd801ae62a7" parent="aspace_2220acf456d24cd8b808318d3db06e70" type="Item">aia048_007</container></did></c><c id="aspace_ref10" level="item"><did><unittitle>Photograph: James Sullivan at the Porch of the Maidens, the Acroplis, Athens</unittitle><unitdate datechar="creation">1906</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_360e61e3a482798c79580ca79c3f94a2" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_a7545496d11ab58eadf2422794c61921" parent="aspace_360e61e3a482798c79580ca79c3f94a2" type="Item">aia048_008</container></did></c><c id="aspace_ref11" level="item"><did><unittitle>Newpaper clippings: The [Globe and Commercial] Advertiser, New York "Olympic Stars Peform To-Day at Celtic Park"</unittitle><unitdate datechar="creation">Sep 7, 1908</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_1526997c77ae77b24689a3f4bfa4a21c" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_712cb48f834f0114f69fe29165f276cd" parent="aspace_1526997c77ae77b24689a3f4bfa4a21c" type="Item">aia048_009</container></did></c><c id="aspace_ref12" level="item"><did><unittitle>Cartoon "Uncle to the Fore!" by J. Campbell Cory, unidentified publication</unittitle><unitdate datechar="creation">Apr 27, 1906 </unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_a76d689266370609c0b9e63759c10284" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_6c2de4c66b1ef74d0c51726c4f4017f3" parent="aspace_a76d689266370609c0b9e63759c10284" type="Item">aia048_010</container></did></c><c id="aspace_ref13" level="item"><did><unittitle>Cigarette Card: James P. Sullivan, color; Mecca Cigarettes Champion Athlete and Prize Fighter Series</unittitle><unitdate datechar="creation">circa 1911</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_3ab13d37912323612c998e8536043e15" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_9116449248a29f2fe7adf4806f3f6dce" parent="aspace_3ab13d37912323612c998e8536043e15" type="Item">aia048_011</container></did></c><c id="aspace_ref14" level="item"><did><unittitle>Cigarette Card Verso: James P. Sullivan, color; Mecca Cigarettes Champion Athlete and Prize Fighter
- Series; contains biographical and competition information on Sullivan</unittitle><unitdate datechar="creation">circa 1911</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_1362522619027f8a57081f610acfe991" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_80802fd22fa2adf55ac53ba59521f153" parent="aspace_1362522619027f8a57081f610acfe991" type="Item">aia048_012</container></did></c><c id="aspace_ref15" level="item"><did><unittitle>Newpaper clipping: "Irish Heroes of Olympia Honored at Great Feast", unidentified source</unittitle><unitdate datechar="creation">Sep 22, 1908</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_b4a79c64a6c9581513a3035d7efaad03" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_5a44c829b3f58badbf272710e336f113" parent="aspace_b4a79c64a6c9581513a3035d7efaad03" type="Item">aia048_013</container></did></c><c id="aspace_ref16" level="item"><did><unittitle>Military Honorable Discharge document from the State of New York to James Sullivan</unittitle><unitdate datechar="creation">Nov 25, 1910</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_2c87cdd7d8d01fc543ee10ac6b866215" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_d14612b1054a2f7671611c7e02106d00" parent="aspace_2c87cdd7d8d01fc543ee10ac6b866215" type="Item">aia048_014</container></did></c><c id="aspace_ref17" level="item"><did><unittitle>Newspaper Clipping: "Marathon Winner Gets Big Welcome"</unittitle><unitdate datechar="creation">Aug 20, 1908</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_0783d983e91f4382825f00e495b6f73c" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_d58089f958a717d864dad73ece332825" parent="aspace_0783d983e91f4382825f00e495b6f73c" type="Item">aia048_015</container></did></c><c id="aspace_ref18" level="item"><did><unittitle>Irish American Athletic Club Document: "One Year's Record of the Irish-American Athletic Club"</unittitle><unitdate datechar="creation">circa 1905</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_67c818bc910555d02f6a630cf708ef35" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_7d551057b98e25cfe19e0f24495dbb8f" parent="aspace_67c818bc910555d02f6a630cf708ef35" type="Item">aia048_015</container></did></c><c id="aspace_ref19" level="item"><did><unittitle>Irish American Atheltic Club Document: "Winners of National Championship at St. Louis Exposition"</unittitle><unitdate datechar="creation">circa 1905</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_b0ab84ed2e744f6f57fdd7bcf6490ab9" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_0578656cb00d02b2380648d29fcf8904" parent="aspace_b0ab84ed2e744f6f57fdd7bcf6490ab9" type="Item">aia048_016</container></did></c><c id="aspace_ref20" level="item"><did><unittitle>Irish American Athletic Club Photograph: Group</unittitle><unitdate datechar="creation">circa 1906</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_5a296e28a63816900124b378c92da622" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_27586ea4360e4738dac38ddef7902ae9" parent="aspace_5a296e28a63816900124b378c92da622" type="Item">aia048_017</container></did></c><c id="aspace_ref21" level="item"><did><unittitle>Irish American Athletic Club Membership Card</unittitle><unitdate datechar="creation">1905</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_0a44d46cee2ca782e4cbc3c8aa59b298" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_5830dcf61f78ee7113d82f7fd0650afc" parent="aspace_0a44d46cee2ca782e4cbc3c8aa59b298" type="Item">aia048_019</container></did></c><c id="aspace_ref22" level="item"><did><unittitle>Irish American Athletic Club Membership Card</unittitle><unitdate datechar="creation">1906</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_b7c17b137bc7acdee051e85b29cffdcf" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_aab5cc1f31074a4070932110c15b5c5a" parent="aspace_b7c17b137bc7acdee051e85b29cffdcf" type="Item">aia048_020</container></did></c><c id="aspace_ref23" level="item"><did><unittitle>Irish American Athletic Club Membership Card: Verso</unittitle><unitdate datechar="creation">1906</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_1a9a725e7d6e86e267a8b5988802fe6f" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_87ec4f2539320e54f2aff010e26cad67" parent="aspace_1a9a725e7d6e86e267a8b5988802fe6f" type="Item">aia048_021</container></did></c><c id="aspace_ref24" level="item"><did><unittitle>Irish American Athletic Club Membership Card</unittitle><unitdate datechar="creation">1909</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_25b0b1ad8572fcfa3fcb3e75ba0d2cb7" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_d215f3f7f3c440ce08d8d0f4f84146d4" parent="aspace_25b0b1ad8572fcfa3fcb3e75ba0d2cb7" type="Item">aia048_022</container></did></c><c id="aspace_ref25" level="item"><did><unittitle>Newspaper Clipping: "Irish-Americans Lead World in Athletic Skills"; unidentified source, part 1</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_08ef15afdcb182fb8409b93b9f8ed6a0" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_f60abc8f5b697ca96a5ce9dee4f6e026" parent="aspace_08ef15afdcb182fb8409b93b9f8ed6a0" type="Item">aia048_023</container></did></c><c id="aspace_ref26" level="item"><did><unittitle>Newspaper Clipping: "Irish-Americans Lead World in Athletic Skills"; unidentified source, part 2</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_64ba12769fe4f27e3ff91f4939c2de70" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_133e198446f0cf3f36dfe8de78ab7eaa" parent="aspace_64ba12769fe4f27e3ff91f4939c2de70" type="Item">aia048_024</container></did></c><c id="aspace_ref27" level="item"><did><unittitle>Photograph: J.P. Sullivan</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_1c38cb89b4600a3bd781c2ffb7786f27" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_1700cfd710d42639a525a27856f27eb9" parent="aspace_1c38cb89b4600a3bd781c2ffb7786f27" type="Item">aia048_025</container></did></c><c id="aspace_ref28" level="item"><did><unittitle>Letter: from Meyer to Sullivan, page 1</unittitle><unitdate datechar="creation">1908</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_510a0983879ed899d80edc87d8a9be82" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_3ea43216cfb669974a36811302441755" parent="aspace_510a0983879ed899d80edc87d8a9be82" type="Item">aia048_026</container></did></c><c id="aspace_ref29" level="item"><did><unittitle>Letter: from Meyer to Sullivan, page 2</unittitle><unitdate datechar="creation">1908</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_04f4805bfcbd260696e09def625ffc3b" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_0a91fc287c2d1bcb06a399c4ca490bb3" parent="aspace_04f4805bfcbd260696e09def625ffc3b" type="Item">aia048_027</container></did></c><c id="aspace_ref30" level="item"><did><unittitle>Letter: from Meyer to Sullivan, page 2 (additional image)</unittitle><unitdate datechar="creation">1908</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_77f8754a89adab316fd2bfd07e922daa" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_52766d85ddd81cbae0ebabc6c89ce0a4" parent="aspace_77f8754a89adab316fd2bfd07e922daa" type="Item">aia048_028</container></did></c><c id="aspace_ref31" level="item"><did><unittitle>Newspaper clipping, fragment: Story about the IACC</unittitle><unitdate datechar="creation">1908</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_1d5eb254b28c6bd79dc288c53bac9ab1" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_7e52d3e26f4103a882c09f7cd5f0fd4c" parent="aspace_1d5eb254b28c6bd79dc288c53bac9ab1" type="Item">aia048_029</container></did></c><c id="aspace_ref32" level="item"><did><unittitle>Newspaper clipping "Will Decorate City in Honor of Athletes"</unittitle><unitdate datechar="creation">1908</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_134e44a6562235759261f4538af6319a" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_ad3f8f41b27d3c6e8e054e40d607c976" parent="aspace_134e44a6562235759261f4538af6319a" type="Item">aia048_030</container></did></c><c id="aspace_ref33" level="item"><did><unittitle>Newspaper clipping: <emph render="italic">New York American</emph> "Irish Club Defeats the New York A.C., 87 to 48"</unittitle><unitdate datechar="creation">Aug 27, 1907</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_0185d4a0f545c2cd89f4003e358a33ca" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_5ab9215e459add6527507f015466c2be" parent="aspace_0185d4a0f545c2cd89f4003e358a33ca" type="Item">aia048_031</container></did></c><c id="aspace_ref34" level="item"><did><unittitle>Newspaper clipping: <emph render="italic">New York Herald</emph> "Yankee Athletes Triumph Abr[oad]"</unittitle><unitdate datechar="creation">Jul 14, 1908</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_1a650c45f0f42187faa541596a1990f8" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_6beea66cf9d66d3d75b9280a39713567" parent="aspace_1a650c45f0f42187faa541596a1990f8" type="Item">aia048_032</container></did></c><c id="aspace_ref35" level="item"><did><unittitle>Newspaper clipping: <emph render="italic">New York Press</emph> "Training-Camp Life of the Men Who Battle for the Winged Fist"
-page 1</unittitle><unitdate datechar="creation">Jul 14, 1907</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_5209b8fc400ebbfa3792e621c5abe570" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_02555e034a129a33350ac704114fa55f" parent="aspace_5209b8fc400ebbfa3792e621c5abe570" type="Item">aia048_033</container></did></c><c id="aspace_ref36" level="item"><did><unittitle>Newspaper clipping: <emph render="italic">New York Press</emph> "Training-Camp Life of the Men Who Battle for the Winged Fist"
-page 2</unittitle><unitdate datechar="creation">Jul 14, 1907</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_89b04e1e09a0f7b486f333898d947aa9" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_cdf5c5394c129365bda0b1149cd02fb7" parent="aspace_89b04e1e09a0f7b486f333898d947aa9" type="Item">aia048_034</container></did></c><c id="aspace_ref37" level="item"><did><unittitle>Picture, New York [City] Parade "The Athletes Come Down Fifth Avenue in Automobiles Preceded by the 
-Marathon Trophy on a Float"</unittitle><unitdate datechar="creation">1908</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_aa0fe204b19a41c9f29c2b4150aba612" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_a6544a1386bf9dca6bee00bfb4d9493f" parent="aspace_aa0fe204b19a41c9f29c2b4150aba612" type="Item">aia048_035</container></did></c><c id="aspace_ref38" level="item"><did><unittitle>Newspaper clipping, fragment: <emph render="italic">New York Times</emph> "Pay Final Tribute to Victors"
-</unittitle><unitdate datechar="creation">Sep 22, 1908</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_e388c04209c91a2be6d0721b1c30cc08" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_2c009add51aee0775ab8397b17785363" parent="aspace_e388c04209c91a2be6d0721b1c30cc08" type="Item">aia048_036</container></did></c><c id="aspace_ref39" level="item"><did><unittitle>Certificate Olympic Games 1908: James Sullivan placed 2nd in 1500 meter trials</unittitle><unitdate datechar="creation">1908</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_0eb2db0abc95a73d392ea1d34cd81002" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_574e995b10f85ffc90e8866740f726fb" parent="aspace_0eb2db0abc95a73d392ea1d34cd81002" type="Item">aia048_037</container></did></c><c id="aspace_ref40" level="item"><did><unittitle>Newspaper clipping: <emph render="italic">New York Press</emph> "Crack Distance Runners of Irish-American A.C."; depicts Harvey W. Cohn and James P. Sullivan</unittitle><unitdate datechar="creation">Jan 7, 1906</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_c355ac1eac365b339204e62897843377" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_8ffed57d50e8cc623bdbe6ae34813325" parent="aspace_c355ac1eac365b339204e62897843377" type="Item">aia048_038</container></did></c><c id="aspace_ref41" level="item"><did><unittitle>Letter, Department of Correction Commissioner, John Coggey to Egerton L. Winthrop, Jr., 
-President Board of Education offer to give James Sullivan a raise</unittitle><unitdate datechar="creation">Jun 29, 1907</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_4426e0b75400cf15a9c29719cc27ca5d" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_2062194c27d729756515fd40e05abea3" parent="aspace_4426e0b75400cf15a9c29719cc27ca5d" type="Item">aia048_039</container></did></c><c id="aspace_ref42" level="item"><did><unittitle>[Minutes?] Department of Education noting James Sullivans request of leave from his position to participate in the 1906 Olympics (granted)</unittitle><unitdate datechar="creation">Mar 26, 1906</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_3173010ca8a293f0beff3e00488c1925" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_bd093c8b7c869e9e1b3c3c06f880b3bd" parent="aspace_3173010ca8a293f0beff3e00488c1925" type="Item">aia048_040</container></did></c><c id="aspace_ref43" level="item"><did><unittitle>Correspondence: Paul Thompason, Manager, <emph render="italic">The Article Synidcate</emph> to J.P. Sullivan, Esq. Irish-Americna Athletic Club requesting photograph of Sullivan </unittitle><unitdate datechar="creation">Jun 9, 1908</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_ce9ee278355d8a0fb39069692eadcfa8" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_9884c56deffa1f5bd9ba8d811b549cc7" parent="aspace_ce9ee278355d8a0fb39069692eadcfa8" type="Item">aia048_041</container></did></c><c id="aspace_ref44" level="item"><did><unittitle>Article: <emph render="italic">Running Time</emph>s "4:22 Jim" page 1 of 3</unittitle><unitdate datechar="creation">Dec 1985</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_96fb43de9feb178216e4f03c93dc6a0d" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_c8dfe856617a3e658c711554c2c27ab6" parent="aspace_96fb43de9feb178216e4f03c93dc6a0d" type="Item">aia048_042</container></did></c><c id="aspace_ref45" level="item"><did><unittitle>Article: <emph render="italic">Running Time</emph>s "4:22 Jim" page 2 of 3</unittitle><unitdate datechar="creation">Dec 1985</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_688504072b884142377e9c77b34691a1" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_bd710dd254b552eb0486fb19d8d10928" parent="aspace_688504072b884142377e9c77b34691a1" type="Item">aia048_043</container></did></c><c id="aspace_ref46" level="item"><did><unittitle>Article: <emph render="italic">Running Times</emph> "4:22 Jim" page 3 of 3</unittitle><unitdate datechar="creation">Dec 1985</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_a03ccf6fa7132b6ce111ce67bec131ce" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_92e55f28ff4b0043c97827dff6bd6cf0" parent="aspace_a03ccf6fa7132b6ce111ce67bec131ce" type="Item">aia048_044</container></did></c><c id="aspace_ref47" level="item"><did><unittitle>Picture: Sagamore Hill 1908 with headline "The Athletes Coming Down Fifth Avenue...."</unittitle><unitdate datechar="creation">1908</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_00d53d0ce138683e651234a1b4d52933" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_d7d60a2cfea1f24c5aff9bae788cd455" parent="aspace_00d53d0ce138683e651234a1b4d52933" type="Item">aia048_045</container></did></c><c id="aspace_ref48" level="item"><did><unittitle>Newspaper clipping, fragment: Sullivan interview 1958 "U.S. First No. 1 Miler Still Keeps in Shape" </unittitle><unitdate datechar="creation">1958</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_a7d6c842c7da39ada39ce9b8c05feded" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_142f754b202ffaac30e31b21ba6f1726" parent="aspace_a7d6c842c7da39ada39ce9b8c05feded" type="Item">aia048_046</container></did></c><c id="aspace_ref49" level="item"><did><unittitle>Article and picture of Sullivan running "Athletes who Race at 22nd Regiment Armory To-night" 
-Pictured: Cohen, Banderman, Sullivan and Freeman</unittitle><unitdate datechar="creation">circa 1905</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_5135d8d196d58c52670fe63ba356f339" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_71db85c7d7b63f8bd75fe5952be997fb" parent="aspace_5135d8d196d58c52670fe63ba356f339" type="Item">aia048_047</container></did></c><c id="aspace_ref50" level="item"><did><unittitle>Photograph: Sullivan in a race </unittitle><unitdate datechar="creation">circa 1908</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_4fce8757cecad3cdab283415a5688ddd" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_861f8c267e12f8fa12d0db0ae3210481" parent="aspace_4fce8757cecad3cdab283415a5688ddd" type="Item">aia048_048</container></did></c><c id="aspace_ref69" level="item"><did><unittitle>Newspaper clipping: <emph render="italic">The Globe and Commercial Advertiser</emph>, New York "Olympic Stars Perform To-Day at Celtic Park" </unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_c857753c90754f52e0d761ba259e6634" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_cf310471fe3c1495d249c2ecbc18bcd8" parent="aspace_c857753c90754f52e0d761ba259e6634" type="Item">aia048_049</container></did></c><c id="aspace_ref52" level="item"><did><unittitle>Page from <emph render="italic">The Graphi</emph>c "American Triumps at the Olympic Games" p. 1</unittitle><unitdate datechar="creation">Jul 25, 1908</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_6018cf82ccbe5a1ac743f0a9a09fe8d9" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_9f9ec5c7b67654b52e45fc96d77959c1" parent="aspace_6018cf82ccbe5a1ac743f0a9a09fe8d9" type="Item">aia048_050</container></did></c><c id="aspace_ref53" level="item"><did><unittitle>Page from <emph render="italic">The Graphic</emph> "American Triumps at the Olympic Games" p. 2</unittitle><unitdate datechar="creation">Jul 25, 1909</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_83a75fbc967bdd8ac3e1cbf8c74c54dc" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_cc3d2980625e683ea2ef30988fb5eb14" parent="aspace_83a75fbc967bdd8ac3e1cbf8c74c54dc" type="Item">aia048_051</container></did></c><c id="aspace_ref54" level="item"><did><unittitle>Newspaper clipping: <emph render="italic">The Sun</emph> "Col. Roosevelt as He Appeared When He Greeted Olympic Team"</unittitle><unitdate datechar="creation">Sep 1, 1908</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_8250a0d93f3802cad7fda5a009a3b421" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_cb6ae57c3092f1cf3e70110370648e4d" parent="aspace_8250a0d93f3802cad7fda5a009a3b421" type="Item">aia048_052</container></did></c><c id="aspace_ref55" level="item"><did><unittitle>Newspaper clipping <emph render="italic">The World</emph> "Olympic Team Chosen, They're World Beaters" p. 1</unittitle><unitdate datechar="creation">Jun 9, 1908</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_73a008b0d6fd9e691df26ff13cdd522a" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_4c5442f933f13ed364706a9df9dfdd6c" parent="aspace_73a008b0d6fd9e691df26ff13cdd522a" type="Item">aia048_053</container></did></c><c id="aspace_ref56" level="item"><did><unittitle>Newspaper clipping <emph render="italic">The World</emph> "Olympic Team Chosen, They're World Beaters" p. 2</unittitle><unitdate datechar="creation">Jun 9, 1908</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_4cf8ad3fde87ad821e72a8171ba6a39b" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_90aa18981034485cf08453b7703b417e" parent="aspace_4cf8ad3fde87ad821e72a8171ba6a39b" type="Item">aia048_054</container></did></c><c id="aspace_ref57" level="item"><did><unittitle>Newspaper clipping fragment, <emph render="italic">The World</emph>, Pictures of Melvin Shephard and Jas. P. Sullivan</unittitle><unitdate datechar="creation">Jan 25, 1912</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_4f5d7f700f3a1f8e5af5b45c80bd9b5b" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_a507afa60e782c999a331c06a4aa4495" parent="aspace_4f5d7f700f3a1f8e5af5b45c80bd9b5b" type="Item">aia048_055</container></did></c><c id="aspace_ref58" level="item"><did><unittitle>Photograph: Winning Mile</unittitle><unitdate datechar="creation">circa 1905</unitdate><container altrender="Manuscript box - Letter - Half" id="aspace_5daa385ff64032c98f483f3c34f095ff" label="Mixed Materials [31142062765261]" type="Box">1</container><container id="aspace_df45db5eb43e47b94be6da67b824d936" parent="aspace_5daa385ff64032c98f483f3c34f095ff" type="Item">aia048_056</container></did></c></c></dsc>
-</archdesc>
+E-mail: tamiment.wagner@nyu.edu <lb/></p>
+    </userestrict>
+    <prefercite id="aspace_40f3eecdc70cbee128153687f800f692">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Archives of Irish America, Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <scopecontent id="aspace_60620776fd9a6edf51ad0dd0534a9f02">
+      <head>Scope and Content Note</head>
+      <p>The collection consists of items from the Sullivan family scrapbook.  Included are photographs, newspaper clippings, correspondence and membership cards for the Irish-American Athletic Club.  Also part of this collection is the Mecca Cigarette card with Sullivan's image as part of the Mecca Cigarette Champion Athlete and Prize Fighter Series.  </p>
+      <p>Images are available for viewing in a Flikr exhibit at http://www.flickr.com/photos/27630285@N07/3240069844/in/set-72157613167342984/.  A copy of the images is also available in the Archives on a Cd-Rom.</p>
+    </scopecontent>
+    <bioghist id="aspace_5208e3a8db6e7e57ab2d482e7d50f9f8">
+      <head>Historical/Biographical Note</head>
+      <p>James Paul [sometimes listed as Patrick] Sullivan was the third of six surviving children born to Irish immigrants Jeremiah Sullivan, a grocer, and his wife Elizabeth Flynn, who arrived in the United States in 1870 and 1875 respectively. Young J.P., or Jim, was born on February 28, 1885 and spent his early years in Manhattan where he attended P.S. 14 on East 27th Street and joined the track team of the St. Bartholomew Boys Club and, later, of the 22nd Regiment. By that time, six foot tall Jim could run a mile in 4:50. In September 1905 at the New York Metro Senior American Athletic Union Championships, Sullivan ran the mile in 4:22 creating a new American record. After impressive showings at the Canadian Championships and the New York Athletic Club Games that same month, he became known in the press as "4:22 Jim" and by March 1906 had been selected for the American Olympic team.</p>
+      <p>Athens, Greece was the site for a special international athletic meeting known as the Intercalated Games scheduled between the 1904 and 1908 Olympic years. The American Olympic team sailed from New York City on the S.S. Barbarosa on 31 March 1906 with James P. Sullivan aboard, on leave from his position as a junior clerk with the Department of Education's Bureau of Buildings.</p>
+      <p>In Athens, Sullivan competed in the 800 meter race but did not qualify for the final. He also ran in the 1500 meter race, finishing fifth.  His second place win at the Olympic Trials in Philadelphia in June 1908 made him one of thirteen members of the Irish American Athletic Club selected to represent the United States at the 1908 Olympic Games in London.</p>
+      <p>But, once again, Jim Sullivan did not bring home an Olympic medal. Nevertheless, he was part of an historic track-and-field team competing under the American flag – IAAC teammates Martin Sheridan, John J. Hayes, and Mel Sheppard, for example, brought home the gold in discus throw, Greek discus, the marathon, and the 1500 meter respectively – a team that was fêted upon their return to New York with a parade down Fifth Avenue and a reception at Sagamore Hill on Long Island with President Theodore Roosevelt.</p>
+      <p>Jim Sullivan continued running competitively until 1912, despite surgery for a tendon injury and times for the mile – like 4:24 or 4:29 – that never beat his personal best. In 1910 and 1911 his image was selected for two series of tobacco cards (Hassan and Mecca) featuring Champion Athletes and Prizefighters.</p>
+      <p>He married Grace Burke in 1913 – the daughter of Irish immigrants, Richard (a broker at the Custom House) and Mary – and they raised two children, Richard and Elise, on his job as a clerk for the Kings County Court, a position he held until 1958.  James P. Sullivan died on 9 April 1965 at age 79.</p>
+    </bioghist>
+    <controlaccess>
+      <genreform source="aat">Digital images.</genreform>
+      <subject source="lcsh">Irish Americans -- Societies, etc.</subject>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Articles.</genreform>
+      <subject source="lcsh">Olympics.</subject>
+      <genreform source="aat">Black-and-white photographs.</genreform>
+      <genreform source="aat">Cigarette cards.</genreform>
+      <persname source="local">Sullivan, James P., 1885-1965</persname>
+      <corpname source="local">Irish American Athletic Club</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref2" level="series">
+        <did>
+          <unittitle>Inventory
+</unittitle>
+        </did>
+        <c id="aspace_ref3" level="item">
+          <did>
+            <unittitle>Newspaper Clipping:  4:22 Sullivan "One Record by Which Sullivan is Alone"</unittitle>
+            <unitdate datechar="creation">circa 1905</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_e6df2bbbb4501abe4cbc3fc829bc1d9c" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_c2f2c47c04403524ea497abe205eef4c" parent="aspace_e6df2bbbb4501abe4cbc3fc829bc1d9c" type="Item">aia048_001</container>
+          </did>
+        </c>
+        <c id="aspace_ref4" level="item">
+          <did>
+            <unittitle>Photograph: J.P. Sullivan, Track Captain  13th Artillery AC</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_395f7c4600c1312ebbf0a34de9aa9a7f" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_c614ae3f3d7eba6fa04ec14f65559a35" parent="aspace_395f7c4600c1312ebbf0a34de9aa9a7f" type="Item">aia048_002</container>
+          </did>
+        </c>
+        <c id="aspace_ref5" level="item">
+          <did>
+            <unittitle>1900 Census - 12th Census of the United States, New York County: Page with Sullivan Family information</unittitle>
+            <unitdate datechar="creation">1900</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_60123e8448e8c6c9bf8bf0da36e79e10" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_226268d8af8ba03fb596ae1f3aedda20" parent="aspace_60123e8448e8c6c9bf8bf0da36e79e10" type="Item">aia048_003</container>
+          </did>
+        </c>
+        <c id="aspace_ref6" level="item">
+          <did>
+            <unittitle>Newspaper clipping: "Finish of the One Mile Run J.P. Sullivan 1st, Harvey W. Cohn 2nd</unittitle>
+            <unitdate datechar="creation">1905</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_270a2620308b18244e65128281238758" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_9d4ff40bfa40f30ecdaf637f33f9dfe3" parent="aspace_270a2620308b18244e65128281238758" type="Item">aia048_004</container>
+          </did>
+        </c>
+        <c id="aspace_ref7" level="item">
+          <did>
+            <unittitle>Letter from American Committee of the Olympian Games at Athens Greece regarding 1906 games, 
+informing Sullivan he was chosen unanimously to represent the United States; first page only </unittitle>
+            <unitdate datechar="creation">Mar 8 1906</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_fa967a3f61919486cfcb77c79043b248" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_cb8fbd7b81233734ef002b5d23c29b7a" parent="aspace_fa967a3f61919486cfcb77c79043b248" type="Item">aia048_005</container>
+          </did>
+        </c>
+        <c id="aspace_ref8" level="item">
+          <did>
+            <unittitle>1910 Census - 13th Census of the United States, Kings County, Sullivan Family information, 1 page</unittitle>
+            <unitdate datechar="creation">1910</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_d86ae498aa14d38dc0244be46515090e" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_62fc3bf62f3ed45e276cb39663064576" parent="aspace_d86ae498aa14d38dc0244be46515090e" type="Item">aia048_006</container>
+          </did>
+        </c>
+        <c id="aspace_ref9" level="item">
+          <did>
+            <unittitle>Photograph: James Sullivan at Acroplis, Athens with two unidentified men</unittitle>
+            <unitdate datechar="creation">1906</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_2220acf456d24cd8b808318d3db06e70" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_50bedd6df5b6518b10b82fd801ae62a7" parent="aspace_2220acf456d24cd8b808318d3db06e70" type="Item">aia048_007</container>
+          </did>
+        </c>
+        <c id="aspace_ref10" level="item">
+          <did>
+            <unittitle>Photograph: James Sullivan at the Porch of the Maidens, the Acroplis, Athens</unittitle>
+            <unitdate datechar="creation">1906</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_360e61e3a482798c79580ca79c3f94a2" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_a7545496d11ab58eadf2422794c61921" parent="aspace_360e61e3a482798c79580ca79c3f94a2" type="Item">aia048_008</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="item">
+          <did>
+            <unittitle>Newpaper clippings: The [Globe and Commercial] Advertiser, New York "Olympic Stars Peform To-Day at Celtic Park"</unittitle>
+            <unitdate datechar="creation">Sep 7, 1908</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_1526997c77ae77b24689a3f4bfa4a21c" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_712cb48f834f0114f69fe29165f276cd" parent="aspace_1526997c77ae77b24689a3f4bfa4a21c" type="Item">aia048_009</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="item">
+          <did>
+            <unittitle>Cartoon "Uncle to the Fore!" by J. Campbell Cory, unidentified publication</unittitle>
+            <unitdate datechar="creation">Apr 27, 1906 </unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_a76d689266370609c0b9e63759c10284" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_6c2de4c66b1ef74d0c51726c4f4017f3" parent="aspace_a76d689266370609c0b9e63759c10284" type="Item">aia048_010</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="item">
+          <did>
+            <unittitle>Cigarette Card: James P. Sullivan, color; Mecca Cigarettes Champion Athlete and Prize Fighter Series</unittitle>
+            <unitdate datechar="creation">circa 1911</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_3ab13d37912323612c998e8536043e15" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_9116449248a29f2fe7adf4806f3f6dce" parent="aspace_3ab13d37912323612c998e8536043e15" type="Item">aia048_011</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="item">
+          <did>
+            <unittitle>Cigarette Card Verso: James P. Sullivan, color; Mecca Cigarettes Champion Athlete and Prize Fighter
+ Series; contains biographical and competition information on Sullivan</unittitle>
+            <unitdate datechar="creation">circa 1911</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_1362522619027f8a57081f610acfe991" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_80802fd22fa2adf55ac53ba59521f153" parent="aspace_1362522619027f8a57081f610acfe991" type="Item">aia048_012</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="item">
+          <did>
+            <unittitle>Newpaper clipping: "Irish Heroes of Olympia Honored at Great Feast", unidentified source</unittitle>
+            <unitdate datechar="creation">Sep 22, 1908</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_b4a79c64a6c9581513a3035d7efaad03" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_5a44c829b3f58badbf272710e336f113" parent="aspace_b4a79c64a6c9581513a3035d7efaad03" type="Item">aia048_013</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="item">
+          <did>
+            <unittitle>Military Honorable Discharge document from the State of New York to James Sullivan</unittitle>
+            <unitdate datechar="creation">Nov 25, 1910</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_2c87cdd7d8d01fc543ee10ac6b866215" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_d14612b1054a2f7671611c7e02106d00" parent="aspace_2c87cdd7d8d01fc543ee10ac6b866215" type="Item">aia048_014</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="item">
+          <did>
+            <unittitle>Newspaper Clipping: "Marathon Winner Gets Big Welcome"</unittitle>
+            <unitdate datechar="creation">Aug 20, 1908</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_0783d983e91f4382825f00e495b6f73c" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_d58089f958a717d864dad73ece332825" parent="aspace_0783d983e91f4382825f00e495b6f73c" type="Item">aia048_015</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="item">
+          <did>
+            <unittitle>Irish American Athletic Club Document: "One Year's Record of the Irish-American Athletic Club"</unittitle>
+            <unitdate datechar="creation">circa 1905</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_67c818bc910555d02f6a630cf708ef35" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_7d551057b98e25cfe19e0f24495dbb8f" parent="aspace_67c818bc910555d02f6a630cf708ef35" type="Item">aia048_015</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="item">
+          <did>
+            <unittitle>Irish American Atheltic Club Document: "Winners of National Championship at St. Louis Exposition"</unittitle>
+            <unitdate datechar="creation">circa 1905</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_b0ab84ed2e744f6f57fdd7bcf6490ab9" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_0578656cb00d02b2380648d29fcf8904" parent="aspace_b0ab84ed2e744f6f57fdd7bcf6490ab9" type="Item">aia048_016</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="item">
+          <did>
+            <unittitle>Irish American Athletic Club Photograph: Group</unittitle>
+            <unitdate datechar="creation">circa 1906</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_5a296e28a63816900124b378c92da622" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_27586ea4360e4738dac38ddef7902ae9" parent="aspace_5a296e28a63816900124b378c92da622" type="Item">aia048_017</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="item">
+          <did>
+            <unittitle>Irish American Athletic Club Membership Card</unittitle>
+            <unitdate datechar="creation">1905</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_0a44d46cee2ca782e4cbc3c8aa59b298" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_5830dcf61f78ee7113d82f7fd0650afc" parent="aspace_0a44d46cee2ca782e4cbc3c8aa59b298" type="Item">aia048_019</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="item">
+          <did>
+            <unittitle>Irish American Athletic Club Membership Card</unittitle>
+            <unitdate datechar="creation">1906</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_b7c17b137bc7acdee051e85b29cffdcf" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_aab5cc1f31074a4070932110c15b5c5a" parent="aspace_b7c17b137bc7acdee051e85b29cffdcf" type="Item">aia048_020</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="item">
+          <did>
+            <unittitle>Irish American Athletic Club Membership Card: Verso</unittitle>
+            <unitdate datechar="creation">1906</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_1a9a725e7d6e86e267a8b5988802fe6f" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_87ec4f2539320e54f2aff010e26cad67" parent="aspace_1a9a725e7d6e86e267a8b5988802fe6f" type="Item">aia048_021</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="item">
+          <did>
+            <unittitle>Irish American Athletic Club Membership Card</unittitle>
+            <unitdate datechar="creation">1909</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_25b0b1ad8572fcfa3fcb3e75ba0d2cb7" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_d215f3f7f3c440ce08d8d0f4f84146d4" parent="aspace_25b0b1ad8572fcfa3fcb3e75ba0d2cb7" type="Item">aia048_022</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="item">
+          <did>
+            <unittitle>Newspaper Clipping: "Irish-Americans Lead World in Athletic Skills"; unidentified source, part 1</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_08ef15afdcb182fb8409b93b9f8ed6a0" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_f60abc8f5b697ca96a5ce9dee4f6e026" parent="aspace_08ef15afdcb182fb8409b93b9f8ed6a0" type="Item">aia048_023</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="item">
+          <did>
+            <unittitle>Newspaper Clipping: "Irish-Americans Lead World in Athletic Skills"; unidentified source, part 2</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_64ba12769fe4f27e3ff91f4939c2de70" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_133e198446f0cf3f36dfe8de78ab7eaa" parent="aspace_64ba12769fe4f27e3ff91f4939c2de70" type="Item">aia048_024</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="item">
+          <did>
+            <unittitle>Photograph: J.P. Sullivan</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_1c38cb89b4600a3bd781c2ffb7786f27" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_1700cfd710d42639a525a27856f27eb9" parent="aspace_1c38cb89b4600a3bd781c2ffb7786f27" type="Item">aia048_025</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="item">
+          <did>
+            <unittitle>Letter: from Meyer to Sullivan, page 1</unittitle>
+            <unitdate datechar="creation">1908</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_510a0983879ed899d80edc87d8a9be82" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_3ea43216cfb669974a36811302441755" parent="aspace_510a0983879ed899d80edc87d8a9be82" type="Item">aia048_026</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="item">
+          <did>
+            <unittitle>Letter: from Meyer to Sullivan, page 2</unittitle>
+            <unitdate datechar="creation">1908</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_04f4805bfcbd260696e09def625ffc3b" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_0a91fc287c2d1bcb06a399c4ca490bb3" parent="aspace_04f4805bfcbd260696e09def625ffc3b" type="Item">aia048_027</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="item">
+          <did>
+            <unittitle>Letter: from Meyer to Sullivan, page 2 (additional image)</unittitle>
+            <unitdate datechar="creation">1908</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_77f8754a89adab316fd2bfd07e922daa" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_52766d85ddd81cbae0ebabc6c89ce0a4" parent="aspace_77f8754a89adab316fd2bfd07e922daa" type="Item">aia048_028</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="item">
+          <did>
+            <unittitle>Newspaper clipping, fragment: Story about the IACC</unittitle>
+            <unitdate datechar="creation">1908</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_1d5eb254b28c6bd79dc288c53bac9ab1" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_7e52d3e26f4103a882c09f7cd5f0fd4c" parent="aspace_1d5eb254b28c6bd79dc288c53bac9ab1" type="Item">aia048_029</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="item">
+          <did>
+            <unittitle>Newspaper clipping "Will Decorate City in Honor of Athletes"</unittitle>
+            <unitdate datechar="creation">1908</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_134e44a6562235759261f4538af6319a" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_ad3f8f41b27d3c6e8e054e40d607c976" parent="aspace_134e44a6562235759261f4538af6319a" type="Item">aia048_030</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="item">
+          <did>
+            <unittitle>Newspaper clipping: <emph render="italic">New York American</emph> "Irish Club Defeats the New York A.C., 87 to 48"</unittitle>
+            <unitdate datechar="creation">Aug 27, 1907</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_0185d4a0f545c2cd89f4003e358a33ca" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_5ab9215e459add6527507f015466c2be" parent="aspace_0185d4a0f545c2cd89f4003e358a33ca" type="Item">aia048_031</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="item">
+          <did>
+            <unittitle>Newspaper clipping: <emph render="italic">New York Herald</emph> "Yankee Athletes Triumph Abr[oad]"</unittitle>
+            <unitdate datechar="creation">Jul 14, 1908</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_1a650c45f0f42187faa541596a1990f8" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_6beea66cf9d66d3d75b9280a39713567" parent="aspace_1a650c45f0f42187faa541596a1990f8" type="Item">aia048_032</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="item">
+          <did>
+            <unittitle>Newspaper clipping: <emph render="italic">New York Press</emph> "Training-Camp Life of the Men Who Battle for the Winged Fist"
+page 1</unittitle>
+            <unitdate datechar="creation">Jul 14, 1907</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_5209b8fc400ebbfa3792e621c5abe570" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_02555e034a129a33350ac704114fa55f" parent="aspace_5209b8fc400ebbfa3792e621c5abe570" type="Item">aia048_033</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="item">
+          <did>
+            <unittitle>Newspaper clipping: <emph render="italic">New York Press</emph> "Training-Camp Life of the Men Who Battle for the Winged Fist"
+page 2</unittitle>
+            <unitdate datechar="creation">Jul 14, 1907</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_89b04e1e09a0f7b486f333898d947aa9" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_cdf5c5394c129365bda0b1149cd02fb7" parent="aspace_89b04e1e09a0f7b486f333898d947aa9" type="Item">aia048_034</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="item">
+          <did>
+            <unittitle>Picture, New York [City] Parade "The Athletes Come Down Fifth Avenue in Automobiles Preceded by the 
+Marathon Trophy on a Float"</unittitle>
+            <unitdate datechar="creation">1908</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_aa0fe204b19a41c9f29c2b4150aba612" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_a6544a1386bf9dca6bee00bfb4d9493f" parent="aspace_aa0fe204b19a41c9f29c2b4150aba612" type="Item">aia048_035</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="item">
+          <did>
+            <unittitle>Newspaper clipping, fragment: <emph render="italic">New York Times</emph> "Pay Final Tribute to Victors"
+</unittitle>
+            <unitdate datechar="creation">Sep 22, 1908</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_e388c04209c91a2be6d0721b1c30cc08" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_2c009add51aee0775ab8397b17785363" parent="aspace_e388c04209c91a2be6d0721b1c30cc08" type="Item">aia048_036</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="item">
+          <did>
+            <unittitle>Certificate Olympic Games 1908: James Sullivan placed 2nd in 1500 meter trials</unittitle>
+            <unitdate datechar="creation">1908</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_0eb2db0abc95a73d392ea1d34cd81002" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_574e995b10f85ffc90e8866740f726fb" parent="aspace_0eb2db0abc95a73d392ea1d34cd81002" type="Item">aia048_037</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="item">
+          <did>
+            <unittitle>Newspaper clipping: <emph render="italic">New York Press</emph> "Crack Distance Runners of Irish-American A.C."; depicts Harvey W. Cohn and James P. Sullivan</unittitle>
+            <unitdate datechar="creation">Jan 7, 1906</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_c355ac1eac365b339204e62897843377" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_8ffed57d50e8cc623bdbe6ae34813325" parent="aspace_c355ac1eac365b339204e62897843377" type="Item">aia048_038</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="item">
+          <did>
+            <unittitle>Letter, Department of Correction Commissioner, John Coggey to Egerton L. Winthrop, Jr., 
+President Board of Education offer to give James Sullivan a raise</unittitle>
+            <unitdate datechar="creation">Jun 29, 1907</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_4426e0b75400cf15a9c29719cc27ca5d" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_2062194c27d729756515fd40e05abea3" parent="aspace_4426e0b75400cf15a9c29719cc27ca5d" type="Item">aia048_039</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="item">
+          <did>
+            <unittitle>[Minutes?] Department of Education noting James Sullivans request of leave from his position to participate in the 1906 Olympics (granted)</unittitle>
+            <unitdate datechar="creation">Mar 26, 1906</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_3173010ca8a293f0beff3e00488c1925" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_bd093c8b7c869e9e1b3c3c06f880b3bd" parent="aspace_3173010ca8a293f0beff3e00488c1925" type="Item">aia048_040</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="item">
+          <did>
+            <unittitle>Correspondence: Paul Thompason, Manager, <emph render="italic">The Article Synidcate</emph> to J.P. Sullivan, Esq. Irish-Americna Athletic Club requesting photograph of Sullivan </unittitle>
+            <unitdate datechar="creation">Jun 9, 1908</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_ce9ee278355d8a0fb39069692eadcfa8" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_9884c56deffa1f5bd9ba8d811b549cc7" parent="aspace_ce9ee278355d8a0fb39069692eadcfa8" type="Item">aia048_041</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="item">
+          <did>
+            <unittitle>Article: <emph render="italic">Running Time</emph>s "4:22 Jim" page 1 of 3</unittitle>
+            <unitdate datechar="creation">Dec 1985</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_96fb43de9feb178216e4f03c93dc6a0d" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_c8dfe856617a3e658c711554c2c27ab6" parent="aspace_96fb43de9feb178216e4f03c93dc6a0d" type="Item">aia048_042</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="item">
+          <did>
+            <unittitle>Article: <emph render="italic">Running Time</emph>s "4:22 Jim" page 2 of 3</unittitle>
+            <unitdate datechar="creation">Dec 1985</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_688504072b884142377e9c77b34691a1" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_bd710dd254b552eb0486fb19d8d10928" parent="aspace_688504072b884142377e9c77b34691a1" type="Item">aia048_043</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="item">
+          <did>
+            <unittitle>Article: <emph render="italic">Running Times</emph> "4:22 Jim" page 3 of 3</unittitle>
+            <unitdate datechar="creation">Dec 1985</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_a03ccf6fa7132b6ce111ce67bec131ce" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_92e55f28ff4b0043c97827dff6bd6cf0" parent="aspace_a03ccf6fa7132b6ce111ce67bec131ce" type="Item">aia048_044</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="item">
+          <did>
+            <unittitle>Picture: Sagamore Hill 1908 with headline "The Athletes Coming Down Fifth Avenue...."</unittitle>
+            <unitdate datechar="creation">1908</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_00d53d0ce138683e651234a1b4d52933" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_d7d60a2cfea1f24c5aff9bae788cd455" parent="aspace_00d53d0ce138683e651234a1b4d52933" type="Item">aia048_045</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="item">
+          <did>
+            <unittitle>Newspaper clipping, fragment: Sullivan interview 1958 "U.S. First No. 1 Miler Still Keeps in Shape" </unittitle>
+            <unitdate datechar="creation">1958</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_a7d6c842c7da39ada39ce9b8c05feded" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_142f754b202ffaac30e31b21ba6f1726" parent="aspace_a7d6c842c7da39ada39ce9b8c05feded" type="Item">aia048_046</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="item">
+          <did>
+            <unittitle>Article and picture of Sullivan running "Athletes who Race at 22nd Regiment Armory To-night" 
+Pictured: Cohen, Banderman, Sullivan and Freeman</unittitle>
+            <unitdate datechar="creation">circa 1905</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_5135d8d196d58c52670fe63ba356f339" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_71db85c7d7b63f8bd75fe5952be997fb" parent="aspace_5135d8d196d58c52670fe63ba356f339" type="Item">aia048_047</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="item">
+          <did>
+            <unittitle>Photograph: Sullivan in a race </unittitle>
+            <unitdate datechar="creation">circa 1908</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_4fce8757cecad3cdab283415a5688ddd" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_861f8c267e12f8fa12d0db0ae3210481" parent="aspace_4fce8757cecad3cdab283415a5688ddd" type="Item">aia048_048</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="item">
+          <did>
+            <unittitle>Newspaper clipping: <emph render="italic">The Globe and Commercial Advertiser</emph>, New York "Olympic Stars Perform To-Day at Celtic Park" </unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_c857753c90754f52e0d761ba259e6634" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_cf310471fe3c1495d249c2ecbc18bcd8" parent="aspace_c857753c90754f52e0d761ba259e6634" type="Item">aia048_049</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="item">
+          <did>
+            <unittitle>Page from <emph render="italic">The Graphi</emph>c "American Triumps at the Olympic Games" p. 1</unittitle>
+            <unitdate datechar="creation">Jul 25, 1908</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_6018cf82ccbe5a1ac743f0a9a09fe8d9" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_9f9ec5c7b67654b52e45fc96d77959c1" parent="aspace_6018cf82ccbe5a1ac743f0a9a09fe8d9" type="Item">aia048_050</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="item">
+          <did>
+            <unittitle>Page from <emph render="italic">The Graphic</emph> "American Triumps at the Olympic Games" p. 2</unittitle>
+            <unitdate datechar="creation">Jul 25, 1909</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_83a75fbc967bdd8ac3e1cbf8c74c54dc" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_cc3d2980625e683ea2ef30988fb5eb14" parent="aspace_83a75fbc967bdd8ac3e1cbf8c74c54dc" type="Item">aia048_051</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="item">
+          <did>
+            <unittitle>Newspaper clipping: <emph render="italic">The Sun</emph> "Col. Roosevelt as He Appeared When He Greeted Olympic Team"</unittitle>
+            <unitdate datechar="creation">Sep 1, 1908</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_8250a0d93f3802cad7fda5a009a3b421" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_cb6ae57c3092f1cf3e70110370648e4d" parent="aspace_8250a0d93f3802cad7fda5a009a3b421" type="Item">aia048_052</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="item">
+          <did>
+            <unittitle>Newspaper clipping <emph render="italic">The World</emph> "Olympic Team Chosen, They're World Beaters" p. 1</unittitle>
+            <unitdate datechar="creation">Jun 9, 1908</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_73a008b0d6fd9e691df26ff13cdd522a" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_4c5442f933f13ed364706a9df9dfdd6c" parent="aspace_73a008b0d6fd9e691df26ff13cdd522a" type="Item">aia048_053</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="item">
+          <did>
+            <unittitle>Newspaper clipping <emph render="italic">The World</emph> "Olympic Team Chosen, They're World Beaters" p. 2</unittitle>
+            <unitdate datechar="creation">Jun 9, 1908</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_4cf8ad3fde87ad821e72a8171ba6a39b" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_90aa18981034485cf08453b7703b417e" parent="aspace_4cf8ad3fde87ad821e72a8171ba6a39b" type="Item">aia048_054</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="item">
+          <did>
+            <unittitle>Newspaper clipping fragment, <emph render="italic">The World</emph>, Pictures of Melvin Shephard and Jas. P. Sullivan</unittitle>
+            <unitdate datechar="creation">Jan 25, 1912</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_4f5d7f700f3a1f8e5af5b45c80bd9b5b" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_a507afa60e782c999a331c06a4aa4495" parent="aspace_4f5d7f700f3a1f8e5af5b45c80bd9b5b" type="Item">aia048_055</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="item">
+          <did>
+            <unittitle>Photograph: Winning Mile</unittitle>
+            <unitdate datechar="creation">circa 1905</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_5daa385ff64032c98f483f3c34f095ff" label="Mixed Materials [31142062765261]" type="Box">1</container>
+            <container id="aspace_df45db5eb43e47b94be6da67b824d936" parent="aspace_5daa385ff64032c98f483f3c34f095ff" type="Item">aia048_056</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

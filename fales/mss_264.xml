@@ -1,90 +1,1367 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_264">mss_264</eadid><filedesc><titlestmt><titleproper>Guide to the Christopher D'Arcangelo Papers <num>MSS.264</num></titleproper><author>Lisa Darms with Lawrence Giffin, 2009.</author></titlestmt><publicationstmt><publisher>Fales Library and Special Collections</publisher><p><date>2010</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 06:54:29 -0400</date>.</creation><langusage>Description is in English.</langusage></profiledesc><revisiondesc><change><date>March 2023</date><item>Updated by Rachel Mahre to state that some video materials are digitized and accessible to patrons</item></change></revisiondesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Fales Library and Special Collections</corpname>
-    </repository>
-    <unittitle>Christopher D'Arcangelo Papers</unittitle>
-    <origination label="Creator">
-      <persname source="local">D'Arcangelo, Christopher</persname>
-    </origination>
-    <unitid>MSS.264</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">9 Linear Feet</extent>
-      <extent altrender="carrier">in 2 manuscript boxes, 3 oversize flat boxes, 1 box binder, 1 record carton, and 3 flat-file folders.</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1965/2003" type="inclusive">1965-2003</unitdate>
-    <unitdate datechar="creation" normal="1975/1978" type="bulk">1975-1978</unitdate>
-    <langmaterial id="aspace_7eebb23e52bc10d307ddbabc712c7883">Materials are in English.</langmaterial>
-  </did>
-  <userestrict id="aspace_5c524eb03006d756e1adcad95f58698b">
-    <head>Conditions Governing Use</head>
-<p>No reproduction, including photocopying and photography, is allowed of materials in this collection, unless indicated by a note in the folder inventory.</p>  </userestrict>
-  <bioghist id="aspace_8580b8cd1da52bfc2b681ad0e6f31836">
-    <head>Biographical Note</head>
-<p>Christopher D'Arcangelo, an artist working during the 1970's, was born in 1955 and died in 1979. In 1975 he performed unauthorized pieces at New York's Whitney Museum, Museum of Modern Art, Guggenheim Museum, and the Metropolitan Museum, and in 1976 at the Norton Simon Museum in Pasadena, CA. In January 1977, LAICA published his proposal "LAICA as an Alternative to Museums".         
-                               Christopher was also a carpenter and contractor, and in September of 1977 he began work on functional constructions. During 1978 he performed unauthorized pieces at the Louvre in Paris and the Rosa Esman Gallery in New York City.  Christopher also took part in an exhibition at Artists Space in New York City in 1978; from 1976 until his death, he was working on a proposal for the Van Abbe Museum in Eindhoven.</p>  </bioghist>
-  <scopecontent id="aspace_c9695282007212d0fcf96d4483f00160">
-    <head>Scope and Content note</head>
-<p>This collection is comprised of materials created and compiled by Christopher D'Arcangelo in the course of his work as an artist and as an assistant to other artists, and includes correspondence, notes, receipts, photographs, floorplans, and objects. The collection is organized into four series:</p><p><emph render="bold">Series I: Work Files </emph> consists of subject files kept by D'Arcangelo for projects he executed or hoped to execute, and files for projects he worked on with or for other artists. The latter include documentation of Daniel Buren's "Ballets" from 1977 and 1978. </p><p><emph render="bold">Series II: Posthumous Files</emph> consists of documents that were collected by D'Arcangelo's executors after his death, including correspondence and articles. Subseries A contains files documenting the Christopher D'Arcangelo Homage, an exhibition held at Algus Greenspon Gallery in October 2011. Researchers who had accessed the Christopher D'Arcangelo Papers at the Fales Library were invited to respond to his work and their experiences working with D'Arcangelo's Papers. Exhibition attendees were also invited to respond.</p><p><emph render="bold">Series III: Objects</emph> includes key artifacts D'Arcangelo used in his art pieces.</p><p><emph render="bold">Series IV: Media</emph> consists of video, audio, and film elements. Access copies may not be available for research use at this time.</p>  </scopecontent>
-  <arrangement id="aspace_167bb422da4892ab1ed88cb2f8930fe9">
-    <head>Arrangement</head>
-<p>Folder titles reflect D'Arcangelo's original titles. Small changes were made to facilitate access. The collection is arranged alphabetically by folder title.</p>    <list numeration="arabic" type="ordered">
-      <head>Missing Title</head>
-      <item>Series I: Work Files</item>
-      <item>Series II: Posthumous Files</item>
-      <item>Series III: Objects</item>
-      <item>Series IV: Media</item>
-    </list>
-  </arrangement>
-  <accessrestrict id="aspace_049a923cc46d0014329ed99c5b3b72bf">
-    <head>Conditions Governing Access</head>
-<p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>  </accessrestrict>
-  <prefercite id="aspace_f2a720581a0d2da2198775964f3c940b">
-    <head>Preferred Citation</head>
-<p>Published citations should take the
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F" url="https://findingaids.library.nyu.edu/fales/mss_264">mss_264</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Christopher D'Arcangelo Papers <num>MSS.264</num></titleproper>
+        <author>Lisa Darms with Lawrence Giffin, 2009.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+        <p>
+          <date>2010</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 06:54:29 -0400</date>.</creation>
+      <langusage>Description is in English.</langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>March 2023</date>
+        <item>Updated by Rachel Mahre to state that some video materials are digitized and accessible to patrons</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>Christopher D'Arcangelo Papers</unittitle>
+      <origination label="Creator">
+        <persname source="local">D'Arcangelo, Christopher</persname>
+      </origination>
+      <unitid>MSS.264</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">9 Linear Feet</extent>
+        <extent altrender="carrier">in 2 manuscript boxes, 3 oversize flat boxes, 1 box binder, 1 record carton, and 3 flat-file folders.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1965/2003" type="inclusive">1965-2003</unitdate>
+      <unitdate datechar="creation" normal="1975/1978" type="bulk">1975-1978</unitdate>
+      <langmaterial id="aspace_7eebb23e52bc10d307ddbabc712c7883">Materials are in English.</langmaterial>
+    </did>
+    <userestrict id="aspace_5c524eb03006d756e1adcad95f58698b">
+      <head>Conditions Governing Use</head>
+      <p>No reproduction, including photocopying and photography, is allowed of materials in this collection, unless indicated by a note in the folder inventory.</p>
+    </userestrict>
+    <bioghist id="aspace_8580b8cd1da52bfc2b681ad0e6f31836">
+      <head>Biographical Note</head>
+      <p>Christopher D'Arcangelo, an artist working during the 1970's, was born in 1955 and died in 1979. In 1975 he performed unauthorized pieces at New York's Whitney Museum, Museum of Modern Art, Guggenheim Museum, and the Metropolitan Museum, and in 1976 at the Norton Simon Museum in Pasadena, CA. In January 1977, LAICA published his proposal "LAICA as an Alternative to Museums".         
+                               Christopher was also a carpenter and contractor, and in September of 1977 he began work on functional constructions. During 1978 he performed unauthorized pieces at the Louvre in Paris and the Rosa Esman Gallery in New York City.  Christopher also took part in an exhibition at Artists Space in New York City in 1978; from 1976 until his death, he was working on a proposal for the Van Abbe Museum in Eindhoven.</p>
+    </bioghist>
+    <scopecontent id="aspace_c9695282007212d0fcf96d4483f00160">
+      <head>Scope and Content note</head>
+      <p>This collection is comprised of materials created and compiled by Christopher D'Arcangelo in the course of his work as an artist and as an assistant to other artists, and includes correspondence, notes, receipts, photographs, floorplans, and objects. The collection is organized into four series:</p>
+      <p><emph render="bold">Series I: Work Files </emph> consists of subject files kept by D'Arcangelo for projects he executed or hoped to execute, and files for projects he worked on with or for other artists. The latter include documentation of Daniel Buren's "Ballets" from 1977 and 1978. </p>
+      <p><emph render="bold">Series II: Posthumous Files</emph> consists of documents that were collected by D'Arcangelo's executors after his death, including correspondence and articles. Subseries A contains files documenting the Christopher D'Arcangelo Homage, an exhibition held at Algus Greenspon Gallery in October 2011. Researchers who had accessed the Christopher D'Arcangelo Papers at the Fales Library were invited to respond to his work and their experiences working with D'Arcangelo's Papers. Exhibition attendees were also invited to respond.</p>
+      <p><emph render="bold">Series III: Objects</emph> includes key artifacts D'Arcangelo used in his art pieces.</p>
+      <p><emph render="bold">Series IV: Media</emph> consists of video, audio, and film elements. Access copies may not be available for research use at this time.</p>
+    </scopecontent>
+    <arrangement id="aspace_167bb422da4892ab1ed88cb2f8930fe9">
+      <head>Arrangement</head>
+      <p>Folder titles reflect D'Arcangelo's original titles. Small changes were made to facilitate access. The collection is arranged alphabetically by folder title.</p>
+      <list numeration="arabic" type="ordered">
+        <head>Missing Title</head>
+        <item>Series I: Work Files</item>
+        <item>Series II: Posthumous Files</item>
+        <item>Series III: Objects</item>
+        <item>Series IV: Media</item>
+      </list>
+    </arrangement>
+    <accessrestrict id="aspace_049a923cc46d0014329ed99c5b3b72bf">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </accessrestrict>
+    <prefercite id="aspace_f2a720581a0d2da2198775964f3c940b">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the
 following form:<lb/><lb/>
-Identification of item,  date (if known); Christopher D'Arcangelo Papers; MSS 264; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>  </prefercite>
-  <custodhist id="aspace_d2950e80e74d69b7cffecad9ba5a399f">
-    <head>Provenance</head>
-<p>The collection was donated to Fales by Cathy Weiner and the D'Arcangelo Family Partnership in 2009.</p>  </custodhist>
-  <phystech id="aspace_1a60ccd5e7a83db60c6b792fc7de00be">
-    <head>Audiovisual Access Policies and Procedures</head>
-<p>Access to some audiovisual materials in this collection is available through digitized access copies. Researchers may view an item's original container, but the media themselves are not available for playback because of preservation concerns. Materials that have already been digitized are noted in the collection's finding aid and can be requested in our reading room. To request an access copy, or if you are unsure if an item has been digitized, please contact special.collections@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>  </phystech>
-  <controlaccess>
-    <genreform source="aat">Periodicals</genreform>
-    <genreform source="aat">Correspondence.</genreform>
-    <genreform source="aat">Articles.</genreform>
-    <genreform source="aat">Financial records</genreform>
-    <genreform source="aat">Notebooks</genreform>
-    <genreform source="aat">Posters.</genreform>
-    <subject source="lcsh">Conceptual art.</subject>
-    <genreform source="aat">Photographic prints.</genreform>
-    <genreform source="aat">Sketchbooks.</genreform>
-    <genreform source="aat">Artifacts.</genreform>
-    <corpname authfilenumber="(lccn)n79065486" source="naf">Solomon R. Guggenheim Museum</corpname>
-    <corpname authfilenumber="(lccn)n79032811" source="naf">Whitney Museum of American Art</corpname>
-    <corpname authfilenumber="(lccn)n91120291" source="naf">Norton Simon Museum (Pasadena, Calif.) </corpname>
-    <corpname authfilenumber="(lccn)n81015806" source="naf">Los Angeles Institute of Contemporary Art </corpname>
-    <corpname source="naf">Musée du Louvre</corpname>
-    <persname source="local">D'Arcangelo, Christopher</persname>
-    <persname source="naf">Lawler, Louise</persname>
-    <persname source="naf">Buren, Daniel</persname>
-    <persname source="local">Esman, Rosa</persname>
-    <corpname authfilenumber="(lccn)n86855422" source="naf">Artists Space (Gallery) </corpname>
-    <corpname authfilenumber="(lccn)n79129629" source="naf">Metropolitan Museum of Art (New York, N.Y.)</corpname>
-    <corpname authfilenumber="(lccn)n79021281" source="naf">Museum of Modern Art (New York, N.Y.)</corpname>
-    <corpname authfilenumber="(lccn)n78097041" source="naf">Los Angeles County Museum of Art </corpname>
-    <corpname authfilenumber="(lccn)n79139080" source="naf">Stedelijk Van Abbemuseum </corpname>
-    <persname source="naf">Antonakos, Stephen, 1926-2013</persname>
-    <corpname authfilenumber="(lccn)n79046211" source="naf">J. Paul Getty Museum </corpname>
-    <persname source="naf">D'Arcangelo, Allan, 1930-1998</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref1" level="series"><did><unittitle>Series I: Work Files</unittitle><unitdate datechar="creation">1965-1979</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref2" level="file"><did><unittitle>Announcement/P. Nadin [Functional Constructions]</unittitle><unitdate datechar="creation" normal="1977/1978" type="inclusive">1977-1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_fb9920782826ad3c38031b12c762e2bd" label="Mixed Materials [31142054862381]" type="Box">1</container><container id="aspace_718008f37e82e0d7f0de70a83a7be5fa" parent="aspace_fb9920782826ad3c38031b12c762e2bd" type="Folder">1</container></did><userestrict id="aspace_1758212847be45710f55d0bbba061448"><head>Conditions Governing Use</head><p>Duplication of this folder is allowed for research purposes.</p></userestrict></c><c id="aspace_ref3" level="file"><did><unittitle>Antonakos Ceiling - Contract</unittitle><unitdate datechar="creation" normal="1977/1978" type="inclusive">1977-1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_40197f951fc763e48273f3663e82cade" label="Mixed Materials [31142054862381]" type="Box">1</container><container id="aspace_c698eeb696c50889bbe10c5c04ef77b9" parent="aspace_40197f951fc763e48273f3663e82cade" type="Folder">2</container></did></c><c id="aspace_ref4" level="file"><did><unittitle>Antonakos Paperwork for Ceiling</unittitle><unitdate datechar="creation" normal="1977/1978" type="inclusive">1977-1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_61b500c3b40d798bf04543eb5a6fdc36" label="Mixed Materials [31142054862381]" type="Box">1</container><container id="aspace_870d49c6b34fce8c258091bcc0b38e1d" parent="aspace_61b500c3b40d798bf04543eb5a6fdc36" type="Folder">3</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>Artists Space</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_27e7a442838a23479c013e8869088172" label="Mixed Materials [31142054862381]" type="Box">1</container><container id="aspace_2d37dfb2bc7c3a73fc2fc256346cf116" parent="aspace_27e7a442838a23479c013e8869088172" type="Folder">4</container></did></c><c id="aspace_ref6" level="file"><did><unittitle>Artists Space - Catalogs and Postcards</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_6a7248efd8b5e128d03931b789f37053" label="Mixed Materials [31142054862381]" type="Box">1</container><container id="aspace_3019808165c0d784564e5fa170ab1641" parent="aspace_6a7248efd8b5e128d03931b789f37053" type="Folder">5</container></did><userestrict id="aspace_3fb044f85d19d7aea763652ce161b2d0"><head>Conditions Governing Use</head><p>Duplication of this folder is allowed for research purposes.</p></userestrict></c><c id="aspace_ref7" level="file"><did><unittitle>Artists Space - Reference</unittitle><unitdate datechar="creation" normal="1977/1978" type="inclusive">1977-1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_0ad77539188223d7aa3022d169aa4065" label="Mixed Materials [31142054862381]" type="Box">1</container><container id="aspace_2d7bb81e908d2e248f56595330a0f84e" parent="aspace_0ad77539188223d7aa3022d169aa4065" type="Folder">6</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Artists Space - Wall Text</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_f987e2edc61fbd160c4c528d72e6a250" label="Mixed Materials [31142054862381]" type="Box">1</container><container id="aspace_468712c24367f9296236b0d2ef5dba8d" parent="aspace_f987e2edc61fbd160c4c528d72e6a250" type="Folder">7</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Ballet #9 [Daniel Buren]</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_e65747cdb383b785131cad0479dc41b3" label="Mixed Materials [31142054862381]" type="Box">1</container><container id="aspace_8ca92f2b7d567209cd0521567cdf1089" parent="aspace_e65747cdb383b785131cad0479dc41b3" type="Folder">8</container></did><userestrict id="aspace_97d2e0767afaf443c8ede5ebc6afd405"><head>Conditions Governing Use</head><p>Duplication of this folder is allowed for research purposes.</p></userestrict></c><c id="aspace_ref9" level="file"><did><unittitle>Bell and Howell Projector and Camera</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">undated; 1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_f58ed80078e7beeb03dad3429d31cf05" label="Mixed Materials [31142054862381]" type="Box">1</container><container id="aspace_5ee8fa0b41305a7ede5687fad8739b35" parent="aspace_f58ed80078e7beeb03dad3429d31cf05" type="Folder">9</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Buren Ballet #8</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_de7691835dce836d197f43847bedd6dc" label="Mixed Materials [31142054862381]" type="Box">1</container><container id="aspace_30dc869225fac274db6709a2e3ae9840" parent="aspace_de7691835dce836d197f43847bedd6dc" type="Folder">10</container></did><userestrict id="aspace_fad841607b74de7a630eed38785ca64f"><head>Conditions Governing Use</head><p>Duplication of this folder is allowed for research purposes.</p></userestrict></c><c id="aspace_ref12" level="file"><did><unittitle>Buren Ballet #10</unittitle><unitdate datechar="creation" normal="1977/1978" type="inclusive">1977-1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_9961516ac971d59c3e6b19ea5b9c8333" label="Mixed Materials [31142054862381]" type="Box">1</container><container id="aspace_8d4baaf7144626c3ed3897c25183dc11" parent="aspace_9961516ac971d59c3e6b19ea5b9c8333" type="Folder">11</container></did><userestrict id="aspace_158adcd42a75d0fbba9fac65bab1299b"><head>Conditions Governing Use</head><p>Duplication of this folder is allowed for research purposes.</p></userestrict></c><c id="aspace_ref13" level="file"><did><unittitle>Buren Ballet #11</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_3822a3ec440677d3a23a144f10c2d099" label="Mixed Materials [31142054862381]" type="Box">1</container><container id="aspace_9f4b3256edcfbc359c30dc1a45f9e521" parent="aspace_3822a3ec440677d3a23a144f10c2d099" type="Folder">12</container></did><userestrict id="aspace_f38905d76c8f38c4067dc3fbd3c6fdd4"><head>Conditions Governing Use</head><p>Duplication of this folder is allowed for research purposes.</p></userestrict></c><c id="aspace_ref14" level="file"><did><unittitle>Buren Ballet #12</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_1b7d80165b8bafa50411ac1a8f3c5e56" label="Mixed Materials [31142054862381]" type="Box">1</container><container id="aspace_cff1c498c0365bf602b1ca8da892f26b" parent="aspace_1b7d80165b8bafa50411ac1a8f3c5e56" type="Folder">13</container></did><userestrict id="aspace_e84ee4dfd708b8999221233e02d41d7c"><head>Conditions Governing Use</head><p>Duplication of this folder is allowed for research purposes.</p></userestrict></c><c id="aspace_ref15" level="file"><did><unittitle>Buren Ballet #13</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_a908108d5e4a40f7d282da7b50acb43d" label="Mixed Materials [31142054862381]" type="Box">1</container><container id="aspace_3204934665ae9baaa2448a9bbc6feb28" parent="aspace_a908108d5e4a40f7d282da7b50acb43d" type="Folder">14</container></did><userestrict id="aspace_adf021f251c1521eec4ddd7ddd46fe05"><head>Conditions Governing Use</head><p>Duplication of this folder is allowed for research purposes.</p></userestrict></c><c id="aspace_ref16" level="file"><did><unittitle>Buren Ballet #14</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_01dc73a25577e44768395fc8f9a6677c" label="Mixed Materials [31142054862381]" type="Box">1</container><container id="aspace_70e553d3976aed7939cab36ab2acdeb4" parent="aspace_01dc73a25577e44768395fc8f9a6677c" type="Folder">15</container></did><userestrict id="aspace_e0382e319e2ef2ffe522c8649d5401fb"><head>Conditions Governing Use</head><p>Duplication of this folder is allowed for research purposes.</p></userestrict></c><c id="aspace_ref18" level="file"><did><unittitle>Buren Ballet #15</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_7f4f5665a903bb2664ee584a8d4e3cdb" label="Mixed Materials [31142054862381]" type="Box">1</container><container id="aspace_37f5497317d755ecff418f5b8a6e7e6b" parent="aspace_7f4f5665a903bb2664ee584a8d4e3cdb" type="Folder">16</container></did><userestrict id="aspace_02b6e22af43be32c93a3b1ff0f2f4efc"><head>Conditions Governing Use</head><p>Duplication of this folder is allowed for research purposes.</p></userestrict></c><c id="aspace_ref19" level="file"><did><unittitle>Buren Ballet #16 14th St NYC</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_e2622234ed5131f7052e7c085880a315" label="Mixed Materials [31142054862381]" type="Box">1</container><container id="aspace_23240f7ba8c77a01d2bcc6d4044003d0" parent="aspace_e2622234ed5131f7052e7c085880a315" type="Folder">17</container></did><userestrict id="aspace_ecc7afa2711e813d81b6b20f6daffbcd"><head>Conditions Governing Use</head><p>Duplication of this folder is allowed for research purposes.</p></userestrict></c><c id="aspace_ref20" level="file"><did><unittitle>Buren Ballet #17 Flower District, Flatiron District</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_a57e031cb993415b0e3cd5aa06fb30a8" label="Mixed Materials [31142054862381]" type="Box">1</container><container id="aspace_0e4c2b574520b84a4562f759def52cee" parent="aspace_a57e031cb993415b0e3cd5aa06fb30a8" type="Folder">18</container></did><userestrict id="aspace_4c7e9d14ebf1b80a742bc0f49a6fcaef"><head>Conditions Governing Use</head><p>Duplication of this folder is allowed for research purposes.</p></userestrict></c><c id="aspace_ref21" level="file"><did><unittitle>Buren Ballet #18 The Empire State Building</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_339e26ff1cc63e60c4452132584d07e4" label="Mixed Materials [31142054862381]" type="Box">1</container><container id="aspace_57f01116bb5f5b58effd1af2c4bc764c" parent="aspace_339e26ff1cc63e60c4452132584d07e4" type="Folder">19</container></did><userestrict id="aspace_5ca4513de0a0424cbd30def9e5e3244f"><head>Conditions Governing Use</head><p>Duplication of this folder is allowed for research purposes.</p></userestrict></c><c id="aspace_ref22" level="file"><did><unittitle>Daniel Buren - Catalogs, Photos, Postcards</unittitle><unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate><container altrender="Manuscript box - Legal" id="aspace_91784b95cea9abc4580bc5c8da2ac17e" label="Mixed Materials [31142054862381]" type="Box">1</container><container id="aspace_4af586385cc835cd1fcad5e032d66c21" parent="aspace_91784b95cea9abc4580bc5c8da2ac17e" type="Folder">20</container></did><userestrict id="aspace_a9944a0067c31766aece4585304106b6"><head>Conditions Governing Use</head><p>Duplication of this folder is allowed for research purposes..</p></userestrict></c><c id="aspace_ref24" level="file"><did><unittitle>Buren - Ballets - Reference</unittitle><unitdate datechar="creation" normal="1975/1978" type="inclusive">1975-1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_84e6856a02720e645fd180fe2293710c" label="Mixed Materials [31142054862381]" type="Box">1</container><container id="aspace_d033050859b00267132b8c3fb0c5e51a" parent="aspace_84e6856a02720e645fd180fe2293710c" type="Folder">21</container></did><userestrict id="aspace_2350d86adf61a99d9dc508ffa9a06d10"><head>Conditions Governing Use</head><p>Duplication of this folder is allowed for research purposes.</p></userestrict></c><c id="aspace_ref25" level="file"><did><unittitle>Buren Parade</unittitle><unitdate datechar="creation" normal="1973/1978" type="inclusive">1973-1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_40d2dbb5cf169e818bdb778282a1d238" label="Mixed Materials [31142054862381]" type="Box">1</container><container id="aspace_ffa5a9decc6ec42a0c370ef4694e4772" parent="aspace_40d2dbb5cf169e818bdb778282a1d238" type="Folder">22</container></did><userestrict id="aspace_573375d3e26c1238f8532b6924aaa96a"><head>Conditions Governing Use</head><p>Duplication of this folder is allowed for research purposes.</p></userestrict></c><c id="aspace_ref23" level="file"><did><unittitle>Contemporary Arts Center [Cincinatti]</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">May 20, 1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_02fa869c0c47c349c141a9ea8e30dbff" label="Mixed Materials [31142054862381]" type="Box">1</container><container id="aspace_fa6d97de35e2512a2b874572024195b5" parent="aspace_02fa869c0c47c349c141a9ea8e30dbff" type="Folder">23</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Jeffrey Deitch Shows/John Weber Gallery</unittitle><unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate><container altrender="Manuscript box - Legal" id="aspace_f0e5be8676484a9ffe971d4e50ab9c23" label="Mixed Materials [31142054862381]" type="Box">1</container><container id="aspace_f30b580bb82073e774560228a1fd7d28" parent="aspace_f0e5be8676484a9ffe971d4e50ab9c23" type="Folder">24</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Eindhoven - Research</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_46b1146d3a04338709617a645618baa5" label="Mixed Materials [31142054862381]" type="Box">1</container><container id="aspace_8886e4fadfa9ac6600e53f8033ed83cf" parent="aspace_46b1146d3a04338709617a645618baa5" type="Folder">25</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Rosa Esman - Door</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">June 1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_c51de81aecacc1c72f26cafec4bb7df3" label="Mixed Materials [31142054862381]" type="Box">1</container><container id="aspace_f53ad0e837b1731836ccb9629378cc38" parent="aspace_c51de81aecacc1c72f26cafec4bb7df3" type="Folder">26</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Rosa Esman - Look Out for What You Look At</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">May 1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_895a7b1d2ec3dd8d4e4f1b064a898929" label="Mixed Materials [31142054862399]" type="Box">2</container><container id="aspace_8cd5ce48b42ae29b987848380c3c745d" parent="aspace_895a7b1d2ec3dd8d4e4f1b064a898929" type="Folder">1</container></did><userestrict id="aspace_6e80229d8cc073d3584c60b4579260fd"><head>Conditions Governing Use</head><p>Duplication of this folder is allowed for research purposes.</p></userestrict></c><c id="aspace_ref30" level="file"><did><unittitle>Rosa Esman Invitational - Text</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">June 1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_429cc61ec08a0306beda9fc10d84dfb3" label="Mixed Materials [31142054862399]" type="Box">2</container><container id="aspace_1767ae33ba87a4348a89e3b2bda29a4e" parent="aspace_429cc61ec08a0306beda9fc10d84dfb3" type="Folder">2</container></did><userestrict id="aspace_a6ca6a2e4e32db699f3737eaed47829e"><head>Conditions Governing Use</head><p>Duplication of this folder is allowed for research purposes.</p><p>.</p></userestrict></c><c id="aspace_ref31" level="file"><did><unittitle>Exhibition Announcements</unittitle><unitdate datechar="creation" normal="1975/1977" type="inclusive">1975-1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_98ddd6434feaf5cbadf6584059766b23" label="Mixed Materials [31142054862399]" type="Box">2</container><container id="aspace_773277503e8ba38a2920a790c02c3dc1" parent="aspace_98ddd6434feaf5cbadf6584059766b23" type="Folder">3</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Exhibition Catalogs</unittitle><unitdate datechar="creation" normal="1973/1975" type="inclusive">1973-1975</unitdate><container altrender="Manuscript box - Legal" id="aspace_7246a5e61c6ca95dc135e18ec5308f0d" label="Mixed Materials [31142054862399]" type="Box">2</container><container id="aspace_0952f093f5b04744d262baaf9d9432a5" parent="aspace_7246a5e61c6ca95dc135e18ec5308f0d" type="Folder">4</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Functional Constructions</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_6a80de7576911d8ea358461cf43b6ff0" label="Mixed Materials [31142054862399]" type="Box">2</container><container id="aspace_df38424b4bee9550dd4da1a10cb7748f" parent="aspace_6a80de7576911d8ea358461cf43b6ff0" type="Folder">5</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Functional Constructions - Notes</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_bbea01b97c5f949f92830c46724b12a3" label="Mixed Materials [31142054862399]" type="Box">2</container><container id="aspace_08ab24e5eca15525b53da21c49053c88" parent="aspace_bbea01b97c5f949f92830c46724b12a3" type="Folder">6</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>General Art Reference</unittitle><unitdate datechar="creation" normal="1975/1977" type="inclusive">1975-1977; undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_f18e1040d9a419723d5199373c0841d7" label="Mixed Materials [31142054862399]" type="Box">2</container><container id="aspace_b78a23445103acc0f89b7c0611248840" parent="aspace_f18e1040d9a419723d5199373c0841d7" type="Folder">7</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Getty Museum - Reference</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_d2af7fc21daa5235cefb8ef2091b69a9" label="Mixed Materials [31142054862399]" type="Box">2</container><container id="aspace_10db02dc25af3d840d38dd824070892d" parent="aspace_d2af7fc21daa5235cefb8ef2091b69a9" type="Folder">8</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Guggenheim Museum, NY</unittitle><unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate><container altrender="Manuscript box - Legal" id="aspace_01b251990cf4aa023d44828b58cce583" label="Mixed Materials [31142054862399]" type="Box">2</container><container id="aspace_8b4c613b94a69fc30cdc904237b4131f" parent="aspace_01b251990cf4aa023d44828b58cce583" type="Folder">9</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Hands Locations</unittitle><unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate><container altrender="Manuscript box - Legal" id="aspace_610b0625add780426f27afbe044fa1b4" label="Mixed Materials [31142054862399]" type="Box">2</container><container id="aspace_8c9be9f168547cecf474356e7a7eed63" parent="aspace_610b0625add780426f27afbe044fa1b4" type="Folder">10</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Harper Painting</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_de1d304a9d5d2e7db909524c70948da5" label="Mixed Materials [31142054862399]" type="Box">2</container><container id="aspace_780ccc41f9cd012e24c21d50e0f7bc63" parent="aspace_de1d304a9d5d2e7db909524c70948da5" type="Folder">11</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Jobs Billed</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_23a502987aceb3c7b08d95506b5ce2c7" label="Mixed Materials [31142054862399]" type="Box">2</container><container id="aspace_a3cc923b371afa0da02b302212e254ec" parent="aspace_23a502987aceb3c7b08d95506b5ce2c7" type="Folder">12</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Kunst Des XX. Jahrunderts Aus Dem Van Abbemuseum Eindhoven - Catalog</unittitle><unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate><container altrender="Manuscript box - Legal" id="aspace_abab4a5247620e7f596181376c3077b8" label="Mixed Materials [31142054862399]" type="Box">2</container><container id="aspace_22fe2b1db2cb7dd83ae4b11933c1159e" parent="aspace_abab4a5247620e7f596181376c3077b8" type="Folder">13</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>LAICA Journal, No. 13</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_50fb314041a2518db92812032cd0411e" label="Mixed Materials [31142054862399]" type="Box">2</container><container id="aspace_abf9578254f7fdd670663400911d321c" parent="aspace_50fb314041a2518db92812032cd0411e" type="Folder">14</container></did><userestrict id="aspace_c5c29efc33b92673783f0ecafdc90ed5"><head>Conditions Governing Use</head><p>Duplication of this folder is allowed for research purposes.</p><p>.</p></userestrict></c><c id="aspace_ref44" level="file"><did><unittitle>Louise Lawler - Ceiling</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_34eb0b4a37ff9697388c869b6d0a66e2" label="Mixed Materials [31142054862399]" type="Box">2</container><container id="aspace_bbce59c211e0dcea77efb5e078a131d7" parent="aspace_34eb0b4a37ff9697388c869b6d0a66e2" type="Folder">15</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>"Lives" Catalog - Jeffrey Deitch</unittitle><unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate><container altrender="Manuscript box - Legal" id="aspace_febc42c71063b46204204bd8b20aab3c" label="Mixed Materials [31142054862399]" type="Box">2</container><container id="aspace_61876dacb3a5764bb7d5e623a1e8d756" parent="aspace_febc42c71063b46204204bd8b20aab3c" type="Folder">16</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Los Angeles County Museum of Art</unittitle><unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate><container altrender="Manuscript box - Legal" id="aspace_bf6068e9ef4007c587a7de35b179c1df" label="Mixed Materials [31142054862407]" type="Box">3</container><container id="aspace_e905850fcf4e5c4e19fa9cff7de89e52" parent="aspace_bf6068e9ef4007c587a7de35b179c1df" type="Folder">1</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Los Angeles Institute of Contemporary Art</unittitle><unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate><container altrender="Manuscript box - Legal" id="aspace_e954dee5b7a799a26a66dc2656e5b28d" label="Mixed Materials [31142054862407]" type="Box">3</container><container id="aspace_3e767122967e221aa58f8970a2db1c56" parent="aspace_e954dee5b7a799a26a66dc2656e5b28d" type="Folder">2</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Los Angeles Institute of Contemporary Art</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_3635b27c974dcf7a93b8b33d54cdc1c0" label="Mixed Materials [31142054862407]" type="Box">3</container><container id="aspace_c9c105808edf25af28982f1fce040781" parent="aspace_3635b27c974dcf7a93b8b33d54cdc1c0" type="Folder">3</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Louvre</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_e189f24f7cf7e2ed7ea4f7e5f6a453e5" label="Mixed Materials [31142054862407]" type="Box">3</container><container id="aspace_d9ce448a56ba055134065a369e264df7" parent="aspace_e189f24f7cf7e2ed7ea4f7e5f6a453e5" type="Folder">4</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Louvre - Writings + Statement</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_acf475d1dddf13c04cf522e150b72e68" label="Mixed Materials [31142054862407]" type="Box">3</container><container id="aspace_8bbfab55e37ce9eee588b2093fabb04e" parent="aspace_acf475d1dddf13c04cf522e150b72e68" type="Folder">5</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Mad Magazine Cover</unittitle><unitdate datechar="creation" normal="1965/1965" type="inclusive">July 1965</unitdate><container altrender="Manuscript box - Legal" id="aspace_64cb9c0d8f3812d2969a094f9aee743a" label="Mixed Materials [31142054862407]" type="Box">3</container><container id="aspace_d5d1b6bb3c1185e5942871b01c758344" parent="aspace_64cb9c0d8f3812d2969a094f9aee743a" type="Folder">6</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Metropolitan Museum</unittitle><unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate><container altrender="Manuscript box - Legal" id="aspace_ddc91ca6e6c80d3beef007fe31734f66" label="Mixed Materials [31142054862407]" type="Box">3</container><container id="aspace_36093f052169a696d9370e51116f96ad" parent="aspace_ddc91ca6e6c80d3beef007fe31734f66" type="Folder">7</container></did><userestrict id="aspace_763426413578a465d66ba127267f4ce0"><head>Conditions Governing Use</head><p>Duplication of this folder is allowed for research purposes.</p></userestrict></c><c id="aspace_ref53" level="file"><did><unittitle>Miscellaneous Receipts</unittitle><unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_f25aaf430cf018fd55774fe5c3446099" label="Mixed Materials [31142054862407]" type="Box">3</container><container id="aspace_66bf25442959a210197af6dcbb36e6ea" parent="aspace_f25aaf430cf018fd55774fe5c3446099" type="Folder">8</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Miscellaneous Writings</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_05dbcf0a45fad04b20c6fbce6e828fff" label="Mixed Materials [31142054862407]" type="Box">3</container><container id="aspace_5d9c6d6494fa04f8d71e72119baf5504" parent="aspace_05dbcf0a45fad04b20c6fbce6e828fff" type="Folder">9</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Monchengladbach Grant</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_131a71bc64c3af0f1341765ec00cc5d1" label="Mixed Materials [31142054862407]" type="Box">3</container><container id="aspace_b340fb871cff705f8ee8434c4b069a83" parent="aspace_131a71bc64c3af0f1341765ec00cc5d1" type="Folder">10</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Movie Camera Brochures</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_20a0e382afe154369ee25588ff019697" label="Mixed Materials [31142054862407]" type="Box">3</container><container id="aspace_b9b6f264f47e4abb3cb0d705703525db" parent="aspace_20a0e382afe154369ee25588ff019697" type="Folder">11</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>Museum of Modern Art</unittitle><unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate><container altrender="Manuscript box - Legal" id="aspace_ec4cdc88d22edd85e4cac0ae4a0c123c" label="Mixed Materials [31142054862407]" type="Box">3</container><container id="aspace_38fd61bb6e4e630ee9b789965dec8442" parent="aspace_ec4cdc88d22edd85e4cac0ae4a0c123c" type="Folder">12</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Newspaper Clippings</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">undated; 1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_af3318dfdc9c782cec6c003e4e99ba89" label="Mixed Materials [31142054862407]" type="Box">3</container><container id="aspace_35853a7c5b96806bafa992af5ed2bb0d" parent="aspace_af3318dfdc9c782cec6c003e4e99ba89" type="Folder">13</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Newspaper Clippings - Scrapbook</unittitle><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_14f5ab35d5d2d0cac7bc38cc8ffa8981" label="Mixed Materials [31142054862407]" type="Box">3</container><container id="aspace_1339aae3b5fd8314d3e4ee1d87a78626" parent="aspace_14f5ab35d5d2d0cac7bc38cc8ffa8981" type="Folder">14</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>Norton Simon Museum</unittitle><unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate><container altrender="Manuscript box - Legal" id="aspace_8ca07819ae12de8934e08a2a7aec7bf0" label="Mixed Materials [31142054862407]" type="Box">3</container><container id="aspace_fe3fa8271b839eabc511ae7070642ea8" parent="aspace_8ca07819ae12de8934e08a2a7aec7bf0" type="Folder">15</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>Paint Charts</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_f8412f4d77370133103b731cf7c8b416" label="Mixed Materials [31142054862407]" type="Box">3</container><container id="aspace_775e459f41c1518a17d7892d5a7c3f5a" parent="aspace_f8412f4d77370133103b731cf7c8b416" type="Folder">16</container></did></c><c id="aspace_ref62" level="file"><did><unittitle>Postcards</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_c4b9c92bbe8b2e98ead888c718aba2cf" label="Mixed Materials [31142054862407]" type="Box">3</container><container id="aspace_4f92e6bf1f73b10913768191e51374dd" parent="aspace_c4b9c92bbe8b2e98ead888c718aba2cf" type="Folder">17</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>P.S. 1</unittitle><unitdate datechar="creation">1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_d86e1d595a1f93baf1dc687d1e9d65a3" label="Mixed Materials [31142054862407]" type="Box">3</container><container id="aspace_f07c89445fc99308581b57cfbfe79203" parent="aspace_d86e1d595a1f93baf1dc687d1e9d65a3" type="Folder">18</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>Rijksmuseum / Rembrant / Restoration</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_144599be88d5bf5e783e040bcb18e5b7" label="Mixed Materials [31142054862407]" type="Box">3</container><container id="aspace_d68c2ee957aad10e5e0168ace39957f3" parent="aspace_144599be88d5bf5e783e040bcb18e5b7" type="Folder">19</container></did></c><c id="aspace_ref91" level="item"><did><unittitle>Sketchbook</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat Box - 12 x 16" id="aspace_39cc72c2b25675d188fa3b0e7243b78f" label="Mixed Materials [31142054862431]" type="Box">7</container><container id="aspace_8d3fbfc1adb60647de9cefa4bcb3a736" parent="aspace_39cc72c2b25675d188fa3b0e7243b78f" type="Folder">1</container></did></c><c id="aspace_ref92" level="item"><did><unittitle>Sketchbook/Notebook</unittitle><unitdate datechar="creation" normal="1974/1976" type="inclusive">1974-1976</unitdate><container altrender="Flat Box - 12 x 16" id="aspace_be4d836b096475df667d0a6df2a788fc" label="Mixed Materials [31142054862431]" type="Box">7</container><container id="aspace_ebb3c89220cc0d162af953c7175eee00" parent="aspace_be4d836b096475df667d0a6df2a788fc" type="Folder">2</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Statue of Liberty Brochures</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_2892e7aaa02c82d9d8bc883dcd4e6677" label="Mixed Materials [31142054862407]" type="Box">3</container><container id="aspace_7ecf34cd9b47c37cd443f718615c27f0" parent="aspace_2892e7aaa02c82d9d8bc883dcd4e6677" type="Folder">20</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>Van Abbemuseum, Eindhoven</unittitle><unitdate datechar="creation" normal="1976/1977" type="inclusive">1976-1977</unitdate><container altrender="Manuscript box - Legal" id="aspace_91657c11b5610a430d257fe60ec5317e" label="Mixed Materials [31142054862407]" type="Box">3</container><container id="aspace_44eb1a37ad7f6bea6e4b144cdb8ef7aa" parent="aspace_91657c11b5610a430d257fe60ec5317e" type="Folder">21</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>Van Abbemuseum, Eindhoven</unittitle><unitdate datechar="creation" normal="1977/1978" type="inclusive">1977-1978</unitdate><container altrender="Manuscript box - Legal" id="aspace_109d39301186aee515337808fef2ca33" label="Mixed Materials [31142054862407]" type="Box">3</container><container id="aspace_3b8136613144edfb4ea8ea09e232af95" parent="aspace_109d39301186aee515337808fef2ca33" type="Folder">22</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>Van Abbemuseum - Writing</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_17259dd505979db02bd3837573f1a4e5" label="Mixed Materials [31142054862407]" type="Box">3</container><container id="aspace_acda621b0e0a4b2deb58f7e4bead88fe" parent="aspace_17259dd505979db02bd3837573f1a4e5" type="Folder">23</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Whitney Postcards, Statement</unittitle><unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate><container altrender="Manuscript box - Legal" id="aspace_0081d4a019850fd51f47d25a348ad45d" label="Mixed Materials [31142054862407]" type="Box">3</container><container id="aspace_c8671e9f173807061ffd5ec61c8e82cc" parent="aspace_0081d4a019850fd51f47d25a348ad45d" type="Folder">24</container></did></c><c id="aspace_ref141" level="file"><did><unittitle>Writing statements by Cathy Weiner</unittitle><unitdate datechar="creation">1975</unitdate><container altrender="Manuscript box - Legal" id="aspace_dde4e26715d208d63c4ccf8963658b76" label="Mixed Materials [31142054862407]" type="Box">3</container><container id="aspace_fe54f229a11beb12821d56a38f48bcea" parent="aspace_dde4e26715d208d63c4ccf8963658b76" type="Folder">25</container></did><odd id="aspace_198234b944aaee8a387ba31ca3cdfad8"><head>General</head><p>Created at request of D'Arcangelo, these documents record what Cathy Weiner witnessed during the 1975 pieces at the Whitney Museum of American Art, The Museum of Modern Art, and the Guggenheim Museum.</p></odd></c><c id="aspace_ref136" level="item"><did><unittitle>Work Binder A</unittitle><container altrender="Box Binder (2&quot; wide, any dimensions between 12x16)" id="aspace_a1c223925f5e0a8235a7ad4a43310587" label="Mixed Materials [31142054862365]" type="Box">A</container></did><odd id="aspace_79db9213692befa98594947b6e7ad700"><head>General</head><p>Binder A is a similar recreation of the binder that D'Arcangelo created to document his artmaking; it was assembled by the D'Arcangelo Family Partnership.</p></odd></c><c id="aspace_ref138" level="item"><did><unittitle>Work Binder B</unittitle><container altrender="Box Binder (2&quot; wide, any dimensions between 12x16)" id="aspace_0dae8d7e817b14b912028b4ea46eb357" label="Mixed Materials [31142054862373]" type="Box">B</container></did><odd id="aspace_991690e642a150ed0318ec19a677e5cd"><head>General</head><p>Binder B is a partial recreation of the binder that D'Arcangelo created to document his artmaking, as well as other documents assembled by the D'Arcangelo Family Partnership.</p></odd></c></c><c id="aspace_ref70" level="series"><did><unittitle>Series II: Posthumous Files</unittitle><unitdate datechar="creation" normal="1978/1998" type="inclusive">1978-1998</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref206" level="subseries"><did><unittitle>Subseries A: General</unittitle></did><c id="aspace_ref71" level="file"><did><unittitle>Articles about D'Arcangelo</unittitle><unitdate datechar="creation">1991, 1996, 1998</unitdate><container altrender="Manuscript box - Legal" id="aspace_6e4f014d83144e61702db58787d32c23" label="Mixed Materials [31142054862415]" type="Box">4</container><container id="aspace_fa77cc3dc18dbbdc0e5c968c6aa65781" parent="aspace_6e4f014d83144e61702db58787d32c23" type="Folder">1</container></did></c><c id="aspace_ref72" level="file"><did><unittitle>Articles/Reviews</unittitle><unitdate datechar="creation" normal="1979/1979" type="inclusive">1979; undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_055afd07990adddd2b0097ab96b02cd7" label="Mixed Materials [31142054862415]" type="Box">4</container><container id="aspace_b79d4987a07c634c59ed29dff95d5f10" parent="aspace_055afd07990adddd2b0097ab96b02cd7" type="Folder">2</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>Chronologies and Inventories</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_dc068d82bdf7ee35d06d8571ec914664" label="Mixed Materials [31142054862415]" type="Box">4</container><container id="aspace_854c798d33e209dd4111f75b2b459a6f" parent="aspace_dc068d82bdf7ee35d06d8571ec914664" type="Folder">3</container></did><odd id="aspace_51216ff31d9824969e06d06ba7e4e43e"><head>General</head><p>Inlcudes Christopher D'Arcangelo Chronology, created by Gideon D'Arcangelo 1993, updated 2009.</p></odd></c><c id="aspace_ref75" level="file"><did><unittitle>Copies of D'Arcangelo Notebook</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_b67b7270b2baf155ef03fc4c88957c40" label="Mixed Materials [31142054862415]" type="Box">4</container><container id="aspace_ffe921c568eb2bcc4d0bbce2dd7fa0ec" parent="aspace_b67b7270b2baf155ef03fc4c88957c40" type="Folder">4</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>Copies of Work</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_a20c8b392121b41e0c3f709ed9edc3b5" label="Mixed Materials [31142054862415]" type="Box">4</container><container id="aspace_1f63bb642dbd3bbe9e99ba83eeb7c2a7" parent="aspace_a20c8b392121b41e0c3f709ed9edc3b5" type="Folder">5</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>Correspondence about D'Arcangelo Works</unittitle><unitdate datechar="creation" normal="1979/1995" type="inclusive">1979, 1988, 1992, 1995, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_8b6a7f564bf449242a84d9506b598d3b" label="Mixed Materials [31142054862415]" type="Box">4</container><container id="aspace_736586a6be6819f501b4519983d6acf6" parent="aspace_8b6a7f564bf449242a84d9506b598d3b" type="Folder">6</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>Greene Naftali</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_271cda690d8f55310d9b657833fa79a0" label="Mixed Materials [31142054862415]" type="Box">4</container><container id="aspace_598244b418a241ad6ec0d5cb29619b64" parent="aspace_271cda690d8f55310d9b657833fa79a0" type="Folder">7</container></did></c><c id="aspace_ref79" level="file"><did><unittitle>Bruce Hainley</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_575ad714ba2f2aaccdac2fd5720e2676" label="Mixed Materials [31142054862415]" type="Box">4</container><container id="aspace_742591d0c70388d96634444ade3bb8d6" parent="aspace_575ad714ba2f2aaccdac2fd5720e2676" type="Folder">8</container></did></c><c id="aspace_ref163" level="file"><did><unittitle>Journal: Southern California Art Magazine No. 23</unittitle><unitdate datechar="creation">June-July 1979</unitdate><container altrender="Manuscript box - Legal" id="aspace_5905b061913f09afedb348f062f92007" label="Mixed Materials [31142054862415]" type="Box">4</container><container id="aspace_56d06b0e6495d05e31287a842ffc3110" parent="aspace_5905b061913f09afedb348f062f92007" type="Folder">9</container></did></c><c id="aspace_ref80" level="file"><did><unittitle>List of Cathy Weiner's photographs of D'Arcangelo Work </unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_0c77dee458ec89bc7790f91b6722277d" label="Mixed Materials [31142054862415]" type="Box">4</container><container id="aspace_6223aa993cf091eaf81926fdd27f7aae" parent="aspace_0c77dee458ec89bc7790f91b6722277d" type="Folder">10</container></did></c><c id="aspace_ref164" level="file"><did><unittitle>Oehlen Williams 95 Catalog</unittitle><unitdate datechar="creation">1995</unitdate><container altrender="Manuscript box - Legal" id="aspace_3f5bbb85e9389ab9d64c3b7fd4d55586" label="Mixed Materials [31142054862415]" type="Box">4</container><container id="aspace_cedff9d1e10165f776667e30bfc762bc" parent="aspace_3f5bbb85e9389ab9d64c3b7fd4d55586" type="Folder">11</container></did></c><c id="aspace_ref140" level="file"><did><unittitle>Recent works and notes on six series - Peter Nadin</unittitle><unitdate datechar="creation">1992</unitdate><container altrender="Manuscript box - Legal" id="aspace_695dde08264f093d1b45d37fde15dda6" label="Mixed Materials [31142054862415]" type="Box">4</container><container id="aspace_394963b6290f792d076006361397fd05" parent="aspace_695dde08264f093d1b45d37fde15dda6" type="Folder">12</container></did></c></c><c id="aspace_ref205" level="subseries"><did><unittitle>Subseries B: Algus Greenspon Homage</unittitle></did><scopecontent id="aspace_9e58b6438f128597753e7be38c55d63c"><head>Scope and Content</head><p>This subseries contains files documenting the Christopher D'Arcangelo Homage, an exhibition held at Algus Greenspon Gallery in October 2011. Researchers who had accessed the Christopher D'Arcangelo Papers at the Fales Library were invited to respond to his work and their experiences working with D'Arcangelo's Papers. Exhibition attendees were also invited to respond.</p></scopecontent><c id="aspace_ref194" level="file"><did><unittitle>Breslin, David: Christopher D'Arcangelo Homage</unittitle><unitdate datechar="creation">2011</unitdate><container altrender="Manuscript box - Letter" id="aspace_29a41625e3148a0377e05cf9d5b18108" label="Mixed Materials [31142054862456]" type="Box">10</container><container id="aspace_50bcfd9ca1eda460d25883d9fd508aaa" parent="aspace_29a41625e3148a0377e05cf9d5b18108" type="Folder">1</container></did></c><c id="aspace_ref195" level="file"><did><unittitle>Greenspon, Algus: Christopher D'Arcangelo Homage</unittitle><unitdate datechar="creation">2011</unitdate><container altrender="Manuscript box - Letter" id="aspace_57ec052cddc8e58440abca9cfc64fdf9" label="Mixed Materials [31142054862456]" type="Box">10</container><container id="aspace_63ea4a8775a5347af75e0683fbe94eb0" parent="aspace_57ec052cddc8e58440abca9cfc64fdf9" type="Folder">2</container></did></c><c id="aspace_ref196" level="file"><did><unittitle>Christopher D'Arcangelo Homage - Responses from Binder</unittitle><unitdate datechar="creation">2011</unitdate><container altrender="Manuscript box - Letter" id="aspace_01b6344a2cd79d3b8c86b8c910de120a" label="Mixed Materials [31142054862456]" type="Box">10</container><container id="aspace_1a59dfda1bc0fd852436792d86c05f77" parent="aspace_01b6344a2cd79d3b8c86b8c910de120a" type="Folder">3</container></did></c><c id="aspace_ref197" level="file"><did><unittitle>Greenspon, Algus: Christopher D'Arcangelo: Letters to Contributors, Installations, Exhibition List</unittitle><unitdate datechar="creation">2011</unitdate><container altrender="Manuscript box - Letter" id="aspace_3e9ace4dea775eacd3e367be38b6521a" label="Mixed Materials [31142054862456]" type="Box">10</container><container id="aspace_ec516d80b9e63613ab085456c92298dd" parent="aspace_3e9ace4dea775eacd3e367be38b6521a" type="Folder">4</container></did></c><c id="aspace_ref198" level="file"><did><unittitle>Sanders, Jay: Christopher D'Arcangelo Homage from Blue Binder</unittitle><unitdate datechar="creation">2011</unitdate><container altrender="Manuscript box - Letter" id="aspace_c1e459a61955a6e332c7a110c80d7ac2" label="Mixed Materials [31142054862456]" type="Box">10</container><container id="aspace_06573d71ffa3222c4b2b28e14d69a5e1" parent="aspace_c1e459a61955a6e332c7a110c80d7ac2" type="Folder">5</container></did></c><c id="aspace_ref199" level="file"><did><unittitle>Garcia-Torres, Mario: Christopher D'Arcangelo Homage</unittitle><unitdate datechar="creation">2011</unitdate><container altrender="Manuscript box - Letter" id="aspace_8f72be12d836b9a987b28d626d6f71b7" label="Mixed Materials [31142054862456]" type="Box">10</container><container id="aspace_72b418759381c14f2eb3274e67dc0b20" parent="aspace_8f72be12d836b9a987b28d626d6f71b7" type="Folder">6</container></did></c><c id="aspace_ref200" level="file"><did><unittitle>Hainley, Bruce: Christopher D'Arcangelo Homage</unittitle><unitdate datechar="creation">2011</unitdate><container altrender="Manuscript box - Letter" id="aspace_4f64e4e41f216dbb09c621877edde4fe" label="Mixed Materials [31142054862456]" type="Box">10</container><container id="aspace_4e41c16a24f455dad55f9c18a883f151" parent="aspace_4f64e4e41f216dbb09c621877edde4fe" type="Folder">7</container></did></c><c id="aspace_ref201" level="file"><did><unittitle>Harris, Larissa: Moratorium </unittitle><unitdate datechar="creation">2011</unitdate><container altrender="Manuscript box - Letter" id="aspace_7426ce9383ffee8cfe89398498264d7a" label="Mixed Materials [31142054862456]" type="Box">10</container><container id="aspace_363a55b97bac5491bade08490b2b794a" parent="aspace_7426ce9383ffee8cfe89398498264d7a" type="Folder">8</container></did></c><c id="aspace_ref202" level="file"><did><unittitle>Macgregor, Dean: Christopher D'Arcangelo Homage</unittitle><unitdate datechar="creation">2011</unitdate><container altrender="Manuscript box - Letter" id="aspace_a3484e80597914b74a773caa2260e33b" label="Mixed Materials [31142054862456]" type="Box">10</container><container id="aspace_9e4e8e278bac1d7713cb664df20e9c08" parent="aspace_a3484e80597914b74a773caa2260e33b" type="Folder">9</container></did></c><c id="aspace_ref203" level="file"><did><unittitle>Press: Christopher D'Arcangelo Homage</unittitle><unitdate datechar="creation">2011</unitdate><container altrender="Manuscript box - Letter" id="aspace_ee710314b42f78ba55e6f2665dce67a9" label="Mixed Materials [31142054862456]" type="Box">10</container><container id="aspace_710ac3472c403f60d5071417f4c7b08c" parent="aspace_ee710314b42f78ba55e6f2665dce67a9" type="Folder">10</container></did></c></c></c><c id="aspace_ref82" level="series"><did><unittitle>Series III: Objects</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref83" level="item"><did><unittitle>Stamp ("When I state that I am an anarchist, I must also state that I am not an anarchist")</unittitle><container altrender="Record carton" id="aspace_a884e19c692ff66ce8da339febd97bc1" label="Mixed Materials [31142054862423]" type="Box">5</container><container id="aspace_45f470b6d626806fa6ccd5f3bdaa9ac9" parent="aspace_a884e19c692ff66ce8da339febd97bc1" type="object">ID: 264.2.0001</container></did></c><c id="aspace_ref84" level="item"><did><unittitle>Stamp ("When I state that I am an anarchist,")</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_903834051425c739e07a12fa3903e501" label="Mixed Materials [31142054862423]" type="Box">5</container><container id="aspace_1d77923bb282a25dee8481565674a772" parent="aspace_903834051425c739e07a12fa3903e501" type="object">ID: 264.2.0002</container></did></c><c id="aspace_ref85" level="item"><did><unittitle>Handcuffs with key</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_8c4b30e31294bea3888664e5806fab42" label="Mixed Materials [31142054862423]" type="Box">5</container><container id="aspace_4134116155d405a1c3a7534168f2db71" parent="aspace_8c4b30e31294bea3888664e5806fab42" type="object">ID: 264.2.0003</container></did></c><c id="aspace_ref86" level="item"><did><unittitle>Handcuffs with keys in Box</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_9020ca36739188af881fd669c8e575ca" label="Mixed Materials [31142054862423]" type="Box">5</container><container id="aspace_619dc116c0f08519d0473abb1c6a9775" parent="aspace_9020ca36739188af881fd669c8e575ca" type="object">ID: 264.2.0004</container></did></c><c id="aspace_ref87" level="item"><did><unittitle>Coin changer</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_895b4f02ee927d05289895289520f5ed" label="Mixed Materials [31142054862423]" type="Box">5</container><container id="aspace_174cd57a5c0fff23842394725f406227" parent="aspace_895b4f02ee927d05289895289520f5ed" type="object">ID: 264.2.0005</container></did></c><c id="aspace_ref161" level="item"><did><unittitle>Box of Functional Constructions flyers</unittitle><container altrender="Record carton" id="aspace_1161ec3d16f02f508aa2dcbcf44283ce" label="Mixed Materials [31142054862423]" type="Box">5</container></did></c></c><c id="aspace_ref103" level="series"><did><unittitle>Series IV: Media</unittitle></did><c id="aspace_ref104" level="subseries"><did><unittitle>Subseries A: Audio - Access Copies</unittitle></did><accessrestrict id="aspace_db08f8245c5992b43f9f7b7f90681401"><head>Conditions Governing Access</head><p>Access copies for some materials are available by appointment for reading room viewing and listening only. Please contact fales.library@nyu.edu, 212-998-2596.</p></accessrestrict><c id="aspace_ref170" level="item"><did><unittitle>Interview with Louise Lawler</unittitle><unitid>ID: 264.0021</unitid><unitdate datechar="creation">1993</unitdate><container altrender="Jewel Case - 5.75" id="aspace_91a42a5ee4f671e3d58a4b7e5cdd6801" label="Audio [31142063251907]" type="case">264.0021</container></did><odd id="aspace_c88db0312a1b86a13f6273b6bc21c3cc"><head>General</head><p>Format: CD-R</p><p>Source: ID: 264.0016 "Christopher D'Arcangelo CD #3"</p><p>Content: </p><p>Interview with Louise Lawler conducted by Gideon D'Arcangelo at 401 Greenwich Street #8; 1/15/1993</p></odd></c><c id="aspace_ref172" level="item"><did><unittitle>Interview with Daniel Buren</unittitle><unitid>ID: 264.0022</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Jewel Case - 5.75" id="aspace_ac49e6ccc981f664473ea474061f1efa" label="Audio [31142063251915]" type="case">264.0022</container></did><odd id="aspace_63a1e87da90088b73a9a42d0410ec23f"><head>General</head><p>Format: CD-R</p><p>Source: ID: 264.0016 "Christopher D'Arcangelo CD #3"</p><p>Content: </p><p>Interview with Daniel Buren conducted by Gideon D'Arcangelo at 45 Lispenard Street.</p></odd></c><c id="aspace_ref174" level="item"><did><unittitle>[1] -- Cathy and Allan Suite</unittitle><unitid>ID: 264.0023</unitid><unitdate datechar="creation">1992</unitdate><container altrender="Jewel Case - 5.75" id="aspace_246333899863494b1f55b55306f7850f" label="Audio [31142063251923]" type="case">264.0023</container></did><odd id="aspace_faa1d140ae630930984003ebefc05e9e"><head>General</head><p>Format: CD-R</p><p>Source: ID: 264.0017 "Christopher D'Arcangelo CD #2"</p><p>Content: </p><p>Commentary about Chris's films by Cathy Weiner, Allan D'Arcangelo, and Gideon D'Arcangelo; 11/21/92</p></odd></c><c id="aspace_ref176" level="item"><did><unittitle>[1]-- Cathy and Allan [2]-- Cathy Suite 2 [3]-- Cathy Suite</unittitle><unitid>ID: 264.0024</unitid><unitdate datechar="creation">[1992]</unitdate><container altrender="Jewel Case - 5.75" id="aspace_1762f13cf1ffdf8173352092d5a45b5e" label="Audio [31142063251931]" type="case">264.0024</container></did><odd id="aspace_404d7a7cb89f206283c7979aaadc00da"><head>General</head><p>Format: CD-R</p><p>Source: ID: 264.0017 "Christopher D'Arcangelo CD #2"</p><p>Content: </p><p>Commentary about Chris's films by Cathy Weiner, Allan D'Arcangelo, and Gideon D'Arcangelo</p></odd></c><c id="aspace_ref178" level="item"><did><unittitle>Interview with Cathy Weiner, pt. 2</unittitle><unitid>ID: 264.0025</unitid><unitdate datechar="creation">1992</unitdate><container altrender="Jewel Case - 5.75" id="aspace_0d47a2f7c0253aca08bbeee75ab2561a" label="Audio [31142063251949]" type="case">264.0025</container></did><odd id="aspace_2d95a7ac5b13400a1fb416089ed94011"><head>General</head><p>Format: CD-R</p><p>Source: ID: 264.0017 "Christopher D'Arcangelo CD #2"</p><p>Content: </p><p>Conversation between Cathy Weiner and Gideon D'Arcangelo about Chris D'Arcangelo's work. Interview conducted at 202 Front Street; 10/21/1992</p></odd></c><c id="aspace_ref180" level="item"><did><unittitle>Chris</unittitle><unitid>ID: 264.0026</unitid><unitdate datechar="creation">unknown</unitdate><container altrender="Jewel Case - 5.75" id="aspace_d9dc6005f1b05146acbd678c640d862d" label="Audio [31142063251956]" type="case">264.0026</container></did><odd id="aspace_b10216ccde6f9d5dbf2e8f37168e274f"><head>General</head><p>Format: CD-R</p><p>Source: ID: 264.0018 "Christopher D'Arcangelo CD #1"</p></odd></c><c id="aspace_ref182" level="item"><did><unittitle>Ballet #17, Two Chairs</unittitle><unitid>ID: 264.0027</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Jewel Case - 5.75" id="aspace_a3959f87806781f35a60960bd2b42b10" label="Audio [31142063251964]" type="case">264.0027</container></did><odd id="aspace_f0cfa51adacd992572ca664822fdc46a"><head>General</head><p>Format: CD-R</p><p>Source: ID: 264.0018 "Christopher D'Arcangelo CD #1"</p></odd></c></c><c id="aspace_ref105" level="subseries"><did><unittitle>Subseries B: Audio - Originals</unittitle></did><c id="aspace_ref113" level="item"><did><unittitle>Ballet #17, August 28, 1978, Flower District, Fashion District</unittitle><unitid>ID: 264.0010</unitid><unitdate datechar="creation">1978</unitdate><container altrender="Record carton" id="aspace_5a52693bddcf422add4692d520a4b8b4" label="Mixed Materials [31142063513686]" type="Box">6</container><container id="aspace_071ade92fbe715e41255fa2f24dd7cbc" parent="aspace_5a52693bddcf422add4692d520a4b8b4" type="Media">ID: 264.0010</container></did><odd id="aspace_8a561599c396616b1c9f9d5101657a3f"><head>General</head><p>Format: 1/4" audiocassette</p><p>Duration: 00:30:00</p></odd></c><c id="aspace_ref115" level="item"><did><unittitle>Christopher</unittitle><unitid>ID: 264.0011</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_5428d1567660be567d275d420cb151fd" label="Mixed Materials [31142063513686]" type="Box">6</container><container id="aspace_143ea5a96316582d09ffd3ed708d9233" parent="aspace_5428d1567660be567d275d420cb151fd" type="Media">ID: 264.0011</container></did><odd id="aspace_cf92a8f56607b8847110fc5840cc5938"><head>General</head><p>Format: 1/4" audiocassette</p><p>Duration: Unknown</p></odd></c><c id="aspace_ref121" level="item"><did><unittitle>Interview with Cathy Weiner and Allan D'Arcangelo, conducted by Gideon D'Arcangelo, 11/21/92</unittitle><unitid>ID: 264.0012</unitid><unitdate datechar="creation">1992</unitdate><container altrender="Record carton" id="aspace_75f73cd6330c3d6d9cde1395db3c03f8" label="Mixed Materials [31142063513686]" type="Box">6</container><container id="aspace_3676bcc3edf01c134bac6a012bff9fa0" parent="aspace_75f73cd6330c3d6d9cde1395db3c03f8" type="Media">ID: 264.0012</container></did><odd id="aspace_a22a3516125263911fccd49fbc64a5bb"><head>General</head><p>Format: 1/4" audiocassette</p><p>Duration: Unknown</p></odd></c><c id="aspace_ref123" level="item"><did><unittitle>Interview with Cathy Weiner and Allan D'Arcangelo, conducted by Gideon D'Arcangelo, 11/21/92</unittitle><unitid>ID: 264.0013</unitid><unitdate datechar="creation">1992</unitdate><container altrender="Record carton" id="aspace_58f5de3179f46e18e4caa2fbca46f0bb" label="Mixed Materials [31142063513686]" type="Box">6</container><container id="aspace_174bb736eff5626a00e2625b8d36e875" parent="aspace_58f5de3179f46e18e4caa2fbca46f0bb" type="Media">ID: 264.0013</container></did><odd id="aspace_919ac0b5080d1c6ca1c1103a172a0f3c"><head>General</head><p>Format: 1/4" audiocassette</p><p>Duration: Unknown</p></odd></c><c id="aspace_ref184" level="item"><did><unittitle>Interview with Peter Nadin conducted by Gideon D'Arcangelo on the subject of collaboration with Chris D'Arcangelo, 11/27/92</unittitle><unitid>ID: 264.0028</unitid><unitdate datechar="creation">1992</unitdate><container altrender="Record carton" id="aspace_2d12ff92113079bb6c470a751e7bf108" label="Mixed Materials [31142063513686]" type="Box">6</container><container id="aspace_985873f93b30902dc7a814ee0a751ec4" parent="aspace_2d12ff92113079bb6c470a751e7bf108" type="Media">ID: 264.0028</container><container altrender="Audiocassette Case - 0.75 x 4.25" id="aspace_d411c6c732cf6b779a77a18cdaceb41a" label="Audio [31142063242518]" type="case">264.0028</container></did><odd id="aspace_1395562937b4401771051ea88e479830"><head>General</head><p>Format: 1/4" audiocassette</p><p>Duration: Unknown</p></odd></c><c id="aspace_ref125" level="item"><did><unittitle>Interview with Louise Lawler conducted by Gideon D'Arcangelo at 407 Greenwich St. #8, 1/15/93</unittitle><unitid>ID: 264.0014</unitid><unitdate datechar="creation">1993</unitdate><container altrender="Record carton" id="aspace_ec0535e9fb228c25555be8294f5f7731" label="Mixed Materials [31142063513686]" type="Box">6</container><container id="aspace_8894361de073e54f28258469da64fde7" parent="aspace_ec0535e9fb228c25555be8294f5f7731" type="Media">ID: 264.0014</container></did><odd id="aspace_e532ff9ed2232ca3eb73191607fedf4d"><head>General</head><p>Format: 1/4" audiocassette</p><p>Duration: Unknown</p></odd></c><c id="aspace_ref127" level="item"><did><unittitle>Interview with Daniel Buren at 45 Lispenard St. 9W, conducted by Gideon D'Arcangelo concerning plans for project - the work of Chris D'Arcangelo, 4/25/93</unittitle><unitid>ID: 264.0015</unitid><unitdate datechar="creation">1993</unitdate><container altrender="Record carton" id="aspace_742a804ed282e3d7d8209e1a6b69ef40" label="Mixed Materials [31142063513686]" type="Box">6</container><container id="aspace_3a7cd06afbe92eb1326aad8edebedaa3" parent="aspace_742a804ed282e3d7d8209e1a6b69ef40" type="Media">ID: 264.0015</container></did><odd id="aspace_e73d217e0542a1c17db165de8ae6604b"><head>General</head><p>Format: 1/4" audiocassette</p><p>Duration: Unknown</p></odd></c><c id="aspace_ref111" level="item"><did><unittitle>[Two Chairs for Talking]</unittitle><unitid>ID: 264.0009</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_4b1207fe5b0ae67c47ad271438dd7f96" label="Mixed Materials [31142063513686]" type="Box">6</container><container id="aspace_0c0df3f5aecbb415c7c0de9a102bd114" parent="aspace_4b1207fe5b0ae67c47ad271438dd7f96" type="Media">ID: 264.0009</container></did><odd id="aspace_7c4ba5ffe8f15dc355820b8dec04d93f"><head>General</head><p>Format: 1/4" audiocassette</p><p>Duration: Unknown</p></odd></c><c id="aspace_ref129" level="item"><did><unittitle>Christopher D'Arcangelo CD #1</unittitle><unitid>ID: 264.0018</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_e14d36cbec7be7542108ae684575511c" label="Mixed Materials [31142063513686]" type="Box">6</container><container id="aspace_6764efccf7d5c6f84b3fad6b8f46a814" parent="aspace_e14d36cbec7be7542108ae684575511c" type="Media">ID: 264.0018</container></did><odd id="aspace_2b40d0212156a394942b917d745aa98b"><head>General</head><p>Format: CD-R</p><p>Duration: Unknown</p></odd></c><c id="aspace_ref131" level="item"><did><unittitle>Christopher D'Arcangelo CD #2</unittitle><unitid>ID: 264.0017</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_e2385860fb6abf3d36da45a212596633" label="Mixed Materials [31142063513686]" type="Box">6</container><container id="aspace_1361e3da8964e6a37e3b398495dcaa9a" parent="aspace_e2385860fb6abf3d36da45a212596633" type="Media">ID: 264.0017</container></did><odd id="aspace_9b00f981d2fbdec454d88e996ec259a1"><head>General</head><p>Format: CD-R</p><p>Duration: Unknown</p></odd></c><c id="aspace_ref133" level="item"><did><unittitle>Christopher D'Arcangelo CD #3</unittitle><unitid>ID: 264.0016</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_58ac5fe2bebb69e34b9b1db636e17f9f" label="Mixed Materials [31142063513686]" type="Box">6</container><container id="aspace_7ae8aee1dccd6d9b90f94219ca2318cb" parent="aspace_58ac5fe2bebb69e34b9b1db636e17f9f" type="Media">ID: 264.0016</container></did><odd id="aspace_e8ca7c9b408bac83aa511f2d62add9a1"><head>General</head><p>Format: CD-R</p><p>Duration: Unknown</p></odd></c></c><c id="aspace_ref106" level="subseries"><did><unittitle>Subseries C: Video - Access Copies</unittitle></did><accessrestrict id="aspace_78b2c28943110fb3d7d3321e77693700"><head>Conditions Governing Access</head><p>Access copies for some materials are available by appointment for reading room viewing and listening only. Please contact fales.library@nyu.edu, 212-998-2596.</p></accessrestrict><c id="aspace_ref166" level="item"><did><unittitle>Christopher D'Arcangelo: Museum Pieces and Other Footage </unittitle><unitid>ID: 264.0019</unitid><unitdate datechar="creation">unknown</unitdate><container altrender="Jewel Case - 5.75" id="aspace_e2090096c8161658f8f0a29c6baaf197" label="video [31142063244274]" type="case">264.0019A</container><container altrender="Jewel Case - 5.75" id="aspace_5ace0f23449885eeb6360401c23f8ea2" label="video [31142063244282]" type="case">264.0019B</container></did><odd id="aspace_f34c1aa980bba2dedaeb2aed0c82bc14"><head>General</head><p>Content:</p><p>1. Guggenheim Museum, NYC #3
+Identification of item,  date (if known); Christopher D'Arcangelo Papers; MSS 264; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>
+    </prefercite>
+    <custodhist id="aspace_d2950e80e74d69b7cffecad9ba5a399f">
+      <head>Provenance</head>
+      <p>The collection was donated to Fales by Cathy Weiner and the D'Arcangelo Family Partnership in 2009.</p>
+    </custodhist>
+    <phystech id="aspace_1a60ccd5e7a83db60c6b792fc7de00be">
+      <head>Audiovisual Access Policies and Procedures</head>
+      <p>Access to some audiovisual materials in this collection is available through digitized access copies. Researchers may view an item's original container, but the media themselves are not available for playback because of preservation concerns. Materials that have already been digitized are noted in the collection's finding aid and can be requested in our reading room. To request an access copy, or if you are unsure if an item has been digitized, please contact special.collections@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
+    </phystech>
+    <controlaccess>
+      <genreform source="aat">Periodicals</genreform>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Articles.</genreform>
+      <genreform source="aat">Financial records</genreform>
+      <genreform source="aat">Notebooks</genreform>
+      <genreform source="aat">Posters.</genreform>
+      <subject source="lcsh">Conceptual art.</subject>
+      <genreform source="aat">Photographic prints.</genreform>
+      <genreform source="aat">Sketchbooks.</genreform>
+      <genreform source="aat">Artifacts.</genreform>
+      <corpname authfilenumber="(lccn)n79065486" source="naf">Solomon R. Guggenheim Museum</corpname>
+      <corpname authfilenumber="(lccn)n79032811" source="naf">Whitney Museum of American Art</corpname>
+      <corpname authfilenumber="(lccn)n91120291" source="naf">Norton Simon Museum (Pasadena, Calif.) </corpname>
+      <corpname authfilenumber="(lccn)n81015806" source="naf">Los Angeles Institute of Contemporary Art </corpname>
+      <corpname source="naf">Musée du Louvre</corpname>
+      <persname source="local">D'Arcangelo, Christopher</persname>
+      <persname source="naf">Lawler, Louise</persname>
+      <persname source="naf">Buren, Daniel</persname>
+      <persname source="local">Esman, Rosa</persname>
+      <corpname authfilenumber="(lccn)n86855422" source="naf">Artists Space (Gallery) </corpname>
+      <corpname authfilenumber="(lccn)n79129629" source="naf">Metropolitan Museum of Art (New York, N.Y.)</corpname>
+      <corpname authfilenumber="(lccn)n79021281" source="naf">Museum of Modern Art (New York, N.Y.)</corpname>
+      <corpname authfilenumber="(lccn)n78097041" source="naf">Los Angeles County Museum of Art </corpname>
+      <corpname authfilenumber="(lccn)n79139080" source="naf">Stedelijk Van Abbemuseum </corpname>
+      <persname source="naf">Antonakos, Stephen, 1926-2013</persname>
+      <corpname authfilenumber="(lccn)n79046211" source="naf">J. Paul Getty Museum </corpname>
+      <persname source="naf">D'Arcangelo, Allan, 1930-1998</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref1" level="series">
+        <did>
+          <unittitle>Series I: Work Files</unittitle>
+          <unitdate datechar="creation">1965-1979</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref2" level="file">
+          <did>
+            <unittitle>Announcement/P. Nadin [Functional Constructions]</unittitle>
+            <unitdate datechar="creation" normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fb9920782826ad3c38031b12c762e2bd" label="Mixed Materials [31142054862381]" type="Box">1</container>
+            <container id="aspace_718008f37e82e0d7f0de70a83a7be5fa" parent="aspace_fb9920782826ad3c38031b12c762e2bd" type="Folder">1</container>
+          </did>
+          <userestrict id="aspace_1758212847be45710f55d0bbba061448">
+            <head>Conditions Governing Use</head>
+            <p>Duplication of this folder is allowed for research purposes.</p>
+          </userestrict>
+        </c>
+        <c id="aspace_ref3" level="file">
+          <did>
+            <unittitle>Antonakos Ceiling - Contract</unittitle>
+            <unitdate datechar="creation" normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_40197f951fc763e48273f3663e82cade" label="Mixed Materials [31142054862381]" type="Box">1</container>
+            <container id="aspace_c698eeb696c50889bbe10c5c04ef77b9" parent="aspace_40197f951fc763e48273f3663e82cade" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref4" level="file">
+          <did>
+            <unittitle>Antonakos Paperwork for Ceiling</unittitle>
+            <unitdate datechar="creation" normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_61b500c3b40d798bf04543eb5a6fdc36" label="Mixed Materials [31142054862381]" type="Box">1</container>
+            <container id="aspace_870d49c6b34fce8c258091bcc0b38e1d" parent="aspace_61b500c3b40d798bf04543eb5a6fdc36" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref5" level="file">
+          <did>
+            <unittitle>Artists Space</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_27e7a442838a23479c013e8869088172" label="Mixed Materials [31142054862381]" type="Box">1</container>
+            <container id="aspace_2d37dfb2bc7c3a73fc2fc256346cf116" parent="aspace_27e7a442838a23479c013e8869088172" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref6" level="file">
+          <did>
+            <unittitle>Artists Space - Catalogs and Postcards</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6a7248efd8b5e128d03931b789f37053" label="Mixed Materials [31142054862381]" type="Box">1</container>
+            <container id="aspace_3019808165c0d784564e5fa170ab1641" parent="aspace_6a7248efd8b5e128d03931b789f37053" type="Folder">5</container>
+          </did>
+          <userestrict id="aspace_3fb044f85d19d7aea763652ce161b2d0">
+            <head>Conditions Governing Use</head>
+            <p>Duplication of this folder is allowed for research purposes.</p>
+          </userestrict>
+        </c>
+        <c id="aspace_ref7" level="file">
+          <did>
+            <unittitle>Artists Space - Reference</unittitle>
+            <unitdate datechar="creation" normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0ad77539188223d7aa3022d169aa4065" label="Mixed Materials [31142054862381]" type="Box">1</container>
+            <container id="aspace_2d7bb81e908d2e248f56595330a0f84e" parent="aspace_0ad77539188223d7aa3022d169aa4065" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref8" level="file">
+          <did>
+            <unittitle>Artists Space - Wall Text</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f987e2edc61fbd160c4c528d72e6a250" label="Mixed Materials [31142054862381]" type="Box">1</container>
+            <container id="aspace_468712c24367f9296236b0d2ef5dba8d" parent="aspace_f987e2edc61fbd160c4c528d72e6a250" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>Ballet #9 [Daniel Buren]</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e65747cdb383b785131cad0479dc41b3" label="Mixed Materials [31142054862381]" type="Box">1</container>
+            <container id="aspace_8ca92f2b7d567209cd0521567cdf1089" parent="aspace_e65747cdb383b785131cad0479dc41b3" type="Folder">8</container>
+          </did>
+          <userestrict id="aspace_97d2e0767afaf443c8ede5ebc6afd405">
+            <head>Conditions Governing Use</head>
+            <p>Duplication of this folder is allowed for research purposes.</p>
+          </userestrict>
+        </c>
+        <c id="aspace_ref9" level="file">
+          <did>
+            <unittitle>Bell and Howell Projector and Camera</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">undated; 1977</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f58ed80078e7beeb03dad3429d31cf05" label="Mixed Materials [31142054862381]" type="Box">1</container>
+            <container id="aspace_5ee8fa0b41305a7ede5687fad8739b35" parent="aspace_f58ed80078e7beeb03dad3429d31cf05" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>Buren Ballet #8</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_de7691835dce836d197f43847bedd6dc" label="Mixed Materials [31142054862381]" type="Box">1</container>
+            <container id="aspace_30dc869225fac274db6709a2e3ae9840" parent="aspace_de7691835dce836d197f43847bedd6dc" type="Folder">10</container>
+          </did>
+          <userestrict id="aspace_fad841607b74de7a630eed38785ca64f">
+            <head>Conditions Governing Use</head>
+            <p>Duplication of this folder is allowed for research purposes.</p>
+          </userestrict>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>Buren Ballet #10</unittitle>
+            <unitdate datechar="creation" normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9961516ac971d59c3e6b19ea5b9c8333" label="Mixed Materials [31142054862381]" type="Box">1</container>
+            <container id="aspace_8d4baaf7144626c3ed3897c25183dc11" parent="aspace_9961516ac971d59c3e6b19ea5b9c8333" type="Folder">11</container>
+          </did>
+          <userestrict id="aspace_158adcd42a75d0fbba9fac65bab1299b">
+            <head>Conditions Governing Use</head>
+            <p>Duplication of this folder is allowed for research purposes.</p>
+          </userestrict>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>Buren Ballet #11</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3822a3ec440677d3a23a144f10c2d099" label="Mixed Materials [31142054862381]" type="Box">1</container>
+            <container id="aspace_9f4b3256edcfbc359c30dc1a45f9e521" parent="aspace_3822a3ec440677d3a23a144f10c2d099" type="Folder">12</container>
+          </did>
+          <userestrict id="aspace_f38905d76c8f38c4067dc3fbd3c6fdd4">
+            <head>Conditions Governing Use</head>
+            <p>Duplication of this folder is allowed for research purposes.</p>
+          </userestrict>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Buren Ballet #12</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1b7d80165b8bafa50411ac1a8f3c5e56" label="Mixed Materials [31142054862381]" type="Box">1</container>
+            <container id="aspace_cff1c498c0365bf602b1ca8da892f26b" parent="aspace_1b7d80165b8bafa50411ac1a8f3c5e56" type="Folder">13</container>
+          </did>
+          <userestrict id="aspace_e84ee4dfd708b8999221233e02d41d7c">
+            <head>Conditions Governing Use</head>
+            <p>Duplication of this folder is allowed for research purposes.</p>
+          </userestrict>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Buren Ballet #13</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a908108d5e4a40f7d282da7b50acb43d" label="Mixed Materials [31142054862381]" type="Box">1</container>
+            <container id="aspace_3204934665ae9baaa2448a9bbc6feb28" parent="aspace_a908108d5e4a40f7d282da7b50acb43d" type="Folder">14</container>
+          </did>
+          <userestrict id="aspace_adf021f251c1521eec4ddd7ddd46fe05">
+            <head>Conditions Governing Use</head>
+            <p>Duplication of this folder is allowed for research purposes.</p>
+          </userestrict>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Buren Ballet #14</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_01dc73a25577e44768395fc8f9a6677c" label="Mixed Materials [31142054862381]" type="Box">1</container>
+            <container id="aspace_70e553d3976aed7939cab36ab2acdeb4" parent="aspace_01dc73a25577e44768395fc8f9a6677c" type="Folder">15</container>
+          </did>
+          <userestrict id="aspace_e0382e319e2ef2ffe522c8649d5401fb">
+            <head>Conditions Governing Use</head>
+            <p>Duplication of this folder is allowed for research purposes.</p>
+          </userestrict>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Buren Ballet #15</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7f4f5665a903bb2664ee584a8d4e3cdb" label="Mixed Materials [31142054862381]" type="Box">1</container>
+            <container id="aspace_37f5497317d755ecff418f5b8a6e7e6b" parent="aspace_7f4f5665a903bb2664ee584a8d4e3cdb" type="Folder">16</container>
+          </did>
+          <userestrict id="aspace_02b6e22af43be32c93a3b1ff0f2f4efc">
+            <head>Conditions Governing Use</head>
+            <p>Duplication of this folder is allowed for research purposes.</p>
+          </userestrict>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Buren Ballet #16 14th St NYC</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e2622234ed5131f7052e7c085880a315" label="Mixed Materials [31142054862381]" type="Box">1</container>
+            <container id="aspace_23240f7ba8c77a01d2bcc6d4044003d0" parent="aspace_e2622234ed5131f7052e7c085880a315" type="Folder">17</container>
+          </did>
+          <userestrict id="aspace_ecc7afa2711e813d81b6b20f6daffbcd">
+            <head>Conditions Governing Use</head>
+            <p>Duplication of this folder is allowed for research purposes.</p>
+          </userestrict>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Buren Ballet #17 Flower District, Flatiron District</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a57e031cb993415b0e3cd5aa06fb30a8" label="Mixed Materials [31142054862381]" type="Box">1</container>
+            <container id="aspace_0e4c2b574520b84a4562f759def52cee" parent="aspace_a57e031cb993415b0e3cd5aa06fb30a8" type="Folder">18</container>
+          </did>
+          <userestrict id="aspace_4c7e9d14ebf1b80a742bc0f49a6fcaef">
+            <head>Conditions Governing Use</head>
+            <p>Duplication of this folder is allowed for research purposes.</p>
+          </userestrict>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Buren Ballet #18 The Empire State Building</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_339e26ff1cc63e60c4452132584d07e4" label="Mixed Materials [31142054862381]" type="Box">1</container>
+            <container id="aspace_57f01116bb5f5b58effd1af2c4bc764c" parent="aspace_339e26ff1cc63e60c4452132584d07e4" type="Folder">19</container>
+          </did>
+          <userestrict id="aspace_5ca4513de0a0424cbd30def9e5e3244f">
+            <head>Conditions Governing Use</head>
+            <p>Duplication of this folder is allowed for research purposes.</p>
+          </userestrict>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Daniel Buren - Catalogs, Photos, Postcards</unittitle>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_91784b95cea9abc4580bc5c8da2ac17e" label="Mixed Materials [31142054862381]" type="Box">1</container>
+            <container id="aspace_4af586385cc835cd1fcad5e032d66c21" parent="aspace_91784b95cea9abc4580bc5c8da2ac17e" type="Folder">20</container>
+          </did>
+          <userestrict id="aspace_a9944a0067c31766aece4585304106b6">
+            <head>Conditions Governing Use</head>
+            <p>Duplication of this folder is allowed for research purposes..</p>
+          </userestrict>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Buren - Ballets - Reference</unittitle>
+            <unitdate datechar="creation" normal="1975/1978" type="inclusive">1975-1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_84e6856a02720e645fd180fe2293710c" label="Mixed Materials [31142054862381]" type="Box">1</container>
+            <container id="aspace_d033050859b00267132b8c3fb0c5e51a" parent="aspace_84e6856a02720e645fd180fe2293710c" type="Folder">21</container>
+          </did>
+          <userestrict id="aspace_2350d86adf61a99d9dc508ffa9a06d10">
+            <head>Conditions Governing Use</head>
+            <p>Duplication of this folder is allowed for research purposes.</p>
+          </userestrict>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Buren Parade</unittitle>
+            <unitdate datechar="creation" normal="1973/1978" type="inclusive">1973-1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_40d2dbb5cf169e818bdb778282a1d238" label="Mixed Materials [31142054862381]" type="Box">1</container>
+            <container id="aspace_ffa5a9decc6ec42a0c370ef4694e4772" parent="aspace_40d2dbb5cf169e818bdb778282a1d238" type="Folder">22</container>
+          </did>
+          <userestrict id="aspace_573375d3e26c1238f8532b6924aaa96a">
+            <head>Conditions Governing Use</head>
+            <p>Duplication of this folder is allowed for research purposes.</p>
+          </userestrict>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Contemporary Arts Center [Cincinatti]</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">May 20, 1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_02fa869c0c47c349c141a9ea8e30dbff" label="Mixed Materials [31142054862381]" type="Box">1</container>
+            <container id="aspace_fa6d97de35e2512a2b874572024195b5" parent="aspace_02fa869c0c47c349c141a9ea8e30dbff" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Jeffrey Deitch Shows/John Weber Gallery</unittitle>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f0e5be8676484a9ffe971d4e50ab9c23" label="Mixed Materials [31142054862381]" type="Box">1</container>
+            <container id="aspace_f30b580bb82073e774560228a1fd7d28" parent="aspace_f0e5be8676484a9ffe971d4e50ab9c23" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Eindhoven - Research</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_46b1146d3a04338709617a645618baa5" label="Mixed Materials [31142054862381]" type="Box">1</container>
+            <container id="aspace_8886e4fadfa9ac6600e53f8033ed83cf" parent="aspace_46b1146d3a04338709617a645618baa5" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Rosa Esman - Door</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">June 1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c51de81aecacc1c72f26cafec4bb7df3" label="Mixed Materials [31142054862381]" type="Box">1</container>
+            <container id="aspace_f53ad0e837b1731836ccb9629378cc38" parent="aspace_c51de81aecacc1c72f26cafec4bb7df3" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Rosa Esman - Look Out for What You Look At</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">May 1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_895a7b1d2ec3dd8d4e4f1b064a898929" label="Mixed Materials [31142054862399]" type="Box">2</container>
+            <container id="aspace_8cd5ce48b42ae29b987848380c3c745d" parent="aspace_895a7b1d2ec3dd8d4e4f1b064a898929" type="Folder">1</container>
+          </did>
+          <userestrict id="aspace_6e80229d8cc073d3584c60b4579260fd">
+            <head>Conditions Governing Use</head>
+            <p>Duplication of this folder is allowed for research purposes.</p>
+          </userestrict>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Rosa Esman Invitational - Text</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">June 1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_429cc61ec08a0306beda9fc10d84dfb3" label="Mixed Materials [31142054862399]" type="Box">2</container>
+            <container id="aspace_1767ae33ba87a4348a89e3b2bda29a4e" parent="aspace_429cc61ec08a0306beda9fc10d84dfb3" type="Folder">2</container>
+          </did>
+          <userestrict id="aspace_a6ca6a2e4e32db699f3737eaed47829e">
+            <head>Conditions Governing Use</head>
+            <p>Duplication of this folder is allowed for research purposes.</p>
+            <p>.</p>
+          </userestrict>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Exhibition Announcements</unittitle>
+            <unitdate datechar="creation" normal="1975/1977" type="inclusive">1975-1977</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_98ddd6434feaf5cbadf6584059766b23" label="Mixed Materials [31142054862399]" type="Box">2</container>
+            <container id="aspace_773277503e8ba38a2920a790c02c3dc1" parent="aspace_98ddd6434feaf5cbadf6584059766b23" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Exhibition Catalogs</unittitle>
+            <unitdate datechar="creation" normal="1973/1975" type="inclusive">1973-1975</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7246a5e61c6ca95dc135e18ec5308f0d" label="Mixed Materials [31142054862399]" type="Box">2</container>
+            <container id="aspace_0952f093f5b04744d262baaf9d9432a5" parent="aspace_7246a5e61c6ca95dc135e18ec5308f0d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Functional Constructions</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6a80de7576911d8ea358461cf43b6ff0" label="Mixed Materials [31142054862399]" type="Box">2</container>
+            <container id="aspace_df38424b4bee9550dd4da1a10cb7748f" parent="aspace_6a80de7576911d8ea358461cf43b6ff0" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Functional Constructions - Notes</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bbea01b97c5f949f92830c46724b12a3" label="Mixed Materials [31142054862399]" type="Box">2</container>
+            <container id="aspace_08ab24e5eca15525b53da21c49053c88" parent="aspace_bbea01b97c5f949f92830c46724b12a3" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>General Art Reference</unittitle>
+            <unitdate datechar="creation" normal="1975/1977" type="inclusive">1975-1977; undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f18e1040d9a419723d5199373c0841d7" label="Mixed Materials [31142054862399]" type="Box">2</container>
+            <container id="aspace_b78a23445103acc0f89b7c0611248840" parent="aspace_f18e1040d9a419723d5199373c0841d7" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Getty Museum - Reference</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d2af7fc21daa5235cefb8ef2091b69a9" label="Mixed Materials [31142054862399]" type="Box">2</container>
+            <container id="aspace_10db02dc25af3d840d38dd824070892d" parent="aspace_d2af7fc21daa5235cefb8ef2091b69a9" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Guggenheim Museum, NY</unittitle>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_01b251990cf4aa023d44828b58cce583" label="Mixed Materials [31142054862399]" type="Box">2</container>
+            <container id="aspace_8b4c613b94a69fc30cdc904237b4131f" parent="aspace_01b251990cf4aa023d44828b58cce583" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Hands Locations</unittitle>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_610b0625add780426f27afbe044fa1b4" label="Mixed Materials [31142054862399]" type="Box">2</container>
+            <container id="aspace_8c9be9f168547cecf474356e7a7eed63" parent="aspace_610b0625add780426f27afbe044fa1b4" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Harper Painting</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_de1d304a9d5d2e7db909524c70948da5" label="Mixed Materials [31142054862399]" type="Box">2</container>
+            <container id="aspace_780ccc41f9cd012e24c21d50e0f7bc63" parent="aspace_de1d304a9d5d2e7db909524c70948da5" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Jobs Billed</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_23a502987aceb3c7b08d95506b5ce2c7" label="Mixed Materials [31142054862399]" type="Box">2</container>
+            <container id="aspace_a3cc923b371afa0da02b302212e254ec" parent="aspace_23a502987aceb3c7b08d95506b5ce2c7" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Kunst Des XX. Jahrunderts Aus Dem Van Abbemuseum Eindhoven - Catalog</unittitle>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_abab4a5247620e7f596181376c3077b8" label="Mixed Materials [31142054862399]" type="Box">2</container>
+            <container id="aspace_22fe2b1db2cb7dd83ae4b11933c1159e" parent="aspace_abab4a5247620e7f596181376c3077b8" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>LAICA Journal, No. 13</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_50fb314041a2518db92812032cd0411e" label="Mixed Materials [31142054862399]" type="Box">2</container>
+            <container id="aspace_abf9578254f7fdd670663400911d321c" parent="aspace_50fb314041a2518db92812032cd0411e" type="Folder">14</container>
+          </did>
+          <userestrict id="aspace_c5c29efc33b92673783f0ecafdc90ed5">
+            <head>Conditions Governing Use</head>
+            <p>Duplication of this folder is allowed for research purposes.</p>
+            <p>.</p>
+          </userestrict>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Louise Lawler - Ceiling</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_34eb0b4a37ff9697388c869b6d0a66e2" label="Mixed Materials [31142054862399]" type="Box">2</container>
+            <container id="aspace_bbce59c211e0dcea77efb5e078a131d7" parent="aspace_34eb0b4a37ff9697388c869b6d0a66e2" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>"Lives" Catalog - Jeffrey Deitch</unittitle>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_febc42c71063b46204204bd8b20aab3c" label="Mixed Materials [31142054862399]" type="Box">2</container>
+            <container id="aspace_61876dacb3a5764bb7d5e623a1e8d756" parent="aspace_febc42c71063b46204204bd8b20aab3c" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Los Angeles County Museum of Art</unittitle>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bf6068e9ef4007c587a7de35b179c1df" label="Mixed Materials [31142054862407]" type="Box">3</container>
+            <container id="aspace_e905850fcf4e5c4e19fa9cff7de89e52" parent="aspace_bf6068e9ef4007c587a7de35b179c1df" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Los Angeles Institute of Contemporary Art</unittitle>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e954dee5b7a799a26a66dc2656e5b28d" label="Mixed Materials [31142054862407]" type="Box">3</container>
+            <container id="aspace_3e767122967e221aa58f8970a2db1c56" parent="aspace_e954dee5b7a799a26a66dc2656e5b28d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Los Angeles Institute of Contemporary Art</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3635b27c974dcf7a93b8b33d54cdc1c0" label="Mixed Materials [31142054862407]" type="Box">3</container>
+            <container id="aspace_c9c105808edf25af28982f1fce040781" parent="aspace_3635b27c974dcf7a93b8b33d54cdc1c0" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Louvre</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e189f24f7cf7e2ed7ea4f7e5f6a453e5" label="Mixed Materials [31142054862407]" type="Box">3</container>
+            <container id="aspace_d9ce448a56ba055134065a369e264df7" parent="aspace_e189f24f7cf7e2ed7ea4f7e5f6a453e5" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Louvre - Writings + Statement</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_acf475d1dddf13c04cf522e150b72e68" label="Mixed Materials [31142054862407]" type="Box">3</container>
+            <container id="aspace_8bbfab55e37ce9eee588b2093fabb04e" parent="aspace_acf475d1dddf13c04cf522e150b72e68" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Mad Magazine Cover</unittitle>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">July 1965</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_64cb9c0d8f3812d2969a094f9aee743a" label="Mixed Materials [31142054862407]" type="Box">3</container>
+            <container id="aspace_d5d1b6bb3c1185e5942871b01c758344" parent="aspace_64cb9c0d8f3812d2969a094f9aee743a" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Metropolitan Museum</unittitle>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ddc91ca6e6c80d3beef007fe31734f66" label="Mixed Materials [31142054862407]" type="Box">3</container>
+            <container id="aspace_36093f052169a696d9370e51116f96ad" parent="aspace_ddc91ca6e6c80d3beef007fe31734f66" type="Folder">7</container>
+          </did>
+          <userestrict id="aspace_763426413578a465d66ba127267f4ce0">
+            <head>Conditions Governing Use</head>
+            <p>Duplication of this folder is allowed for research purposes.</p>
+          </userestrict>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Miscellaneous Receipts</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f25aaf430cf018fd55774fe5c3446099" label="Mixed Materials [31142054862407]" type="Box">3</container>
+            <container id="aspace_66bf25442959a210197af6dcbb36e6ea" parent="aspace_f25aaf430cf018fd55774fe5c3446099" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Miscellaneous Writings</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_05dbcf0a45fad04b20c6fbce6e828fff" label="Mixed Materials [31142054862407]" type="Box">3</container>
+            <container id="aspace_5d9c6d6494fa04f8d71e72119baf5504" parent="aspace_05dbcf0a45fad04b20c6fbce6e828fff" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Monchengladbach Grant</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_131a71bc64c3af0f1341765ec00cc5d1" label="Mixed Materials [31142054862407]" type="Box">3</container>
+            <container id="aspace_b340fb871cff705f8ee8434c4b069a83" parent="aspace_131a71bc64c3af0f1341765ec00cc5d1" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Movie Camera Brochures</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_20a0e382afe154369ee25588ff019697" label="Mixed Materials [31142054862407]" type="Box">3</container>
+            <container id="aspace_b9b6f264f47e4abb3cb0d705703525db" parent="aspace_20a0e382afe154369ee25588ff019697" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Museum of Modern Art</unittitle>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ec4cdc88d22edd85e4cac0ae4a0c123c" label="Mixed Materials [31142054862407]" type="Box">3</container>
+            <container id="aspace_38fd61bb6e4e630ee9b789965dec8442" parent="aspace_ec4cdc88d22edd85e4cac0ae4a0c123c" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">undated; 1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_af3318dfdc9c782cec6c003e4e99ba89" label="Mixed Materials [31142054862407]" type="Box">3</container>
+            <container id="aspace_35853a7c5b96806bafa992af5ed2bb0d" parent="aspace_af3318dfdc9c782cec6c003e4e99ba89" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Newspaper Clippings - Scrapbook</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_14f5ab35d5d2d0cac7bc38cc8ffa8981" label="Mixed Materials [31142054862407]" type="Box">3</container>
+            <container id="aspace_1339aae3b5fd8314d3e4ee1d87a78626" parent="aspace_14f5ab35d5d2d0cac7bc38cc8ffa8981" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Norton Simon Museum</unittitle>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8ca07819ae12de8934e08a2a7aec7bf0" label="Mixed Materials [31142054862407]" type="Box">3</container>
+            <container id="aspace_fe3fa8271b839eabc511ae7070642ea8" parent="aspace_8ca07819ae12de8934e08a2a7aec7bf0" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Paint Charts</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f8412f4d77370133103b731cf7c8b416" label="Mixed Materials [31142054862407]" type="Box">3</container>
+            <container id="aspace_775e459f41c1518a17d7892d5a7c3f5a" parent="aspace_f8412f4d77370133103b731cf7c8b416" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Postcards</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c4b9c92bbe8b2e98ead888c718aba2cf" label="Mixed Materials [31142054862407]" type="Box">3</container>
+            <container id="aspace_4f92e6bf1f73b10913768191e51374dd" parent="aspace_c4b9c92bbe8b2e98ead888c718aba2cf" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>P.S. 1</unittitle>
+            <unitdate datechar="creation">1977</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d86e1d595a1f93baf1dc687d1e9d65a3" label="Mixed Materials [31142054862407]" type="Box">3</container>
+            <container id="aspace_f07c89445fc99308581b57cfbfe79203" parent="aspace_d86e1d595a1f93baf1dc687d1e9d65a3" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Rijksmuseum / Rembrant / Restoration</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_144599be88d5bf5e783e040bcb18e5b7" label="Mixed Materials [31142054862407]" type="Box">3</container>
+            <container id="aspace_d68c2ee957aad10e5e0168ace39957f3" parent="aspace_144599be88d5bf5e783e040bcb18e5b7" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="item">
+          <did>
+            <unittitle>Sketchbook</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_39cc72c2b25675d188fa3b0e7243b78f" label="Mixed Materials [31142054862431]" type="Box">7</container>
+            <container id="aspace_8d3fbfc1adb60647de9cefa4bcb3a736" parent="aspace_39cc72c2b25675d188fa3b0e7243b78f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="item">
+          <did>
+            <unittitle>Sketchbook/Notebook</unittitle>
+            <unitdate datechar="creation" normal="1974/1976" type="inclusive">1974-1976</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_be4d836b096475df667d0a6df2a788fc" label="Mixed Materials [31142054862431]" type="Box">7</container>
+            <container id="aspace_ebb3c89220cc0d162af953c7175eee00" parent="aspace_be4d836b096475df667d0a6df2a788fc" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Statue of Liberty Brochures</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2892e7aaa02c82d9d8bc883dcd4e6677" label="Mixed Materials [31142054862407]" type="Box">3</container>
+            <container id="aspace_7ecf34cd9b47c37cd443f718615c27f0" parent="aspace_2892e7aaa02c82d9d8bc883dcd4e6677" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Van Abbemuseum, Eindhoven</unittitle>
+            <unitdate datechar="creation" normal="1976/1977" type="inclusive">1976-1977</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_91657c11b5610a430d257fe60ec5317e" label="Mixed Materials [31142054862407]" type="Box">3</container>
+            <container id="aspace_44eb1a37ad7f6bea6e4b144cdb8ef7aa" parent="aspace_91657c11b5610a430d257fe60ec5317e" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Van Abbemuseum, Eindhoven</unittitle>
+            <unitdate datechar="creation" normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_109d39301186aee515337808fef2ca33" label="Mixed Materials [31142054862407]" type="Box">3</container>
+            <container id="aspace_3b8136613144edfb4ea8ea09e232af95" parent="aspace_109d39301186aee515337808fef2ca33" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Van Abbemuseum - Writing</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_17259dd505979db02bd3837573f1a4e5" label="Mixed Materials [31142054862407]" type="Box">3</container>
+            <container id="aspace_acda621b0e0a4b2deb58f7e4bead88fe" parent="aspace_17259dd505979db02bd3837573f1a4e5" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Whitney Postcards, Statement</unittitle>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0081d4a019850fd51f47d25a348ad45d" label="Mixed Materials [31142054862407]" type="Box">3</container>
+            <container id="aspace_c8671e9f173807061ffd5ec61c8e82cc" parent="aspace_0081d4a019850fd51f47d25a348ad45d" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref141" level="file">
+          <did>
+            <unittitle>Writing statements by Cathy Weiner</unittitle>
+            <unitdate datechar="creation">1975</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dde4e26715d208d63c4ccf8963658b76" label="Mixed Materials [31142054862407]" type="Box">3</container>
+            <container id="aspace_fe54f229a11beb12821d56a38f48bcea" parent="aspace_dde4e26715d208d63c4ccf8963658b76" type="Folder">25</container>
+          </did>
+          <odd id="aspace_198234b944aaee8a387ba31ca3cdfad8">
+            <head>General</head>
+            <p>Created at request of D'Arcangelo, these documents record what Cathy Weiner witnessed during the 1975 pieces at the Whitney Museum of American Art, The Museum of Modern Art, and the Guggenheim Museum.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref136" level="item">
+          <did>
+            <unittitle>Work Binder A</unittitle>
+            <container altrender="Box Binder (2&quot; wide, any dimensions between 12x16)" id="aspace_a1c223925f5e0a8235a7ad4a43310587" label="Mixed Materials [31142054862365]" type="Box">A</container>
+          </did>
+          <odd id="aspace_79db9213692befa98594947b6e7ad700">
+            <head>General</head>
+            <p>Binder A is a similar recreation of the binder that D'Arcangelo created to document his artmaking; it was assembled by the D'Arcangelo Family Partnership.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref138" level="item">
+          <did>
+            <unittitle>Work Binder B</unittitle>
+            <container altrender="Box Binder (2&quot; wide, any dimensions between 12x16)" id="aspace_0dae8d7e817b14b912028b4ea46eb357" label="Mixed Materials [31142054862373]" type="Box">B</container>
+          </did>
+          <odd id="aspace_991690e642a150ed0318ec19a677e5cd">
+            <head>General</head>
+            <p>Binder B is a partial recreation of the binder that D'Arcangelo created to document his artmaking, as well as other documents assembled by the D'Arcangelo Family Partnership.</p>
+          </odd>
+        </c>
+      </c>
+      <c id="aspace_ref70" level="series">
+        <did>
+          <unittitle>Series II: Posthumous Files</unittitle>
+          <unitdate datechar="creation" normal="1978/1998" type="inclusive">1978-1998</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref206" level="subseries">
+          <did>
+            <unittitle>Subseries A: General</unittitle>
+          </did>
+          <c id="aspace_ref71" level="file">
+            <did>
+              <unittitle>Articles about D'Arcangelo</unittitle>
+              <unitdate datechar="creation">1991, 1996, 1998</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_6e4f014d83144e61702db58787d32c23" label="Mixed Materials [31142054862415]" type="Box">4</container>
+              <container id="aspace_fa77cc3dc18dbbdc0e5c968c6aa65781" parent="aspace_6e4f014d83144e61702db58787d32c23" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref72" level="file">
+            <did>
+              <unittitle>Articles/Reviews</unittitle>
+              <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979; undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_055afd07990adddd2b0097ab96b02cd7" label="Mixed Materials [31142054862415]" type="Box">4</container>
+              <container id="aspace_b79d4987a07c634c59ed29dff95d5f10" parent="aspace_055afd07990adddd2b0097ab96b02cd7" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref74" level="file">
+            <did>
+              <unittitle>Chronologies and Inventories</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_dc068d82bdf7ee35d06d8571ec914664" label="Mixed Materials [31142054862415]" type="Box">4</container>
+              <container id="aspace_854c798d33e209dd4111f75b2b459a6f" parent="aspace_dc068d82bdf7ee35d06d8571ec914664" type="Folder">3</container>
+            </did>
+            <odd id="aspace_51216ff31d9824969e06d06ba7e4e43e">
+              <head>General</head>
+              <p>Inlcudes Christopher D'Arcangelo Chronology, created by Gideon D'Arcangelo 1993, updated 2009.</p>
+            </odd>
+          </c>
+          <c id="aspace_ref75" level="file">
+            <did>
+              <unittitle>Copies of D'Arcangelo Notebook</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_b67b7270b2baf155ef03fc4c88957c40" label="Mixed Materials [31142054862415]" type="Box">4</container>
+              <container id="aspace_ffe921c568eb2bcc4d0bbce2dd7fa0ec" parent="aspace_b67b7270b2baf155ef03fc4c88957c40" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref76" level="file">
+            <did>
+              <unittitle>Copies of Work</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_a20c8b392121b41e0c3f709ed9edc3b5" label="Mixed Materials [31142054862415]" type="Box">4</container>
+              <container id="aspace_1f63bb642dbd3bbe9e99ba83eeb7c2a7" parent="aspace_a20c8b392121b41e0c3f709ed9edc3b5" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref77" level="file">
+            <did>
+              <unittitle>Correspondence about D'Arcangelo Works</unittitle>
+              <unitdate datechar="creation" normal="1979/1995" type="inclusive">1979, 1988, 1992, 1995, undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_8b6a7f564bf449242a84d9506b598d3b" label="Mixed Materials [31142054862415]" type="Box">4</container>
+              <container id="aspace_736586a6be6819f501b4519983d6acf6" parent="aspace_8b6a7f564bf449242a84d9506b598d3b" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref78" level="file">
+            <did>
+              <unittitle>Greene Naftali</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_271cda690d8f55310d9b657833fa79a0" label="Mixed Materials [31142054862415]" type="Box">4</container>
+              <container id="aspace_598244b418a241ad6ec0d5cb29619b64" parent="aspace_271cda690d8f55310d9b657833fa79a0" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref79" level="file">
+            <did>
+              <unittitle>Bruce Hainley</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_575ad714ba2f2aaccdac2fd5720e2676" label="Mixed Materials [31142054862415]" type="Box">4</container>
+              <container id="aspace_742591d0c70388d96634444ade3bb8d6" parent="aspace_575ad714ba2f2aaccdac2fd5720e2676" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref163" level="file">
+            <did>
+              <unittitle>Journal: Southern California Art Magazine No. 23</unittitle>
+              <unitdate datechar="creation">June-July 1979</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_5905b061913f09afedb348f062f92007" label="Mixed Materials [31142054862415]" type="Box">4</container>
+              <container id="aspace_56d06b0e6495d05e31287a842ffc3110" parent="aspace_5905b061913f09afedb348f062f92007" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref80" level="file">
+            <did>
+              <unittitle>List of Cathy Weiner's photographs of D'Arcangelo Work </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_0c77dee458ec89bc7790f91b6722277d" label="Mixed Materials [31142054862415]" type="Box">4</container>
+              <container id="aspace_6223aa993cf091eaf81926fdd27f7aae" parent="aspace_0c77dee458ec89bc7790f91b6722277d" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref164" level="file">
+            <did>
+              <unittitle>Oehlen Williams 95 Catalog</unittitle>
+              <unitdate datechar="creation">1995</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_3f5bbb85e9389ab9d64c3b7fd4d55586" label="Mixed Materials [31142054862415]" type="Box">4</container>
+              <container id="aspace_cedff9d1e10165f776667e30bfc762bc" parent="aspace_3f5bbb85e9389ab9d64c3b7fd4d55586" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref140" level="file">
+            <did>
+              <unittitle>Recent works and notes on six series - Peter Nadin</unittitle>
+              <unitdate datechar="creation">1992</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_695dde08264f093d1b45d37fde15dda6" label="Mixed Materials [31142054862415]" type="Box">4</container>
+              <container id="aspace_394963b6290f792d076006361397fd05" parent="aspace_695dde08264f093d1b45d37fde15dda6" type="Folder">12</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref205" level="subseries">
+          <did>
+            <unittitle>Subseries B: Algus Greenspon Homage</unittitle>
+          </did>
+          <scopecontent id="aspace_9e58b6438f128597753e7be38c55d63c">
+            <head>Scope and Content</head>
+            <p>This subseries contains files documenting the Christopher D'Arcangelo Homage, an exhibition held at Algus Greenspon Gallery in October 2011. Researchers who had accessed the Christopher D'Arcangelo Papers at the Fales Library were invited to respond to his work and their experiences working with D'Arcangelo's Papers. Exhibition attendees were also invited to respond.</p>
+          </scopecontent>
+          <c id="aspace_ref194" level="file">
+            <did>
+              <unittitle>Breslin, David: Christopher D'Arcangelo Homage</unittitle>
+              <unitdate datechar="creation">2011</unitdate>
+              <container altrender="Manuscript box - Letter" id="aspace_29a41625e3148a0377e05cf9d5b18108" label="Mixed Materials [31142054862456]" type="Box">10</container>
+              <container id="aspace_50bcfd9ca1eda460d25883d9fd508aaa" parent="aspace_29a41625e3148a0377e05cf9d5b18108" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref195" level="file">
+            <did>
+              <unittitle>Greenspon, Algus: Christopher D'Arcangelo Homage</unittitle>
+              <unitdate datechar="creation">2011</unitdate>
+              <container altrender="Manuscript box - Letter" id="aspace_57ec052cddc8e58440abca9cfc64fdf9" label="Mixed Materials [31142054862456]" type="Box">10</container>
+              <container id="aspace_63ea4a8775a5347af75e0683fbe94eb0" parent="aspace_57ec052cddc8e58440abca9cfc64fdf9" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref196" level="file">
+            <did>
+              <unittitle>Christopher D'Arcangelo Homage - Responses from Binder</unittitle>
+              <unitdate datechar="creation">2011</unitdate>
+              <container altrender="Manuscript box - Letter" id="aspace_01b6344a2cd79d3b8c86b8c910de120a" label="Mixed Materials [31142054862456]" type="Box">10</container>
+              <container id="aspace_1a59dfda1bc0fd852436792d86c05f77" parent="aspace_01b6344a2cd79d3b8c86b8c910de120a" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref197" level="file">
+            <did>
+              <unittitle>Greenspon, Algus: Christopher D'Arcangelo: Letters to Contributors, Installations, Exhibition List</unittitle>
+              <unitdate datechar="creation">2011</unitdate>
+              <container altrender="Manuscript box - Letter" id="aspace_3e9ace4dea775eacd3e367be38b6521a" label="Mixed Materials [31142054862456]" type="Box">10</container>
+              <container id="aspace_ec516d80b9e63613ab085456c92298dd" parent="aspace_3e9ace4dea775eacd3e367be38b6521a" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref198" level="file">
+            <did>
+              <unittitle>Sanders, Jay: Christopher D'Arcangelo Homage from Blue Binder</unittitle>
+              <unitdate datechar="creation">2011</unitdate>
+              <container altrender="Manuscript box - Letter" id="aspace_c1e459a61955a6e332c7a110c80d7ac2" label="Mixed Materials [31142054862456]" type="Box">10</container>
+              <container id="aspace_06573d71ffa3222c4b2b28e14d69a5e1" parent="aspace_c1e459a61955a6e332c7a110c80d7ac2" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref199" level="file">
+            <did>
+              <unittitle>Garcia-Torres, Mario: Christopher D'Arcangelo Homage</unittitle>
+              <unitdate datechar="creation">2011</unitdate>
+              <container altrender="Manuscript box - Letter" id="aspace_8f72be12d836b9a987b28d626d6f71b7" label="Mixed Materials [31142054862456]" type="Box">10</container>
+              <container id="aspace_72b418759381c14f2eb3274e67dc0b20" parent="aspace_8f72be12d836b9a987b28d626d6f71b7" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref200" level="file">
+            <did>
+              <unittitle>Hainley, Bruce: Christopher D'Arcangelo Homage</unittitle>
+              <unitdate datechar="creation">2011</unitdate>
+              <container altrender="Manuscript box - Letter" id="aspace_4f64e4e41f216dbb09c621877edde4fe" label="Mixed Materials [31142054862456]" type="Box">10</container>
+              <container id="aspace_4e41c16a24f455dad55f9c18a883f151" parent="aspace_4f64e4e41f216dbb09c621877edde4fe" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref201" level="file">
+            <did>
+              <unittitle>Harris, Larissa: Moratorium </unittitle>
+              <unitdate datechar="creation">2011</unitdate>
+              <container altrender="Manuscript box - Letter" id="aspace_7426ce9383ffee8cfe89398498264d7a" label="Mixed Materials [31142054862456]" type="Box">10</container>
+              <container id="aspace_363a55b97bac5491bade08490b2b794a" parent="aspace_7426ce9383ffee8cfe89398498264d7a" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref202" level="file">
+            <did>
+              <unittitle>Macgregor, Dean: Christopher D'Arcangelo Homage</unittitle>
+              <unitdate datechar="creation">2011</unitdate>
+              <container altrender="Manuscript box - Letter" id="aspace_a3484e80597914b74a773caa2260e33b" label="Mixed Materials [31142054862456]" type="Box">10</container>
+              <container id="aspace_9e4e8e278bac1d7713cb664df20e9c08" parent="aspace_a3484e80597914b74a773caa2260e33b" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref203" level="file">
+            <did>
+              <unittitle>Press: Christopher D'Arcangelo Homage</unittitle>
+              <unitdate datechar="creation">2011</unitdate>
+              <container altrender="Manuscript box - Letter" id="aspace_ee710314b42f78ba55e6f2665dce67a9" label="Mixed Materials [31142054862456]" type="Box">10</container>
+              <container id="aspace_710ac3472c403f60d5071417f4c7b08c" parent="aspace_ee710314b42f78ba55e6f2665dce67a9" type="Folder">10</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref82" level="series">
+        <did>
+          <unittitle>Series III: Objects</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref83" level="item">
+          <did>
+            <unittitle>Stamp ("When I state that I am an anarchist, I must also state that I am not an anarchist")</unittitle>
+            <container altrender="Record carton" id="aspace_a884e19c692ff66ce8da339febd97bc1" label="Mixed Materials [31142054862423]" type="Box">5</container>
+            <container id="aspace_45f470b6d626806fa6ccd5f3bdaa9ac9" parent="aspace_a884e19c692ff66ce8da339febd97bc1" type="object">ID: 264.2.0001</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="item">
+          <did>
+            <unittitle>Stamp ("When I state that I am an anarchist,")</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_903834051425c739e07a12fa3903e501" label="Mixed Materials [31142054862423]" type="Box">5</container>
+            <container id="aspace_1d77923bb282a25dee8481565674a772" parent="aspace_903834051425c739e07a12fa3903e501" type="object">ID: 264.2.0002</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="item">
+          <did>
+            <unittitle>Handcuffs with key</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_8c4b30e31294bea3888664e5806fab42" label="Mixed Materials [31142054862423]" type="Box">5</container>
+            <container id="aspace_4134116155d405a1c3a7534168f2db71" parent="aspace_8c4b30e31294bea3888664e5806fab42" type="object">ID: 264.2.0003</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="item">
+          <did>
+            <unittitle>Handcuffs with keys in Box</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_9020ca36739188af881fd669c8e575ca" label="Mixed Materials [31142054862423]" type="Box">5</container>
+            <container id="aspace_619dc116c0f08519d0473abb1c6a9775" parent="aspace_9020ca36739188af881fd669c8e575ca" type="object">ID: 264.2.0004</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="item">
+          <did>
+            <unittitle>Coin changer</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_895b4f02ee927d05289895289520f5ed" label="Mixed Materials [31142054862423]" type="Box">5</container>
+            <container id="aspace_174cd57a5c0fff23842394725f406227" parent="aspace_895b4f02ee927d05289895289520f5ed" type="object">ID: 264.2.0005</container>
+          </did>
+        </c>
+        <c id="aspace_ref161" level="item">
+          <did>
+            <unittitle>Box of Functional Constructions flyers</unittitle>
+            <container altrender="Record carton" id="aspace_1161ec3d16f02f508aa2dcbcf44283ce" label="Mixed Materials [31142054862423]" type="Box">5</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref103" level="series">
+        <did>
+          <unittitle>Series IV: Media</unittitle>
+        </did>
+        <c id="aspace_ref104" level="subseries">
+          <did>
+            <unittitle>Subseries A: Audio - Access Copies</unittitle>
+          </did>
+          <accessrestrict id="aspace_db08f8245c5992b43f9f7b7f90681401">
+            <head>Conditions Governing Access</head>
+            <p>Access copies for some materials are available by appointment for reading room viewing and listening only. Please contact fales.library@nyu.edu, 212-998-2596.</p>
+          </accessrestrict>
+          <c id="aspace_ref170" level="item">
+            <did>
+              <unittitle>Interview with Louise Lawler</unittitle>
+              <unitid>ID: 264.0021</unitid>
+              <unitdate datechar="creation">1993</unitdate>
+              <container altrender="Jewel Case - 5.75" id="aspace_91a42a5ee4f671e3d58a4b7e5cdd6801" label="Audio [31142063251907]" type="case">264.0021</container>
+            </did>
+            <odd id="aspace_c88db0312a1b86a13f6273b6bc21c3cc">
+              <head>General</head>
+              <p>Format: CD-R</p>
+              <p>Source: ID: 264.0016 "Christopher D'Arcangelo CD #3"</p>
+              <p>Content: </p>
+              <p>Interview with Louise Lawler conducted by Gideon D'Arcangelo at 401 Greenwich Street #8; 1/15/1993</p>
+            </odd>
+          </c>
+          <c id="aspace_ref172" level="item">
+            <did>
+              <unittitle>Interview with Daniel Buren</unittitle>
+              <unitid>ID: 264.0022</unitid>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Jewel Case - 5.75" id="aspace_ac49e6ccc981f664473ea474061f1efa" label="Audio [31142063251915]" type="case">264.0022</container>
+            </did>
+            <odd id="aspace_63a1e87da90088b73a9a42d0410ec23f">
+              <head>General</head>
+              <p>Format: CD-R</p>
+              <p>Source: ID: 264.0016 "Christopher D'Arcangelo CD #3"</p>
+              <p>Content: </p>
+              <p>Interview with Daniel Buren conducted by Gideon D'Arcangelo at 45 Lispenard Street.</p>
+            </odd>
+          </c>
+          <c id="aspace_ref174" level="item">
+            <did>
+              <unittitle>[1] -- Cathy and Allan Suite</unittitle>
+              <unitid>ID: 264.0023</unitid>
+              <unitdate datechar="creation">1992</unitdate>
+              <container altrender="Jewel Case - 5.75" id="aspace_246333899863494b1f55b55306f7850f" label="Audio [31142063251923]" type="case">264.0023</container>
+            </did>
+            <odd id="aspace_faa1d140ae630930984003ebefc05e9e">
+              <head>General</head>
+              <p>Format: CD-R</p>
+              <p>Source: ID: 264.0017 "Christopher D'Arcangelo CD #2"</p>
+              <p>Content: </p>
+              <p>Commentary about Chris's films by Cathy Weiner, Allan D'Arcangelo, and Gideon D'Arcangelo; 11/21/92</p>
+            </odd>
+          </c>
+          <c id="aspace_ref176" level="item">
+            <did>
+              <unittitle>[1]-- Cathy and Allan [2]-- Cathy Suite 2 [3]-- Cathy Suite</unittitle>
+              <unitid>ID: 264.0024</unitid>
+              <unitdate datechar="creation">[1992]</unitdate>
+              <container altrender="Jewel Case - 5.75" id="aspace_1762f13cf1ffdf8173352092d5a45b5e" label="Audio [31142063251931]" type="case">264.0024</container>
+            </did>
+            <odd id="aspace_404d7a7cb89f206283c7979aaadc00da">
+              <head>General</head>
+              <p>Format: CD-R</p>
+              <p>Source: ID: 264.0017 "Christopher D'Arcangelo CD #2"</p>
+              <p>Content: </p>
+              <p>Commentary about Chris's films by Cathy Weiner, Allan D'Arcangelo, and Gideon D'Arcangelo</p>
+            </odd>
+          </c>
+          <c id="aspace_ref178" level="item">
+            <did>
+              <unittitle>Interview with Cathy Weiner, pt. 2</unittitle>
+              <unitid>ID: 264.0025</unitid>
+              <unitdate datechar="creation">1992</unitdate>
+              <container altrender="Jewel Case - 5.75" id="aspace_0d47a2f7c0253aca08bbeee75ab2561a" label="Audio [31142063251949]" type="case">264.0025</container>
+            </did>
+            <odd id="aspace_2d95a7ac5b13400a1fb416089ed94011">
+              <head>General</head>
+              <p>Format: CD-R</p>
+              <p>Source: ID: 264.0017 "Christopher D'Arcangelo CD #2"</p>
+              <p>Content: </p>
+              <p>Conversation between Cathy Weiner and Gideon D'Arcangelo about Chris D'Arcangelo's work. Interview conducted at 202 Front Street; 10/21/1992</p>
+            </odd>
+          </c>
+          <c id="aspace_ref180" level="item">
+            <did>
+              <unittitle>Chris</unittitle>
+              <unitid>ID: 264.0026</unitid>
+              <unitdate datechar="creation">unknown</unitdate>
+              <container altrender="Jewel Case - 5.75" id="aspace_d9dc6005f1b05146acbd678c640d862d" label="Audio [31142063251956]" type="case">264.0026</container>
+            </did>
+            <odd id="aspace_b10216ccde6f9d5dbf2e8f37168e274f">
+              <head>General</head>
+              <p>Format: CD-R</p>
+              <p>Source: ID: 264.0018 "Christopher D'Arcangelo CD #1"</p>
+            </odd>
+          </c>
+          <c id="aspace_ref182" level="item">
+            <did>
+              <unittitle>Ballet #17, Two Chairs</unittitle>
+              <unitid>ID: 264.0027</unitid>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Jewel Case - 5.75" id="aspace_a3959f87806781f35a60960bd2b42b10" label="Audio [31142063251964]" type="case">264.0027</container>
+            </did>
+            <odd id="aspace_f0cfa51adacd992572ca664822fdc46a">
+              <head>General</head>
+              <p>Format: CD-R</p>
+              <p>Source: ID: 264.0018 "Christopher D'Arcangelo CD #1"</p>
+            </odd>
+          </c>
+        </c>
+        <c id="aspace_ref105" level="subseries">
+          <did>
+            <unittitle>Subseries B: Audio - Originals</unittitle>
+          </did>
+          <c id="aspace_ref113" level="item">
+            <did>
+              <unittitle>Ballet #17, August 28, 1978, Flower District, Fashion District</unittitle>
+              <unitid>ID: 264.0010</unitid>
+              <unitdate datechar="creation">1978</unitdate>
+              <container altrender="Record carton" id="aspace_5a52693bddcf422add4692d520a4b8b4" label="Mixed Materials [31142063513686]" type="Box">6</container>
+              <container id="aspace_071ade92fbe715e41255fa2f24dd7cbc" parent="aspace_5a52693bddcf422add4692d520a4b8b4" type="Media">ID: 264.0010</container>
+            </did>
+            <odd id="aspace_8a561599c396616b1c9f9d5101657a3f">
+              <head>General</head>
+              <p>Format: 1/4" audiocassette</p>
+              <p>Duration: 00:30:00</p>
+            </odd>
+          </c>
+          <c id="aspace_ref115" level="item">
+            <did>
+              <unittitle>Christopher</unittitle>
+              <unitid>ID: 264.0011</unitid>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_5428d1567660be567d275d420cb151fd" label="Mixed Materials [31142063513686]" type="Box">6</container>
+              <container id="aspace_143ea5a96316582d09ffd3ed708d9233" parent="aspace_5428d1567660be567d275d420cb151fd" type="Media">ID: 264.0011</container>
+            </did>
+            <odd id="aspace_cf92a8f56607b8847110fc5840cc5938">
+              <head>General</head>
+              <p>Format: 1/4" audiocassette</p>
+              <p>Duration: Unknown</p>
+            </odd>
+          </c>
+          <c id="aspace_ref121" level="item">
+            <did>
+              <unittitle>Interview with Cathy Weiner and Allan D'Arcangelo, conducted by Gideon D'Arcangelo, 11/21/92</unittitle>
+              <unitid>ID: 264.0012</unitid>
+              <unitdate datechar="creation">1992</unitdate>
+              <container altrender="Record carton" id="aspace_75f73cd6330c3d6d9cde1395db3c03f8" label="Mixed Materials [31142063513686]" type="Box">6</container>
+              <container id="aspace_3676bcc3edf01c134bac6a012bff9fa0" parent="aspace_75f73cd6330c3d6d9cde1395db3c03f8" type="Media">ID: 264.0012</container>
+            </did>
+            <odd id="aspace_a22a3516125263911fccd49fbc64a5bb">
+              <head>General</head>
+              <p>Format: 1/4" audiocassette</p>
+              <p>Duration: Unknown</p>
+            </odd>
+          </c>
+          <c id="aspace_ref123" level="item">
+            <did>
+              <unittitle>Interview with Cathy Weiner and Allan D'Arcangelo, conducted by Gideon D'Arcangelo, 11/21/92</unittitle>
+              <unitid>ID: 264.0013</unitid>
+              <unitdate datechar="creation">1992</unitdate>
+              <container altrender="Record carton" id="aspace_58f5de3179f46e18e4caa2fbca46f0bb" label="Mixed Materials [31142063513686]" type="Box">6</container>
+              <container id="aspace_174bb736eff5626a00e2625b8d36e875" parent="aspace_58f5de3179f46e18e4caa2fbca46f0bb" type="Media">ID: 264.0013</container>
+            </did>
+            <odd id="aspace_919ac0b5080d1c6ca1c1103a172a0f3c">
+              <head>General</head>
+              <p>Format: 1/4" audiocassette</p>
+              <p>Duration: Unknown</p>
+            </odd>
+          </c>
+          <c id="aspace_ref184" level="item">
+            <did>
+              <unittitle>Interview with Peter Nadin conducted by Gideon D'Arcangelo on the subject of collaboration with Chris D'Arcangelo, 11/27/92</unittitle>
+              <unitid>ID: 264.0028</unitid>
+              <unitdate datechar="creation">1992</unitdate>
+              <container altrender="Record carton" id="aspace_2d12ff92113079bb6c470a751e7bf108" label="Mixed Materials [31142063513686]" type="Box">6</container>
+              <container id="aspace_985873f93b30902dc7a814ee0a751ec4" parent="aspace_2d12ff92113079bb6c470a751e7bf108" type="Media">ID: 264.0028</container>
+              <container altrender="Audiocassette Case - 0.75 x 4.25" id="aspace_d411c6c732cf6b779a77a18cdaceb41a" label="Audio [31142063242518]" type="case">264.0028</container>
+            </did>
+            <odd id="aspace_1395562937b4401771051ea88e479830">
+              <head>General</head>
+              <p>Format: 1/4" audiocassette</p>
+              <p>Duration: Unknown</p>
+            </odd>
+          </c>
+          <c id="aspace_ref125" level="item">
+            <did>
+              <unittitle>Interview with Louise Lawler conducted by Gideon D'Arcangelo at 407 Greenwich St. #8, 1/15/93</unittitle>
+              <unitid>ID: 264.0014</unitid>
+              <unitdate datechar="creation">1993</unitdate>
+              <container altrender="Record carton" id="aspace_ec0535e9fb228c25555be8294f5f7731" label="Mixed Materials [31142063513686]" type="Box">6</container>
+              <container id="aspace_8894361de073e54f28258469da64fde7" parent="aspace_ec0535e9fb228c25555be8294f5f7731" type="Media">ID: 264.0014</container>
+            </did>
+            <odd id="aspace_e532ff9ed2232ca3eb73191607fedf4d">
+              <head>General</head>
+              <p>Format: 1/4" audiocassette</p>
+              <p>Duration: Unknown</p>
+            </odd>
+          </c>
+          <c id="aspace_ref127" level="item">
+            <did>
+              <unittitle>Interview with Daniel Buren at 45 Lispenard St. 9W, conducted by Gideon D'Arcangelo concerning plans for project - the work of Chris D'Arcangelo, 4/25/93</unittitle>
+              <unitid>ID: 264.0015</unitid>
+              <unitdate datechar="creation">1993</unitdate>
+              <container altrender="Record carton" id="aspace_742a804ed282e3d7d8209e1a6b69ef40" label="Mixed Materials [31142063513686]" type="Box">6</container>
+              <container id="aspace_3a7cd06afbe92eb1326aad8edebedaa3" parent="aspace_742a804ed282e3d7d8209e1a6b69ef40" type="Media">ID: 264.0015</container>
+            </did>
+            <odd id="aspace_e73d217e0542a1c17db165de8ae6604b">
+              <head>General</head>
+              <p>Format: 1/4" audiocassette</p>
+              <p>Duration: Unknown</p>
+            </odd>
+          </c>
+          <c id="aspace_ref111" level="item">
+            <did>
+              <unittitle>[Two Chairs for Talking]</unittitle>
+              <unitid>ID: 264.0009</unitid>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_4b1207fe5b0ae67c47ad271438dd7f96" label="Mixed Materials [31142063513686]" type="Box">6</container>
+              <container id="aspace_0c0df3f5aecbb415c7c0de9a102bd114" parent="aspace_4b1207fe5b0ae67c47ad271438dd7f96" type="Media">ID: 264.0009</container>
+            </did>
+            <odd id="aspace_7c4ba5ffe8f15dc355820b8dec04d93f">
+              <head>General</head>
+              <p>Format: 1/4" audiocassette</p>
+              <p>Duration: Unknown</p>
+            </odd>
+          </c>
+          <c id="aspace_ref129" level="item">
+            <did>
+              <unittitle>Christopher D'Arcangelo CD #1</unittitle>
+              <unitid>ID: 264.0018</unitid>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_e14d36cbec7be7542108ae684575511c" label="Mixed Materials [31142063513686]" type="Box">6</container>
+              <container id="aspace_6764efccf7d5c6f84b3fad6b8f46a814" parent="aspace_e14d36cbec7be7542108ae684575511c" type="Media">ID: 264.0018</container>
+            </did>
+            <odd id="aspace_2b40d0212156a394942b917d745aa98b">
+              <head>General</head>
+              <p>Format: CD-R</p>
+              <p>Duration: Unknown</p>
+            </odd>
+          </c>
+          <c id="aspace_ref131" level="item">
+            <did>
+              <unittitle>Christopher D'Arcangelo CD #2</unittitle>
+              <unitid>ID: 264.0017</unitid>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_e2385860fb6abf3d36da45a212596633" label="Mixed Materials [31142063513686]" type="Box">6</container>
+              <container id="aspace_1361e3da8964e6a37e3b398495dcaa9a" parent="aspace_e2385860fb6abf3d36da45a212596633" type="Media">ID: 264.0017</container>
+            </did>
+            <odd id="aspace_9b00f981d2fbdec454d88e996ec259a1">
+              <head>General</head>
+              <p>Format: CD-R</p>
+              <p>Duration: Unknown</p>
+            </odd>
+          </c>
+          <c id="aspace_ref133" level="item">
+            <did>
+              <unittitle>Christopher D'Arcangelo CD #3</unittitle>
+              <unitid>ID: 264.0016</unitid>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_58ac5fe2bebb69e34b9b1db636e17f9f" label="Mixed Materials [31142063513686]" type="Box">6</container>
+              <container id="aspace_7ae8aee1dccd6d9b90f94219ca2318cb" parent="aspace_58ac5fe2bebb69e34b9b1db636e17f9f" type="Media">ID: 264.0016</container>
+            </did>
+            <odd id="aspace_e8ca7c9b408bac83aa511f2d62add9a1">
+              <head>General</head>
+              <p>Format: CD-R</p>
+              <p>Duration: Unknown</p>
+            </odd>
+          </c>
+        </c>
+        <c id="aspace_ref106" level="subseries">
+          <did>
+            <unittitle>Subseries C: Video - Access Copies</unittitle>
+          </did>
+          <accessrestrict id="aspace_78b2c28943110fb3d7d3321e77693700">
+            <head>Conditions Governing Access</head>
+            <p>Access copies for some materials are available by appointment for reading room viewing and listening only. Please contact fales.library@nyu.edu, 212-998-2596.</p>
+          </accessrestrict>
+          <c id="aspace_ref166" level="item">
+            <did>
+              <unittitle>Christopher D'Arcangelo: Museum Pieces and Other Footage </unittitle>
+              <unitid>ID: 264.0019</unitid>
+              <unitdate datechar="creation">unknown</unitdate>
+              <container altrender="Jewel Case - 5.75" id="aspace_e2090096c8161658f8f0a29c6baaf197" label="video [31142063244274]" type="case">264.0019A</container>
+              <container altrender="Jewel Case - 5.75" id="aspace_5ace0f23449885eeb6360401c23f8ea2" label="video [31142063244282]" type="case">264.0019B</container>
+            </did>
+            <odd id="aspace_f34c1aa980bba2dedaeb2aed0c82bc14">
+              <head>General</head>
+              <p>Content:</p>
+              <p>1. Guggenheim Museum, NYC #3
 2. Metropolitan Museum of Art, NYC #4
 3. Norton Simon Museum, LA #5
 4. Whitney Museum, NYC #1
-5. Museum of Modern Art, (Guernica) NYC</p><p>The original VHS recording 264.0007, which has been digitized, includes three additional segments: "Filmed at Home," "Stencils on Fire" and "Suitcase Piece."</p></odd><phystech id="aspace_51bdc995bf93676f630c65a798c9acab"><head>Physical Characteristics and Technical Requirements</head><p>DVDs transfered from VHS original 264.0007. The video footage is silent.</p></phystech></c></c><c id="aspace_ref107" level="subseries"><did><unittitle>Subseries D: Video - Originals</unittitle></did><c id="aspace_ref142" level="item"><did><unittitle>Christopher D'Arcangelo: Museum Pieces and Other Footage </unittitle><unitid>ID: 264.0007</unitid><unitdate datechar="creation">unknown</unitdate><container altrender="Record carton" id="aspace_114209952055c99eae670bc0bc95f77a" label="video [31142063513686]" type="Box">6</container><container id="aspace_efc22dd5b670238ff047d5a58a8fd108" parent="aspace_114209952055c99eae670bc0bc95f77a" type="VHS">ID: 264.0007</container><dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="video-reading-room" xlink:show="new" xlink:title="Christopher D'Arcangelo: Museum Pieces and Other Footage " xlink:type="simple"><daodesc><p>Christopher D'Arcangelo: Museum Pieces and Other Footage</p></daodesc></dao></did><scopecontent id="aspace_7c9589bd4e5bdd5144ca8a4c9276cd47"><head>Scope and Contents</head><p>Contents: 
+5. Museum of Modern Art, (Guernica) NYC</p>
+              <p>The original VHS recording 264.0007, which has been digitized, includes three additional segments: "Filmed at Home," "Stencils on Fire" and "Suitcase Piece."</p>
+            </odd>
+            <phystech id="aspace_51bdc995bf93676f630c65a798c9acab">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>DVDs transfered from VHS original 264.0007. The video footage is silent.</p>
+            </phystech>
+          </c>
+        </c>
+        <c id="aspace_ref107" level="subseries">
+          <did>
+            <unittitle>Subseries D: Video - Originals</unittitle>
+          </did>
+          <c id="aspace_ref142" level="item">
+            <did>
+              <unittitle>Christopher D'Arcangelo: Museum Pieces and Other Footage </unittitle>
+              <unitid>ID: 264.0007</unitid>
+              <unitdate datechar="creation">unknown</unitdate>
+              <container altrender="Record carton" id="aspace_114209952055c99eae670bc0bc95f77a" label="video [31142063513686]" type="Box">6</container>
+              <container id="aspace_efc22dd5b670238ff047d5a58a8fd108" parent="aspace_114209952055c99eae670bc0bc95f77a" type="VHS">ID: 264.0007</container>
+              <dao xlink:actuate="onLoad" xlink:href="https://hdl.handle.net/2333.1/material-request-placeholder" xlink:role="video-reading-room" xlink:show="new" xlink:title="Christopher D'Arcangelo: Museum Pieces and Other Footage " xlink:type="simple">
+                <daodesc>
+                  <p>Christopher D'Arcangelo: Museum Pieces and Other Footage</p>
+                </daodesc>
+              </dao>
+            </did>
+            <scopecontent id="aspace_7c9589bd4e5bdd5144ca8a4c9276cd47">
+              <head>Scope and Contents</head>
+              <p>Contents: 
 1. Guggenheim Museum, NYC #3
 2. Metropolitan Museum of Art, NYC #4
 3. Norton Simon Museum, LA #5
@@ -92,6 +1369,240 @@ Identification of item,  date (if known); Christopher D'Arcangelo Papers; MSS 26
 5. Filmed at home, Amsterdam Ave and 98th
 6. Stencils on Fire - Riverside Park Panels 12/74 #2
 7. Museum of Modern Art, (Guernica) NYC
-8. Suitcase Piece</p><p>DVD access copies 264.0019A and 264.0019B contain additional information on interstitial labels, although they do not include "Filmed at Home," "Stencils on Fire" and "Suitcase Piece."</p></scopecontent><phystech id="aspace_1321dbe8e167559900ef7d506a9f9773"><head>Physical Characteristics and Technical Requirements</head><p>Duration: 41 minutes.</p></phystech></c><c id="aspace_ref144" level="item"><did><unittitle>Chris - Events</unittitle><unitid>ID: 264.0008</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_f70c273605c54a2752fd63fd64af5be2" label="Mixed Materials [31142063513686]" type="Box">6</container><container id="aspace_c6f3b9d618fa7e21feedf4ab2ab9eab8" parent="aspace_f70c273605c54a2752fd63fd64af5be2" type="Media">ID: 264.0008</container></did><odd id="aspace_51c526408ba9d0dad76d25f8ec9691e9"><head>General</head><p>Format: VHS</p><p>Duration: 00:41:00</p></odd></c></c><c id="aspace_ref108" level="subseries"><did><unittitle>Subseries E: Film - Access Copies</unittitle></did><accessrestrict id="aspace_18f1d6ef16549bb342ed93a25d01b7b3"><head>Conditions Governing Access</head><p>Access copies are currently unavailable to researchers.</p></accessrestrict></c><c id="aspace_ref109" level="subseries"><did><unittitle>Subseries F: Film - Originals</unittitle></did><c id="aspace_ref148" level="item"><did><unittitle>Film from Whitney 1/31/75: "When I State..." Whitney Modern 786 Amsterdam</unittitle><unitid>ID: 264.0002</unitid><unitdate datechar="creation">1975</unitdate><container altrender="Film Can (.75&quot; height, any dimensions)" id="aspace_ecd2a3cc58ff0bd1fbeada5cd8348343" label="Mixed Materials [31142063243078]" type="case">264.0002</container></did><odd id="aspace_a3399644fcfb5b93cc8c5568ff7b36a2"><head>General</head><p>Format: Super 8mm</p><p>Duration: Unknown</p></odd></c><c id="aspace_ref150" level="item"><did><unittitle>7/8/76 Norton Simon Pasadena</unittitle><unitid>ID: 264.0003</unitid><unitdate datechar="creation">1976</unitdate><container altrender="Film Can (.75&quot; height, any dimensions)" id="aspace_8d8fccd20f609420c70fec29ec8ea579" label="Mixed Materials [31142063243086]" type="case">264.0003</container></did><odd id="aspace_8b39dca34779cf2acade871fd3a62d95"><head>General</head><p>Format: Super 8mm</p><p>Duration: Unknown</p></odd></c><c id="aspace_ref146" level="item"><did><unittitle>Suitcase, 786 Amsterdam</unittitle><unitid>ID: 264.0001</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Film Can (.75&quot; height, any dimensions)" id="aspace_25589ba26afb51732fd5cc48e325ba75" label="Mixed Materials [31142063243060]" type="case">264.0001</container></did><odd id="aspace_c281b0b96f8cb2390e5a35290b026446"><head>General</head><p>Format: Super 8mm</p><p>Duration: Unknown</p></odd></c><c id="aspace_ref152" level="item"><did><unittitle>Guggenheim and Met</unittitle><unitid>ID: 264.0004</unitid><unitdate datechar="creation">1975</unitdate><container altrender="Film Can (.75&quot; height, any dimensions)" id="aspace_44d8ee8715fb4cfed81c1ff3d738f318" label="Mixed Materials [31142063243094]" type="case">264.0004</container></did><odd id="aspace_7aa678b1d31cf013adefca3e0b6e3e6b"><head>General</head><p>Format: Super 8mm</p><p>Duration: Unknown</p></odd></c><c id="aspace_ref154" level="item"><did><unittitle>Cathy Weiner - Film Reel B</unittitle><unitid>ID: 264.0005</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_d82cc13bba418abfe7d3744839031abe" label="Mixed Materials [31142063513686]" type="Box">6</container><container id="aspace_a894e095b13d3e3cdc0f3d792c3c2fd4" parent="aspace_d82cc13bba418abfe7d3744839031abe" type="Media">ID: 264.0005</container></did><odd id="aspace_8393cec2757fce7bce36ffd32928e275"><head>General</head><p>Format: Super 8mm</p><p>Duration: Unknown</p></odd></c><c id="aspace_ref156" level="item"><did><unittitle>Cathy Weiner - Film Reel A</unittitle><unitid>ID: 264.0006</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_013b50738e299f162299ed929d88c0c6" label="Mixed Materials [31142063513686]" type="Box">6</container><container id="aspace_0076223912b78ca2d6b4997042e88bf0" parent="aspace_013b50738e299f162299ed929d88c0c6" type="Media">ID: 264.0006</container></did><odd id="aspace_e652e8fd11dcb1756312b975e29561dd"><head>General</head><p>Format: Super 8mm</p><p>Duration: Unknown</p></odd></c></c></c><c id="aspace_ref88" level="series"><did><unittitle>Oversize - Series I: Work Files</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref186" level="file"><did><unittitle>Viva Mao; Viva Anarchism; When I State That I am an Anarchist - stencils</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box - 23.5" id="aspace_a07f2c05466e69e9cbbcf18e508904f3" label="Mixed Materials [31142054897098]" type="Box">9</container></did><phystech id="aspace_541f7669fd8c527c19c15a5aaf15d1e6"><head>Physical Characteristics and Technical Requirements</head><p>Used stencils rehoused by the Library's perservation lab; two stencils could not be unrolled. Researcher access is limited.</p></phystech></c><c id="aspace_ref188" level="file"><did><unittitle>Four Texts, for Artists Space - printer's acetate</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box - 23.5" id="aspace_53dccd0bbdab4a3c62f3b5b5fcb316fc" label="Mixed Materials [31142054897098]" type="Box">9</container></did></c><c id="aspace_ref189" level="file"><did><unittitle>When I state that I am an anarchist...</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Oversize Folder - Half Case" id="aspace_08340a92af2061b8d4dd4e5f0b32995e" label="Mixed Materials [31142062888584]" type="Folder">4 Left</container></did></c><c id="aspace_ref190" level="file"><did><unittitle>Diazotype Floorplans</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Oversize Folder - Full Case" id="aspace_f306260d08aee20ea3498f181cbbbaa2" label="Mixed Materials [31142062888535]" type="Folder">10</container></did></c><c id="aspace_ref191" level="file"><did><unittitle>"Thirty days Work-long version" and "The idea that today there is no aesthetic..."</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Oversize Folder - Full Case" id="aspace_170da68247af3adda4379de680f924ba" label="Mixed Materials [31142062888527]" type="Folder">11</container></did></c><c id="aspace_ref192" level="file"><did><unittitle>Thirty days work</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS 21" id="aspace_e61e2e1ce3f29ab70acd0dd0e724c33b" label="Mixed Materials [31142067177082]" type="Box">Shared Fales 080</container><container id="aspace_676fd8832308ed89fa107c9b1632ec38" parent="aspace_e61e2e1ce3f29ab70acd0dd0e724c33b" type="Folder">5</container></did></c><c id="aspace_ref193" level="file"><did><unittitle>"We all do things in our own little way. Long Live anarchism."</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Oversize Folder - Half Case" id="aspace_8f83e72c17513caeec8eb129f44316eb" label="Mixed Materials [31142062888543]" type="Folder">8 Right</container></did></c><c id="aspace_ref230" level="file"><did><unittitle>"Long Live Anarchism"</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS 21" id="aspace_0e49ae836d171bf3ef6c95495a3d556e" label="Mixed Materials [31142067177082]" type="Box">Shared Fales 080</container><container id="aspace_8f49aa270e58208b567f6be2a3e5bb6d" parent="aspace_0e49ae836d171bf3ef6c95495a3d556e" type="Folder">4</container></did><scopecontent id="aspace_1811f71a55261ec9890b3a6b4bf11012"><head>Scope and Content</head><p>Used stencil</p></scopecontent></c><c id="aspace_ref232" level="file"><did><unittitle>Floorplans and Maps</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS 21" id="aspace_b2a2d43fe26cc95233ed203c7c74d84d" label="Mixed Materials [31142067177082]" type="Box">Shared Fales 080</container><container id="aspace_b1fa35e9c25a3b0ead0701078759d7e6" parent="aspace_b2a2d43fe26cc95233ed203c7c74d84d" type="Folder">3</container></did></c></c><c id="aspace_ref89" level="series"><did><unittitle>Oversize - Series II: Posthumous Files</unittitle></did><c id="aspace_ref158" level="file"><did><unittitle>Artforum</unittitle><unitdate datechar="creation">April 2003</unitdate><container altrender="Flat Box - 12 x 16" id="aspace_78158b75e62673c131b4446e85176545" label="Mixed Materials [31142054862449]" type="Box">8</container><container id="aspace_d3f53483964c7f3906fbfd3305403ce5" parent="aspace_78158b75e62673c131b4446e85176545" type="Folder">1</container></did></c><c id="aspace_ref159" level="file"><did><unittitle>Documents sur l'art [magazine]</unittitle><unitdate datechar="creation">2000</unitdate><container altrender="Flat Box - 12 x 16" id="aspace_ce3f14856b2d6da408d09bc973f7bb36" label="Mixed Materials [31142054862449]" type="Box">8</container><container id="aspace_1618b5e926c5e78c29710c94ec17cb01" parent="aspace_ce3f14856b2d6da408d09bc973f7bb36" type="Folder">2</container></did></c><c id="aspace_ref204" level="file"><did><unittitle>Garcia Torres, Mario: Christopher D'arcangelo Homage</unittitle><unitdate datechar="creation">2011</unitdate><container altrender="Hollinger Flat OS 21 - Thin" id="aspace_c3719ba64575c0cf948c00bb78865f22" label="Mixed Materials [31142054897080]" type="Box">11</container><container id="aspace_fe781e191f0b500f6cfd9883af228ce9" parent="aspace_c3719ba64575c0cf948c00bb78865f22" type="Folder">1</container></did></c><c id="aspace_c6601b564cc08eb9d58242ac9c4268b4" level="file"><did><unittitle>Institute for Art and Urban Resources</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Oversize Folder - Full Case" id="aspace_8a9806230998f4acbeaf604854871a03" label="Mixed Materials [31142062888519]" type="Folder">12</container></did></c></c></dsc>
-</archdesc>
+8. Suitcase Piece</p>
+              <p>DVD access copies 264.0019A and 264.0019B contain additional information on interstitial labels, although they do not include "Filmed at Home," "Stencils on Fire" and "Suitcase Piece."</p>
+            </scopecontent>
+            <phystech id="aspace_1321dbe8e167559900ef7d506a9f9773">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Duration: 41 minutes.</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref144" level="item">
+            <did>
+              <unittitle>Chris - Events</unittitle>
+              <unitid>ID: 264.0008</unitid>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_f70c273605c54a2752fd63fd64af5be2" label="Mixed Materials [31142063513686]" type="Box">6</container>
+              <container id="aspace_c6f3b9d618fa7e21feedf4ab2ab9eab8" parent="aspace_f70c273605c54a2752fd63fd64af5be2" type="Media">ID: 264.0008</container>
+            </did>
+            <odd id="aspace_51c526408ba9d0dad76d25f8ec9691e9">
+              <head>General</head>
+              <p>Format: VHS</p>
+              <p>Duration: 00:41:00</p>
+            </odd>
+          </c>
+        </c>
+        <c id="aspace_ref108" level="subseries">
+          <did>
+            <unittitle>Subseries E: Film - Access Copies</unittitle>
+          </did>
+          <accessrestrict id="aspace_18f1d6ef16549bb342ed93a25d01b7b3">
+            <head>Conditions Governing Access</head>
+            <p>Access copies are currently unavailable to researchers.</p>
+          </accessrestrict>
+        </c>
+        <c id="aspace_ref109" level="subseries">
+          <did>
+            <unittitle>Subseries F: Film - Originals</unittitle>
+          </did>
+          <c id="aspace_ref148" level="item">
+            <did>
+              <unittitle>Film from Whitney 1/31/75: "When I State..." Whitney Modern 786 Amsterdam</unittitle>
+              <unitid>ID: 264.0002</unitid>
+              <unitdate datechar="creation">1975</unitdate>
+              <container altrender="Film Can (.75&quot; height, any dimensions)" id="aspace_ecd2a3cc58ff0bd1fbeada5cd8348343" label="Mixed Materials [31142063243078]" type="case">264.0002</container>
+            </did>
+            <odd id="aspace_a3399644fcfb5b93cc8c5568ff7b36a2">
+              <head>General</head>
+              <p>Format: Super 8mm</p>
+              <p>Duration: Unknown</p>
+            </odd>
+          </c>
+          <c id="aspace_ref150" level="item">
+            <did>
+              <unittitle>7/8/76 Norton Simon Pasadena</unittitle>
+              <unitid>ID: 264.0003</unitid>
+              <unitdate datechar="creation">1976</unitdate>
+              <container altrender="Film Can (.75&quot; height, any dimensions)" id="aspace_8d8fccd20f609420c70fec29ec8ea579" label="Mixed Materials [31142063243086]" type="case">264.0003</container>
+            </did>
+            <odd id="aspace_8b39dca34779cf2acade871fd3a62d95">
+              <head>General</head>
+              <p>Format: Super 8mm</p>
+              <p>Duration: Unknown</p>
+            </odd>
+          </c>
+          <c id="aspace_ref146" level="item">
+            <did>
+              <unittitle>Suitcase, 786 Amsterdam</unittitle>
+              <unitid>ID: 264.0001</unitid>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Film Can (.75&quot; height, any dimensions)" id="aspace_25589ba26afb51732fd5cc48e325ba75" label="Mixed Materials [31142063243060]" type="case">264.0001</container>
+            </did>
+            <odd id="aspace_c281b0b96f8cb2390e5a35290b026446">
+              <head>General</head>
+              <p>Format: Super 8mm</p>
+              <p>Duration: Unknown</p>
+            </odd>
+          </c>
+          <c id="aspace_ref152" level="item">
+            <did>
+              <unittitle>Guggenheim and Met</unittitle>
+              <unitid>ID: 264.0004</unitid>
+              <unitdate datechar="creation">1975</unitdate>
+              <container altrender="Film Can (.75&quot; height, any dimensions)" id="aspace_44d8ee8715fb4cfed81c1ff3d738f318" label="Mixed Materials [31142063243094]" type="case">264.0004</container>
+            </did>
+            <odd id="aspace_7aa678b1d31cf013adefca3e0b6e3e6b">
+              <head>General</head>
+              <p>Format: Super 8mm</p>
+              <p>Duration: Unknown</p>
+            </odd>
+          </c>
+          <c id="aspace_ref154" level="item">
+            <did>
+              <unittitle>Cathy Weiner - Film Reel B</unittitle>
+              <unitid>ID: 264.0005</unitid>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_d82cc13bba418abfe7d3744839031abe" label="Mixed Materials [31142063513686]" type="Box">6</container>
+              <container id="aspace_a894e095b13d3e3cdc0f3d792c3c2fd4" parent="aspace_d82cc13bba418abfe7d3744839031abe" type="Media">ID: 264.0005</container>
+            </did>
+            <odd id="aspace_8393cec2757fce7bce36ffd32928e275">
+              <head>General</head>
+              <p>Format: Super 8mm</p>
+              <p>Duration: Unknown</p>
+            </odd>
+          </c>
+          <c id="aspace_ref156" level="item">
+            <did>
+              <unittitle>Cathy Weiner - Film Reel A</unittitle>
+              <unitid>ID: 264.0006</unitid>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_013b50738e299f162299ed929d88c0c6" label="Mixed Materials [31142063513686]" type="Box">6</container>
+              <container id="aspace_0076223912b78ca2d6b4997042e88bf0" parent="aspace_013b50738e299f162299ed929d88c0c6" type="Media">ID: 264.0006</container>
+            </did>
+            <odd id="aspace_e652e8fd11dcb1756312b975e29561dd">
+              <head>General</head>
+              <p>Format: Super 8mm</p>
+              <p>Duration: Unknown</p>
+            </odd>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref88" level="series">
+        <did>
+          <unittitle>Oversize - Series I: Work Files</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref186" level="file">
+          <did>
+            <unittitle>Viva Mao; Viva Anarchism; When I State That I am an Anarchist - stencils</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat OS Box - 23.5" id="aspace_a07f2c05466e69e9cbbcf18e508904f3" label="Mixed Materials [31142054897098]" type="Box">9</container>
+          </did>
+          <phystech id="aspace_541f7669fd8c527c19c15a5aaf15d1e6">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Used stencils rehoused by the Library's perservation lab; two stencils could not be unrolled. Researcher access is limited.</p>
+          </phystech>
+        </c>
+        <c id="aspace_ref188" level="file">
+          <did>
+            <unittitle>Four Texts, for Artists Space - printer's acetate</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat OS Box - 23.5" id="aspace_53dccd0bbdab4a3c62f3b5b5fcb316fc" label="Mixed Materials [31142054897098]" type="Box">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref189" level="file">
+          <did>
+            <unittitle>When I state that I am an anarchist...</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Oversize Folder - Half Case" id="aspace_08340a92af2061b8d4dd4e5f0b32995e" label="Mixed Materials [31142062888584]" type="Folder">4 Left</container>
+          </did>
+        </c>
+        <c id="aspace_ref190" level="file">
+          <did>
+            <unittitle>Diazotype Floorplans</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Oversize Folder - Full Case" id="aspace_f306260d08aee20ea3498f181cbbbaa2" label="Mixed Materials [31142062888535]" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref191" level="file">
+          <did>
+            <unittitle>"Thirty days Work-long version" and "The idea that today there is no aesthetic..."</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Oversize Folder - Full Case" id="aspace_170da68247af3adda4379de680f924ba" label="Mixed Materials [31142062888527]" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref192" level="file">
+          <did>
+            <unittitle>Thirty days work</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat OS 21" id="aspace_e61e2e1ce3f29ab70acd0dd0e724c33b" label="Mixed Materials [31142067177082]" type="Box">Shared Fales 080</container>
+            <container id="aspace_676fd8832308ed89fa107c9b1632ec38" parent="aspace_e61e2e1ce3f29ab70acd0dd0e724c33b" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref193" level="file">
+          <did>
+            <unittitle>"We all do things in our own little way. Long Live anarchism."</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Oversize Folder - Half Case" id="aspace_8f83e72c17513caeec8eb129f44316eb" label="Mixed Materials [31142062888543]" type="Folder">8 Right</container>
+          </did>
+        </c>
+        <c id="aspace_ref230" level="file">
+          <did>
+            <unittitle>"Long Live Anarchism"</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat OS 21" id="aspace_0e49ae836d171bf3ef6c95495a3d556e" label="Mixed Materials [31142067177082]" type="Box">Shared Fales 080</container>
+            <container id="aspace_8f49aa270e58208b567f6be2a3e5bb6d" parent="aspace_0e49ae836d171bf3ef6c95495a3d556e" type="Folder">4</container>
+          </did>
+          <scopecontent id="aspace_1811f71a55261ec9890b3a6b4bf11012">
+            <head>Scope and Content</head>
+            <p>Used stencil</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref232" level="file">
+          <did>
+            <unittitle>Floorplans and Maps</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat OS 21" id="aspace_b2a2d43fe26cc95233ed203c7c74d84d" label="Mixed Materials [31142067177082]" type="Box">Shared Fales 080</container>
+            <container id="aspace_b1fa35e9c25a3b0ead0701078759d7e6" parent="aspace_b2a2d43fe26cc95233ed203c7c74d84d" type="Folder">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref89" level="series">
+        <did>
+          <unittitle>Oversize - Series II: Posthumous Files</unittitle>
+        </did>
+        <c id="aspace_ref158" level="file">
+          <did>
+            <unittitle>Artforum</unittitle>
+            <unitdate datechar="creation">April 2003</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_78158b75e62673c131b4446e85176545" label="Mixed Materials [31142054862449]" type="Box">8</container>
+            <container id="aspace_d3f53483964c7f3906fbfd3305403ce5" parent="aspace_78158b75e62673c131b4446e85176545" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref159" level="file">
+          <did>
+            <unittitle>Documents sur l'art [magazine]</unittitle>
+            <unitdate datechar="creation">2000</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_ce3f14856b2d6da408d09bc973f7bb36" label="Mixed Materials [31142054862449]" type="Box">8</container>
+            <container id="aspace_1618b5e926c5e78c29710c94ec17cb01" parent="aspace_ce3f14856b2d6da408d09bc973f7bb36" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref204" level="file">
+          <did>
+            <unittitle>Garcia Torres, Mario: Christopher D'arcangelo Homage</unittitle>
+            <unitdate datechar="creation">2011</unitdate>
+            <container altrender="Hollinger Flat OS 21 - Thin" id="aspace_c3719ba64575c0cf948c00bb78865f22" label="Mixed Materials [31142054897080]" type="Box">11</container>
+            <container id="aspace_fe781e191f0b500f6cfd9883af228ce9" parent="aspace_c3719ba64575c0cf948c00bb78865f22" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_c6601b564cc08eb9d58242ac9c4268b4" level="file">
+          <did>
+            <unittitle>Institute for Art and Urban Resources</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Oversize Folder - Full Case" id="aspace_8a9806230998f4acbeaf604854871a03" label="Mixed Materials [31142062888519]" type="Folder">12</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

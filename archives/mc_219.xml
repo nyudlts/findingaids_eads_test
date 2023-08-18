@@ -1,90 +1,448 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/nyuarchives/mc_219">mc_219</eadid><filedesc><titlestmt><titleproper>Guide to the Records of Computer Advocacy at New York University (C@NYU) <num>MC.219</num></titleproper><author>Ashley Jones. Additional processing by Megan Findling.</author></titlestmt><publicationstmt><publisher>New York University Archives</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:00:49 -0400</date>.</creation><langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>New York University Archives</corpname>
-    </repository>
-    <unittitle>Records of Computer Advocacy at New York University (C@NYU)</unittitle>
-    <origination label="source">
-      <persname role="dnr" rules="dacs" source="local">Semorile, Trina</persname>
-    </origination>
-    <origination label="Creator">
-      <corpname rules="dacs" source="local">Records of Computer Advocacy at New York University</corpname>
-    </origination>
-    <unitid>MC.219</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">1.25 Linear Feet</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1995/2008" type="inclusive">1995-2008</unitdate>
-    <abstract id="aspace_df0396583912a2af9e7e142f6e93f4b0" label="Abstract">Computer Advocacy at NYU (C@NYU) was a student organization, originally formed to advocate for computer services and information about computing for students.  The group's members represented a wide spectrum of New York University community members, including staff, faculty, administrators, and students. The records consist of correspondence, administrative forms, financial records, flyers and pamphlets, newspaper clippings, and computer-related reference material.  The collection covers a range of topics related to workplace safety and computer awareness.</abstract>
-    <langmaterial id="aspace_92b5b164498ed639cc29bf959fc88b77">Materials are in English</langmaterial>
-  </did>
-  <bioghist id="aspace_4544c258b2712f909f00e322067aa7f6">
-    <head>History of Computer Advocacy at New York University</head>
-<p>Computer Advocacy at NYU (C@NYU) was a student organization, originally formed to advocate for computer services and information about computing for students.  The group's members represented a wide spectrum of New York University community members, including staff, faculty, administrators, and students.  Its student members focused on a variety of academic majors, from computer science to the sciences, medicine, history, literature, cross-disciplinary arts and humanities, business adminstration, and law.  Any individual who had an interest in computers and their uses was welcomed, and determined efforts to reach the entire New York area were consistently displayed.  In addition, all skill levels and fields of study were represented amongst the group's members.  These were not only technical skills, but end-use purposes as well, applicable within multiple academic fields.</p><p>Throughout its existence, C@NYU worked closely with New York University's Academic Computing Facility and later with Information Technology Services to address computer concerns across campus.  These activities include the cosponsoring of events, such as Computer Awareness Week, and inviting representatives from ACF and ITS to speak at C@NYU conferences.  Several events were also cosponsored with other New York University student groups, such as The Center for Students with Disabilities, The Womyn's Center, Students for a Free Tibet, the Science Fiction and Fantasy Club, and the Amiga User Group.  Contact with numerous New York City non-profit organizations was also firmly established, particularly with the Internet Society of New York (ISOC).  C@NYU hosted many of ISOC's panel discussions and workshops, all of which were open to the public.  Their programs included technical, social, political, educational, and hands-on how to guides, namely through a very successful weekly cource called "Unix by e-mail," with 104 participants from the New York University community.  </p><p>For a time, articles were composed regularly by C@NYU's members for both the Washington Square News and the ACF/ITS magazine publication.  These contributions were made to publicize the organization's activities and to spread awareness about more general computer-related issues.</p><p>In addition to a discourse on emerging computer technologies, there was a strong health and safety component amongst the group's interests.  Workshops were held on safe computing, ergonomics, computer injury education, treatment and prevention.  Beginning in the year 2000, C@NYU sponsored an annual event for Repetitive Strain Injury Day, featuring panel discussions on timely issues.</p><p>In its final years, C@NYU membership waned due to several factors. Many of the members were graduating, while others were unable or unwilling to keep the group active. </p><p>The C@NYU records are a meaningful addition to the University Archives because the group was active in many influential computer-related discussions and awareness efforts in the New York University community during its 13-year life span.  </p>  </bioghist>
-  <arrangement id="aspace_08a206011e84c9bca2788961f94490ad">
-    <head>Arrangement</head>
-<p>The Records of Computer Advocacy at NYU have been arranged on the basis of two primary factors: 1) the emphasis of the papers' content and 2) the relation of the papers to the organization itself.  From first appraisal, it was clear that the majority of the donated records detailed the group's numerous events throughout its 13-year history.  Event-related papers include: correspondence, guest speaker forms, space booking forms, expense reports, flyers and promotional material, and attendee evaluations.  The first series is thus dedicated to the records of C@NYU's sponsored events from 1995-2008.  </p><p>From this point forward, the remaining records consisted of those either directly related or unrelated to the group's functioning.  Those related papers that were not event-specific included: general administrative papers, particularly regarding budgeting and networking.  This second series also includes group-related papers that are intended for general publicity, as well as for member relations purposes.  The records in the collection that were not directly related to C@NYU were either computer reference guides published by various groups throughout the country, or informational articles about computer health legislation.  These would comprise the third series.  </p><p>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="https://findingaids.library.nyu.edu/nyuarchives/mc_219">mc_219</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Records of Computer Advocacy at New York University (C@NYU) <num>MC.219</num></titleproper>
+        <author>Ashley Jones. Additional processing by Megan Findling.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:00:49 -0400</date>.</creation>
+      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>Records of Computer Advocacy at New York University (C@NYU)</unittitle>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Semorile, Trina</persname>
+      </origination>
+      <origination label="Creator">
+        <corpname rules="dacs" source="local">Records of Computer Advocacy at New York University</corpname>
+      </origination>
+      <unitid>MC.219</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.25 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1995/2008" type="inclusive">1995-2008</unitdate>
+      <abstract id="aspace_df0396583912a2af9e7e142f6e93f4b0" label="Abstract">Computer Advocacy at NYU (C@NYU) was a student organization, originally formed to advocate for computer services and information about computing for students.  The group's members represented a wide spectrum of New York University community members, including staff, faculty, administrators, and students. The records consist of correspondence, administrative forms, financial records, flyers and pamphlets, newspaper clippings, and computer-related reference material.  The collection covers a range of topics related to workplace safety and computer awareness.</abstract>
+      <langmaterial id="aspace_92b5b164498ed639cc29bf959fc88b77">Materials are in English</langmaterial>
+    </did>
+    <bioghist id="aspace_4544c258b2712f909f00e322067aa7f6">
+      <head>History of Computer Advocacy at New York University</head>
+      <p>Computer Advocacy at NYU (C@NYU) was a student organization, originally formed to advocate for computer services and information about computing for students.  The group's members represented a wide spectrum of New York University community members, including staff, faculty, administrators, and students.  Its student members focused on a variety of academic majors, from computer science to the sciences, medicine, history, literature, cross-disciplinary arts and humanities, business adminstration, and law.  Any individual who had an interest in computers and their uses was welcomed, and determined efforts to reach the entire New York area were consistently displayed.  In addition, all skill levels and fields of study were represented amongst the group's members.  These were not only technical skills, but end-use purposes as well, applicable within multiple academic fields.</p>
+      <p>Throughout its existence, C@NYU worked closely with New York University's Academic Computing Facility and later with Information Technology Services to address computer concerns across campus.  These activities include the cosponsoring of events, such as Computer Awareness Week, and inviting representatives from ACF and ITS to speak at C@NYU conferences.  Several events were also cosponsored with other New York University student groups, such as The Center for Students with Disabilities, The Womyn's Center, Students for a Free Tibet, the Science Fiction and Fantasy Club, and the Amiga User Group.  Contact with numerous New York City non-profit organizations was also firmly established, particularly with the Internet Society of New York (ISOC).  C@NYU hosted many of ISOC's panel discussions and workshops, all of which were open to the public.  Their programs included technical, social, political, educational, and hands-on how to guides, namely through a very successful weekly cource called "Unix by e-mail," with 104 participants from the New York University community.  </p>
+      <p>For a time, articles were composed regularly by C@NYU's members for both the Washington Square News and the ACF/ITS magazine publication.  These contributions were made to publicize the organization's activities and to spread awareness about more general computer-related issues.</p>
+      <p>In addition to a discourse on emerging computer technologies, there was a strong health and safety component amongst the group's interests.  Workshops were held on safe computing, ergonomics, computer injury education, treatment and prevention.  Beginning in the year 2000, C@NYU sponsored an annual event for Repetitive Strain Injury Day, featuring panel discussions on timely issues.</p>
+      <p>In its final years, C@NYU membership waned due to several factors. Many of the members were graduating, while others were unable or unwilling to keep the group active. </p>
+      <p>The C@NYU records are a meaningful addition to the University Archives because the group was active in many influential computer-related discussions and awareness efforts in the New York University community during its 13-year life span.  </p>
+    </bioghist>
+    <arrangement id="aspace_08a206011e84c9bca2788961f94490ad">
+      <head>Arrangement</head>
+      <p>The Records of Computer Advocacy at NYU have been arranged on the basis of two primary factors: 1) the emphasis of the papers' content and 2) the relation of the papers to the organization itself.  From first appraisal, it was clear that the majority of the donated records detailed the group's numerous events throughout its 13-year history.  Event-related papers include: correspondence, guest speaker forms, space booking forms, expense reports, flyers and promotional material, and attendee evaluations.  The first series is thus dedicated to the records of C@NYU's sponsored events from 1995-2008.  </p>
+      <p>From this point forward, the remaining records consisted of those either directly related or unrelated to the group's functioning.  Those related papers that were not event-specific included: general administrative papers, particularly regarding budgeting and networking.  This second series also includes group-related papers that are intended for general publicity, as well as for member relations purposes.  The records in the collection that were not directly related to C@NYU were either computer reference guides published by various groups throughout the country, or informational articles about computer health legislation.  These would comprise the third series.  </p>
+      <p>
 The Collection has been arranged into the above mentioned series:
 Series I: Events-related Papers
 Series II: Organizational Papers
-Series III: Non-Organizational Papers</p><p>The Records of Computer Advocacy at NYU have been arranged on the basis of two primary factors: 1) the emphasis of the papers' content and 2) the relation of the papers to the organization itself.  From first appraisal, it was clear that the majority of the donated records detailed the group's numerous events throughout its 13-year history.  Event-related papers include: correspondence, guest speaker forms, space booking forms, expense reports, flyers and promotional material, and attendee evaluations.  The first series is thus dedicated to the records of C@NYU's sponsored events from 1995-2008.  </p><p>From this point forward, the remaining records consisted of those either directly related or unrelated to the group's functioning.  Those related papers that were not event-specific included: general administrative papers, particularly regarding budgeting and networking.  This second series also includes group-related papers that are intended for general publicity, as well as for member relations purposes.  The records in the collection that were not directly related to C@NYU were either computer reference guides published by various groups throughout the country, or informational articles about computer health legislation.  These would comprise the third series. </p>    <list numeration="upperroman" type="ordered">
-      <head>Missing Title</head>
-      <item>Events</item>
-      <item>Organization Papers</item>
-      <item>Non-Organization Papers</item>
-    </list>
-  </arrangement>
-  <accessrestrict id="aspace_8e727ee3bd40e47ae999843dfb12cfc9">
-    <head>Access Restrictions</head>
-<p>This collection is open to researchers without restrictions.</p>  </accessrestrict>
-  <userestrict id="aspace_278bdebe4aead7d46e99340a22fb4862">
-    <head>Use Restrictions</head>
-<p>Permission to publish materials must be obtained in writing from the:</p><p>New York University Archives
+Series III: Non-Organizational Papers</p>
+      <p>The Records of Computer Advocacy at NYU have been arranged on the basis of two primary factors: 1) the emphasis of the papers' content and 2) the relation of the papers to the organization itself.  From first appraisal, it was clear that the majority of the donated records detailed the group's numerous events throughout its 13-year history.  Event-related papers include: correspondence, guest speaker forms, space booking forms, expense reports, flyers and promotional material, and attendee evaluations.  The first series is thus dedicated to the records of C@NYU's sponsored events from 1995-2008.  </p>
+      <p>From this point forward, the remaining records consisted of those either directly related or unrelated to the group's functioning.  Those related papers that were not event-specific included: general administrative papers, particularly regarding budgeting and networking.  This second series also includes group-related papers that are intended for general publicity, as well as for member relations purposes.  The records in the collection that were not directly related to C@NYU were either computer reference guides published by various groups throughout the country, or informational articles about computer health legislation.  These would comprise the third series. </p>
+      <list numeration="upperroman" type="ordered">
+        <head>Missing Title</head>
+        <item>Events</item>
+        <item>Organization Papers</item>
+        <item>Non-Organization Papers</item>
+      </list>
+    </arrangement>
+    <accessrestrict id="aspace_8e727ee3bd40e47ae999843dfb12cfc9">
+      <head>Access Restrictions</head>
+      <p>This collection is open to researchers without restrictions.</p>
+    </accessrestrict>
+    <userestrict id="aspace_278bdebe4aead7d46e99340a22fb4862">
+      <head>Use Restrictions</head>
+      <p>Permission to publish materials must be obtained in writing from the:</p>
+      <p>New York University Archives
 Elmer Holmes Bobst Library
 70 Washington Square South
 New York, NY 10012
 Phone: (212) 998-2641
 Fax: (212) 995-4225
-E-mail: university-archives@nyu.edu</p>  </userestrict>
-  <prefercite id="aspace_4dcfe1ebf57abc312768b0e5ff4b3831">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: Identification of item, date (if known); Records of Computer Advocacy at New York University (C@NYU); MC 219; box number; folder number; New York University Archives, New York University Libraries.</p>  </prefercite>
-  <scopecontent id="aspace_0b94bcb863c077ac94f57597a8e7c2d3">
-    <head>Scope and Contents</head>
-<p>The collection consists of correspondence, administrative forms, financial records, flyers and pamphlets, newspaper clippings, and computer-related reference material. The collection covers a wide range of topics related to workplace safety and computer awareness. Evident throughout these records are the strong collaborative relationships fostered between C@NYU and other student organizations and local computer-related groups, such as: The Internet Society of New York, NYU Information Technology Services, The Womyn's Center, Students for a Free Tibet, the Science Fiction and Fantasy Club, and the Amiga User Group. Their cooperation led to numerous conferences and special events that focused on specific issues; for example: emerging software programs and internet technologies, computer-related injuries and acquired disorders, and the social impact of the World Wide Web. The collection is particularly signficant because it allows the researcher to acquire a comprehensive view of a student organization's activity for its entire lifespan. It reaches all areas of its administration, from event planning to promotion, and from budgeting to networking with influential people and groups. In an even broader scope, the C@NYU Records demonstrate the organization's crucial position in raising computer awareness throughout the New York University community.</p><p>Approximately 1.25 linear feet of material were eliminated from the collection during its processing, primarily due to excessive amounts of multiple copies. Overall, the paper is in good condition. Gaps in the records appear in two notable areas: the absense of RSI Day 2005 and the decreasing amount of material in C@NYU's later years. There was no RSI conference held in 2005 due to personal conflicts. Membership began to dwindle in the last few years of C@NYU's existence, resulting from a spectrum of factors, including graduation and the willingness or ability of students to keep the group active.  </p>  </scopecontent>
-  <controlaccess>
-    <genreform source="aat">Fliers (printed matter)</genreform>
-    <subject source="lcsh">Ergonomics design and management.</subject>
-    <subject source="lcsh">Ergonomics, human factors and safety.</subject>
-    <subject source="local">Computer and health care. </subject>
-    <subject source="lcsh">Network security, Computer. </subject>
-    <subject source="lcsh">Technology.</subject>
-    <subject source="lcsh">Internet |x Access control. </subject>
-    <genreform source="aat">Correspondence.</genreform>
-    <subject source="lcsh">Student newspapers and periodicals |z New York (State) |z New York.</subject>
-    <subject source="lcsh">Internet |x Security measures. </subject>
-    <subject source="lcsh">Internet research. </subject>
-    <subject source="lcsh">Internet |z United States. </subject>
-    <subject source="lcsh">Internet Society.</subject>
-    <subject source="lcsh">Employment &amp; social affairs -- Health and safety at work.</subject>
-    <genreform source="aat">Clippings (information artifacts)</genreform>
-    <genreform source="aat">Brochures.</genreform>
-    <subject source="lcsh">Wireless Internet. </subject>
-    <subject source="lcsh">Open-source software. </subject>
-    <subject source="lcsh">Linux. </subject>
-    <subject source="lcsh">Copyright |x Computer programs |z United States. </subject>
-    <subject source="lcsh">Information technology. </subject>
-    <genreform source="aat">Membership lists.</genreform>
-    <genreform source="aat">Leaflets (printed works)</genreform>
-    <subject source="lcsh">Student activities.</subject>
-    <genreform source="aat">Newspapers.</genreform>
-    <subject source="lcsh">Health education.</subject>
-    <subject source="lcsh">Computer science.</subject>
-    <subject source="lcsh">Budget and Resource Planning.</subject>
-    <persname role="dnr" rules="dacs" source="local">Semorile, Trina</persname>
-    <corpname rules="dacs" source="local">New York University. Washington Square Campus</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_ref3" level="series"><did><unittitle>Series I: Events </unittitle><unitdate datechar="creation" normal="1995/2008" type="inclusive">1995-2008</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><odd id="aspace_c04825771aaee5eaa0bb2f924298e453"><head>Absence of RSI Day 2005</head><p>There is no folder in this series for RSI Day 2005 because the event did not take place in this year.</p></odd><c id="aspace_ref4" level="file"><did><unittitle>Various Events</unittitle><unitdate datechar="creation" normal="1995/1996" type="inclusive">1995-1996</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_1fdb5ef60602ce079d3f112a131ddbbb" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_4af32b1bc2c431192b5a52eb768c75c7" parent="aspace_1fdb5ef60602ce079d3f112a131ddbbb" type="Folder">1</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Office Ergonomics Conference: Planning and Promotion</unittitle><unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_59f0400ae729f329e808a2b04c715f2c" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_1f0bba5e4ac94a894b84a2d3d41d0de0" parent="aspace_59f0400ae729f329e808a2b04c715f2c" type="Folder">2</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Office Ergonomics Conference: Program Materials and Evaluations</unittitle><unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_dbc4b97c3367f19ca4b43ed07df4af21" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_0f89abc6c5dcf7287b1bd8beb93d5e52" parent="aspace_dbc4b97c3367f19ca4b43ed07df4af21" type="Folder">3</container></did></c><c id="aspace_ref7" level="file"><did><unittitle>Web Workshops</unittitle><unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_f458e839705501d34e2c18687dae185b" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_4dc24c3602baafafb69ac1bfd51acf4e" parent="aspace_f458e839705501d34e2c18687dae185b" type="Folder">4</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Computer Awareness Week: General Planning and April 15 Events</unittitle><unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_d98f37704c5c71a46411a39826508df3" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_52725a16837d10a30bddcfec3ca9bd7f" parent="aspace_d98f37704c5c71a46411a39826508df3" type="Folder">5</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Computer Awareness Week:  April 16-18th Events</unittitle><unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_eb8a39aaa7eb0e5d5e97f3d06aac1117" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_d94a094605a982bd6fe557ae33961eb1" parent="aspace_eb8a39aaa7eb0e5d5e97f3d06aac1117" type="Folder">6</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Computer Awareness Week: Planning and Promotion</unittitle><unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_f750edfc4bbddf1de9472fb814b45f56" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_3eb15d8abf577e15d5bedd2017393646" parent="aspace_f750edfc4bbddf1de9472fb814b45f56" type="Folder">7</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>Computer Awareness Week: Evaluations, Appreciation Letters, Press</unittitle><unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_46f06c9d1ba72823d1676f2fb26529c6" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_6c463ad5a8a569d0abda45d8d937e88e" parent="aspace_46f06c9d1ba72823d1676f2fb26529c6" type="Folder">8</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Various Events</unittitle><unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_6e87f26c2654e6cabb1029d5d8331488" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_0457741f323ae2fcd31c3460c24cfb85" parent="aspace_6e87f26c2654e6cabb1029d5d8331488" type="Folder">9</container></did></c><c id="aspace_ref11" level="file"><did><unittitle>Various Events</unittitle><unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_bbbda6f5d2139bc067a5c2353992732f" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_450876e679076df1b5062aea09297b2d" parent="aspace_bbbda6f5d2139bc067a5c2353992732f" type="Folder">10</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Various Events</unittitle><unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_e4177c1df3efc1a8a7f76df197d5639d" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_00dabef0e53370a555a1977cec2c7ff6" parent="aspace_e4177c1df3efc1a8a7f76df197d5639d" type="Folder">11</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>RSI Awareness Day </unittitle><unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_d70f8b64c7facda213d5dbe2afaa5bbb" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_47741d808d2e10b870705c73d7b405aa" parent="aspace_d70f8b64c7facda213d5dbe2afaa5bbb" type="Folder">12</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Various Events</unittitle><unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_d9c5f8d08a81334ed6c1721cd4eb2894" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_fcdf6150b709a5b2534578cd7970cb88" parent="aspace_d9c5f8d08a81334ed6c1721cd4eb2894" type="Folder">13</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>RSI Awareness Day </unittitle><unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_b0ec51487b313dee8714bcf09f5a6325" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_2d6864c4971ce88ba4cfea9113dba2f3" parent="aspace_b0ec51487b313dee8714bcf09f5a6325" type="Folder">14</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Various Events</unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_c75fe95e0f8518e15c00b9d09b27f1f7" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_3c9c30b60029ea4b07ff8afcb6afa237" parent="aspace_c75fe95e0f8518e15c00b9d09b27f1f7" type="Folder">15</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>RSI Awareness Day </unittitle><unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_50466f261644761670b02b3219f5d08a" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_27e6165e9ba390044628e64cfbd23724" parent="aspace_50466f261644761670b02b3219f5d08a" type="Folder">16</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Various Events</unittitle><unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_ebf711b18b006e7972d05f8a74dcb4cf" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_e96bd5b86518339e2ac671b410a934bc" parent="aspace_ebf711b18b006e7972d05f8a74dcb4cf" type="Folder">17</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>RSI Awareness Day </unittitle><unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_e1d17883f2222a9f95eeef05cde3bfad" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_84a482494f2462a9506c10a311928390" parent="aspace_e1d17883f2222a9f95eeef05cde3bfad" type="Folder">18</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Various Events</unittitle><unitdate datechar="creation" normal="2004/2008" type="inclusive">2004-2008</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_99d5ad3f0b41549b27ff5478b58e63ce" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_79d4cd844f58931ce241a6503ecf14f9" parent="aspace_99d5ad3f0b41549b27ff5478b58e63ce" type="Folder">19</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>RSI Awareness Day </unittitle><unitdate datechar="creation" normal="2004/2004" type="inclusive">2004</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_c591966d868a0424511c5f9544864e7b" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_da1f05181138590f87133fff4f10e34d" parent="aspace_c591966d868a0424511c5f9544864e7b" type="Folder">20</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>RSI Awareness Day </unittitle><unitdate datechar="creation" normal="2006/2006" type="inclusive">2006</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_1feae0d5b12693c7a8b46cf9b4cafd37" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_36766568f9109f8bdccadc087ca1a015" parent="aspace_1feae0d5b12693c7a8b46cf9b4cafd37" type="Folder">21</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>RSI Awareness Day</unittitle><unitdate datechar="creation" normal="2007/2007" type="inclusive">2007</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_9c36b913dcefdced9083b3d97eaa849b" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_8f9d432e0f31a4e53c83fcfca5b02a15" parent="aspace_9c36b913dcefdced9083b3d97eaa849b" type="Folder">22</container></did></c></c><c id="aspace_ref29" level="series"><did><unittitle>Series II: Organization Papers</unittitle><unitdate datechar="creation" normal="1995/2008" type="inclusive">1995-2008</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref30" level="file"><did><unittitle>General Publicity and Meetings Records</unittitle><unitdate datechar="creation" normal="1995/2008" type="inclusive">1995-2008</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_cc6ce94bce10dbb9e209512ab9ec46df" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_5d7ad39ab2e1d2c051fd45675ee5e720" parent="aspace_cc6ce94bce10dbb9e209512ab9ec46df" type="Folder">23</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Member Relations</unittitle><unitdate datechar="creation" normal="1995/2008" type="inclusive">1995-2008</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_a619a4d84c37cbf7e625d56218dca937" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_268686b7a2b97da5c0aa11d7cd4ca765" parent="aspace_a619a4d84c37cbf7e625d56218dca937" type="Folder">24</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Budgeting</unittitle><unitdate datechar="creation" normal="1995/2000" type="inclusive">1995-2000</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_d685aa4f1181bb2fa3e05b88b1437435" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_8e0befa331ead7383ee934c5128b4b58" parent="aspace_d685aa4f1181bb2fa3e05b88b1437435" type="Folder">25</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Budgeting</unittitle><unitdate datechar="creation" normal="2000/2006" type="inclusive">2000-2006</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_d40cf9277b37fd99d004ae8be2fe63d5" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_1d7ff7b1b70a8cff0d68c3d2d5764996" parent="aspace_d40cf9277b37fd99d004ae8be2fe63d5" type="Folder">26</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>Budgeting: ASSBAC/OSA Memorandums and Correspondence</unittitle><unitdate datechar="creation" normal="1995/2007" type="inclusive">1995-2007</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_8957b1c9d8e9765288fade7c4c85dc59" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_05d6fc1a76a966c4a862a7acf170582d" parent="aspace_8957b1c9d8e9765288fade7c4c85dc59" type="Folder">27</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Budgeting: Incomplete and Blank ASSBAC/OSA Forms</unittitle><unitdate datechar="creation" normal="1995/2008" type="inclusive">1995-2008</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_615bc403f8ac85e033f9011a859480cd" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_7cb04d903c57074b2f396fbe65388be2" parent="aspace_615bc403f8ac85e033f9011a859480cd" type="Folder">28</container></did></c></c><c id="aspace_ref37" level="series"><did><unittitle>Series III: Non-Organization Papers</unittitle><unitdate datechar="creation" normal="1995/2008" type="inclusive">1995-2008</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref38" level="file"><did><unittitle>Computer Reference: Pamphlets and Loose Papers</unittitle><unitdate datechar="creation" normal="1995/2008" type="inclusive">1995-2008</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_c54ea2bec5bf49da64a6aca5e7559a96" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_d43102de9eac55c340d908ab731fa0de" parent="aspace_c54ea2bec5bf49da64a6aca5e7559a96" type="Folder">29</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>Computer Reference: Large Booklets</unittitle><unitdate datechar="creation" normal="1995/2008" type="inclusive">1995-2008</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_dfedd9361c7de2ec181a844f3ece38a3" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_0a4d1edea3fb1020584b087e204acd22" parent="aspace_dfedd9361c7de2ec181a844f3ece38a3" type="Folder">30</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Computer Reference: Legal Issues and Legislation</unittitle><unitdate datechar="creation" normal="1995/2008" type="inclusive">1995-2008</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_7dbd8cec81197821d2dde1c31459cd20" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_cd1c2698aca61655d8c1f7388b3f8393" parent="aspace_7dbd8cec81197821d2dde1c31459cd20" type="Folder">31</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>Floppy Disk</unittitle><unitdate datechar="creation">undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_cb694507d34eb821d1a9620087f53aad" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_9cbec1f69e92f1d3d13cafe4dd2d3afd" parent="aspace_cb694507d34eb821d1a9620087f53aad" type="Folder">32</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>2 Plaques</unittitle><unitdate datechar="creation">2001, undated</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton" id="aspace_1d62777ea08d8b91c6bfdba2ac48b694" label="Mixed Materials [31142062896066]" type="Box">1</container><container id="aspace_743aaafcfd6e1cd3d3ca0930894e0186" parent="aspace_1d62777ea08d8b91c6bfdba2ac48b694" type="Folder">33</container></did></c></c></dsc>
-</archdesc>
+E-mail: university-archives@nyu.edu</p>
+    </userestrict>
+    <prefercite id="aspace_4dcfe1ebf57abc312768b0e5ff4b3831">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: Identification of item, date (if known); Records of Computer Advocacy at New York University (C@NYU); MC 219; box number; folder number; New York University Archives, New York University Libraries.</p>
+    </prefercite>
+    <scopecontent id="aspace_0b94bcb863c077ac94f57597a8e7c2d3">
+      <head>Scope and Contents</head>
+      <p>The collection consists of correspondence, administrative forms, financial records, flyers and pamphlets, newspaper clippings, and computer-related reference material. The collection covers a wide range of topics related to workplace safety and computer awareness. Evident throughout these records are the strong collaborative relationships fostered between C@NYU and other student organizations and local computer-related groups, such as: The Internet Society of New York, NYU Information Technology Services, The Womyn's Center, Students for a Free Tibet, the Science Fiction and Fantasy Club, and the Amiga User Group. Their cooperation led to numerous conferences and special events that focused on specific issues; for example: emerging software programs and internet technologies, computer-related injuries and acquired disorders, and the social impact of the World Wide Web. The collection is particularly signficant because it allows the researcher to acquire a comprehensive view of a student organization's activity for its entire lifespan. It reaches all areas of its administration, from event planning to promotion, and from budgeting to networking with influential people and groups. In an even broader scope, the C@NYU Records demonstrate the organization's crucial position in raising computer awareness throughout the New York University community.</p>
+      <p>Approximately 1.25 linear feet of material were eliminated from the collection during its processing, primarily due to excessive amounts of multiple copies. Overall, the paper is in good condition. Gaps in the records appear in two notable areas: the absense of RSI Day 2005 and the decreasing amount of material in C@NYU's later years. There was no RSI conference held in 2005 due to personal conflicts. Membership began to dwindle in the last few years of C@NYU's existence, resulting from a spectrum of factors, including graduation and the willingness or ability of students to keep the group active.  </p>
+    </scopecontent>
+    <controlaccess>
+      <genreform source="aat">Fliers (printed matter)</genreform>
+      <subject source="lcsh">Ergonomics design and management.</subject>
+      <subject source="lcsh">Ergonomics, human factors and safety.</subject>
+      <subject source="local">Computer and health care. </subject>
+      <subject source="lcsh">Network security, Computer. </subject>
+      <subject source="lcsh">Technology.</subject>
+      <subject source="lcsh">Internet |x Access control. </subject>
+      <genreform source="aat">Correspondence.</genreform>
+      <subject source="lcsh">Student newspapers and periodicals |z New York (State) |z New York.</subject>
+      <subject source="lcsh">Internet |x Security measures. </subject>
+      <subject source="lcsh">Internet research. </subject>
+      <subject source="lcsh">Internet |z United States. </subject>
+      <subject source="lcsh">Internet Society.</subject>
+      <subject source="lcsh">Employment &amp; social affairs -- Health and safety at work.</subject>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <genreform source="aat">Brochures.</genreform>
+      <subject source="lcsh">Wireless Internet. </subject>
+      <subject source="lcsh">Open-source software. </subject>
+      <subject source="lcsh">Linux. </subject>
+      <subject source="lcsh">Copyright |x Computer programs |z United States. </subject>
+      <subject source="lcsh">Information technology. </subject>
+      <genreform source="aat">Membership lists.</genreform>
+      <genreform source="aat">Leaflets (printed works)</genreform>
+      <subject source="lcsh">Student activities.</subject>
+      <genreform source="aat">Newspapers.</genreform>
+      <subject source="lcsh">Health education.</subject>
+      <subject source="lcsh">Computer science.</subject>
+      <subject source="lcsh">Budget and Resource Planning.</subject>
+      <persname role="dnr" rules="dacs" source="local">Semorile, Trina</persname>
+      <corpname rules="dacs" source="local">New York University. Washington Square Campus</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref3" level="series">
+        <did>
+          <unittitle>Series I: Events </unittitle>
+          <unitdate datechar="creation" normal="1995/2008" type="inclusive">1995-2008</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <odd id="aspace_c04825771aaee5eaa0bb2f924298e453">
+          <head>Absence of RSI Day 2005</head>
+          <p>There is no folder in this series for RSI Day 2005 because the event did not take place in this year.</p>
+        </odd>
+        <c id="aspace_ref4" level="file">
+          <did>
+            <unittitle>Various Events</unittitle>
+            <unitdate datechar="creation" normal="1995/1996" type="inclusive">1995-1996</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_1fdb5ef60602ce079d3f112a131ddbbb" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_4af32b1bc2c431192b5a52eb768c75c7" parent="aspace_1fdb5ef60602ce079d3f112a131ddbbb" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Office Ergonomics Conference: Planning and Promotion</unittitle>
+            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_59f0400ae729f329e808a2b04c715f2c" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_1f0bba5e4ac94a894b84a2d3d41d0de0" parent="aspace_59f0400ae729f329e808a2b04c715f2c" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Office Ergonomics Conference: Program Materials and Evaluations</unittitle>
+            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_dbc4b97c3367f19ca4b43ed07df4af21" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_0f89abc6c5dcf7287b1bd8beb93d5e52" parent="aspace_dbc4b97c3367f19ca4b43ed07df4af21" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref7" level="file">
+          <did>
+            <unittitle>Web Workshops</unittitle>
+            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_f458e839705501d34e2c18687dae185b" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_4dc24c3602baafafb69ac1bfd51acf4e" parent="aspace_f458e839705501d34e2c18687dae185b" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref8" level="file">
+          <did>
+            <unittitle>Computer Awareness Week: General Planning and April 15 Events</unittitle>
+            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_d98f37704c5c71a46411a39826508df3" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_52725a16837d10a30bddcfec3ca9bd7f" parent="aspace_d98f37704c5c71a46411a39826508df3" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Computer Awareness Week:  April 16-18th Events</unittitle>
+            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_eb8a39aaa7eb0e5d5e97f3d06aac1117" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_d94a094605a982bd6fe557ae33961eb1" parent="aspace_eb8a39aaa7eb0e5d5e97f3d06aac1117" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref9" level="file">
+          <did>
+            <unittitle>Computer Awareness Week: Planning and Promotion</unittitle>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_f750edfc4bbddf1de9472fb814b45f56" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_3eb15d8abf577e15d5bedd2017393646" parent="aspace_f750edfc4bbddf1de9472fb814b45f56" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Computer Awareness Week: Evaluations, Appreciation Letters, Press</unittitle>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_46f06c9d1ba72823d1676f2fb26529c6" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_6c463ad5a8a569d0abda45d8d937e88e" parent="aspace_46f06c9d1ba72823d1676f2fb26529c6" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>Various Events</unittitle>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_6e87f26c2654e6cabb1029d5d8331488" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_0457741f323ae2fcd31c3460c24cfb85" parent="aspace_6e87f26c2654e6cabb1029d5d8331488" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>Various Events</unittitle>
+            <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_bbbda6f5d2139bc067a5c2353992732f" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_450876e679076df1b5062aea09297b2d" parent="aspace_bbbda6f5d2139bc067a5c2353992732f" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>Various Events</unittitle>
+            <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_e4177c1df3efc1a8a7f76df197d5639d" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_00dabef0e53370a555a1977cec2c7ff6" parent="aspace_e4177c1df3efc1a8a7f76df197d5639d" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>RSI Awareness Day </unittitle>
+            <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_d70f8b64c7facda213d5dbe2afaa5bbb" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_47741d808d2e10b870705c73d7b405aa" parent="aspace_d70f8b64c7facda213d5dbe2afaa5bbb" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Various Events</unittitle>
+            <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_d9c5f8d08a81334ed6c1721cd4eb2894" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_fcdf6150b709a5b2534578cd7970cb88" parent="aspace_d9c5f8d08a81334ed6c1721cd4eb2894" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>RSI Awareness Day </unittitle>
+            <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_b0ec51487b313dee8714bcf09f5a6325" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_2d6864c4971ce88ba4cfea9113dba2f3" parent="aspace_b0ec51487b313dee8714bcf09f5a6325" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Various Events</unittitle>
+            <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_c75fe95e0f8518e15c00b9d09b27f1f7" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_3c9c30b60029ea4b07ff8afcb6afa237" parent="aspace_c75fe95e0f8518e15c00b9d09b27f1f7" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>RSI Awareness Day </unittitle>
+            <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_50466f261644761670b02b3219f5d08a" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_27e6165e9ba390044628e64cfbd23724" parent="aspace_50466f261644761670b02b3219f5d08a" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Various Events</unittitle>
+            <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_ebf711b18b006e7972d05f8a74dcb4cf" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_e96bd5b86518339e2ac671b410a934bc" parent="aspace_ebf711b18b006e7972d05f8a74dcb4cf" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>RSI Awareness Day </unittitle>
+            <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_e1d17883f2222a9f95eeef05cde3bfad" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_84a482494f2462a9506c10a311928390" parent="aspace_e1d17883f2222a9f95eeef05cde3bfad" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Various Events</unittitle>
+            <unitdate datechar="creation" normal="2004/2008" type="inclusive">2004-2008</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_99d5ad3f0b41549b27ff5478b58e63ce" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_79d4cd844f58931ce241a6503ecf14f9" parent="aspace_99d5ad3f0b41549b27ff5478b58e63ce" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>RSI Awareness Day </unittitle>
+            <unitdate datechar="creation" normal="2004/2004" type="inclusive">2004</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_c591966d868a0424511c5f9544864e7b" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_da1f05181138590f87133fff4f10e34d" parent="aspace_c591966d868a0424511c5f9544864e7b" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>RSI Awareness Day </unittitle>
+            <unitdate datechar="creation" normal="2006/2006" type="inclusive">2006</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_1feae0d5b12693c7a8b46cf9b4cafd37" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_36766568f9109f8bdccadc087ca1a015" parent="aspace_1feae0d5b12693c7a8b46cf9b4cafd37" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>RSI Awareness Day</unittitle>
+            <unitdate datechar="creation" normal="2007/2007" type="inclusive">2007</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_9c36b913dcefdced9083b3d97eaa849b" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_8f9d432e0f31a4e53c83fcfca5b02a15" parent="aspace_9c36b913dcefdced9083b3d97eaa849b" type="Folder">22</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref29" level="series">
+        <did>
+          <unittitle>Series II: Organization Papers</unittitle>
+          <unitdate datechar="creation" normal="1995/2008" type="inclusive">1995-2008</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>General Publicity and Meetings Records</unittitle>
+            <unitdate datechar="creation" normal="1995/2008" type="inclusive">1995-2008</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_cc6ce94bce10dbb9e209512ab9ec46df" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_5d7ad39ab2e1d2c051fd45675ee5e720" parent="aspace_cc6ce94bce10dbb9e209512ab9ec46df" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Member Relations</unittitle>
+            <unitdate datechar="creation" normal="1995/2008" type="inclusive">1995-2008</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_a619a4d84c37cbf7e625d56218dca937" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_268686b7a2b97da5c0aa11d7cd4ca765" parent="aspace_a619a4d84c37cbf7e625d56218dca937" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Budgeting</unittitle>
+            <unitdate datechar="creation" normal="1995/2000" type="inclusive">1995-2000</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_d685aa4f1181bb2fa3e05b88b1437435" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_8e0befa331ead7383ee934c5128b4b58" parent="aspace_d685aa4f1181bb2fa3e05b88b1437435" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Budgeting</unittitle>
+            <unitdate datechar="creation" normal="2000/2006" type="inclusive">2000-2006</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_d40cf9277b37fd99d004ae8be2fe63d5" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_1d7ff7b1b70a8cff0d68c3d2d5764996" parent="aspace_d40cf9277b37fd99d004ae8be2fe63d5" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Budgeting: ASSBAC/OSA Memorandums and Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1995/2007" type="inclusive">1995-2007</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_8957b1c9d8e9765288fade7c4c85dc59" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_05d6fc1a76a966c4a862a7acf170582d" parent="aspace_8957b1c9d8e9765288fade7c4c85dc59" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Budgeting: Incomplete and Blank ASSBAC/OSA Forms</unittitle>
+            <unitdate datechar="creation" normal="1995/2008" type="inclusive">1995-2008</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_615bc403f8ac85e033f9011a859480cd" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_7cb04d903c57074b2f396fbe65388be2" parent="aspace_615bc403f8ac85e033f9011a859480cd" type="Folder">28</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref37" level="series">
+        <did>
+          <unittitle>Series III: Non-Organization Papers</unittitle>
+          <unitdate datechar="creation" normal="1995/2008" type="inclusive">1995-2008</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Computer Reference: Pamphlets and Loose Papers</unittitle>
+            <unitdate datechar="creation" normal="1995/2008" type="inclusive">1995-2008</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_c54ea2bec5bf49da64a6aca5e7559a96" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_d43102de9eac55c340d908ab731fa0de" parent="aspace_c54ea2bec5bf49da64a6aca5e7559a96" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Computer Reference: Large Booklets</unittitle>
+            <unitdate datechar="creation" normal="1995/2008" type="inclusive">1995-2008</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_dfedd9361c7de2ec181a844f3ece38a3" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_0a4d1edea3fb1020584b087e204acd22" parent="aspace_dfedd9361c7de2ec181a844f3ece38a3" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Computer Reference: Legal Issues and Legislation</unittitle>
+            <unitdate datechar="creation" normal="1995/2008" type="inclusive">1995-2008</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_7dbd8cec81197821d2dde1c31459cd20" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_cd1c2698aca61655d8c1f7388b3f8393" parent="aspace_7dbd8cec81197821d2dde1c31459cd20" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Floppy Disk</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_cb694507d34eb821d1a9620087f53aad" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_9cbec1f69e92f1d3d13cafe4dd2d3afd" parent="aspace_cb694507d34eb821d1a9620087f53aad" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>2 Plaques</unittitle>
+            <unitdate datechar="creation">2001, undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_1d62777ea08d8b91c6bfdba2ac48b694" label="Mixed Materials [31142062896066]" type="Box">1</container>
+            <container id="aspace_743aaafcfd6e1cd3d3ca0930894e0186" parent="aspace_1d62777ea08d8b91c6bfdba2ac48b694" type="Folder">33</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

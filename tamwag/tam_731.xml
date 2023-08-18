@@ -1,66 +1,362 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_731">tam_731</eadid><filedesc><titlestmt><titleproper>Guide to the David and Esther Smith Papers <num>TAM.731</num></titleproper><author>Kate Fisher</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>November 2017</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 06:51:39 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>David and Esther Smith Papers</unittitle>
-    <origination label="Creator">
-      <persname rules="dacs" source="local">Smith, David</persname>
-    </origination>
-    <origination label="Creator">
-      <persname source="naf">Smith, Esther</persname>
-    </origination>
-    <origination label="source">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/tam_731">tam_731</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the David and Esther Smith Papers <num>TAM.731</num></titleproper>
+        <author>Kate Fisher</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>November 2017</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 06:51:39 -0400</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>David and Esther Smith Papers</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Smith, David</persname>
+      </origination>
+      <origination label="Creator">
+        <persname source="naf">Smith, Esther</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" source="naf">Smith, Karen</persname>
+      </origination>
+      <unitid>TAM.731</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.5 Linear Feet</extent>
+        <extent altrender="carrier">in 5 manuscript boxes.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1941/2006" type="inclusive">1941-2006</unitdate>
+      <unitdate datechar="creation" normal="1941/1958" type="bulk">1941-1958</unitdate>
+      <abstract id="aspace_ac40001b0b6cef39fd7d8dbe2a1d8e80">David Smith was a union organizer in Cleveland, Ohio for the Cleveland Industrial Union Council in 1941. He began naval training as an Aviation Machinist at the Ford Navy Service School in Dearborn Michigan in 1942, but was held by Naval Intelligence after graduation due to suspected subversive activity before advancing to full naval service from 1942 to 1945. Esther Smith (nee Frank) served as Executive Secretary to the Town and Village Tenants' Committee to End Discrimination in Stuyvesant Town, and fought against the attempted eviction of anti-discrimination activists from Stuyvesant Town by the corporate landlord, Metropolitan Life Insurance Agency. This collection consists of letters from 1941 to 1945 from David to Esther documenting his organizing activities; his service in the United States Navy during World War II; David and Esther's early relationship and marriage; and the circumstances in which David was suspected of subversive activity by Naval Intelligence. The collection also includes materials concerning anti-discrmination in housing, illegal evictions, and efforts to desegregate Stuyvesant Town from 1949 to 1958, including documents from the Town and Village Tenants' Committee to End Discrimination in Stuyvesant Town.</abstract>
+      <langmaterial id="aspace_3996d73e07cc0fb5283abaad055cbc76">Materials in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_ef67c3119260ebc301924c7a32f3447d">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_2b4493b579de67aa5a90020027d3a454">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Karen Smith in 2017. The accession number associated with this gift is 2017.055.</p>
+    </acqinfo>
+    <arrangement id="aspace_5521cca2522e9145ce3585706bed112e">
+      <head>Arrangement</head>
+      <p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>
+    </arrangement>
+    <bioghist id="aspace_418d3fd848bc69bad883e4d2238bd6f4">
+      <head>Biographical Note</head>
+      <p>David Smith was a union organizer in Cleveland, Ohio for the Cleveland Industrial Union Council in 1941. He began naval training as an Aviation Machinist at the Ford Navy Service School in Dearborn Michigan in 1942, but was held by Naval Intelligence after graduation due to suspected subversive activity before advancing to full naval service from 1942 to 1945. In 1945 David Smith married Esther Frank after writing to her extensively during his three years of naval service. </p>
+      <p>Esther Smith (nee Frank), of the Bronx, New York served as Executive Secretary to the Town and Village Tenants' Committee to End Discrimination in Stuyvesant Town, and fought against the attempted eviction of anti-discrimination activists from Stuyvesant Town by the corporate landlord, Metropolitan Life Insurance Agency.</p>
+    </bioghist>
+    <prefercite id="aspace_335566bc6ded47bc90556e7a6da34616">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; David and Esther Smith Papers; Tam 731; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_8062980added0b75bc9d19f2cd915b26">
+      <head>Processing Information</head>
+      <p>At the time of accessioning, materials were placed in new acid-free folders and boxes, and described on the collection-level with a folder list.</p>
+    </processinfo>
+    <scopecontent id="aspace_f141bbd7a706c4175611cc030c8f115c">
+      <head>Scope and Contents</head>
+      <p>This collection consists of letters from 1941 to 1945 from David Smith to Esther Smith (nee Frank). They document David Smith's activities as an organizer in the United Electrical Workers in Cleveland, Ohio; his service in the United States Navy during World War II; and David and Esther's early relationship and marriage. This correspondence also documents the circumstances in which David was suspected of subversive activity by Naval Intelligence in between basic training and his naval service. There are also Communist Party USA (CPUSA) documents and pamphlets, as well as materials concerning anti-discrmination in housing, illegal evictions, and efforts to desegregate Stuyvesant Town from 1949 to 1958, including documents from the Town and Village Tenants' Committee to End Discrimination in Stuyvesant Town.</p>
+    </scopecontent>
+    <userestrict id="aspace_d1b8e133c278d2a5209ca5ac91fd3821">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by David and Esther Smith, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="lcsh">Race discrimination.</subject>
+      <subject source="lcsh">Discrimination in housing -- New York (N.Y.)</subject>
+      <title source="lcsh">Activist to activist</title>
+      <subject source="lcsh">World War, 1939-1945.</subject>
+      <genreform source="aat">Correspondence.</genreform>
+      <subject source="lcsh">Civil rights workers.</subject>
+      <subject source="lcsh">Political activists -- United States.</subject>
+      <geogname source="lcsh">Stuyvesant Town (New York, N.Y.)</geogname>
+      <corpname authfilenumber="(lccn)n93022833" source="naf">Cleveland Industrial Union Council (Cleveland, Ohio)</corpname>
+      <corpname authfilenumber="(lccn)n79059051" source="naf">United States. Navy</corpname>
       <persname role="dnr" source="naf">Smith, Karen</persname>
-    </origination>
-    <unitid>TAM.731</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">2.5 Linear Feet</extent>
-      <extent altrender="carrier">in 5 manuscript boxes.</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1941/2006" type="inclusive">1941-2006</unitdate>
-    <unitdate datechar="creation" normal="1941/1958" type="bulk">1941-1958</unitdate>
-    <abstract id="aspace_ac40001b0b6cef39fd7d8dbe2a1d8e80">David Smith was a union organizer in Cleveland, Ohio for the Cleveland Industrial Union Council in 1941. He began naval training as an Aviation Machinist at the Ford Navy Service School in Dearborn Michigan in 1942, but was held by Naval Intelligence after graduation due to suspected subversive activity before advancing to full naval service from 1942 to 1945. Esther Smith (nee Frank) served as Executive Secretary to the Town and Village Tenants' Committee to End Discrimination in Stuyvesant Town, and fought against the attempted eviction of anti-discrimination activists from Stuyvesant Town by the corporate landlord, Metropolitan Life Insurance Agency. This collection consists of letters from 1941 to 1945 from David to Esther documenting his organizing activities; his service in the United States Navy during World War II; David and Esther's early relationship and marriage; and the circumstances in which David was suspected of subversive activity by Naval Intelligence. The collection also includes materials concerning anti-discrmination in housing, illegal evictions, and efforts to desegregate Stuyvesant Town from 1949 to 1958, including documents from the Town and Village Tenants' Committee to End Discrimination in Stuyvesant Town.</abstract>
-    <langmaterial id="aspace_3996d73e07cc0fb5283abaad055cbc76">Materials in English.</langmaterial>
-  </did>
-  <accessrestrict id="aspace_ef67c3119260ebc301924c7a32f3447d">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_2b4493b579de67aa5a90020027d3a454">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Karen Smith in 2017. The accession number associated with this gift is 2017.055.</p>  </acqinfo>
-  <arrangement id="aspace_5521cca2522e9145ce3585706bed112e">
-    <head>Arrangement</head>
-<p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>  </arrangement>
-  <bioghist id="aspace_418d3fd848bc69bad883e4d2238bd6f4">
-    <head>Biographical Note</head>
-<p>David Smith was a union organizer in Cleveland, Ohio for the Cleveland Industrial Union Council in 1941. He began naval training as an Aviation Machinist at the Ford Navy Service School in Dearborn Michigan in 1942, but was held by Naval Intelligence after graduation due to suspected subversive activity before advancing to full naval service from 1942 to 1945. In 1945 David Smith married Esther Frank after writing to her extensively during his three years of naval service. </p><p>Esther Smith (nee Frank), of the Bronx, New York served as Executive Secretary to the Town and Village Tenants' Committee to End Discrimination in Stuyvesant Town, and fought against the attempted eviction of anti-discrimination activists from Stuyvesant Town by the corporate landlord, Metropolitan Life Insurance Agency.</p>  </bioghist>
-  <prefercite id="aspace_335566bc6ded47bc90556e7a6da34616">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; David and Esther Smith Papers; Tam 731; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <processinfo id="aspace_8062980added0b75bc9d19f2cd915b26">
-    <head>Processing Information</head>
-<p>At the time of accessioning, materials were placed in new acid-free folders and boxes, and described on the collection-level with a folder list.</p>  </processinfo>
-  <scopecontent id="aspace_f141bbd7a706c4175611cc030c8f115c">
-    <head>Scope and Contents</head>
-<p>This collection consists of letters from 1941 to 1945 from David Smith to Esther Smith (nee Frank). They document David Smith's activities as an organizer in the United Electrical Workers in Cleveland, Ohio; his service in the United States Navy during World War II; and David and Esther's early relationship and marriage. This correspondence also documents the circumstances in which David was suspected of subversive activity by Naval Intelligence in between basic training and his naval service. There are also Communist Party USA (CPUSA) documents and pamphlets, as well as materials concerning anti-discrmination in housing, illegal evictions, and efforts to desegregate Stuyvesant Town from 1949 to 1958, including documents from the Town and Village Tenants' Committee to End Discrimination in Stuyvesant Town.</p>  </scopecontent>
-  <userestrict id="aspace_d1b8e133c278d2a5209ca5ac91fd3821">
-    <head>Conditions Governing Use</head>
-<p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by David and Esther Smith, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
-  <controlaccess>
-    <subject source="lcsh">Race discrimination.</subject>
-    <subject source="lcsh">Discrimination in housing -- New York (N.Y.)</subject>
-    <title source="lcsh">Activist to activist</title>
-    <subject source="lcsh">World War, 1939-1945.</subject>
-    <genreform source="aat">Correspondence.</genreform>
-    <subject source="lcsh">Civil rights workers.</subject>
-    <subject source="lcsh">Political activists -- United States.</subject>
-    <geogname source="lcsh">Stuyvesant Town (New York, N.Y.)</geogname>
-    <corpname authfilenumber="(lccn)n93022833" source="naf">Cleveland Industrial Union Council (Cleveland, Ohio)</corpname>
-    <corpname authfilenumber="(lccn)n79059051" source="naf">United States. Navy</corpname>
-    <persname role="dnr" source="naf">Smith, Karen</persname>
-  </controlaccess>
-  <dsc><c id="aspace_63ba94cceaf4d655f3c77467c344f7fe" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1941-09/1943-08" type="inclusive">1941-09-1943-08</unitdate><container altrender="Manuscript box - Legal" id="aspace_818409c79cbead51bef87576c5fb8d78" label="Mixed Materials [31142063132180]" type="Box">1</container><container id="aspace_0c9304a07a9a9351db7742703c7c652e" parent="aspace_818409c79cbead51bef87576c5fb8d78" type="Folder">1-10</container></did></c><c id="aspace_9ec9f4ff8975f073607a00e35464f282" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1943-09/1944-02" type="inclusive">1943-09-1944-02</unitdate><container altrender="Manuscript box - Legal" id="aspace_979f63776817d2842238985835deb116" label="Mixed Materials [31142063132198]" type="Box">2</container><container id="aspace_a704a2969da0a7239bcf707be6428794" parent="aspace_979f63776817d2842238985835deb116" type="Folder">1-9</container></did></c><c id="aspace_93c3d89e3a5c631b1aca5468b42ba558" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1944-02/1944-12" type="inclusive">1944-02-1944-12</unitdate><container altrender="Manuscript box - Legal" id="aspace_88ecdda11b11ffca664f635543eac9a3" label="Mixed Materials [31142063132206]" type="Box">3</container><container id="aspace_59a4c1ee2bd7fa3fc80eadb80d33461d" parent="aspace_88ecdda11b11ffca664f635543eac9a3" type="Folder">1-8</container></did></c><c id="aspace_8e742237fa994d78f4bfeefd3cf7d267" level="file"><did><unittitle>Correspondence</unittitle><unitdate datechar="creation" normal="1945-01/1945-07" type="inclusive">1945-01-1945-07</unitdate><container altrender="Manuscript box - Legal" id="aspace_f4e079c460ad5a33b7ec193460e894ba" label="Mixed Materials [31142063132214]" type="Box">4</container><container id="aspace_8827e7b59bed4357ae8c346f4ee0c0ac" parent="aspace_f4e079c460ad5a33b7ec193460e894ba" type="Folder">1-3</container></did></c><c id="aspace_0225ddf17925eecfc69034c209b0294a" level="file"><did><unittitle>Correspondence from Esther Frank to David Smith</unittitle><unitdate datechar="creation" normal="1943/1945" type="inclusive">1943-1945</unitdate><container altrender="Manuscript box - Legal" id="aspace_249430c07f9556ebe94f4460e4dbd911" label="Mixed Materials [31142063132214]" type="Box">4</container><container id="aspace_3203d873cf09afb3cfc9ce1ec7a70d71" parent="aspace_249430c07f9556ebe94f4460e4dbd911" type="Folder">4</container></did></c><c id="aspace_3ee6e44392741ae32c48beba9ed06612" level="file"><did><unittitle>Cleveland Industrial Union Council</unittitle><unitdate datechar="creation" normal="1941/1944" type="inclusive">1941-1944</unitdate><container altrender="Manuscript box - Legal" id="aspace_6cf86c5ce78241d8745ce591ca7add23" label="Mixed Materials [31142063132214]" type="Box">4</container><container id="aspace_bb3374b782a709e255ec32bd6a753076" parent="aspace_6cf86c5ce78241d8745ce591ca7add23" type="Folder">5</container></did></c><c id="aspace_cb97affd09e421706afdb4692c951e5f" level="file"><did><unittitle>Medical Committee for Human Rights</unittitle><unitdate datechar="creation" normal="1965/1966" type="inclusive">1965-1966</unitdate><container altrender="Manuscript box - Legal" id="aspace_5b2c52d4c4d174e2292d2161665ae774" label="Mixed Materials [31142063132222]" type="Box">5</container><container id="aspace_1b15ce29eef82d9a71ffde06d8db4213" parent="aspace_5b2c52d4c4d174e2292d2161665ae774" type="Folder">4</container></did></c><c id="aspace_ad1b713a983315ddb79c011b25c70fce" level="file"><did><unittitle>Correspondence to Esther Frank</unittitle><unitdate datechar="creation" normal="1943/1945" type="inclusive">1943-1945</unitdate><container altrender="Manuscript box - Legal" id="aspace_c105e25847553be9443c838cd8787d4e" label="Mixed Materials [31142063132214]" type="Box">4</container><container id="aspace_42e28db8c4f9a79bdf054051f98eca31" parent="aspace_c105e25847553be9443c838cd8787d4e" type="Folder">6</container></did></c><c id="aspace_9a3de88ac920e56171ab954b2cf3fb81" level="file"><did><unittitle>Newspapers Announcing the End of WWII</unittitle><unitdate datechar="creation" normal="1945/1945">1945</unitdate><container altrender="Manuscript box - Legal" id="aspace_2fdd6cffdc7c10c6009d4c1686482609" label="Mixed Materials [31142063132214]" type="Box">4</container><container id="aspace_815c241e1b6546d79553916fcb003ed6" parent="aspace_2fdd6cffdc7c10c6009d4c1686482609" type="Folder">7</container></did></c><c id="aspace_89f6b75be00b9b38e486626245f89c36" level="file"><did><unittitle>Stuyvestant Town Eviction 1</unittitle><unitdate datechar="creation" normal="1950/1952" type="inclusive">1950-1952</unitdate><container altrender="Manuscript box - Legal" id="aspace_a499815d0de356345b7ec6709b9b1310" label="Mixed Materials [31142063132214]" type="Box">4</container><container id="aspace_e5a8542563ece52906e4d742d0889894" parent="aspace_a499815d0de356345b7ec6709b9b1310" type="Folder">8</container></did></c><c id="aspace_22aca8cb4682f525cc449d49a7a85b8d" level="file"><did><unittitle>Stuyvestant Town Eviction 2</unittitle><unitdate datechar="creation" normal="1950/1952" type="inclusive">1950-1952</unitdate><container altrender="Manuscript box - Legal" id="aspace_3577e9d425fc9e22db8b153671819366" label="Mixed Materials [31142063132222]" type="Box">5</container><container id="aspace_84b0ebce9d8171c8749d184487f3cecf" parent="aspace_3577e9d425fc9e22db8b153671819366" type="Folder">1</container></did></c><c id="aspace_a1a2d8c1d822c2db3c24e2b622f44607" level="file"><did><unittitle>By-laws of Organization</unittitle><unitdate datechar="creation" normal="1941/2006" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_4fe53761e10edde33e0065b62f82e0c8" label="Mixed Materials [31142063132222]" type="Box">5</container><container id="aspace_0068c0036fd7ac56c39c9cd222529d4d" parent="aspace_4fe53761e10edde33e0065b62f82e0c8" type="Folder">2</container></did></c><c id="aspace_5c148b0a9d78afabc6db74b4c5cc2fbf" level="file"><did><unittitle>American Jewish Conference </unittitle><unitdate datechar="creation" normal="1967/1967">1967</unitdate><container altrender="Manuscript box - Legal" id="aspace_9f9285658aa3ccbc742aa6da7061df4e" label="Mixed Materials [31142063132222]" type="Box">5</container><container id="aspace_6cdb6031e7fcacf7f5a7dfa46e55de95" parent="aspace_9f9285658aa3ccbc742aa6da7061df4e" type="Folder">3</container></did></c><c id="aspace_019411e4bbcbb015f8f387dd3acf4c30" level="file"><did><unittitle>Relocation Study</unittitle><unitdate datechar="creation" normal="1953/1953">1953</unitdate><container altrender="Manuscript box - Legal" id="aspace_51af17e5b8360bfe7b4bdba0400a3af6" label="Mixed Materials [31142063132222]" type="Box">5</container><container id="aspace_fbe58aebbf74719610153e18539510f2" parent="aspace_51af17e5b8360bfe7b4bdba0400a3af6" type="Folder">5</container></did></c><c id="aspace_860c8c593e52d412bdb9cd16bb872dcf" level="file"><did><unittitle>Letters in Support</unittitle><unitdate datechar="creation" normal="1951/1951">1951</unitdate><container altrender="Manuscript box - Legal" id="aspace_d182d1eb785d1a5b5ada33b59f0a4328" label="Mixed Materials [31142063132222]" type="Box">5</container><container id="aspace_8b9f65ad8a480f469852e41df3f40b93" parent="aspace_d182d1eb785d1a5b5ada33b59f0a4328" type="Folder">6</container></did></c><c id="aspace_b005040337dd268d6b24c186da8b5816" level="file"><did><unittitle>Press Releases</unittitle><unitdate datechar="creation" normal="1950/1950">1950</unitdate><container altrender="Manuscript box - Legal" id="aspace_96d28b1e0ed8f7cf56c547e492f86963" label="Mixed Materials [31142063132222]" type="Box">5</container><container id="aspace_bf13998db574bbfcbc678d2d791396f9" parent="aspace_96d28b1e0ed8f7cf56c547e492f86963" type="Folder">7</container></did></c><c id="aspace_5ee0a2025e7de45ee69369522de8c561" level="file"><did><unittitle>Proposed Legislation</unittitle><unitdate datechar="creation" normal="1952/1952">1952</unitdate><container altrender="Manuscript box - Legal" id="aspace_3e6c9fa0840418e735a286a264de12fc" label="Mixed Materials [31142063132222]" type="Box">5</container><container id="aspace_e3b11d412dbfebb0635be2eb54369883" parent="aspace_3e6c9fa0840418e735a286a264de12fc" type="Folder">8</container></did></c><c id="aspace_174afc6c6b292fa9e031f89cee344328" level="file"><did><unittitle>Contacts List</unittitle><unitdate datechar="creation" normal="1941/2006" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_66ae902ed2e16a7d52a146c1ee41a605" label="Mixed Materials [31142063132222]" type="Box">5</container><container id="aspace_69f521a82201b7ab2ec471455918e63d" parent="aspace_66ae902ed2e16a7d52a146c1ee41a605" type="Folder">9</container></did></c><c id="aspace_fdce507c637c142e6b30da47892f0376" level="file"><did><unittitle>Committee Members</unittitle><unitdate datechar="creation" normal="1941/2006" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_276428175f113b1ad0bbc8b9efc76333" label="Mixed Materials [31142063132222]" type="Box">5</container><container id="aspace_2d77c3e24c03d45b8bf5a30e06c40777" parent="aspace_276428175f113b1ad0bbc8b9efc76333" type="Folder">10</container></did></c><c id="aspace_c395b2df17a9fa75d879f85892d24c5e" level="file"><did><unittitle>Bills for Committee</unittitle><unitdate datechar="creation" normal="1951/1951">1951</unitdate><container altrender="Manuscript box - Legal" id="aspace_5777d0239905084086eb588f57f2e553" label="Mixed Materials [31142063132222]" type="Box">5</container><container id="aspace_04b23d631cceda4a91b199f3beccf229" parent="aspace_5777d0239905084086eb588f57f2e553" type="Folder">11</container></did></c><c id="aspace_81b72811469ad7304eb2ea7c36779125" level="file"><did><unittitle>Newspaper Articles</unittitle><unitdate datechar="creation" normal="1950/1952" type="inclusive">1950-1952</unitdate><container altrender="Manuscript box - Legal" id="aspace_cc7934c2e3046df36f453d5b7e1b6359" label="Mixed Materials [31142063132222]" type="Box">5</container><container id="aspace_b7bb0e8195bc7f68fae493901735edc2" parent="aspace_cc7934c2e3046df36f453d5b7e1b6359" type="Folder">12</container></did></c><c id="aspace_2698db24cee97cb01676d6b99250cc38" level="file"><did><unittitle>Legal Papers</unittitle><unitdate datechar="creation" normal="1949/1951" type="inclusive">1949-1951</unitdate><container altrender="Manuscript box - Legal" id="aspace_268b362b3332d2056d41b2390d8c4b20" label="Mixed Materials [31142063132222]" type="Box">5</container><container id="aspace_524fdc7c21f1e6a549f0d9031bc94550" parent="aspace_268b362b3332d2056d41b2390d8c4b20" type="Folder">13</container></did></c><c id="aspace_68ecaff77f866694de17aab9c784c41d" level="file"><did><unittitle>Photocopied Newspaper Articles</unittitle><unitdate datechar="creation" normal="1950/2006" type="inclusive">1950-2006</unitdate><container altrender="Manuscript box - Legal" id="aspace_421f94ca3ba9158546a299b03dd6ce79" label="Mixed Materials [31142063132222]" type="Box">5</container><container id="aspace_d83f05ee6f7b143c3f05236783b0501e" parent="aspace_421f94ca3ba9158546a299b03dd6ce79" type="Folder">14</container></did></c><c id="aspace_51bb9fef801a84154143554875e48e5b" level="file"><did><unittitle>Dorsey v. Stuyvestant</unittitle><unitdate datechar="creation" normal="1949/1949">1949</unitdate><container altrender="Manuscript box - Legal" id="aspace_518b9b9be160ccbb5f9c3c4cd53a85d1" label="Mixed Materials [31142063132222]" type="Box">5</container><container id="aspace_b9f2ef89eba0beeaf150b5c3ef8221c4" parent="aspace_518b9b9be160ccbb5f9c3c4cd53a85d1" type="Folder">15</container></did></c><c id="aspace_43e10fb7b2919ed61a9a382deaa85758" level="file"><did><unittitle>Stuyvestant Special Bulletins</unittitle><unitdate datechar="creation" normal="1950/1950">1950</unitdate><container altrender="Manuscript box - Legal" id="aspace_0e120b2273dd59040ba8ac72a6727919" label="Mixed Materials [31142063132222]" type="Box">5</container><container id="aspace_4c7c5e0047ce5dadbc3a737649fc5722" parent="aspace_0e120b2273dd59040ba8ac72a6727919" type="Folder">16</container></did></c><c id="aspace_f89970ddd76f0e566f6913071de6c998" level="file"><did><unittitle>Tenants' Committee Booklets and Media</unittitle><unitdate datechar="creation" normal="1951/1951">1951</unitdate><container altrender="Manuscript box - Legal" id="aspace_50c882023713905e29f830a8bd062fa8" label="Mixed Materials [31142063132222]" type="Box">5</container><container id="aspace_1632ad283dfca53313a716381976d007" parent="aspace_50c882023713905e29f830a8bd062fa8" type="Folder">17</container></did></c><c id="aspace_d1d846c18ef37ff1d788e672286a8710" level="file"><did><unittitle>Tenants' Committee Letters </unittitle><unitdate datechar="creation" normal="1949/1951" type="inclusive">1949-1951</unitdate><container altrender="Manuscript box - Legal" id="aspace_6ca41c5c834c67f68b89ebd27b22796f" label="Mixed Materials [31142063132222]" type="Box">5</container><container id="aspace_f53a7b845547acace957617dd7d2a96e" parent="aspace_6ca41c5c834c67f68b89ebd27b22796f" type="Folder">18</container></did></c><c id="aspace_c88bad92360225f2ed96723299087e78" level="file"><did><unittitle>Tenants' Committee Memoranda</unittitle><unitdate datechar="creation" normal="1950/1950">1950</unitdate><container altrender="Manuscript box - Legal" id="aspace_d8d8cfd47cbfb0ba41f721cfef89a4ac" label="Mixed Materials [31142063132222]" type="Box">5</container><container id="aspace_59968112a1ec4bc11832409a0ee1aad3" parent="aspace_d8d8cfd47cbfb0ba41f721cfef89a4ac" type="Folder">19</container></did></c><c id="aspace_3ad4761d6cb9e155aea4417a44ee9e8c" level="file"><did><unittitle>Tenants' Committee Notices</unittitle><unitdate datechar="creation" normal="1950/1952" type="inclusive">1950-1952</unitdate><container altrender="Manuscript box - Legal" id="aspace_bc0d2c623ede458f3ee06b4fa24cea38" label="Mixed Materials [31142063132222]" type="Box">5</container><container id="aspace_4f0528f66c673d7b94e1c11fef72b1ac" parent="aspace_bc0d2c623ede458f3ee06b4fa24cea38" type="Folder">20</container></did></c><c id="aspace_78bdb41e5b89cd57da72472fb33bc39c" level="file"><did><unittitle>Petitions</unittitle><unitdate datechar="creation" normal="1950/1952" type="inclusive">1950-1952</unitdate><container altrender="Manuscript box - Legal" id="aspace_8bc6fb845608db4285bcdb6e04be9d68" label="Mixed Materials [31142063132222]" type="Box">5</container><container id="aspace_7a299dae30608afab23e752f29ecbd4a" parent="aspace_8bc6fb845608db4285bcdb6e04be9d68" type="Folder">21</container></did></c><c id="aspace_ee37fb3166550dc931a31536915f3480" level="file"><did><unittitle>Stuyvestant Town Article</unittitle><unitdate datechar="creation" normal="2006/2006">2006</unitdate><container altrender="Manuscript box - Legal" id="aspace_295e1de9d4aea89c9f442a357297f9be" label="Mixed Materials [31142063132222]" type="Box">5</container><container id="aspace_d55ae148d1f64927c79c3ecf393feb32" parent="aspace_295e1de9d4aea89c9f442a357297f9be" type="Folder">22</container></did></c><c id="aspace_91855d70850d4f0acd218806893b6bfa" level="file"><did><unittitle>Leaflets</unittitle><unitdate datechar="creation" normal="1949/1952" type="inclusive">1949-1952</unitdate><container altrender="Manuscript box - Legal" id="aspace_86d9bfe7a9ebb8c6294e6deb365d7c13" label="Mixed Materials [31142063132222]" type="Box">5</container><container id="aspace_3fd8fc492ed3b20741d78fa967757629" parent="aspace_86d9bfe7a9ebb8c6294e6deb365d7c13" type="Folder">23</container></did></c></dsc>
-</archdesc>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_63ba94cceaf4d655f3c77467c344f7fe" level="file">
+        <did>
+          <unittitle>Correspondence</unittitle>
+          <unitdate datechar="creation" normal="1941-09/1943-08" type="inclusive">1941-09-1943-08</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_818409c79cbead51bef87576c5fb8d78" label="Mixed Materials [31142063132180]" type="Box">1</container>
+          <container id="aspace_0c9304a07a9a9351db7742703c7c652e" parent="aspace_818409c79cbead51bef87576c5fb8d78" type="Folder">1-10</container>
+        </did>
+      </c>
+      <c id="aspace_9ec9f4ff8975f073607a00e35464f282" level="file">
+        <did>
+          <unittitle>Correspondence</unittitle>
+          <unitdate datechar="creation" normal="1943-09/1944-02" type="inclusive">1943-09-1944-02</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_979f63776817d2842238985835deb116" label="Mixed Materials [31142063132198]" type="Box">2</container>
+          <container id="aspace_a704a2969da0a7239bcf707be6428794" parent="aspace_979f63776817d2842238985835deb116" type="Folder">1-9</container>
+        </did>
+      </c>
+      <c id="aspace_93c3d89e3a5c631b1aca5468b42ba558" level="file">
+        <did>
+          <unittitle>Correspondence</unittitle>
+          <unitdate datechar="creation" normal="1944-02/1944-12" type="inclusive">1944-02-1944-12</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_88ecdda11b11ffca664f635543eac9a3" label="Mixed Materials [31142063132206]" type="Box">3</container>
+          <container id="aspace_59a4c1ee2bd7fa3fc80eadb80d33461d" parent="aspace_88ecdda11b11ffca664f635543eac9a3" type="Folder">1-8</container>
+        </did>
+      </c>
+      <c id="aspace_8e742237fa994d78f4bfeefd3cf7d267" level="file">
+        <did>
+          <unittitle>Correspondence</unittitle>
+          <unitdate datechar="creation" normal="1945-01/1945-07" type="inclusive">1945-01-1945-07</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f4e079c460ad5a33b7ec193460e894ba" label="Mixed Materials [31142063132214]" type="Box">4</container>
+          <container id="aspace_8827e7b59bed4357ae8c346f4ee0c0ac" parent="aspace_f4e079c460ad5a33b7ec193460e894ba" type="Folder">1-3</container>
+        </did>
+      </c>
+      <c id="aspace_0225ddf17925eecfc69034c209b0294a" level="file">
+        <did>
+          <unittitle>Correspondence from Esther Frank to David Smith</unittitle>
+          <unitdate datechar="creation" normal="1943/1945" type="inclusive">1943-1945</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_249430c07f9556ebe94f4460e4dbd911" label="Mixed Materials [31142063132214]" type="Box">4</container>
+          <container id="aspace_3203d873cf09afb3cfc9ce1ec7a70d71" parent="aspace_249430c07f9556ebe94f4460e4dbd911" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_3ee6e44392741ae32c48beba9ed06612" level="file">
+        <did>
+          <unittitle>Cleveland Industrial Union Council</unittitle>
+          <unitdate datechar="creation" normal="1941/1944" type="inclusive">1941-1944</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6cf86c5ce78241d8745ce591ca7add23" label="Mixed Materials [31142063132214]" type="Box">4</container>
+          <container id="aspace_bb3374b782a709e255ec32bd6a753076" parent="aspace_6cf86c5ce78241d8745ce591ca7add23" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_cb97affd09e421706afdb4692c951e5f" level="file">
+        <did>
+          <unittitle>Medical Committee for Human Rights</unittitle>
+          <unitdate datechar="creation" normal="1965/1966" type="inclusive">1965-1966</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5b2c52d4c4d174e2292d2161665ae774" label="Mixed Materials [31142063132222]" type="Box">5</container>
+          <container id="aspace_1b15ce29eef82d9a71ffde06d8db4213" parent="aspace_5b2c52d4c4d174e2292d2161665ae774" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ad1b713a983315ddb79c011b25c70fce" level="file">
+        <did>
+          <unittitle>Correspondence to Esther Frank</unittitle>
+          <unitdate datechar="creation" normal="1943/1945" type="inclusive">1943-1945</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c105e25847553be9443c838cd8787d4e" label="Mixed Materials [31142063132214]" type="Box">4</container>
+          <container id="aspace_42e28db8c4f9a79bdf054051f98eca31" parent="aspace_c105e25847553be9443c838cd8787d4e" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_9a3de88ac920e56171ab954b2cf3fb81" level="file">
+        <did>
+          <unittitle>Newspapers Announcing the End of WWII</unittitle>
+          <unitdate datechar="creation" normal="1945/1945">1945</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2fdd6cffdc7c10c6009d4c1686482609" label="Mixed Materials [31142063132214]" type="Box">4</container>
+          <container id="aspace_815c241e1b6546d79553916fcb003ed6" parent="aspace_2fdd6cffdc7c10c6009d4c1686482609" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_89f6b75be00b9b38e486626245f89c36" level="file">
+        <did>
+          <unittitle>Stuyvestant Town Eviction 1</unittitle>
+          <unitdate datechar="creation" normal="1950/1952" type="inclusive">1950-1952</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a499815d0de356345b7ec6709b9b1310" label="Mixed Materials [31142063132214]" type="Box">4</container>
+          <container id="aspace_e5a8542563ece52906e4d742d0889894" parent="aspace_a499815d0de356345b7ec6709b9b1310" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_22aca8cb4682f525cc449d49a7a85b8d" level="file">
+        <did>
+          <unittitle>Stuyvestant Town Eviction 2</unittitle>
+          <unitdate datechar="creation" normal="1950/1952" type="inclusive">1950-1952</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_3577e9d425fc9e22db8b153671819366" label="Mixed Materials [31142063132222]" type="Box">5</container>
+          <container id="aspace_84b0ebce9d8171c8749d184487f3cecf" parent="aspace_3577e9d425fc9e22db8b153671819366" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_a1a2d8c1d822c2db3c24e2b622f44607" level="file">
+        <did>
+          <unittitle>By-laws of Organization</unittitle>
+          <unitdate datechar="creation" normal="1941/2006" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4fe53761e10edde33e0065b62f82e0c8" label="Mixed Materials [31142063132222]" type="Box">5</container>
+          <container id="aspace_0068c0036fd7ac56c39c9cd222529d4d" parent="aspace_4fe53761e10edde33e0065b62f82e0c8" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_5c148b0a9d78afabc6db74b4c5cc2fbf" level="file">
+        <did>
+          <unittitle>American Jewish Conference </unittitle>
+          <unitdate datechar="creation" normal="1967/1967">1967</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9f9285658aa3ccbc742aa6da7061df4e" label="Mixed Materials [31142063132222]" type="Box">5</container>
+          <container id="aspace_6cdb6031e7fcacf7f5a7dfa46e55de95" parent="aspace_9f9285658aa3ccbc742aa6da7061df4e" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_019411e4bbcbb015f8f387dd3acf4c30" level="file">
+        <did>
+          <unittitle>Relocation Study</unittitle>
+          <unitdate datechar="creation" normal="1953/1953">1953</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_51af17e5b8360bfe7b4bdba0400a3af6" label="Mixed Materials [31142063132222]" type="Box">5</container>
+          <container id="aspace_fbe58aebbf74719610153e18539510f2" parent="aspace_51af17e5b8360bfe7b4bdba0400a3af6" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_860c8c593e52d412bdb9cd16bb872dcf" level="file">
+        <did>
+          <unittitle>Letters in Support</unittitle>
+          <unitdate datechar="creation" normal="1951/1951">1951</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d182d1eb785d1a5b5ada33b59f0a4328" label="Mixed Materials [31142063132222]" type="Box">5</container>
+          <container id="aspace_8b9f65ad8a480f469852e41df3f40b93" parent="aspace_d182d1eb785d1a5b5ada33b59f0a4328" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_b005040337dd268d6b24c186da8b5816" level="file">
+        <did>
+          <unittitle>Press Releases</unittitle>
+          <unitdate datechar="creation" normal="1950/1950">1950</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_96d28b1e0ed8f7cf56c547e492f86963" label="Mixed Materials [31142063132222]" type="Box">5</container>
+          <container id="aspace_bf13998db574bbfcbc678d2d791396f9" parent="aspace_96d28b1e0ed8f7cf56c547e492f86963" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_5ee0a2025e7de45ee69369522de8c561" level="file">
+        <did>
+          <unittitle>Proposed Legislation</unittitle>
+          <unitdate datechar="creation" normal="1952/1952">1952</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_3e6c9fa0840418e735a286a264de12fc" label="Mixed Materials [31142063132222]" type="Box">5</container>
+          <container id="aspace_e3b11d412dbfebb0635be2eb54369883" parent="aspace_3e6c9fa0840418e735a286a264de12fc" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_174afc6c6b292fa9e031f89cee344328" level="file">
+        <did>
+          <unittitle>Contacts List</unittitle>
+          <unitdate datechar="creation" normal="1941/2006" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_66ae902ed2e16a7d52a146c1ee41a605" label="Mixed Materials [31142063132222]" type="Box">5</container>
+          <container id="aspace_69f521a82201b7ab2ec471455918e63d" parent="aspace_66ae902ed2e16a7d52a146c1ee41a605" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_fdce507c637c142e6b30da47892f0376" level="file">
+        <did>
+          <unittitle>Committee Members</unittitle>
+          <unitdate datechar="creation" normal="1941/2006" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_276428175f113b1ad0bbc8b9efc76333" label="Mixed Materials [31142063132222]" type="Box">5</container>
+          <container id="aspace_2d77c3e24c03d45b8bf5a30e06c40777" parent="aspace_276428175f113b1ad0bbc8b9efc76333" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_c395b2df17a9fa75d879f85892d24c5e" level="file">
+        <did>
+          <unittitle>Bills for Committee</unittitle>
+          <unitdate datechar="creation" normal="1951/1951">1951</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5777d0239905084086eb588f57f2e553" label="Mixed Materials [31142063132222]" type="Box">5</container>
+          <container id="aspace_04b23d631cceda4a91b199f3beccf229" parent="aspace_5777d0239905084086eb588f57f2e553" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_81b72811469ad7304eb2ea7c36779125" level="file">
+        <did>
+          <unittitle>Newspaper Articles</unittitle>
+          <unitdate datechar="creation" normal="1950/1952" type="inclusive">1950-1952</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_cc7934c2e3046df36f453d5b7e1b6359" label="Mixed Materials [31142063132222]" type="Box">5</container>
+          <container id="aspace_b7bb0e8195bc7f68fae493901735edc2" parent="aspace_cc7934c2e3046df36f453d5b7e1b6359" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_2698db24cee97cb01676d6b99250cc38" level="file">
+        <did>
+          <unittitle>Legal Papers</unittitle>
+          <unitdate datechar="creation" normal="1949/1951" type="inclusive">1949-1951</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_268b362b3332d2056d41b2390d8c4b20" label="Mixed Materials [31142063132222]" type="Box">5</container>
+          <container id="aspace_524fdc7c21f1e6a549f0d9031bc94550" parent="aspace_268b362b3332d2056d41b2390d8c4b20" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_68ecaff77f866694de17aab9c784c41d" level="file">
+        <did>
+          <unittitle>Photocopied Newspaper Articles</unittitle>
+          <unitdate datechar="creation" normal="1950/2006" type="inclusive">1950-2006</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_421f94ca3ba9158546a299b03dd6ce79" label="Mixed Materials [31142063132222]" type="Box">5</container>
+          <container id="aspace_d83f05ee6f7b143c3f05236783b0501e" parent="aspace_421f94ca3ba9158546a299b03dd6ce79" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_51bb9fef801a84154143554875e48e5b" level="file">
+        <did>
+          <unittitle>Dorsey v. Stuyvestant</unittitle>
+          <unitdate datechar="creation" normal="1949/1949">1949</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_518b9b9be160ccbb5f9c3c4cd53a85d1" label="Mixed Materials [31142063132222]" type="Box">5</container>
+          <container id="aspace_b9f2ef89eba0beeaf150b5c3ef8221c4" parent="aspace_518b9b9be160ccbb5f9c3c4cd53a85d1" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_43e10fb7b2919ed61a9a382deaa85758" level="file">
+        <did>
+          <unittitle>Stuyvestant Special Bulletins</unittitle>
+          <unitdate datechar="creation" normal="1950/1950">1950</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0e120b2273dd59040ba8ac72a6727919" label="Mixed Materials [31142063132222]" type="Box">5</container>
+          <container id="aspace_4c7c5e0047ce5dadbc3a737649fc5722" parent="aspace_0e120b2273dd59040ba8ac72a6727919" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_f89970ddd76f0e566f6913071de6c998" level="file">
+        <did>
+          <unittitle>Tenants' Committee Booklets and Media</unittitle>
+          <unitdate datechar="creation" normal="1951/1951">1951</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_50c882023713905e29f830a8bd062fa8" label="Mixed Materials [31142063132222]" type="Box">5</container>
+          <container id="aspace_1632ad283dfca53313a716381976d007" parent="aspace_50c882023713905e29f830a8bd062fa8" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_d1d846c18ef37ff1d788e672286a8710" level="file">
+        <did>
+          <unittitle>Tenants' Committee Letters </unittitle>
+          <unitdate datechar="creation" normal="1949/1951" type="inclusive">1949-1951</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6ca41c5c834c67f68b89ebd27b22796f" label="Mixed Materials [31142063132222]" type="Box">5</container>
+          <container id="aspace_f53a7b845547acace957617dd7d2a96e" parent="aspace_6ca41c5c834c67f68b89ebd27b22796f" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_c88bad92360225f2ed96723299087e78" level="file">
+        <did>
+          <unittitle>Tenants' Committee Memoranda</unittitle>
+          <unitdate datechar="creation" normal="1950/1950">1950</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d8d8cfd47cbfb0ba41f721cfef89a4ac" label="Mixed Materials [31142063132222]" type="Box">5</container>
+          <container id="aspace_59968112a1ec4bc11832409a0ee1aad3" parent="aspace_d8d8cfd47cbfb0ba41f721cfef89a4ac" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_3ad4761d6cb9e155aea4417a44ee9e8c" level="file">
+        <did>
+          <unittitle>Tenants' Committee Notices</unittitle>
+          <unitdate datechar="creation" normal="1950/1952" type="inclusive">1950-1952</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_bc0d2c623ede458f3ee06b4fa24cea38" label="Mixed Materials [31142063132222]" type="Box">5</container>
+          <container id="aspace_4f0528f66c673d7b94e1c11fef72b1ac" parent="aspace_bc0d2c623ede458f3ee06b4fa24cea38" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_78bdb41e5b89cd57da72472fb33bc39c" level="file">
+        <did>
+          <unittitle>Petitions</unittitle>
+          <unitdate datechar="creation" normal="1950/1952" type="inclusive">1950-1952</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8bc6fb845608db4285bcdb6e04be9d68" label="Mixed Materials [31142063132222]" type="Box">5</container>
+          <container id="aspace_7a299dae30608afab23e752f29ecbd4a" parent="aspace_8bc6fb845608db4285bcdb6e04be9d68" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_ee37fb3166550dc931a31536915f3480" level="file">
+        <did>
+          <unittitle>Stuyvestant Town Article</unittitle>
+          <unitdate datechar="creation" normal="2006/2006">2006</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_295e1de9d4aea89c9f442a357297f9be" label="Mixed Materials [31142063132222]" type="Box">5</container>
+          <container id="aspace_d55ae148d1f64927c79c3ecf393feb32" parent="aspace_295e1de9d4aea89c9f442a357297f9be" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_91855d70850d4f0acd218806893b6bfa" level="file">
+        <did>
+          <unittitle>Leaflets</unittitle>
+          <unitdate datechar="creation" normal="1949/1952" type="inclusive">1949-1952</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_86d9bfe7a9ebb8c6294e6deb365d7c13" label="Mixed Materials [31142063132222]" type="Box">5</container>
+          <container id="aspace_3fd8fc492ed3b20741d78fa967757629" parent="aspace_86d9bfe7a9ebb8c6294e6deb365d7c13" type="Folder">23</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

@@ -1,65 +1,524 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_253">tam_253</eadid><filedesc><titlestmt><titleproper>Guide to the East Side Tenants Council Records <num>TAM.253</num></titleproper><author>David A. Olson</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2013</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:05:59 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>East Side Tenants Council Records</unittitle>
-    <origination label="Creator">
-      <persname rules="dacs" source="local">Amato, Francesca</persname>
-    </origination>
-    <origination label="Creator">
-      <corpname rules="dacs" source="local">East Side Tenants Council</corpname>
-    </origination>
-    <unitid>TAM.253</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
-      <extent altrender="carrier">in one record carton and one manuscript box</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1937/1975" type="inclusive">1937-1975</unitdate>
-    <unitdate datechar="creation" normal="1955/1970" type="bulk">1955-1970</unitdate>
-    <abstract id="aspace_30d4f830d2ce9b60eb77e0d09cfbdbfb">The East Side Tenants Council was a community organization founded to advocate for tenants' rights on the Lower East Side of New York City in the mid-20th century. A local affiliate of the Metropolitan Council on Housing, its roots could be traced to 1930s tenant activism and 1950s-1960s neighborhood opposition to Robert Moses' reimagining of New York City. The council fought to hold or lower rent rates and improve the physical condition of  buildings. This meant both building-level organization of tenants and navigating the bureaucratic paperwork of government agencies on behalf of individuals.
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/tam_253">tam_253</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the East Side Tenants Council Records <num>TAM.253</num></titleproper>
+        <author>David A. Olson</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2013</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:05:59 -0400</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>East Side Tenants Council Records</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Amato, Francesca</persname>
+      </origination>
+      <origination label="Creator">
+        <corpname rules="dacs" source="local">East Side Tenants Council</corpname>
+      </origination>
+      <unitid>TAM.253</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+        <extent altrender="carrier">in one record carton and one manuscript box</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1937/1975" type="inclusive">1937-1975</unitdate>
+      <unitdate datechar="creation" normal="1955/1970" type="bulk">1955-1970</unitdate>
+      <abstract id="aspace_30d4f830d2ce9b60eb77e0d09cfbdbfb">The East Side Tenants Council was a community organization founded to advocate for tenants' rights on the Lower East Side of New York City in the mid-20th century. A local affiliate of the Metropolitan Council on Housing, its roots could be traced to 1930s tenant activism and 1950s-1960s neighborhood opposition to Robert Moses' reimagining of New York City. The council fought to hold or lower rent rates and improve the physical condition of  buildings. This meant both building-level organization of tenants and navigating the bureaucratic paperwork of government agencies on behalf of individuals.
 
 The majority of the collection's documents were generated by the advocacy of tenants' representative Francesca Amato. Most these materials are filings, supporting work product, and correspondence with landlords and government housing agencies. As a part of her process, Amato took extensive notes on buildings' residents and the physical condition of their apartments, which document housing conditions in the Lower East Side during the 1950s-1970s. The collections also contains housing-related publications from government entities and other tenants' groups and one folder of photographs of buildings.</abstract>
-    <langmaterial id="aspace_7469c4b93cf4674e383dc75a3d634c73">Materials are in English</langmaterial>
-  </did>
-  <accessrestrict id="aspace_7de6d50a89e4066400b3fa3cd9dcbe6a">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_1385cc0c442439ffb39a8b01cfdc61ff">
-    <head>Immediate Source of Acquisition</head>
-<p>Materials found in repository; provenance is unknown. The accession number 1950.185 is associated with this collection.</p>  </acqinfo>
-  <arrangement id="aspace_bc69c0df377a24aeb60fe1222e185463">
-    <head>Arrangement</head>
-<p>The collection is arranged alphabetically.</p>  </arrangement>
-  <bioghist id="aspace_4f7d47c40d2b743d6ff3a942be01a7b9">
-    <head>Historical/Biographical Note</head>
-<p>The East Side Tenants Council was a community organization founded to advocate for tenants rights on the Lower East Side of New York City during the mid-20th century. It was a local affiliate of the Metropolitan Council on Housing.</p><p>The council's roots could be traced to the 1930s tenant activism of members of Communist Party and American Labor Party and neighborhood-based opposition to Robert Moses' reimagining of New York City. Tenants were organized at the building level for actions to stabilize or lower rent and to improve the physical condition of the often-dilapidated housing stock. Because the tenant-landlord relationship in New York City was strictly regulated, much of the advocacy took the form of navigating the paperwork of the city's bureaucracy on tenants' behalf. The council also provided assistance to individual tenants and ran housing clinics.</p>  </bioghist>
-  <prefercite id="aspace_17764e3c8696ec0fe80b7d46792870b0">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; East Side Tenants Council Records; TAM 253; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <processinfo id="aspace_1ee469f85dce9143444cbb7aed6db409">
-    <head>Processing Information</head>
-<p>Collection was processed in 2013. While there was no collection-wide order, most materials were grouped in envelopes and labeled by action or subject matter. These titles were transcribed when the collection was rehoused. Loose materials and those in envelopes without titles were placed in files with archivist-devised titles, and all files were arranged alphabetically.</p>  </processinfo>
-  <relatedmaterial id="aspace_844f90e15883580a99c6562117fae8af">
-    <head>Related Archival Materials</head>
-<p>Metropolitan Council on Housing Records (TAM 173)</p><p>The East Side Tenants Council was affiliated with the Met Council. Series III of TAM 173 contains several files of East Side Tenants Council records.</p>  </relatedmaterial>
-  <scopecontent id="aspace_36f25c18dda29362d1e12e11d50936ad">
-    <head>Scope and Content Note</head>
-<p>The collection documents the activities of the East Side Tenants Council and housing conditions in the Lower East Side of New York City in the 1950s-1970s. The majority of the documents were generated by the advocacy of tenants' representative Francesca Amato.</p><p>Actions represented in the collection are centered around a handful of buildings: 528 East 11th Street, 176-180 Avenue A, 122-128 Norfolk Street, and 252 East 7th Street. Most these materials are filings, supporting work product, and correspondence with landlords and government housing agencies. As a part of her process, Amato took extensive notes on buildings' residents and the physical condition of their apartments. These can be found in notebooks and in the files for actions, and they give insight into life on the Lower East Side. The East Side Tenants Council advocated for lower rents and improved building conditions, and the collection includes documents from actions pursued through the City of New York Department of Housing and Buildings, the State of New York Temporary State Housing Rent Commission, and the New York City Rent and Rehabilitation Administration, among others. The collections also contains housing-related publications from government entities and other tenants' groups and one folder of photographs of buildings.</p>  </scopecontent>
-  <userestrict id="aspace_e5a557e00b072800e39d625329e24079">
-    <head>Conditions Governing Use</head>
-<p>Copyright (and related rights to publicity and privacy) to materials in this collection created by the East Side Tenants Council was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
-  <controlaccess>
-    <subject source="lcsh">Women in community organization</subject>
-    <subject source="lcsh">Community organization -- New York (N.Y.)</subject>
-    <geogname source="lcsh">Lower East Side (New York, N.Y.)</geogname>
-    <subject source="lcsh">Tenants' associations -- New York (State) -- New York.</subject>
-    <subject source="lcsh">Rent strikes -- New York (State) -- New York</subject>
-    <subject source="lcsh">Rent control -- New York (State) -- New York</subject>
-    <subject source="lcsh">Housing -- New York (N.Y.)</subject>
-    <corpname authfilenumber="(lccn)no2007108165" rules="dacs" source="naf">Metropolitan Council on Housing (New York, N.Y.)</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_ref8" level="file"><did><unittitle>Alice P. Housing Photos</unittitle><unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate><container altrender="Record carton" id="aspace_e55f08eedc5abd293e8243433b519252" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_edc8d0b2c88ad08fb7b1f61c0f3d5b4a" parent="aspace_e55f08eedc5abd293e8243433b519252" type="Folder">1</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Alley</unittitle><unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate><container altrender="Record carton" id="aspace_4aa2471a18277558c5787f9322840b3f" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_fc5c3be59da7059b916f136886eb9980" parent="aspace_4aa2471a18277558c5787f9322840b3f" type="Folder">2-3</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Apartment Inspections</unittitle><unitdate datechar="creation" normal="1965/1968" type="inclusive">1965-1968</unitdate><container altrender="Record carton" id="aspace_96c6d36651c45e3ab8991973d8907f84" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_3f776ba81b59aedce6d5cd049a5c1d42" parent="aspace_96c6d36651c45e3ab8991973d8907f84" type="Folder">4</container></did></c><c id="aspace_ref11" level="file"><did><unittitle><title render="italic">Building a Better New York: Final Report to Mayor Robert F. Wagner</title> by Anthony Panuch</unittitle><unitdate datechar="creation" normal="1960/1960" type="inclusive">Mar 1, 1960</unitdate><container altrender="Record carton" id="aspace_0ade13dae460a629b091b89ac875a45d" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_c3ed24d2dc3a4949625c5747215fe50d" parent="aspace_0ade13dae460a629b091b89ac875a45d" type="Folder">5</container></did></c><c id="aspace_ref12" level="file"><did><unittitle>Building Condition Notes, including 122 Norfolk Street; Notes regarding Health</unittitle><unitdate datechar="creation" normal="1964/1968" type="inclusive">1964-1968</unitdate><container altrender="Record carton" id="aspace_6127adbacad44afbb9fe36abf8380423" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_9d1d84d01d9be4b0aec5aa99b0609ec8" parent="aspace_6127adbacad44afbb9fe36abf8380423" type="Folder">6</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Buildings Department - Reports and Originals of Boiler and Western Union Night Letters, Block 00353, Lot 0057</unittitle><unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record carton" id="aspace_296a00e8fbd1471ed20c89b2276296c7" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_6214dd406e0d4c2fce552696fb92d995" parent="aspace_296a00e8fbd1471ed20c89b2276296c7" type="Folder">7</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Buildings Department - Reports, Block 00353, Lot 0057</unittitle><unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record carton" id="aspace_aa4b4f1d153fa9dd72ca344df68937f2" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_c9dfcf6bcf6af839f4d40ffd6c160ed1" parent="aspace_aa4b4f1d153fa9dd72ca344df68937f2" type="Folder">8</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>City Rent and Rehabilitation Administration - Rental Value Bulletins</unittitle><unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate><container altrender="Record carton" id="aspace_7fb54ab91f45eff558ecbe4bc7c6ea8c" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_a419d83cf557beb4404fc3bcca5196f4" parent="aspace_7fb54ab91f45eff558ecbe4bc7c6ea8c" type="Folder">9</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Clippings</unittitle><unitdate datechar="creation" normal="1958/1964" type="inclusive">1958-1964</unitdate><container altrender="Record carton" id="aspace_f90faf83e3c88f9c81fea2510d0c1b6e" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_5185d58940b2c2f8f7281b2d038eff15" parent="aspace_f90faf83e3c88f9c81fea2510d0c1b6e" type="Folder">10</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Collado Rental Data and Records</unittitle><unitdate datechar="creation" normal="1967/1968" type="inclusive">1967-1968</unitdate><container altrender="Record carton" id="aspace_6fe7295c650a16744c7ba2282aa75c64" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_47c30d3a945c4fa2d49a8ed04c4100ca" parent="aspace_6fe7295c650a16744c7ba2282aa75c64" type="Folder">11</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Complaints to Department of Buildings</unittitle><unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate><container altrender="Record carton" id="aspace_c44f59fd5126486545e9527f3cbdc3ea" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_0530f0f86b8ca94505f7d34c31be6732" parent="aspace_c44f59fd5126486545e9527f3cbdc3ea" type="Folder">12</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Cooper Square Community Development Committee</unittitle><unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate><container altrender="Record carton" id="aspace_953fdda299c787fa03baba1d052c82cf" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_fe0450e4245e06d6e08d4cd13157fe50" parent="aspace_953fdda299c787fa03baba1d052c82cf" type="Folder">13</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Correspondence - Duplicates [Original File Name]</unittitle><unitdate datechar="creation" normal="1967/1968" type="inclusive">1967-1968</unitdate><container altrender="Record carton" id="aspace_f4f2a28392f977ce0096377005d9787b" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_2576c8f0e93ccf7ab6a04a247832d67b" parent="aspace_f4f2a28392f977ce0096377005d9787b" type="Folder">14</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Council of Puerto Rican and and Spanish-American Organizations of Greater New York</unittitle><unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate><container altrender="Record carton" id="aspace_6f0b16fb1a719d4d167b371b497f4d18" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_d954dc496cb3cda9aa40025b7181e5a4" parent="aspace_6f0b16fb1a719d4d167b371b497f4d18" type="Folder">15</container></did></c><c id="aspace_ref22" level="file"><did><unittitle><title render="italic">Crosses on Our Windows</title> (Yorkville Save Our Homes Committee) and Clippings</unittitle><unitdate datechar="creation" normal="1960/1963" type="inclusive">1960-1963</unitdate><container altrender="Record carton" id="aspace_9b0b4c630655ef634fdf86c6216f918a" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_2e7617b5c74bdd4174918363cf470938" parent="aspace_9b0b4c630655ef634fdf86c6216f918a" type="Folder">16</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Manuel De Kony</unittitle><unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate><container altrender="Record carton" id="aspace_bfe1707eefd1714ba6c59ba7d1eaedeb" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_c30970ed7458666c3d1c16d8a0369716" parent="aspace_bfe1707eefd1714ba6c59ba7d1eaedeb" type="Folder">17</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>528 East 11th Street</unittitle><unitdate datechar="creation" normal="1961/1962" type="inclusive">1961-1962</unitdate><container altrender="Record carton" id="aspace_ca5abf19b12d700dfeabf66a9e384354" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_fe132cac0dcc4641044af97ead1734fb" parent="aspace_ca5abf19b12d700dfeabf66a9e384354" type="Folder">18-19</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>528 East 11th Street Hearing</unittitle><unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate><container altrender="Record carton" id="aspace_f5a2bc1894dff3c2ecba97424bc263cd" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_56cce311664e20dab3cd29e5d19d34f3" parent="aspace_f5a2bc1894dff3c2ecba97424bc263cd" type="Folder">20</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Guides and Papers on Housing Conditions and Tenants Rights</unittitle><unitdate datechar="creation" normal="1955/1960" type="inclusive">1955-1960</unitdate><container altrender="Record carton" id="aspace_78fdc435aa34d87c6ea6ecb379ce913d" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_edb49cd9abec9c3de8b1c0c8b308d920" parent="aspace_78fdc435aa34d87c6ea6ecb379ce913d" type="Folder">21</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Heat File</unittitle><unitdate datechar="creation" normal="1974/1975" type="inclusive">1974-1975</unitdate><container altrender="Record carton" id="aspace_266020584e56f267d77b14c63e13f4b7" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_b8a79494e71f1f7ed04975c7b8f0b04f" parent="aspace_266020584e56f267d77b14c63e13f4b7" type="Folder">22</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Housing</unittitle><unitdate datechar="creation" normal="1969/1970" type="inclusive">1969-1970</unitdate><container altrender="Record carton" id="aspace_e3700e98b6c9dadde0eec13227908377" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_530df7208fd8d0f8b9e6a75821529bbd" parent="aspace_e3700e98b6c9dadde0eec13227908377" type="Folder">23</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Individual</unittitle><unitdate datechar="creation" normal="1967/1968" type="inclusive">1967-1968</unitdate><container altrender="Record carton" id="aspace_14ae7582fd84598864f7c0d96bcdf89d" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_e75e3311e60490e920dc6e695e24c65c" parent="aspace_14ae7582fd84598864f7c0d96bcdf89d" type="Folder">24</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Individual Tenant Assistance</unittitle><unitdate datechar="creation" normal="1960/1963" type="inclusive">1960-1963</unitdate><container altrender="Record carton" id="aspace_3f27b44067958d2b26870a3b89af638b" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_cbeb4000cb3ac5117e67a6a8310fb25f" parent="aspace_3f27b44067958d2b26870a3b89af638b" type="Folder">25-27</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Inspection Notes</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_2c7a48f7d37a207f0eb56569f0cebf07" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_99c7470d1e162275fe0f565d1b5bc943" parent="aspace_2c7a48f7d37a207f0eb56569f0cebf07" type="Folder">28</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Letterhead and Forms</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Record carton" id="aspace_9a6d6d44dede30b98d397d7c9040647e" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_da4bbac0f2fc430f7aad10d28fb141e3" parent="aspace_9a6d6d44dede30b98d397d7c9040647e" type="Folder">28</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Mixed Notices</unittitle><unitdate datechar="creation" normal="1951/1962" type="inclusive">1951-1962</unitdate><container altrender="Record carton" id="aspace_79eff493ad531ba83c0eb8c7b01b2ade" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_91e10a2e07b4bb6ebd12b453768bf4e8" parent="aspace_79eff493ad531ba83c0eb8c7b01b2ade" type="Folder">30</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Multiple (City Rent and Rehabilitation Administration)</unittitle><unitdate datechar="creation" normal="1967/1968" type="inclusive">1967-1968</unitdate><container altrender="Record carton" id="aspace_bdbdb5894595353190db69fe6f376f8d" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_d62777fd0bcd074181d64e909efcb561" parent="aspace_bdbdb5894595353190db69fe6f376f8d" type="Folder">31</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Notebooks</unittitle><unitdate datechar="creation" normal="1960/1968" type="inclusive">1960-1968</unitdate><container altrender="Record carton" id="aspace_b6a6274d664eb9f0257d396e4f251a2b" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_bc38a5dd369ed4569bc3cf867326ba0e" parent="aspace_b6a6274d664eb9f0257d396e4f251a2b" type="Folder">32-35</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Notes and Complaint</unittitle><unitdate datechar="creation" normal="1962/1963" type="inclusive">1962-1963</unitdate><container altrender="Record carton" id="aspace_21c6ad0951cd54b74a71d9ec829bf72a" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_26ae5ec8744397d904198cb5be9eed83" parent="aspace_21c6ad0951cd54b74a71d9ec829bf72a" type="Folder">36</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Jose Noya</unittitle><unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate><container altrender="Record carton" id="aspace_834ef9487d8ea134c2b9433533c545b5" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_77db4b47156971490c3837ae27230d3a" parent="aspace_834ef9487d8ea134c2b9433533c545b5" type="Folder">37</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Ana Noyet</unittitle><unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate><container altrender="Record carton" id="aspace_156615024a5f8d29773b5eb81b132c7a" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_bfb20ab514e6ff14065589008fc0a662" parent="aspace_156615024a5f8d29773b5eb81b132c7a" type="Folder">38</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Old Alley (Includes 176 Avenue A)</unittitle><unitdate datechar="creation" normal="1960/1961" type="inclusive">1960-1961</unitdate><container altrender="Record carton" id="aspace_ea21c7bb4e5cb2cc0e3c5fc51446d0f7" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_8823316e79af11dd62b897490950ce4f" parent="aspace_ea21c7bb4e5cb2cc0e3c5fc51446d0f7" type="Folder">39</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Emilio Ortiz</unittitle><unitdate datechar="creation" normal="1963/1964" type="inclusive">1963-1964</unitdate><container altrender="Record carton" id="aspace_24b742f55ec51a148ff24b6f54e66ed0" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_a6c5f4ef7bfd2c1e322d5fa5c14534ab" parent="aspace_24b742f55ec51a148ff24b6f54e66ed0" type="Folder">40</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>176 Avenue A, Rear Building</unittitle><unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate><container altrender="Record carton" id="aspace_8d3f087da87b19d3db9c437caece1a6b" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_954473b1557d89d05f11824251f0abd8" parent="aspace_8d3f087da87b19d3db9c437caece1a6b" type="Folder">40</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>176,178, and 180 Avenue A</unittitle><unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate><container altrender="Record carton" id="aspace_6629a75d0965bda9c9f8d3afc1f6c536" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_266bb27f292fc318eb6910b94b5f04b1" parent="aspace_6629a75d0965bda9c9f8d3afc1f6c536" type="Folder">42</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>122 Norfolk Street</unittitle><unitdate datechar="creation" normal="1967/1970" type="inclusive">1967-1970</unitdate><container altrender="Record carton" id="aspace_6984bacc072c014996a2a384d40bdfa2" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_e43dd1eb8579f56d9f14fddb9c8b2847" parent="aspace_6984bacc072c014996a2a384d40bdfa2" type="Folder">43-44</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>122-128 Norfolk Street</unittitle><unitdate datechar="creation" normal="1969/1972" type="inclusive">1969-1972</unitdate><container altrender="Record carton" id="aspace_3b6ea4b559cdd16de1f196dcd4fc63dd" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_7fab0bc4bf20a29aa8776f9d23cb76e7" parent="aspace_3b6ea4b559cdd16de1f196dcd4fc63dd" type="Folder">45-46</container></did></c><c id="aspace_ref45" level="file"><did><unittitle>Antonina Previti</unittitle><unitdate datechar="creation" normal="1963/1964" type="inclusive">1963-1964</unitdate><container altrender="Record carton" id="aspace_a8c5bd724cc7f040d2135d9859831ebc" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_78f24fab9127a5b5b21732e420cb1d02" parent="aspace_a8c5bd724cc7f040d2135d9859831ebc" type="Folder">47</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Erminio Ramos</unittitle><unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Record carton" id="aspace_720e4a47f41d5b2555877319e44b3908" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_40e9153e5767b669c0dd2d6bbf61f838" parent="aspace_720e4a47f41d5b2555877319e44b3908" type="Folder">48</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Registration Requests</unittitle><unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Record carton" id="aspace_fe5daba99bc20847b7939a6d680f9e97" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_ee2eff83931ac9d7b39d90a3ecfcae6e" parent="aspace_fe5daba99bc20847b7939a6d680f9e97" type="Folder">49</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Rent (Includes 176, 178, and 180 Avenue A)</unittitle><unitdate datechar="creation" normal="1937/1959" type="inclusive">1937-1959</unitdate><container altrender="Record carton" id="aspace_927552d13b30a91713ffadba0a549eaf" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_5ebf281bc9775eb8fbc297eb25a96b81" parent="aspace_927552d13b30a91713ffadba0a549eaf" type="Folder">50</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Rent (Includes 176, 178, and 180 Avenue A, and 503 East 11th Street)</unittitle><unitdate datechar="creation" normal="1955/1958" type="inclusive">1955-1958</unitdate><container altrender="Record carton" id="aspace_09bb065c5e802e1cbf362cf3acb465d5" label="Mixed Materials [31142062747905]" type="Box">1</container><container id="aspace_cf0a7823f32bc7cd376e4f6f753799ef" parent="aspace_09bb065c5e802e1cbf362cf3acb465d5" type="Folder">51</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Rent Histories</unittitle><unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Manuscript box - Legal" id="aspace_c51f52e4c688932114aa806fbb14d97b" label="Mixed Materials [31142062724771]" type="Box">2</container><container id="aspace_c303cfbdabfa5aeddfa506e89709d314" parent="aspace_c51f52e4c688932114aa806fbb14d97b" type="Folder">1</container></did></c><c id="aspace_ref51" level="file"><did><unittitle><title render="italic">Tenant News</title> (Metropolitan Council on Housing)</unittitle><unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_315efc04dfedc1d1174bc4870c7d4118" label="Mixed Materials [31142062724771]" type="Box">2</container><container id="aspace_e429582fd3d843fd35f75b6790434042" parent="aspace_315efc04dfedc1d1174bc4870c7d4118" type="Folder">2</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Mak To</unittitle><unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Manuscript box - Legal" id="aspace_f784c3640132498a0fdf5560919dde4f" label="Mixed Materials [31142062724771]" type="Box">2</container><container id="aspace_991e57c7bf8bb6304eeb59842df9f258" parent="aspace_f784c3640132498a0fdf5560919dde4f" type="Folder">3</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>252 East 7th Street</unittitle><unitdate datechar="creation" normal="1960/1964" type="inclusive">1960-1964</unitdate><container altrender="Manuscript box - Legal" id="aspace_998204c2da34c2a36cab2f1b77d78927" label="Mixed Materials [31142062724771]" type="Box">2</container><container id="aspace_987cdbd178ee734060694f6f416c63bf" parent="aspace_998204c2da34c2a36cab2f1b77d78927" type="Folder">4-6</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>252 East 7th Street and other Correspondence  - AC385777</unittitle><unitdate datechar="creation" normal="1960/1961" type="inclusive">1960-1961</unitdate><container altrender="Manuscript box - Legal" id="aspace_6f2bb4731c9010473691379aa7e16e7d" label="Mixed Materials [31142062724771]" type="Box">2</container><container id="aspace_a666597fe16746db9960cebcac7a13d2" parent="aspace_6f2bb4731c9010473691379aa7e16e7d" type="Folder">7</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>252 East 7th Street - Individual</unittitle><unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate><container altrender="Manuscript box - Legal" id="aspace_651bbc33ad9b04368c7c24a4e5bdec3f" label="Mixed Materials [31142062724771]" type="Box">2</container><container id="aspace_919c9dcf0fe847310da810b5284ec423" parent="aspace_651bbc33ad9b04368c7c24a4e5bdec3f" type="Folder">8</container></did></c><c id="aspace_ref56" level="file"><did><unittitle>252 East 7th Street - Individual Actions</unittitle><unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_23018459cc2d7b66a5318317584f4e21" label="Mixed Materials [31142062724771]" type="Box">2</container><container id="aspace_c73a494b81a5e0be125999030bbe84bb" parent="aspace_23018459cc2d7b66a5318317584f4e21" type="Folder">9</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>252 East 7th Street - Notebooks</unittitle><unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_7edd3a69754aa32160320a84c321b5d6" label="Mixed Materials [31142062724771]" type="Box">2</container><container id="aspace_32a9ce73defb10bd6c478263eeb532bf" parent="aspace_7edd3a69754aa32160320a84c321b5d6" type="Folder">10-11</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>252 East 7th Street - Tenants' Multiple Application for Decrease in Rent</unittitle><unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate><container altrender="Manuscript box - Legal" id="aspace_61813331ce6f8deeaff38919279c8e3b" label="Mixed Materials [31142062724771]" type="Box">2</container><container id="aspace_15e83922c9558edc8af4d3506f671d2f" parent="aspace_61813331ce6f8deeaff38919279c8e3b" type="Folder">12</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>Valle et al (169-171 Allen Street)</unittitle><unitdate datechar="creation" normal="1958/1960" type="inclusive">1958-1960</unitdate><container altrender="Manuscript box - Legal" id="aspace_c09acad7e4e47cf106a3fd1c33d02696" label="Mixed Materials [31142062724771]" type="Box">2</container><container id="aspace_11de8a390018ea738a4544977cfaf2cb" parent="aspace_c09acad7e4e47cf106a3fd1c33d02696" type="Folder">13-14</container></did></c></dsc>
-</archdesc>
+      <langmaterial id="aspace_7469c4b93cf4674e383dc75a3d634c73">Materials are in English</langmaterial>
+    </did>
+    <accessrestrict id="aspace_7de6d50a89e4066400b3fa3cd9dcbe6a">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_1385cc0c442439ffb39a8b01cfdc61ff">
+      <head>Immediate Source of Acquisition</head>
+      <p>Materials found in repository; provenance is unknown. The accession number 1950.185 is associated with this collection.</p>
+    </acqinfo>
+    <arrangement id="aspace_bc69c0df377a24aeb60fe1222e185463">
+      <head>Arrangement</head>
+      <p>The collection is arranged alphabetically.</p>
+    </arrangement>
+    <bioghist id="aspace_4f7d47c40d2b743d6ff3a942be01a7b9">
+      <head>Historical/Biographical Note</head>
+      <p>The East Side Tenants Council was a community organization founded to advocate for tenants rights on the Lower East Side of New York City during the mid-20th century. It was a local affiliate of the Metropolitan Council on Housing.</p>
+      <p>The council's roots could be traced to the 1930s tenant activism of members of Communist Party and American Labor Party and neighborhood-based opposition to Robert Moses' reimagining of New York City. Tenants were organized at the building level for actions to stabilize or lower rent and to improve the physical condition of the often-dilapidated housing stock. Because the tenant-landlord relationship in New York City was strictly regulated, much of the advocacy took the form of navigating the paperwork of the city's bureaucracy on tenants' behalf. The council also provided assistance to individual tenants and ran housing clinics.</p>
+    </bioghist>
+    <prefercite id="aspace_17764e3c8696ec0fe80b7d46792870b0">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; East Side Tenants Council Records; TAM 253; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_1ee469f85dce9143444cbb7aed6db409">
+      <head>Processing Information</head>
+      <p>Collection was processed in 2013. While there was no collection-wide order, most materials were grouped in envelopes and labeled by action or subject matter. These titles were transcribed when the collection was rehoused. Loose materials and those in envelopes without titles were placed in files with archivist-devised titles, and all files were arranged alphabetically.</p>
+    </processinfo>
+    <relatedmaterial id="aspace_844f90e15883580a99c6562117fae8af">
+      <head>Related Archival Materials</head>
+      <p>Metropolitan Council on Housing Records (TAM 173)</p>
+      <p>The East Side Tenants Council was affiliated with the Met Council. Series III of TAM 173 contains several files of East Side Tenants Council records.</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_36f25c18dda29362d1e12e11d50936ad">
+      <head>Scope and Content Note</head>
+      <p>The collection documents the activities of the East Side Tenants Council and housing conditions in the Lower East Side of New York City in the 1950s-1970s. The majority of the documents were generated by the advocacy of tenants' representative Francesca Amato.</p>
+      <p>Actions represented in the collection are centered around a handful of buildings: 528 East 11th Street, 176-180 Avenue A, 122-128 Norfolk Street, and 252 East 7th Street. Most these materials are filings, supporting work product, and correspondence with landlords and government housing agencies. As a part of her process, Amato took extensive notes on buildings' residents and the physical condition of their apartments. These can be found in notebooks and in the files for actions, and they give insight into life on the Lower East Side. The East Side Tenants Council advocated for lower rents and improved building conditions, and the collection includes documents from actions pursued through the City of New York Department of Housing and Buildings, the State of New York Temporary State Housing Rent Commission, and the New York City Rent and Rehabilitation Administration, among others. The collections also contains housing-related publications from government entities and other tenants' groups and one folder of photographs of buildings.</p>
+    </scopecontent>
+    <userestrict id="aspace_e5a557e00b072800e39d625329e24079">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by the East Side Tenants Council was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="lcsh">Women in community organization</subject>
+      <subject source="lcsh">Community organization -- New York (N.Y.)</subject>
+      <geogname source="lcsh">Lower East Side (New York, N.Y.)</geogname>
+      <subject source="lcsh">Tenants' associations -- New York (State) -- New York.</subject>
+      <subject source="lcsh">Rent strikes -- New York (State) -- New York</subject>
+      <subject source="lcsh">Rent control -- New York (State) -- New York</subject>
+      <subject source="lcsh">Housing -- New York (N.Y.)</subject>
+      <corpname authfilenumber="(lccn)no2007108165" rules="dacs" source="naf">Metropolitan Council on Housing (New York, N.Y.)</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref8" level="file">
+        <did>
+          <unittitle>Alice P. Housing Photos</unittitle>
+          <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+          <container altrender="Record carton" id="aspace_e55f08eedc5abd293e8243433b519252" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_edc8d0b2c88ad08fb7b1f61c0f3d5b4a" parent="aspace_e55f08eedc5abd293e8243433b519252" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref9" level="file">
+        <did>
+          <unittitle>Alley</unittitle>
+          <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+          <container altrender="Record carton" id="aspace_4aa2471a18277558c5787f9322840b3f" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_fc5c3be59da7059b916f136886eb9980" parent="aspace_4aa2471a18277558c5787f9322840b3f" type="Folder">2-3</container>
+        </did>
+      </c>
+      <c id="aspace_ref10" level="file">
+        <did>
+          <unittitle>Apartment Inspections</unittitle>
+          <unitdate datechar="creation" normal="1965/1968" type="inclusive">1965-1968</unitdate>
+          <container altrender="Record carton" id="aspace_96c6d36651c45e3ab8991973d8907f84" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_3f776ba81b59aedce6d5cd049a5c1d42" parent="aspace_96c6d36651c45e3ab8991973d8907f84" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref11" level="file">
+        <did>
+          <unittitle><title render="italic">Building a Better New York: Final Report to Mayor Robert F. Wagner</title> by Anthony Panuch</unittitle>
+          <unitdate datechar="creation" normal="1960/1960" type="inclusive">Mar 1, 1960</unitdate>
+          <container altrender="Record carton" id="aspace_0ade13dae460a629b091b89ac875a45d" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_c3ed24d2dc3a4949625c5747215fe50d" parent="aspace_0ade13dae460a629b091b89ac875a45d" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref12" level="file">
+        <did>
+          <unittitle>Building Condition Notes, including 122 Norfolk Street; Notes regarding Health</unittitle>
+          <unitdate datechar="creation" normal="1964/1968" type="inclusive">1964-1968</unitdate>
+          <container altrender="Record carton" id="aspace_6127adbacad44afbb9fe36abf8380423" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_9d1d84d01d9be4b0aec5aa99b0609ec8" parent="aspace_6127adbacad44afbb9fe36abf8380423" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref13" level="file">
+        <did>
+          <unittitle>Buildings Department - Reports and Originals of Boiler and Western Union Night Letters, Block 00353, Lot 0057</unittitle>
+          <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+          <container altrender="Record carton" id="aspace_296a00e8fbd1471ed20c89b2276296c7" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_6214dd406e0d4c2fce552696fb92d995" parent="aspace_296a00e8fbd1471ed20c89b2276296c7" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref14" level="file">
+        <did>
+          <unittitle>Buildings Department - Reports, Block 00353, Lot 0057</unittitle>
+          <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+          <container altrender="Record carton" id="aspace_aa4b4f1d153fa9dd72ca344df68937f2" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_c9dfcf6bcf6af839f4d40ffd6c160ed1" parent="aspace_aa4b4f1d153fa9dd72ca344df68937f2" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref15" level="file">
+        <did>
+          <unittitle>City Rent and Rehabilitation Administration - Rental Value Bulletins</unittitle>
+          <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+          <container altrender="Record carton" id="aspace_7fb54ab91f45eff558ecbe4bc7c6ea8c" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_a419d83cf557beb4404fc3bcca5196f4" parent="aspace_7fb54ab91f45eff558ecbe4bc7c6ea8c" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref16" level="file">
+        <did>
+          <unittitle>Clippings</unittitle>
+          <unitdate datechar="creation" normal="1958/1964" type="inclusive">1958-1964</unitdate>
+          <container altrender="Record carton" id="aspace_f90faf83e3c88f9c81fea2510d0c1b6e" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_5185d58940b2c2f8f7281b2d038eff15" parent="aspace_f90faf83e3c88f9c81fea2510d0c1b6e" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref17" level="file">
+        <did>
+          <unittitle>Collado Rental Data and Records</unittitle>
+          <unitdate datechar="creation" normal="1967/1968" type="inclusive">1967-1968</unitdate>
+          <container altrender="Record carton" id="aspace_6fe7295c650a16744c7ba2282aa75c64" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_47c30d3a945c4fa2d49a8ed04c4100ca" parent="aspace_6fe7295c650a16744c7ba2282aa75c64" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref18" level="file">
+        <did>
+          <unittitle>Complaints to Department of Buildings</unittitle>
+          <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+          <container altrender="Record carton" id="aspace_c44f59fd5126486545e9527f3cbdc3ea" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_0530f0f86b8ca94505f7d34c31be6732" parent="aspace_c44f59fd5126486545e9527f3cbdc3ea" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref19" level="file">
+        <did>
+          <unittitle>Cooper Square Community Development Committee</unittitle>
+          <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+          <container altrender="Record carton" id="aspace_953fdda299c787fa03baba1d052c82cf" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_fe0450e4245e06d6e08d4cd13157fe50" parent="aspace_953fdda299c787fa03baba1d052c82cf" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref20" level="file">
+        <did>
+          <unittitle>Correspondence - Duplicates [Original File Name]</unittitle>
+          <unitdate datechar="creation" normal="1967/1968" type="inclusive">1967-1968</unitdate>
+          <container altrender="Record carton" id="aspace_f4f2a28392f977ce0096377005d9787b" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_2576c8f0e93ccf7ab6a04a247832d67b" parent="aspace_f4f2a28392f977ce0096377005d9787b" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref21" level="file">
+        <did>
+          <unittitle>Council of Puerto Rican and and Spanish-American Organizations of Greater New York</unittitle>
+          <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate>
+          <container altrender="Record carton" id="aspace_6f0b16fb1a719d4d167b371b497f4d18" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_d954dc496cb3cda9aa40025b7181e5a4" parent="aspace_6f0b16fb1a719d4d167b371b497f4d18" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref22" level="file">
+        <did>
+          <unittitle><title render="italic">Crosses on Our Windows</title> (Yorkville Save Our Homes Committee) and Clippings</unittitle>
+          <unitdate datechar="creation" normal="1960/1963" type="inclusive">1960-1963</unitdate>
+          <container altrender="Record carton" id="aspace_9b0b4c630655ef634fdf86c6216f918a" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_2e7617b5c74bdd4174918363cf470938" parent="aspace_9b0b4c630655ef634fdf86c6216f918a" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref23" level="file">
+        <did>
+          <unittitle>Manuel De Kony</unittitle>
+          <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+          <container altrender="Record carton" id="aspace_bfe1707eefd1714ba6c59ba7d1eaedeb" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_c30970ed7458666c3d1c16d8a0369716" parent="aspace_bfe1707eefd1714ba6c59ba7d1eaedeb" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref24" level="file">
+        <did>
+          <unittitle>528 East 11th Street</unittitle>
+          <unitdate datechar="creation" normal="1961/1962" type="inclusive">1961-1962</unitdate>
+          <container altrender="Record carton" id="aspace_ca5abf19b12d700dfeabf66a9e384354" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_fe132cac0dcc4641044af97ead1734fb" parent="aspace_ca5abf19b12d700dfeabf66a9e384354" type="Folder">18-19</container>
+        </did>
+      </c>
+      <c id="aspace_ref25" level="file">
+        <did>
+          <unittitle>528 East 11th Street Hearing</unittitle>
+          <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+          <container altrender="Record carton" id="aspace_f5a2bc1894dff3c2ecba97424bc263cd" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_56cce311664e20dab3cd29e5d19d34f3" parent="aspace_f5a2bc1894dff3c2ecba97424bc263cd" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_ref26" level="file">
+        <did>
+          <unittitle>Guides and Papers on Housing Conditions and Tenants Rights</unittitle>
+          <unitdate datechar="creation" normal="1955/1960" type="inclusive">1955-1960</unitdate>
+          <container altrender="Record carton" id="aspace_78fdc435aa34d87c6ea6ecb379ce913d" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_edb49cd9abec9c3de8b1c0c8b308d920" parent="aspace_78fdc435aa34d87c6ea6ecb379ce913d" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_ref27" level="file">
+        <did>
+          <unittitle>Heat File</unittitle>
+          <unitdate datechar="creation" normal="1974/1975" type="inclusive">1974-1975</unitdate>
+          <container altrender="Record carton" id="aspace_266020584e56f267d77b14c63e13f4b7" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_b8a79494e71f1f7ed04975c7b8f0b04f" parent="aspace_266020584e56f267d77b14c63e13f4b7" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_ref28" level="file">
+        <did>
+          <unittitle>Housing</unittitle>
+          <unitdate datechar="creation" normal="1969/1970" type="inclusive">1969-1970</unitdate>
+          <container altrender="Record carton" id="aspace_e3700e98b6c9dadde0eec13227908377" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_530df7208fd8d0f8b9e6a75821529bbd" parent="aspace_e3700e98b6c9dadde0eec13227908377" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_ref29" level="file">
+        <did>
+          <unittitle>Individual</unittitle>
+          <unitdate datechar="creation" normal="1967/1968" type="inclusive">1967-1968</unitdate>
+          <container altrender="Record carton" id="aspace_14ae7582fd84598864f7c0d96bcdf89d" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_e75e3311e60490e920dc6e695e24c65c" parent="aspace_14ae7582fd84598864f7c0d96bcdf89d" type="Folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_ref30" level="file">
+        <did>
+          <unittitle>Individual Tenant Assistance</unittitle>
+          <unitdate datechar="creation" normal="1960/1963" type="inclusive">1960-1963</unitdate>
+          <container altrender="Record carton" id="aspace_3f27b44067958d2b26870a3b89af638b" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_cbeb4000cb3ac5117e67a6a8310fb25f" parent="aspace_3f27b44067958d2b26870a3b89af638b" type="Folder">25-27</container>
+        </did>
+      </c>
+      <c id="aspace_ref31" level="file">
+        <did>
+          <unittitle>Inspection Notes</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Record carton" id="aspace_2c7a48f7d37a207f0eb56569f0cebf07" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_99c7470d1e162275fe0f565d1b5bc943" parent="aspace_2c7a48f7d37a207f0eb56569f0cebf07" type="Folder">28</container>
+        </did>
+      </c>
+      <c id="aspace_ref32" level="file">
+        <did>
+          <unittitle>Letterhead and Forms</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Record carton" id="aspace_9a6d6d44dede30b98d397d7c9040647e" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_da4bbac0f2fc430f7aad10d28fb141e3" parent="aspace_9a6d6d44dede30b98d397d7c9040647e" type="Folder">28</container>
+        </did>
+      </c>
+      <c id="aspace_ref33" level="file">
+        <did>
+          <unittitle>Mixed Notices</unittitle>
+          <unitdate datechar="creation" normal="1951/1962" type="inclusive">1951-1962</unitdate>
+          <container altrender="Record carton" id="aspace_79eff493ad531ba83c0eb8c7b01b2ade" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_91e10a2e07b4bb6ebd12b453768bf4e8" parent="aspace_79eff493ad531ba83c0eb8c7b01b2ade" type="Folder">30</container>
+        </did>
+      </c>
+      <c id="aspace_ref34" level="file">
+        <did>
+          <unittitle>Multiple (City Rent and Rehabilitation Administration)</unittitle>
+          <unitdate datechar="creation" normal="1967/1968" type="inclusive">1967-1968</unitdate>
+          <container altrender="Record carton" id="aspace_bdbdb5894595353190db69fe6f376f8d" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_d62777fd0bcd074181d64e909efcb561" parent="aspace_bdbdb5894595353190db69fe6f376f8d" type="Folder">31</container>
+        </did>
+      </c>
+      <c id="aspace_ref35" level="file">
+        <did>
+          <unittitle>Notebooks</unittitle>
+          <unitdate datechar="creation" normal="1960/1968" type="inclusive">1960-1968</unitdate>
+          <container altrender="Record carton" id="aspace_b6a6274d664eb9f0257d396e4f251a2b" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_bc38a5dd369ed4569bc3cf867326ba0e" parent="aspace_b6a6274d664eb9f0257d396e4f251a2b" type="Folder">32-35</container>
+        </did>
+      </c>
+      <c id="aspace_ref36" level="file">
+        <did>
+          <unittitle>Notes and Complaint</unittitle>
+          <unitdate datechar="creation" normal="1962/1963" type="inclusive">1962-1963</unitdate>
+          <container altrender="Record carton" id="aspace_21c6ad0951cd54b74a71d9ec829bf72a" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_26ae5ec8744397d904198cb5be9eed83" parent="aspace_21c6ad0951cd54b74a71d9ec829bf72a" type="Folder">36</container>
+        </did>
+      </c>
+      <c id="aspace_ref37" level="file">
+        <did>
+          <unittitle>Jose Noya</unittitle>
+          <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+          <container altrender="Record carton" id="aspace_834ef9487d8ea134c2b9433533c545b5" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_77db4b47156971490c3837ae27230d3a" parent="aspace_834ef9487d8ea134c2b9433533c545b5" type="Folder">37</container>
+        </did>
+      </c>
+      <c id="aspace_ref38" level="file">
+        <did>
+          <unittitle>Ana Noyet</unittitle>
+          <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+          <container altrender="Record carton" id="aspace_156615024a5f8d29773b5eb81b132c7a" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_bfb20ab514e6ff14065589008fc0a662" parent="aspace_156615024a5f8d29773b5eb81b132c7a" type="Folder">38</container>
+        </did>
+      </c>
+      <c id="aspace_ref39" level="file">
+        <did>
+          <unittitle>Old Alley (Includes 176 Avenue A)</unittitle>
+          <unitdate datechar="creation" normal="1960/1961" type="inclusive">1960-1961</unitdate>
+          <container altrender="Record carton" id="aspace_ea21c7bb4e5cb2cc0e3c5fc51446d0f7" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_8823316e79af11dd62b897490950ce4f" parent="aspace_ea21c7bb4e5cb2cc0e3c5fc51446d0f7" type="Folder">39</container>
+        </did>
+      </c>
+      <c id="aspace_ref40" level="file">
+        <did>
+          <unittitle>Emilio Ortiz</unittitle>
+          <unitdate datechar="creation" normal="1963/1964" type="inclusive">1963-1964</unitdate>
+          <container altrender="Record carton" id="aspace_24b742f55ec51a148ff24b6f54e66ed0" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_a6c5f4ef7bfd2c1e322d5fa5c14534ab" parent="aspace_24b742f55ec51a148ff24b6f54e66ed0" type="Folder">40</container>
+        </did>
+      </c>
+      <c id="aspace_ref41" level="file">
+        <did>
+          <unittitle>176 Avenue A, Rear Building</unittitle>
+          <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+          <container altrender="Record carton" id="aspace_8d3f087da87b19d3db9c437caece1a6b" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_954473b1557d89d05f11824251f0abd8" parent="aspace_8d3f087da87b19d3db9c437caece1a6b" type="Folder">40</container>
+        </did>
+      </c>
+      <c id="aspace_ref42" level="file">
+        <did>
+          <unittitle>176,178, and 180 Avenue A</unittitle>
+          <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+          <container altrender="Record carton" id="aspace_6629a75d0965bda9c9f8d3afc1f6c536" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_266bb27f292fc318eb6910b94b5f04b1" parent="aspace_6629a75d0965bda9c9f8d3afc1f6c536" type="Folder">42</container>
+        </did>
+      </c>
+      <c id="aspace_ref43" level="file">
+        <did>
+          <unittitle>122 Norfolk Street</unittitle>
+          <unitdate datechar="creation" normal="1967/1970" type="inclusive">1967-1970</unitdate>
+          <container altrender="Record carton" id="aspace_6984bacc072c014996a2a384d40bdfa2" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_e43dd1eb8579f56d9f14fddb9c8b2847" parent="aspace_6984bacc072c014996a2a384d40bdfa2" type="Folder">43-44</container>
+        </did>
+      </c>
+      <c id="aspace_ref44" level="file">
+        <did>
+          <unittitle>122-128 Norfolk Street</unittitle>
+          <unitdate datechar="creation" normal="1969/1972" type="inclusive">1969-1972</unitdate>
+          <container altrender="Record carton" id="aspace_3b6ea4b559cdd16de1f196dcd4fc63dd" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_7fab0bc4bf20a29aa8776f9d23cb76e7" parent="aspace_3b6ea4b559cdd16de1f196dcd4fc63dd" type="Folder">45-46</container>
+        </did>
+      </c>
+      <c id="aspace_ref45" level="file">
+        <did>
+          <unittitle>Antonina Previti</unittitle>
+          <unitdate datechar="creation" normal="1963/1964" type="inclusive">1963-1964</unitdate>
+          <container altrender="Record carton" id="aspace_a8c5bd724cc7f040d2135d9859831ebc" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_78f24fab9127a5b5b21732e420cb1d02" parent="aspace_a8c5bd724cc7f040d2135d9859831ebc" type="Folder">47</container>
+        </did>
+      </c>
+      <c id="aspace_ref46" level="file">
+        <did>
+          <unittitle>Erminio Ramos</unittitle>
+          <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+          <container altrender="Record carton" id="aspace_720e4a47f41d5b2555877319e44b3908" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_40e9153e5767b669c0dd2d6bbf61f838" parent="aspace_720e4a47f41d5b2555877319e44b3908" type="Folder">48</container>
+        </did>
+      </c>
+      <c id="aspace_ref47" level="file">
+        <did>
+          <unittitle>Registration Requests</unittitle>
+          <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+          <container altrender="Record carton" id="aspace_fe5daba99bc20847b7939a6d680f9e97" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_ee2eff83931ac9d7b39d90a3ecfcae6e" parent="aspace_fe5daba99bc20847b7939a6d680f9e97" type="Folder">49</container>
+        </did>
+      </c>
+      <c id="aspace_ref48" level="file">
+        <did>
+          <unittitle>Rent (Includes 176, 178, and 180 Avenue A)</unittitle>
+          <unitdate datechar="creation" normal="1937/1959" type="inclusive">1937-1959</unitdate>
+          <container altrender="Record carton" id="aspace_927552d13b30a91713ffadba0a549eaf" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_5ebf281bc9775eb8fbc297eb25a96b81" parent="aspace_927552d13b30a91713ffadba0a549eaf" type="Folder">50</container>
+        </did>
+      </c>
+      <c id="aspace_ref49" level="file">
+        <did>
+          <unittitle>Rent (Includes 176, 178, and 180 Avenue A, and 503 East 11th Street)</unittitle>
+          <unitdate datechar="creation" normal="1955/1958" type="inclusive">1955-1958</unitdate>
+          <container altrender="Record carton" id="aspace_09bb065c5e802e1cbf362cf3acb465d5" label="Mixed Materials [31142062747905]" type="Box">1</container>
+          <container id="aspace_cf0a7823f32bc7cd376e4f6f753799ef" parent="aspace_09bb065c5e802e1cbf362cf3acb465d5" type="Folder">51</container>
+        </did>
+      </c>
+      <c id="aspace_ref50" level="file">
+        <did>
+          <unittitle>Rent Histories</unittitle>
+          <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c51f52e4c688932114aa806fbb14d97b" label="Mixed Materials [31142062724771]" type="Box">2</container>
+          <container id="aspace_c303cfbdabfa5aeddfa506e89709d314" parent="aspace_c51f52e4c688932114aa806fbb14d97b" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref51" level="file">
+        <did>
+          <unittitle><title render="italic">Tenant News</title> (Metropolitan Council on Housing)</unittitle>
+          <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_315efc04dfedc1d1174bc4870c7d4118" label="Mixed Materials [31142062724771]" type="Box">2</container>
+          <container id="aspace_e429582fd3d843fd35f75b6790434042" parent="aspace_315efc04dfedc1d1174bc4870c7d4118" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref52" level="file">
+        <did>
+          <unittitle>Mak To</unittitle>
+          <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f784c3640132498a0fdf5560919dde4f" label="Mixed Materials [31142062724771]" type="Box">2</container>
+          <container id="aspace_991e57c7bf8bb6304eeb59842df9f258" parent="aspace_f784c3640132498a0fdf5560919dde4f" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref53" level="file">
+        <did>
+          <unittitle>252 East 7th Street</unittitle>
+          <unitdate datechar="creation" normal="1960/1964" type="inclusive">1960-1964</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_998204c2da34c2a36cab2f1b77d78927" label="Mixed Materials [31142062724771]" type="Box">2</container>
+          <container id="aspace_987cdbd178ee734060694f6f416c63bf" parent="aspace_998204c2da34c2a36cab2f1b77d78927" type="Folder">4-6</container>
+        </did>
+      </c>
+      <c id="aspace_ref54" level="file">
+        <did>
+          <unittitle>252 East 7th Street and other Correspondence  - AC385777</unittitle>
+          <unitdate datechar="creation" normal="1960/1961" type="inclusive">1960-1961</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6f2bb4731c9010473691379aa7e16e7d" label="Mixed Materials [31142062724771]" type="Box">2</container>
+          <container id="aspace_a666597fe16746db9960cebcac7a13d2" parent="aspace_6f2bb4731c9010473691379aa7e16e7d" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref55" level="file">
+        <did>
+          <unittitle>252 East 7th Street - Individual</unittitle>
+          <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_651bbc33ad9b04368c7c24a4e5bdec3f" label="Mixed Materials [31142062724771]" type="Box">2</container>
+          <container id="aspace_919c9dcf0fe847310da810b5284ec423" parent="aspace_651bbc33ad9b04368c7c24a4e5bdec3f" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref56" level="file">
+        <did>
+          <unittitle>252 East 7th Street - Individual Actions</unittitle>
+          <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_23018459cc2d7b66a5318317584f4e21" label="Mixed Materials [31142062724771]" type="Box">2</container>
+          <container id="aspace_c73a494b81a5e0be125999030bbe84bb" parent="aspace_23018459cc2d7b66a5318317584f4e21" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref57" level="file">
+        <did>
+          <unittitle>252 East 7th Street - Notebooks</unittitle>
+          <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7edd3a69754aa32160320a84c321b5d6" label="Mixed Materials [31142062724771]" type="Box">2</container>
+          <container id="aspace_32a9ce73defb10bd6c478263eeb532bf" parent="aspace_7edd3a69754aa32160320a84c321b5d6" type="Folder">10-11</container>
+        </did>
+      </c>
+      <c id="aspace_ref58" level="file">
+        <did>
+          <unittitle>252 East 7th Street - Tenants' Multiple Application for Decrease in Rent</unittitle>
+          <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_61813331ce6f8deeaff38919279c8e3b" label="Mixed Materials [31142062724771]" type="Box">2</container>
+          <container id="aspace_15e83922c9558edc8af4d3506f671d2f" parent="aspace_61813331ce6f8deeaff38919279c8e3b" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref59" level="file">
+        <did>
+          <unittitle>Valle et al (169-171 Allen Street)</unittitle>
+          <unitdate datechar="creation" normal="1958/1960" type="inclusive">1958-1960</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c09acad7e4e47cf106a3fd1c33d02696" label="Mixed Materials [31142062724771]" type="Box">2</container>
+          <container id="aspace_11de8a390018ea738a4544977cfaf2cb" parent="aspace_c09acad7e4e47cf106a3fd1c33d02696" type="Folder">13-14</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

@@ -1,58 +1,328 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_577">tam_577</eadid><filedesc><titlestmt><titleproper>Guide to the Clara Lemlich Papers <num>TAM.577</num></titleproper><author>Peter Meyer Filardo</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>5/4/2011</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:33:14 -0400</date>.</creation><langusage>Description is in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Clara Lemlich Papers</unittitle>
-    <origination label="Creator">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/tam_577">tam_577</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Clara Lemlich Papers <num>TAM.577</num></titleproper>
+        <author>Peter Meyer Filardo</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>5/4/2011</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:33:14 -0400</date>.</creation>
+      <langusage>Description is in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Clara Lemlich Papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Lemlich, Clara, 1886-1982</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Margules, Rita</persname>
+      </origination>
+      <unitid>TAM.577</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+        <extent altrender="carrier">in 4 manuscript boxes</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1909/1992" type="inclusive">circa 1909-1992</unitdate>
+      <abstract id="aspace_b0957847f6e6c1a51f572ade00f0f9d8">Clara Lemlich Shavelson (March 28, 1886 – July 25, 1982) was a leader of the Uprising of 20,000, the massive strike of shirtwaist workers in New York's garment industry in 1909. Later blacklisted from the industry for her labor union work, she became a member of the Communist Party USA and a consumer activist in Brooklyn, New York. The collection contains correspondence, clippings about Lemlich, a file on her death and commemoration, photocopies of a 1916 diary written in Russian and of a diary from a trip to the Soviet Union, Yiddish language clippings, a few brief writings by Lemlich, and memorabilia.</abstract>
+      <langmaterial id="aspace_b16814d8295f657f37ce31e0cff7b8bd">Materials are primarily in English, with some material in Russian and in Yiddish.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_21b62dcb8c1daae470b245a900ab7c50">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_ffc87a4adbddf01c1688ee68ca356108">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Rita Margules in 2011. The accession number associated with this gift is 2011.044.</p>
+    </acqinfo>
+    <arrangement id="aspace_7db9fe5120d4bd70000ee2c203da9d08">
+      <head>Arrangement</head>
+      <p>Papers are arranged alphabetically.</p>
+    </arrangement>
+    <bioghist id="aspace_4044718a18d1bb452e187b9b2b72a6ff">
+      <head>Historical/Biographical Note</head>
+      <p>Clara Lemlich Shavelson (March 28, 1886 – July 25, 1982) was a leader of the Uprising of 20,000, the massive strike of shirtwaist workers in New York's garment industry in 1909. Later blacklisted from the industry for her labor union work, she became a member of the Communist Party USA and a consumer activist in Brooklyn, New York. Born in the Ukraine to a Jewish family, she migrated to the U.S. in 2003. She became a garment worker, was elected to the executive board of Local 25 of the ILGWU (International Ladies' Garment Workers Union). Blacklisted from the garment industry, she founded the Wage Earners League, a working class suffragist organization. In 1913 she married Joseph Shavelson, and moved to Brooklyn. An early and lifelong member of the Communist Party USA, in 1929 she founded the United Council of Working Class Women (UCWCW), which led a 1935 boycott of butcher shops to protest meat prices. The UCWCW later became the Progressive Women's Councils, and was affiliated with the International Workers Order, a Communist-led ethnically based fraternal organization. After the dissolution of the IWO in 1952, Lemlich continued her activities in the Emma Lazarus Clubs, a Communist-led Jewish women's organization which she had helped to found in the 1930s, campaigning for unemployment relief, and later, tenants rights.</p>
+    </bioghist>
+    <prefercite id="aspace_a1d7a5940d68d983b35f173f8986385a">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: Identification of item, date; Clara Lemlich Papers; TAM 577; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <scopecontent id="aspace_3b7a02de7d9dc7361829d0f60565a61d">
+      <head>Scope and Contents</head>
+      <p>Contains correspondence (includes Morris Schappes), clippings about Lemlich, a file on her death and commemoration that includes several issuesof <emph render="italic">Jewish Currents</emph>, photocipies of a 1916 diary and of a diary from a 1961 trip to the Soviet Union, notebooks, several topical files, including one on the Meat Boycott of 1935, Yiddish language clippings, a few brief writings by Lemlich, union membership cards and other memorabilia, including two buttons featuring Lemlich, and throughout, printed ephemera from the Emma Lazarus Clubs. There is also one linear foot of photographs, principally of Lemlich and her family, as well as a few images from public events, some apparently dating to the 19th century, that comprise boxes 3-4 of the collection.</p>
+    </scopecontent>
+    <userestrict id="aspace_4edbf0482575f65d320c5791fde1a189">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (and related rights to publicity and privacy) to materials in this collection, created by Rita Margules, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <controlaccess>
+      <genreform source="aat">Notebooks</genreform>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Photographs.</genreform>
+      <subject source="lcsh">Community organization -- New York (N.Y.)</subject>
+      <subject source="lcsh">Jewish communists -- New York (State) -- New York.</subject>
       <persname source="naf">Lemlich, Clara, 1886-1982</persname>
-    </origination>
-    <origination label="source">
+      <corpname authfilenumber="(lccn)n00065624" source="naf">Emma Lazarus Federation of Jewish Women's Clubs</corpname>
+      <persname source="naf">Schappes, Morris U. (Morris Urman), 1907-2004</persname>
       <persname role="dnr" rules="dacs" source="local">Margules, Rita</persname>
-    </origination>
-    <unitid>TAM.577</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
-      <extent altrender="carrier">in 4 manuscript boxes</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1909/1992" type="inclusive">circa 1909-1992</unitdate>
-    <abstract id="aspace_b0957847f6e6c1a51f572ade00f0f9d8">Clara Lemlich Shavelson (March 28, 1886 – July 25, 1982) was a leader of the Uprising of 20,000, the massive strike of shirtwaist workers in New York's garment industry in 1909. Later blacklisted from the industry for her labor union work, she became a member of the Communist Party USA and a consumer activist in Brooklyn, New York. The collection contains correspondence, clippings about Lemlich, a file on her death and commemoration, photocopies of a 1916 diary written in Russian and of a diary from a trip to the Soviet Union, Yiddish language clippings, a few brief writings by Lemlich, and memorabilia.</abstract>
-    <langmaterial id="aspace_b16814d8295f657f37ce31e0cff7b8bd">Materials are primarily in English, with some material in Russian and in Yiddish.</langmaterial>
-  </did>
-  <accessrestrict id="aspace_21b62dcb8c1daae470b245a900ab7c50">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_ffc87a4adbddf01c1688ee68ca356108">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Rita Margules in 2011. The accession number associated with this gift is 2011.044.</p>  </acqinfo>
-  <arrangement id="aspace_7db9fe5120d4bd70000ee2c203da9d08">
-    <head>Arrangement</head>
-<p>Papers are arranged alphabetically.</p>  </arrangement>
-  <bioghist id="aspace_4044718a18d1bb452e187b9b2b72a6ff">
-    <head>Historical/Biographical Note</head>
-<p>Clara Lemlich Shavelson (March 28, 1886 – July 25, 1982) was a leader of the Uprising of 20,000, the massive strike of shirtwaist workers in New York's garment industry in 1909. Later blacklisted from the industry for her labor union work, she became a member of the Communist Party USA and a consumer activist in Brooklyn, New York. Born in the Ukraine to a Jewish family, she migrated to the U.S. in 2003. She became a garment worker, was elected to the executive board of Local 25 of the ILGWU (International Ladies' Garment Workers Union). Blacklisted from the garment industry, she founded the Wage Earners League, a working class suffragist organization. In 1913 she married Joseph Shavelson, and moved to Brooklyn. An early and lifelong member of the Communist Party USA, in 1929 she founded the United Council of Working Class Women (UCWCW), which led a 1935 boycott of butcher shops to protest meat prices. The UCWCW later became the Progressive Women's Councils, and was affiliated with the International Workers Order, a Communist-led ethnically based fraternal organization. After the dissolution of the IWO in 1952, Lemlich continued her activities in the Emma Lazarus Clubs, a Communist-led Jewish women's organization which she had helped to found in the 1930s, campaigning for unemployment relief, and later, tenants rights.</p>  </bioghist>
-  <prefercite id="aspace_a1d7a5940d68d983b35f173f8986385a">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: Identification of item, date; Clara Lemlich Papers; TAM 577; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <scopecontent id="aspace_3b7a02de7d9dc7361829d0f60565a61d">
-    <head>Scope and Contents</head>
-<p>Contains correspondence (includes Morris Schappes), clippings about Lemlich, a file on her death and commemoration that includes several issuesof <emph render="italic">Jewish Currents</emph>, photocipies of a 1916 diary and of a diary from a 1961 trip to the Soviet Union, notebooks, several topical files, including one on the Meat Boycott of 1935, Yiddish language clippings, a few brief writings by Lemlich, union membership cards and other memorabilia, including two buttons featuring Lemlich, and throughout, printed ephemera from the Emma Lazarus Clubs. There is also one linear foot of photographs, principally of Lemlich and her family, as well as a few images from public events, some apparently dating to the 19th century, that comprise boxes 3-4 of the collection.</p>  </scopecontent>
-  <userestrict id="aspace_4edbf0482575f65d320c5791fde1a189">
-    <head>Conditions Governing Use</head>
-<p>Copyright (and related rights to publicity and privacy) to materials in this collection, created by Rita Margules, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>  </userestrict>
-  <controlaccess>
-    <genreform source="aat">Notebooks</genreform>
-    <genreform source="aat">Clippings (information artifacts)</genreform>
-    <genreform source="aat">Correspondence.</genreform>
-    <genreform source="aat">Photographs.</genreform>
-    <subject source="lcsh">Community organization -- New York (N.Y.)</subject>
-    <subject source="lcsh">Jewish communists -- New York (State) -- New York.</subject>
-    <persname source="naf">Lemlich, Clara, 1886-1982</persname>
-    <corpname authfilenumber="(lccn)n00065624" source="naf">Emma Lazarus Federation of Jewish Women's Clubs</corpname>
-    <persname source="naf">Schappes, Morris U. (Morris Urman), 1907-2004</persname>
-    <persname role="dnr" rules="dacs" source="local">Margules, Rita</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref12" level="file"><did><unittitle>"Clara Lemlich: The Story of Half a Century" by Naomi Barko</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_a0ca6cbfbb0112dfa469862a17fe03a1" label="Mixed Materials [31142062723112]" type="Box">1</container><container id="aspace_581f10b802a6d9521920e4b2ef796134" parent="aspace_a0ca6cbfbb0112dfa469862a17fe03a1" type="Folder">1</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Correspondence re: Lemlich</unittitle><unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate><container altrender="Manuscript box - Legal" id="aspace_1421dd63783b910ff8b771460492e57a" label="Mixed Materials [31142062723112]" type="Box">1</container><container id="aspace_7dc69284be2f38d5c1bed64eba1ad4b5" parent="aspace_1421dd63783b910ff8b771460492e57a" type="Folder">2</container></did></c><c id="aspace_ref14" level="file"><did><unittitle>Correspondence: Joseph Shavelson</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_1073d2c27e254716ff24f9e3438a8fc7" label="Mixed Materials [31142062723112]" type="Box">1</container><container id="aspace_dab559beb47c5362c86b1f694d8cb45c" parent="aspace_1073d2c27e254716ff24f9e3438a8fc7" type="Folder">3</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Diary in Russian (photocopy)</unittitle><unitdate datechar="creation" normal="1916/1916" type="inclusive">1916</unitdate><container altrender="Manuscript box - Legal" id="aspace_5f1e3e069950020ce29507bcff9af07b" label="Mixed Materials [31142062723112]" type="Box">1</container><container id="aspace_c660221a83a06af46ffe2ffd5210f2b3" parent="aspace_5f1e3e069950020ce29507bcff9af07b" type="Folder">4</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Clippings re: Clara Lemlich</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_7e2c85574cf3abc79af729cfc2eb4c26" label="Mixed Materials [31142062723112]" type="Box">1</container><container id="aspace_22d3786c746a1edecf893aa141260acd" parent="aspace_7e2c85574cf3abc79af729cfc2eb4c26" type="Folder">5</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Lemlich Correspondence (includes Morris Schappes)</unittitle><unitdate datechar="creation" normal="1948/1974" type="inclusive">1948-1974</unitdate><container altrender="Manuscript box - Legal" id="aspace_b72496a34e1e22096a4508b0ccc52c50" label="Mixed Materials [31142062723112]" type="Box">1</container><container id="aspace_209c18a40101a4dbab6b527ad484495e" parent="aspace_b72496a34e1e22096a4508b0ccc52c50" type="Folder">6</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Correspondence: Grandchildren</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_75e4ed7f85935f97fa74a3ba26b6fd33" label="Mixed Materials [31142062723112]" type="Box">1</container><container id="aspace_f8aab2d0c3abf2fa29e9d8efc48b02bd" parent="aspace_75e4ed7f85935f97fa74a3ba26b6fd33" type="Folder">7</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Death</unittitle><unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate><container altrender="Manuscript box - Legal" id="aspace_00e86957954c3b15a69a2718c60e7478" label="Mixed Materials [31142062723112]" type="Box">1</container><container id="aspace_3df9fe23040b9d9575014aff0cb06d12" parent="aspace_00e86957954c3b15a69a2718c60e7478" type="Folder">8</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>50th Birthday Telegrams</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_05eb4194d4b6c4c9fd6b609fdfdde7df" label="Mixed Materials [31142062723112]" type="Box">1</container><container id="aspace_888ba5c3befb9d4ac91e6c5f220068dd" parent="aspace_05eb4194d4b6c4c9fd6b609fdfdde7df" type="Folder">9</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Emma Lazarus Clubs: Bread and Roses Too</unittitle><unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate><container altrender="Manuscript box - Legal" id="aspace_97b8805d1ac04f2adcf362c56054b5db" label="Mixed Materials [31142062723112]" type="Box">1</container><container id="aspace_219a47e8bff9d6fbe6054408d54e65c5" parent="aspace_97b8805d1ac04f2adcf362c56054b5db" type="Folder">10</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Financial Early Years</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_36fd286250b0ffdfa3ad8b70678163f1" label="Mixed Materials [31142062723112]" type="Box">1</container><container id="aspace_1f195a1c9a69b4528af25c8e8dcb532d" parent="aspace_36fd286250b0ffdfa3ad8b70678163f1" type="Folder">11</container></did></c><c id="aspace_ref23" level="file"><did><unittitle><emph render="italic">Jewish Currents</emph></unittitle><unitdate datechar="creation" normal="1975/1982" type="inclusive">1975-1982</unitdate><container altrender="Manuscript box - Legal" id="aspace_2058e8d6898434e24cb8ada673f19609" label="Mixed Materials [31142062723112]" type="Box">1</container><container id="aspace_f26ab3e97807421b0141801a04aab657" parent="aspace_2058e8d6898434e24cb8ada673f19609" type="Folder">12</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Membership Cards (Progressive Organizations)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_75b41bbb1cac0f7b09c2140f6930cb9d" label="Mixed Materials [31142062723112]" type="Box">1</container><container id="aspace_f923a763c3ae151c3dd161146637c704" parent="aspace_75b41bbb1cac0f7b09c2140f6930cb9d" type="Folder">13</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Meat and Bread Strike</unittitle><unitdate datechar="creation" normal="1936/1936" type="inclusive">1936</unitdate><container altrender="Manuscript box - Legal" id="aspace_61cf8834d4da173e3b1ea676759d7efb" label="Mixed Materials [31142062723112]" type="Box">1</container><container id="aspace_ed6bbe84948bb3c9bb6296bff050a5d6" parent="aspace_61cf8834d4da173e3b1ea676759d7efb" type="Folder">14</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Letters, Personal (to Family)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_5aab493dbd6e624654cd5b4728fe7109" label="Mixed Materials [31142062723112]" type="Box">1</container><container id="aspace_466e7802d8d0b85bf1a7130a56e7b909" parent="aspace_5aab493dbd6e624654cd5b4728fe7109" type="Folder">15</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>ILGWU Strike Clippings</unittitle><unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate><container altrender="Manuscript box - Legal" id="aspace_96b2741e281da5765b85f2c051dacebf" label="Mixed Materials [31142062723112]" type="Box">1</container><container id="aspace_bb2c82e2e1e693d779ee398adfe8efc5" parent="aspace_96b2741e281da5765b85f2c051dacebf" type="Folder">16</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>ILGWU Pension Fund Letters</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_8cddb46f55d89a67ae50cd754504ddfc" label="Mixed Materials [31142062723112]" type="Box">1</container><container id="aspace_7f42deec79af28a90bd80841ec6becfc" parent="aspace_8cddb46f55d89a67ae50cd754504ddfc" type="Folder">17</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Memorabilia</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_789603f02517238d5d651a4675fb9266" label="Mixed Materials [31142062723112]" type="Box">1</container><container id="aspace_12b9ec42a19b5bdb550546cf63c100d3" parent="aspace_789603f02517238d5d651a4675fb9266" type="Folder">18</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Miscellaneous Clips and Ephemera</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_4806ce5467812f0fa3d4bf87317467ae" label="Mixed Materials [31142062723120]" type="Box">2</container><container id="aspace_54dbdacd66f4006ca14cb6c177da5df6" parent="aspace_4806ce5467812f0fa3d4bf87317467ae" type="Folder">1</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Notes on Trip to Soviet Union (photocopy)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_ba0d79c8e7e2f2468c46555f5976c389" label="Mixed Materials [31142062723120]" type="Box">2</container><container id="aspace_ee7ff761a2af2915c53074dbca4c1fc1" parent="aspace_ba0d79c8e7e2f2468c46555f5976c389" type="Folder">2</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>New York State Assembly Campaign - 8th Congressional District</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_efba8060b997085e447542f478b9c09b" label="Mixed Materials [31142062723120]" type="Box">2</container><container id="aspace_4eb9fedefda2157472c12ee616a7fa64" parent="aspace_efba8060b997085e447542f478b9c09b" type="Folder">3</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Postcards</unittitle><unitdate datechar="creation" normal="1900/1959" type="inclusive">1900s-1950s</unitdate><container altrender="Manuscript box - Legal" id="aspace_e7ac1e63e9d6881fe407584f79804479" label="Mixed Materials [31142062723120]" type="Box">2</container><container id="aspace_21ed8aeac4fa5f8bc073beaba6783917" parent="aspace_e7ac1e63e9d6881fe407584f79804479" type="Folder">4</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Union Membership Cards</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_957fb615962c3a540d6cdf471b3048e8" label="Mixed Materials [31142062723120]" type="Box">2</container><container id="aspace_599ca097bddbff01bf691b743acf079d" parent="aspace_957fb615962c3a540d6cdf471b3048e8" type="Folder">5</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Yiddish Clippings</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_7fb7922e8c614455294a7006a01dbbbe" label="Mixed Materials [31142062723120]" type="Box">2</container><container id="aspace_3a5e76e9b9e4dd796e54208f6512c8b7" parent="aspace_7fb7922e8c614455294a7006a01dbbbe" type="Folder">6</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Yiddish Clippings: IWO Women Knitting Campaign</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_78851054092edfd438c08b969ab6fabe" label="Mixed Materials [31142062723120]" type="Box">2</container><container id="aspace_e410e1c692bb40ea1708d9971dcb9231" parent="aspace_78851054092edfd438c08b969ab6fabe" type="Folder">7</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Notebooks (2)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_6366cf09f4572c11504fdefa9a4dc657" label="Mixed Materials [31142062723120]" type="Box">2</container><container id="aspace_c8fbc9218bcd7bb404f1db9cb8f75062" parent="aspace_6366cf09f4572c11504fdefa9a4dc657" type="Folder">8</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Writings</unittitle><unitdate datechar="creation" normal="1950/1959" type="inclusive">1950s, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_4253329725ec04d6eb27903f3ebc74f3" label="Mixed Materials [31142062723120]" type="Box">2</container><container id="aspace_3e02f14cf3ba3e62194d8a31dcd4a044" parent="aspace_4253329725ec04d6eb27903f3ebc74f3" type="Folder">9</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Photographs of Clara Lemlich and Family</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_8df7218f9e06df909c40367c0844daa5" label="Mixed Materials [31142062723138]" type="Box">3</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Postcards and Photographs of Clara Lemlich, Friends, and Family</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_cddb7447b003802fb42aa2d386ef2e47" label="Mixed Materials [31142062723146]" type="Box">4</container></did></c></dsc>
-</archdesc>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref12" level="file">
+        <did>
+          <unittitle>"Clara Lemlich: The Story of Half a Century" by Naomi Barko</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a0ca6cbfbb0112dfa469862a17fe03a1" label="Mixed Materials [31142062723112]" type="Box">1</container>
+          <container id="aspace_581f10b802a6d9521920e4b2ef796134" parent="aspace_a0ca6cbfbb0112dfa469862a17fe03a1" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref13" level="file">
+        <did>
+          <unittitle>Correspondence re: Lemlich</unittitle>
+          <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1421dd63783b910ff8b771460492e57a" label="Mixed Materials [31142062723112]" type="Box">1</container>
+          <container id="aspace_7dc69284be2f38d5c1bed64eba1ad4b5" parent="aspace_1421dd63783b910ff8b771460492e57a" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref14" level="file">
+        <did>
+          <unittitle>Correspondence: Joseph Shavelson</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1073d2c27e254716ff24f9e3438a8fc7" label="Mixed Materials [31142062723112]" type="Box">1</container>
+          <container id="aspace_dab559beb47c5362c86b1f694d8cb45c" parent="aspace_1073d2c27e254716ff24f9e3438a8fc7" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref15" level="file">
+        <did>
+          <unittitle>Diary in Russian (photocopy)</unittitle>
+          <unitdate datechar="creation" normal="1916/1916" type="inclusive">1916</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5f1e3e069950020ce29507bcff9af07b" label="Mixed Materials [31142062723112]" type="Box">1</container>
+          <container id="aspace_c660221a83a06af46ffe2ffd5210f2b3" parent="aspace_5f1e3e069950020ce29507bcff9af07b" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref16" level="file">
+        <did>
+          <unittitle>Clippings re: Clara Lemlich</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7e2c85574cf3abc79af729cfc2eb4c26" label="Mixed Materials [31142062723112]" type="Box">1</container>
+          <container id="aspace_22d3786c746a1edecf893aa141260acd" parent="aspace_7e2c85574cf3abc79af729cfc2eb4c26" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref17" level="file">
+        <did>
+          <unittitle>Lemlich Correspondence (includes Morris Schappes)</unittitle>
+          <unitdate datechar="creation" normal="1948/1974" type="inclusive">1948-1974</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b72496a34e1e22096a4508b0ccc52c50" label="Mixed Materials [31142062723112]" type="Box">1</container>
+          <container id="aspace_209c18a40101a4dbab6b527ad484495e" parent="aspace_b72496a34e1e22096a4508b0ccc52c50" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref18" level="file">
+        <did>
+          <unittitle>Correspondence: Grandchildren</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_75e4ed7f85935f97fa74a3ba26b6fd33" label="Mixed Materials [31142062723112]" type="Box">1</container>
+          <container id="aspace_f8aab2d0c3abf2fa29e9d8efc48b02bd" parent="aspace_75e4ed7f85935f97fa74a3ba26b6fd33" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref19" level="file">
+        <did>
+          <unittitle>Death</unittitle>
+          <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_00e86957954c3b15a69a2718c60e7478" label="Mixed Materials [31142062723112]" type="Box">1</container>
+          <container id="aspace_3df9fe23040b9d9575014aff0cb06d12" parent="aspace_00e86957954c3b15a69a2718c60e7478" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref20" level="file">
+        <did>
+          <unittitle>50th Birthday Telegrams</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_05eb4194d4b6c4c9fd6b609fdfdde7df" label="Mixed Materials [31142062723112]" type="Box">1</container>
+          <container id="aspace_888ba5c3befb9d4ac91e6c5f220068dd" parent="aspace_05eb4194d4b6c4c9fd6b609fdfdde7df" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref21" level="file">
+        <did>
+          <unittitle>Emma Lazarus Clubs: Bread and Roses Too</unittitle>
+          <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_97b8805d1ac04f2adcf362c56054b5db" label="Mixed Materials [31142062723112]" type="Box">1</container>
+          <container id="aspace_219a47e8bff9d6fbe6054408d54e65c5" parent="aspace_97b8805d1ac04f2adcf362c56054b5db" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref22" level="file">
+        <did>
+          <unittitle>Financial Early Years</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_36fd286250b0ffdfa3ad8b70678163f1" label="Mixed Materials [31142062723112]" type="Box">1</container>
+          <container id="aspace_1f195a1c9a69b4528af25c8e8dcb532d" parent="aspace_36fd286250b0ffdfa3ad8b70678163f1" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref23" level="file">
+        <did>
+          <unittitle>
+            <emph render="italic">Jewish Currents</emph>
+          </unittitle>
+          <unitdate datechar="creation" normal="1975/1982" type="inclusive">1975-1982</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2058e8d6898434e24cb8ada673f19609" label="Mixed Materials [31142062723112]" type="Box">1</container>
+          <container id="aspace_f26ab3e97807421b0141801a04aab657" parent="aspace_2058e8d6898434e24cb8ada673f19609" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref24" level="file">
+        <did>
+          <unittitle>Membership Cards (Progressive Organizations)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_75b41bbb1cac0f7b09c2140f6930cb9d" label="Mixed Materials [31142062723112]" type="Box">1</container>
+          <container id="aspace_f923a763c3ae151c3dd161146637c704" parent="aspace_75b41bbb1cac0f7b09c2140f6930cb9d" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref25" level="file">
+        <did>
+          <unittitle>Meat and Bread Strike</unittitle>
+          <unitdate datechar="creation" normal="1936/1936" type="inclusive">1936</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_61cf8834d4da173e3b1ea676759d7efb" label="Mixed Materials [31142062723112]" type="Box">1</container>
+          <container id="aspace_ed6bbe84948bb3c9bb6296bff050a5d6" parent="aspace_61cf8834d4da173e3b1ea676759d7efb" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref26" level="file">
+        <did>
+          <unittitle>Letters, Personal (to Family)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5aab493dbd6e624654cd5b4728fe7109" label="Mixed Materials [31142062723112]" type="Box">1</container>
+          <container id="aspace_466e7802d8d0b85bf1a7130a56e7b909" parent="aspace_5aab493dbd6e624654cd5b4728fe7109" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref27" level="file">
+        <did>
+          <unittitle>ILGWU Strike Clippings</unittitle>
+          <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_96b2741e281da5765b85f2c051dacebf" label="Mixed Materials [31142062723112]" type="Box">1</container>
+          <container id="aspace_bb2c82e2e1e693d779ee398adfe8efc5" parent="aspace_96b2741e281da5765b85f2c051dacebf" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref28" level="file">
+        <did>
+          <unittitle>ILGWU Pension Fund Letters</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8cddb46f55d89a67ae50cd754504ddfc" label="Mixed Materials [31142062723112]" type="Box">1</container>
+          <container id="aspace_7f42deec79af28a90bd80841ec6becfc" parent="aspace_8cddb46f55d89a67ae50cd754504ddfc" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref29" level="file">
+        <did>
+          <unittitle>Memorabilia</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_789603f02517238d5d651a4675fb9266" label="Mixed Materials [31142062723112]" type="Box">1</container>
+          <container id="aspace_12b9ec42a19b5bdb550546cf63c100d3" parent="aspace_789603f02517238d5d651a4675fb9266" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref30" level="file">
+        <did>
+          <unittitle>Miscellaneous Clips and Ephemera</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4806ce5467812f0fa3d4bf87317467ae" label="Mixed Materials [31142062723120]" type="Box">2</container>
+          <container id="aspace_54dbdacd66f4006ca14cb6c177da5df6" parent="aspace_4806ce5467812f0fa3d4bf87317467ae" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref31" level="file">
+        <did>
+          <unittitle>Notes on Trip to Soviet Union (photocopy)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ba0d79c8e7e2f2468c46555f5976c389" label="Mixed Materials [31142062723120]" type="Box">2</container>
+          <container id="aspace_ee7ff761a2af2915c53074dbca4c1fc1" parent="aspace_ba0d79c8e7e2f2468c46555f5976c389" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref32" level="file">
+        <did>
+          <unittitle>New York State Assembly Campaign - 8th Congressional District</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_efba8060b997085e447542f478b9c09b" label="Mixed Materials [31142062723120]" type="Box">2</container>
+          <container id="aspace_4eb9fedefda2157472c12ee616a7fa64" parent="aspace_efba8060b997085e447542f478b9c09b" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref33" level="file">
+        <did>
+          <unittitle>Postcards</unittitle>
+          <unitdate datechar="creation" normal="1900/1959" type="inclusive">1900s-1950s</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e7ac1e63e9d6881fe407584f79804479" label="Mixed Materials [31142062723120]" type="Box">2</container>
+          <container id="aspace_21ed8aeac4fa5f8bc073beaba6783917" parent="aspace_e7ac1e63e9d6881fe407584f79804479" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref34" level="file">
+        <did>
+          <unittitle>Union Membership Cards</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_957fb615962c3a540d6cdf471b3048e8" label="Mixed Materials [31142062723120]" type="Box">2</container>
+          <container id="aspace_599ca097bddbff01bf691b743acf079d" parent="aspace_957fb615962c3a540d6cdf471b3048e8" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref35" level="file">
+        <did>
+          <unittitle>Yiddish Clippings</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7fb7922e8c614455294a7006a01dbbbe" label="Mixed Materials [31142062723120]" type="Box">2</container>
+          <container id="aspace_3a5e76e9b9e4dd796e54208f6512c8b7" parent="aspace_7fb7922e8c614455294a7006a01dbbbe" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref36" level="file">
+        <did>
+          <unittitle>Yiddish Clippings: IWO Women Knitting Campaign</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_78851054092edfd438c08b969ab6fabe" label="Mixed Materials [31142062723120]" type="Box">2</container>
+          <container id="aspace_e410e1c692bb40ea1708d9971dcb9231" parent="aspace_78851054092edfd438c08b969ab6fabe" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref37" level="file">
+        <did>
+          <unittitle>Notebooks (2)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6366cf09f4572c11504fdefa9a4dc657" label="Mixed Materials [31142062723120]" type="Box">2</container>
+          <container id="aspace_c8fbc9218bcd7bb404f1db9cb8f75062" parent="aspace_6366cf09f4572c11504fdefa9a4dc657" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref38" level="file">
+        <did>
+          <unittitle>Writings</unittitle>
+          <unitdate datechar="creation" normal="1950/1959" type="inclusive">1950s, undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4253329725ec04d6eb27903f3ebc74f3" label="Mixed Materials [31142062723120]" type="Box">2</container>
+          <container id="aspace_3e02f14cf3ba3e62194d8a31dcd4a044" parent="aspace_4253329725ec04d6eb27903f3ebc74f3" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref39" level="file">
+        <did>
+          <unittitle>Photographs of Clara Lemlich and Family</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8df7218f9e06df909c40367c0844daa5" label="Mixed Materials [31142062723138]" type="Box">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref40" level="file">
+        <did>
+          <unittitle>Postcards and Photographs of Clara Lemlich, Friends, and Family</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_cddb7447b003802fb42aa2d386ef2e47" label="Mixed Materials [31142062723146]" type="Box">4</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

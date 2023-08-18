@@ -1,76 +1,407 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_308">tam_308</eadid><filedesc><titlestmt><titleproper>Guide to the Walter Crane Drawings and Papers <num>TAM.308</num></titleproper><author>Peter Meyer Filardo</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:12:05 -0400</date>.</creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Walter Crane Drawings and Papers</unittitle>
-    <origination label="Creator">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/tam_308">tam_308</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Walter Crane Drawings and Papers <num>TAM.308</num></titleproper>
+        <author>Peter Meyer Filardo</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:12:05 -0400</date>.</creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Walter Crane Drawings and Papers</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="naf">Crane, Walter, 1845-1915</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" source="naf">Boni, Albert, 1892-1981</persname>
+      </origination>
+      <unitid>TAM.308</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+        <extent altrender="carrier">in 1 manuscript box and 1 oversize flat box.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1877/1963" type="inclusive">1877-1963</unitdate>
+      <unitdate datechar="creation" normal="1877/1925" type="bulk">1877-1925</unitdate>
+      <abstract id="aspace_a62f4e07363a7223fd85cb13671231a5">Walter Crane was a British artist, illustrator, author, socialist, and leading practitioner of the Arts and Crafts movement.  This collections consists of letters, postcards, illustrations, a scrapbook, and a manuscript entitled "The Architecture of Art."</abstract>
+      <langmaterial id="aspace_4f87a80196b916ec24f85ed4a8eba8ce">Materials are in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_78c180f9c942c2f03ad96bca12c21f22">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_6d040a91c69e437ae901586c4e92adc4">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Albert Boni, April 8, 1971, who purchased these items in December 1970 from H. M. Fletcher Rare Books (London). The accession number related to this gift is 1971.009.</p>
+    </acqinfo>
+    <arrangement id="aspace_67ff0c7abeab2465a8587c28b897e1b9">
+      <head>Arrangement</head>
+      <p>This collection is arranged into one series: Papers.  The series is arranged alphabetically.</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>I, Papers.</item>
+      </list>
+    </arrangement>
+    <bioghist id="aspace_3434052b39a6c540d68d31a757bfc0f8">
+      <head>Historical/Biographical Note</head>
+      <p>Walter Crane (1845-1915) was a British artist, illustrator, author, socialist, and leading practitioner of the Arts and Crafts movement.  His illustrations and political cartoons appeared widely in labor and socialist circles, including newspapers, literature, and printed ephemera.  Crane also provided illustrations for fine editions of classic and contemporary literature.  He also wrote on topics of art theory, including <emph render="italic">The Claims of Decorative Art</emph> (1892), in which he argued that art could not flourish in a society with an unfairly distribution of wealth.</p>
+    </bioghist>
+    <prefercite id="aspace_d6149fad66507342b7028926175ba0b0">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <processinfo id="aspace_5cb5f326ee96cfd4375de0aded545eed">
+      <head>Processing Information Note</head>
+      <p>Materials in this collection had previously been artificially separated into two collections: Drawings and Papers.  During processing, materials were integrated into one collection, due to the material's content and nature of the original donation.   Materials have been rehoused in acid-free folders and boxes.  Because of the variety of formats and sizes found in the collection, intellectual arrangement does not reflect physical arrangement in all instances.  Select items have received conservation treatment.</p>
+    </processinfo>
+    <scopecontent id="aspace_2de2dc9c5e9d73b3fec09d72b3d3624c">
+      <head>Scope and Content Note</head>
+      <p>The Walter Crane Drawings and Papers contains letters, postcards, illustrations, a scrapbook, and a manuscript concerning Crane's artistic endeavors and socialist beliefs.  Correspondence includes letters to Annie Besant, John Page Hopps, Harry Quilter, Edmund Russell, and various clients. Other materials include a poem; a memorial article; collection of socialist postcards; advertisements illustrated by Crane; a scrapbook containing several illustrated newspaper clippings; a manuscript entitled <emph render="italic">The Architecture of Art</emph> (1887); and the "Gesso Collection," a set of drawings and illustrations by Crane and others with accompanying notes concerning the use of gesso for preparing painting surfaces.</p>
+    </scopecontent>
+    <userestrict id="aspace_78e826b677954002801ed1fd8507da6e">
+      <head>Conditions Governing Use</head>
+      <p>Tamiment Library and Robert F. Wagner Labor Archive has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1879-1915, are expected to enter the public domain in 2070.</p>
+    </userestrict>
+    <controlaccess>
+      <genreform source="aat">Studies (visual works)</genreform>
+      <genreform source="aat">Postcards.</genreform>
+      <genreform source="aat">Scrapbooks.</genreform>
+      <genreform source="aat">Manuscripts for publication.</genreform>
+      <genreform source="aat">Drawings (visual works)</genreform>
+      <genreform source="aat">Illustrations (layout features).</genreform>
+      <genreform source="aat">Advertising cards</genreform>
+      <subject source="lcsh">Socialism and art -- Great Britain.</subject>
+      <subject source="lcsh">Gesso.</subject>
+      <subject source="lcsh">Decoration and ornament, Architectural.</subject>
+      <subject source="lcsh">Arts and crafts movement |z Great Britain.</subject>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <persname source="ingest">Russell, Edmund.</persname>
+      <persname source="naf">Quilter, Harry, 1851-1907</persname>
+      <persname source="naf">Hopps, John Page, 1834-1911</persname>
+      <persname source="naf">Besant, Annie, 1847-1933</persname>
       <persname rules="dacs" source="naf">Crane, Walter, 1845-1915</persname>
-    </origination>
-    <origination label="source">
       <persname role="dnr" source="naf">Boni, Albert, 1892-1981</persname>
-    </origination>
-    <unitid>TAM.308</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
-      <extent altrender="carrier">in 1 manuscript box and 1 oversize flat box.</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1877/1963" type="inclusive">1877-1963</unitdate>
-    <unitdate datechar="creation" normal="1877/1925" type="bulk">1877-1925</unitdate>
-    <abstract id="aspace_a62f4e07363a7223fd85cb13671231a5">Walter Crane was a British artist, illustrator, author, socialist, and leading practitioner of the Arts and Crafts movement.  This collections consists of letters, postcards, illustrations, a scrapbook, and a manuscript entitled "The Architecture of Art."</abstract>
-    <langmaterial id="aspace_4f87a80196b916ec24f85ed4a8eba8ce">Materials are in English.</langmaterial>
-  </did>
-  <accessrestrict id="aspace_78c180f9c942c2f03ad96bca12c21f22">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <acqinfo id="aspace_6d040a91c69e437ae901586c4e92adc4">
-    <head>Immediate Source of Acquisition</head>
-<p>Donated by Albert Boni, April 8, 1971, who purchased these items in December 1970 from H. M. Fletcher Rare Books (London). The accession number related to this gift is 1971.009.</p>  </acqinfo>
-  <arrangement id="aspace_67ff0c7abeab2465a8587c28b897e1b9">
-    <head>Arrangement</head>
-<p>This collection is arranged into one series: Papers.  The series is arranged alphabetically.</p>
-    <list type="ordered">
-      <head>Missing Title</head>
-      <item>I, Papers.</item>
-    </list>
-  </arrangement>
-  <bioghist id="aspace_3434052b39a6c540d68d31a757bfc0f8">
-    <head>Historical/Biographical Note</head>
-<p>Walter Crane (1845-1915) was a British artist, illustrator, author, socialist, and leading practitioner of the Arts and Crafts movement.  His illustrations and political cartoons appeared widely in labor and socialist circles, including newspapers, literature, and printed ephemera.  Crane also provided illustrations for fine editions of classic and contemporary literature.  He also wrote on topics of art theory, including <emph render="italic">The Claims of Decorative Art</emph> (1892), in which he argued that art could not flourish in a society with an unfairly distribution of wealth.</p>  </bioghist>
-  <prefercite id="aspace_d6149fad66507342b7028926175ba0b0">
-    <head>Preferred Citation</head>
-<p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>  </prefercite>
-  <processinfo id="aspace_5cb5f326ee96cfd4375de0aded545eed">
-    <head>Processing Information Note</head>
-<p>Materials in this collection had previously been artificially separated into two collections: Drawings and Papers.  During processing, materials were integrated into one collection, due to the material's content and nature of the original donation.   Materials have been rehoused in acid-free folders and boxes.  Because of the variety of formats and sizes found in the collection, intellectual arrangement does not reflect physical arrangement in all instances.  Select items have received conservation treatment.</p>  </processinfo>
-  <scopecontent id="aspace_2de2dc9c5e9d73b3fec09d72b3d3624c">
-    <head>Scope and Content Note</head>
-<p>The Walter Crane Drawings and Papers contains letters, postcards, illustrations, a scrapbook, and a manuscript concerning Crane's artistic endeavors and socialist beliefs.  Correspondence includes letters to Annie Besant, John Page Hopps, Harry Quilter, Edmund Russell, and various clients. Other materials include a poem; a memorial article; collection of socialist postcards; advertisements illustrated by Crane; a scrapbook containing several illustrated newspaper clippings; a manuscript entitled <emph render="italic">The Architecture of Art</emph> (1887); and the "Gesso Collection," a set of drawings and illustrations by Crane and others with accompanying notes concerning the use of gesso for preparing painting surfaces.</p>  </scopecontent>
-  <userestrict id="aspace_78e826b677954002801ed1fd8507da6e">
-    <head>Conditions Governing Use</head>
-<p>Tamiment Library and Robert F. Wagner Labor Archive has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1879-1915, are expected to enter the public domain in 2070.</p>  </userestrict>
-  <controlaccess>
-    <genreform source="aat">Studies (visual works)</genreform>
-    <genreform source="aat">Postcards.</genreform>
-    <genreform source="aat">Scrapbooks.</genreform>
-    <genreform source="aat">Manuscripts for publication.</genreform>
-    <genreform source="aat">Drawings (visual works)</genreform>
-    <genreform source="aat">Illustrations (layout features).</genreform>
-    <genreform source="aat">Advertising cards</genreform>
-    <subject source="lcsh">Socialism and art -- Great Britain.</subject>
-    <subject source="lcsh">Gesso.</subject>
-    <subject source="lcsh">Decoration and ornament, Architectural.</subject>
-    <subject source="lcsh">Arts and crafts movement |z Great Britain.</subject>
-    <genreform source="aat">Correspondence.</genreform>
-    <genreform source="aat">Clippings (information artifacts)</genreform>
-    <persname source="ingest">Russell, Edmund.</persname>
-    <persname source="naf">Quilter, Harry, 1851-1907</persname>
-    <persname source="naf">Hopps, John Page, 1834-1911</persname>
-    <persname source="naf">Besant, Annie, 1847-1933</persname>
-    <persname rules="dacs" source="naf">Crane, Walter, 1845-1915</persname>
-    <persname role="dnr" source="naf">Boni, Albert, 1892-1981</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref14" level="series"><did><unittitle>Series I: Papers.</unittitle><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_ref15" level="file"><did><unittitle><emph render="italic">The Architecture of Art</emph> Manuscript</unittitle><unitdate datechar="creation" normal="1877/1897" type="inclusive">ca.1887</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f133587fa1459f35f39cb045d16af16b" label="Mixed Materials [31142062733848]" type="Box">1</container><container id="aspace_8243096d13a2d3fcc00a58aa76e963ad" parent="aspace_f133587fa1459f35f39cb045d16af16b" type="Folder">1</container></did></c><c id="aspace_ref44" level="file"><did><unittitle><emph render="italic">Bases of Design</emph>: Chapter 1</unittitle><unitdate datechar="creation" normal="1902/1902" type="inclusive">circa 1902</unitdate><container altrender="Flat OS Box 17" id="aspace_a7635a4959d05e4b40b30345684bbf3d" label="Mixed Materials [31142062757342]" type="Box">2</container><container id="aspace_b70dc39feb81eff359e852979521a9e0" parent="aspace_a7635a4959d05e4b40b30345684bbf3d" type="Folder">2</container></did></c><c id="aspace_ref45" level="file"><did><unittitle><emph render="italic">Bases of Design</emph>: Chapter 2</unittitle><unitdate datechar="creation" normal="1902/1902" type="inclusive">circa 1902</unitdate><container altrender="Flat OS Box 17" id="aspace_9411987cad93607cb9c61401edbdfaf1" label="Mixed Materials [31142062757342]" type="Box">2</container><container id="aspace_451b5e5ca56215a2ed59bc8d1996318d" parent="aspace_9411987cad93607cb9c61401edbdfaf1" type="Folder">3</container></did></c><c id="aspace_ref46" level="file"><did><unittitle><emph render="italic">Bases of Design</emph>: Chapter 3</unittitle><unitdate datechar="creation" normal="1902/1902" type="inclusive">circa 1902</unitdate><container altrender="Flat OS Box 17" id="aspace_cab51a36a7af4cac6e56c01762bfa99d" label="Mixed Materials [31142062757342]" type="Box">2</container><container id="aspace_82693991358c965233cb4828f3cf0dc1" parent="aspace_cab51a36a7af4cac6e56c01762bfa99d" type="Folder">4</container></did></c><c id="aspace_ref47" level="file"><did><unittitle><emph render="italic">Bases of Design</emph>: Chapter 4</unittitle><unitdate datechar="creation" normal="1902/1902" type="inclusive">circa 1902</unitdate><container altrender="Flat OS Box 17" id="aspace_1656f1feebe44403518fce2356351e86" label="Mixed Materials [31142062757342]" type="Box">2</container><container id="aspace_514bfb0c0f351e60b60396fc8e7750a3" parent="aspace_1656f1feebe44403518fce2356351e86" type="Folder">5</container></did></c><c id="aspace_ref48" level="file"><did><unittitle><emph render="italic">Bases of Design</emph>: Chapter 5</unittitle><unitdate datechar="creation" normal="1902/1902" type="inclusive">circa 1902</unitdate><container altrender="Flat OS Box 17" id="aspace_c9794e4cfa8e8bee1f1b98090ff492aa" label="Mixed Materials [31142062757342]" type="Box">2</container><container id="aspace_0597a9c85c2b854c7a259616474e77b6" parent="aspace_c9794e4cfa8e8bee1f1b98090ff492aa" type="Folder">6</container></did></c><c id="aspace_ref49" level="file"><did><unittitle><emph render="italic">Bases of Design</emph>: Chapter 7</unittitle><unitdate datechar="creation" normal="1902/1902" type="inclusive">circa 1902</unitdate><container altrender="Flat OS Box 17" id="aspace_0ea1b7ab8ff21d29699d2f5fe303d65e" label="Mixed Materials [31142062757342]" type="Box">2</container><container id="aspace_d632b8c54ada2a9d0ab979cc81d5ec6e" parent="aspace_0ea1b7ab8ff21d29699d2f5fe303d65e" type="Folder">7</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Besant, Annie: Letters to</unittitle><unitdate datechar="creation" normal="1887/1904" type="inclusive">1887-1888 , 1904</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_b8229f5365d09e6efb1d4c3031df2731" label="Mixed Materials [31142062733848]" type="Box">1</container><container id="aspace_5acacbcb875a0d9847bac89654e48041" parent="aspace_b8229f5365d09e6efb1d4c3031df2731" type="Folder">2</container></did></c><c id="aspace_ref17" level="file"><did><unittitle>Bowers, Alfred: Letter to</unittitle><unitdate datechar="creation">Aug 15, 1893</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_085cd8515636924a41638e8a4705262d" label="Mixed Materials [31142062733848]" type="Box">1</container><container id="aspace_9125454b9bd2a9a752e8dc99e245daeb" parent="aspace_085cd8515636924a41638e8a4705262d" type="Folder">3</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Brown, C.and E.: Letter to </unittitle><unitdate datechar="creation" normal="1896/1896" type="inclusive">Mar 26, 1896</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_335ae0d3761e064f8a492c0d0b01b182" label="Mixed Materials [31142062733848]" type="Box">1</container><container id="aspace_cb7b58421bf1407d5e61f7fb08a9b3d4" parent="aspace_335ae0d3761e064f8a492c0d0b01b182" type="Folder">4</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Clippings containing drawings by Walter Crane</unittitle><unitdate datechar="creation" normal="1879/1963" type="inclusive">1952-1963 , Undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_48a38e33576585e336cbb3a4403b0985" label="Mixed Materials [31142062733848]" type="Box">1</container><container id="aspace_f491e797e9d04c15967156b546637567" parent="aspace_48a38e33576585e336cbb3a4403b0985" type="Folder">5</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>"Der Triumph der Arbeit"</unittitle><unitdate datechar="creation" normal="1891/1891" type="inclusive">1891</unitdate><container altrender="Oversize Folder - Full Case" id="aspace_f69c5ae5614279fbe31459e0d80809a5" label="Mixed Materials [31142062670131]" type="Flat-File-Folder">4</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>Foottit, Frederick F.</unittitle><unitdate datechar="creation" normal="1891/1891" type="inclusive">1891</unitdate><container altrender="Flat OS Box 17" id="aspace_b8a15763156e6bcc0abb264e7f4ac4d3" label="Mixed Materials [31142062757342]" type="Box">2</container><container id="aspace_631fecfdd85f27c19884b613b0af4751" parent="aspace_b8a15763156e6bcc0abb264e7f4ac4d3" type="Folder">10</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Gesso Collection: "The Dance" by Walter Crane</unittitle><unitdate datechar="creation" normal="1889/1889" type="inclusive">1889</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_241731b3cbad3196edbe6fdd9ab0aaaa" label="Mixed Materials [31142062733848]" type="Box">1</container><container id="aspace_a1452208994a6742b0b50053286546a9" parent="aspace_241731b3cbad3196edbe6fdd9ab0aaaa" type="Folder">6</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Gesso Collection: Illustrations, "The Treatment of Form in Gesso Decoration"</unittitle><unitdate datechar="creation" normal="1879/1915" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_c5eb1246024f09d258c48238720fec4f" label="Mixed Materials [31142062733848]" type="Box">1</container><container id="aspace_1edafce2de96ac821986e7d5d3be21dd" parent="aspace_c5eb1246024f09d258c48238720fec4f" type="Folder">7</container></did></c><c id="aspace_ref22" level="file"><did><unittitle>Gesso Collection: Illustration, "An Atlas of Astronomy" by Sir Robert Stawel Hall</unittitle><unitdate datechar="creation" normal="1892/1892" type="inclusive">1892</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_517af883afebb76b56f4db7a5c05e77d" label="Mixed Materials [31142062733848]" type="Box">1</container><container id="aspace_0954a835325bcd88f0899d0b9fc282af" parent="aspace_517af883afebb76b56f4db7a5c05e77d" type="Folder">8</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Gesso Collection: Illustration, "The Diamond Jubilee Commemoration of Her Majesty the Queen"</unittitle><unitdate datechar="creation" normal="1897/1897" type="inclusive">1897</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_efab6afae0988952b7b872e6433726ca" label="Mixed Materials [31142062733848]" type="Box">1</container><container id="aspace_a1e7257996db05c926cadf930fe81836" parent="aspace_efab6afae0988952b7b872e6433726ca" type="Folder">9</container></did></c><c id="aspace_ref24" level="file"><did><unittitle>Gesso Collection: Illustration, "The Treatment of Form in Gesso Decoration" </unittitle><unitdate datechar="creation" normal="1879/1915" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_d3014a2aaad6e7b621bf9cd41c7901bc" label="Mixed Materials [31142062733848]" type="Box">1</container><container id="aspace_382057992e753e14c84cfbc56b589f4b" parent="aspace_d3014a2aaad6e7b621bf9cd41c7901bc" type="Folder">10</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Gesso Collection: Illustration</unittitle><unitdate datechar="creation" normal="1879/1915" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_35903c4f2b0462954eff21ada8f4fea6" label="Mixed Materials [31142062733848]" type="Box">1</container><container id="aspace_486279b4c8095d49f44cefbe51a601be" parent="aspace_35903c4f2b0462954eff21ada8f4fea6" type="Folder">11</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Gesso Collection: Illustrations</unittitle><unitdate datechar="creation" normal="1879/1915" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_2c0d1cdf3ec3caee812c4e37854c98d5" label="Mixed Materials [31142062733848]" type="Box">1</container><container id="aspace_e30e50c39d2b563cac46c0bbf39ed361" parent="aspace_2c0d1cdf3ec3caee812c4e37854c98d5" type="Folder">12</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Gesso Collection: Notes on Gesso by Walter Crane</unittitle><unitdate datechar="creation" normal="1879/1915" type="inclusive">Feb 1893 , Undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_7e636ad9bf30c4cecac5f02caaf860b1" label="Mixed Materials [31142062733848]" type="Box">1</container><container id="aspace_d71b0632baba26ea38996c6a488ea453" parent="aspace_7e636ad9bf30c4cecac5f02caaf860b1" type="Folder">13</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Leaflet: "Children's Sunday," containing drawing by Walter Crane</unittitle><unitdate datechar="creation" normal="1912/1912" type="inclusive">1912</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_9a28a1166d8e15f6a56c23f060baa39e" label="Mixed Materials [31142062733848]" type="Box">1</container><container id="aspace_7dbdb31c953b5076eaf50e1e4f279275" parent="aspace_9a28a1166d8e15f6a56c23f060baa39e" type="Folder">14</container></did></c><c id="aspace_ref29" level="file"><did><unittitle>Nutt, W. D.: Letter to</unittitle><unitdate datechar="creation" normal="1901/1901" type="inclusive">Jan 4, 1901</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_65dc6296fc85c9044f387465c78efe44" label="Mixed Materials [31142062733848]" type="Box">1</container><container id="aspace_6978514262ba5257c71ee372a116078a" parent="aspace_65dc6296fc85c9044f387465c78efe44" type="Folder">15</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Postcards</unittitle><unitdate datechar="creation" normal="1879/1915" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_46e97197b730e87944228cbac97e4c78" label="Mixed Materials [31142062733848]" type="Box">1</container><container id="aspace_42260edd314eea01718b659ec2d01570" parent="aspace_46e97197b730e87944228cbac97e4c78" type="Folder">16</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Quilter, Harry: Letters to</unittitle><unitdate datechar="creation" normal="1888/1898" type="inclusive">1888-1889 , 1898</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_ea3f6c831493d6487d9866e083d0ee33" label="Mixed Materials [31142062733848]" type="Box">1</container><container id="aspace_c3f72477eee625b954279b7d9b8f29fd" parent="aspace_ea3f6c831493d6487d9866e083d0ee33" type="Folder">17</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Russell, Edmund: Letter to</unittitle><unitdate datechar="creation" normal="1890/1890" type="inclusive">Sep 22, 1890</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_3d86886887b2616bab83148b96ad94fd" label="Mixed Materials [31142062733848]" type="Box">1</container><container id="aspace_e2fc415381fd1d56360f77ef6723bf92" parent="aspace_3d86886887b2616bab83148b96ad94fd" type="Folder">18</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Scottish Widows' Fund Mutual Life Assurance Society Advertising Card, containing drawing by Walter Crane</unittitle><unitdate datechar="creation" normal="1879/1915" type="inclusive">Undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f82859f60281c79af9d720c8d158addd" label="Mixed Materials [31142062733848]" type="Box">1</container><container id="aspace_586c80234cb029ca46fb8437005c0781" parent="aspace_f82859f60281c79af9d720c8d158addd" type="Folder">19</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Scrapbook: Bifolio 1: "Dear Thomas"</unittitle><unitdate datechar="creation" normal="1898/1898" type="inclusive">Jun 24, 1898</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_0f40d251af9f10b50990ef9b49d6f01e" label="Mixed Materials [31142062733848]" type="Box">1</container><container id="aspace_85f9b701357ffd353b0e323c891aa86d" parent="aspace_0f40d251af9f10b50990ef9b49d6f01e" type="Folder">20</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Scrapbook: Bifolio 2: Clippings containing the poem and illustration, ""To Belgium" by Walter Crane</unittitle><unitdate datechar="creation" normal="1879/1924" type="inclusive">ca.1914 , Undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_cc373eb4fed6acf76397088ff217f423" label="Mixed Materials [31142062733848]" type="Box">1</container><container id="aspace_c36c25f63d4da8b4235dcf11890e4395" parent="aspace_cc373eb4fed6acf76397088ff217f423" type="Folder">21</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Scrapbook: Bifolio 3: Letters and Clippings</unittitle><unitdate datechar="creation" normal="1879/1925" type="inclusive">ca.1899-1915 , Undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_e50046fa8e67cb4651e5d0928bda59f1" label="Mixed Materials [31142062733848]" type="Box">1</container><container id="aspace_5477afb95f7463bffc1498e0027c7732" parent="aspace_e50046fa8e67cb4651e5d0928bda59f1" type="Folder">22</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Scrapbook: Letters</unittitle><unitdate datechar="creation" normal="1879/1915" type="inclusive">1879-1904 , Undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_761d38d17962a4f3ea6df0ce353871ae" label="Mixed Materials [31142062733848]" type="Box">1</container><container id="aspace_67980c861ca6fc2f2b1595b51124beac" parent="aspace_761d38d17962a4f3ea6df0ce353871ae" type="Folder">23</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>[Sherratt] and Hughes, Messrs : Letter to</unittitle><unitdate datechar="creation" normal="1900/1900" type="inclusive">Aug 18, 1900</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_612d26c56d1356b7ea933f7552891519" label="Mixed Materials [31142062733848]" type="Box">1</container><container id="aspace_cc1d69db5df3222f6bbd4e27b64f953b" parent="aspace_612d26c56d1356b7ea933f7552891519" type="Folder">24</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Studies of Drapery, Figure, and Costume (1 of 2 folders)</unittitle><unitdate datechar="creation" normal="1879/1915" type="inclusive">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_ef39e7b8e4330494b8782d10e64c9e2c" label="Mixed Materials [31142062757342]" type="Box">2</container><container id="aspace_501a7a6ad63824047ccc8637d7ed2c9c" parent="aspace_ef39e7b8e4330494b8782d10e64c9e2c" type="Folder">8</container></did></c><c id="aspace_ref51" level="file"><did><unittitle>Studies of Drapery, Figure, and Costume (2 of 2 folders)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Flat OS Box 17" id="aspace_2e6a3c6186d856c848f655d025884e6f" label="Mixed Materials [31142062757342]" type="Box">2</container><container id="aspace_317faee30c69f6521a8f790653312fa1" parent="aspace_2e6a3c6186d856c848f655d025884e6f" type="Folder">9</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>"Vive le Commune" drawing</unittitle><unitdate datechar="creation" normal="1887/1887" type="inclusive">1887</unitdate><container altrender="Flat OS Box 17" id="aspace_6c12d595416314ce54373101c60c225d" label="Mixed Materials [31142062757342]" type="Box">2</container><container id="aspace_e4aa5fd0456e8e678327a1e5e4a1a488" parent="aspace_6c12d595416314ce54373101c60c225d" type="Folder">1</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Wilshire, Gaylord</unittitle><unitdate datechar="creation" normal="1901/1901" type="inclusive">Sep 30, 1901</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_a21bab4a56750dc9750b88d8462ddc8a" label="Mixed Materials [31142062733848]" type="Box">1</container><container id="aspace_c6e3e6e60a66431721446bd64eac995c" parent="aspace_a21bab4a56750dc9750b88d8462ddc8a" type="Folder">25</container></did></c></c></dsc>
-</archdesc>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref14" level="series">
+        <did>
+          <unittitle>Series I: Papers.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle><emph render="italic">The Architecture of Art</emph> Manuscript</unittitle>
+            <unitdate datechar="creation" normal="1877/1897" type="inclusive">ca.1887</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_f133587fa1459f35f39cb045d16af16b" label="Mixed Materials [31142062733848]" type="Box">1</container>
+            <container id="aspace_8243096d13a2d3fcc00a58aa76e963ad" parent="aspace_f133587fa1459f35f39cb045d16af16b" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle><emph render="italic">Bases of Design</emph>: Chapter 1</unittitle>
+            <unitdate datechar="creation" normal="1902/1902" type="inclusive">circa 1902</unitdate>
+            <container altrender="Flat OS Box 17" id="aspace_a7635a4959d05e4b40b30345684bbf3d" label="Mixed Materials [31142062757342]" type="Box">2</container>
+            <container id="aspace_b70dc39feb81eff359e852979521a9e0" parent="aspace_a7635a4959d05e4b40b30345684bbf3d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle><emph render="italic">Bases of Design</emph>: Chapter 2</unittitle>
+            <unitdate datechar="creation" normal="1902/1902" type="inclusive">circa 1902</unitdate>
+            <container altrender="Flat OS Box 17" id="aspace_9411987cad93607cb9c61401edbdfaf1" label="Mixed Materials [31142062757342]" type="Box">2</container>
+            <container id="aspace_451b5e5ca56215a2ed59bc8d1996318d" parent="aspace_9411987cad93607cb9c61401edbdfaf1" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle><emph render="italic">Bases of Design</emph>: Chapter 3</unittitle>
+            <unitdate datechar="creation" normal="1902/1902" type="inclusive">circa 1902</unitdate>
+            <container altrender="Flat OS Box 17" id="aspace_cab51a36a7af4cac6e56c01762bfa99d" label="Mixed Materials [31142062757342]" type="Box">2</container>
+            <container id="aspace_82693991358c965233cb4828f3cf0dc1" parent="aspace_cab51a36a7af4cac6e56c01762bfa99d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle><emph render="italic">Bases of Design</emph>: Chapter 4</unittitle>
+            <unitdate datechar="creation" normal="1902/1902" type="inclusive">circa 1902</unitdate>
+            <container altrender="Flat OS Box 17" id="aspace_1656f1feebe44403518fce2356351e86" label="Mixed Materials [31142062757342]" type="Box">2</container>
+            <container id="aspace_514bfb0c0f351e60b60396fc8e7750a3" parent="aspace_1656f1feebe44403518fce2356351e86" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle><emph render="italic">Bases of Design</emph>: Chapter 5</unittitle>
+            <unitdate datechar="creation" normal="1902/1902" type="inclusive">circa 1902</unitdate>
+            <container altrender="Flat OS Box 17" id="aspace_c9794e4cfa8e8bee1f1b98090ff492aa" label="Mixed Materials [31142062757342]" type="Box">2</container>
+            <container id="aspace_0597a9c85c2b854c7a259616474e77b6" parent="aspace_c9794e4cfa8e8bee1f1b98090ff492aa" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle><emph render="italic">Bases of Design</emph>: Chapter 7</unittitle>
+            <unitdate datechar="creation" normal="1902/1902" type="inclusive">circa 1902</unitdate>
+            <container altrender="Flat OS Box 17" id="aspace_0ea1b7ab8ff21d29699d2f5fe303d65e" label="Mixed Materials [31142062757342]" type="Box">2</container>
+            <container id="aspace_d632b8c54ada2a9d0ab979cc81d5ec6e" parent="aspace_0ea1b7ab8ff21d29699d2f5fe303d65e" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Besant, Annie: Letters to</unittitle>
+            <unitdate datechar="creation" normal="1887/1904" type="inclusive">1887-1888 , 1904</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_b8229f5365d09e6efb1d4c3031df2731" label="Mixed Materials [31142062733848]" type="Box">1</container>
+            <container id="aspace_5acacbcb875a0d9847bac89654e48041" parent="aspace_b8229f5365d09e6efb1d4c3031df2731" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Bowers, Alfred: Letter to</unittitle>
+            <unitdate datechar="creation">Aug 15, 1893</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_085cd8515636924a41638e8a4705262d" label="Mixed Materials [31142062733848]" type="Box">1</container>
+            <container id="aspace_9125454b9bd2a9a752e8dc99e245daeb" parent="aspace_085cd8515636924a41638e8a4705262d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Brown, C.and E.: Letter to </unittitle>
+            <unitdate datechar="creation" normal="1896/1896" type="inclusive">Mar 26, 1896</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_335ae0d3761e064f8a492c0d0b01b182" label="Mixed Materials [31142062733848]" type="Box">1</container>
+            <container id="aspace_cb7b58421bf1407d5e61f7fb08a9b3d4" parent="aspace_335ae0d3761e064f8a492c0d0b01b182" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Clippings containing drawings by Walter Crane</unittitle>
+            <unitdate datechar="creation" normal="1879/1963" type="inclusive">1952-1963 , Undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_48a38e33576585e336cbb3a4403b0985" label="Mixed Materials [31142062733848]" type="Box">1</container>
+            <container id="aspace_f491e797e9d04c15967156b546637567" parent="aspace_48a38e33576585e336cbb3a4403b0985" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>"Der Triumph der Arbeit"</unittitle>
+            <unitdate datechar="creation" normal="1891/1891" type="inclusive">1891</unitdate>
+            <container altrender="Oversize Folder - Full Case" id="aspace_f69c5ae5614279fbe31459e0d80809a5" label="Mixed Materials [31142062670131]" type="Flat-File-Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Foottit, Frederick F.</unittitle>
+            <unitdate datechar="creation" normal="1891/1891" type="inclusive">1891</unitdate>
+            <container altrender="Flat OS Box 17" id="aspace_b8a15763156e6bcc0abb264e7f4ac4d3" label="Mixed Materials [31142062757342]" type="Box">2</container>
+            <container id="aspace_631fecfdd85f27c19884b613b0af4751" parent="aspace_b8a15763156e6bcc0abb264e7f4ac4d3" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Gesso Collection: "The Dance" by Walter Crane</unittitle>
+            <unitdate datechar="creation" normal="1889/1889" type="inclusive">1889</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_241731b3cbad3196edbe6fdd9ab0aaaa" label="Mixed Materials [31142062733848]" type="Box">1</container>
+            <container id="aspace_a1452208994a6742b0b50053286546a9" parent="aspace_241731b3cbad3196edbe6fdd9ab0aaaa" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Gesso Collection: Illustrations, "The Treatment of Form in Gesso Decoration"</unittitle>
+            <unitdate datechar="creation" normal="1879/1915" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_c5eb1246024f09d258c48238720fec4f" label="Mixed Materials [31142062733848]" type="Box">1</container>
+            <container id="aspace_1edafce2de96ac821986e7d5d3be21dd" parent="aspace_c5eb1246024f09d258c48238720fec4f" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Gesso Collection: Illustration, "An Atlas of Astronomy" by Sir Robert Stawel Hall</unittitle>
+            <unitdate datechar="creation" normal="1892/1892" type="inclusive">1892</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_517af883afebb76b56f4db7a5c05e77d" label="Mixed Materials [31142062733848]" type="Box">1</container>
+            <container id="aspace_0954a835325bcd88f0899d0b9fc282af" parent="aspace_517af883afebb76b56f4db7a5c05e77d" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Gesso Collection: Illustration, "The Diamond Jubilee Commemoration of Her Majesty the Queen"</unittitle>
+            <unitdate datechar="creation" normal="1897/1897" type="inclusive">1897</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_efab6afae0988952b7b872e6433726ca" label="Mixed Materials [31142062733848]" type="Box">1</container>
+            <container id="aspace_a1e7257996db05c926cadf930fe81836" parent="aspace_efab6afae0988952b7b872e6433726ca" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Gesso Collection: Illustration, "The Treatment of Form in Gesso Decoration" </unittitle>
+            <unitdate datechar="creation" normal="1879/1915" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_d3014a2aaad6e7b621bf9cd41c7901bc" label="Mixed Materials [31142062733848]" type="Box">1</container>
+            <container id="aspace_382057992e753e14c84cfbc56b589f4b" parent="aspace_d3014a2aaad6e7b621bf9cd41c7901bc" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Gesso Collection: Illustration</unittitle>
+            <unitdate datechar="creation" normal="1879/1915" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_35903c4f2b0462954eff21ada8f4fea6" label="Mixed Materials [31142062733848]" type="Box">1</container>
+            <container id="aspace_486279b4c8095d49f44cefbe51a601be" parent="aspace_35903c4f2b0462954eff21ada8f4fea6" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Gesso Collection: Illustrations</unittitle>
+            <unitdate datechar="creation" normal="1879/1915" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_2c0d1cdf3ec3caee812c4e37854c98d5" label="Mixed Materials [31142062733848]" type="Box">1</container>
+            <container id="aspace_e30e50c39d2b563cac46c0bbf39ed361" parent="aspace_2c0d1cdf3ec3caee812c4e37854c98d5" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Gesso Collection: Notes on Gesso by Walter Crane</unittitle>
+            <unitdate datechar="creation" normal="1879/1915" type="inclusive">Feb 1893 , Undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_7e636ad9bf30c4cecac5f02caaf860b1" label="Mixed Materials [31142062733848]" type="Box">1</container>
+            <container id="aspace_d71b0632baba26ea38996c6a488ea453" parent="aspace_7e636ad9bf30c4cecac5f02caaf860b1" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Leaflet: "Children's Sunday," containing drawing by Walter Crane</unittitle>
+            <unitdate datechar="creation" normal="1912/1912" type="inclusive">1912</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_9a28a1166d8e15f6a56c23f060baa39e" label="Mixed Materials [31142062733848]" type="Box">1</container>
+            <container id="aspace_7dbdb31c953b5076eaf50e1e4f279275" parent="aspace_9a28a1166d8e15f6a56c23f060baa39e" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Nutt, W. D.: Letter to</unittitle>
+            <unitdate datechar="creation" normal="1901/1901" type="inclusive">Jan 4, 1901</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_65dc6296fc85c9044f387465c78efe44" label="Mixed Materials [31142062733848]" type="Box">1</container>
+            <container id="aspace_6978514262ba5257c71ee372a116078a" parent="aspace_65dc6296fc85c9044f387465c78efe44" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Postcards</unittitle>
+            <unitdate datechar="creation" normal="1879/1915" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_46e97197b730e87944228cbac97e4c78" label="Mixed Materials [31142062733848]" type="Box">1</container>
+            <container id="aspace_42260edd314eea01718b659ec2d01570" parent="aspace_46e97197b730e87944228cbac97e4c78" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Quilter, Harry: Letters to</unittitle>
+            <unitdate datechar="creation" normal="1888/1898" type="inclusive">1888-1889 , 1898</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_ea3f6c831493d6487d9866e083d0ee33" label="Mixed Materials [31142062733848]" type="Box">1</container>
+            <container id="aspace_c3f72477eee625b954279b7d9b8f29fd" parent="aspace_ea3f6c831493d6487d9866e083d0ee33" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Russell, Edmund: Letter to</unittitle>
+            <unitdate datechar="creation" normal="1890/1890" type="inclusive">Sep 22, 1890</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_3d86886887b2616bab83148b96ad94fd" label="Mixed Materials [31142062733848]" type="Box">1</container>
+            <container id="aspace_e2fc415381fd1d56360f77ef6723bf92" parent="aspace_3d86886887b2616bab83148b96ad94fd" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Scottish Widows' Fund Mutual Life Assurance Society Advertising Card, containing drawing by Walter Crane</unittitle>
+            <unitdate datechar="creation" normal="1879/1915" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_f82859f60281c79af9d720c8d158addd" label="Mixed Materials [31142062733848]" type="Box">1</container>
+            <container id="aspace_586c80234cb029ca46fb8437005c0781" parent="aspace_f82859f60281c79af9d720c8d158addd" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Scrapbook: Bifolio 1: "Dear Thomas"</unittitle>
+            <unitdate datechar="creation" normal="1898/1898" type="inclusive">Jun 24, 1898</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_0f40d251af9f10b50990ef9b49d6f01e" label="Mixed Materials [31142062733848]" type="Box">1</container>
+            <container id="aspace_85f9b701357ffd353b0e323c891aa86d" parent="aspace_0f40d251af9f10b50990ef9b49d6f01e" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Scrapbook: Bifolio 2: Clippings containing the poem and illustration, ""To Belgium" by Walter Crane</unittitle>
+            <unitdate datechar="creation" normal="1879/1924" type="inclusive">ca.1914 , Undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_cc373eb4fed6acf76397088ff217f423" label="Mixed Materials [31142062733848]" type="Box">1</container>
+            <container id="aspace_c36c25f63d4da8b4235dcf11890e4395" parent="aspace_cc373eb4fed6acf76397088ff217f423" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Scrapbook: Bifolio 3: Letters and Clippings</unittitle>
+            <unitdate datechar="creation" normal="1879/1925" type="inclusive">ca.1899-1915 , Undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_e50046fa8e67cb4651e5d0928bda59f1" label="Mixed Materials [31142062733848]" type="Box">1</container>
+            <container id="aspace_5477afb95f7463bffc1498e0027c7732" parent="aspace_e50046fa8e67cb4651e5d0928bda59f1" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Scrapbook: Letters</unittitle>
+            <unitdate datechar="creation" normal="1879/1915" type="inclusive">1879-1904 , Undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_761d38d17962a4f3ea6df0ce353871ae" label="Mixed Materials [31142062733848]" type="Box">1</container>
+            <container id="aspace_67980c861ca6fc2f2b1595b51124beac" parent="aspace_761d38d17962a4f3ea6df0ce353871ae" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>[Sherratt] and Hughes, Messrs : Letter to</unittitle>
+            <unitdate datechar="creation" normal="1900/1900" type="inclusive">Aug 18, 1900</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_612d26c56d1356b7ea933f7552891519" label="Mixed Materials [31142062733848]" type="Box">1</container>
+            <container id="aspace_cc1d69db5df3222f6bbd4e27b64f953b" parent="aspace_612d26c56d1356b7ea933f7552891519" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Studies of Drapery, Figure, and Costume (1 of 2 folders)</unittitle>
+            <unitdate datechar="creation" normal="1879/1915" type="inclusive">undated</unitdate>
+            <container altrender="Flat OS Box 17" id="aspace_ef39e7b8e4330494b8782d10e64c9e2c" label="Mixed Materials [31142062757342]" type="Box">2</container>
+            <container id="aspace_501a7a6ad63824047ccc8637d7ed2c9c" parent="aspace_ef39e7b8e4330494b8782d10e64c9e2c" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Studies of Drapery, Figure, and Costume (2 of 2 folders)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat OS Box 17" id="aspace_2e6a3c6186d856c848f655d025884e6f" label="Mixed Materials [31142062757342]" type="Box">2</container>
+            <container id="aspace_317faee30c69f6521a8f790653312fa1" parent="aspace_2e6a3c6186d856c848f655d025884e6f" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>"Vive le Commune" drawing</unittitle>
+            <unitdate datechar="creation" normal="1887/1887" type="inclusive">1887</unitdate>
+            <container altrender="Flat OS Box 17" id="aspace_6c12d595416314ce54373101c60c225d" label="Mixed Materials [31142062757342]" type="Box">2</container>
+            <container id="aspace_e4aa5fd0456e8e678327a1e5e4a1a488" parent="aspace_6c12d595416314ce54373101c60c225d" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Wilshire, Gaylord</unittitle>
+            <unitdate datechar="creation" normal="1901/1901" type="inclusive">Sep 30, 1901</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_a21bab4a56750dc9750b88d8462ddc8a" label="Mixed Materials [31142062733848]" type="Box">1</container>
+            <container id="aspace_c6e3e6e60a66431721446bd64eac995c" parent="aspace_a21bab4a56750dc9750b88d8462ddc8a" type="Folder">25</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>

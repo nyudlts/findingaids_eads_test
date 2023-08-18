@@ -1,75 +1,578 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="https://findingaids.library.nyu.edu/tamwag/tam_056_007">tam_056_007</eadid><filedesc><titlestmt><titleproper>Guide to the Socialist Aldermen Papers <num>TAM.056.007</num></titleproper><author>Tamiment Staff</author></titlestmt><editionstmt><p>This version was derived from Socialist Aldermen Guide.doc</p></editionstmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><p><date>2009</date></p><address><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>Business Number: (212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline><addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:36:03 -0400</date>.</creation><langusage>Finding aid written in English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>April 2019</date><item>Updated by Amy C. Vo for compliance with DACS and ACM Required Elements for Archival Description</item></change></revisiondesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
-    </repository>
-    <unittitle>Socialist Aldermen Papers</unittitle>
-    <origination label="Creator">
-      <corpname authfilenumber="(lccn)n83029502" source="naf">New York (N.Y.). Board of Aldermen</corpname>
-    </origination>
-    <unitid>TAM.056.007</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
-      <extent altrender="carrier">in 2 manuscript boxes.</extent>
-    </physdesc>
-    <unitdate datechar="creation" normal="1910/1920" type="inclusive">1910-1920</unitdate>
-    <unitdate datechar="creation" normal="1917/1920" type="bulk">1917-1920</unitdate>
-    <abstract id="aspace_dc578aecc00cba19b5ea92e14b377867">From 1917 to 1920, seven prominent socialists were elected on the Socialist Party ticket to serve on the New York City Board of Aldermen. The collection contains correspondence and subject files.</abstract>
-    <physloc id="aspace_02b65d3451527f224394b95926d67dcd">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
-    <langmaterial id="aspace_b1e1e5fcf15ba522b624b778f1ec44f4">Materials are in English.</langmaterial>
-  </did>
-  <phystech id="aspace_50b777ccad6242cdfa7d7d9f980eb5ee">
-    <head>Physical Characteristics and Technical Requirements</head>
-<p>Due to the fragile nature of the original materials, researchers must use the microfilmed version; microfilm call number is Film R-7124, Reel 11.</p>  </phystech>
-  <acqinfo id="aspace_9d8f3415f0c21cef78f2f1374508e6b8">
-    <head>Immediate Source of Acquisition</head>
-<p>Transferred from the Rand School Archives, 1962. The accession number associated with this collection is 1962.008.</p>  </acqinfo>
-  <accessrestrict id="aspace_68746ed97b4b4556f8c297bf838a245d">
-    <head>Conditions Governing Access</head>
-<p>Materials are open without restrictions.</p>  </accessrestrict>
-  <bioghist id="aspace_cb75134b51f7a959cc327f0e125c380d">
-    <head>Historical Note</head>
-<p>From 1917 to 1920, seven prominent socialists were elected to serve on the New York City Board of Aldermen. This delegation consisted of Abraham Beckerman, Alexander Braunstein, Adolph Held, Maurice S. Kalman, Algernon Lee, B. Charney Vladeck, and Barnet Wolff, with Charles Solomon serving as, executive secretary and Evans Clark serving as director. These aldermen sponsored research projects relating to various urban problems in New York City and drafted legislation concerning municipal ownership. During this period, the socialist aldermen worked diligently to implement many of the programs that had been advocated by the New York Socialist Party locals for a number of years. While most of these proposals were initially defeated, several socialist measures, including public ownership of mass transportation and administrative control over housing and the school lunch program, were finally adopted in the 1930s and 1940s.</p>  </bioghist>
-  <scopecontent id="aspace_9b042d335f14e47b75e0792b5378e48d">
-    <head>Scope and Contents</head>
-<p>The Socialist Aldermen Papers, 1917-1920, consist of 19 subject files and 16 files of correspondence. The subject files are first arranged alphabetically according to the title of the file and then chronologically within each file. Each file has been assigned a microfilm frame number, with the subject files receiving numbers 1-19 and the correspondence receiving numbers 20-35. In a representative frame number (VII:2), the number 2 indicates that this is the 2nd frame, and the roman numeral VII indicates that the Socialist Alderman Papers are the 7th collection within the microfilm publication Socialist Collections in the Tamiment Library, 1872-1956.</p>  </scopecontent>
-  <arrangement id="aspace_fa9331fbccb0bfb34ad578fb07ba6b7d">
-    <head>Arrangement</head>
-<p>Organized into three series: 
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://findingaids.library.nyu.edu/tamwag/tam_056_007">tam_056_007</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Socialist Aldermen Papers <num>TAM.056.007</num></titleproper>
+        <author>Tamiment Staff</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from Socialist Aldermen Guide.doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>Business Number: (212) 998-2596</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-12 07:36:03 -0400</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>April 2019</date>
+        <item>Updated by Amy C. Vo for compliance with DACS and ACM Required Elements for Archival Description</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Socialist Aldermen Papers</unittitle>
+      <origination label="Creator">
+        <corpname authfilenumber="(lccn)n83029502" source="naf">New York (N.Y.). Board of Aldermen</corpname>
+      </origination>
+      <unitid>TAM.056.007</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+        <extent altrender="carrier">in 2 manuscript boxes.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1910/1920" type="inclusive">1910-1920</unitdate>
+      <unitdate datechar="creation" normal="1917/1920" type="bulk">1917-1920</unitdate>
+      <abstract id="aspace_dc578aecc00cba19b5ea92e14b377867">From 1917 to 1920, seven prominent socialists were elected on the Socialist Party ticket to serve on the New York City Board of Aldermen. The collection contains correspondence and subject files.</abstract>
+      <physloc id="aspace_02b65d3451527f224394b95926d67dcd">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_b1e1e5fcf15ba522b624b778f1ec44f4">Materials are in English.</langmaterial>
+    </did>
+    <phystech id="aspace_50b777ccad6242cdfa7d7d9f980eb5ee">
+      <head>Physical Characteristics and Technical Requirements</head>
+      <p>Due to the fragile nature of the original materials, researchers must use the microfilmed version; microfilm call number is Film R-7124, Reel 11.</p>
+    </phystech>
+    <acqinfo id="aspace_9d8f3415f0c21cef78f2f1374508e6b8">
+      <head>Immediate Source of Acquisition</head>
+      <p>Transferred from the Rand School Archives, 1962. The accession number associated with this collection is 1962.008.</p>
+    </acqinfo>
+    <accessrestrict id="aspace_68746ed97b4b4556f8c297bf838a245d">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <bioghist id="aspace_cb75134b51f7a959cc327f0e125c380d">
+      <head>Historical Note</head>
+      <p>From 1917 to 1920, seven prominent socialists were elected to serve on the New York City Board of Aldermen. This delegation consisted of Abraham Beckerman, Alexander Braunstein, Adolph Held, Maurice S. Kalman, Algernon Lee, B. Charney Vladeck, and Barnet Wolff, with Charles Solomon serving as, executive secretary and Evans Clark serving as director. These aldermen sponsored research projects relating to various urban problems in New York City and drafted legislation concerning municipal ownership. During this period, the socialist aldermen worked diligently to implement many of the programs that had been advocated by the New York Socialist Party locals for a number of years. While most of these proposals were initially defeated, several socialist measures, including public ownership of mass transportation and administrative control over housing and the school lunch program, were finally adopted in the 1930s and 1940s.</p>
+    </bioghist>
+    <scopecontent id="aspace_9b042d335f14e47b75e0792b5378e48d">
+      <head>Scope and Contents</head>
+      <p>The Socialist Aldermen Papers, 1917-1920, consist of 19 subject files and 16 files of correspondence. The subject files are first arranged alphabetically according to the title of the file and then chronologically within each file. Each file has been assigned a microfilm frame number, with the subject files receiving numbers 1-19 and the correspondence receiving numbers 20-35. In a representative frame number (VII:2), the number 2 indicates that this is the 2nd frame, and the roman numeral VII indicates that the Socialist Alderman Papers are the 7th collection within the microfilm publication Socialist Collections in the Tamiment Library, 1872-1956.</p>
+    </scopecontent>
+    <arrangement id="aspace_fa9331fbccb0bfb34ad578fb07ba6b7d">
+      <head>Arrangement</head>
+      <p>Organized into three series: 
 <lb/>I. Subject Files
 <lb/>II. Correspondence
-<lb/>III. Fragile Originals</p><p>Folders are arranged alphabetically.</p>  </arrangement>
-  <relatedmaterial id="aspace_806b09fad18c4bb939b58038601cc2a6">
-    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-<p>Socialist Assemblymen Papers (TAM 056.008)</p><p>Socialist Collections in the Tamiment Library, 1872-1956: A Guide to the Microfilm Edition (Sanford, N.C. : Microfilming Corp. of America, c1979), 181 p.</p><p>The Baruch Charney Vladeck Papers (Tamiment 037)</p><p>The Algernon Lee Papers (TAM 014)</p>  </relatedmaterial>
-  <userestrict id="aspace_fe9db764ba9806ba5bf183d809b69ffa">
-    <head>Conditions Governing Use</head>
-<p>Tamiment Library/Robert F. Wagner Labor Archives has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1917-1920, are expected to enter the public domain in 2041.</p>  </userestrict>
-  <prefercite id="aspace_07a5ef7ced09207d0f37fdf65ebd4b73">
-    <head>Preferred Citation</head>
-<p>Identification of item, date; Socialist Aldermen Papers; TAM 056.007; box number; folder number or item identifier; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
-  <processinfo id="aspace_581030c31168482a09c00d2f6ed55274">
-    <head>Processing Information</head>
-<p>Decisions regarding arrangement, description, and physical interventions for this collection prior to 2019 are unknown. In 2019, materials were rehoused in new acid-free folders and boxes in preparation for offsite storage.</p>  </processinfo>
-  <controlaccess>
-    <genreform source="aat">Correspondence.</genreform>
-    <subject source="lcsh">Municipal corporations.</subject>
-    <genreform source="aat">Reports.</genreform>
-    <geogname source="lcsh">New York (N.Y.) -- Politics and government -- 20th century.</geogname>
-    <subject source="lcsh">Socialism -- United States.</subject>
-    <geogname source="lcsh">New York (N.Y.).</geogname>
-    <persname source="local">Wolff, Barnet</persname>
-    <corpname authfilenumber="(lccn)n80089534" source="naf">Socialist Party (U.S.)</corpname>
-    <persname rules="dacs" source="local">Clark, Evans</persname>
-    <persname source="local">Kalman, Maurice S.</persname>
-    <persname source="naf">Solomon, Charles</persname>
-    <persname source="naf">Lee, Algernon</persname>
-    <persname rules="dacs" source="local">Held, Adolph, 1885-1969</persname>
-    <persname source="naf">Vladeck, B. (Baruch), 1886-1938</persname>
-    <persname source="local">Beckerman, Abraham</persname>
-    <persname source="local">Braunstein, Alexander</persname>
-  </controlaccess>
-  <dsc><c id="aspace_ref13" level="series"><did><unittitle>Series I. Subject Files</unittitle></did><c id="aspace_ref14" level="file"><did><unittitle>Aldermanic Investigations</unittitle><unitdate datechar="creation" normal="1910/1920" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_f22c07f452e465b3c6ca9fd05786357d" label="Mixed Materials [31142063138203]" type="Box">1</container><container id="aspace_6b5a9bc13b390609b2e0703b56ea10cb" parent="aspace_f22c07f452e465b3c6ca9fd05786357d" type="Folder">1</container></did><odd id="aspace_7652c5ed2dc6e9c74a9e75cf7307e55a"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:1</p></odd></c><c id="aspace_ref16" level="file"><did><unittitle>Board of Education, Nurseries</unittitle><unitdate datechar="creation" normal="1910/1918" type="inclusive">May 2, 1913-May 3, 1918, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_6af3d1859361b2d558e09ee87c81ae1c" label="Mixed Materials [31142063138203]" type="Box">1</container><container id="aspace_06bf63902caa0a9422e4c30c74f47f47" parent="aspace_6af3d1859361b2d558e09ee87c81ae1c" type="Folder">2</container></did><odd id="aspace_97d013a5d29a0460c8e7cb99d0db4452"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:2</p></odd></c><c id="aspace_ref18" level="file"><did><unittitle>Bridges</unittitle><unitdate datechar="creation" normal="1910/1920" type="inclusive">Dec 31, 1917, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_2920b7f5f0f584b9112651d4bfb72cbc" label="Mixed Materials [31142063138203]" type="Box">1</container><container id="aspace_b5f7135c380290d8f240f3bdedadbb3e" parent="aspace_2920b7f5f0f584b9112651d4bfb72cbc" type="Folder">3</container></did><odd id="aspace_5dabb9a765b832aa2ef6651bb0ee69ef"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:3</p></odd></c><c id="aspace_ref20" level="file"><did><unittitle>City Employees: Wages, Benefits, Working Conditions</unittitle><unitdate datechar="creation" normal="1910/1920" type="inclusive">Feb 19, 1918-May 31, 1918, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_10631d033f263343f3805b4b48999375" label="Mixed Materials [31142063138203]" type="Box">1</container><container id="aspace_1bb66ab10c7a25e16d94388723f42b53" parent="aspace_10631d033f263343f3805b4b48999375" type="Folder">4</container></did><odd id="aspace_db88e4b50adaabcaaf00e54502d2cb5d"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:4</p></odd></c><c id="aspace_ref22" level="file"><did><unittitle>Coal Distribution</unittitle><unitdate datechar="creation" normal="1910/1920" type="inclusive">Jan 7, 1918-May 14, 1918, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_4eaa303d014b8960d34780f7725ebfba" label="Mixed Materials [31142063138203]" type="Box">1</container><container id="aspace_84576826ac7d9d15e544de7bd49d56d7" parent="aspace_4eaa303d014b8960d34780f7725ebfba" type="Folder">5</container></did><odd id="aspace_333f1cbb1963fbfd960dfa1a6b4e3895"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:5</p></odd></c><c id="aspace_ref24" level="file"><did><unittitle>Finances</unittitle><unitdate datechar="creation" normal="1910/1920" type="inclusive">Jan 4, 1917-1919, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_9a87d4e6d060660e1cd28e766fce0c14" label="Mixed Materials [31142063138203]" type="Box">1</container><container id="aspace_8211599d6fbb5f17545d56d22fadc00e" parent="aspace_9a87d4e6d060660e1cd28e766fce0c14" type="Folder">6</container></did><odd id="aspace_83301edfd646a3208ff68a7b4f2f140d"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:6</p></odd></c><c id="aspace_ref26" level="file"><did><unittitle>Franchises</unittitle><unitdate datechar="creation" normal="1910/1920" type="inclusive">Nov 15, 1910-Mar 9, 1918, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_bead2fef03521029ecd153077e7f5249" label="Mixed Materials [31142063138203]" type="Box">1</container><container id="aspace_8001e76ac4401b2cfe76b505d97a5779" parent="aspace_bead2fef03521029ecd153077e7f5249" type="Folder">7</container></did><odd id="aspace_a1972b12fa65faf51597b8059f3d33ff"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:7</p></odd></c><c id="aspace_ref28" level="file"><did><unittitle>Health</unittitle><unitdate datechar="creation" normal="1910/1920" type="inclusive">May 7, 1918, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_37bd8731147caeb01ba27a12d5f1aa03" label="Mixed Materials [31142063138203]" type="Box">1</container><container id="aspace_c66e4777ad20c9fc6bff38f812d6c571" parent="aspace_37bd8731147caeb01ba27a12d5f1aa03" type="Folder">8</container></did><odd id="aspace_909e53ddba940cf1113ddcff718e62ee"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:8</p></odd></c><c id="aspace_ref30" level="file"><did><unittitle>Housing, Parks</unittitle><unitdate datechar="creation" normal="1910/1920" type="inclusive">Jul 3, 1917-Apr 18, 1918, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_2510f08c01662163d855d8ba9f590cca" label="Mixed Materials [31142063138203]" type="Box">1</container><container id="aspace_78212e48c6758c753608cc013992ff24" parent="aspace_2510f08c01662163d855d8ba9f590cca" type="Folder">9</container></did><odd id="aspace_4cb28e9585757690626e8ee5a4c0344c"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:9</p></odd></c><c id="aspace_ref32" level="file"><did><unittitle>Ice Trade</unittitle><unitdate datechar="creation" normal="1910/1920" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_ce1833ab9287094f9501cc2e154a4a85" label="Mixed Materials [31142063138203]" type="Box">1</container><container id="aspace_d69ea7dd6d3b974fec4d4cecd4f55c83" parent="aspace_ce1833ab9287094f9501cc2e154a4a85" type="Folder">10</container></did><odd id="aspace_3deebc7e0c90597682db26b379009829"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:10</p></odd></c><c id="aspace_ref34" level="file"><did><unittitle>Labor League</unittitle><unitdate datechar="creation" normal="1910/1920" type="inclusive">Jan 25, 1918, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_cac963b2c94863266dc1e695c1d9efc3" label="Mixed Materials [31142063138203]" type="Box">1</container><container id="aspace_3fab971109f544a4b3dc56cb1dd0241e" parent="aspace_cac963b2c94863266dc1e695c1d9efc3" type="Folder">11</container></did><odd id="aspace_11caf3bdd9d5bbe476fcabb9ea575ae8"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:11</p></odd></c><c id="aspace_ref36" level="file"><did><unittitle>Memorandum</unittitle><unitdate datechar="creation" normal="1910/1920" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_8f70b469bcba5f5bb16136d8d89be8e8" label="Mixed Materials [31142063138203]" type="Box">1</container><container id="aspace_1a95ea9693b3d5646fdc5c34ceba4e57" parent="aspace_8f70b469bcba5f5bb16136d8d89be8e8" type="Folder">12</container></did><odd id="aspace_ff5f9038743c0ff33e1afe9171cd85c6"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:12</p></odd></c><c id="aspace_ref38" level="file"><did><unittitle>Minutes of Meetings of Socialist Aldermanic Delegation</unittitle><unitdate datechar="creation" normal="1917/1919" type="inclusive">Dec 6, 1917-Jun 10, 1919</unitdate><container altrender="Manuscript box - Legal" id="aspace_eab2f102ba60caef0f77a6a135164068" label="Mixed Materials [31142063138203]" type="Box">1</container><container id="aspace_da11429f329adc87ce251f57cb4301cf" parent="aspace_eab2f102ba60caef0f77a6a135164068" type="Folder">13</container></did><odd id="aspace_3916b8aa9fd1a8df253b3e29b43a7880"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:13</p></odd></c><c id="aspace_ref40" level="file"><did><unittitle>Municipal Trading</unittitle><unitdate datechar="creation" normal="1910/1920" type="inclusive">Feb 28, 1917-Apr 9, 1918, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_9b13a1997e23366ba3504f866ce9e4b2" label="Mixed Materials [31142063138203]" type="Box">1</container><container id="aspace_f70925c95e94829b5ff77592303aa86e" parent="aspace_9b13a1997e23366ba3504f866ce9e4b2" type="Folder">14</container></did><odd id="aspace_1e83e1f6c0862b7c456a4982f39b26a4"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:14</p></odd></c><c id="aspace_ref42" level="file"><did><unittitle>Roth, Louis, "Public Utilities in New York City"</unittitle><unitdate datechar="creation" normal="1917/1917">1917</unitdate><container altrender="Manuscript box - Legal" id="aspace_d57a86e25dc3ce6cb7dc847627d177d3" label="Mixed Materials [31142063138203]" type="Box">1</container><container id="aspace_3fd3ab35cc5cb130a4e26b4ef6a3b1de" parent="aspace_d57a86e25dc3ce6cb7dc847627d177d3" type="Folder">15</container></did><odd id="aspace_61af98d2a7184893054b534566de6d6a"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:15</p></odd></c><c id="aspace_ref44" level="file"><did><unittitle>Resolutions</unittitle><unitdate datechar="creation" normal="1910/1920" type="inclusive">undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_a0c9de3468bdd94206f305615c60a650" label="Mixed Materials [31142063138203]" type="Box">1</container><container id="aspace_32506f509c992c7ad5bd2e4f760f8745" parent="aspace_a0c9de3468bdd94206f305615c60a650" type="Folder">16</container></did><odd id="aspace_96577d30f26d87dafa65ab9be4410ce4"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:16</p></odd></c><c id="aspace_ref46" level="file"><did><unittitle>School Lunches</unittitle><unitdate datechar="creation" normal="1910/1920" type="inclusive">Jan 17, 1917-May 9, 1918, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_9ebcbddeb5dcb16a8d55c27ce38b4266" label="Mixed Materials [31142063138203]" type="Box">1</container><container id="aspace_31dea787ed7e8912aa9b202020319ab9" parent="aspace_9ebcbddeb5dcb16a8d55c27ce38b4266" type="Folder">17</container></did><odd id="aspace_f9ff2bcfabec52a5431d9c8111491557"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:17</p></odd></c><c id="aspace_ref48" level="file"><did><unittitle>Subways and Public Ownership</unittitle><unitdate datechar="creation" normal="1910/1920" type="inclusive">Mar 19, 1913-Nov 10, 1918, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_8771d05238f83d85aa4c54e771e59354" label="Mixed Materials [31142063138203]" type="Box">1</container><container id="aspace_cd297230723d6ace8ddb4cab8928b03d" parent="aspace_8771d05238f83d85aa4c54e771e59354" type="Folder">18</container></did><odd id="aspace_6a306c6de3cee227805fb04edd8f003b"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:18</p></odd></c><c id="aspace_ref50" level="file"><did><unittitle>Miscellaneous</unittitle><unitdate datechar="creation" normal="1910/1920" type="inclusive">Feb 8, 1918-Oct 16, 1918, undated</unitdate><container altrender="Manuscript box - Legal" id="aspace_60927975110dd0fa36369dc7bfb5babf" label="Mixed Materials [31142063138203]" type="Box">1</container><container id="aspace_aee981c8c8b5deca4a0a9b1775670c62" parent="aspace_60927975110dd0fa36369dc7bfb5babf" type="Folder">19</container></did><odd id="aspace_26e4b26e6d144181c5eab473b65ddb16"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:19</p></odd></c></c><c id="aspace_ref52" level="series"><did><unittitle>Series II. Correspondence</unittitle></did><c id="aspace_ref53" level="file"><did><unittitle>A</unittitle><unitdate datechar="creation" normal="1918/1919" type="inclusive">Sep 3, 1918-Apr 21, 1919</unitdate><container altrender="Manuscript box - Legal" id="aspace_f6339d04dc7bd566064dd3226bce7423" label="Mixed Materials [31142063138203]" type="Box">1</container><container id="aspace_da6546fe32f9bfb1db40c98cd37aae2c" parent="aspace_f6339d04dc7bd566064dd3226bce7423" type="Folder">20</container></did><odd id="aspace_7446682a981d42ee3f2272cc04d9d691"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:20</p></odd></c><c id="aspace_ref55" level="file"><did><unittitle>B</unittitle><unitdate datechar="creation" normal="1918/1920" type="inclusive">Oct 30, 1918-Feb 21, 1920</unitdate><container altrender="Manuscript box - Legal" id="aspace_7bdd8f5862e2de3daf609133926ec977" label="Mixed Materials [31142063138203]" type="Box">1</container><container id="aspace_892e4a2d51b959a7ec989d82511ac23a" parent="aspace_7bdd8f5862e2de3daf609133926ec977" type="Folder">21</container></did><odd id="aspace_308b2d94fe6f47a1d8efa2f3cdd3b9a9"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:21</p></odd></c><c id="aspace_ref57" level="file"><did><unittitle>C</unittitle><unitdate datechar="creation" normal="1918/1920" type="inclusive">Oct 22, 1918-Feb 3, 1920</unitdate><container altrender="Manuscript box - Legal" id="aspace_7018047bba0a12b6aab44a2a443b75a3" label="Mixed Materials [31142063138211]" type="Box">2</container><container id="aspace_985f3c9f303c1243aceba6bb328da6a8" parent="aspace_7018047bba0a12b6aab44a2a443b75a3" type="Folder">1</container></did><odd id="aspace_0fffb9e32e2d8b67a0559a84fd928834"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:22</p></odd></c><c id="aspace_ref59" level="file"><did><unittitle>D</unittitle><unitdate datechar="creation" normal="1918/1920" type="inclusive">Oct 31, 1918-Jan 24, 1920</unitdate><container altrender="Manuscript box - Legal" id="aspace_1a6e1dcb31610922cca7774561f4e0b8" label="Mixed Materials [31142063138211]" type="Box">2</container><container id="aspace_9bf8c294f70f53864b1720c7be291c37" parent="aspace_1a6e1dcb31610922cca7774561f4e0b8" type="Folder">2</container></did><odd id="aspace_0cecdd2ed0e457db9af02443dcec1c4e"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:23</p></odd></c><c id="aspace_ref61" level="file"><did><unittitle>E-F</unittitle><unitdate datechar="creation" normal="1918/1920" type="inclusive">Oct 31, 1918-Jan 21, 1920</unitdate><container altrender="Manuscript box - Legal" id="aspace_d090c4aa71726d0bbfc7ede78438570c" label="Mixed Materials [31142063138211]" type="Box">2</container><container id="aspace_5495868d87f0fb3455b5bd32b406714e" parent="aspace_d090c4aa71726d0bbfc7ede78438570c" type="Folder">3</container></did><odd id="aspace_381325271823e0dad2b7142f8eb63829"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:24</p></odd></c><c id="aspace_ref63" level="file"><did><unittitle>G</unittitle><unitdate datechar="creation" normal="1918/1919" type="inclusive">Oct 16, 1918-Apr 17, 1919</unitdate><container altrender="Manuscript box - Legal" id="aspace_7b53403a8f1da978bf6f05aac42e1b3e" label="Mixed Materials [31142063138211]" type="Box">2</container><container id="aspace_7997a09cb07377bbf1905b8f1d54e770" parent="aspace_7b53403a8f1da978bf6f05aac42e1b3e" type="Folder">4</container></did><odd id="aspace_2cef78a062d92f022dcc8b839d016ae3"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:25</p></odd></c><c id="aspace_ref65" level="file"><did><unittitle>H</unittitle><unitdate datechar="creation" normal="1918/1919" type="inclusive">Oct 14, 1918-Oct 16, 1919</unitdate><container altrender="Manuscript box - Legal" id="aspace_8a5abdbfeb372b6393dc45b6572997b6" label="Mixed Materials [31142063138211]" type="Box">2</container><container id="aspace_9704fec94fae1e28a17a4337098ab2db" parent="aspace_8a5abdbfeb372b6393dc45b6572997b6" type="Folder">5</container></did><odd id="aspace_d35e23e714fd401748e66161712daece"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:26</p></odd></c><c id="aspace_ref67" level="file"><did><unittitle>K-L</unittitle><unitdate datechar="creation" normal="1918/1920" type="inclusive">Oct 7, 1918-Mar 1, 1920</unitdate><container altrender="Manuscript box - Legal" id="aspace_9688589ee232a2bb453f3118d562134b" label="Mixed Materials [31142063138211]" type="Box">2</container><container id="aspace_e7a389f141235d780e27e7bd1966604c" parent="aspace_9688589ee232a2bb453f3118d562134b" type="Folder">6</container></did><odd id="aspace_d10fc1e500c2a79e3d50a6f98bb7bafd"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:27</p></odd></c><c id="aspace_ref69" level="file"><did><unittitle>M</unittitle><unitdate datechar="creation" normal="1918/1920" type="inclusive">Oct 10, 1918-Feb 15, 1920</unitdate><container altrender="Manuscript box - Legal" id="aspace_4080af7b99415c04772bc7cb5380ef43" label="Mixed Materials [31142063138211]" type="Box">2</container><container id="aspace_ed685ec78f0289233d2d42ccc839f12d" parent="aspace_4080af7b99415c04772bc7cb5380ef43" type="Folder">7</container></did><odd id="aspace_7c35784e9421b92dad7036757d6ee99a"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:28</p></odd></c><c id="aspace_ref71" level="file"><did><unittitle>N-O</unittitle><unitdate datechar="creation" normal="1918/1919" type="inclusive">Dec 5, 1918-Jun 10, 1919</unitdate><container altrender="Manuscript box - Legal" id="aspace_fe0e929607f963db3ce450ffd5872b6b" label="Mixed Materials [31142063138211]" type="Box">2</container><container id="aspace_d37268ecacb0cc397be86b63a9e509c6" parent="aspace_fe0e929607f963db3ce450ffd5872b6b" type="Folder">8</container></did><odd id="aspace_7cac2e14d11741a89e9fce5275b3f4a9"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:29</p></odd></c><c id="aspace_ref73" level="file"><did><unittitle>P-Q</unittitle><unitdate datechar="creation" normal="1918/1919" type="inclusive">Dec 2, 1918-Jun 10, 1919</unitdate><container altrender="Manuscript box - Legal" id="aspace_2affaf43da86738977cf838202500d56" label="Mixed Materials [31142063138211]" type="Box">2</container><container id="aspace_7e45189b745ed87a6b058ce5467d9863" parent="aspace_2affaf43da86738977cf838202500d56" type="Folder">9</container></did><odd id="aspace_29b51f3239e755036d6feead144074c0"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:30</p></odd></c><c id="aspace_ref75" level="file"><did><unittitle>R</unittitle><unitdate datechar="creation" normal="1918/1920" type="inclusive">Oct 24, 1918-Feb 28, 1920</unitdate><container altrender="Manuscript box - Legal" id="aspace_af990fa0edc62cdbd7738b24d9cd95a1" label="Mixed Materials [31142063138211]" type="Box">2</container><container id="aspace_f466aadb1047102f74d3dc5c6083e7a1" parent="aspace_af990fa0edc62cdbd7738b24d9cd95a1" type="Folder">10</container></did><odd id="aspace_d9287d0c3d05c007ffb56186d9f5975f"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:31</p></odd></c><c id="aspace_ref77" level="file"><did><unittitle>S</unittitle><unitdate datechar="creation" normal="1918/1920" type="inclusive">Aug 13, 1918-Feb 26, 1920</unitdate><container altrender="Manuscript box - Legal" id="aspace_fb0ece10901935e241fdd50cc952cbdc" label="Mixed Materials [31142063138211]" type="Box">2</container><container id="aspace_7983452ffe18d1950f7a83f864458614" parent="aspace_fb0ece10901935e241fdd50cc952cbdc" type="Folder">11</container></did><odd id="aspace_b003d16e691a937e01e6d33461fc35cd"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:32</p></odd></c><c id="aspace_ref79" level="file"><did><unittitle>T-V</unittitle><unitdate datechar="creation" normal="1918/1920" type="inclusive">Oct 25, 1918-Mar 4, 1920</unitdate><container altrender="Manuscript box - Legal" id="aspace_eb1d78cd56add41f6148c8ff55fa71dc" label="Mixed Materials [31142063138211]" type="Box">2</container><container id="aspace_60983f0f46b6b0d54d9cce30f708514c" parent="aspace_eb1d78cd56add41f6148c8ff55fa71dc" type="Folder">12</container></did><odd id="aspace_c88fbe8d0c6ba7ff6702cd5d83306374"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:33</p></odd></c><c id="aspace_ref81" level="file"><did><unittitle>W</unittitle><unitdate datechar="creation" normal="1918/1919" type="inclusive">Sep 27, 1918-Apr 15, 1919</unitdate><container altrender="Manuscript box - Legal" id="aspace_ced5e5084703a95d413e38d5385830c1" label="Mixed Materials [31142063138211]" type="Box">2</container><container id="aspace_f9bcd37eb050b1d53cedda67fd594ad0" parent="aspace_ced5e5084703a95d413e38d5385830c1" type="Folder">13</container></did><odd id="aspace_0972b0bb5e9edee62e46eb3afc8f30ce"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:34</p></odd></c><c id="aspace_ref83" level="file"><did><unittitle>Z</unittitle><unitdate datechar="creation" normal="1918/1918">Nov 1, 1918-Dec 27, 1918</unitdate><container altrender="Manuscript box - Legal" id="aspace_80eb7a5b8908f54334f141f1c878e091" label="Mixed Materials [31142063138211]" type="Box">2</container><container id="aspace_558122900bda8c7ab4f8451f8b76c7ad" parent="aspace_80eb7a5b8908f54334f141f1c878e091" type="Folder">14</container></did><odd id="aspace_96d14245236812e206e42cd871502d1c"><head>General note</head><p>Film R-7124, Reel 11: Frame VII:35</p></odd></c></c><c id="aspace_ref92" level="series"><did><unittitle>Series III. Fragile Originals</unittitle></did><c id="aspace_ref93" level="file"><did><unittitle>Fragile Originals from Series I</unittitle><container altrender="Manuscript box - Legal" id="aspace_d755dada4513590d6d4234fbfa373ebf" label="Mixed Materials [31142063138211]" type="Box">2</container><container id="aspace_6d2e04bc0d83d0b9f05357ae784a9c4f" parent="aspace_d755dada4513590d6d4234fbfa373ebf" type="Folder">15</container></did></c><c id="aspace_ref94" level="file"><did><unittitle>Fragile Originals from Series II</unittitle><container altrender="Manuscript box - Legal" id="aspace_da6737b4fe380b9e91cfc469c9cdf0d1" label="Mixed Materials [31142063138211]" type="Box">2</container><container id="aspace_991650993702d49ab9459a3389fd439f" parent="aspace_da6737b4fe380b9e91cfc469c9cdf0d1" type="Folder">16-17</container></did></c></c></dsc>
-</archdesc>
+<lb/>III. Fragile Originals</p>
+      <p>Folders are arranged alphabetically.</p>
+    </arrangement>
+    <relatedmaterial id="aspace_806b09fad18c4bb939b58038601cc2a6">
+      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+      <p>Socialist Assemblymen Papers (TAM 056.008)</p>
+      <p>Socialist Collections in the Tamiment Library, 1872-1956: A Guide to the Microfilm Edition (Sanford, N.C. : Microfilming Corp. of America, c1979), 181 p.</p>
+      <p>The Baruch Charney Vladeck Papers (Tamiment 037)</p>
+      <p>The Algernon Lee Papers (TAM 014)</p>
+    </relatedmaterial>
+    <userestrict id="aspace_fe9db764ba9806ba5bf183d809b69ffa">
+      <head>Conditions Governing Use</head>
+      <p>Tamiment Library/Robert F. Wagner Labor Archives has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Materials in this collection, which were created in 1917-1920, are expected to enter the public domain in 2041.</p>
+    </userestrict>
+    <prefercite id="aspace_07a5ef7ced09207d0f37fdf65ebd4b73">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Socialist Aldermen Papers; TAM 056.007; box number; folder number or item identifier; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_581030c31168482a09c00d2f6ed55274">
+      <head>Processing Information</head>
+      <p>Decisions regarding arrangement, description, and physical interventions for this collection prior to 2019 are unknown. In 2019, materials were rehoused in new acid-free folders and boxes in preparation for offsite storage.</p>
+    </processinfo>
+    <controlaccess>
+      <genreform source="aat">Correspondence.</genreform>
+      <subject source="lcsh">Municipal corporations.</subject>
+      <genreform source="aat">Reports.</genreform>
+      <geogname source="lcsh">New York (N.Y.) -- Politics and government -- 20th century.</geogname>
+      <subject source="lcsh">Socialism -- United States.</subject>
+      <geogname source="lcsh">New York (N.Y.).</geogname>
+      <persname source="local">Wolff, Barnet</persname>
+      <corpname authfilenumber="(lccn)n80089534" source="naf">Socialist Party (U.S.)</corpname>
+      <persname rules="dacs" source="local">Clark, Evans</persname>
+      <persname source="local">Kalman, Maurice S.</persname>
+      <persname source="naf">Solomon, Charles</persname>
+      <persname source="naf">Lee, Algernon</persname>
+      <persname rules="dacs" source="local">Held, Adolph, 1885-1969</persname>
+      <persname source="naf">Vladeck, B. (Baruch), 1886-1938</persname>
+      <persname source="local">Beckerman, Abraham</persname>
+      <persname source="local">Braunstein, Alexander</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref13" level="series">
+        <did>
+          <unittitle>Series I. Subject Files</unittitle>
+        </did>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Aldermanic Investigations</unittitle>
+            <unitdate datechar="creation" normal="1910/1920" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f22c07f452e465b3c6ca9fd05786357d" label="Mixed Materials [31142063138203]" type="Box">1</container>
+            <container id="aspace_6b5a9bc13b390609b2e0703b56ea10cb" parent="aspace_f22c07f452e465b3c6ca9fd05786357d" type="Folder">1</container>
+          </did>
+          <odd id="aspace_7652c5ed2dc6e9c74a9e75cf7307e55a">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Board of Education, Nurseries</unittitle>
+            <unitdate datechar="creation" normal="1910/1918" type="inclusive">May 2, 1913-May 3, 1918, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6af3d1859361b2d558e09ee87c81ae1c" label="Mixed Materials [31142063138203]" type="Box">1</container>
+            <container id="aspace_06bf63902caa0a9422e4c30c74f47f47" parent="aspace_6af3d1859361b2d558e09ee87c81ae1c" type="Folder">2</container>
+          </did>
+          <odd id="aspace_97d013a5d29a0460c8e7cb99d0db4452">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Bridges</unittitle>
+            <unitdate datechar="creation" normal="1910/1920" type="inclusive">Dec 31, 1917, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2920b7f5f0f584b9112651d4bfb72cbc" label="Mixed Materials [31142063138203]" type="Box">1</container>
+            <container id="aspace_b5f7135c380290d8f240f3bdedadbb3e" parent="aspace_2920b7f5f0f584b9112651d4bfb72cbc" type="Folder">3</container>
+          </did>
+          <odd id="aspace_5dabb9a765b832aa2ef6651bb0ee69ef">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:3</p>
+          </odd>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>City Employees: Wages, Benefits, Working Conditions</unittitle>
+            <unitdate datechar="creation" normal="1910/1920" type="inclusive">Feb 19, 1918-May 31, 1918, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_10631d033f263343f3805b4b48999375" label="Mixed Materials [31142063138203]" type="Box">1</container>
+            <container id="aspace_1bb66ab10c7a25e16d94388723f42b53" parent="aspace_10631d033f263343f3805b4b48999375" type="Folder">4</container>
+          </did>
+          <odd id="aspace_db88e4b50adaabcaaf00e54502d2cb5d">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:4</p>
+          </odd>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Coal Distribution</unittitle>
+            <unitdate datechar="creation" normal="1910/1920" type="inclusive">Jan 7, 1918-May 14, 1918, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4eaa303d014b8960d34780f7725ebfba" label="Mixed Materials [31142063138203]" type="Box">1</container>
+            <container id="aspace_84576826ac7d9d15e544de7bd49d56d7" parent="aspace_4eaa303d014b8960d34780f7725ebfba" type="Folder">5</container>
+          </did>
+          <odd id="aspace_333f1cbb1963fbfd960dfa1a6b4e3895">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Finances</unittitle>
+            <unitdate datechar="creation" normal="1910/1920" type="inclusive">Jan 4, 1917-1919, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9a87d4e6d060660e1cd28e766fce0c14" label="Mixed Materials [31142063138203]" type="Box">1</container>
+            <container id="aspace_8211599d6fbb5f17545d56d22fadc00e" parent="aspace_9a87d4e6d060660e1cd28e766fce0c14" type="Folder">6</container>
+          </did>
+          <odd id="aspace_83301edfd646a3208ff68a7b4f2f140d">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:6</p>
+          </odd>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Franchises</unittitle>
+            <unitdate datechar="creation" normal="1910/1920" type="inclusive">Nov 15, 1910-Mar 9, 1918, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bead2fef03521029ecd153077e7f5249" label="Mixed Materials [31142063138203]" type="Box">1</container>
+            <container id="aspace_8001e76ac4401b2cfe76b505d97a5779" parent="aspace_bead2fef03521029ecd153077e7f5249" type="Folder">7</container>
+          </did>
+          <odd id="aspace_a1972b12fa65faf51597b8059f3d33ff">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:7</p>
+          </odd>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Health</unittitle>
+            <unitdate datechar="creation" normal="1910/1920" type="inclusive">May 7, 1918, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_37bd8731147caeb01ba27a12d5f1aa03" label="Mixed Materials [31142063138203]" type="Box">1</container>
+            <container id="aspace_c66e4777ad20c9fc6bff38f812d6c571" parent="aspace_37bd8731147caeb01ba27a12d5f1aa03" type="Folder">8</container>
+          </did>
+          <odd id="aspace_909e53ddba940cf1113ddcff718e62ee">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:8</p>
+          </odd>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Housing, Parks</unittitle>
+            <unitdate datechar="creation" normal="1910/1920" type="inclusive">Jul 3, 1917-Apr 18, 1918, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2510f08c01662163d855d8ba9f590cca" label="Mixed Materials [31142063138203]" type="Box">1</container>
+            <container id="aspace_78212e48c6758c753608cc013992ff24" parent="aspace_2510f08c01662163d855d8ba9f590cca" type="Folder">9</container>
+          </did>
+          <odd id="aspace_4cb28e9585757690626e8ee5a4c0344c">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:9</p>
+          </odd>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Ice Trade</unittitle>
+            <unitdate datechar="creation" normal="1910/1920" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ce1833ab9287094f9501cc2e154a4a85" label="Mixed Materials [31142063138203]" type="Box">1</container>
+            <container id="aspace_d69ea7dd6d3b974fec4d4cecd4f55c83" parent="aspace_ce1833ab9287094f9501cc2e154a4a85" type="Folder">10</container>
+          </did>
+          <odd id="aspace_3deebc7e0c90597682db26b379009829">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:10</p>
+          </odd>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Labor League</unittitle>
+            <unitdate datechar="creation" normal="1910/1920" type="inclusive">Jan 25, 1918, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cac963b2c94863266dc1e695c1d9efc3" label="Mixed Materials [31142063138203]" type="Box">1</container>
+            <container id="aspace_3fab971109f544a4b3dc56cb1dd0241e" parent="aspace_cac963b2c94863266dc1e695c1d9efc3" type="Folder">11</container>
+          </did>
+          <odd id="aspace_11caf3bdd9d5bbe476fcabb9ea575ae8">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:11</p>
+          </odd>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Memorandum</unittitle>
+            <unitdate datechar="creation" normal="1910/1920" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8f70b469bcba5f5bb16136d8d89be8e8" label="Mixed Materials [31142063138203]" type="Box">1</container>
+            <container id="aspace_1a95ea9693b3d5646fdc5c34ceba4e57" parent="aspace_8f70b469bcba5f5bb16136d8d89be8e8" type="Folder">12</container>
+          </did>
+          <odd id="aspace_ff5f9038743c0ff33e1afe9171cd85c6">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:12</p>
+          </odd>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Minutes of Meetings of Socialist Aldermanic Delegation</unittitle>
+            <unitdate datechar="creation" normal="1917/1919" type="inclusive">Dec 6, 1917-Jun 10, 1919</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_eab2f102ba60caef0f77a6a135164068" label="Mixed Materials [31142063138203]" type="Box">1</container>
+            <container id="aspace_da11429f329adc87ce251f57cb4301cf" parent="aspace_eab2f102ba60caef0f77a6a135164068" type="Folder">13</container>
+          </did>
+          <odd id="aspace_3916b8aa9fd1a8df253b3e29b43a7880">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:13</p>
+          </odd>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Municipal Trading</unittitle>
+            <unitdate datechar="creation" normal="1910/1920" type="inclusive">Feb 28, 1917-Apr 9, 1918, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9b13a1997e23366ba3504f866ce9e4b2" label="Mixed Materials [31142063138203]" type="Box">1</container>
+            <container id="aspace_f70925c95e94829b5ff77592303aa86e" parent="aspace_9b13a1997e23366ba3504f866ce9e4b2" type="Folder">14</container>
+          </did>
+          <odd id="aspace_1e83e1f6c0862b7c456a4982f39b26a4">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:14</p>
+          </odd>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Roth, Louis, "Public Utilities in New York City"</unittitle>
+            <unitdate datechar="creation" normal="1917/1917">1917</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d57a86e25dc3ce6cb7dc847627d177d3" label="Mixed Materials [31142063138203]" type="Box">1</container>
+            <container id="aspace_3fd3ab35cc5cb130a4e26b4ef6a3b1de" parent="aspace_d57a86e25dc3ce6cb7dc847627d177d3" type="Folder">15</container>
+          </did>
+          <odd id="aspace_61af98d2a7184893054b534566de6d6a">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:15</p>
+          </odd>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Resolutions</unittitle>
+            <unitdate datechar="creation" normal="1910/1920" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a0c9de3468bdd94206f305615c60a650" label="Mixed Materials [31142063138203]" type="Box">1</container>
+            <container id="aspace_32506f509c992c7ad5bd2e4f760f8745" parent="aspace_a0c9de3468bdd94206f305615c60a650" type="Folder">16</container>
+          </did>
+          <odd id="aspace_96577d30f26d87dafa65ab9be4410ce4">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:16</p>
+          </odd>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>School Lunches</unittitle>
+            <unitdate datechar="creation" normal="1910/1920" type="inclusive">Jan 17, 1917-May 9, 1918, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9ebcbddeb5dcb16a8d55c27ce38b4266" label="Mixed Materials [31142063138203]" type="Box">1</container>
+            <container id="aspace_31dea787ed7e8912aa9b202020319ab9" parent="aspace_9ebcbddeb5dcb16a8d55c27ce38b4266" type="Folder">17</container>
+          </did>
+          <odd id="aspace_f9ff2bcfabec52a5431d9c8111491557">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:17</p>
+          </odd>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Subways and Public Ownership</unittitle>
+            <unitdate datechar="creation" normal="1910/1920" type="inclusive">Mar 19, 1913-Nov 10, 1918, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8771d05238f83d85aa4c54e771e59354" label="Mixed Materials [31142063138203]" type="Box">1</container>
+            <container id="aspace_cd297230723d6ace8ddb4cab8928b03d" parent="aspace_8771d05238f83d85aa4c54e771e59354" type="Folder">18</container>
+          </did>
+          <odd id="aspace_6a306c6de3cee227805fb04edd8f003b">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:18</p>
+          </odd>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate datechar="creation" normal="1910/1920" type="inclusive">Feb 8, 1918-Oct 16, 1918, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_60927975110dd0fa36369dc7bfb5babf" label="Mixed Materials [31142063138203]" type="Box">1</container>
+            <container id="aspace_aee981c8c8b5deca4a0a9b1775670c62" parent="aspace_60927975110dd0fa36369dc7bfb5babf" type="Folder">19</container>
+          </did>
+          <odd id="aspace_26e4b26e6d144181c5eab473b65ddb16">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:19</p>
+          </odd>
+        </c>
+      </c>
+      <c id="aspace_ref52" level="series">
+        <did>
+          <unittitle>Series II. Correspondence</unittitle>
+        </did>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>A</unittitle>
+            <unitdate datechar="creation" normal="1918/1919" type="inclusive">Sep 3, 1918-Apr 21, 1919</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f6339d04dc7bd566064dd3226bce7423" label="Mixed Materials [31142063138203]" type="Box">1</container>
+            <container id="aspace_da6546fe32f9bfb1db40c98cd37aae2c" parent="aspace_f6339d04dc7bd566064dd3226bce7423" type="Folder">20</container>
+          </did>
+          <odd id="aspace_7446682a981d42ee3f2272cc04d9d691">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:20</p>
+          </odd>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>B</unittitle>
+            <unitdate datechar="creation" normal="1918/1920" type="inclusive">Oct 30, 1918-Feb 21, 1920</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7bdd8f5862e2de3daf609133926ec977" label="Mixed Materials [31142063138203]" type="Box">1</container>
+            <container id="aspace_892e4a2d51b959a7ec989d82511ac23a" parent="aspace_7bdd8f5862e2de3daf609133926ec977" type="Folder">21</container>
+          </did>
+          <odd id="aspace_308b2d94fe6f47a1d8efa2f3cdd3b9a9">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:21</p>
+          </odd>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>C</unittitle>
+            <unitdate datechar="creation" normal="1918/1920" type="inclusive">Oct 22, 1918-Feb 3, 1920</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7018047bba0a12b6aab44a2a443b75a3" label="Mixed Materials [31142063138211]" type="Box">2</container>
+            <container id="aspace_985f3c9f303c1243aceba6bb328da6a8" parent="aspace_7018047bba0a12b6aab44a2a443b75a3" type="Folder">1</container>
+          </did>
+          <odd id="aspace_0fffb9e32e2d8b67a0559a84fd928834">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:22</p>
+          </odd>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>D</unittitle>
+            <unitdate datechar="creation" normal="1918/1920" type="inclusive">Oct 31, 1918-Jan 24, 1920</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1a6e1dcb31610922cca7774561f4e0b8" label="Mixed Materials [31142063138211]" type="Box">2</container>
+            <container id="aspace_9bf8c294f70f53864b1720c7be291c37" parent="aspace_1a6e1dcb31610922cca7774561f4e0b8" type="Folder">2</container>
+          </did>
+          <odd id="aspace_0cecdd2ed0e457db9af02443dcec1c4e">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:23</p>
+          </odd>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>E-F</unittitle>
+            <unitdate datechar="creation" normal="1918/1920" type="inclusive">Oct 31, 1918-Jan 21, 1920</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d090c4aa71726d0bbfc7ede78438570c" label="Mixed Materials [31142063138211]" type="Box">2</container>
+            <container id="aspace_5495868d87f0fb3455b5bd32b406714e" parent="aspace_d090c4aa71726d0bbfc7ede78438570c" type="Folder">3</container>
+          </did>
+          <odd id="aspace_381325271823e0dad2b7142f8eb63829">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:24</p>
+          </odd>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>G</unittitle>
+            <unitdate datechar="creation" normal="1918/1919" type="inclusive">Oct 16, 1918-Apr 17, 1919</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7b53403a8f1da978bf6f05aac42e1b3e" label="Mixed Materials [31142063138211]" type="Box">2</container>
+            <container id="aspace_7997a09cb07377bbf1905b8f1d54e770" parent="aspace_7b53403a8f1da978bf6f05aac42e1b3e" type="Folder">4</container>
+          </did>
+          <odd id="aspace_2cef78a062d92f022dcc8b839d016ae3">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:25</p>
+          </odd>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>H</unittitle>
+            <unitdate datechar="creation" normal="1918/1919" type="inclusive">Oct 14, 1918-Oct 16, 1919</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8a5abdbfeb372b6393dc45b6572997b6" label="Mixed Materials [31142063138211]" type="Box">2</container>
+            <container id="aspace_9704fec94fae1e28a17a4337098ab2db" parent="aspace_8a5abdbfeb372b6393dc45b6572997b6" type="Folder">5</container>
+          </did>
+          <odd id="aspace_d35e23e714fd401748e66161712daece">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:26</p>
+          </odd>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>K-L</unittitle>
+            <unitdate datechar="creation" normal="1918/1920" type="inclusive">Oct 7, 1918-Mar 1, 1920</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9688589ee232a2bb453f3118d562134b" label="Mixed Materials [31142063138211]" type="Box">2</container>
+            <container id="aspace_e7a389f141235d780e27e7bd1966604c" parent="aspace_9688589ee232a2bb453f3118d562134b" type="Folder">6</container>
+          </did>
+          <odd id="aspace_d10fc1e500c2a79e3d50a6f98bb7bafd">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:27</p>
+          </odd>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>M</unittitle>
+            <unitdate datechar="creation" normal="1918/1920" type="inclusive">Oct 10, 1918-Feb 15, 1920</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4080af7b99415c04772bc7cb5380ef43" label="Mixed Materials [31142063138211]" type="Box">2</container>
+            <container id="aspace_ed685ec78f0289233d2d42ccc839f12d" parent="aspace_4080af7b99415c04772bc7cb5380ef43" type="Folder">7</container>
+          </did>
+          <odd id="aspace_7c35784e9421b92dad7036757d6ee99a">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:28</p>
+          </odd>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>N-O</unittitle>
+            <unitdate datechar="creation" normal="1918/1919" type="inclusive">Dec 5, 1918-Jun 10, 1919</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fe0e929607f963db3ce450ffd5872b6b" label="Mixed Materials [31142063138211]" type="Box">2</container>
+            <container id="aspace_d37268ecacb0cc397be86b63a9e509c6" parent="aspace_fe0e929607f963db3ce450ffd5872b6b" type="Folder">8</container>
+          </did>
+          <odd id="aspace_7cac2e14d11741a89e9fce5275b3f4a9">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:29</p>
+          </odd>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>P-Q</unittitle>
+            <unitdate datechar="creation" normal="1918/1919" type="inclusive">Dec 2, 1918-Jun 10, 1919</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2affaf43da86738977cf838202500d56" label="Mixed Materials [31142063138211]" type="Box">2</container>
+            <container id="aspace_7e45189b745ed87a6b058ce5467d9863" parent="aspace_2affaf43da86738977cf838202500d56" type="Folder">9</container>
+          </did>
+          <odd id="aspace_29b51f3239e755036d6feead144074c0">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:30</p>
+          </odd>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>R</unittitle>
+            <unitdate datechar="creation" normal="1918/1920" type="inclusive">Oct 24, 1918-Feb 28, 1920</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_af990fa0edc62cdbd7738b24d9cd95a1" label="Mixed Materials [31142063138211]" type="Box">2</container>
+            <container id="aspace_f466aadb1047102f74d3dc5c6083e7a1" parent="aspace_af990fa0edc62cdbd7738b24d9cd95a1" type="Folder">10</container>
+          </did>
+          <odd id="aspace_d9287d0c3d05c007ffb56186d9f5975f">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:31</p>
+          </odd>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>S</unittitle>
+            <unitdate datechar="creation" normal="1918/1920" type="inclusive">Aug 13, 1918-Feb 26, 1920</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fb0ece10901935e241fdd50cc952cbdc" label="Mixed Materials [31142063138211]" type="Box">2</container>
+            <container id="aspace_7983452ffe18d1950f7a83f864458614" parent="aspace_fb0ece10901935e241fdd50cc952cbdc" type="Folder">11</container>
+          </did>
+          <odd id="aspace_b003d16e691a937e01e6d33461fc35cd">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:32</p>
+          </odd>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>T-V</unittitle>
+            <unitdate datechar="creation" normal="1918/1920" type="inclusive">Oct 25, 1918-Mar 4, 1920</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_eb1d78cd56add41f6148c8ff55fa71dc" label="Mixed Materials [31142063138211]" type="Box">2</container>
+            <container id="aspace_60983f0f46b6b0d54d9cce30f708514c" parent="aspace_eb1d78cd56add41f6148c8ff55fa71dc" type="Folder">12</container>
+          </did>
+          <odd id="aspace_c88fbe8d0c6ba7ff6702cd5d83306374">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:33</p>
+          </odd>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>W</unittitle>
+            <unitdate datechar="creation" normal="1918/1919" type="inclusive">Sep 27, 1918-Apr 15, 1919</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ced5e5084703a95d413e38d5385830c1" label="Mixed Materials [31142063138211]" type="Box">2</container>
+            <container id="aspace_f9bcd37eb050b1d53cedda67fd594ad0" parent="aspace_ced5e5084703a95d413e38d5385830c1" type="Folder">13</container>
+          </did>
+          <odd id="aspace_0972b0bb5e9edee62e46eb3afc8f30ce">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:34</p>
+          </odd>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Z</unittitle>
+            <unitdate datechar="creation" normal="1918/1918">Nov 1, 1918-Dec 27, 1918</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_80eb7a5b8908f54334f141f1c878e091" label="Mixed Materials [31142063138211]" type="Box">2</container>
+            <container id="aspace_558122900bda8c7ab4f8451f8b76c7ad" parent="aspace_80eb7a5b8908f54334f141f1c878e091" type="Folder">14</container>
+          </did>
+          <odd id="aspace_96d14245236812e206e42cd871502d1c">
+            <head>General note</head>
+            <p>Film R-7124, Reel 11: Frame VII:35</p>
+          </odd>
+        </c>
+      </c>
+      <c id="aspace_ref92" level="series">
+        <did>
+          <unittitle>Series III. Fragile Originals</unittitle>
+        </did>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>Fragile Originals from Series I</unittitle>
+            <container altrender="Manuscript box - Legal" id="aspace_d755dada4513590d6d4234fbfa373ebf" label="Mixed Materials [31142063138211]" type="Box">2</container>
+            <container id="aspace_6d2e04bc0d83d0b9f05357ae784a9c4f" parent="aspace_d755dada4513590d6d4234fbfa373ebf" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>Fragile Originals from Series II</unittitle>
+            <container altrender="Manuscript box - Legal" id="aspace_da6737b4fe380b9e91cfc469c9cdf0d1" label="Mixed Materials [31142063138211]" type="Box">2</container>
+            <container id="aspace_991650993702d49ab9459a3389fd439f" parent="aspace_da6737b4fe380b9e91cfc469c9cdf0d1" type="Folder">16-17</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>
